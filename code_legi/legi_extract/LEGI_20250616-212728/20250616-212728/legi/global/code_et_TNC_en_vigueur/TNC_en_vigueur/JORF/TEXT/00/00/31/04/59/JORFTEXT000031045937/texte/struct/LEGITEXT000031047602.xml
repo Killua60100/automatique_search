@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTELR>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000031047602</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/struct/LEGI/TEXT/00/00/31/04/76/LEGITEXT000031047602.xml</URL>
+<NATURE>LOI</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000031045937</CID>
+<NUM>2015-993</NUM>
+<NUM_PARUTION>0189</NUM_PARUTION>
+<NUM_SEQUENCE>2</NUM_SEQUENCE>
+<NOR>JUSX1403244L</NOR>
+<DATE_PUBLI>2015-08-18</DATE_PUBLI>
+<DATE_TEXTE>2015-08-17</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2015-08-19</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0189 du 18 août 2015</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI>14331</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>14346</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+</META_SPEC>
+</META>
+<VERSIONS>
+<VERSION etat="">
+<LIEN_TXT debut="2999-01-01" fin="2999-01-01" id="JORFTEXT000031045937" num="2015-993"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_TXT debut="2015-08-19" fin="2999-01-01" id="LEGITEXT000031047602" num="2015-993"/>
+</VERSION>
+</VERSIONS>
+<STRUCT>
+<LIEN_SECTION_TA cid="JORFSCTA000031045938" debut="2015-08-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031047603" niv="1" url="/LEGI/SCTA/00/00/31/04/76/LEGISCTA000031047603.xml">Chapitre Ier : Dispositions tendant à transposer la décision-cadre 2009/948/JAI du Conseil, du 30 novembre 2009, relative à la prévention et au règlement des conflits en matière d'exercice de la compétence dans le cadre des procédures pénales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000031045939" debut="2015-08-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031047604" niv="1" url="/LEGI/SCTA/00/00/31/04/76/LEGISCTA000031047604.xml">Chapitre II : Dispositions tendant à transposer la décision-cadre 2009/829/JAI du Conseil, du 23 octobre 2009, concernant l'application, entre les Etats membres de l'Union européenne, du principe de reconnaissance mutuelle aux décisions relatives à des mesures de contrôle en tant qu'alternative à la détention provisoire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000031045940" debut="2015-08-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031047605" niv="1" url="/LEGI/SCTA/00/00/31/04/76/LEGISCTA000031047605.xml">Chapitre III : Dispositions tendant à transposer la décision-cadre 2008/947/JAI du Conseil, du 27 novembre 2008, concernant l'application du principe de reconnaissance mutuelle aux jugements et aux décisions de probation aux fins de la surveillance des mesures de probation et des peines de substitution</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000031045941" debut="2015-08-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031047606" niv="1" url="/LEGI/SCTA/00/00/31/04/76/LEGISCTA000031047606.xml">Chapitre IV : Dispositions tendant à transposer la directive 2011/99/UE du Parlement européen et du Conseil, du 13 décembre 2011, relative à la décision de protection européenne</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000031045942" debut="2015-08-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031047607" niv="1" url="/LEGI/SCTA/00/00/31/04/76/LEGISCTA000031047607.xml">Chapitre V : Dispositions tendant à transposer la directive 2012/29/UE du Parlement européen et du Conseil, du 22 octobre 2012, établissant des normes minimales concernant les droits, le soutien et la protection des victimes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000031045943" debut="2015-08-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031047608" niv="1" url="/LEGI/SCTA/00/00/31/04/76/LEGISCTA000031047608.xml">Chapitre VI : Dispositions diverses et de coordination</LIEN_SECTION_TA>
+</STRUCT>
+
+</TEXTELR>

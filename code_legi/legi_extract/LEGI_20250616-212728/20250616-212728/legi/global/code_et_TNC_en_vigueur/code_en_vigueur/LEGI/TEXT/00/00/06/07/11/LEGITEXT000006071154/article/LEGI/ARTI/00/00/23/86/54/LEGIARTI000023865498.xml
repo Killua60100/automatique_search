@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023865498</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/86/54/LEGIARTI000023865498.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-88-2</NUM>
+
+<ETAT>ABROGE</ETAT>
+
+<DATE_DEBUT>2011-06-01</DATE_DEBUT>
+<DATE_FIN>2012-02-18</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006167521">Section 3 : De la garde à vue</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2011-06-01" etat="ABROGE" fin="2012-02-18" id="LEGIARTI000023865498" num="706-88-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742309" num="706-88-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Dans sa décision n° 2011-223 QPC (NOR : CSCX1205185S) du 17 février 2012, le Conseil constitutionnel a déclaré contraire à la Constitution l'article 706-88-2 du code de procédure pénale. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision. </p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Si la personne est gardée à vue pour une infraction mentionnée au 11° de l'article 706-73, le juge des libertés et de la détention, saisi par le procureur de la République à la demande de l'officier de police judiciaire, ou le juge d'instruction lorsque la garde à vue intervient au cours d'une instruction, peut décider que la personne sera assistée par un avocat désigné par le bâtonnier sur une liste d'avocats habilités, établie par le bureau du Conseil national des barreaux sur propositions des conseils de l'ordre de chaque barreau. </p>
+<p>Les modalités d'application du premier alinéa sont définies par décret en Conseil d'Etat.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000023860729" datesignatexte="2011-04-14" id="LEGIARTI000023861893" naturetexte="LOI" nortexte="JUSX1022802L" num="16" numtexte="2011-392" sens="cible" typelien="CREE">LOI n°2011-392
+ du 14 avril 2011 - art. 16</LIEN>
+<LIEN cidtexte="JORFTEXT000024799337" datesignatexte="2011-11-14" id="LEGITEXT000024801504" naturetexte="DECRET" nortexte="JUSD1120145D" num="" numtexte="2011-1520" sens="cible" typelien="CITATION">Décret n°2011-1520 du 14 novembre 2011 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000025376989" datesignatexte="2012-02-17" id="JORFTEXT000025376989" naturetexte="DECISION" nortexte="CSCX1205185S" num="" numtexte="2011-223 QPC" sens="source" typelien="ABROGATION">Décision n°2011-223 QPC&#13;
+ du 17 février 2012, v. init.</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000025687446" datesignatexte="2012-04-13" id="LEGITEXT000025688990" naturetexte="DECRET" nortexte="JUSX1209704D" num="" numtexte="2012-476" sens="cible" typelien="CITATION">Décret n°2012-476
+ du 13 avril 2012 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000024803626" naturetexte="CODE" nortexte="" num="R53-40" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-40 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000024801776" naturetexte="CODE" nortexte="" num="R53-40-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-40-5 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

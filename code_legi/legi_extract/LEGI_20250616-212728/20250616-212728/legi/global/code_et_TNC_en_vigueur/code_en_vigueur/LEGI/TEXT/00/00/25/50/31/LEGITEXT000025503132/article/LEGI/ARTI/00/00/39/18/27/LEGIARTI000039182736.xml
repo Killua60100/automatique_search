@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000039182736</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/39/18/27/LEGIARTI000039182736.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L324-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2020-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508079">LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2020-01-01" id="LEGISCTA000025507989">TITRE II : JEUX DE HASARD, CASINOS, LOTERIES</TITRE_TM>
+<TITRE_TM debut="2020-01-01" fin="2999-01-01" id="LEGISCTA000039182522">TITRE II : JEUX D'ARGENT ET DE HASARD, CASINOS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507959">Chapitre IV : Dispositions pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2020-01-01" id="LEGISCTA000025507957">Section 1 : Jeux de hasard et casinos</TITRE_TM>
+<TITRE_TM debut="2020-01-01" fin="2999-01-01" id="LEGISCTA000039182749">Section 1 : Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2020-01-01" fin="2999-01-01" id="LEGISCTA000039170417">Sous-section 1 : Jeux d'argent et de hasard </TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2017-03-02" id="LEGIARTI000025505740" num="L324-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-03-02" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000034116009" num="L324-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182736" num="L324-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Sans préjudice des opérations autorisées en application de l'article L. 320-6, le fait d'accomplir ou de faire accomplir des opérations de jeux d'argent et de hasard en violation de l'article L. 320-1 est puni de trois ans d'emprisonnement et de 90 000 euros d'amende. Ces peines sont portées à sept ans d'emprisonnement et à 200 000 euros d'amende lorsque l'infraction est commise en bande organisée.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000512373" datesignatexte="1891-06-02" id="LEGIARTI000039182942" naturetexte="LOI" nortexte="" num="4" numtexte="" sens="cible" typelien="CITATION">Loi du 2 juin 1891 - art. 4 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000504703" datesignatexte="1983-07-12" id="LEGIARTI000022211753" naturetexte="LOI" nortexte="" num="1" numtexte="83-628" sens="source" typelien="CONCORDANCE">Loi n° 83-628 du 12 juillet 1983 - art. 1 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000022204510" datesignatexte="2010-05-12" id="LEGIARTI000045294008" naturetexte="LOI" nortexte="BCFX0904879L" num="12" numtexte="2010-476" sens="cible" typelien="CITATION">LOI n° 2010-476 du 12 mai 2010 - art. 12 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000022204510" datesignatexte="2010-05-12" id="LEGIARTI000039182872" naturetexte="LOI" nortexte="BCFX0904879L" num="14" numtexte="2010-476" sens="cible" typelien="CITATION">LOI n° 2010-476 du 12 mai 2010 - art. 14 (VD)</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000034103927" datesignatexte="2017-02-28" id="LEGIARTI000034108161" naturetexte="LOI" nortexte="ARCX1617470L" num="34" numtexte="2017-257" sens="cible" typelien="CITATION">LOI n°2017-257 du 28 février 2017 - art. 34 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103927" datesignatexte="2017-02-28" id="LEGIARTI000051200807" naturetexte="LOI" nortexte="ARCX1617470L" num="34" numtexte="2017-257" sens="cible" typelien="MODIFIE">LOI n°2017-257 du 28 février 2017 - art. 34 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000039167499" datesignatexte="2019-10-02" id="LEGIARTI000039167981" naturetexte="ORDONNANCE" nortexte="CPAB1915539R" num="10" numtexte="2019-1015" sens="cible" typelien="MODIFIE">Ordonnance n°2019-1015 du 2 octobre 2019 - art. 10</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000039182977" naturetexte="CODE" nortexte="" num="L123-11-3" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L123-11-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074067" datesignatexte="2999-01-01" id="LEGIARTI000047288847" naturetexte="CODE" nortexte="" num="L114-21" numtexte="" sens="cible" typelien="CITATION">Code de la mutualité - art. L114-21 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505692" naturetexte="CODE" nortexte="" num="L320-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L320-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039168206" naturetexte="CODE" nortexte="" num="L320-6" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L320-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039182569" naturetexte="CODE" nortexte="" num="L321-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L321-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039182557" naturetexte="CODE" nortexte="" num="L321-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L321-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039170470" naturetexte="CODE" nortexte="" num="L324-15" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L324-15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039182732" naturetexte="CODE" nortexte="" num="L324-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L324-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039182720" naturetexte="CODE" nortexte="" num="L324-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L324-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039182705" naturetexte="CODE" nortexte="" num="L324-4" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L324-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039182698" naturetexte="CODE" nortexte="" num="L324-5" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L324-5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505823" naturetexte="CODE" nortexte="" num="L344-4" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L344-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505834" naturetexte="CODE" nortexte="" num="L345-4" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L345-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039183408" naturetexte="CODE" nortexte="" num="L346-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L346-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000038614282" naturetexte="CODE" nortexte="" num="L931-7-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L931-7-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000044635646" naturetexte="CODE" nortexte="" num="R161-71" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. R161-71 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741942" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000039182949" naturetexte="CODE" nortexte="" num="L322-2" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. L322-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000050371089" naturetexte="CODE" nortexte="" num="L500-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L500-1 (VD)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe</LIEN>
+</LIENS>
+</ARTICLE>

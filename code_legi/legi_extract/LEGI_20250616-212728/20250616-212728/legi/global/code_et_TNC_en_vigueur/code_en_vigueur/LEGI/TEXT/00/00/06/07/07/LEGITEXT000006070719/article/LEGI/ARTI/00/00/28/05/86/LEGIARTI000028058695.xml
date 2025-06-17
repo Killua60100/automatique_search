@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000028058695</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/28/05/86/LEGIARTI000028058695.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>131-26-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2013-10-13</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117596">Livre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136038">Titre III : Des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149819">Chapitre Ier : De la nature des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006165264">Section 1 : Des peines applicables aux personnes physiques</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006181731">Sous-section 5 : Du contenu et des modalités d'application de certaines peines</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2013-10-13" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028058695" num="131-26-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<div align="left">Dans les cas prévus par la loi et par dérogation au septième alinéa de l'article 131-26, la peine d'inéligibilité mentionnée au 2° du même article peut être prononcée pour une durée de dix ans au plus à l'encontre d'une personne exerçant une fonction de membre du Gouvernement ou un mandat électif public au moment des faits.</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000504704" datesignatexte="1983-07-13" id="LEGIARTI000032435998" naturetexte="LOI" nortexte="" num="25 sexies" numtexte="83-634" sens="cible" typelien="CITATION">Loi n° 83-634 du 13 juillet 1983 - art. 25 sexies (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000726191" datesignatexte="1993-01-07" id="LEGIARTI000049855232" naturetexte="DECRET" nortexte="JUSB9210428D" num="Annexe 1" numtexte="93-21" sens="cible" typelien="CITATION">Décret n°93-21 du 7 janvier 1993 - art. Annexe 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000028056315" datesignatexte="2013-10-11" id="LEGIARTI000028057479" naturetexte="LOI" nortexte="PRMX1309699L" num="27" numtexte="2013-907" sens="cible" typelien="CREE">LOI n°2013-907
+ du 11 octobre 2013 - art. 27</LIEN>
+
+<LIEN cidtexte="JORFTEXT000028386947" datesignatexte="2013-12-23" id="LEGIARTI000032524839" naturetexte="DECRET" nortexte="PRMX1327923D" num="Annexe 2" numtexte="2013-1212" sens="cible" typelien="CITATION">Décret n°2013-1212 du 23 décembre 2013 - art. Annexe 2 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000032433852" datesignatexte="2016-04-20" id="LEGIARTI000032435458" naturetexte="LOI" nortexte="RDFX1314513L" num="12" numtexte="2016-483" sens="cible" typelien="CITATION">LOI n°2016-483 du 20 avril 2016 - art. 12</LIEN>
+<LIEN cidtexte="JORFTEXT000032433852" datesignatexte="2016-04-20" id="LEGIARTI000032435460" naturetexte="LOI" nortexte="RDFX1314513L" num="13" numtexte="2016-483" sens="cible" typelien="CITATION">LOI n°2016-483 du 20 avril 2016 - art. 13</LIEN>
+<LIEN cidtexte="JORFTEXT000032433852" datesignatexte="2016-04-20" id="LEGIARTI000032435466" naturetexte="LOI" nortexte="RDFX1314513L" num="15" numtexte="2016-483" sens="cible" typelien="CITATION">LOI n°2016-483 du 20 avril 2016 - art. 15</LIEN>
+<LIEN cidtexte="JORFTEXT000032433852" datesignatexte="2016-04-20" id="LEGIARTI000032435468" naturetexte="LOI" nortexte="RDFX1314513L" num="16" numtexte="2016-483" sens="cible" typelien="CITATION">LOI n°2016-483 du 20 avril 2016 - art. 16</LIEN>
+<LIEN cidtexte="JORFTEXT000032433852" datesignatexte="2016-04-20" id="LEGIARTI000032435302" naturetexte="LOI" nortexte="RDFX1314513L" num="5" numtexte="2016-483" sens="cible" typelien="CITATION">LOI n°2016-483 du 20 avril 2016 - art. 5</LIEN>
+
+<LIEN cidtexte="JORFTEXT000034567260" datesignatexte="2017-05-02" id="LEGIARTI000034576771" naturetexte="DECRET" nortexte="JUSB1707792D" num="" numtexte="2017-713" sens="cible" typelien="CITATION">Décret n°2017-713 du 2 mai 2017 - art.</LIEN>
+<LIEN cidtexte="JORFTEXT000034567260" datesignatexte="2017-05-02" id="LEGIARTI000034576773" naturetexte="DECRET" nortexte="JUSB1707792D" num="" numtexte="2017-713" sens="cible" typelien="CITATION">Décret n°2017-713 du 2 mai 2017 - art.</LIEN>
+<LIEN cidtexte="LEGITEXT000044416551" datesignatexte="2999-01-01" id="LEGIARTI000044427837" naturetexte="CODE" nortexte="" num="L122-20" numtexte="" sens="cible" typelien="CITATION">Code général de la fonction publique - art. L122-20 (V)</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000033439158" naturetexte="CODE" nortexte="" num="L722-21" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L722-21 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000032436607" naturetexte="CODE" nortexte="" num="L131-8" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. L131-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000032436678" naturetexte="CODE" nortexte="" num="L231-4-2" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. L231-4-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000032435816" naturetexte="CODE" nortexte="" num="L4122-9" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L4122-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043203536" naturetexte="CODE" nortexte="" num="775" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 775 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044191433" naturetexte="CODE" nortexte="" num="776" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 776 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070249" datesignatexte="2999-01-01" id="LEGIARTI000032436919" naturetexte="CODE" nortexte="" num="L120-10" numtexte="" sens="cible" typelien="CITATION">Code des juridictions financières - art. L120-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070249" datesignatexte="2999-01-01" id="LEGIARTI000033262571" naturetexte="CODE" nortexte="" num="L120-11" numtexte="" sens="cible" typelien="CITATION">Code des juridictions financières - art. L120-11 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070249" datesignatexte="2999-01-01" id="LEGIARTI000032437042" naturetexte="CODE" nortexte="" num="L220-7" numtexte="" sens="cible" typelien="CITATION">Code des juridictions financières - art. L220-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070249" datesignatexte="2999-01-01" id="LEGIARTI000033263312" naturetexte="CODE" nortexte="" num="L220-9" numtexte="" sens="cible" typelien="CITATION">Code des juridictions financières - art. L220-9 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000048434450" naturetexte="CODE" nortexte="" num="L1421-3" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L1421-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000051742509" naturetexte="CODE" nortexte="" num="1741" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1741 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417290" naturetexte="CODE" nortexte="" num="131-26" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-26</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051741809" naturetexte="CODE" nortexte="" num="131-26-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-26-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000028059972" naturetexte="CODE" nortexte="" num="L117" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. L117 (V)</LIEN>
+</LIENS>
+</ARTICLE>

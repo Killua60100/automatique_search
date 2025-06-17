@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051736821</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/68/LEGIARTI000051736821.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000051734927" date_publi="2025-06-14" date_signature="2025-06-13" ministere="" nature="LOI" nor="MOMX2508274L" num="2025-534" num_parution_jo="0137">
+<TITRE_TXT c_titre_court="LOI n°2025-534 du 13 juin 2025" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000051734927">LOI n° 2025-534 du 13 juin 2025 expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2025-534 du 13 juin 2025" debut="2025-06-15" fin="2999-01-01" id_txt="LEGITEXT000051736818">LOI n° 2025-534 du 13 juin 2025 expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (1)</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051736821" num="3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000051734930" num="3" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les conséquences financières résultant pour l'Etat de la présente loi sont compensées, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre I <sup>er </sup>du livre III du code des impositions sur les biens et services.<br/>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGISCTA000044598767" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des impositions sur les biens et services -  Chapitre IV : TABACS (V)</LIEN>
+</LIENS>
+</ARTICLE>

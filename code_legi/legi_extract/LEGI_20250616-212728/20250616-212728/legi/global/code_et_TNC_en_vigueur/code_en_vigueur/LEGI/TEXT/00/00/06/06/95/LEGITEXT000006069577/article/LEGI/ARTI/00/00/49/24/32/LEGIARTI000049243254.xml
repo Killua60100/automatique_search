@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049243254</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/24/32/LEGIARTI000049243254.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1744</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1950-04-30</DATE_DEBUT>
+<DATE_FIN>1954-08-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006069577" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des impôts, CGI." debut="1952-02-14" fin="2999-01-01" id_txt="LEGITEXT000006069577">Code général des impôts</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1969-12-27" fin="2999-01-01" id="LEGISCTA000006084265">Livre II : Recouvrement de l'impôt</TITRE_TM>
+<TM>
+<TITRE_TM debut="1977-12-30" fin="2999-01-01" id="LEGISCTA000006114518">Chapitre II : Pénalités</TITRE_TM>
+<TM>
+<TITRE_TM debut="1977-12-31" fin="2999-01-01" id="LEGISCTA000006133936">Section I : Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-01-01" fin="2999-01-01" id="LEGISCTA000006147294">C : Sanctions pénales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1950-04-30" etat="MODIFIE" fin="1954-08-15" id="LEGIARTI000049243254" num="1744" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1954-08-15" etat="MODIFIE" fin="1979-07-01" id="LEGIARTI000049624803" num="1744" origine="LEGI"/>
+</VERSION>
+<VERSION etat="TRANSFERE">
+<LIEN_ART debut="1979-07-01" etat="TRANSFERE" fin="1982-01-01" id="LEGIARTI000006312998" num="1744" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2023-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048838741" num="1744" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Toute personne, association ou organisme qui n'a pas effectué dans les délais prescrits le versement des retenues opérées au titre de la taxe proportionnelle (art. 1669 et 1671) ou n'a effectué que des versements insuffisants est passible, si le retard excède un mois, en sus de l’amende fiscale instituée par le paragraphe 1 de l’article 1740, d’une amende pénale de 120.000 F à 1.200.000 F et d'un emprisonnement d'un an au moins et de cinq ans au plus.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000496040" datesignatexte="1950-04-06" id="LEGIARTI000047498856" naturetexte="DECRET" nortexte="" num="Annexe" numtexte="50-478" sens="source" typelien="CREATION">Décret n° 50-478 du 6 avril 1950 - art. Annexe</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742218" naturetexte="CODE" nortexte="" num="28-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048838748" naturetexte="CODE" nortexte="" num="28-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-2 (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDE">Livre des procédures fiscales - art. L. 233</LIEN>
+</LIENS>
+</ARTICLE>

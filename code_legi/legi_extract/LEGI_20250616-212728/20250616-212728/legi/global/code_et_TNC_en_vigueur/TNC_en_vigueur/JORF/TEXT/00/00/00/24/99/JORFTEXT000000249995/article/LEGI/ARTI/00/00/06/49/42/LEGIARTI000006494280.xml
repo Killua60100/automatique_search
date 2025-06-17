@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006494280</ID>
+<ANCIEN_ID>PJEFPXXXXXX014AAXXXXXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/49/42/LEGIARTI000006494280.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>14</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000249995" date_publi="2004-03-10" date_signature="2004-03-09" ministere="" nature="LOI" nor="JUSX0300028L" num="2004-204" num_parution_jo="0059">
+<TITRE_TXT c_titre_court="LOI n° 2004-204 du 9 mars 2004" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000249995">LOI n° 2004-204 du 9 mars 2004 portant adaptation de la justice aux évolutions de la criminalité (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 2004-204 du 9 mars 2004" debut="2004-03-10" fin="2999-01-01" id_txt="LEGITEXT000005765479">Loi n° 2004-204 du 9 mars 2004 portant adaptation de la justice aux évolutions de la criminalité (1).</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2999-01-01" id="LEGISCTA000006094171">TITRE Ier : DISPOSITIONS RELATIVES A LA LUTTE CONTRE LES FORMES NOUVELLES DE DELINQUANCE ET DE CRIMINALITE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="LEGISCTA000006119571">CHAPITRE Ier : Dispositions concernant la lutte contre la délinquance et la criminalité organisées</TITRE_TM>
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="LEGISCTA000006136950">Section 3 : Dispositions diverses.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000006494280" num="14" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>a modifié les dispositions suivantes<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000517521" datesignatexte="1945-02-02" id="LEGIARTI000006495251" naturetexte="ORDONNANCE" nortexte="" num="4" numtexte="45-174" sens="cible" typelien="MODIFICATION">Ordonnance n°45-174 du 2 février 1945 - art. 4 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575088" naturetexte="CODE" nortexte="" num="63-4" numtexte="" sens="cible" typelien="MODIFICATION">CODE DE PROCEDURE PENALE - art. 63-4 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577598" naturetexte="CODE" nortexte="" num="706-23" numtexte="" sens="cible" typelien="ABROGATION">CODE DE PROCEDURE PENALE - art. 706-23 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577604" naturetexte="CODE" nortexte="" num="706-24" numtexte="" sens="cible" typelien="ABROGATION">CODE DE PROCEDURE PENALE - art. 706-24 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577616" naturetexte="CODE" nortexte="" num="706-24-1" numtexte="" sens="cible" typelien="ABROGATION">CODE DE PROCEDURE PENALE - art. 706-24-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577617" naturetexte="CODE" nortexte="" num="706-24-2" numtexte="" sens="cible" typelien="ABROGATION">CODE DE PROCEDURE PENALE - art. 706-24-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577622" naturetexte="CODE" nortexte="" num="706-26" numtexte="" sens="cible" typelien="MODIFICATION">CODE DE PROCEDURE PENALE - art. 706-26 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577629" naturetexte="CODE" nortexte="" num="706-28" numtexte="" sens="cible" typelien="MODIFICATION">CODE DE PROCEDURE PENALE - art. 706-28 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577631" naturetexte="CODE" nortexte="" num="706-29" numtexte="" sens="cible" typelien="ABROGATION">CODE DE PROCEDURE PENALE - art. 706-29 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577635" naturetexte="CODE" nortexte="" num="706-30" numtexte="" sens="cible" typelien="ABROGATION">CODE DE PROCEDURE PENALE - art. 706-30 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577641" naturetexte="CODE" nortexte="" num="706-32" numtexte="" sens="cible" typelien="ABROGATION">CODE DE PROCEDURE PENALE - art. 706-32 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577668" naturetexte="CODE" nortexte="" num="706-36-1" numtexte="" sens="cible" typelien="ABROGATION">CODE DE PROCEDURE PENALE - art. 706-36-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575125" naturetexte="CODE" nortexte="" num="76" numtexte="" sens="cible" typelien="MODIFICATION">CODE DE PROCEDURE PENALE - art. 76 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575127" naturetexte="CODE" nortexte="" num="76-1" numtexte="" sens="cible" typelien="ABROGATION">CODE DE PROCEDURE PENALE - art. 76-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575221" naturetexte="CODE" nortexte="" num="85" numtexte="" sens="cible" typelien="MODIFICATION">CODE DE PROCEDURE PENALE - art. 85 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006578731" naturetexte="CODE" nortexte="" num="865" numtexte="" sens="cible" typelien="MODIFICATION">CODE DE PROCEDURE PENALE - art. 865 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006578737" naturetexte="CODE" nortexte="" num="866" numtexte="" sens="cible" typelien="MODIFICATION">CODE DE PROCEDURE PENALE - art. 866 (V)</LIEN>
+</LIENS>
+</ARTICLE>

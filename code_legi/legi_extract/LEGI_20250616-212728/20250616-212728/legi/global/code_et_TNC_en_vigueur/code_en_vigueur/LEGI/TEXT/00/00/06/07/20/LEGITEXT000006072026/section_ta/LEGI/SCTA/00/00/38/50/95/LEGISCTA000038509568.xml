@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000038509568</ID>
+<TITRE_TA>Chapitre X : Prestataires de services sur actifs numériques </TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2019-05-24" etat="MODIFIE" fin="2024-10-18" id="LEGIARTI000038509570" num="L54-10-1" origine="LEGI"/>
+<LIEN_ART debut="2024-10-18" etat="ABROGE_DIFF" fin="2026-07-01" id="LEGIARTI000050370402" num="L54-10-1" origine="LEGI"/>
+<LIEN_ART debut="2026-07-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000050371231" num="L54-10-1" origine="LEGI"/>
+<LIEN_ART debut="2019-05-24" etat="MODIFIE" fin="2024-10-18" id="LEGIARTI000038509572" num="L54-10-2" origine="LEGI"/>
+<LIEN_ART debut="2024-10-18" etat="ABROGE_DIFF" fin="2026-07-01" id="LEGIARTI000050370398" num="L54-10-2" origine="LEGI"/>
+<LIEN_ART debut="2019-05-24" etat="MODIFIE" fin="2020-12-11" id="LEGIARTI000038509574" num="L54-10-3" origine="LEGI"/>
+<LIEN_ART debut="2020-12-11" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000042648495" num="L54-10-3" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="MODIFIE" fin="2024-10-18" id="LEGIARTI000047290250" num="L54-10-3" origine="LEGI"/>
+<LIEN_ART debut="2024-10-18" etat="ABROGE_DIFF" fin="2026-07-01" id="LEGIARTI000050370390" num="L54-10-3" origine="LEGI"/>
+<LIEN_ART debut="2019-05-24" etat="MODIFIE" fin="2020-12-11" id="LEGIARTI000038509576" num="L54-10-4" origine="LEGI"/>
+<LIEN_ART debut="2020-12-11" etat="MODIFIE" fin="2024-10-18" id="LEGIARTI000042648498" num="L54-10-4" origine="LEGI"/>
+<LIEN_ART debut="2024-10-18" etat="ABROGE_DIFF" fin="2026-07-01" id="LEGIARTI000050370385" num="L54-10-4" origine="LEGI"/>
+<LIEN_ART debut="2026-07-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000050371315" num="L54-10-4" origine="LEGI"/>
+<LIEN_ART debut="2019-05-24" etat="MODIFIE" fin="2020-12-11" id="LEGIARTI000038509578" num="L54-10-5" origine="LEGI"/>
+<LIEN_ART debut="2020-12-11" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000042648501" num="L54-10-5" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="MODIFIE" fin="2024-10-18" id="LEGIARTI000047290243" num="L54-10-5" origine="LEGI"/>
+<LIEN_ART debut="2024-10-18" etat="ABROGE_DIFF" fin="2026-07-01" id="LEGIARTI000050370378" num="L54-10-5" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="ABROGE_DIFF" fin="2026-07-01" id="LEGIARTI000047286960" num="L54-10-6" origine="LEGI"/>
+<LIEN_ART debut="2024-10-18" etat="MODIFIE" fin="2025-05-03" id="LEGIARTI000050358361" num="L54-10-7" origine="LEGI"/>
+<LIEN_ART debut="2025-05-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051556869" num="L54-10-7" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006123943">Livre V : Les prestataires de services</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-08-02" fin="2999-01-01" id="LEGISCTA000006140127">Titre IV : Autres prestataires de services</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

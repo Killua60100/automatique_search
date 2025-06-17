@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000038452895</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/38/45/28/LEGIARTI000038452895.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>8</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2019-05-09</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000713756" date_publi="1994-07-16" date_signature="1994-07-15" ministere="" nature="LOI" nor="DEFX9400020L" num="94-589" num_parution_jo="0163">
+<TITRE_TXT c_titre_court="LOI n° 94-589 du 15 juillet 1994" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000713756">LOI n° 94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de contrôle en mer (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2019-05-09" fin="2999-01-01" id_txt="LEGITEXT000038452858">Loi n° 94-589 du 15 juillet 1994 relative à l'exercice par l'Etat de ses pouvoirs de police en mer pour la lutte contre certaines infractions relevant de conventions internationales</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 94-589 du 15 juillet 1994" debut="2011-01-07" fin="2019-05-09" id_txt="LEGITEXT000023386330">Loi n° 94-589 du 15 juillet 1994 relative à la lutte contre la piraterie et aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2005-04-23" fin="2011-01-07" id_txt="LEGITEXT000005616201">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="1994-07-16" fin="2005-04-23" id_txt="LEGITEXT000005616200">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-07-16" etat="MODIFIE" fin="1996-04-30" id="LEGIARTI000006404476" num="8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1996-04-30" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006404477" num="8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2002-01-01" etat="ABROGE" fin="2004-12-21" id="LEGIARTI000006404478" num="8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-05-09" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038452895" num="8" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les commandants des bâtiments de l'Etat et les commandants de bord des aéronefs de l'Etat peuvent ordonner le déroutement du navire vers une position ou un port appropriés pour procéder à des investigations ne pouvant être menées dans la zone de l'interception ou pour remettre aux autorités compétentes le navire, les personnes appréhendées ou les objets, produits ou documents saisis.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000038452922" naturetexte="LOI" nortexte="DEFX9400020L" num="3" numtexte="94-589" sens="source" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000038452914" naturetexte="LOI" nortexte="DEFX9400020L" num="4" numtexte="94-589" sens="source" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000038452910" naturetexte="LOI" nortexte="DEFX9400020L" num="5" numtexte="94-589" sens="source" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 5 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000038452892" naturetexte="LOI" nortexte="DEFX9400020L" num="9" numtexte="94-589" sens="cible" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 9 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000038449444" datesignatexte="2019-05-07" id="LEGIARTI000038450016" naturetexte="ORDONNANCE" nortexte="ARMD1908796R" num="2" numtexte="2019-414" sens="cible" typelien="MODIFIE">Ordonnance n°2019-414 du 7 mai 2019 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539750" naturetexte="CODE" nortexte="" num="L1521-9" numtexte="" sens="cible" typelien="CONCORDANCE">Code de la défense. - art. L1521-9 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539749" naturetexte="CODE" nortexte="" num="L1521-9" numtexte="" sens="source" typelien="CONCORDE">Code de la défense. - art. L1521-9 (M)</LIEN>
+</LIENS>
+</ARTICLE>

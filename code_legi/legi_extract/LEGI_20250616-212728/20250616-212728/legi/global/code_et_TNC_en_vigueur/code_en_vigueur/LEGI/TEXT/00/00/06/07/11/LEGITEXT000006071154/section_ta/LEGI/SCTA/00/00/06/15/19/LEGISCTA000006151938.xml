@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006151938</ID>
+<TITRE_TA>Chapitre II : Procédure</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167519" debut="2004-10-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006167519" niv="5" url="/LEGI/SCTA/00/00/06/16/75/LEGISCTA000006167519.xml">Section 1 : De la surveillance</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167520" debut="2004-10-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006167520" niv="5" url="/LEGI/SCTA/00/00/06/16/75/LEGISCTA000006167520.xml">Section 2 : De l'infiltration</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000029756828" debut="2014-11-15" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000029756828" niv="5" url="/LEGI/SCTA/00/00/29/75/68/LEGISCTA000029756828.xml">Section 2 bis : De l'enquête sous pseudonyme</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167521" debut="2004-10-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006167521" niv="5" url="/LEGI/SCTA/00/00/06/16/75/LEGISCTA000006167521.xml">Section 3 : De la garde à vue</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167522" debut="2004-10-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006167522" niv="5" url="/LEGI/SCTA/00/00/06/16/75/LEGISCTA000006167522.xml">Section 4 : Des perquisitions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167523" debut="2004-10-01" etat="MODIFIE" fin="2016-06-05" id="LEGISCTA000006167523" niv="5" url="/LEGI/SCTA/00/00/06/16/75/LEGISCTA000006167523.xml">Section 5 : Des interceptions de correspondances émises par la voie des télécommunications</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167523" debut="2016-06-05" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000032653938" niv="5" url="/LEGI/SCTA/00/00/32/65/39/LEGISCTA000032653938.xml">Section 5 : Des interceptions de correspondances émises par la voie des communications électroniques et du recueil des données techniques de connexion</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167523" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000038311673" niv="5" url="/LEGI/SCTA/00/00/38/31/16/LEGISCTA000038311673.xml">Section 5 : De l'accès à distance aux correspondances stockées par la voie des communications électroniques accessibles au moyen d'un identifiant informatique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167524" debut="2004-10-01" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000006167524" niv="5" url="/LEGI/SCTA/00/00/06/16/75/LEGISCTA000006167524.xml">Section 6 : Des sonorisations et des fixations d'images de certains lieux ou véhicules</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167524" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000038311671" niv="5" url="/LEGI/SCTA/00/00/38/31/16/LEGISCTA000038311671.xml">Section 6 : Des autres techniques spéciales d'enquête</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000023712495" debut="2011-03-16" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000023712495" niv="5" url="/LEGI/SCTA/00/00/23/71/24/LEGISCTA000023712495.xml">Section 6 bis : De la captation des données informatiques &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167525" debut="2004-10-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006167525" niv="5" url="/LEGI/SCTA/00/00/06/16/75/LEGISCTA000006167525.xml">Section 7 : Des mesures conservatoires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167526" debut="2004-10-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006167526" niv="5" url="/LEGI/SCTA/00/00/06/16/75/LEGISCTA000006167526.xml">Section 8 : Dispositions communes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032632229" debut="2016-06-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032632255" niv="5" url="/LEGI/SCTA/00/00/32/63/22/LEGISCTA000032632255.xml">Section 9 : Dispositions spécifiques à certaines infractions</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

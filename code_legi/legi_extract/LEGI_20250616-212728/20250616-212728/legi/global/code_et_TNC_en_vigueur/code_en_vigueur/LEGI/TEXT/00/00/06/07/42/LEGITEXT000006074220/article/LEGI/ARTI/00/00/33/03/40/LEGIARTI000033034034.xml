@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000033034034</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/33/03/40/LEGIARTI000033034034.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L333-3</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2016-08-10</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074220" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'environnement" debut="2000-09-21" fin="2999-01-01" id_txt="LEGITEXT000006074220">Code de l'environnement</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006108630">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006129024">Livre III : Espaces naturels</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006143741">Titre III : Parcs et réserves</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006159241">Chapitre III : Parcs naturels régionaux</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2006-04-15" id="LEGIARTI000006833642" num="L333-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-04-15" etat="MODIFIE" fin="2016-08-10" id="LEGIARTI000006833643" num="L333-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033034034" num="L333-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I. – L'aménagement et la gestion des parcs naturels régionaux sont confiés à un syndicat mixte au sens du titre II du livre VII de la cinquième partie du code général des collectivités territoriales.</p>
+<p>Le syndicat mixte d'aménagement et de gestion du parc représente, sur le territoire du parc, un partenaire privilégié de l'Etat, des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre concernés dans le domaine de la biodiversité et des paysages.</p>
+<p>Dans les domaines d'intervention d'un parc naturel régional, dans le cadre fixé par la charte du parc et sur le territoire des communes classées, le syndicat mixte d'aménagement et de gestion du parc assure la cohérence des engagements des collectivités territoriales, des établissements publics de coopération intercommunale à fiscalité propre concernés et de l'Etat et en coordonne tant la mise en œuvre, notamment par une programmation financière pluriannuelle, que l'évaluation de cette mise en œuvre et le suivi de l'évolution du territoire. Le syndicat peut, dans le cadre de cette coordination, présenter des propositions d'harmonisation des schémas de cohérence territoriale.</p>
+<p>Le syndicat mixte d'aménagement et de gestion du parc peut se voir confier par la région tout ou partie de la procédure de renouvellement du classement.</p>
+<p>II. – Les articles L. 5211-12, à l'exception de son premier alinéa, L. 5211-13 et L. 5211-14 du même code sont applicables aux membres, représentant les collectivités territoriales ou leurs groupements, du comité du syndicat mixte.</p>
+<p>III. – Les indemnités maximales votées par le comité du syndicat mixte pour l'exercice effectif des fonctions de président et de vice-président sont déterminées par un décret par référence à la superficie du territoire classé et au montant du traitement correspondant à l'indice brut terminal de l'échelle indiciaire de la fonction publique.</p>
+<p>Ces indemnités ne sont applicables qu'aux présidents et vice-présidents, ayant la qualité d'élus locaux, désignés parmi les membres visés au II.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code rural L244-2</LIEN>
+<LIEN cidtexte="JORFTEXT000000401865" datesignatexte="2000-09-18" id="JORFTEXT000000401865" naturetexte="ORDONNANCE" nortexte="ATEX0000087R" num="" numtexte="2000-914" sens="source" typelien="CODIFICATION">Ordonnance n° 2000-914 du 18 septembre 2000</LIEN>
+<LIEN cidtexte="JORFTEXT000000422094" datesignatexte="2003-07-02" id="JORFTEXT000000422094" naturetexte="LOI" nortexte="FPPX0300014L" num="" numtexte="2003-591" sens="source" typelien="CODIFICATION">LOI n° 2003-591 du 2 juillet 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000033016237" datesignatexte="2016-08-08" id="LEGIARTI000033018648" naturetexte="LOI" nortexte="DEVL1400720L" num="49" numtexte="2016-1087" sens="cible" typelien="MODIFIE">LOI n°2016-1087 du 8 août 2016 - art. 49</LIEN>
+<LIEN cidtexte="JORFTEXT000035168256" datesignatexte="2017-07-10" id="LEGITEXT000035169957" naturetexte="DECRET" nortexte="TREX1710889D" num="" numtexte="2017-1156" sens="cible" typelien="CITATION">Décret n°2017-1156 du 10 juillet 2017 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006392815" naturetexte="CODE" nortexte="" num="L5211-12" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales - art. L5211-12</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006392825" naturetexte="CODE" nortexte="" num="L5211-13" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales - art. L5211-13</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000025201151" naturetexte="CODE" nortexte="" num="D333-15-1" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. D333-15-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834863" naturetexte="CODE" nortexte="" num="L653-1" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L653-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000035172188" naturetexte="CODE" nortexte="" num="R333-2" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. R333-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000035172212" naturetexte="CODE" nortexte="" num="R333-5" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. R333-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070299" datesignatexte="2999-01-01" id="LEGIARTI000051740511" naturetexte="CODE" nortexte="" num="L2222-9" numtexte="" sens="cible" typelien="CITATION">Code général de la propriété des personnes publ... - art. L2222-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006582980" naturetexte="CODE" nortexte="" num="L244-2" numtexte="" sens="cible" typelien="CONCORDE">Code rural - art. L244-2 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

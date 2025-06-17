@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051740362</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/03/LEGIARTI000051740362.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-75-3</NUM>
+
+<ETAT>VIGUEUR_DIFF</ETAT>
+
+<DATE_DEBUT>2026-01-05</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151937">Chapitre Ier : Compétence des juridictions spécialisées</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2026-01-05" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051740362" num="706-75-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément au B du XII de l'article 64 de la loi n° 2025-532 du 13 juin 2025, ces dispositions entrent en vigueur le 5 janvier 2026.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Par dérogation à l'article 712-10, les décisions concernant les personnes condamnées pour une infraction entrant dans le champ d'application de l'article 706-73, à l'exception des 11°, 11° bis et 18°, de l'article 706-73-1, à l'exception du 11°, et de l'article 706-74 relèvent de la compétence du juge de l'application des peines du tribunal judiciaire de Paris, du tribunal de l'application des peines de Paris et de la chambre de l'application des peines de la cour d'appel de Paris : </p>
+<p>1° De manière exclusive, lorsque ces personnes ont été condamnées par les juridictions de jugement de Paris statuant en application de l'article 706-74-2, quel que soit le lieu de détention ou de résidence des condamnés ; </p>
+<p>2° De manière concurrente, lorsque ces personnes ont été condamnées dans des procédures pour lesquelles n'a pas été exercée la compétence prévue au même article 706-74-2. <br/>Ces décisions sont prises après avis du juge de l'application des peines compétent en application de l'article 712-10. </p>
+<p>Pour l'exercice de leurs attributions, les magistrats des juridictions mentionnées au premier alinéa du présent article peuvent se déplacer sur l'ensemble du territoire national, sans préjudice de l'application de l'article 706-71 sur l'utilisation de moyens de télécommunication. </p>
+<p>Le ministère public auprès des juridictions du premier degré de Paris compétentes en application du présent article est représenté par le procureur de la République anti-criminalité organisée en personne ou par ses substituts.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736674" naturetexte="LOI" nortexte="JUSX2430702L" num="30" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 30</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577767" naturetexte="CODE" nortexte="" num="706-71" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-71</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741942" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741929" naturetexte="CODE" nortexte="" num="706-74" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-74 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051737016" naturetexte="CODE" nortexte="" num="706-74-2" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-74-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577890" naturetexte="CODE" nortexte="" num="712-10" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 712-10</LIEN>
+</LIENS>
+</ARTICLE>

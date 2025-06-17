@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417505</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X132L78AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/75/LEGIARTI000006417505.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>132-78</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2004-03-10</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117596">Livre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136038">Titre III : Des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149820">Chapitre II : Du régime des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2999-01-01" id="LEGISCTA000006165269">Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006417505" num="132-78" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742458" num="132-78" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La personne qui a tenté de commettre un crime ou un délit est, dans les cas prévus par la loi, exempte de peine si, ayant averti l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et, le cas échéant, d'identifier les autres auteurs ou complices.<br/>
+<br/>   Dans les cas prévus par la loi, la durée de la peine privative de liberté encourue par une personne ayant commis un crime ou un délit est réduite si, ayant averti l'autorité administrative ou judiciaire, elle a permis de faire cesser l'infraction, d'éviter que l'infraction ne produise un dommage ou d'identifier les autres auteurs ou complices.<br/>
+<br/>   Les dispositions de l'alinéa précédent sont également applicables lorsque la personne a permis soit d'éviter la réalisation d'une infraction connexe de même nature que le crime ou le délit pour lequel elle était poursuivie, soit de faire cesser une telle infraction, d'éviter qu'elle ne produise un dommage ou d'en identifier les auteurs ou complices.<br/>
+<br/>   Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations émanant de personnes ayant fait l'objet des dispositions du présent article.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000359434" datesignatexte="1992-07-22" id="JORFTEXT000000359434" naturetexte="LOI" nortexte="JUSX8900136L" num="" numtexte="92-683" sens="source" typelien="CODIFICATION">Loi 92-683 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000249995" datesignatexte="2004-03-09" id="LEGIARTI000006494278" naturetexte="LOI" nortexte="JUSX0300028L" num="12" numtexte="2004-204" sens="source" typelien="CREATION">Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000028745334" datesignatexte="2014-03-17" id="LEGITEXT000033543291" naturetexte="DECRET" nortexte="JUSD1323252D" num="" numtexte="2014-346" sens="cible" typelien="CITATION">Décret n°2014-346 du 17 mars 2014 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000050665656" naturetexte="CODE" nortexte="" num="179" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 179 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000050665631" naturetexte="CODE" nortexte="" num="181" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 181 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032655527" naturetexte="CODE" nortexte="" num="215" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 215 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742546" naturetexte="CODE" nortexte="" num="706-63-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-63-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739253" naturetexte="CODE" nortexte="" num="706-63-1 D" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-63-1 D (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739257" naturetexte="CODE" nortexte="" num="706-63-1 F" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-63-1 F (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000051739191" naturetexte="CODE" nortexte="" num="L465-3-7" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L465-3-7 (V)</LIEN>
+</LIENS>
+</ARTICLE>

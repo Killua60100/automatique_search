@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000027753875</ID>
+<TITRE_TA>Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138088" debut="1958-04-08" etat="MODIFIE" fin="2013-07-27" id="LEGISCTA000006138088" niv="3" url="/LEGI/SCTA/00/00/06/13/80/LEGISCTA000006138088.xml">Titre Ier : Des autorités chargées de l'action publique et de l'instruction</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138088" debut="2013-07-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027753873" niv="3" url="/LEGI/SCTA/00/00/27/75/38/LEGISCTA000027753873.xml">Titre Ier : Des autorités chargées  de la conduite de la politique pénale, de l'action publique et de l'instruction</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138089" debut="1958-04-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138089" niv="3" url="/LEGI/SCTA/00/00/06/13/80/LEGISCTA000006138089.xml">Titre II : Des enquêtes et des contrôles d'identité</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138090" debut="1958-04-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138090" niv="3" url="/LEGI/SCTA/00/00/06/13/80/LEGISCTA000006138090.xml">Titre III : Des juridictions d'instruction</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138091" debut="2001-11-16" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138091" niv="3" url="/LEGI/SCTA/00/00/06/13/80/LEGISCTA000006138091.xml">Titre IV : Dispositions communes</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

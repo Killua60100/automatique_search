@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006138133</ID>
+<TITRE_TA>Titre XXI : De la protection des témoins</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2002-03-05" id="LEGIARTI000006577743" num="706-57" origine="LEGI"/>
+<LIEN_ART debut="2002-03-05" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006577744" num="706-57" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000020632051" num="706-57" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038311400" num="706-57" origine="LEGI"/>
+<LIEN_ART debut="2002-09-10" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000006577747" num="706-58" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039279259" num="706-58" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2002-09-10" id="LEGIARTI000006577746" num="706-58" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577749" num="706-59" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577751" num="706-60" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006577754" num="706-61" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577755" num="706-61" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577757" num="706-62" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032631708" num="706-62-1" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000032631770" num="706-62-2" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039278978" num="706-62-2" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577758" num="706-63" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006379388</ID>
+<ANCIEN_ID>MSHWYXXXXXX001AAXXXXXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/37/93/LEGIARTI000006379388.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2001-07-14</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000771308" date_publi="2001-07-14" date_signature="2001-07-12" ministere="MINISTERE DE LA FONCTION PUBLIQUE ET DE LA REFORME DE L'ETAT" nature="DECRET" nor="FPPA0110004D" num="2001-623" num_parution_jo="0162">
+<TITRE_TXT c_titre_court="Décret n°2001-623 du 12 juillet 2001" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000771308">Décret no 2001-623 du 12 juillet 2001 pris pour l'application de l'article 7-1 de la loi no 84-53 du 26 janvier 1984 et relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique territoriale</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°2001-623 du 12 juillet 2001" debut="2001-07-14" fin="2999-01-01" id_txt="LEGITEXT000005631213">Décret n°2001-623 du 12 juillet 2001 pris pour l'application de l'article 7-1 de la loi n° 84-53 du 26 janvier 1984 et relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique territoriale</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2001-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006379388" num="1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les règles relatives à la définition, à la durée et à l'aménagement du temps de travail applicables aux agents des collectivités territoriales et des établissements publics en relevant sont déterminées dans les conditions prévues par le décret du 25 août 2000 susvisé sous réserve des dispositions suivantes.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000320434" datesignatexte="1984-01-26" id="LEGIARTI000006366568" naturetexte="LOI" nortexte="" num="7-1" numtexte="84-53" sens="source" typelien="TXT_SOURCE">Loi n°84-53 du 26 janvier 1984 - art. 7-1 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000208382" datesignatexte="2000-08-25" id="JORFTEXT000000208382" naturetexte="DECRET" nortexte="FPPA0000085D" num="" numtexte="2000-815" sens="source" typelien="CITATION">Décret 2000-815 2000-08-25</LIEN>
+<LIEN cidtexte="JORFTEXT000000235453" datesignatexte="2004-07-29" id="LEGIARTI000050931400" naturetexte="DECRET" nortexte="FPPA0410010D" num="1" numtexte="2004-777" sens="cible" typelien="CITATION">Décret n°2004-777 du 29 juillet 2004 - art. 1 (V)</LIEN>
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000031690520" datesignatexte="2015-12-23" id="LEGIARTI000031694075" naturetexte="DECRET" nortexte="OMES1529726D" num="1" numtexte="2015-1754" sens="cible" typelien="CITATION">Décret n°2015-1754 du 23 décembre 2015 - art. 1</LIEN>
+
+<LIEN cidtexte="JORFTEXT000031690520" datesignatexte="2015-12-23" id="LEGIARTI000031694083" naturetexte="DECRET" nortexte="OMES1529726D" num="5" numtexte="2015-1754" sens="cible" typelien="CITATION">Décret n°2015-1754 du 23 décembre 2015 - art. 5</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000051517324" naturetexte="CODE" nortexte="" num="D2573-8" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D2573-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397706" naturetexte="CODE" nortexte="" num="D4134-25" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D4134-25 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397709" naturetexte="CODE" nortexte="" num="D4134-28" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D4134-28 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397713" naturetexte="CODE" nortexte="" num="D4134-29" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D4134-29 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006396896" naturetexte="CODE" nortexte="" num="R2123-10" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006396887" naturetexte="CODE" nortexte="" num="R2123-6" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397981" naturetexte="CODE" nortexte="" num="R4135-5" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R4135-5 (V)</LIEN>
+</LIENS>
+</ARTICLE>

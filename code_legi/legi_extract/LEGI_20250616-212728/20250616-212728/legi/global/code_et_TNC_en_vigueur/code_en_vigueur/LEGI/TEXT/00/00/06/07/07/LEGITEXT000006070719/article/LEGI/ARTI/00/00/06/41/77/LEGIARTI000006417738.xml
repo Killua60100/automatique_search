@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417738</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X222L43AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/77/LEGIARTI000006417738.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>222-43</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1994-03-01</DATE_DEBUT>
+<DATE_FIN>2004-03-10</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2023-04-01" id="LEGISCTA000006165284">Section 4 : Du trafic de stupéfiants</TITRE_TM>
+<TITRE_TM debut="2023-04-01" fin="2999-01-01" id="LEGISCTA000047052744">Section 7 : Du trafic de stupéfiants</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006417738" num="222-43" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006417739" num="222-43" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742405" num="222-43" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues par les articles 222-34 à 222-40 est réduite de moitié si, ayant averti les autorités administratives ou judiciaires, il a permis de faire cesser les agissements incriminés et d'identifier, le cas échéant, les autres coupables.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="CODIFICATION">Loi 92-684 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="SPEC_APPLI">Loi 92-684 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 373</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGITEXT000006070719" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code pénal 222-34 à 222-40</LIEN>
+</LIENS>
+</ARTICLE>

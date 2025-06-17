@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000043887606</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/43/88/76/LEGIARTI000043887606.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L853-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2021-07-31</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030934655">LIVRE VIII : DU RENSEIGNEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935574">TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935962">Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques &#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-10-03" etat="MODIFIE" fin="2021-07-31" id="LEGIARTI000030935975" num="L853-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2021-07-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043887606" num="L853-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre, peut être autorisée, lorsque les renseignements ne peuvent être recueillis par un autre moyen légalement autorisé, l'utilisation de dispositifs techniques permettant la captation, la fixation, la transmission et l'enregistrement de paroles prononcées à titre privé ou confidentiel, ou d'images dans un lieu privé. </p>
+<p>II.-Par dérogation à l'article L. 821-4, l'autorisation est délivrée pour une durée maximale de deux mois, renouvelable dans les mêmes conditions de durée. </p>
+<p>III.-Les dispositifs techniques mentionnés au I du présent article ne peuvent être utilisés que par des agents appartenant à l'un des services mentionnés aux articles L. 811-2 et L. 811-4 dont la liste est fixée par décret en Conseil d'Etat. </p>
+<p>IV.-Le service autorisé à recourir à la technique mentionnée au I du présent article rend compte à la Commission nationale de contrôle des techniques de renseignement de sa mise en œuvre. La commission peut à tout moment adresser une recommandation tendant à ce que cette opération soit interrompue et que les renseignements collectés soient détruits. </p>
+<p>IV bis.-Le caractère d'urgence mentionné à la dernière phrase du deuxième alinéa de l'article L. 821-1 ne peut être invoqué que si l'autorisation prévue au présent article a été délivrée au titre du 1°, du 4° ou du a du 5° de l'article L. 811-3. </p>
+<p>V.-Si la mise en œuvre de cette technique nécessite l'introduction dans un véhicule ou dans un lieu privé, cette mesure s'effectue selon les modalités définies à l'article L. 853-3.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000031239603" datesignatexte="2015-09-28" id="LEGITEXT000031239966" naturetexte="DECRET" nortexte="PRMX1520351D" num="" numtexte="2015-1185" sens="cible" typelien="CITATION">DÉCRET n°2015-1185 du 28 septembre 2015 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000043876100" datesignatexte="2021-07-30" id="LEGIARTI000043880710" naturetexte="LOI" nortexte="INTD2107675L" num="18" numtexte="2021-998" sens="cible" typelien="MODIFIE">LOI n°2021-998 du 30 juillet 2021 - art. 18</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935038" naturetexte="CODE" nortexte="" num="L811-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-2</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935040" naturetexte="CODE" nortexte="" num="L811-3" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935042" naturetexte="CODE" nortexte="" num="L811-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-4</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935054" naturetexte="CODE" nortexte="" num="L821-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L821-4</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000035937583" naturetexte="CODE" nortexte="" num="L822-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L822-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051740998" naturetexte="CODE" nortexte="" num="L853-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L853-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000038313985" naturetexte="CODE" nortexte="" num="L855-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L855-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051282268" naturetexte="CODE" nortexte="" num="R853-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R853-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051282260" naturetexte="CODE" nortexte="" num="R853-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R853-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

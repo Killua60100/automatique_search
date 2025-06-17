@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006149841</ID>
+<TITRE_TA>Chapitre Ier : De la trahison et de l'espionnage</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418344" num="411-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006165347" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165347" niv="5" url="/LEGI/SCTA/00/00/06/16/53/LEGISCTA000006165347.xml">Section 1 : De la livraison de tout ou partie du territoire national, de forces armées ou de matériel à une puissance étrangère</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165348" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165348" niv="5" url="/LEGI/SCTA/00/00/06/16/53/LEGISCTA000006165348.xml">Section 2 : Des intelligences avec une puissance étrangère</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165349" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165349" niv="5" url="/LEGI/SCTA/00/00/06/16/53/LEGISCTA000006165349.xml">Section 3 : De la livraison d'informations à une puissance étrangère</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165350" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165350" niv="5" url="/LEGI/SCTA/00/00/06/16/53/LEGISCTA000006165350.xml">Section 4 : Du sabotage</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165351" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165351" niv="5" url="/LEGI/SCTA/00/00/06/16/53/LEGISCTA000006165351.xml">Section 5 : De la fourniture de fausses informations</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165352" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165352" niv="5" url="/LEGI/SCTA/00/00/06/16/53/LEGISCTA000006165352.xml">Section 6 : De la provocation aux crimes prévus au présent chapitre</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000050053146" debut="2024-07-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000050053146" niv="5" url="/LEGI/SCTA/00/00/50/05/31/LEGISCTA000050053146.xml">Section 7 : Des atteintes aux biens et aux personnes commises pour le compte d'une puissance étrangère</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136044">Titre Ier : Des atteintes aux intérêts fondamentaux de la nation</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

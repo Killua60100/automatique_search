@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTELR>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000042610079</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/struct/LEGI/TEXT/00/00/42/61/00/LEGITEXT000042610079.xml</URL>
+<NATURE>LOI</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000042607095</CID>
+<NUM>2020-1508</NUM>
+<NUM_PARUTION>0293</NUM_PARUTION>
+<NUM_SEQUENCE>2</NUM_SEQUENCE>
+<NOR>ECOM1935457L</NOR>
+<DATE_PUBLI>2020-12-04</DATE_PUBLI>
+<DATE_TEXTE>2020-12-03</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2020-12-05</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0293 du 4 décembre 2020</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+</META_SPEC>
+</META>
+<VERSIONS>
+<VERSION etat="">
+<LIEN_TXT debut="2999-01-01" fin="2999-01-01" id="JORFTEXT000042607095" num="2020-1508"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_TXT debut="2020-12-05" fin="2999-01-01" id="LEGITEXT000042610079" num="2020-1508"/>
+</VERSION>
+</VERSIONS>
+<STRUCT>
+<LIEN_SECTION_TA cid="JORFSCTA000042607096" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610080" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610080.xml">Chapitre Ier : Dispositions relatives à la protection des consommateurs</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607097" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610081" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610081.xml">Chapitre II : Dispositions relatives à la surveillance du marché et à la conformité des produits</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607098" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610082" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610082.xml">Chapitre III : Dispositions relatives à la lutte contre les pratiques commerciales déloyales et pour l'équité et la transparence dans les relations interentreprises</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607099" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610083" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610083.xml">Chapitre IV : Dispositions en matière de fiscalité et de règlementation douanière</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607100" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610084" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610084.xml">Chapitre V : Dispositions en matière financière</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607101" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610085" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610085.xml">Chapitre VI : Dispositions améliorant le fonctionnement du marché intérieur</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607102" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610086" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610086.xml">Chapitre VII : Dispositions relatives à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607103" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610087" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610087.xml">Chapitre VIII : Dispositions relatives aux médicaments vétérinaires et aliments médicamenteux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607104" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610088" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610088.xml">Chapitre IX : Dispositions relatives à la gestion du fonds européen agricole pour le développement rural</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607105" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610089" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610089.xml">Chapitre X : Dispositions relatives à la modernisation des règles de la communication audiovisuelle et au renforcement de la protection de la souveraineté culturelle</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607106" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610090" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610090.xml">Chapitre XI : Dispositions en matière de concurrence</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607107" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610091" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610091.xml">Chapitre XII : Dispositions relatives aux postes et communications électroniques</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000042607108" debut="2020-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042610092" niv="1" url="/LEGI/SCTA/00/00/42/61/00/LEGISCTA000042610092.xml">Chapitre XIII : Dispositions relatives aux marques de produits ou de services</LIEN_SECTION_TA>
+</STRUCT>
+
+</TEXTELR>

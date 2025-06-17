@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006117596</ID>
+<TITRE_TA>Livre Ier : Dispositions générales</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136036" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136036" niv="3" url="/LEGI/SCTA/00/00/06/13/60/LEGISCTA000006136036.xml">Titre Ier : De la loi pénale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136037" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136037" niv="3" url="/LEGI/SCTA/00/00/06/13/60/LEGISCTA000006136037.xml">Titre II : De la responsabilité pénale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136038" debut="1992-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136038" niv="3" url="/LEGI/SCTA/00/00/06/13/60/LEGISCTA000006136038.xml">Titre III : Des peines</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

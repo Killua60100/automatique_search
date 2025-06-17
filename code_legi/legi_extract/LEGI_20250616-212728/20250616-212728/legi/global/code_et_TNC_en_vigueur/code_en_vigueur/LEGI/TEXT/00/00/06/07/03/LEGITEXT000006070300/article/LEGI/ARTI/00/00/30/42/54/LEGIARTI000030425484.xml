@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000030425484</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/30/42/54/LEGIARTI000030425484.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L121-37-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2016-01-01</DATE_DEBUT>
+<DATE_FIN>2017-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070300" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des communes de la Nouvelle-Calédonie" debut="2001-07-05" fin="2999-01-01" id_txt="LEGITEXT000006070300">Code des communes de la Nouvelle-Calédonie</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-07-05" fin="2999-01-01" id="LEGISCTA000006086056">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-07-05" fin="2999-01-01" id="LEGISCTA000006115627">LIVRE Ier : ORGANISATION COMMUNALE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-07-05" fin="2999-01-01" id="LEGISCTA000006134955">TITRE II : ORGANES DE LA COMMUNE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-07-05" fin="2999-01-01" id="LEGISCTA000006148799">Chapitre Ier : Conseil municipal</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-07-05" fin="2999-01-01" id="LEGISCTA000006164294">Section 7 : Droit à la formation</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000030425484" num="L121-37-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2021-01-29" id="LEGIARTI000033817969" num="L121-37-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-01-29" etat="MODIFIE" fin="2021-06-19" id="LEGIARTI000043072198" num="L121-37-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-06-19" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000043675388" num="L121-37-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043676152" num="L121-37-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>Les membres du conseil municipal bénéficient chaque année d'un droit individuel à la formation d'une durée de vingt heures, cumulable sur toute la durée du mandat et financé par une cotisation obligatoire, dont le taux ne peut être inférieur à 1 %, assise sur leurs indemnités et collectée par un organisme collecteur national.<br/>
+<br/> La mise en œuvre du droit individuel à la formation relève de l'initiative de chacun des élus et peut concerner des formations sans lien avec l'exercice du mandat. Ces formations peuvent notamment contribuer à l'acquisition des compétences nécessaires à la réinsertion professionnelle à l'issue du mandat.<br/>
+<br/> Un décret en Conseil d'Etat détermine les modalités de mise en œuvre du droit individuel à la formation, notamment les conditions de la collecte de la cotisation.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000030423022" datesignatexte="2015-03-31" id="LEGIARTI000033542234" naturetexte="LOI" nortexte="RDFX1303221L" num="19" numtexte="2015-366" sens="cible" typelien="CREE">LOI n°2015-366 du 31 mars 2015 - art. 19 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000032286752" datesignatexte="2016-03-23" id="LEGIARTI000032288332" naturetexte="LOI" nortexte="ARCC1600843L" num="1" numtexte="2016-341" sens="cible" typelien="CITATION">LOI n° 2016-341 du 23 mars 2016 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000032796374" datesignatexte="2016-06-29" id="LEGIARTI000032810509" naturetexte="DECRET" nortexte="ARCB1608470D" num="1" numtexte="2016-870" sens="cible" typelien="CITATION">Décret n°2016-870 du 29 juin 2016 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000032796374" datesignatexte="2016-06-29" id="LEGIARTI000032810527" naturetexte="DECRET" nortexte="ARCB1608470D" num="10" numtexte="2016-870" sens="cible" typelien="CITATION">Décret n°2016-870 du 29 juin 2016 - art. 10 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000032796374" datesignatexte="2016-06-29" id="LEGIARTI000032810511" naturetexte="DECRET" nortexte="ARCB1608470D" num="2" numtexte="2016-870" sens="cible" typelien="CITATION">Décret n°2016-870 du 29 juin 2016 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000032796374" datesignatexte="2016-06-29" id="LEGIARTI000032810513" naturetexte="DECRET" nortexte="ARCB1608470D" num="3" numtexte="2016-870" sens="cible" typelien="CITATION">Décret n°2016-870 du 29 juin 2016 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000032796374" datesignatexte="2016-06-29" id="LEGIARTI000032810515" naturetexte="DECRET" nortexte="ARCB1608470D" num="4" numtexte="2016-870" sens="cible" typelien="CITATION">Décret n°2016-870 du 29 juin 2016 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000032796374" datesignatexte="2016-06-29" id="LEGIARTI000032810517" naturetexte="DECRET" nortexte="ARCB1608470D" num="5" numtexte="2016-870" sens="cible" typelien="CITATION">Décret n°2016-870 du 29 juin 2016 - art. 5</LIEN>
+<LIEN cidtexte="JORFTEXT000032796374" datesignatexte="2016-06-29" id="LEGIARTI000032810523" naturetexte="DECRET" nortexte="ARCB1608470D" num="8" numtexte="2016-870" sens="cible" typelien="CITATION">Décret n°2016-870 du 29 juin 2016 - art. 8</LIEN>
+<LIEN cidtexte="JORFTEXT000032796374" datesignatexte="2016-06-29" id="LEGIARTI000032810525" naturetexte="DECRET" nortexte="ARCB1608470D" num="9" numtexte="2016-870" sens="cible" typelien="CITATION">Décret n°2016-870 du 29 juin 2016 - art. 9 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000043502113" datesignatexte="2021-05-14" id="LEGIARTI000043504209" naturetexte="DECRET" nortexte="TERB2108873D" num="14" numtexte="2021-596" sens="cible" typelien="CITATION">Décret n°2021-596 du 14 mai 2021 - art. 14 (V)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070300" datesignatexte="2999-01-01" id="LEGIARTI000043675397" naturetexte="CODE" nortexte="" num="L121-37-2" numtexte="" sens="cible" typelien="CITATION">Code des communes de la Nouvelle-Calédonie - art. L121-37-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000051517324" naturetexte="CODE" nortexte="" num="D2573-8" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D2573-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043048492" naturetexte="CODE" nortexte="" num="L1621-3" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L1621-3 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000044539574" naturetexte="CODE" nortexte="" num="R1621-4" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R1621-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000042192620" naturetexte="CODE" nortexte="" num="R2123-22-1-B" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-22-1-B (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000044539667" naturetexte="CODE" nortexte="" num="R3123-19-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R3123-19-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000044539675" naturetexte="CODE" nortexte="" num="R4135-19-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R4135-19-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000044539683" naturetexte="CODE" nortexte="" num="R7125-25-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R7125-25-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000044539691" naturetexte="CODE" nortexte="" num="R7227-25-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R7227-25-2 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

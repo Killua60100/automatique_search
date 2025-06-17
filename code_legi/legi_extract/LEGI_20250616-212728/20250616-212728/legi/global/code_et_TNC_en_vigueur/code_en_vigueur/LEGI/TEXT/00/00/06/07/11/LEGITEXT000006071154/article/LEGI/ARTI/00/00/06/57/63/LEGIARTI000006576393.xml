@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006576393</ID>
+<ANCIEN_ID>PXXXXXXXXXX0385L000AXXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/63/LEGIARTI000006576393.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>385</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1993-09-02</DATE_DEBUT>
+<DATE_FIN>1999-06-24</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121325">Livre II : Des juridictions de jugement</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006138093">Titre II : Du jugement des délits</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006151898">Chapitre Ier : Du tribunal correctionnel</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006167479">Section 1 : De la compétence et de la saisine du tribunal correctionnel</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006182901">Paragraphe 1er : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1959-03-02" etat="MODIFIE" fin="1993-03-01" id="LEGIARTI000006576391" num="385" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="1993-09-02" id="LEGIARTI000006576392" num="385" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-09-02" etat="MODIFIE" fin="1999-06-24" id="LEGIARTI000006576393" num="385" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1999-06-24" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006576394" num="385" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2024-10-01" id="LEGIARTI000006576395" num="385" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-10-01" etat="MODIFIE" fin="2024-11-28" id="LEGIARTI000050286998" num="385" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-11-28" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000050665615" num="385" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743062" num="385" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le tribunal correctionnel a qualité pour constater les nullités des procédures qui lui sont soumises sauf lorsqu'il est saisi par le renvoi ordonné par le juge d'instruction ou la chambre de l'instruction.</p>
+<br/>
+<p>Toutefois, dans le cas où l'ordonnance ou l'arrêt qui l'a saisi n'a pas été porté à la connaissance des parties dans les conditions prévues, selon le cas, par le quatrième alinéa de l'article 183 ou par l'article 217, ou si l'ordonnance n'a pas été rendue conformément aux dispositions de l'article 184, le tribunal renvoie la procédure au ministère public pour lui permettre de saisir à nouveau la juridiction d'instruction afin que la procédure soit régularisée.</p>
+<br/>
+<p>Lorsque la procédure dont il est saisi n'est pas renvoyée devant lui par la juridiction d'instruction, le tribunal statue sur les exceptions tirées de la nullité de la procédure antérieure.</p>
+<br/>
+<p>La nullité de la citation ne peut être prononcée que dans les conditions prévues par l'article 565.</p>
+<br/>
+<p>Dans tous les cas, les exceptions de nullité doivent être présentées avant toute défense au fond.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance 58-1296 1958-12-23</LIEN>
+<LIEN cidtexte="JORFTEXT000000178780" datesignatexte="1993-01-04" id="LEGIARTI000006492164" naturetexte="LOI" nortexte="JUSX9200023L" num="226" numtexte="93-2" sens="cible" typelien="CITATION">Loi n°93-2 du 4 janvier 1993 - art. 226 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000732008" datesignatexte="1993-08-24" id="JORFTEXT000000732008" naturetexte="LOI" nortexte="JUSX9300540Z" num="" numtexte="93-1013" sens="source" typelien="MODIFICATION">Loi 93-1013 1993-08-24 art. 25 JORF 25 août 1993 en vigueur le 2 septembre 1993</LIEN>
+
+
+
+
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575780" naturetexte="CODE" nortexte="" num="174" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 174 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575819" naturetexte="CODE" nortexte="" num="183" numtexte="" sens="source" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 183 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575413" naturetexte="CODE" nortexte="" num="184" numtexte="" sens="source" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 184 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575936" naturetexte="CODE" nortexte="" num="217" numtexte="" sens="source" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 217 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576541" naturetexte="CODE" nortexte="" num="426-1" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 426-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576961" naturetexte="CODE" nortexte="" num="565" numtexte="" sens="source" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 565 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576937" naturetexte="CODE" nortexte="" num="553" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 553 (V)</LIEN>
+</LIENS>
+</ARTICLE>

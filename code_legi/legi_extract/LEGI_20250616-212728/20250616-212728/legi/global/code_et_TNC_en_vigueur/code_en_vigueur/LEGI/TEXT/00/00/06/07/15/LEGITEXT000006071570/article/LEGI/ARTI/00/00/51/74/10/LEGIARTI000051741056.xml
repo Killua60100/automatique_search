@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051741056</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/10/LEGIARTI000051741056.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>64-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006099261">Titre II : Organisation et fonctionnement du service des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006122076">Chapitre IV : Pouvoirs des agents des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-04-13" fin="2999-01-01" id="LEGISCTA000006138847">Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741056" num="64-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>A peine de nullité, l'autorisation prévue à l'article 64-1 est donnée pour des opérations de visite et de saisie déterminées et fait l'objet d'une ordonnance écrite précisant la qualification de l'infraction dont la preuve est recherchée ainsi que l'adresse des lieux dans lesquels les visites et les saisies peuvent être faites.</p>
+<p>Les opérations sont faites sous le contrôle du magistrat qui les a autorisées, qui peut se déplacer sur les lieux pour veiller au respect des dispositions légales. Ce magistrat est informé dans les meilleurs délais par les agents des douanes habilités des actes accomplis en application de l'article 64-1.</p>
+<p>Pour l'application du même article 64-1, est compétent le juge des libertés et de la détention du tribunal judiciaire du lieu où se déroulent les opérations de visite et de saisie. La visite s'effectue sous le contrôle du juge qui a autorisé la visite.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736722" naturetexte="LOI" nortexte="JUSX2430702L" num="51" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 51</LIEN>
+</LIENS>
+</ARTICLE>

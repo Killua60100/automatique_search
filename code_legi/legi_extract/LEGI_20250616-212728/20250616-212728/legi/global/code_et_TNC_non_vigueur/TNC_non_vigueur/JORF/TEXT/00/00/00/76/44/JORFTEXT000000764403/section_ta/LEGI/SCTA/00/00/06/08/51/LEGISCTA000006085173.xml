@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006085173</ID>
+<TITRE_TA>TITRE III : PÉNALITÉS.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2001-05-01" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336647" num="26" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336649" num="27" origine="LEGI"/>
+<LIEN_ART debut="2001-05-01" etat="MODIFIE" fin="2004-11-25" id="LEGIARTI000006336648" num="27" origine="LEGI"/>
+<LIEN_ART debut="2001-05-01" etat="MODIFIE" fin="2004-11-25" id="LEGIARTI000006336651" num="28" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="MODIFIE" fin="2007-01-26" id="LEGIARTI000006336652" num="28" origine="LEGI"/>
+<LIEN_ART debut="2007-01-26" etat="MODIFIE" fin="2013-01-02" id="LEGIARTI000006336653" num="28" origine="LEGI"/>
+<LIEN_ART debut="2013-01-02" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000026911225" num="28" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336654" num="28-1" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336656" num="29" origine="LEGI"/>
+<LIEN_ART debut="2001-05-01" etat="MODIFIE" fin="2004-11-25" id="LEGIARTI000006336655" num="29" origine="LEGI"/>
+<LIEN_ART debut="2007-01-26" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336658" num="29-1" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="MODIFIE" fin="2007-01-26" id="LEGIARTI000006336657" num="29-1" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336659" num="29-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000764403" date_publi="2000-04-30" date_signature="2000-04-26" ministere="MINISTERE DE L'INTERIEUR" nature="ORDONNANCE" nor="INTX0000046R" num="2000-371" num_parution_jo="0102">
+<TITRE_TXT c_titre_court="Ordonnance n° 2000-371 du 26 avril 2000" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000764403">Ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna</TITRE_TXT>
+<TITRE_TXT c_titre_court="Ordonnance n° 2000-371 du 26 avril 2000" debut="2001-05-01" fin="2021-05-01" id_txt="LEGITEXT000005629336">Ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

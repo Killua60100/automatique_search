@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006418170</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X312L06AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/81/LEGIARTI000006418170.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>312-6</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1994-03-01</DATE_DEBUT>
+<DATE_FIN>2002-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117598">Livre III : Des crimes et délits contre les biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006136042">Titre Ier : Des appropriations frauduleuses</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149834">Chapitre II : De l'extorsion</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165327">Section 1 : De l'extorsion</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418170" num="312-6" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418171" num="312-6" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   L'extorsion en bande organisée est punie de vingt ans de réclusion criminelle et de 1 000 000 F d'amende.<br/>
+<br/>   Elle est punie de trente ans de réclusion criminelle et de 1 000 000 F d'amende lorsqu'elle est précédée, accompagnée ou suivie de violences sur autrui ayant entraîné une mutilation ou une infirmité permanente.<br/>
+<br/>   Elle est punie de la réclusion criminelle à perpétuité lorsqu'elle est commise soit avec usage ou menace d'une arme, soit par une personne porteuse d'une arme soumise à autorisation ou dont le port est prohibé.<br/>
+<br/>   Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le présent article.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000359433" datesignatexte="1992-07-22" id="JORFTEXT000000359433" naturetexte="LOI" nortexte="JUSX8900011L" num="" numtexte="92-685" sens="source" typelien="CODIFICATION">Loi 92-685 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000359433" datesignatexte="1992-07-22" id="JORFTEXT000000359433" naturetexte="LOI" nortexte="JUSX8900011L" num="" numtexte="92-685" sens="source" typelien="SPEC_APPLI">Loi 92-685 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 373</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575087" naturetexte="CODE" nortexte="" num="63-4" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 63-4 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742421" naturetexte="CODE" nortexte="" num="312-6-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 312-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418175" naturetexte="CODE" nortexte="" num="312-7-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 312-7-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418176" naturetexte="CODE" nortexte="" num="312-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 312-8 (V)</LIEN>
+</LIENS>
+</ARTICLE>

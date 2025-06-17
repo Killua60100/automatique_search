@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051736954</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/69/LEGIARTI000051736954.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000051735047" date_publi="2025-06-14" date_signature="2025-06-03" ministere="Ministère du travail, de la santé, des solidarités et des familles" nature="ARRETE" nor="TSSD2515910A" num="" num_parution_jo="0137">
+<TITRE_TXT c_titre_court="Arrêté du 3 juin 2025" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000051735047">Arrêté du 3 juin 2025 relatif au titre professionnel d'assistant immobilier</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 3 juin 2025" debut="2025-06-15" fin="2999-01-01" id_txt="LEGITEXT000051736937">Arrêté du 3 juin 2025 relatif au titre professionnel d'assistant immobilier</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051736954" num="4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000051735063" num="4" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Les titulaires des certificats de compétences professionnelles du titre professionnel d'assistant immobilier révisé par l'arrêté du 18 juillet 2019 susvisé peuvent présenter une demande au représentant territorial compétent du ministère chargé de l'emploi afin que les certificats de compétences professionnelles mentionnés au précédent article leur soient délivrés par correspondance, selon le tableau figurant ci-dessous :</p>
+<div>
+<div align="center">
+
+<table border="1">
+<tr>
+<th>
+<br/>TITRE PROFESSIONNEL<br/>Assistant immobilier<br/>(arrêté du 18 juillet 2019)</th>
+<th>
+<br/>TITRE PROFESSIONNEL<br/>Assistant immobilier<br/>(présent arrêté)</th>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Assurer les opérations administratives liées aux transactions immobilières de vente ou de location</td>
+<td align="left" valign="middle">
+<br/>Assurer les opérations administratives liées aux transactions immobilières de vente ou de location</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Prendre en charge les activités liées à la gestion locative d'un bien immobilier</td>
+<td align="left" valign="middle">
+<br/>Prendre en charge les activités liées à la gestion locative d'un bien immobilier</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Participer aux opérations courantes de gestion d'une copropriété</td>
+<td align="left" valign="middle">
+<br/>Participer à la gestion courante d'une copropriété</td>
+</tr>
+</table>
+
+</div>
+</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000038827680" datesignatexte="2019-07-18" id="JORFTEXT000038827680" naturetexte="ARRETE" nortexte="MTRD1921336A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 18 juillet 2019</LIEN>
+</LIENS>
+</ARTICLE>

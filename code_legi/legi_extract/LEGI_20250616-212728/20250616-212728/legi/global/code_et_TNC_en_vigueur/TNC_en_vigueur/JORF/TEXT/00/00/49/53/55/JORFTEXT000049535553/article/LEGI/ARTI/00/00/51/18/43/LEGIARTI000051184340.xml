@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051184340</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/18/43/LEGIARTI000051184340.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2024-05-30</DATE_DEBUT>
+<DATE_FIN>2025-06-16</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000049535553" date_publi="2024-05-15" date_signature="2024-05-13" ministere="Ministère de l'économie, des finances et de la souveraineté industrielle et numérique" nature="ARRETE" nor="ECOM2411851A" num="" num_parution_jo="0111">
+<TITRE_TXT c_titre_court="Arrêté du 13 mai 2024" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000049535553">Arrêté du 13 mai 2024 portant délégation de signature (direction des affaires juridiques)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 13 mai 2024" debut="2024-05-16" fin="2999-01-01" id_txt="LEGITEXT000051184223">Arrêté du 13 mai 2024 portant délégation de signature (direction des affaires juridiques)</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-05-16" etat="MODIFIE" fin="2024-05-30" id="LEGIARTI000051184228" num="2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-05-30" etat="MODIFIE" fin="2025-06-16" id="LEGIARTI000051184340" num="2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741453" num="2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000049535558" num="2" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Dans la limite des attributions de la sous-direction du droit du droit privé et du droit pénal, délégation est donnée à l'effet de signer, au nom du ministre chargé de l'économie, des finances et de la souveraineté industrielle et numérique, tous actes, arrêtés, décisions ou conventions à l'exclusion des décrets, à :</p>
+<p>M. Bruno Nut, chef du bureau du droit privé général, et à ses adjoints, MM. Philippe Kpanougou, Olivier Naudin et Romain Cuisinier pour les affaires relatives au droit civil, au droit de la consommation, au droit des associations et fonds de dotation, aux principes généraux du droit commercial et des litiges individuels en droit du travail et de la sécurité sociale, ainsi que pour la représentation de l'Etat devant la commission nationale de réparation prévue, en matière de détention provisoire, par l'article 149-3 du code de procédure pénale ;</p>
+<p>M. Etienne Débarre, chef du bureau du droit pénal et de la protection juridique, et à ses adjointes, Mme Laurine Perrier et Mme Noemie Meublat, pour les affaires relatives au droit pénal général et spécial, à la procédure pénale et à la protection juridique prévues aux articles L. 134-1 et suivantes du code général de la fonction publique ;</p>
+<p>M. Michel Lafay, chef du bureau du droit de la réparation civile et ses adjoints, MM. Cyrille Dufour et Alain Poirier pour les affaires relatives à la responsabilité des personnes publiques et de leurs agents et au recours de l'Etat tiers- payeur en matière de réparation civile liée à un accident, à la défense des intérêts de l'Etat aux fins de recouvrement des prestations d'invalidité servies aux agents de l'Etat ayant subi un dommage corporel et à l'application de la convention des dommages matériels entre l'Etat et les assureurs.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000044416551" datesignatexte="2999-01-01" id="LEGITEXT000044416551" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général de la fonction publique</LIEN>
+<LIEN cidtexte="JORFTEXT000049607549" datesignatexte="2024-05-28" id="LEGIARTI000051184244" naturetexte="ARRETE" nortexte="ECOM2414119A" num="1" numtexte="" sens="cible" typelien="MODIFIE">Arrêté du 28 mai 2024 - art. 1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575354" naturetexte="CODE" nortexte="" num="149-3" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 149-3</LIEN>
+</LIENS>
+</ARTICLE>

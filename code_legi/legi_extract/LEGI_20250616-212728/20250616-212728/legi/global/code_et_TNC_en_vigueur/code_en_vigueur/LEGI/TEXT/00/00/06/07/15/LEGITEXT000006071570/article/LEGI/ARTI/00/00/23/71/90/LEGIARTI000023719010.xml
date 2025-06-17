@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023719010</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/71/90/LEGIARTI000023719010.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>67 bis-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-03-16</DATE_DEBUT>
+<DATE_FIN>2013-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006099261">Titre II : Organisation et fonctionnement du service des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006122076">Chapitre IV : Pouvoirs des agents des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-12-20" fin="2016-06-05" id="LEGISCTA000006138848">Section 7 : Livraisons surveillées.</TITRE_TM>
+<TITRE_TM debut="2016-06-05" fin="2999-01-01" id="LEGISCTA000032654987">Section 7 : Procédures spéciales d'enquête douanière</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2013-01-01" id="LEGIARTI000023719010" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-01-01" etat="MODIFIE" fin="2014-03-13" id="LEGIARTI000026949115" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-03-13" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000028717037" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000032654772" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-07-20" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000047860840" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742569" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Sans préjudice des dispositions de l'article 67 bis, et aux seules fins de constater l'infraction de détention de produits stupéfiants, d'en identifier les auteurs et complices et d'effectuer les saisies prévues par le présent code, les agents des douanes habilités par le ministre chargé des douanes dans les conditions fixées par décret peuvent, sur l'ensemble du territoire national, avec l'autorisation du procureur de la République et sans être pénalement responsables de ces actes : </p>
+<p>1° Acquérir des produits stupéfiants ; </p>
+<p>2° En vue de l'acquisition des produits stupéfiants, mettre à la disposition des personnes se livrant à ces infractions des moyens de caractère juridique ou financier ainsi que des moyens de transport, de dépôt, d'hébergement, de conservation et de télécommunication.</p>
+<p>A peine de nullité, l'autorisation du procureur de la République, qui peut être donnée par tout moyen, est mentionnée ou versée au dossier de la procédure et les actes autorisés ne peuvent constituer une incitation à commettre une infraction. </p>
+<p>Le présent article est applicable aux fins de constatation de l'infraction de détention de marchandises présentées sous une marque contrefaisante ou incorporant un dessin ou modèle tel que mentionné à l'article L. 513-4 du code de la propriété intellectuelle et tel que visé par l'article 19 du règlement (CE) n° 6/2002 du Conseil, du 12 décembre 2001, précité, sur des marchandises contrefaisant un droit d'auteur, des droits voisins ou un brevet tels que mentionnés aux articles L. 335-2 à L. 335-4, L. 613-3 et L. 613-5 du code de la propriété intellectuelle.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000023707312" datesignatexte="2011-03-14" id="LEGIARTI000023708803" naturetexte="LOI" nortexte="IOCX0903274L" num="108" numtexte="2011-267" sens="cible" typelien="CREE">LOI n°2011-267
+ du 14 mars 2011 - art. 108</LIEN>
+<LIEN cidtexte="JORFTEXT000033691761" datesignatexte="2016-12-23" id="LEGIARTI000033716671" naturetexte="DECRET" nortexte="ECFD1628331D" num="1" numtexte="2016-1845" sens="cible" typelien="CITATION">Décret n°2016-1845 du 23 décembre 2016 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033691761" datesignatexte="2016-12-23" id="LEGIARTI000033716674" naturetexte="DECRET" nortexte="ECFD1628331D" num="2" numtexte="2016-1845" sens="cible" typelien="CITATION">Décret n°2016-1845 du 23 décembre 2016 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033691761" datesignatexte="2016-12-23" id="LEGIARTI000033716676" naturetexte="DECRET" nortexte="ECFD1628331D" num="3" numtexte="2016-1845" sens="cible" typelien="CITATION">Décret n°2016-1845 du 23 décembre 2016 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033691761" datesignatexte="2016-12-23" id="LEGIARTI000033716678" naturetexte="DECRET" nortexte="ECFD1628331D" num="4" numtexte="2016-1845" sens="cible" typelien="CITATION">Décret n°2016-1845 du 23 décembre 2016 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049330452" datesignatexte="2024-03-27" id="LEGITEXT000049332095" naturetexte="DECRET" nortexte="ECOD2401547D" num="" numtexte="2024-271" sens="cible" typelien="CITATION">Décret n°2024-271 du 27 mars 2024 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069414" datesignatexte="2999-01-01" id="LEGIARTI000006279167" naturetexte="CODE" nortexte="" num="L335-2" numtexte="" sens="source" typelien="CITATION">Code de la propriété intellectuelle - art. L335-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006069414" datesignatexte="2999-01-01" id="LEGIARTI000006279345" naturetexte="CODE" nortexte="" num="L513-4" numtexte="" sens="source" typelien="CITATION">Code de la propriété intellectuelle - art. L513-4</LIEN>
+<LIEN cidtexte="LEGITEXT000006069414" datesignatexte="2999-01-01" id="LEGIARTI000006279463" naturetexte="CODE" nortexte="" num="L613-3" numtexte="" sens="source" typelien="CITATION">Code de la propriété intellectuelle - art. L613-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615436" naturetexte="CODE" nortexte="" num="67 bis" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 67 bis</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">article 19 du règlement (CE) n° 6/2002</LIEN>
+</LIENS>
+</ARTICLE>

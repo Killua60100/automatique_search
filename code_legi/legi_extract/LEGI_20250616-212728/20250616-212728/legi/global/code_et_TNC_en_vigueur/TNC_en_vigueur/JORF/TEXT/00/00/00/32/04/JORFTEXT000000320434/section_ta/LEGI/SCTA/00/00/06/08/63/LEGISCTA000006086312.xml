@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006086312</ID>
+<TITRE_TA>Chapitre I : Dispositions générales.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1984-01-27" etat="MODIFIE" fin="1986-01-11" id="LEGIARTI000006366546" num="2" origine="LEGI"/>
+<LIEN_ART debut="1986-01-11" etat="MODIFIE" fin="1987-07-16" id="LEGIARTI000006366547" num="2" origine="LEGI"/>
+<LIEN_ART debut="1987-07-16" etat="MODIFIE" fin="1992-06-17" id="LEGIARTI000006366548" num="2" origine="LEGI"/>
+<LIEN_ART debut="1992-06-17" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000006366549" num="2" origine="LEGI"/>
+<LIEN_ART debut="2019-08-08" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000038891133" num="2-1" origine="LEGI"/>
+<LIEN_ART debut="1984-01-27" etat="MODIFIE" fin="1985-01-04" id="LEGIARTI000006366550" num="3" origine="LEGI"/>
+<LIEN_ART debut="1985-01-04" etat="MODIFIE" fin="1987-07-16" id="LEGIARTI000006366551" num="3" origine="LEGI"/>
+<LIEN_ART debut="1987-07-16" etat="MODIFIE" fin="2001-01-04" id="LEGIARTI000006366552" num="3" origine="LEGI"/>
+<LIEN_ART debut="2001-01-04" etat="MODIFIE" fin="2005-07-27" id="LEGIARTI000006366553" num="3" origine="LEGI"/>
+<LIEN_ART debut="2005-07-27" etat="MODIFIE" fin="2007-02-21" id="LEGIARTI000006366554" num="3" origine="LEGI"/>
+<LIEN_ART debut="2007-02-21" etat="MODIFIE" fin="2009-08-07" id="LEGIARTI000006366555" num="3" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="MODIFIE" fin="2012-03-14" id="LEGIARTI000020959292" num="3" origine="LEGI"/>
+<LIEN_ART debut="2012-03-14" etat="MODIFIE" fin="2019-08-08" id="LEGIARTI000025495371" num="3" origine="LEGI"/>
+<LIEN_ART debut="2019-08-08" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000038922660" num="3" origine="LEGI"/>
+<LIEN_ART debut="2004-08-17" etat="TRANSFERE" fin="2012-03-14" id="LEGIARTI000006366556" num="3-1" origine="LEGI"/>
+<LIEN_ART debut="2012-03-14" etat="MODIFIE" fin="2019-08-08" id="LEGIARTI000025553238" num="3-1" origine="LEGI"/>
+<LIEN_ART debut="2019-08-08" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000038922723" num="3-1" origine="LEGI"/>
+<LIEN_ART debut="2012-03-14" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000025553250" num="3-2" origine="LEGI"/>
+<LIEN_ART debut="2012-03-14" etat="MODIFIE" fin="2019-12-22" id="LEGIARTI000025492991" num="3-3" origine="LEGI"/>
+<LIEN_ART debut="2019-12-22" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000038922720" num="3-3" origine="LEGI"/>
+<LIEN_ART debut="2012-03-14" etat="MODIFIE" fin="2016-04-22" id="LEGIARTI000025493019" num="3-4" origine="LEGI"/>
+<LIEN_ART debut="2016-04-22" etat="MODIFIE" fin="2019-08-08" id="LEGIARTI000032442530" num="3-4" origine="LEGI"/>
+<LIEN_ART debut="2019-08-08" etat="MODIFIE" fin="2020-03-12" id="LEGIARTI000038922656" num="3-4" origine="LEGI"/>
+<LIEN_ART debut="2020-03-12" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000042012403" num="3-4" origine="LEGI"/>
+<LIEN_ART debut="2012-03-14" etat="MODIFIE" fin="2019-08-08" id="LEGIARTI000025493037" num="3-5" origine="LEGI"/>
+<LIEN_ART debut="2019-08-08" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000038923646" num="3-5" origine="LEGI"/>
+<LIEN_ART debut="2012-03-14" etat="MODIFIE" fin="2021-11-27" id="LEGIARTI000025493073" num="3-6" origine="LEGI"/>
+<LIEN_ART debut="2021-11-27" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000044374907" num="3-6" origine="LEGI"/>
+<LIEN_ART debut="2012-03-14" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000025492804" num="3-7" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="TRANSFERE" fin="2012-03-14" id="LEGIARTI000020959305" num="3-2" origine="LEGI"/>
+<LIEN_ART debut="1984-01-27" etat="MODIFIE" fin="1987-07-16" id="LEGIARTI000006366557" num="4" origine="LEGI"/>
+<LIEN_ART debut="1987-07-16" etat="MODIFIE" fin="2009-08-07" id="LEGIARTI000006366558" num="4" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000020959332" num="4" origine="LEGI"/>
+<LIEN_ART debut="1984-01-27" etat="MODIFIE" fin="1985-11-23" id="LEGIARTI000006366559" num="5" origine="LEGI"/>
+<LIEN_ART debut="1985-11-23" etat="MODIFIE" fin="1987-07-16" id="LEGIARTI000006366560" num="5" origine="LEGI"/>
+<LIEN_ART debut="1987-07-16" etat="MODIFIE" fin="1996-12-17" id="LEGIARTI000006366561" num="5" origine="LEGI"/>
+<LIEN_ART debut="1996-12-17" etat="ABROGE" fin="2016-04-22" id="LEGIARTI000006366562" num="5" origine="LEGI"/>
+<LIEN_ART debut="1984-01-27" etat="MODIFIE" fin="1987-07-16" id="LEGIARTI000006366564" num="6" origine="LEGI"/>
+<LIEN_ART debut="1987-07-16" etat="MODIFIE" fin="1996-12-17" id="LEGIARTI000006366565" num="6" origine="LEGI"/>
+<LIEN_ART debut="1996-12-17" etat="MODIFIE" fin="2009-08-07" id="LEGIARTI000006366566" num="6" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="MODIFIE" fin="2016-04-22" id="LEGIARTI000020960328" num="6" origine="LEGI"/>
+<LIEN_ART debut="2016-04-22" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000032442094" num="6" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="MODIFIE" fin="2012-03-14" id="LEGIARTI000020960361" num="6-1" origine="LEGI"/>
+<LIEN_ART debut="2012-03-14" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000025500323" num="6-1" origine="LEGI"/>
+<LIEN_ART debut="1984-01-27" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000006366567" num="7" origine="LEGI"/>
+<LIEN_ART debut="2001-01-04" etat="MODIFIE" fin="2007-02-21" id="LEGIARTI000006366568" num="7-1" origine="LEGI"/>
+<LIEN_ART debut="2007-02-21" etat="MODIFIE" fin="2009-08-07" id="LEGIARTI000006366569" num="7-1" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="MODIFIE" fin="2010-07-07" id="LEGIARTI000020960363" num="7-1" origine="LEGI"/>
+<LIEN_ART debut="2010-07-07" etat="MODIFIE" fin="2019-08-08" id="LEGIARTI000022446858" num="7-1" origine="LEGI"/>
+<LIEN_ART debut="2019-08-08" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000038922264" num="7-1" origine="LEGI"/>
+<LIEN_ART debut="2222-02-22" etat="MODIFIE_MORT_NE" fin="2021-12-06" id="LEGIARTI000038933175" num="7-1" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044462629" num="7-1" origine="LEGI"/>
+<LIEN_ART debut="2019-08-08" etat="ABROGE" fin="2022-03-01" id="LEGIARTI000038898380" num="7-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000320434" date_publi="1984-01-27" date_signature="1984-01-26" ministere="" nature="LOI" nor="" num="84-53" num_parution_jo="">
+<TITRE_TXT c_titre_court="LOI n° 84-53 du 26 janvier 1984" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000320434">LOI n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale </TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 84-53 du 26 janvier 1984" debut="1984-01-27" fin="2222-02-22" id_txt="LEGITEXT000006068842">Loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale (1).</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

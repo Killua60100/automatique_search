@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575504</ID>
+<ANCIEN_ID>PXXXXXXXXXX0100L007AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/55/LEGIARTI000006575504.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>100-7</NUM>
+
+<ETAT>MODIFIE_MORT_NE</ETAT>
+
+<DATE_DEBUT>1991-10-01</DATE_DEBUT>
+<DATE_FIN>1991-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1957-12-31" fin="1997-03-31" id="LEGISCTA000006151882">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-10-01" fin="1995-02-09" id="LEGISCTA000006167438">Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-10-01" fin="1995-02-09" id="LEGISCTA000006182892">Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="1991-10-01" etat="MODIFIE_MORT_NE" fin="1991-01-01" id="LEGIARTI000006575504" num="100-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-09-02" etat="MODIFIE" fin="1995-02-09" id="LEGIARTI000006575505" num="100-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1995-02-09" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006575506" num="100-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575507" num="100-7" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Aucune interception ne peut avoir lieu sur une ligne dépendant du cabinet d'un avocat ou de son domicile sans que le bâtonnier en soit informé par le juge d'instruction.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000173519" datesignatexte="1991-07-10" id="LEGIARTI000006421094" naturetexte="LOI" nortexte="JUSX9100068L" num="2" numtexte="91-646" sens="source" typelien="CREATION">Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575769" naturetexte="CODE" nortexte="" num="171" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 171 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311473" naturetexte="CODE" nortexte="" num="230-34" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-34 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048433337" naturetexte="CODE" nortexte="" num="230-34-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-34-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311615" naturetexte="CODE" nortexte="" num="706-102-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-102-5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032631716" naturetexte="CODE" nortexte="" num="706-95-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-95-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742876" naturetexte="CODE" nortexte="" num="706-96" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-96 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311642" naturetexte="CODE" nortexte="" num="706-96-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-96-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

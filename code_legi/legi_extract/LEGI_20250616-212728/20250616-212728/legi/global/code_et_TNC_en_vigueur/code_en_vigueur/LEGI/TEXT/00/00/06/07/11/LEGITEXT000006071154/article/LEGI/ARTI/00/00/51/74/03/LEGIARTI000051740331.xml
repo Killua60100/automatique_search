@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051740331</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/03/LEGIARTI000051740331.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-100</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006167524">Section 6 : Des sonorisations et des fixations d'images de certains lieux ou véhicules</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311671">Section 6 : Des autres techniques spéciales d'enquête</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051740327">Paragraphe 3 bis : De l'activation à distance des appareils électroniques mobiles </TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740331" num="706-100" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>A peine de nullité, l'activation à distance d'un appareil électronique mobile mentionnée à l'article 706-99 ne peut concerner les appareils utilisés par un député, un sénateur, un magistrat, un avocat, un journaliste ou un médecin. </p>
+<p>A peine de nullité, et hors les cas prévus à l'article 56-1-2, ne peuvent être transcrites les données relatives aux échanges avec un avocat qui relèvent de l'exercice des droits de la défense et qui sont couvertes par le secret professionnel de la défense et du conseil, prévu à l'article 66-5 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques. </p>
+<p>A peine de nullité, ne peuvent être transcrites les données relatives aux échanges avec un journaliste permettant d'identifier une source en violation de l'article 2 de la loi du 29 juillet 1881 sur la liberté de la presse. </p>
+<p>A peine de nullité, ne peuvent être transcrites les données collectées grâce à l'activation à distance d'un appareil électronique mobile s'il apparaît que ce dernier se trouvait dans l'un des lieux mentionnés aux articles 56-1,56-2,56-3 et 56-5 du présent code. </p>
+<p>Le magistrat ayant autorisé le recours au dispositif ordonne, dans les meilleurs délais et dans les conditions prévues à l'article 706-95-14, la destruction des données qui ne peuvent être transcrites. Il ordonne également la destruction des procès-verbaux et des données collectées lorsque les opérations n'ont pas été réalisées conformément à son autorisation ou lorsque les formalités prévues par le présent code n'ont pas été respectées.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000877119" datesignatexte="1881-07-29" id="LEGIARTI000006419658" naturetexte="LOI" nortexte="" num="2" numtexte="" sens="source" typelien="CITATION">Loi du 29 juillet 1881 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000000508793" datesignatexte="1971-12-31" id="LEGIARTI000006903522" naturetexte="LOI" nortexte="" num="66-5" numtexte="71-1130" sens="source" typelien="CITATION">Loi n° 71-1130 du 31 décembre 1971 - art. 66-5</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736698" naturetexte="LOI" nortexte="JUSX2430702L" num="39" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 39</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575030" naturetexte="CODE" nortexte="" num="56-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 56-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044550035" naturetexte="CODE" nortexte="" num="56-1-2" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 56-1-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575034" naturetexte="CODE" nortexte="" num="56-2" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 56-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575035" naturetexte="CODE" nortexte="" num="56-3" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 56-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032642164" naturetexte="CODE" nortexte="" num="56-5" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 56-5</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038269602" naturetexte="CODE" nortexte="" num="706-95-14" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-95-14</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740329" naturetexte="CODE" nortexte="" num="706-99" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-99</LIEN>
+</LIENS>
+</ARTICLE>

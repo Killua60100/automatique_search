@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049531597</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/53/15/LEGIARTI000049531597.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>223-15-3</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2024-05-12</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149828">Chapitre III : De la mise en danger de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-13" fin="2024-05-12" id="LEGISCTA000006165293">Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse</TITRE_TM>
+<TITRE_TM debut="2024-05-12" fin="2999-01-01" id="LEGISCTA000049531606">Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse et de la sujétion psychologique ou physique</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-06-13" etat="MODIFIE" fin="2009-11-26" id="LEGIARTI000006417801" num="223-15-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="TRANSFERE">
+<LIEN_ART debut="2009-11-26" etat="TRANSFERE" fin="2024-05-12" id="LEGIARTI000021342944" num="223-15-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531597" num="223-15-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Est puni de trois ans d'emprisonnement et de 375 000 euros d'amende le fait de placer ou de maintenir une personne dans un état de sujétion psychologique ou physique résultant de l'exercice de pressions graves ou réitérées ou de techniques propres à altérer son jugement et ayant pour effet de causer une altération grave de sa santé physique ou mentale ou de conduire cette personne à un acte ou à une abstention qui lui sont gravement préjudiciables.</p>
+<p> Est puni des mêmes peines le fait d'abuser frauduleusement de l'état de sujétion psychologique ou physique d'une personne résultant de l'exercice des pressions ou des techniques mentionnées au premier alinéa du présent I pour la conduire à un acte ou à une abstention qui lui sont gravement préjudiciables.</p>
+<p> II.-Les faits prévus au I sont punis de cinq ans d'emprisonnement et de 750 000 euros d'amende :</p>
+<p> 1° Lorsqu'ils ont été commis sur un mineur ;</p>
+<p> 2° Lorsqu'ils ont été commis sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;</p>
+<p> 3° Lorsque l'infraction est commise par le dirigeant de fait ou de droit d'un groupement qui poursuit des activités ayant pour but ou pour effet de créer, de maintenir ou d'exploiter la sujétion psychologique ou physique des personnes qui participent à ces activités ;</p>
+<p> 4° Lorsque l'infraction est commise par l'utilisation d'un service de communication au public en ligne ou par le biais d'un support numérique ou électronique.</p>
+<p> III.-Les peines sont portées à sept ans d'emprisonnement et à un million d'euros d'amende lorsque :</p>
+<p> 1° Les faits sont commis dans au moins deux des circonstances mentionnées au II ;</p>
+<p> 2° L'infraction est commise en bande organisée par les membres d'un groupement qui poursuit des activités ayant pour but ou pour effet de créer, de maintenir ou d'exploiter la sujétion psychologique ou physique des personnes qui participent à ces activités.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000589924" datesignatexte="2001-06-12" id="LEGIARTI000049531610" naturetexte="LOI" nortexte="JUSX9903887L" num="19" numtexte="2001-504" sens="cible" typelien="CITATION">Loi n° 2001-504 du 12 juin 2001 - art. 19 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000049531952" naturetexte="LOI" nortexte="ECOX0200175L" num="6" numtexte="2004-575" sens="cible" typelien="CITATION">Loi n° 2004-575 du 21 juin 2004 - art. 6 (MMN)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000049523123" datesignatexte="2024-05-10" id="LEGIARTI000049526538" naturetexte="LOI" nortexte="IOMD2327297L" num="14" numtexte="2024-420" sens="cible" typelien="CITATION">LOI n°2024-420 du 10 mai 2024 - art. 14</LIEN>
+<LIEN cidtexte="JORFTEXT000049523123" datesignatexte="2024-05-10" id="LEGIARTI000049526552" naturetexte="LOI" nortexte="IOMD2327297L" num="3" numtexte="2024-420" sens="cible" typelien="CITATION">LOI n°2024-420 du 10 mai 2024 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000049523123" datesignatexte="2024-05-10" id="LEGIARTI000049526552" naturetexte="LOI" nortexte="IOMD2327297L" num="3" numtexte="2024-420" sens="cible" typelien="MODIFIE">LOI n°2024-420 du 10 mai 2024 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000049523123" datesignatexte="2024-05-10" id="LEGIARTI000049526524" naturetexte="LOI" nortexte="IOMD2327297L" num="7" numtexte="2024-420" sens="cible" typelien="CITATION">LOI n°2024-420 du 10 mai 2024 - art. 7</LIEN>
+<LIEN cidtexte="JORFTEXT000051492620" datesignatexte="2025-04-15" id="LEGITEXT000051495586" naturetexte="ARRETE" nortexte="JUSD2434238A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 15 avril 2025 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051492620" datesignatexte="2025-04-15" id="LEGIARTI000051495594" naturetexte="ARRETE" nortexte="JUSD2434238A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 15 avril 2025 - art. 1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071191" datesignatexte="2999-01-01" id="LEGIARTI000049531646" naturetexte="CODE" nortexte="" num="L444-6" numtexte="" sens="cible" typelien="CITATION">Code de l'éducation - art. L444-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049527186" naturetexte="CODE" nortexte="" num="157-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 157-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531995" naturetexte="CODE" nortexte="" num="2-17" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-17 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049532044" naturetexte="CODE" nortexte="" num="2-6" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531736" naturetexte="CODE" nortexte="" num="704" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 704 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000049531775" naturetexte="CODE" nortexte="" num="1378 octies" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1378 octies (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531601" naturetexte="CODE" nortexte="" num="223-15-4" numtexte="" sens="source" typelien="CONCORDE">Code pénal - art. 223-15-4 (V)</LIEN>
+</LIENS>
+</ARTICLE>

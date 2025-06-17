@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000029227592</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/29/22/75/LEGIARTI000029227592.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L1333-11</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2014-07-12</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071307" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la défense." debut="2004-12-21" fin="2999-01-01" id_txt="LEGITEXT000006071307">Code de la défense</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006096399">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006120655">PARTIE 1 : PRINCIPES GÉNÉRAUX DE LA DÉFENSE.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006137702">LIVRE III : MISE EN ŒUVRE DE LA DÉFENSE NON MILITAIRE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006151475">TITRE III : DÉFENSE ÉCONOMIQUE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006166901">Chapitre III : Matières et installations nucléaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006182572">Section 1 : Protection et contrôle des matières nucléaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2014-07-12" fin="2999-01-01" id="LEGISCTA000029221238">Sous-section 3 : Dispositions pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2014-07-12" fin="2999-01-01" id="LEGISCTA000029221254">Paragraphe 2 : Sanctions pénales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-12-21" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000006539719" num="L1333-11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2014-07-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000029227592" num="L1333-11" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Pour l'application de la convention sur la protection physique des matières nucléaires, publiée par le décret n° 92-110 du 3 février 1992, est puni des peines prévues aux articles L. 1333-9 et L. 1333-10 le fait de détenir, transférer, utiliser ou transporter, hors du territoire de la République, les matières nucléaires entrant dans le champ d'application des articles 1er et 2 de la convention précitée, sans y avoir été autorisé par les autorités étrangères compétentes.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000886937" datesignatexte="1980-07-25" id="LEGIARTI000006847011" naturetexte="LOI" nortexte="" num="6-1" numtexte="80-572" sens="source" typelien="CONCORDANCE">Loi n°80-572 du 25 juillet 1980 - art. 6-1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000538496" datesignatexte="1992-02-03" id="JORFTEXT000000538496" naturetexte="DECRET" nortexte="MAEJ9230001D" num="" numtexte="92-110" sens="source" typelien="CITATION">Décret n°92-110 du 3 février 1992</LIEN>
+<LIEN cidtexte="JORFTEXT000000238564" datesignatexte="2004-12-20" id="JORFTEXT000000238564" naturetexte="ORDONNANCE" nortexte="DEFX0400190R" num="" numtexte="2004-1374" sens="source" typelien="CODIFICATION">Ordonnance n° 2004-1374 du 20 décembre 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000000419821" datesignatexte="2005-12-12" id="JORFARTI000001076340" naturetexte="LOI" nortexte="DEFX0500016L" num="1" numtexte="2005-1550" sens="source" typelien="CODIFICATION">Loi n°2005-1550 du 12 décembre 2005 - art. 1</LIEN>
+
+<LIEN cidtexte="JORFTEXT000029218284" datesignatexte="2014-07-10" id="LEGIARTI000029220189" naturetexte="ORDONNANCE" nortexte="DEFX1411031R" num="16" numtexte="2014-792" sens="cible" typelien="DEPLACE">ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539718" naturetexte="CODE" nortexte="" num="L1333-10" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-10</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000029227576" naturetexte="CODE" nortexte="" num="L1333-13-2" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000029227569" naturetexte="CODE" nortexte="" num="L1333-13-3" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000029227561" naturetexte="CODE" nortexte="" num="L1333-13-4" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000030665919" naturetexte="CODE" nortexte="" num="L1333-13-7" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000030665895" naturetexte="CODE" nortexte="" num="L1333-13-8" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539716" naturetexte="CODE" nortexte="" num="L1333-9" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-9</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000021078006" naturetexte="CODE" nortexte="" num="689-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 689-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741892" naturetexte="CODE" nortexte="" num="706-167" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-167 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311907" naturetexte="CODE" nortexte="" num="78-2-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 78-2-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032751714" naturetexte="CODE" nortexte="" num="421-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 421-1 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

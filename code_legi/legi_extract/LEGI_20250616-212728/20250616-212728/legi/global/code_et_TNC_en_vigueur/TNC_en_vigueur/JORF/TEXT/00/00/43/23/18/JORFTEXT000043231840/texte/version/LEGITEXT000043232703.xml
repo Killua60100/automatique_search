@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000043232703</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/43/23/27/LEGITEXT000043232703.xml</URL>
+<NATURE>DECRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000043231840</CID>
+<NUM>2021-258</NUM>
+<NUM_PARUTION>0059</NUM_PARUTION>
+<NUM_SEQUENCE>31</NUM_SEQUENCE>
+<NOR>TERB2014570D</NOR>
+<DATE_PUBLI>2021-03-10</DATE_PUBLI>
+<DATE_TEXTE>2021-03-09</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2021-03-11</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0059 du 10 mars 2021</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Décret n°2021-258 du 9 mars 2021</TITRE>
+<TITREFULL>Décret n° 2021-258 du 9 mars 2021 relatif au remboursement des frais spécifiques de déplacement, d'accompagnement et d'aide technique engagés par les élus locaux en situation de handicap</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2021-03-11</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000039681877" datesignatexte="2019-12-27" id="JORFTEXT000039681877" naturetexte="LOI" nortexte="TERX1917292L" num="" numtexte="2019-1461" sens="source" typelien="APPLICATION">LOI n° 2019-1461 du 27 décembre 2019</LIEN>
+<LIEN cidtexte="JORFTEXT000039681877" datesignatexte="2019-12-27" id="JORFARTI000039681932" naturetexte="LOI" nortexte="TERX1917292L" num="98" numtexte="2019-1461" sens="source" typelien="CITATION">LOI n° 2019-1461 du 27 décembre 2019 - art. 98</LIEN>
+<LIEN cidtexte="LEGITEXT000006070300" datesignatexte="2999-01-01" id="LEGITEXT000006070300" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des communes de la Nouvelle-Calédonie (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGITEXT000006070633" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006392825" naturetexte="CODE" nortexte="" num="L5211-13" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales - art. L5211-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGITEXT000006072050" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGITEXT000006074069" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles (V)</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Le Premier ministre,<br/>Sur le rapport de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales,<br/>Vu le code de l'action sociale et des familles ;<br/>Vu le code général des collectivités territoriales ;<br/>Vu le code du travail ;<br/>Vu le code des communes de la Nouvelle-Calédonie ;<br/>Vu l'avis du gouvernement de la Polynésie française en date du 4 septembre 2020 ;<br/>Vu l'avis du gouvernement de la Nouvelle-Calédonie en date du 8 septembre 2020 ;<br/>Vu l'avis du conseil national d'évaluation des normes, en date du 8 octobre 2020 ;<br/>Le Conseil d'Etat (section de l'intérieur) entendu,<br/>Décrète :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 9 mars 2021.</p>
+</div>
+<div align="left">
+<p>Jean Castex</p>
+<p>Par le Premier ministre :</p>
+</div>
+<div align="left">
+<p>La ministre de la cohésion des territoires et des relations avec les collectivités territoriales,</p>
+<p>Jacqueline Gourault</p>
+</div>
+<div align="left">
+<p>Le ministre des outre-mer,</p>
+<p>Sébastien Lecornu</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

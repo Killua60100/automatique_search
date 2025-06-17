@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006084265</ID>
+<TITRE_TA>Livre II : Recouvrement de l'impôt</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006114517" debut="1969-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006114517" niv="2" url="/LEGI/SCTA/00/00/06/11/45/LEGISCTA000006114517.xml">Chapitre premier : Paiement de l'impôt</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006114518" debut="1977-12-30" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006114518" niv="2" url="/LEGI/SCTA/00/00/06/11/45/LEGISCTA000006114518.xml">Chapitre II : Pénalités</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006114519" debut="1979-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006114519" niv="2" url="/LEGI/SCTA/00/00/06/11/45/LEGISCTA000006114519.xml">Chapitre III : Procédures</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006114520" debut="1979-07-01" etat="MODIFIE" fin="2022-01-01" id="LEGISCTA000006114520" niv="2" url="/LEGI/SCTA/00/00/06/11/45/LEGISCTA000006114520.xml">Chapitre IV : Sûretés et privilèges</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006114520" debut="2022-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044981617" niv="2" url="/LEGI/SCTA/00/00/44/98/16/LEGISCTA000044981617.xml">Chapitre IV : Privilège du Trésor et sa publicité</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006114521" debut="1972-12-17" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006114521" niv="2" url="/LEGI/SCTA/00/00/06/11/45/LEGISCTA000006114521.xml">Chapitre V : Dégrèvements et restitutions d'impôts</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006069577" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des impôts, CGI." debut="1952-02-14" fin="2999-01-01" id_txt="LEGITEXT000006069577">Code général des impôts</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

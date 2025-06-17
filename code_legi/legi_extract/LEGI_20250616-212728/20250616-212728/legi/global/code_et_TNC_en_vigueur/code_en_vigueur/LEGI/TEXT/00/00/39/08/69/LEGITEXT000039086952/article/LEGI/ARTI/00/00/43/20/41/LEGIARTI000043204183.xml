@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000043204183</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/43/20/41/LEGIARTI000043204183.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L513-4</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2021-09-30</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000039086952" date_publi="2019-09-14" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la justice pénale des mineurs" debut="2021-09-30" fin="2999-01-01" id_txt="LEGITEXT000039086952">Code de la justice pénale des mineurs</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2021-09-30" fin="2999-01-01" id="LEGISCTA000039094134">Partie législative </TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-09-30" fin="2999-01-01" id="LEGISCTA000039088355">LIVRE V : DU JUGEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-09-30" fin="2999-01-01" id="LEGISCTA000039088357">TITRE Ier : DISPOSITIONS GÉNÉRALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-09-30" fin="2999-01-01" id="LEGISCTA000039088381">Chapitre III : De la publicité des audiences</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="2021-09-30" etat="MODIFIE_MORT_NE" fin="2021-02-28" id="LEGIARTI000039088389" num="L513-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2021-09-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043204183" num="L513-4" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La publication, par tout moyen, du compte rendu des débats devant les juridictions de jugement compétentes à l'égard des mineurs est interdite. </p>
+<p>Toutefois, lorsque l'audience est publique en application des dispositions de l'article L. 513-3, le compte rendu des débats peut faire l'objet d'une publication mais sans que les nom et prénom du mineur ne soient indiqués, même par une initiale, sauf si l'intéressé donne son accord à cette mention. </p>
+<p>La publication, par tout moyen, de tout texte ou de toute illustration concernant l'identité et la personnalité des mineurs délinquants est également interdite. </p>
+<p>Le jugement ou l'arrêt rendu en audience publique à l'encontre du mineur peut être publié, mais sans que les nom et prénom du mineur soient indiqués, même par une initiale. </p>
+<p>Toute infraction aux dispositions des quatre alinéas précédents est punie d'une amende de 15 000 euros. </p>
+<p>Lorsque les infractions prévues par les dispositions du présent article sont commises par la voie de la presse, les directeurs des publications ou éditeurs sont, du seul fait de la publication, passibles comme auteurs principaux de la peine mentionnée au cinquième alinéa. A leur défaut, l'auteur et, à défaut de l'auteur, les imprimeurs, distributeurs et afficheurs sont poursuivis comme auteurs principaux. Lorsque l'auteur n'est pas poursuivi comme auteur principal, il est poursuivi comme complice. </p>
+<p>Pourront être poursuivies comme complices, et dans tous les cas, toutes personnes auxquelles les articles 121-6 et 121-7 du code pénal pourraient s'appliquer.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000517521" datesignatexte="1945-02-02" id="LEGIARTI000024460661" naturetexte="ORDONNANCE" nortexte="" num="14" numtexte="45-174" sens="source" typelien="CONCORDANCE">Ordonnance n° 45-174 du 2 février 1945 - art. 14, alinéas 4 et 5 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000517521" datesignatexte="1945-02-02" id="LEGIARTI000006495305" naturetexte="ORDONNANCE" nortexte="" num="14-1" numtexte="45-174" sens="source" typelien="CONCORDANCE">Ordonnance n° 45-174 du 2 février 1945 - art. 14-1 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000517521" datesignatexte="1945-02-02" id="LEGIARTI000033460068" naturetexte="ORDONNANCE" nortexte="" num="20" numtexte="45-174" sens="source" typelien="CONCORDANCE">Ordonnance n° 45-174 du 2 février 1945 - art. 20, alinéa 8 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039088387" naturetexte="CODE" nortexte="" num="L513-3" numtexte="" sens="source" typelien="CITATION">Code de la justice pénale des mineurs - art. L513-3</LIEN>
+<LIEN cidtexte="JORFTEXT000043189286" datesignatexte="2021-02-26" id="LEGIARTI000043190807" naturetexte="LOI" nortexte="JUSF1928288L" num="15" numtexte="2021-218" sens="cible" typelien="MODIFIE">LOI n°2021-218 du 26 février 2021 - art. 15</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417211" naturetexte="CODE" nortexte="" num="121-6" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 121-6</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417212" naturetexte="CODE" nortexte="" num="121-7" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 121-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032400656" naturetexte="CODE" nortexte="" num="306" numtexte="" sens="source" typelien="CONCORDANCE">Code de procédure pénale - art. 306, alinéa 7 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740337" naturetexte="CODE" nortexte="" num="242-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 242-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039099454" naturetexte="CODE" nortexte="" num="706-25" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-25 (V)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006136631</ID>
+<TITRE_TA>TITRE Ier : Dispositions générales</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006150658" debut="2004-06-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006150658" niv="4" url="/LEGI/SCTA/00/00/06/15/06/LEGISCTA000006150658.xml">Chapitre Ier : Définitions et principes.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006150659" debut="2004-06-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006150659" niv="4" url="/LEGI/SCTA/00/00/06/15/06/LEGISCTA000006150659.xml">Chapitre II : Régime juridique.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006150660" debut="2004-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006150660" niv="4" url="/LEGI/SCTA/00/00/06/15/06/LEGISCTA000006150660.xml">Chapitre III : Les obligations de service public.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006150661" debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006150661" niv="4" url="/LEGI/SCTA/00/00/06/15/06/LEGISCTA000006150661.xml">Chapitre IV : La régulation des communications électroniques.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006150662" debut="1996-07-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006150662" niv="4" url="/LEGI/SCTA/00/00/06/15/06/LEGISCTA000006150662.xml">Chapitre V : Dispositions pénales.</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070987" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des postes et des communications électroniques" debut="1962-03-14" fin="2999-01-01" id_txt="LEGITEXT000006070987">Code des postes et des communications électroniques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1962-03-14" fin="2999-01-01" id="LEGISCTA000006092423">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-27" fin="2999-01-01" id="LEGISCTA000006118605">LIVRE II : Les communications électroniques</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006167718</ID>
+<TITRE_TA>Section 3 : Le contrôle sanitaire des végétaux.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2005-02-24" etat="MODIFIE" fin="2010-05-08" id="LEGIARTI000006583181" num="L251-12" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2011-07-24" id="LEGIARTI000022200522" num="L251-12" origine="LEGI"/>
+<LIEN_ART debut="2011-07-24" etat="ABROGE" fin="2019-12-14" id="LEGIARTI000024396722" num="L251-12" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2005-02-24" id="LEGIARTI000006583180" num="L251-12" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2011-07-24" id="LEGIARTI000006583182" num="L251-13" origine="LEGI"/>
+<LIEN_ART debut="2011-07-24" etat="ABROGE" fin="2019-12-14" id="LEGIARTI000024396717" num="L251-13" origine="LEGI"/>
+<LIEN_ART debut="2005-02-24" etat="MODIFIE" fin="2010-05-08" id="LEGIARTI000006583184" num="L251-14" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2011-07-24" id="LEGIARTI000022189450" num="L251-14" origine="LEGI"/>
+<LIEN_ART debut="2011-07-24" etat="MODIFIE" fin="2014-10-15" id="LEGIARTI000024396708" num="L251-14" origine="LEGI"/>
+<LIEN_ART debut="2014-10-15" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000029595264" num="L251-14" origine="LEGI"/>
+<LIEN_ART debut="2015-06-06" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000030680052" num="L251-14" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2005-02-24" id="LEGIARTI000006583183" num="L251-14" origine="LEGI"/>
+<LIEN_ART debut="2005-02-24" etat="MODIFIE" fin="2010-05-08" id="LEGIARTI000006583186" num="L251-15" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2011-07-24" id="LEGIARTI000022200905" num="L251-15" origine="LEGI"/>
+<LIEN_ART debut="2011-07-24" etat="MODIFIE" fin="2014-10-15" id="LEGIARTI000024396704" num="L251-15" origine="LEGI"/>
+<LIEN_ART debut="2014-10-15" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000029595254" num="L251-15" origine="LEGI"/>
+<LIEN_ART debut="2015-06-06" etat="ABROGE" fin="2019-12-14" id="LEGIARTI000030679974" num="L251-15" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2005-02-24" id="LEGIARTI000006583185" num="L251-15" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2005-02-24" id="LEGIARTI000006583187" num="L251-16" origine="LEGI"/>
+<LIEN_ART debut="2005-02-24" etat="ABROGE" fin="2019-12-14" id="LEGIARTI000006583188" num="L251-16" origine="LEGI"/>
+<LIEN_ART debut="2005-01-01" etat="MODIFIE" fin="2009-01-01" id="LEGIARTI000006583190" num="L251-17" origine="LEGI"/>
+<LIEN_ART debut="2009-01-01" etat="MODIFIE" fin="2010-05-08" id="LEGIARTI000020059220" num="L251-17" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000022200897" num="L251-17" origine="LEGI"/>
+<LIEN_ART debut="2015-06-06" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000030679967" num="L251-17" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2005-01-01" id="LEGIARTI000006583189" num="L251-17" origine="LEGI"/>
+<LIEN_ART debut="2012-01-01" etat="MODIFIE" fin="2014-01-01" id="LEGIARTI000025068485" num="L251-17-1" origine="LEGI"/>
+<LIEN_ART debut="2014-01-01" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000028448816" num="L251-17-1" origine="LEGI"/>
+<LIEN_ART debut="2015-06-06" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000030679961" num="L251-17-1" origine="LEGI"/>
+<LIEN_ART debut="2014-12-30" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000030034167" num="L251-17-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006138324">Titre V : La protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006152215">Chapitre Ier : La surveillance biologique du territoire</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006181766</ID>
+<TITRE_TA>Paragraphe 5 : De la soustraction et du détournement de biens</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418530" num="432-15" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000006418531" num="432-15" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="MODIFIE" fin="2019-09-20" id="LEGIARTI000028311956" num="432-15" origine="LEGI"/>
+<LIEN_ART debut="2019-09-20" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000039113380" num="432-15" origine="LEGI"/>
+<LIEN_ART debut="2020-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042780068" num="432-15" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418533" num="432-16" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418532" num="432-16" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006136046">Titre III : Des atteintes à l'autorité de l'Etat</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149848">Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165364">Section 3 : Des manquements au devoir de probité</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000043881787</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/43/88/17/LEGIARTI000043881787.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-105-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2021-07-31</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006167526">Section 8 : Dispositions communes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-07-31" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000043881787" num="706-105-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740822" num="706-105-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Par dérogation à l'article 11, le procureur de la République de Paris peut, pour les procédures d'enquête ou d'instruction entrant dans le champ d'application de l'article 706-72-1, communiquer aux services de l'Etat mentionnés au second alinéa de l'article L. 2321-2 du code de la défense, de sa propre initiative ou à la demande de ces services, des éléments de toute nature figurant dans ces procédures et nécessaires à l'exercice de leur mission en matière de sécurité et de défense des systèmes d'information. Si la procédure fait l'objet d'une information, cette communication ne peut intervenir que sur avis favorable du juge d'instruction. <br/>
+<br/>Le juge d'instruction peut également procéder à cette communication, dans les mêmes conditions et pour les mêmes finalités que celles mentionnées au premier alinéa du présent I, pour les procédures d'information dont il est saisi, après avoir recueilli l'avis du procureur de la République de Paris. <br/>
+<br/>II.-Par dérogation à l'article 11, le procureur de la République de Paris peut, pour les procédures d'enquête ou d'instruction relevant de la compétence des juridictions mentionnées au dernier alinéa de l'article 706-75 et portant sur les infractions mentionnées aux 3°, 5°, 12° et 13° de l'article 706-73 ainsi que sur le blanchiment de ces infractions, communiquer aux services spécialisés de renseignement mentionnés à l'article L. 811-2 du code de la sécurité intérieure ainsi qu'aux services mentionnés à l'article L. 811-4 du même code désignés, au regard de leurs missions, par décret en Conseil d'Etat, de sa propre initiative ou à la demande de ces services, des éléments de toute nature figurant dans ces procédures et nécessaires à l'exercice des missions de ces services au titre de la prévention de la criminalité et de la délinquance organisées. Si la procédure fait l'objet d'une information, cette communication ne peut intervenir que sur avis favorable du juge d'instruction. <br/>
+<br/>Le juge d'instruction peut également procéder à cette communication, dans les mêmes conditions et pour les mêmes finalités que celles mentionnées au premier alinéa du présent II, pour les procédures d'information dont il est saisi, après avoir recueilli l'avis du procureur de la République de Paris. <br/>
+<br/>III.-Les informations communiquées en application du présent article ne peuvent faire l'objet d'un échange avec des services de renseignement étrangers ou avec des organismes internationaux compétents dans le domaine du renseignement. <br/>
+<br/>Sauf si l'information porte sur une condamnation prononcée publiquement, les personnes qui en sont destinataires sont tenues au secret professionnel, dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000043876100" datesignatexte="2021-07-30" id="LEGIARTI000043880712" naturetexte="LOI" nortexte="INTD2107675L" num="20" numtexte="2021-998" sens="cible" typelien="CREE">LOI n°2021-998 du 30 juillet 2021 - art. 20</LIEN>
+<LIEN cidtexte="JORFTEXT000045406621" datesignatexte="2022-03-23" id="LEGITEXT000045407578" naturetexte="DECRET" nortexte="INTD2132000D" num="" numtexte="2022-417" sens="cible" typelien="CITATION">Décret n°2022-417 du 23 mars 2022 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045406621" datesignatexte="2022-03-23" id="LEGIARTI000045407603" naturetexte="DECRET" nortexte="INTD2132000D" num="1" numtexte="2022-417" sens="cible" typelien="CITATION">Décret n°2022-417 du 23 mars 2022 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000046493129" datesignatexte="2022-10-26" id="LEGITEXT000046494123" naturetexte="DECRET" nortexte="IOMD2222044D" num="" numtexte="2022-1359" sens="cible" typelien="CITATION">Décret n°2022-1359 du 26 octobre 2022 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000046836744" datesignatexte="2022-12-27" id="LEGITEXT000046838357" naturetexte="DECRET" nortexte="IOMD2223085D" num="" numtexte="2022-1703" sens="cible" typelien="CITATION">Décret n°2022-1703 du 27 décembre 2022 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417944" naturetexte="CODE" nortexte="" num="226-13" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 226-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417946" naturetexte="CODE" nortexte="" num="226-14" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 226-14 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000048367499" naturetexte="CODE" nortexte="" num="R811-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R811-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006574845" naturetexte="CODE" nortexte="" num="11" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032633870" naturetexte="CODE" nortexte="" num="706-72-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-72-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577782" naturetexte="CODE" nortexte="" num="706-75" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-75 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000028342546" naturetexte="CODE" nortexte="" num="L2321-2" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2321-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935038" naturetexte="CODE" nortexte="" num="L811-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935042" naturetexte="CODE" nortexte="" num="L811-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-4 (V)</LIEN>
+</LIENS>
+</ARTICLE>

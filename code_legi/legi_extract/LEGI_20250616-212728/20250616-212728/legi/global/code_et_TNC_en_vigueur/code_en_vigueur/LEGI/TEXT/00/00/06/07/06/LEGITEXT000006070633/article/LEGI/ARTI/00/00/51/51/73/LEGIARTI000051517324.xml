@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051517324</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/51/73/LEGIARTI000051517324.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>D2573-8</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-04-26</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070633" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des collectivités territoriales" debut="1996-02-24" fin="2999-01-01" id_txt="LEGITEXT000006070633">Code général des collectivités territoriales</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006088021">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006116647">DEUXIEME PARTIE : LA COMMUNE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006135535">LIVRE V : DISPOSITIONS PARTICULIÈRES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-07-25" fin="2008-11-01" id="LEGISCTA000006149407">TITRE VII : DISPOSITIONS APPLICABLES A MAYOTTE</TITRE_TM>
+<TITRE_TM debut="2008-11-01" fin="2999-01-01" id="LEGISCTA000019587582">TITRE VII :  COMMUNES DES COLLECTIVITÉS D'OUTRE-MER.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-11-01" fin="2999-01-01" id="LEGISCTA000019587573">CHAPITRE III : Communes de Polynésie française.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-11-01" fin="2999-01-01" id="LEGISCTA000019587445">Section 2 : Organisation de la commune. &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-11-01" fin="2999-01-01" id="LEGISCTA000019587422">Sous-section 2 : Organes de la commune. &#13;
+&#13;
+&#13;
+</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-11-01" fin="2999-01-01" id="LEGISCTA000019587409">Paragraphe 3 : Conditions d'exercice des mandats municipaux. &#13;
+&#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2008-11-01" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000019587398" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000031423959" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2017-04-06" id="LEGIARTI000033516153" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-04-06" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000034369251" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2020-08-01" id="LEGIARTI000037940781" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-08-01" etat="MODIFIE" fin="2020-08-02" id="LEGIARTI000042192602" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-08-02" etat="MODIFIE" fin="2020-08-21" id="LEGIARTI000042209878" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-08-21" etat="MODIFIE" fin="2021-03-11" id="LEGIARTI000042248791" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-03-11" etat="MODIFIE" fin="2021-05-17" id="LEGIARTI000043233729" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-05-17" etat="MODIFIE" fin="2022-01-01" id="LEGIARTI000043507766" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="2022-01-01" etat="MODIFIE_MORT_NE" fin="2021-12-20" id="LEGIARTI000043508315" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-01-01" etat="MODIFIE" fin="2022-07-17" id="LEGIARTI000044539778" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-07-17" etat="MODIFIE" fin="2023-05-12" id="LEGIARTI000046053054" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-05-12" etat="MODIFIE" fin="2025-04-26" id="LEGIARTI000047535184" num="D2573-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-04-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051517324" num="D2573-8" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Les dispositions du chapitre III, du titre II, du livre Ier de la deuxième partie mentionnées dans la colonne de gauche des tableaux reproduits ci-après sont applicables en Polynésie française, dans leur rédaction indiquée dans la colonne de droite du même tableau, sous réserve des adaptations prévues aux II à XVI.</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>
+<br/>
+			DISPOSITIONS APPLICABLES</th>
+<th>
+<br/>
+			DANS LEUR REDACTION RESULTANT DU</th>
+</tr>
+<tr>
+<td align="left">R. 2123-1</td>
+<td align="left">
+Décret n° 2000-318 du 7 avril 2000
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-2</td>
+<td align="left">
+Décret n° 2018-1252 du 26 décembre 2018
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-3</td>
+<td align="left">
+Décret n° 2003-836 du 1er septembre 2003
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-4</td>
+<td align="left">
+Décret n° 2018-1252 du 26 décembre 2018
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-5</td>
+<td align="left">
+Décret n° 2021-1708 du 17 décembre 2021
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-6</td>
+<td align="left">
+Décret n° 2003-836 du 1er septembre 2003
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-7 et R. 2123-9</td>
+<td align="left">
+Décret n° 2016-1551 du 18 novembre 2016
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-10</td>
+<td align="left">
+Décret n° 2003-836 du 1er septembre 2003
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-11</td>
+<td align="left">
+Décret n° 2018-1252 du 26 décembre 2018
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-11-1</td>
+<td align="left">
+<br/>
+Décret n° 2003-943 du 2 octobre 2003
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-11-2</td>
+<td align="left">
+<br/>
+Décret n° 2021-1708 du 17 décembre 2021
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-11-3</td>
+<td align="left">
+Décret n° 2003-943 du 2 octobre 2003
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-11-4 et R. 2123-11-5</td>
+<td align="left">
+Décret n° 2015-1400 du 3 novembre 2015
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-11-6</td>
+<td align="left">
+Décret n° 2003-943 du 2 octobre 2003
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+			R. 2123-12</td>
+<td align="left">
+<br/>
+Décret n° 2021-596 du 14 mai 2021
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-13 à R. 2123-15</td>
+<td align="left">
+Décret n° 2009-8 du 5 janvier 2009
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+			R. 2123-16</td>
+<td align="left">
+<br/>
+Décret n° 2021-596 du 14 mai 2021
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-17 et R. 2123-18</td>
+<td align="left">
+Décret n° 2000-318 du 7 avril 2000
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-19</td>
+<td align="left">
+Décret n° 2009-8 du 5 janvier 2009
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+			R. 2123-20</td>
+<td align="left">
+<br/>
+Décret n° 2021-596 du 14 mai 2021
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-21</td>
+<td align="left">
+Décret n° 2000-318 du 7 avril 2000
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-22</td>
+<td align="left">
+Décret n° 2018-1252 du 26 décembre 2018
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+			R. 2123-22-1-A</td>
+<td align="left">
+<br/>
+Décret n° 2021-596 du 14 mai 2021
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+			R. 2123-22-1-B à R. 2123-22-1-D</td>
+<td align="left">
+<br/>
+Décret n° 2021-1708 du 17 décembre 2021
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-22-1</td>
+<td align="left">
+Décret n° 2009-8 du 5 janvier 2009
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-22-2</td>
+<td align="left">
+Décret n° 2005-235 du 14 mars 2005
+</td>
+</tr>
+<tr>
+<td align="left">R. 2123-22-3</td>
+<td align="left">
+Décret n° 2021-258 du 9 mars 2021
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+			D. 2123-22-4-A</td>
+<td align="left">
+<br/>
+Décret n° 2020-948 du 30 juillet 2020
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+			D. 2123-22-4</td>
+<td align="left">
+<br/>
+Décret n° 2007-808 du 11 mai 2007
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+			D. 2123-22-6</td>
+<td align="left">
+<br/>
+Décret n° 2020-948 du 30 juillet 2020
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>II. – Pour l'application de l'article R. 2123-2, après le mot : " publique ” sont insérés les mots : " ou par l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs ”.</p>
+<p>III. – Pour l'application de l'article R. 2123-4, après le mot : " publique ” sont insérés les mots : " ou par l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs ”.</p>
+<p>III bis.-Pour l'application de l'article R. 2123-5 :<br/>
+<br/>
+1° Au troisième alinéa, les mots : “ cent vingt-deux heures trente ˮ sont remplacés par les mots : “ cent trente-six heures trente ˮ ;<br/>
+<br/>
+2° Au quatrième alinéa, les mots : “ soixante-dix heures ˮ sont remplacés par les mots : “ soixante-dix-huit heures ˮ ;<br/>
+<br/>
+3° Au sixième alinéa, les mots : “ dix heures trente ˮ sont remplacés par les mots : “ onze heures ˮ.</p>
+<p>IV. – Pour l'application de l'article R. 2123-6 :</p>
+<p>1° Les mots : " lorsqu'ils relèvent de la fonction publique territoriale, en application de l'article 1er du décret n° 2001-623 du 12 juillet 2001 pris pour l'application de l'article 7-1 de la loi n° 84-53 du 26 janvier 1984 et relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique territoriale ” sont remplacés par les mots : " lorsqu'ils relèvent de la fonction publique de la Polynésie française, sur le fondement des dispositions applicables localement ” ;</p>
+<p>2° Les mots : " à l'article 1er du décret n° 2001-623 du 12 juillet 2001 ” sont remplacés par les mots : " par les dispositions applicables localement ”.</p>
+<p>V. – Pour l'application de l'article R. 2123-7 :</p>
+<p>1° Les mots : " de l'articleL. 3123-6 du code du travail ” sont remplacés par les mots : " applicables localement en matière du droit du travail ” ;</p>
+<p>2° Après le mot : " publique ” sont insérés les mots : " ou par l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs ”.</p>
+<p>VI. – Pour l'application de l'article R. 2123-9 :</p>
+<p>1° Les mots : " l'article L. 3121-27 du code du travail ” sont remplacés par les mots : " la réglementation applicable localement ” ;</p>
+<p>2° Les mots : " soit par des décrets en conseil des ministres, soit par convention ou accord collectif dans les conditions prévues à l'article L. 3121-67 du code du travail, soit en cas de régime d'équivalence instauré dans les conditions prévues par les articles L. 3121-13 à L. 3121-15 du même code ” sont remplacés par les mots : " par la réglementation applicable localement ” ;</p>
+<p>3° Les mots : " en application du de l'article L. 1251-43 du code du travail ” sont supprimés.</p>
+<p>VII. – Pour l'application de l'article R. 2123-10 :</p>
+<p>1° Après le mot : " publique ” sont insérés les mots : " ou par l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs ” ;</p>
+<p>2° Les mots : " à l'article 1er du décret n° 2000-815 du 25 août 2000 ou à l'article 1er du décret n° 2001-623 du 12 juillet 2001 ou à l'article 1er du décret n° 2002-9 du 4 janvier 2002 ” sont remplacés par les mots : " par la réglementation applicable localement ” ;</p>
+<p>3° Au deuxième alinéa, les mots : ", selon le cas, par le décret n° 2000-815 du 25 août 2000 ou le décret n° 2001-623 du 12 juillet 2001 ou le décret n° 2002-9 du 4 janvier 2002 ” sont remplacés par les mots : " par la réglementation applicable localement ”.</p>
+<p>VIII. – Pour l'application de l'article R. 2123-11 :</p>
+<p>1° Les mots : " les articles L. 2123-2 et L. 2123-4 ” sont remplacés par les mots : " l'article L. 2123-2 ” ;</p>
+<p>2° Après le mot : " publique ” sont insérés les mots : " ou par l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs ”.</p>
+<p>IX. – Pour l'application de l'article R. 2123-12, après le mot : " délivré ” est inséré le mot : " soit ”, et après les mots : " R. 1221-22-1 ” sont insérés les mots : " soit, lorsque cet organisme a son siège en Polynésie française, par le haut-commissaire de la République en Polynésie française ”.</p>
+<p>X. - Pour l'application de l'article R. 2123-13, les mots : “ les conditions définies par le décret fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat ” sont remplacés par les mots : “ la limite du montant des indemnités journalières allouées à cet effet aux fonctionnaires des corps de l'Etat pour l'administration de la Polynésie française ”.</p>
+<p>XI. – (abrogé)</p>
+<p>XII. – Pour l'application de l'article R. 2123-19, après le mot : " publique ” sont insérés les mots : " ou par l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que les établissements publics administratifs ”.</p>
+<p>XII bis. – Pour l'application de l'article R. 2123-22-1-A, le dernier alinéa est ainsi rédigé :</p>
+<p>“ Les formations contribuant à la réinsertion professionnelle du membre du conseil municipal sont les formations qui entrent dans le champ d'application des dispositions prévues par le code du travail applicable en Polynésie française relatives à la formation professionnelle continue. ”.</p>
+<p>XII ter. - Pour l'application de l'article R. 2123-22-1-B, le mot : “ euros ” est remplacé par les mots : “ francs CFP ” et les mots : “ des articles L. 2123-12-1, L. 3123-10-1, L. 4135-10-1, L. 7125-12-1, L. 7227-12-1 du présent code et de l'article L. 121-37-1 du code des communes de la Nouvelle-Calédonie ” sont remplacés par les mots : “ de l'article L. 2123-12-1 ”.</p>
+<p>XII quater. - Pour l'application de l'article R. 2123-22-1-D, les mots : “ les conditions définies par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat ” sont remplacés par les mots : “ la limite du montant des indemnités journalières allouées à cet effet aux fonctionnaires des corps de l'Etat pour l'administration de la Polynésie française ”.</p>
+<p>XIII. - Pour l'application du deuxième alinéa de l'article R. 2123-22-1, les mots : “ dans les conditions définies par le décret fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat ” sont remplacés par les mots : “ par la commune dans la limite du montant des indemnités journalières allouées à cet effet aux fonctionnaires des corps de l'Etat pour l'administration de la Polynésie française ”.</p>
+<p>XIV. – Pour l'application de l'article R. 2123-22-3 :</p>
+<p>1° Les mots : " relevant des dispositions des articles L. 5213-1 et L. 5213-2 du code du travail ou pouvant prétendre au bénéfice des dispositions des articles L. 5212-1 à L. 5212-17 de ce même code, ou pouvant prétendre au bénéfice de l'article L. 241-3 du code de l'action sociale et des familles. ” sont remplacés par les mots : " relevant des dispositions applicables localement. ” ;</p>
+<p>2° Au deuxième alinéa, les mots : " à l'article L. 2123-23 " sont remplacés par les mots : " par arrêté du Haut-commissaire de la République en vertu de l'article L. 2123-23 ";</p>
+<p>XV. - Pour l'application de l'article D. 2123-22-4, le premier alinéa est complété par une phrase ainsi rédigée : “ Le montant maximum de cette aide est fixé par arrêté du haut-commissaire de la République en Polynésie française. ”</p>
+<p>XVI. - Pour l'application de l'article D. 2123-22-6, les mots : “ l'article D. 7233-8 du code du travail ” sont remplacés par les mots : “ la réglementation applicable localement en matière du droit du travail ”.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000320434" datesignatexte="1984-01-26" id="LEGIARTI000006366568" naturetexte="LOI" nortexte="" num="7-1" numtexte="84-53" sens="source" typelien="CITATION">Loi n° 84-53 du 26 janvier 1984 - art. 7-1</LIEN>
+<LIEN cidtexte="JORFTEXT000000399814" datesignatexte="2000-04-07" id="JORFTEXT000000399814" naturetexte="DECRET" nortexte="INTX0004021D" num="" numtexte="2000-318" sens="source" typelien="CITATION">Décret n°2000-318 du 7 avril 2000</LIEN>
+<LIEN cidtexte="JORFTEXT000000208382" datesignatexte="2000-08-25" id="JORFTEXT000000208382" naturetexte="DECRET" nortexte="FPPA0000085D" num="" numtexte="2000-815" sens="source" typelien="CITATION">Décret n°2000-815 du 25 août 2000</LIEN>
+<LIEN cidtexte="JORFTEXT000000208382" datesignatexte="2000-08-25" id="LEGIARTI000006566079" naturetexte="DECRET" nortexte="FPPA0000085D" num="1" numtexte="2000-815" sens="source" typelien="CITATION">Décret n°2000-815 du 25 août 2000 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="JORFTEXT000000771308" naturetexte="DECRET" nortexte="FPPA0110004D" num="" numtexte="2001-623" sens="source" typelien="CITATION">Décret n°2001-623 du 12 juillet 2001</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379388" naturetexte="DECRET" nortexte="FPPA0110004D" num="1" numtexte="2001-623" sens="source" typelien="CITATION">Décret n°2001-623 du 12 juillet 2001 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000398298" datesignatexte="2002-01-04" id="JORFTEXT000000398298" naturetexte="DECRET" nortexte="MESH0124422D" num="" numtexte="2002-9" sens="source" typelien="CITATION">Décret n°2002-9 du 4 janvier 2002</LIEN>
+<LIEN cidtexte="JORFTEXT000000398298" datesignatexte="2002-01-04" id="LEGIARTI000006725344" naturetexte="DECRET" nortexte="MESH0124422D" num="1" numtexte="2002-9" sens="source" typelien="CITATION">Décret n°2002-9 du 4 janvier 2002 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000431131" datesignatexte="2003-09-01" id="JORFTEXT000000431131" naturetexte="DECRET" nortexte="INTB0300180D" num="" numtexte="2003-836" sens="source" typelien="CITATION">Décret n°2003-836 du 1 septembre 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000000781768" datesignatexte="2003-10-02" id="JORFTEXT000000781768" naturetexte="DECRET" nortexte="INTB0300237D" num="" numtexte="2003-943" sens="source" typelien="CITATION">Décret n°2003-943 du 2 octobre 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000000808107" datesignatexte="2005-01-04" id="JORFTEXT000000808107" naturetexte="ORDONNANCE" nortexte="DOMX0400146R" num="" numtexte="2005-10" sens="source" typelien="CITATION">Ordonnance n° 2005-10 du 4 janvier 2005</LIEN>
+<LIEN cidtexte="JORFTEXT000000630732" datesignatexte="2005-03-14" id="JORFTEXT000000630732" naturetexte="DECRET" nortexte="INTB0500061D" num="" numtexte="2005-235" sens="source" typelien="CITATION">Décret n°2005-235 du 14 mars 2005</LIEN>
+<LIEN cidtexte="JORFTEXT000000242359" datesignatexte="2006-07-03" id="JORFTEXT000000242359" naturetexte="DECRET" nortexte="BUDB0620002D" num="" numtexte="2006-781" sens="source" typelien="CITATION">Décret n°2006-781 du 3 juillet 2006</LIEN>
+<LIEN cidtexte="JORFTEXT000000246147" datesignatexte="2007-05-11" id="JORFTEXT000000246147" naturetexte="DECRET" nortexte="INTB0751555D" num="" numtexte="2007-808" sens="source" typelien="CITATION">Décret n°2007-808 du 11 mai 2007</LIEN>
+<LIEN cidtexte="JORFTEXT000020040679" datesignatexte="2009-01-05" id="JORFTEXT000020040679" naturetexte="DECRET" nortexte="IOCB0818238D" num="" numtexte="2009-8" sens="source" typelien="CITATION">Décret n°2009-8
+ du 5 janvier 2009</LIEN>
+
+<LIEN cidtexte="JORFTEXT000031421481" datesignatexte="2015-11-03" id="JORFTEXT000031421481" naturetexte="DECRET" nortexte="INTB1512441D" num="" numtexte="2015-1400" sens="source" typelien="CITATION">DÉCRET n°2015-1400 du 3 novembre 2015</LIEN>
+<LIEN cidtexte="JORFTEXT000033420377" datesignatexte="2016-11-18" id="JORFTEXT000033420377" naturetexte="DECRET" nortexte="ETST1628309D" num="" numtexte="2016-1551" sens="source" typelien="CITATION">Décret n°2016-1551 du 18 novembre 2016</LIEN>
+<LIEN cidtexte="JORFTEXT000037864460" datesignatexte="2018-12-26" id="JORFTEXT000037864460" naturetexte="DECRET" nortexte="ARMH1830691D" num="" numtexte="2018-1252" sens="source" typelien="CITATION">Décret n°2018-1252 du 26 décembre 2018</LIEN>
+<LIEN cidtexte="JORFTEXT000042183185" datesignatexte="2020-07-30" id="JORFTEXT000042183185" naturetexte="DECRET" nortexte="TERB2015858D" num="" numtexte="2020-948" sens="source" typelien="CITATION">Décret n°2020-948 du 30 juillet 2020</LIEN>
+<LIEN cidtexte="JORFTEXT000043231840" datesignatexte="2021-03-09" id="JORFTEXT000043231840" naturetexte="DECRET" nortexte="TERB2014570D" num="" numtexte="2021-258" sens="source" typelien="CITATION">Décret n°2021-258 du 9 mars 2021</LIEN>
+<LIEN cidtexte="JORFTEXT000043502113" datesignatexte="2021-05-14" id="JORFTEXT000043502113" naturetexte="DECRET" nortexte="TERB2108873D" num="" numtexte="2021-596" sens="source" typelien="CITATION">Décret n°2021-596 du 14 mai 2021</LIEN>
+<LIEN cidtexte="JORFTEXT000044518073" datesignatexte="2021-12-17" id="JORFTEXT000044518073" naturetexte="DECRET" nortexte="TERB2129318D" num="" numtexte="2021-1708" sens="source" typelien="CITATION">Décret n°2021-1708 du 17 décembre 2021</LIEN>
+<LIEN cidtexte="JORFTEXT000044518073" datesignatexte="2021-12-17" id="LEGIARTI000044526081" naturetexte="DECRET" nortexte="TERB2129318D" num="24" numtexte="2021-1708" sens="cible" typelien="CITATION">Décret n°2021-1708 du 17 décembre 2021 - art. 24</LIEN>
+<LIEN cidtexte="JORFTEXT000051515480" datesignatexte="2025-04-23" id="LEGIARTI000051516540" naturetexte="DECRET" nortexte="MOMO2507673D" num="2" numtexte="2025-369" sens="cible" typelien="MODIFIE">Décret n°2025-369 du 23 avril 2025 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006070300" datesignatexte="2999-01-01" id="LEGIARTI000030425484" naturetexte="CODE" nortexte="" num="L121-37-1" numtexte="" sens="source" typelien="CITATION">Code des communes de la Nouvelle-Calédonie - art. L121-37-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGITEXT000006072050" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGISCTA000033001591" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail -  Paragraphe 1 : Ordre public</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGISCTA000006189796" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail -  Section 1 : Champ d'application.</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000018500114" naturetexte="CODE" nortexte="" num="D7233-8" numtexte="" sens="source" typelien="CITATION">Code du travail - art. D7233-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006902466" naturetexte="CODE" nortexte="" num="L3121-27" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L3121-27</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000033003402" naturetexte="CODE" nortexte="" num="L3121-67" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L3121-67</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006903699" naturetexte="CODE" nortexte="" num="L5213-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L5213-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006903700" naturetexte="CODE" nortexte="" num="L5213-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L5213-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006797041" naturetexte="CODE" nortexte="" num="L241-3" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L241-3</LIEN>
+</LIENS>
+</ARTICLE>

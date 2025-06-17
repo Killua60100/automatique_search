@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000030940120</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/30/94/01/LEGIARTI000030940120.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>413-13</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2015-10-03</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136044">Titre Ier : Des atteintes aux intérêts fondamentaux de la nation</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149843">Chapitre III : Des autres atteintes à la défense nationale</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-03-16" fin="2016-04-22" id="LEGISCTA000023710884">Section 3 : Des atteintes aux services spécialisés  de renseignement</TITRE_TM>
+<TITRE_TM debut="2016-04-22" fin="2999-01-01" id="LEGISCTA000032441937">Section 3 : Des atteintes à certains services ou unités spécialisés</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2015-10-03" id="LEGIARTI000023710903" num="413-13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2015-10-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000030940120" num="413-13" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement. <br/>
+</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La révélation de toute information qui pourrait conduire, directement ou indirectement, à la découverte de l'usage, en application de l'article L. 861-2 du code de la sécurité intérieure, d'une identité d'emprunt ou d'une fausse qualité, de l'identité réelle d'un agent d'un service mentionné à l'article L. 811-2 du même code ou d'un service désigné par le décret en Conseil d'Etat prévu à l'article L. 811-4 dudit code ou de son appartenance à l'un de ces services est punie de cinq ans d'emprisonnement et de 75 000 € d'amende. </p>
+<p>Lorsque cette révélation a causé une atteinte à l'intégrité physique ou psychique à l'encontre de ces personnes ou de leur conjoint ou partenaire lié par un pacte civil de solidarité ou de leurs descendants ou ascendants directs, les peines sont portées à sept ans d'emprisonnement et à 100 000 € d'amende. </p>
+<p>Lorsque cette révélation a causé la mort de ces personnes ou de leur conjoint ou partenaire lié par un pacte civil de solidarité ou de leurs descendants ou ascendants directs, les peines sont portées à dix ans d'emprisonnement et à 150 000 € d'amende, sans préjudice, le cas échéant, de l'application du chapitre Ier du titre II du livre II. </p>
+<p>La révélation, commise par imprudence ou par négligence, par une personne dépositaire soit par état ou profession, soit en raison d'une fonction ou d'une mission temporaire ou permanente, de l'information mentionnée au premier alinéa est punie de trois ans d'emprisonnement et de 45 000 € d'amende. </p>
+<p>Le présent article est applicable à la révélation de toute information qui pourrait conduire, directement ou indirectement, à l'identification réelle ou supposée d'une personne comme source ou collaborateur d'un service mentionné au premier alinéa du présent article.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000030931899" datesignatexte="2015-07-24" id="LEGIARTI000030933670" naturetexte="LOI" nortexte="PRMX1504410L" num="23" numtexte="2015-912" sens="cible" typelien="MODIFIE">LOI n°2015-912 du 24 juillet 2015 - art. 23</LIEN>
+
+<LIEN cidtexte="JORFTEXT000045667751" datesignatexte="2022-04-22" id="LEGIARTI000051332673" naturetexte="ARRETE" nortexte="ARMD2212098A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 22 avril 2022 - art. 2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742921" naturetexte="CODE" nortexte="" num="706-104" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-104 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741942" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032436288" naturetexte="CODE" nortexte="" num="413-14" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 413-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935038" naturetexte="CODE" nortexte="" num="L811-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-2</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935042" naturetexte="CODE" nortexte="" num="L811-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-4</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030939047" naturetexte="CODE" nortexte="" num="L861-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L861-2</LIEN>
+</LIENS>
+</ARTICLE>

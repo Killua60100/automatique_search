@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006193159</ID>
+<TITRE_TA>Sous-section 2 : Sanctions pénales.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006539717" num="L1333-9" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023712658" num="L1333-9" origine="LEGI"/>
+<LIEN_ART debut="2004-12-21" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006539716" num="L1333-9" origine="LEGI"/>
+<LIEN_ART debut="2004-12-21" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000006539718" num="L1333-10" origine="LEGI"/>
+<LIEN_ART debut="2004-12-21" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000006539719" num="L1333-11" origine="LEGI"/>
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000006539721" num="L1333-12" origine="LEGI"/>
+<LIEN_ART debut="2004-12-21" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006539720" num="L1333-12" origine="LEGI"/>
+<LIEN_ART debut="2004-12-21" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000006539722" num="L1333-13" origine="LEGI"/>
+<LIEN_ART debut="2014-07-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000029221448" num="L1333-16" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709298" num="L1333-13-1" origine="LEGI"/>
+<LIEN_ART debut="2023-08-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047920879" num="L1333-16-1" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709300" num="L1333-13-2" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709302" num="L1333-13-3" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709304" num="L1333-13-4" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709306" num="L1333-13-5" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709308" num="L1333-13-6" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709310" num="L1333-13-7" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709314" num="L1333-13-8" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709318" num="L1333-13-9" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709320" num="L1333-13-10" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709322" num="L1333-13-11" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071307" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la défense." debut="2004-12-21" fin="2999-01-01" id_txt="LEGITEXT000006071307">Code de la défense</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006096399">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006120655">PARTIE 1 : PRINCIPES GÉNÉRAUX DE LA DÉFENSE.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006137702">LIVRE III : MISE EN ŒUVRE DE LA DÉFENSE NON MILITAIRE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006151475">TITRE III : DÉFENSE ÉCONOMIQUE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006166901">Chapitre III : Matières et installations nucléaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2014-07-12" id="LEGISCTA000006182573">Section 2 : Dispositions pénales</TITRE_TM>
+<TITRE_TM debut="2014-07-12" fin="2999-01-01" id="LEGISCTA000029227530">Section 2 : Installations et activités nucléaires intéressant la défense</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

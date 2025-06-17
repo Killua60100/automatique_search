@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006181367</ID>
+<TITRE_TA>Section 1 : Service départemental d'incendie et de secours (R)</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2001-07-31" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006395182" num="R1424-1" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2025-06-14" id="LEGIARTI000045656330" num="R1424-1" origine="LEGI"/>
+<LIEN_ART debut="2025-06-14" etat="MODIFIE" fin="2025-06-14" id="LEGIARTI000051728557" num="R1424-1" origine="LEGI"/>
+<LIEN_ART debut="2025-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051729056" num="R1424-1" origine="LEGI"/>
+<LIEN_ART debut="2001-07-31" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000006394867" num="R1424-1-1" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000033823857" num="R1424-1-1" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2025-06-14" id="LEGIARTI000045656323" num="R1424-1-1" origine="LEGI"/>
+<LIEN_ART debut="2025-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051728519" num="R1424-1-1" origine="LEGI"/>
+<LIEN_ART debut="2022-04-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045643754" num="R1424-1-2" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006192594" debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGISCTA000006192594" niv="7" url="/LEGI/SCTA/00/00/06/19/25/LEGISCTA000006192594.xml">Sous-section 1 : Conseil d'administration du service départemental d'incendie et de secours et commission administrative et technique des services d'incendie et de secours (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192594" debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000045656321" niv="7" url="/LEGI/SCTA/00/00/45/65/63/LEGISCTA000045656321.xml">Sous-section 1 : Conseil d'administration du service d'incendie et de secours et commission administrative et technique des services d'incendie et de secours (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192595" debut="2001-07-31" etat="MODIFIE" fin="2022-04-17" id="LEGISCTA000006192595" niv="7" url="/LEGI/SCTA/00/00/06/19/25/LEGISCTA000006192595.xml">Sous-section 2 : La direction du service départemental d'incendie et de secours (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192595" debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000045656408" niv="7" url="/LEGI/SCTA/00/00/45/65/64/LEGISCTA000045656408.xml">Sous-section 2 : Direction du service départemental ou territorial d'incendie et de secours (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000046705575" debut="2022-12-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000046705575" niv="7" url="/LEGI/SCTA/00/00/46/70/55/LEGISCTA000046705575.xml">Sous-section 3 : Le référent mixité et lutte contre les discriminations et le référent sûreté et sécurité&#13;
+</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192596" debut="2000-04-09" etat="MODIFIE" fin="2022-12-09" id="LEGISCTA000006192596" niv="7" url="/LEGI/SCTA/00/00/06/19/25/LEGISCTA000006192596.xml">Sous-section 3 : Corps départemental de sapeurs-pompiers (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192596" debut="2022-12-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000046708552" niv="7" url="/LEGI/SCTA/00/00/46/70/85/LEGISCTA000046708552.xml">Sous-section 4 : Corps départemental de sapeurs-pompiers (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192597" debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGISCTA000006192597" niv="7" url="/LEGI/SCTA/00/00/06/19/25/LEGISCTA000006192597.xml">Sous-section 4 : Service de santé et de secours médical du service départemental d'incendie et de secours (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192597" debut="2022-04-17" etat="MODIFIE" fin="2022-12-09" id="LEGISCTA000045656447" niv="7" url="/LEGI/SCTA/00/00/45/65/64/LEGISCTA000045656447.xml">Sous-section 4 : Sous-direction santé</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192597" debut="2022-12-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000046708549" niv="7" url="/LEGI/SCTA/00/00/46/70/85/LEGISCTA000046708549.xml">Sous-section 5 : Sous-direction santé</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192598" debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGISCTA000006192598" niv="7" url="/LEGI/SCTA/00/00/06/19/25/LEGISCTA000006192598.xml">Sous-section 5 : Organisation comptable et financière du service départemental d'incendie et de secours (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192598" debut="2022-04-17" etat="MODIFIE" fin="2022-12-09" id="LEGISCTA000045656392" niv="7" url="/LEGI/SCTA/00/00/45/65/63/LEGISCTA000045656392.xml">Sous-section 5 : Organisation comptable et financière du service départemental ou territorial d'incendie et de secours (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192598" debut="2022-12-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000046708546" niv="7" url="/LEGI/SCTA/00/00/46/70/85/LEGISCTA000046708546.xml">Sous-section 6 : Organisation comptable et financière du service départemental ou territorial d'incendie et de secours (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192599" debut="2003-09-17" etat="MODIFIE" fin="2022-04-17" id="LEGISCTA000006192599" niv="7" url="/LEGI/SCTA/00/00/06/19/25/LEGISCTA000006192599.xml">Sous-section 6 : Fonds d'aide à l'investissement des services départementaux d'incendie et de secours</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192599" debut="2022-04-17" etat="MODIFIE" fin="2022-12-09" id="LEGISCTA000045656514" niv="7" url="/LEGI/SCTA/00/00/45/65/65/LEGISCTA000045656514.xml">Sous-section 6 : Fonds d'aide à l'investissement des services départementaux et territoriaux d'incendie et de secours</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192599" debut="2022-12-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000046708541" niv="7" url="/LEGI/SCTA/00/00/46/70/85/LEGISCTA000046708541.xml">Sous-section 7 : Fonds d'aide à l'investissement des services départementaux et territoriaux d'incendie et de secours</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070633" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des collectivités territoriales" debut="1996-02-24" fin="2999-01-01" id_txt="LEGITEXT000006070633">Code général des collectivités territoriales</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006088021">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006116641">PREMIERE PARTIE : DISPOSITIONS GÉNÉRALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006135522">LIVRE IV : SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006149362">TITRE II : DISPOSITIONS PROPRES À CERTAINS SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006164907">CHAPITRE IV : Services d'incendie et de secours</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

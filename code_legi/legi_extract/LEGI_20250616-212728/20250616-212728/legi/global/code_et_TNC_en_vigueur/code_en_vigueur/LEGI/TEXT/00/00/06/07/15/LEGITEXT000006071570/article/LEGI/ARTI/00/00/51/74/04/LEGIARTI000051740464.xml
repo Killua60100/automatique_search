@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051740464</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/04/LEGIARTI000051740464.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>67 sexies</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006099261">Titre II : Organisation et fonctionnement du service des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-01-01" fin="2999-01-01" id="LEGISCTA000026890336">Chapitre IV bis : Consultation des traitements automatisés de données aux fins de contrôles douaniers</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-03-13" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000028716146" num="67 sexies" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000037825282" num="67 sexies" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-12-27" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000042780006" num="67 sexies" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740464" num="67 sexies" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés au 1er juin 2019. </p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I. - Pour la recherche et la prévention des infractions mentionnées aux articles 414, 414-2 et 415, lorsqu'elles sont commises en bande organisée, ainsi qu'à l'article 459, les agents des douanes individuellement désignés et spécialement habilités par le ministre chargé des douanes accèdent, sur autorisation préalable du Premier ministre, aux données relatives à l'identification et à la traçabilité du trafic international des marchandises, des moyens de transport et des personnes qui sont contenues dans les traitements automatisés des opérateurs et des prestataires suivants :</p>
+<p> 1° Les opérateurs de transport aérien ;</p>
+<p> 2° Les opérateurs de transport ferroviaire de marchandises ;</p>
+<p> 3° Les opérateurs de transport routier de marchandises ;</p>
+<p> 4° Les opérateurs de transport maritime et fluvial de marchandises ;</p>
+<p> 5° Les prestataires de services postaux définis au 1 de l'annexe II de la directive (UE) 2022/2555 du Parlement européen et du Conseil du 14 décembre 2022 concernant des mesures destinées à assurer un niveau élevé commun de cybersécurité dans l'ensemble de l'Union, modifiant le règlement (UE) n° 910/2014 et la directive (UE) 2018/1972, et abrogeant la directive (UE) 2016/1148 (directive SRI 2).</p>
+<p> Sont exclues de l'accès prévu au premier alinéa du présent I les données mentionnées au I de l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.</p>
+<p> Cet accès ne peut, en aucun cas, porter atteinte au secret des correspondances.</p>
+<p> II. - L'autorisation mentionnée au I du présent article est délivrée sur demande écrite et motivée du ministre chargé des douanes pour une durée maximale de trois mois. Elle est renouvelable dans les mêmes conditions. Elle vaut uniquement pour les opérateurs et les prestataires individuellement désignés.</p>
+<p> Lorsqu'elle a pour objet le renouvellement d'une autorisation, la demande expose les raisons pour lesquelles ce renouvellement est justifié au regard des objectifs poursuivis.</p>
+<p> III. - Le ministre chargé des douanes est autorisé à exploiter les données obtenues en application du I au moyen de traitements automatisés de données respectant la loi n° 78-17 du 6 janvier 1978 précitée.</p>
+<p> Ces traitements ne peuvent procéder à aucun rapprochement, aucune interconnexion ni aucune mise en relation automatisée avec d'autres traitements de données à caractère personnel.</p>
+<p> Ils ne produisent aucun autre résultat et ne peuvent fonder, par eux-mêmes, aucune décision individuelle ni aucun acte de poursuite.</p>
+<p> Les prestataires et les entreprises mentionnés au I du présent article informent les personnes concernées par les traitements mis en œuvre par la direction générale des douanes et droits indirects.</p>
+<p> IV. - Les données faisant l'objet des traitements mentionnés au III sont conservées pendant un délai de deux ans à compter de leur enregistrement.</p>
+<p> Les opérateurs et les prestataires mentionnés au I peuvent conclure avec les services de l'administration des douanes une convention définissant les conditions de mise à disposition des données obtenues en application du même I.</p>
+<p> V. - Est puni d'une amende d'un montant maximal de 50 000 euros le fait, pour un opérateur ou un prestataire mentionné au I, de mettre à la disposition des services de l'administration des douanes des données inexploitables, incomplètes ou manifestement fausses ou de ne pas mettre à leur disposition les données mentionnées au présent article.</p>
+<p> Le manquement est constaté et poursuivi par un procès-verbal établi dans les conditions prévues par le présent code. Une copie de ce procès-verbal est remise à l'intéressé. L'amende est prononcée pour chaque transport ayant donné lieu à un manquement.</p>
+<p> VI. - Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les modalités d'application du présent article. Ce décret détermine notamment :</p>
+<p> 1° Les conditions de mise en œuvre de la procédure d'autorisation mentionnée au I ;</p>
+<p> 2° Les catégories de données mentionnées au I et concernées par les traitements mentionnés au III ;</p>
+<p> 3° Les modalités d'accès et d'utilisation de ces données par les agents mentionnés au I ;</p>
+<p> 4° Les modalités du contrôle du respect de l'obligation mentionnée au dernier alinéa du III ;</p>
+<p> 5° Les modalités de destruction des données à l'expiration du délai mentionné au IV ;</p>
+<p> 6° Les modalités d'exercice par les personnes concernées de leur droit d'accès aux données et de rectification de celles-ci. </p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000886460" datesignatexte="1978-01-06" id="JORFTEXT000000886460" naturetexte="LOI" nortexte="" num="" numtexte="78-17" sens="source" typelien="CITATION">LOI n° 78-17 du 6 janvier 1978</LIEN>
+<LIEN cidtexte="JORFTEXT000000886460" datesignatexte="1978-01-06" id="LEGIARTI000006528068" naturetexte="LOI" nortexte="" num="6" numtexte="78-17" sens="source" typelien="CITATION">LOI n° 78-17 du 6 janvier 1978 - art. 6</LIEN>
+<LIEN cidtexte="JORFTEXT000032967359" datesignatexte="2016-08-03" id="LEGITEXT000032977624" naturetexte="DECRET" nortexte="FCPD1605752D" num="" numtexte="2016-1064" sens="cible" typelien="CITATION">Décret n°2016-1064 du 3 août 2016 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000032967359" datesignatexte="2016-08-03" id="LEGIARTI000032977637" naturetexte="DECRET" nortexte="FCPD1605752D" num="1" numtexte="2016-1064" sens="cible" typelien="CITATION">Décret n°2016-1064 du 3 août 2016 - art. 1 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736636" naturetexte="LOI" nortexte="JUSX2430702L" num="6" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 6</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000028717065" naturetexte="CODE" nortexte="" num="66" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 66 (M)</LIEN>
+</LIENS>
+</ARTICLE>

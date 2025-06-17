@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000043405084</ID>
+<TITRE_TA>Paragraphe 2 : Des infractions sexuelles commises contre les mineurs</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043405086" num="227-21-1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409063" num="227-22" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409180" num="227-22-1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043405753" num="227-22-2" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409170" num="227-23" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043405758" num="227-23-1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="MODIFIE" fin="2021-12-02" id="LEGIARTI000043409165" num="227-24" origine="LEGI"/>
+<LIEN_ART debut="2021-12-02" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044394218" num="227-24" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="MODIFIE" fin="2021-08-26" id="LEGIARTI000043409162" num="227-24-1" origine="LEGI"/>
+<LIEN_ART debut="2021-08-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043982343" num="227-24-1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409095" num="227-25" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409090" num="227-26" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409082" num="227-27" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409149" num="227-27-1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409144" num="227-27-2" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409076" num="227-27-2-1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="ABROGE" fin="2024-03-20" id="LEGIARTI000043409137" num="227-27-3" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409127" num="227-28" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409116" num="227-28-1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409101" num="227-28-3" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149832">Chapitre VII : Des atteintes aux mineurs et à la famille</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165321">Section 5 : De la mise en péril des mineurs</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

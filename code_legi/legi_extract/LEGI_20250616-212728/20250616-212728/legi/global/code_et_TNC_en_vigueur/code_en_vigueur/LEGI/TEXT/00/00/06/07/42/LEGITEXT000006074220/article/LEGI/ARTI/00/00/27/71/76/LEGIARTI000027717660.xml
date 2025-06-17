@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000027717660</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/27/71/76/LEGIARTI000027717660.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L415-6</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2013-07-18</DATE_DEBUT>
+<DATE_FIN>2016-08-10</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074220" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'environnement" debut="2000-09-21" fin="2999-01-01" id_txt="LEGITEXT000006074220">Code de l'environnement</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006108630">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-14" id="LEGISCTA000006129025">Livre IV : Faune et flore</TITRE_TM>
+<TITRE_TM debut="2010-07-14" fin="2999-01-01" id="LEGISCTA000022495757">Livre IV : Patrimoine naturel</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-14" id="LEGISCTA000006143745">Titre Ier : Protection de la faune et de la flore</TITRE_TM>
+<TITRE_TM debut="2010-07-14" fin="2999-01-01" id="LEGISCTA000022495755">Titre Ier : Protection du patrimoine naturel</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006159254">Chapitre V : Dispositions pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006176527">Section 2 : Sanctions</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-07-18" etat="MODIFIE" fin="2016-08-10" id="LEGIARTI000027717660" num="L415-6" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033035151" num="L415-6" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le fait de commettre les infractions mentionnées aux 1°, 2° et 3° de l'article L. 415-3 du présent code en bande organisée, au sens de l' article 132-71 du code pénal , est puni de sept ans d'emprisonnement et 150 000 € d'amende.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000027713399" datesignatexte="2013-07-16" id="LEGIARTI000027715461" naturetexte="LOI" nortexte="DEVK1240259L" num="18" numtexte="2013-619" sens="cible" typelien="CREE">LOI n°2013-619
+ du 16 juillet 2013 - art. 18</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417489" naturetexte="CODE" nortexte="" num="132-71" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-71</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000033029413" naturetexte="CODE" nortexte="" num="L172-11-1" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L172-11-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000043961086" naturetexte="CODE" nortexte="" num="L173-13" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L173-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006833756" naturetexte="CODE" nortexte="" num="L415-3" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L415-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042751075" naturetexte="CODE" nortexte="" num="28-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741942" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

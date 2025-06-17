@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051737218</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/72/LEGIARTI000051737218.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L250-10</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006138324">Titre V : La protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-05-08" fin="2999-01-01" id="LEGISCTA000022191215">Chapitre préliminaire : Inspections et contrôles</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051737218" num="L250-10" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsque les agents habilités constatent un manquement ou une infraction au présent titre, ils peuvent enjoindre à l'intéressé de se conformer à ses obligations dans un délai qu'ils fixent.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734925" datesignatexte="2025-06-13" id="LEGIARTI000051736804" naturetexte="LOI" nortexte="AGRX2506272L" num="unique" numtexte="2025-533" sens="cible" typelien="CREE">LOI n°2025-533 du 13 juin 2025 - art. unique</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000051737486" naturetexte="CODE" nortexte="" num="L251-20" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-20 (V)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000024041412</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/24/04/14/LEGIARTI000024041412.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>434-9</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-05-19</DATE_DEBUT>
+<DATE_FIN>2013-12-08</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006136046">Titre III : Des atteintes à l'autorité de l'Etat</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006149850">Chapitre IV : Des atteintes à l'action de justice</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006165379">Section 2 : Des entraves à l'exercice de la justice</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2000-07-01" id="LEGIARTI000006418624" num="434-9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-07-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418625" num="434-9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2007-11-14" id="LEGIARTI000006418626" num="434-9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-11-14" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006418627" num="434-9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000024041412" num="434-9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2013-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028311935" num="434-9" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>   Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par :</p>
+<br/>
+<p>   1° Un magistrat, un juré ou toute autre personne siégeant dans une formation juridictionnelle ;</p>
+<br/>
+<p>   2° Un fonctionnaire au greffe d'une juridiction ;</p>
+<br/>
+<p>   3° Un expert nommé, soit par une juridiction, soit par les parties ;</p>
+<br/>
+<p>   4° Une personne chargée par l'autorité judiciaire ou par une juridiction administrative d'une mission de conciliation ou de médiation ;</p>
+<br/>
+<p>   5° Un arbitre exerçant sa mission sous l'empire du droit national sur l'arbitrage, </p>
+<br/>
+<p>   de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour lui-même ou pour autrui,  pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenu d'accomplir un  acte de sa fonction ou facilité par sa fonction.</p>
+<p>Le fait de céder aux sollicitations d'une personne mentionnée aux 1° à 5° ou de lui proposer sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, pour qu'elle accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir un acte de sa fonction ou facilité par sa fonction est puni des mêmes peines.  </p>Lorsque l'infraction définie aux premier à septième alinéas est commise par un magistrat au bénéfice ou au détriment d'une personne faisant l'objet de poursuites criminelles, la peine est portée à quinze ans de réclusion criminelle et à 225 000 euros d'amende.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000722860" datesignatexte="1992-07-22" id="JORFTEXT000000722860" naturetexte="LOI" nortexte="JUSX9100041L" num="" numtexte="92-686" sens="source" typelien="CODIFICATION">Loi n°92-686 du 22 juillet 1992</LIEN>
+<LIEN cidtexte="JORFTEXT000000371690" datesignatexte="1995-08-03" id="LEGIARTI000006492670" naturetexte="LOI" nortexte="JUSX9500089L" num="25" numtexte="95-884" sens="cible" typelien="CITATION">Loi n°95-884 du 3 août 1995 - art. 25 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000779239" datesignatexte="2002-08-06" id="LEGIARTI000006493625" naturetexte="LOI" nortexte="JUSX0200109L" num="14" numtexte="2002-1062" sens="cible" typelien="CITATION">Loi n° 2002-1062 du 6 août 2002 - art. 14 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000438720" datesignatexte="2004-06-17" id="LEGIARTI000029336766" naturetexte="ORDONNANCE" nortexte="ECOX0400035R" num="4" numtexte="2004-559" sens="cible" typelien="CITATION">Ordonnance n° 2004-559 du 17 juin 2004 - art. 4 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000629820" datesignatexte="2005-06-06" id="LEGIARTI000024247674" naturetexte="ORDONNANCE" nortexte="ECOX0500022R" num="7" numtexte="2005-649" sens="cible" typelien="CITATION">Ordonnance n° 2005-649 du 6 juin 2005 - art. 7 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000629820" datesignatexte="2005-06-06" id="LEGIARTI000031086665" naturetexte="ORDONNANCE" nortexte="ECOX0500022R" num="8" numtexte="2005-649" sens="cible" typelien="CITATION">Ordonnance n° 2005-649 du 6 juin 2005 - art. 8 (VD)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000024021430" datesignatexte="2011-05-17" id="LEGIARTI000024023392" naturetexte="LOI" nortexte="BCRX0929142L" num="154" numtexte="2011-525" sens="cible" typelien="MODIFIE">LOI n°2011-525
+ du 17 mai 2011 - art. 154</LIEN>
+<LIEN cidtexte="JORFTEXT000024611766" datesignatexte="2011-09-28" id="LEGIARTI000024612915" naturetexte="ARRETE" nortexte="DEVT1125141A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 septembre 2011 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024611766" datesignatexte="2011-09-28" id="LEGIARTI000045278826" naturetexte="ARRETE" nortexte="DEVT1125141A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 septembre 2011 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024772876" datesignatexte="2011-11-02" id="LEGIARTI000031882318" naturetexte="ARRETE" nortexte="TRAT1128150A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 novembre 2011 - art. 3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000024772876" datesignatexte="2011-11-02" id="LEGIARTI000024774282" naturetexte="ARRETE" nortexte="TRAT1128150A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 novembre 2011 - art. 4 (Ab)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000030920376" datesignatexte="2015-07-23" id="LEGIARTI000037389545" naturetexte="ORDONNANCE" nortexte="EINM1506103R" num="45" numtexte="2015-899" sens="cible" typelien="CITATION">ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000031939947" datesignatexte="2016-01-29" id="LEGIARTI000037389227" naturetexte="ORDONNANCE" nortexte="EINM1527673R" num="39" numtexte="2016-65" sens="cible" typelien="CITATION">Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VT)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000047293161" naturetexte="CODE" nortexte="" num="L2141-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L2141-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000047293128" naturetexte="CODE" nortexte="" num="L2341-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L2341-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000047293065" naturetexte="CODE" nortexte="" num="L3123-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L3123-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033460406" naturetexte="CODE" nortexte="" num="2-23" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049778681" naturetexte="CODE" nortexte="" num="41-1-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 41-1-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531736" naturetexte="CODE" nortexte="" num="704" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 704 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042779495" naturetexte="CODE" nortexte="" num="705" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 705 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047860986" naturetexte="CODE" nortexte="" num="706-1-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-1-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000024041508" naturetexte="CODE" nortexte="" num="706-1-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-1-3 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024197762" naturetexte="CODE" nortexte="" num="L1414-4" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L1414-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051741809" naturetexte="CODE" nortexte="" num="131-26-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-26-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000034115017" naturetexte="CODE" nortexte="" num="434-44" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 434-44 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418715" naturetexte="CODE" nortexte="" num="434-46" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 434-46 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418718" naturetexte="CODE" nortexte="" num="434-47" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 434-47 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000033563325" naturetexte="CODE" nortexte="" num="434-48" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 434-48 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000028311908" naturetexte="CODE" nortexte="" num="434-9-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 434-9-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000028282725" naturetexte="CODE" nortexte="" num="434-9-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 434-9-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

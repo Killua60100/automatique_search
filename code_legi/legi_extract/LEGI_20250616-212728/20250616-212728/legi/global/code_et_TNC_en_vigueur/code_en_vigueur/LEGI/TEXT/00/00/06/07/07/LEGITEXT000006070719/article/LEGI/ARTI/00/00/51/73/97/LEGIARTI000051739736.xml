@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051739736</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/97/LEGIARTI000051739736.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>445-2-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006136047">Titre IV : Des atteintes à la confiance publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-07-06" fin="2999-01-01" id="LEGISCTA000006149858">Chapitre V : De la corruption des personnes n'exerçant pas une fonction publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-07-06" fin="2999-01-01" id="LEGISCTA000006165387">Section 1 : De la corruption passive et active des personnes n'exerçant pas une fonction publique</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739736" num="445-2-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsqu'elles sont commises en bande organisée, les infractions prévues à la présente section sont punies de dix ans d'emprisonnement et d'une amende d'un million d'euros, dont le montant peut être porté au double du produit tiré de l'infraction.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736730" naturetexte="LOI" nortexte="JUSX2430702L" num="55" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 55 (V)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006118213</ID>
+<TITRE_TA>Livre V : Le référé</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136455" debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136455" niv="3" url="/LEGI/SCTA/00/00/06/13/64/LEGISCTA000006136455.xml">Titre Ier : Le juge des référés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136456" debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136456" niv="3" url="/LEGI/SCTA/00/00/06/13/64/LEGISCTA000006136456.xml">Titre II : Le juge des référés statuant en urgence</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000019935820" debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000019935820" niv="3" url="/LEGI/SCTA/00/00/19/93/58/LEGISCTA000019935820.xml">Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000019935828" debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000019935828" niv="3" url="/LEGI/SCTA/00/00/19/93/58/LEGISCTA000019935828.xml">Titre IV : Le juge des référés accordant une provision.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136457" debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136457" niv="3" url="/LEGI/SCTA/00/00/06/13/64/LEGISCTA000006136457.xml">Titre V : Dispositions diverses et particulières à certains contentieux</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070933" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de justice administrative" debut="2000-12-31" fin="2999-01-01" id_txt="LEGITEXT000006070933">Code de justice administrative</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-12-31" fin="2999-01-01" id="LEGISCTA000006091521">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

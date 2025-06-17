@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575355</ID>
+<ANCIEN_ID>PXXXXXXXXXX0149L003AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/53/LEGIARTI000006575355.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>149-3</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2000-12-31</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151881">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1971-01-01" fin="2009-11-26" id="LEGISCTA000006167427">Section 7 : Du contrôle judiciaire et de la détention provisoire</TITRE_TM>
+<TITRE_TM debut="2009-11-26" fin="2999-01-01" id="LEGISCTA000021331523">Section 7 : Du contrôle judiciaire, de l'assignation à résidence et de la détention provisoire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-12-31" fin="2009-11-26" id="LEGISCTA000006182924">Sous-section 3 : De la réparation à raison d'une détention</TITRE_TM>
+<TITRE_TM debut="2009-11-26" fin="2999-01-01" id="LEGISCTA000021331517">Sous-section 4 : De la réparation à raison d'une détention</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-12-16" etat="MODIFIE" fin="2000-12-31" id="LEGIARTI000006575354" num="149-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2000-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575355" num="149-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Les décisions prises par le premier président de la cour d'appel peuvent, dans les dix jours de leur notification, faire l'objet d'un recours devant une commission nationale de réparation des détentions. Cette commission, placée auprès de la Cour de cassation, statue souverainement et ses décisions ne sont susceptibles d'aucun recours, de quelque nature que ce soit. <br/>
+<br/>Le bureau de la Cour de cassation peut décider que la commission nationale comportera plusieurs formations. <br/>
+<br/>La commission nationale, ou le cas échéant chacune des formations qu'elle comporte, est composée du premier président de la Cour de cassation, ou de son représentant, qui la préside, et de deux magistrats du siège de la cour ayant le grade de président de chambre, de conseiller ou de conseiller référendaire, désignés annuellement par le bureau de la cour. Outre ces deux magistrats, ce bureau désigne également, dans les mêmes conditions, trois suppléants. <br/>
+<br/>Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation. <br/>
+<br/>Les dispositions de l'article 149-2 sont applicables aux décisions rendues par la commission nationale.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000768360" datesignatexte="2000-12-30" id="LEGIARTI000006493536" naturetexte="LOI" nortexte="JUSX0004506L" num="7" numtexte="2000-1354" sens="source" typelien="MODIFICATION">Loi n°2000-1354 du 30 décembre 2000 - art. 7 () JORF 31 décembre 2000</LIEN>
+<LIEN cidtexte="JORFTEXT000020574184" datesignatexte="2009-04-21" id="LEGIARTI000026313303" naturetexte="ARRETE" nortexte="ECEP0908387A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 21 avril 2009 - art. 3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000039675912" datesignatexte="2019-12-24" id="LEGIARTI000039712973" naturetexte="ARRETE" nortexte="ECOP1934971A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 24 décembre 2019 - art. 3 (V)</LIEN>
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000049535553" datesignatexte="2024-05-13" id="LEGIARTI000051741453" naturetexte="ARRETE" nortexte="ECOM2411851A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 mai 2024 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050776743" datesignatexte="2024-12-10" id="LEGIARTI000050779387" naturetexte="ARRETE" nortexte="JUSB2432950A" num="155" numtexte="" sens="cible" typelien="CITATION">Arrêté du 10 décembre 2024 - art. 155 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575350" naturetexte="CODE" nortexte="" num="149-2" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 149-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000028424634" naturetexte="CODE" nortexte="" num="R26" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517308" naturetexte="CODE" nortexte="" num="R40-17" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-17 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517265" naturetexte="CODE" nortexte="" num="R40-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

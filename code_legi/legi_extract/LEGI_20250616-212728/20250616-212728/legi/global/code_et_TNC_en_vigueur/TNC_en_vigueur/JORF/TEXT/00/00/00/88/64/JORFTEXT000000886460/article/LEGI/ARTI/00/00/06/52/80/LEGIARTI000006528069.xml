@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006528069</ID>
+<ANCIEN_ID>PPEAUXXXXXX006AAXXXXXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/52/80/LEGIARTI000006528069.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2004-08-07</DATE_DEBUT>
+<DATE_FIN>2016-01-28</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000886460" date_publi="1978-01-07" date_signature="1978-01-06" ministere="" nature="LOI" nor="" num="78-17" num_parution_jo="">
+<TITRE_TXT c_titre_court="LOI n° 78-17 du 6 janvier 1978" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000886460">LOI n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 78-17 du 6 janvier 1978" debut="1978-01-07" fin="2999-01-01" id_txt="LEGITEXT000006068624">Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-08-07" fin="2019-06-01" id="LEGISCTA000006095898">Chapitre II : Conditions de licéité des traitements de données à caractère personnel</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-08-07" fin="2019-06-01" id="LEGISCTA000006120410">Section 1 : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528068" num="6" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-08-07" etat="MODIFIE" fin="2016-01-28" id="LEGIARTI000006528069" num="6" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-01-28" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000031932124" num="6" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822942" num="6" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Un traitement ne peut porter que sur des données à caractère personnel qui satisfont aux conditions suivantes :<br/>
+<br/>   1° Les données sont collectées et traitées de manière loyale et licite ;<br/>
+<br/>   2° Elles sont collectées pour des finalités déterminées, explicites et légitimes et ne sont pas traitées ultérieurement de manière incompatible avec ces finalités. Toutefois, un traitement ultérieur de données à des fins statistiques ou à des fins de recherche scientifique ou historique est considéré comme compatible avec les finalités initiales de la collecte des données, s'il est réalisé dans le respect des principes et des procédures prévus au présent chapitre, au chapitre IV et à la section 1 du chapitre V ainsi qu'aux chapitres IX et X et s'il n'est pas utilisé pour prendre des décisions à l'égard des personnes concernées ;<br/>
+<br/>   3° Elles sont adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées et de leurs traitements ultérieurs ;<br/>
+<br/>   4° Elles sont exactes, complètes et, si nécessaire, mises à jour ; les mesures appropriées doivent être prises pour que les données inexactes ou incomplètes au regard des finalités pour lesquelles elles sont collectées ou traitées soient effacées ou rectifiées ;<br/>
+<br/>   5° Elles sont conservées sous une forme permettant l'identification des personnes concernées pendant une durée qui n'excède pas la durée nécessaire aux finalités pour lesquelles elles sont collectées et traitées.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000441676" datesignatexte="2004-08-06" id="LEGIARTI000006529395" naturetexte="LOI" nortexte="JUSX0100026L" num="2" numtexte="2004-801" sens="source" typelien="MODIFICATION">Loi n°2004-801 du 6 août 2004 - art. 2 () JORF 7 août 2004</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000019103207" datesignatexte="2008-06-27" id="LEGIARTI000019106605" naturetexte="DECRET" nortexte="IOCC0815681D" num="2" numtexte="2008-632" sens="cible" typelien="CITATION">Décret n°2008-632 du 27 juin 2008 - art. 2 (Ab)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000021163879" datesignatexte="2009-10-16" id="LEGIARTI000027405963" naturetexte="DECRET" nortexte="IOCD0918274D" num="2" numtexte="2009-1249" sens="cible" typelien="CITATION">Décret n°2009-1249
+ du 16 octobre 2009 - art. 2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000021163904" datesignatexte="2009-10-16" id="LEGIARTI000021166749" naturetexte="DECRET" nortexte="IOCD0918264D" num="2" numtexte="2009-1250" sens="cible" typelien="CITATION">Décret n°2009-1250
+ du 16 octobre 2009 - art. 2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000022276189" datesignatexte="2010-05-28" id="LEGIARTI000049822566" naturetexte="DECRET" nortexte="IOCC0918466D" num="3" numtexte="2010-569" sens="cible" typelien="CITATION">Décret n°2010-569
+ du 28 mai 2010 - art. 3 (V)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000023781834" datesignatexte="2011-03-29" id="LEGIARTI000027405969" naturetexte="DECRET" nortexte="IOCD1026397D" num="2" numtexte="2011-340" sens="cible" typelien="CITATION">Décret n°2011-340 du 29 mars 2011 - art. 2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000023781859" datesignatexte="2011-03-29" id="LEGIARTI000023786396" naturetexte="DECRET" nortexte="IOCD1026432D" num="2" numtexte="2011-341" sens="cible" typelien="CITATION">Décret n°2011-341 du 29 mars 2011 - art. 2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000023781873" datesignatexte="2011-03-29" id="LEGIARTI000023786464" naturetexte="DECRET" nortexte="IOCD1026453D" num="2" numtexte="2011-342" sens="cible" typelien="CITATION">Décret n°2011-342 du 29 mars 2011 - art. 2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000024079803" datesignatexte="2011-05-26" id="LEGIARTI000024082366" naturetexte="DECRET" nortexte="BCRF1107603D" num="16" numtexte="2011-595" sens="cible" typelien="CITATION">Décret n°2011-595 du 26 mai 2011 - art. 16 (VT)</LIEN>
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000029218560" datesignatexte="2014-07-09" id="LEGIARTI000029222290" naturetexte="DECRET" nortexte="RDFB1404179D" num="25" numtexte="2014-793" sens="cible" typelien="CITATION">DÉCRET n°2014-793 du 9 juillet 2014 - art. 25 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000029527656" datesignatexte="2014-09-23" id="LEGIARTI000029529295" naturetexte="ARRETE" nortexte="AFSS1422606A" num="25" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 23 septembre 2014 - art. 25 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000030456649" datesignatexte="2015-04-03" id="LEGIARTI000030458015" naturetexte="DECRET" nortexte="AFSS1428487D" num="4" numtexte="2015-389" sens="cible" typelien="CITATION">DÉCRET n°2015-389 du 3 avril 2015 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030456681" datesignatexte="2015-04-03" id="LEGIARTI000030458331" naturetexte="DECRET" nortexte="AFSS1428491D" num="4" numtexte="2015-390" sens="cible" typelien="CITATION">DÉCRET n°2015-390 du 3 avril 2015 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030456722" datesignatexte="2015-04-03" id="LEGIARTI000030458281" naturetexte="DECRET" nortexte="AFSS1428496D" num="4" numtexte="2015-391" sens="cible" typelien="CITATION">DÉCRET n°2015-391 du 3 avril 2015 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030456746" datesignatexte="2015-04-03" id="LEGIARTI000030457871" naturetexte="DECRET" nortexte="AFSS1428502D" num="4" numtexte="2015-392" sens="cible" typelien="CITATION">DÉCRET n°2015-392 du 3 avril 2015 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030513627" datesignatexte="2015-04-15" id="LEGIARTI000030515005" naturetexte="ARRETE" nortexte="INTD1501632A" num="2" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 15 avril 2015 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000031501178" datesignatexte="2015-10-02" id="LEGIARTI000031504404" naturetexte="ARRETE" nortexte="DEFH1524357A" num="20" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 2 octobre 2015 - art. 20 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000031501128" datesignatexte="2015-10-02" id="LEGIARTI000031504365" naturetexte="ARRETE" nortexte="DEFH1524356A" num="21" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 2 octobre 2015 - art. 21 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000031646377" datesignatexte="2015-12-18" id="LEGIARTI000041476964" naturetexte="DECRET" nortexte="INTD1508550D" num="2" numtexte="2015-1700" sens="cible" typelien="CITATION">Décret n°2015-1700 du 18 décembre 2015 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033692891" datesignatexte="2016-12-23" id="LEGIARTI000043470949" naturetexte="DECRET" nortexte="INTD1629405D" num="3" numtexte="2016-1862" sens="cible" typelien="CITATION">Décret n°2016-1862 du 23 décembre 2016 - art. 3 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000036021023" datesignatexte="2017-11-14" id="LEGIARTI000036021737" naturetexte="DECRET" nortexte="SSAH1726802D" num="25" numtexte="2017-1560" sens="cible" typelien="CITATION">Décret n°2017-1560 du 14 novembre 2017 - art. 25 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000036335558" datesignatexte="2017-12-28" id="LEGIARTI000036497565" naturetexte="DECRET" nortexte="SSAH1727609D" num="24" numtexte="2017-1811" sens="cible" typelien="CITATION">Décret n°2017-1811 du 28 décembre 2017 - art. 24 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000038783046" datesignatexte="2019-07-17" id="LEGIARTI000038784277" naturetexte="DECRET" nortexte="INTD1825124D" num="4" numtexte="2019-743" sens="cible" typelien="CITATION">Décret n°2019-743 du 17 juillet 2019 - art. 4 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000039663072" datesignatexte="2019-12-23" id="LEGIARTI000039678067" naturetexte="DECRET" nortexte="JUST1931883D" num="3" numtexte="2019-1427" sens="cible" typelien="CITATION">Décret n°2019-1427 du 23 décembre 2019 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000039683923" datesignatexte="2019-12-28" id="LEGIARTI000048838697" naturetexte="LOI" nortexte="CPAX1925229L" num="154" numtexte="2019-1479" sens="cible" typelien="CITATION">LOI n° 2019-1479 du 28 décembre 2019 - art. 154 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000041615919" datesignatexte="2020-02-20" id="LEGIARTI000041619907" naturetexte="DECRET" nortexte="INTD1928788D" num="2" numtexte="2020-151" sens="cible" typelien="CITATION">Décret n°2020-151 du 20 février 2020 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000041763205" datesignatexte="2020-03-27" id="LEGIARTI000041765180" naturetexte="DECRET" nortexte="JUST1930979D" num="2" numtexte="2020-356" sens="cible" typelien="CITATION">Décret n°2020-356 du 27 mars 2020 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000041829148" datesignatexte="2020-04-28" id="LEGIARTI000041831439" naturetexte="DECRET" nortexte="INTD1925567D" num="1" numtexte="2020-487" sens="cible" typelien="CITATION">Décret n°2020-487 du 28 avril 2020 - art. 1</LIEN>
+
+<LIEN cidtexte="JORFTEXT000042032044" datesignatexte="2020-06-23" id="LEGIARTI000042034121" naturetexte="DECRET" nortexte="JUST2010856D" num="1" numtexte="2020-767" sens="cible" typelien="CITATION">Décret n°2020-767 du 23 juin 2020 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000042357259" datesignatexte="2020-09-23" id="LEGIARTI000042358207" naturetexte="DECRET" nortexte="JUST2016619D" num="4" numtexte="2020-1161" sens="cible" typelien="CITATION">Décret n°2020-1161 du 23 septembre 2020 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000043129895" datesignatexte="2021-02-11" id="LEGIARTI000043136397" naturetexte="DECRET" nortexte="ECOE2020899D" num="4" numtexte="2021-148" sens="cible" typelien="CITATION">Décret n°2021-148 du 11 février 2021 - art. 4 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000043148425" datesignatexte="2021-02-17" id="LEGIARTI000043152233" naturetexte="DECRET" nortexte="ARMD2031049D" num="2" numtexte="2021-170" sens="cible" typelien="CITATION">Décret n°2021-170 du 17 février 2021 - art. 2 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000043467570" datesignatexte="2021-04-30" id="LEGIARTI000043468714" naturetexte="DECRET" nortexte="TRAT2018364D" num="3" numtexte="2021-543" sens="cible" typelien="CITATION">Décret n°2021-543 du 30 avril 2021 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000043788600" datesignatexte="2021-07-12" id="LEGIARTI000043790184" naturetexte="DECRET" nortexte="INTD1935562D" num="1" numtexte="2021-928" sens="cible" typelien="CITATION">Décret n°2021-928 du 12 juillet 2021 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000044000423" datesignatexte="2021-08-25" id="LEGIARTI000044001315" naturetexte="ARRETE" nortexte="JUST2124822A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 25 août 2021 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000044041653" datesignatexte="2021-09-13" id="LEGIARTI000044042314" naturetexte="DECRET" nortexte="JUST2115243D" num="1" numtexte="2021-1182" sens="cible" typelien="CITATION">Décret n°2021-1182 du 13 septembre 2021 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000044137967" datesignatexte="2021-09-30" id="LEGIARTI000048587988" naturetexte="DECRET" nortexte="JUST2129635D" num="2" numtexte="2021-1276" sens="cible" typelien="CITATION">Décret n°2021-1276 du 30 septembre 2021 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000044315354" datesignatexte="2021-11-09" id="LEGIARTI000044317939" naturetexte="DECRET" nortexte="JUST2114818D" num="1" numtexte="2021-1469" sens="cible" typelien="CITATION">Décret n°2021-1469 du 9 novembre 2021 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000044454057" datesignatexte="2021-12-07" id="LEGIARTI000044455324" naturetexte="DECRET" nortexte="PRMD2131887D" num="6" numtexte="2021-1587" sens="cible" typelien="CITATION">Décret n°2021-1587 du 7 décembre 2021 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045298303" datesignatexte="2022-03-04" id="LEGIARTI000049277821" naturetexte="DECRET" nortexte="INTD2203965D" num="2" numtexte="2022-316" sens="cible" typelien="CITATION">Décret n°2022-316 du 4 mars 2022 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045332312" datesignatexte="2022-03-10" id="LEGIARTI000045334159" naturetexte="DECRET" nortexte="INTD2135514D" num="3" numtexte="2022-337" sens="cible" typelien="CITATION">Décret n°2022-337 du 10 mars 2022 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045365246" datesignatexte="2022-03-15" id="LEGIARTI000045368460" naturetexte="DECRET" nortexte="PRMD2136349D" num="3" numtexte="2022-367" sens="cible" typelien="CITATION">Décret n°2022-367 du 15 mars 2022 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045365278" datesignatexte="2022-03-15" id="LEGIARTI000045368492" naturetexte="DECRET" nortexte="PRMD2136351D" num="3" numtexte="2022-368" sens="cible" typelien="CITATION">Décret n°2022-368 du 15 mars 2022 - art. 3 (V)</LIEN>
+
+
+
+<LIEN cidtexte="LEGITEXT000045476241" datesignatexte="2999-01-01" id="LEGIARTI000045494188" naturetexte="CODE" nortexte="" num="R113-51" numtexte="" sens="cible" typelien="CITATION">Code pénitentiaire - art. R113-51 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000045476241" datesignatexte="2999-01-01" id="LEGIARTI000045491602" naturetexte="CODE" nortexte="" num="R631-7" numtexte="" sens="cible" typelien="CITATION">Code pénitentiaire - art. R631-7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045638527" datesignatexte="2022-04-21" id="LEGIARTI000045646314" naturetexte="DECRET" nortexte="ECOI2204544D" num="6" numtexte="2022-603" sens="cible" typelien="CITATION">Décret n°2022-603 du 21 avril 2022 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045638609" datesignatexte="2022-04-21" id="LEGIARTI000045642975" naturetexte="DECRET" nortexte="INTD2205517D" num="3" numtexte="2022-605" sens="cible" typelien="CITATION">Décret n°2022-605 du 21 avril 2022 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000045683289" datesignatexte="2022-04-27" id="LEGIARTI000045685001" naturetexte="DECRET" nortexte="INTD2129299D" num="1" numtexte="2022-712" sens="cible" typelien="CITATION">Décret n°2022-712 du 27 avril 2022 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000045911565" datesignatexte="2022-06-14" id="LEGIARTI000045913901" naturetexte="DECRET" nortexte="JUSC2126715D" num="2" numtexte="2022-886" sens="cible" typelien="CITATION">Décret n°2022-886 du 14 juin 2022 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000046298077" datesignatexte="2022-09-16" id="LEGIARTI000046300839" naturetexte="DECRET" nortexte="IOMD2129320D" num="4" numtexte="2022-1235" sens="cible" typelien="CITATION">Décret n°2022-1235 du 16 septembre 2022 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000046421981" datesignatexte="2022-10-13" id="LEGIARTI000046423102" naturetexte="DECRET" nortexte="JUST2228419D" num="2" numtexte="2022-1318" sens="cible" typelien="CITATION">Décret n°2022-1318 du 13 octobre 2022 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000046528079" datesignatexte="2022-11-04" id="LEGIARTI000046529137" naturetexte="DECRET" nortexte="IOMD2222782D" num="3" numtexte="2022-1405" sens="cible" typelien="CITATION">Décret n°2022-1405 du 4 novembre 2022 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000047090849" datesignatexte="2023-02-03" id="LEGIARTI000047093225" naturetexte="DECRET" nortexte="IOMD2229276D" num="2" numtexte="2023-64" sens="cible" typelien="CITATION">Décret n°2023-64 du 3 février 2023 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000047096968" datesignatexte="2023-02-06" id="LEGIARTI000047098087" naturetexte="DECRET" nortexte="APHZ2228547D" num="2" numtexte="2023-72" sens="cible" typelien="CITATION">Décret n°2023-72 du 6 février 2023 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000047351003" datesignatexte="2023-03-27" id="LEGIARTI000047351892" naturetexte="DECRET" nortexte="IOMD2234373D" num="1" numtexte="2023-205" sens="cible" typelien="CITATION">Décret n°2023-205 du 27 mars 2023 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000047351003" datesignatexte="2023-03-27" id="LEGIARTI000047351894" naturetexte="DECRET" nortexte="IOMD2234373D" num="2" numtexte="2023-205" sens="cible" typelien="CITATION">Décret n°2023-205 du 27 mars 2023 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000047416587" datesignatexte="2023-04-06" id="LEGIARTI000047417903" naturetexte="DECRET" nortexte="IOMD2232477D" num="3" numtexte="2023-255" sens="cible" typelien="CITATION">Décret n°2023-255 du 6 avril 2023 - art. 3 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000047495761" datesignatexte="2023-04-25" id="LEGIARTI000047496625" naturetexte="DECRET" nortexte="JUSD2302927D" num="2" numtexte="2023-309" sens="cible" typelien="CITATION">Décret n°2023-309 du 25 avril 2023 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000047623784" datesignatexte="2023-06-01" id="LEGIARTI000047628626" naturetexte="DECRET" nortexte="ECOC2301922D" num="3" numtexte="2023-428" sens="cible" typelien="CITATION">Décret n°2023-428 du 1er juin 2023 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000047752840" datesignatexte="2023-06-29" id="LEGIARTI000047766504" naturetexte="DECRET" nortexte="IOMD2230498D" num="1" numtexte="2023-526" sens="cible" typelien="CITATION">Décret n°2023-526 du 29 juin 2023 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000048178496" datesignatexte="2023-10-05" id="LEGIARTI000048180291" naturetexte="ARRETE" nortexte="IOMA2324456A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 5 octobre 2023 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000048178439" datesignatexte="2023-10-09" id="LEGIARTI000048179433" naturetexte="DECRET" nortexte="IOMD2320522D" num="3" numtexte="2023-932" sens="cible" typelien="CITATION">Décret n°2023-932 du 9 octobre 2023 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000048249440" datesignatexte="2023-10-23" id="LEGIARTI000048250315" naturetexte="DECRET" nortexte="IOMD2320245D" num="4" numtexte="2023-979" sens="cible" typelien="CITATION">Décret n°2023-979 du 23 octobre 2023 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000048424527" datesignatexte="2023-11-13" id="LEGIARTI000048428035" naturetexte="ARRETE" nortexte="PRMD2330511A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 novembre 2023 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000048473212" datesignatexte="2023-11-27" id="LEGIARTI000048474602" naturetexte="DECRET" nortexte="IOMD2315018D" num="3" numtexte="2023-1102" sens="cible" typelien="CITATION">Décret n°2023-1102 du 27 novembre 2023 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000048542243" datesignatexte="2023-12-07" id="LEGIARTI000048545439" naturetexte="DECRET" nortexte="SPOV2319543D" num="7" numtexte="2023-1157" sens="cible" typelien="CITATION">Décret n°2023-1157 du 7 décembre 2023 - art. 7</LIEN>
+<LIEN cidtexte="JORFTEXT000048660357" datesignatexte="2023-12-22" id="LEGIARTI000048663178" naturetexte="DECRET" nortexte="SPOV2327957D" num="6" numtexte="2023-1249" sens="cible" typelien="CITATION">Décret n°2023-1249 du 22 décembre 2023 - art. 6</LIEN>
+<LIEN cidtexte="JORFTEXT000048728241" datesignatexte="2023-12-14" id="LEGIARTI000048907160" naturetexte="ARRETE" nortexte="IOMC2329856A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 14 décembre 2023 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000048728093" datesignatexte="2023-12-28" id="LEGIARTI000048804208" naturetexte="DECRET" nortexte="IOMD2328496D" num="1" numtexte="2023-1330" sens="cible" typelien="CITATION">Décret n°2023-1330 du 28 décembre 2023 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000048735725" datesignatexte="2023-12-30" id="LEGIARTI000048858183" naturetexte="DECRET" nortexte="JUSD2332513D" num="1" numtexte="2023-1395" sens="cible" typelien="CITATION">Décret n°2023-1395 du 30 décembre 2023 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000049209968" datesignatexte="2024-02-27" id="LEGIARTI000049213952" naturetexte="DECRET" nortexte="IOMD2328065D" num="1" numtexte="2024-155" sens="cible" typelien="CITATION">Décret n°2024-155 du 27 février 2024 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000049283191" datesignatexte="2024-03-14" id="LEGITEXT000049284305" naturetexte="DECRET" nortexte="ARMD2335534D" num="" numtexte="2024-225" sens="cible" typelien="CITATION">Décret n°2024-225 du 14 mars 2024 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049295001" datesignatexte="2024-03-18" id="LEGIARTI000049296019" naturetexte="DECRET" nortexte="IOMD2332883D" num="1" numtexte="2024-238" sens="cible" typelien="CITATION">Décret n°2024-238 du 18 mars 2024 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000049304227" datesignatexte="2024-03-18" id="LEGIARTI000049305998" naturetexte="ARRETE" nortexte="JUST2334817A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 18 mars 2024 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049331391" datesignatexte="2024-03-20" id="LEGIARTI000049334409" naturetexte="ARRETE" nortexte="ARMH2408453A" num="17" numtexte="" sens="cible" typelien="CITATION">Arrêté du 20 mars 2024 - art. 17 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049331477" datesignatexte="2024-03-20" id="LEGIARTI000049334766" naturetexte="ARRETE" nortexte="ARMH2408459A" num="17" numtexte="" sens="cible" typelien="CITATION">Arrêté du 20 mars 2024 - art. 17 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049392869" datesignatexte="2024-04-08" id="LEGIARTI000049395766" naturetexte="DECRET" nortexte="IOMD2326389D" num="5" numtexte="2024-323" sens="cible" typelien="CITATION">Décret n°2024-323 du 8 avril 2024 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049607599" datesignatexte="2024-05-27" id="LEGIARTI000049608492" naturetexte="DECRET" nortexte="IOMD2407308D" num="1" numtexte="2024-478" sens="cible" typelien="CITATION">Décret n°2024-478 du 27 mai 2024 - art. 1</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000050036675" datesignatexte="2024-07-19" id="LEGIARTI000050039900" naturetexte="DECRET" nortexte="PRMD2416738D" num="3" numtexte="2024-847" sens="cible" typelien="CITATION">Décret n°2024-847 du 19 juillet 2024 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050336769" datesignatexte="2024-10-11" id="LEGIARTI000050338163" naturetexte="DECRET" nortexte="INTD2407022D" num="2" numtexte="2024-928" sens="cible" typelien="CITATION">Décret n°2024-928 du 11 octobre 2024 - art. 2 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000050626882" datesignatexte="2024-11-19" id="LEGIARTI000050627916" naturetexte="ARRETE" nortexte="INTJ2334737A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 novembre 2024 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050935013" datesignatexte="2024-12-31" id="LEGITEXT000050937370" naturetexte="DECRET" nortexte="ECOE2429193D" num="" numtexte="2024-1274" sens="cible" typelien="CITATION">Décret n°2024-1274 du 31 décembre 2024 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051020599" datesignatexte="2025-01-22" id="LEGIARTI000051021381" naturetexte="DECRET" nortexte="JUSD2429224D" num="2" numtexte="2025-59" sens="cible" typelien="CITATION">Décret n°2025-59 du 22 janvier 2025 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051132268" datesignatexte="2025-01-31" id="LEGIARTI000051135277" naturetexte="ARRETE" nortexte="JUST2500407A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 31 janvier 2025 - art. 2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000048590619" naturetexte="CODE" nortexte="" num="L263-4-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L263-4-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000033861577" naturetexte="CODE" nortexte="" num="L1111-26" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L1111-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049051136" naturetexte="CODE" nortexte="" num="L232-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L232-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887356" naturetexte="CODE" nortexte="" num="L863-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L863-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049822439" naturetexte="CODE" nortexte="" num="R231-9" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R231-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000028285250" naturetexte="CODE" nortexte="" num="R236-12" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-12 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000044928612" naturetexte="CODE" nortexte="" num="R236-13" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000042610683" naturetexte="CODE" nortexte="" num="R236-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000028285272" naturetexte="CODE" nortexte="" num="R236-22" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-22 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000044928669" naturetexte="CODE" nortexte="" num="R236-23" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000042610696" naturetexte="CODE" nortexte="" num="R236-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000028285294" naturetexte="CODE" nortexte="" num="R236-32" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-32 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000047353370" naturetexte="CODE" nortexte="" num="R236-33" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-33 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000028285310" naturetexte="CODE" nortexte="" num="R236-39" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-39 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049214144" naturetexte="CODE" nortexte="" num="R236-56" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R236-56 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000046517588" naturetexte="CODE" nortexte="" num="R241-10" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R241-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000045650905" naturetexte="CODE" nortexte="" num="R241-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R241-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000047766568" naturetexte="CODE" nortexte="" num="R241-20" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R241-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000047468156" naturetexte="CODE" nortexte="" num="R242-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R242-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000047466117" naturetexte="CODE" nortexte="" num="R242-9" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R242-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049300950" naturetexte="CODE" nortexte="" num="R243-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R243-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000048480260" naturetexte="CODE" nortexte="" num="R253-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R253-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000048804374" naturetexte="CODE" nortexte="" num="R256-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R256-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000041831546" naturetexte="CODE" nortexte="" num="R312-85" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R312-85 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048180323" naturetexte="CODE" nortexte="" num="R15-33-78" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R15-33-78 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044042363" naturetexte="CODE" nortexte="" num="R2-15-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R2-15-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049608646" naturetexte="CODE" nortexte="" num="R2-32" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R2-32 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042034642" naturetexte="CODE" nortexte="" num="R249-11" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R249-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044320972" naturetexte="CODE" nortexte="" num="R40-44" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-44 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044320944" naturetexte="CODE" nortexte="" num="R40-46" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-46 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048860126" naturetexte="CODE" nortexte="" num="R40-58" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-58 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042358349" naturetexte="CODE" nortexte="" num="R61-44" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R61-44 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051740464" naturetexte="CODE" nortexte="" num="67 sexies" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 sexies (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074236" datesignatexte="2999-01-01" id="LEGIARTI000019202832" naturetexte="CODE" nortexte="" num="L212-3" numtexte="" sens="cible" typelien="CITATION">Code du patrimoine. - art. L212-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000048663536" naturetexte="CODE" nortexte="" num="R232-41-13-2" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. R232-41-13-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000048545658" naturetexte="CODE" nortexte="" num="R232-67-23" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. R232-67-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000025008152" naturetexte="CODE" nortexte="" num="R2224-18" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2224-18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000037237385" naturetexte="CODE" nortexte="" num="R511-49-1" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R511-49-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000039278611" naturetexte="CODE" nortexte="" num="L288" numtexte="" sens="cible" typelien="CITATION">Livre des procédures fiscales - art. L288 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

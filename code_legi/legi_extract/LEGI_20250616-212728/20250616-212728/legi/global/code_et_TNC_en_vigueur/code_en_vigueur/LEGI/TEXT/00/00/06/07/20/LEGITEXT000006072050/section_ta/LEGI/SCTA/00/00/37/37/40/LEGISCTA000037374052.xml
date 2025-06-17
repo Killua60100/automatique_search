@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000037374052</ID>
+<TITRE_TA>Section 1 : Principes généraux&#13;
+</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2019-01-01" etat="MODIFIE" fin="2019-08-23" id="LEGIARTI000037374054" num="L6113-1" origine="LEGI"/>
+<LIEN_ART debut="2019-08-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038951917" num="L6113-1" origine="LEGI"/>
+<LIEN_ART debut="2019-01-01" etat="MODIFIE" fin="2019-08-23" id="LEGIARTI000037374056" num="L6113-2" origine="LEGI"/>
+<LIEN_ART debut="2019-08-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038951914" num="L6113-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006112874">Partie législative  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006132349">Sixième partie : La formation professionnelle tout au long de la vie </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2015-01-01" id="LEGISCTA000006145420">LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION INSTITUTIONNELLE DE LA FORMATION PROFESSIONNELLE</TITRE_TM>
+<TITRE_TM debut="2015-01-01" fin="2999-01-01" id="LEGISCTA000028698915">Livre Ier : Principes généraux et organisation institutionnelle de la formation et de l'orientation professionnelles </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006160816">Titre Ier : Principes généraux </TITRE_TM>
+<TM>
+<TITRE_TM debut="2019-01-01" fin="2999-01-01" id="LEGISCTA000037374050">Chapitre III : La certification professionnelle&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

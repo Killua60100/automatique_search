@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006174242</ID>
+<TITRE_TA>Section I : Personnes assujetties.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-01-05" etat="MODIFIE" fin="1999-06-19" id="LEGIARTI000006795335" num="L211-1" origine="LEGI"/>
+<LIEN_ART debut="1976-07-21" etat="MODIFIE" fin="1981-07-01" id="LEGIARTI000006795331" num="L211-1" origine="LEGI"/>
+<LIEN_ART debut="1986-01-01" etat="MODIFIE" fin="1990-07-01" id="LEGIARTI000006795333" num="L211-1" origine="LEGI"/>
+<LIEN_ART debut="1999-06-19" etat="MODIFIE" fin="2007-12-19" id="LEGIARTI000006795336" num="L211-1" origine="LEGI"/>
+<LIEN_ART debut="2007-12-19" etat="MODIFIE" fin="2023-12-08" id="LEGIARTI000017735447" num="L211-1" origine="LEGI"/>
+<LIEN_ART debut="2023-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048523650" num="L211-1" origine="LEGI"/>
+<LIEN_ART debut="1981-07-01" etat="MODIFIE" fin="1986-01-01" id="LEGIARTI000006795332" num="L211-1" origine="LEGI"/>
+<LIEN_ART debut="2020-02-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000041572245" num="L211-1-1" origine="LEGI"/>
+<LIEN_ART debut="1990-07-01" etat="MODIFIE" fin="1994-01-05" id="LEGIARTI000006795334" num="L211-1" origine="LEGI"/>
+<LIEN_ART debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006795351" num="L211-2" origine="LEGI"/>
+<LIEN_ART debut="1976-07-21" etat="ABROGE" fin="1997-01-01" id="LEGIARTI000006795361" num="L211-3" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073984" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des assurances" debut="1976-07-11" fin="2999-01-01" id_txt="LEGITEXT000006073984">Code des assurances</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1976-07-16" fin="2999-01-01" id="LEGISCTA000006107964">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1976-07-21" fin="2999-01-01" id="LEGISCTA000006128442">Livre II : Assurances obligatoires</TITRE_TM>
+<TM>
+<TITRE_TM debut="1976-07-21" fin="2999-01-01" id="LEGISCTA000006142795">Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques</TITRE_TM>
+<TM>
+<TITRE_TM debut="1976-07-21" fin="2999-01-01" id="LEGISCTA000006157480">Chapitre Ier : L'obligation de s'assurer</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

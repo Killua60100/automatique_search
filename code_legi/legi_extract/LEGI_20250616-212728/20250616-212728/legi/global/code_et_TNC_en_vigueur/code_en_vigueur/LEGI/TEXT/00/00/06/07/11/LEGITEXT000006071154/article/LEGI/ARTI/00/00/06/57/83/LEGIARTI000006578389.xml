@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006578389</ID>
+<ANCIEN_ID>PXXXXXXXXXX0800L000AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/83/LEGIARTI000006578389.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>800</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2006-01-24</DATE_DEBUT>
+<DATE_FIN>2020-12-31</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121331">Livre V : Des procédures d'exécution</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006138157">Titre X : Des frais de justice</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1959-03-02" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006578388" num="800" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2020-12-31" id="LEGIARTI000006578389" num="800" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2020-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042915828" num="800" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Un décret en Conseil d'Etat détermine les frais qui doivent être compris sous la dénomination de frais de justice criminelle, correctionnelle et de police ; il en établit le tarif ou fixe les modalités selon lesquelles ce tarif est établi, en règle le paiement et le recouvrement, détermine les voies de recours, fixe les conditions que doivent remplir les parties prenantes et, d'une façon générale, règle tout ce qui touche aux frais de justice en matière criminelle, correctionnelle et de police.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance 58-1296 1958-12-23</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682935" naturetexte="DECRET" nortexte="" num="1" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682945" naturetexte="DECRET" nortexte="" num="10" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682946" naturetexte="DECRET" nortexte="" num="11" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 11 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682947" naturetexte="DECRET" nortexte="" num="12" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 12 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682948" naturetexte="DECRET" nortexte="" num="13" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682936" naturetexte="DECRET" nortexte="" num="2" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682937" naturetexte="DECRET" nortexte="" num="3" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682938" naturetexte="DECRET" nortexte="" num="4" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 4 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682939" naturetexte="DECRET" nortexte="" num="5" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 5 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682940" naturetexte="DECRET" nortexte="" num="6" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682941" naturetexte="DECRET" nortexte="" num="7" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 7 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682943" naturetexte="DECRET" nortexte="" num="8" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 8 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000854545" datesignatexte="1959-09-21" id="LEGIARTI000006682944" naturetexte="DECRET" nortexte="" num="9" numtexte="59-1095" sens="cible" typelien="CITATION">Décret n°59-1095 du 21 septembre 1959 - art. 9 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000692485" datesignatexte="1983-06-27" id="LEGIARTI000006492396" naturetexte="LOI" nortexte="" num="65" numtexte="83-520" sens="cible" typelien="CITATION">Loi n°83-520 du 27 juin 1983 - art. 65 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000875426" datesignatexte="1988-01-22" id="LEGIARTI000021958816" naturetexte="LOI" nortexte="DOMX8700150L" num="145" numtexte="88-82" sens="cible" typelien="CITATION">Loi n°88-82 du 22 janvier 1988 - art. 145 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000504824" datesignatexte="1988-05-06" id="LEGITEXT000006066699" naturetexte="DECRET" nortexte="JUSD8830034D" num="" numtexte="88-600" sens="cible" typelien="TXT_SOURCE">Décret n°88-600 du 6 mai 1988</LIEN>
+<LIEN cidtexte="JORFTEXT000000504824" datesignatexte="1988-05-06" id="LEGIARTI000006495946" naturetexte="DECRET" nortexte="JUSD8830034D" num="20" numtexte="88-600" sens="cible" typelien="TXT_SOURCE">Décret n°88-600 du 6 mai 1988 - art. 20 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000504824" datesignatexte="1988-05-06" id="LEGIARTI000006495947" naturetexte="DECRET" nortexte="JUSD8830034D" num="21" numtexte="88-600" sens="cible" typelien="TXT_SOURCE">Décret n°88-600 du 6 mai 1988 - art. 21 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000546575" datesignatexte="1994-02-01" id="LEGIARTI000006492324" naturetexte="LOI" nortexte="JUSX9300152L" num="23" numtexte="94-89" sens="cible" typelien="CITATION">Loi n°94-89 du 1 février 1994 - art. 23 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000441044" datesignatexte="2004-10-21" id="LEGIARTI000006235407" naturetexte="DECRET" nortexte="SOCA0422170D" num="4" numtexte="2004-1136" sens="cible" typelien="CITATION">Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000454124" datesignatexte="2006-01-23" id="LEGIARTI000006529870" naturetexte="LOI" nortexte="INTX0500242L" num="18" numtexte="2006-64" sens="source" typelien="MODIFICATION">Loi n°2006-64 du 23 janvier 2006 - art. 18 () JORF 24 janvier 2006</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000050729314" datesignatexte="2024-12-04" id="LEGITEXT000050734898" naturetexte="ARRETE" nortexte="JUSB2429531A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 décembre 2024 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517975" naturetexte="CODE" nortexte="" num="R100" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R100 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517976" naturetexte="CODE" nortexte="" num="R101" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R101 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517977" naturetexte="CODE" nortexte="" num="R102" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R102 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517978" naturetexte="CODE" nortexte="" num="R103" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R103 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517979" naturetexte="CODE" nortexte="" num="R104" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R104 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517981" naturetexte="CODE" nortexte="" num="R105" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R105 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517983" naturetexte="CODE" nortexte="" num="R106" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R106 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517987" naturetexte="CODE" nortexte="" num="R107" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R107 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517988" naturetexte="CODE" nortexte="" num="R108" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R108 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517989" naturetexte="CODE" nortexte="" num="R109" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R109 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517990" naturetexte="CODE" nortexte="" num="R110" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R110 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517991" naturetexte="CODE" nortexte="" num="R111" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R111 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517993" naturetexte="CODE" nortexte="" num="R112" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R112 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517996" naturetexte="CODE" nortexte="" num="R113" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R113 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517997" naturetexte="CODE" nortexte="" num="R114" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R114 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517999" naturetexte="CODE" nortexte="" num="R115" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R115 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518000" naturetexte="CODE" nortexte="" num="R116" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R116 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518002" naturetexte="CODE" nortexte="" num="R116-1" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R116-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518005" naturetexte="CODE" nortexte="" num="R117" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R117 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518009" naturetexte="CODE" nortexte="" num="R118" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R118 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518011" naturetexte="CODE" nortexte="" num="R119" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R119 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518012" naturetexte="CODE" nortexte="" num="R120" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R120 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518014" naturetexte="CODE" nortexte="" num="R120-1" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R120-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518022" naturetexte="CODE" nortexte="" num="R121" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R121 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518031" naturetexte="CODE" nortexte="" num="R121-1" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R121-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518043" naturetexte="CODE" nortexte="" num="R122" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R122 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518046" naturetexte="CODE" nortexte="" num="R123" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R123 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518049" naturetexte="CODE" nortexte="" num="R124" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R124 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518050" naturetexte="CODE" nortexte="" num="R125" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R125 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518051" naturetexte="CODE" nortexte="" num="R126" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R126 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518052" naturetexte="CODE" nortexte="" num="R127" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R127 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518054" naturetexte="CODE" nortexte="" num="R128" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R128 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518058" naturetexte="CODE" nortexte="" num="R129" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R129 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518061" naturetexte="CODE" nortexte="" num="R130" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R130 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518062" naturetexte="CODE" nortexte="" num="R131" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R131 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518063" naturetexte="CODE" nortexte="" num="R132" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R132 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518065" naturetexte="CODE" nortexte="" num="R133" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R133 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518066" naturetexte="CODE" nortexte="" num="R134" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R134 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518067" naturetexte="CODE" nortexte="" num="R135" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R135 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518068" naturetexte="CODE" nortexte="" num="R136" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R136 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518069" naturetexte="CODE" nortexte="" num="R137" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R137 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518070" naturetexte="CODE" nortexte="" num="R138" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R138 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518072" naturetexte="CODE" nortexte="" num="R139" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R139 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518076" naturetexte="CODE" nortexte="" num="R140" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R140 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518077" naturetexte="CODE" nortexte="" num="R141" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R141 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518078" naturetexte="CODE" nortexte="" num="R142" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R142 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518079" naturetexte="CODE" nortexte="" num="R143" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R143 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518080" naturetexte="CODE" nortexte="" num="R144" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R144 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518082" naturetexte="CODE" nortexte="" num="R145" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R145 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518083" naturetexte="CODE" nortexte="" num="R146" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R146 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518088" naturetexte="CODE" nortexte="" num="R147" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R147 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518092" naturetexte="CODE" nortexte="" num="R147-1" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R147-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518094" naturetexte="CODE" nortexte="" num="R148" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R148 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518096" naturetexte="CODE" nortexte="" num="R149" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R149 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518097" naturetexte="CODE" nortexte="" num="R150" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R150 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518098" naturetexte="CODE" nortexte="" num="R151" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R151 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518318" naturetexte="CODE" nortexte="" num="R152" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R152 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518099" naturetexte="CODE" nortexte="" num="R153" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R153 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518101" naturetexte="CODE" nortexte="" num="R154" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R154 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518104" naturetexte="CODE" nortexte="" num="R155" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R155 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518105" naturetexte="CODE" nortexte="" num="R156" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R156 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518106" naturetexte="CODE" nortexte="" num="R157" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R157 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518107" naturetexte="CODE" nortexte="" num="R158" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R158 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518108" naturetexte="CODE" nortexte="" num="R159" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R159 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518109" naturetexte="CODE" nortexte="" num="R160" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R160 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518110" naturetexte="CODE" nortexte="" num="R161" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R161 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518112" naturetexte="CODE" nortexte="" num="R162" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R162 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518113" naturetexte="CODE" nortexte="" num="R163" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R163 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518319" naturetexte="CODE" nortexte="" num="R164" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R164 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518116" naturetexte="CODE" nortexte="" num="R165" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R165 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518118" naturetexte="CODE" nortexte="" num="R167" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R167 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518119" naturetexte="CODE" nortexte="" num="R168" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R168 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518121" naturetexte="CODE" nortexte="" num="R169" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R169 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518122" naturetexte="CODE" nortexte="" num="R170" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R170 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518123" naturetexte="CODE" nortexte="" num="R171" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R171 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518124" naturetexte="CODE" nortexte="" num="R172" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R172 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518125" naturetexte="CODE" nortexte="" num="R173" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R173 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518126" naturetexte="CODE" nortexte="" num="R174" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R174 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518321" naturetexte="CODE" nortexte="" num="R175" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R175 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518322" naturetexte="CODE" nortexte="" num="R177" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R177 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518128" naturetexte="CODE" nortexte="" num="R178" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R178 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517940" naturetexte="CODE" nortexte="" num="R91" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R91 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517942" naturetexte="CODE" nortexte="" num="R92" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R92 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517963" naturetexte="CODE" nortexte="" num="R93" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R93 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517967" naturetexte="CODE" nortexte="" num="R94" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R94 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517968" naturetexte="CODE" nortexte="" num="R95" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R95 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517969" naturetexte="CODE" nortexte="" num="R96" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R96 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517970" naturetexte="CODE" nortexte="" num="R97" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R97 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517973" naturetexte="CODE" nortexte="" num="R98" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R98 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517974" naturetexte="CODE" nortexte="" num="R99" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. R99 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000051742280" naturetexte="CODE" nortexte="" num="L325-1-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L325-1-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

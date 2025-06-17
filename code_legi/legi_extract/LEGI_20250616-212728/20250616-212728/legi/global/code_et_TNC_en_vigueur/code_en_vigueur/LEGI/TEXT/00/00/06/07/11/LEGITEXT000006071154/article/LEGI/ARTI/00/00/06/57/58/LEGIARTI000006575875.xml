@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575875</ID>
+<ANCIEN_ID>PXXXXXXXXXX0194L000AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/58/LEGIARTI000006575875.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>194</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1988-10-01</DATE_DEBUT>
+<DATE_FIN>1993-03-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2001-01-01" id="LEGISCTA000006151885">Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2001-01-01" id="LEGISCTA000006167453">Section 1 : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1960-06-08" etat="MODIFIE" fin="1988-10-01" id="LEGIARTI000006575874" num="194" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1988-10-01" etat="MODIFIE" fin="1993-03-01" id="LEGIARTI000006575875" num="194" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="1993-09-02" id="LEGIARTI000006575876" num="194" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-09-02" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575877" num="194" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2011-12-15" id="LEGIARTI000006575878" num="194" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-12-15" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000024967434" num="194" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-01-26" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000045071215" num="194" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742903" num="194" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le procureur général met l'affaire en état dans les quarante-huit heures de la réception des pièces en matière de détention provisoire et dans les dix jours en toute autre matière ; il la soumet, avec son réquisitoire, à la chambre d'accusation.<br/>
+<br/>   Celle-ci doit, en matière de détention provisoire, se prononcer dans les plus brefs délais et au plus tard dans les quinze jours de l'appel prévu par l'article 186, faute de quoi l'inculpé est mis d'office en liberté, sauf si des vérifications concernant sa demande ont été ordonnées ou si des circonstances imprévisibles et insurmontables mettent obstacle au jugement de l'affaire dans le délai prévu au présent article.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000874488" datesignatexte="1987-12-30" id="LEGIARTI000006490909" naturetexte="LOI" nortexte="JUSX8700154L" num="13" numtexte="87-1062" sens="source" typelien="MODIFICATION">Loi n°87-1062 du 30 décembre 1987 - art. 13 () JORF 31 décembre 1987 en vigueur le 1er octobre 1988</LIEN>
+
+
+
+
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000045072367" naturetexte="CODE" nortexte="" num="L423-13" numtexte="" sens="cible" typelien="CITATION">Code de la justice pénale des mineurs - art. L423-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000045072359" naturetexte="CODE" nortexte="" num="L531-4" numtexte="" sens="cible" typelien="CITATION">Code de la justice pénale des mineurs - art. L531-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575420" naturetexte="CODE" nortexte="" num="186-1" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 186-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048441808" naturetexte="CODE" nortexte="" num="145-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 145-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048441794" naturetexte="CODE" nortexte="" num="145-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 145-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038312041" naturetexte="CODE" nortexte="" num="173" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 173 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048441733" naturetexte="CODE" nortexte="" num="186" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 186 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032655366" naturetexte="CODE" nortexte="" num="194-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 194-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044569735" naturetexte="CODE" nortexte="" num="199" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 199 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576004" naturetexte="CODE" nortexte="" num="207-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 207-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032655341" naturetexte="CODE" nortexte="" num="728-69" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 728-69 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038369344" naturetexte="CODE" nortexte="" num="81" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 81 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043999562" naturetexte="CODE" nortexte="" num="D43-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D43-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

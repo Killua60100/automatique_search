@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006138841</ID>
+<TITRE_TA>Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1949-01-01" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000006615393" num="60" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047861397" num="60" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006615399" num="60 bis" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859031" num="60-1" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859033" num="60-2" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859035" num="60-3" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859037" num="60-4" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859039" num="60-5" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859041" num="60-6" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859043" num="60-7" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859045" num="60-8" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859047" num="60-9" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047859049" num="60-10" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000006615400" num="60 bis" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000041781182" num="60 bis" origine="LEGI"/>
+<LIEN_ART debut="1949-01-01" etat="MODIFIE" fin="2017-03-02" id="LEGIARTI000006615394" num="61" origine="LEGI"/>
+<LIEN_ART debut="2017-03-02" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000034114615" num="61" origine="LEGI"/>
+<LIEN_ART debut="1988-01-05" etat="MODIFIE" fin="2001-05-04" id="LEGIARTI000006615396" num="62" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000023709763" num="61 bis" origine="LEGI"/>
+<LIEN_ART debut="2001-05-04" etat="MODIFIE" fin="2014-07-03" id="LEGIARTI000006615397" num="62" origine="LEGI"/>
+<LIEN_ART debut="2014-07-03" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000029188672" num="62" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047861476" num="62" origine="LEGI"/>
+<LIEN_ART debut="1968-08-01" etat="MODIFIE" fin="1988-01-05" id="LEGIARTI000006615395" num="62" origine="LEGI"/>
+<LIEN_ART debut="1949-01-01" etat="MODIFIE" fin="2014-07-03" id="LEGIARTI000006615398" num="63" origine="LEGI"/>
+<LIEN_ART debut="2014-07-03" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000029188666" num="63" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000041783736" num="63" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047861470" num="63" origine="LEGI"/>
+<LIEN_ART debut="1969-03-28" etat="MODIFIE" fin="1993-08-11" id="LEGIARTI000006615401" num="63 bis" origine="LEGI"/>
+<LIEN_ART debut="1993-08-11" etat="MODIFIE" fin="2016-12-10" id="LEGIARTI000006615402" num="63 bis" origine="LEGI"/>
+<LIEN_ART debut="2016-12-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033557473" num="63 bis" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006099261">Titre II : Organisation et fonctionnement du service des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006122076">Chapitre IV : Pouvoirs des agents des douanes</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

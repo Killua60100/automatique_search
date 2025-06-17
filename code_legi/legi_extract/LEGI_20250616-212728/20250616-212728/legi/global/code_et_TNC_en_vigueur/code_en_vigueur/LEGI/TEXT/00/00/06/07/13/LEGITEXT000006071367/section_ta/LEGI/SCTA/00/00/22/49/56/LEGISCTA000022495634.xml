@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000022495634</ID>
+<TITRE_TA>Chapitre IV : La mise en vente, la vente, la distribution à titre gratuit, l'application et le conseil à l'utilisation des produits phytopharmaceutiques</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006168001" debut="2006-07-01" etat="MODIFIE" fin="2010-07-14" id="LEGISCTA000006168001" niv="5" url="/LEGI/SCTA/00/00/06/16/80/LEGISCTA000006168001.xml">Section 1 : Dispositions générales.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006168001" debut="2010-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022495632" niv="5" url="/LEGI/SCTA/00/00/22/49/56/LEGISCTA000022495632.xml">Section 1 : Conditions d'exercice.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006168002" debut="2006-07-01" etat="MODIFIE" fin="2010-07-14" id="LEGISCTA000006168002" niv="5" url="/LEGI/SCTA/00/00/06/16/80/LEGISCTA000006168002.xml">Section 2 : Exercice du contrôle.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006168002" debut="2010-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022495602" niv="5" url="/LEGI/SCTA/00/00/22/49/56/LEGISCTA000022495602.xml">Section 2 : Contrôles.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006168003" debut="2006-07-01" etat="MODIFIE" fin="2010-07-14" id="LEGISCTA000006168003" niv="5" url="/LEGI/SCTA/00/00/06/16/80/LEGISCTA000006168003.xml">Section 3 : Dispositions diverses.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006168003" debut="2010-07-14" etat="ABROGE" fin="2014-10-15" id="LEGISCTA000022495591" niv="5" url="/LEGI/SCTA/00/00/22/49/55/LEGISCTA000022495591.xml">Section 3 : Dispositions d'application.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006168003" debut="2017-03-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000034244048" niv="5" url="/LEGI/SCTA/00/00/34/24/40/LEGISCTA000034244048.xml">Section 3 : Certificats d'économie de produits phytopharmaceutiques</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006168004" debut="2006-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006168004" niv="5" url="/LEGI/SCTA/00/00/06/16/80/LEGISCTA000006168004.xml">Section 4 : Dispositions pénales.</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006138324">Titre V : La protection des végétaux</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

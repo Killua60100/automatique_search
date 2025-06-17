@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006091598</ID>
+<TITRE_TA>Chapitre V : Des magistrats hors hiérarchie.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1958-12-23" etat="ABROGE" fin="1976-02-06" id="LEGIARTI000006451848" num="41" origine="LEGI"/>
+<LIEN_ART debut="1958-12-23" etat="MODIFIE" fin="2001-06-26" id="LEGIARTI000006451834" num="37" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2016-08-12" id="LEGIARTI000006451835" num="37" origine="LEGI"/>
+<LIEN_ART debut="2016-08-12" etat="MODIFIE" fin="2023-11-22" id="LEGIARTI000033041094" num="37" origine="LEGI"/>
+<LIEN_ART debut="2023-11-22" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000048439159" num="37" origine="LEGI"/>
+<LIEN_ART debut="1992-02-29" etat="MODIFIE" fin="2016-08-12" id="LEGIARTI000006451836" num="37-1" origine="LEGI"/>
+<LIEN_ART debut="2016-08-12" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000033041101" num="37-1" origine="LEGI"/>
+<LIEN_ART debut="1958-12-23" etat="MODIFIE" fin="1994-02-08" id="LEGIARTI000006451837" num="38" origine="LEGI"/>
+<LIEN_ART debut="1994-02-08" etat="MODIFIE" fin="2010-07-24" id="LEGIARTI000006451838" num="38" origine="LEGI"/>
+<LIEN_ART debut="2010-07-24" etat="MODIFIE" fin="2016-08-12" id="LEGIARTI000022510667" num="38" origine="LEGI"/>
+<LIEN_ART debut="2016-08-12" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000033041105" num="38" origine="LEGI"/>
+<LIEN_ART debut="2001-06-26" etat="MODIFIE" fin="2010-07-24" id="LEGIARTI000006451839" num="38-1" origine="LEGI"/>
+<LIEN_ART debut="2010-07-24" etat="MODIFIE" fin="2016-08-12" id="LEGIARTI000022510670" num="38-1" origine="LEGI"/>
+<LIEN_ART debut="2016-08-12" etat="MODIFIE" fin="2023-11-22" id="LEGIARTI000033041109" num="38-1" origine="LEGI"/>
+<LIEN_ART debut="2023-11-22" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000048439186" num="38-1" origine="LEGI"/>
+<LIEN_ART debut="2001-06-26" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000006451840" num="38-2" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000028288348" num="38-2" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000038283685" num="38-2" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="ABROGE_DIFF" fin="2026-01-05" id="LEGIARTI000038316553" num="38-2" origine="LEGI"/>
+<LIEN_ART debut="2023-11-22" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000048448299" num="38-3" origine="LEGI"/>
+<LIEN_ART debut="1967-02-21" etat="MODIFIE" fin="1994-02-08" id="LEGIARTI000006451841" num="39" origine="LEGI"/>
+<LIEN_ART debut="1994-02-08" etat="MODIFIE" fin="2002-06-01" id="LEGIARTI000006451842" num="39" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2007-06-01" id="LEGIARTI000006451843" num="39" origine="LEGI"/>
+<LIEN_ART debut="2007-06-01" etat="MODIFIE" fin="2012-02-15" id="LEGIARTI000006451844" num="39" origine="LEGI"/>
+<LIEN_ART debut="2012-02-15" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000025364385" num="39" origine="LEGI"/>
+<LIEN_ART debut="1980-10-30" etat="MODIFIE" fin="1991-01-20" id="LEGIARTI000006451845" num="40" origine="LEGI"/>
+<LIEN_ART debut="1991-01-20" etat="MODIFIE" fin="1992-02-29" id="LEGIARTI000006451846" num="40" origine="LEGI"/>
+<LIEN_ART debut="1992-02-29" etat="MODIFIE" fin="2024-12-31" id="LEGIARTI000006451847" num="40" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000339259" date_publi="1958-12-23" date_signature="1958-12-22" ministere="" nature="ORDONNANCE" nor="" num="58-1270" num_parution_jo="">
+<TITRE_TXT c_titre_court="Ordonnance n° 58-1270 du 22 décembre 1958" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000339259">Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature</TITRE_TXT>
+<TITRE_TXT c_titre_court="Ordonnance n° 58-1270 du 22 décembre 1958" debut="1958-12-23" fin="2999-01-01" id_txt="LEGITEXT000006069212">Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

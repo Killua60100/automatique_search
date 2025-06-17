@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006179577</ID>
+<TITRE_TA>II : Impôt sur le revenu</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-09-02" etat="MODIFIE" fin="1995-10-27" id="LEGIARTI000006303133" num="199 terdecies-0 A" origine="LEGI"/>
+<LIEN_ART debut="1983-12-30" etat="MODIFIE" fin="1994-09-02" id="LEGIARTI000006308267" num="193" origine="LEGI"/>
+<LIEN_ART debut="1994-09-02" etat="MODIFIE" fin="1999-03-31" id="LEGIARTI000006308268" num="193" origine="LEGI"/>
+<LIEN_ART debut="1999-03-31" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006308269" num="193" origine="LEGI"/>
+<LIEN_ART debut="2002-03-31" etat="MODIFIE" fin="2005-01-01" id="LEGIARTI000006308270" num="193" origine="LEGI"/>
+<LIEN_ART debut="2005-01-01" etat="MODIFIE" fin="2006-01-06" id="LEGIARTI000006308271" num="193" origine="LEGI"/>
+<LIEN_ART debut="2006-01-06" etat="MODIFIE" fin="2006-12-31" id="LEGIARTI000006308272" num="193" origine="LEGI"/>
+<LIEN_ART debut="2006-12-31" etat="MODIFIE" fin="2008-04-03" id="LEGIARTI000006308273" num="193" origine="LEGI"/>
+<LIEN_ART debut="2008-04-03" etat="MODIFIE" fin="2009-01-01" id="LEGIARTI000018619979" num="193" origine="LEGI"/>
+<LIEN_ART debut="2009-01-01" etat="MODIFIE" fin="2011-04-01" id="LEGIARTI000020051580" num="193" origine="LEGI"/>
+<LIEN_ART debut="2011-04-01" etat="MODIFIE" fin="2013-01-01" id="LEGIARTI000023374485" num="193" origine="LEGI"/>
+<LIEN_ART debut="2013-01-01" etat="MODIFIE" fin="2013-06-07" id="LEGIARTI000026946646" num="193" origine="LEGI"/>
+<LIEN_ART debut="2013-06-07" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000027518221" num="193" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE_MORT_NE" fin="2015-12-31" id="LEGIARTI000030042900" num="193" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2025-02-16" id="LEGIARTI000033844057" num="193" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="MODIFIE_MORT_NE" fin="2020-12-31" id="LEGIARTI000041464400" num="193" origine="LEGI"/>
+<LIEN_ART debut="2025-02-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051213183" num="193" origine="LEGI"/>
+<LIEN_ART debut="1979-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006303119" num="193 bis" origine="LEGI"/>
+<LIEN_ART debut="2003-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006303120" num="193 ter" origine="LEGI"/>
+<LIEN_ART debut="1986-12-31" etat="MODIFIE" fin="1996-05-12" id="LEGIARTI000006308278" num="194" origine="LEGI"/>
+<LIEN_ART debut="1996-05-12" etat="MODIFIE" fin="2002-12-31" id="LEGIARTI000006308279" num="194" origine="LEGI"/>
+<LIEN_ART debut="2003-01-01" etat="MODIFIE" fin="2007-12-29" id="LEGIARTI000006308280" num="194" origine="LEGI"/>
+<LIEN_ART debut="2007-12-29" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000018032928" num="194" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033817781" num="194" origine="LEGI"/>
+<LIEN_ART debut="1987-12-31" etat="MODIFIE" fin="2001-03-31" id="LEGIARTI000006308286" num="195" origine="LEGI"/>
+<LIEN_ART debut="2001-03-31" etat="MODIFIE" fin="2002-03-31" id="LEGIARTI000006308287" num="195" origine="LEGI"/>
+<LIEN_ART debut="2002-03-31" etat="MODIFIE" fin="2002-12-31" id="LEGIARTI000006308288" num="195" origine="LEGI"/>
+<LIEN_ART debut="2003-01-01" etat="MODIFIE" fin="2003-12-31" id="LEGIARTI000006308289" num="195" origine="LEGI"/>
+<LIEN_ART debut="2003-12-31" etat="MODIFIE" fin="2008-12-29" id="LEGIARTI000006308290" num="195" origine="LEGI"/>
+<LIEN_ART debut="2008-12-29" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000020034047" num="195" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000031776549" num="195" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2017-05-05" id="LEGIARTI000033220374" num="195" origine="LEGI"/>
+<LIEN_ART debut="2017-05-05" etat="MODIFIE" fin="2020-12-31" id="LEGIARTI000034597092" num="195" origine="LEGI"/>
+<LIEN_ART debut="2021-01-01" etat="MODIFIE_MORT_NE" fin="2020-12-31" id="LEGIARTI000041471660" num="195" origine="LEGI"/>
+<LIEN_ART debut="2020-12-31" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000042907740" num="195" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000046860994" num="195" origine="LEGI"/>
+<LIEN_ART debut="1979-07-01" etat="MODIFIE" fin="2002-12-31" id="LEGIARTI000006303121" num="196" origine="LEGI"/>
+<LIEN_ART debut="2003-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006303122" num="196" origine="LEGI"/>
+<LIEN_ART debut="1950-04-30" etat="MODIFIE" fin="1950-10-10" id="LEGIARTI000048199697" num="196" origine="LEGI"/>
+<LIEN_ART debut="1950-10-10" etat="MODIFIE" fin="1953-02-08" id="LEGIARTI000049326583" num="196" origine="LEGI"/>
+<LIEN_ART debut="1953-02-08" etat="MODIFIE" fin="1954-04-11" id="LEGIARTI000049445463" num="196" origine="LEGI"/>
+<LIEN_ART debut="1954-04-11" etat="MODIFIE" fin="1979-07-01" id="LEGIARTI000049477537" num="196" origine="LEGI"/>
+<LIEN_ART debut="1982-01-01" etat="MODIFIE" fin="2001-03-31" id="LEGIARTI000006303123" num="196 A bis" origine="LEGI"/>
+<LIEN_ART debut="2001-03-31" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000006303124" num="196 A bis" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033220369" num="196 A bis" origine="LEGI"/>
+<LIEN_ART debut="1988-12-28" etat="MODIFIE" fin="1990-06-15" id="LEGIARTI000006308300" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1989-12-30" etat="MODIFIE" fin="1990-12-30" id="LEGIARTI000006308301" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1991-12-31" id="LEGIARTI000006308302" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1991-12-31" etat="MODIFIE" fin="1993-01-01" id="LEGIARTI000006308303" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1993-01-01" etat="MODIFIE" fin="1994-09-02" id="LEGIARTI000006308304" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1994-09-02" etat="MODIFIE" fin="1995-10-27" id="LEGIARTI000006308305" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1995-10-27" etat="MODIFIE" fin="1996-05-12" id="LEGIARTI000006308306" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1996-05-12" etat="MODIFIE" fin="1997-04-11" id="LEGIARTI000006308307" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1997-04-11" etat="MODIFIE" fin="1998-04-22" id="LEGIARTI000006308308" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1998-04-22" etat="MODIFIE" fin="1999-03-31" id="LEGIARTI000006308309" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1999-03-31" etat="MODIFIE" fin="2000-03-31" id="LEGIARTI000006308310" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2000-03-31" etat="MODIFIE" fin="2000-12-31" id="LEGIARTI000006308311" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2001-03-31" etat="MODIFIE" fin="2001-12-29" id="LEGIARTI000006308312" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2002-03-31" etat="MODIFIE" fin="2002-12-31" id="LEGIARTI000006308313" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2003-01-01" etat="MODIFIE" fin="2003-12-31" id="LEGIARTI000006308314" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2003-12-31" etat="MODIFIE" fin="2004-12-31" id="LEGIARTI000006308315" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2005-01-01" etat="MODIFIE" fin="2005-12-31" id="LEGIARTI000006308316" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2006-01-01" etat="MODIFIE_MORT_NE" fin="2005-12-31" id="LEGIARTI000006308317" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2005-12-31" etat="MODIFIE" fin="2006-12-27" id="LEGIARTI000006308318" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2006-12-27" etat="MODIFIE" fin="2007-12-28" id="LEGIARTI000006308319" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2007-12-28" etat="MODIFIE" fin="2008-12-29" id="LEGIARTI000017888077" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2008-12-29" etat="MODIFIE" fin="2010-01-01" id="LEGIARTI000020008495" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2010-01-01" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000021625082" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="MODIFIE" fin="2015-01-01" id="LEGIARTI000023374380" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2015-01-01" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000030021295" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000031776511" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000033805192" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="MODIFIE" fin="2018-12-31" id="LEGIARTI000036426146" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2018-12-31" etat="MODIFIE" fin="2019-12-30" id="LEGIARTI000037985596" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2019-12-30" etat="MODIFIE" fin="2020-12-31" id="LEGIARTI000041464076" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2020-12-31" etat="MODIFIE" fin="2022-01-01" id="LEGIARTI000042907511" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2022-01-01" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000044978337" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000046860788" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="MODIFIE" fin="2025-02-16" id="LEGIARTI000048805464" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="2025-02-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051212977" num="196 B" origine="LEGI"/>
+<LIEN_ART debut="1983-10-09" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000006308321" num="196 bis" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000023380674" num="196 bis" origine="LEGI"/>
+<LIEN_ART debut="1989-07-14" etat="MODIFIE" fin="1990-06-15" id="LEGIARTI000006308331" num="197" origine="LEGI"/>
+<LIEN_ART debut="1990-06-15" etat="MODIFIE" fin="1991-06-24" id="LEGIARTI000006308332" num="197" origine="LEGI"/>
+<LIEN_ART debut="1991-06-24" etat="MODIFIE" fin="1992-07-04" id="LEGIARTI000006308333" num="197" origine="LEGI"/>
+<LIEN_ART debut="1992-07-04" etat="MODIFIE" fin="1993-08-18" id="LEGIARTI000006308334" num="197" origine="LEGI"/>
+<LIEN_ART debut="1993-08-18" etat="MODIFIE" fin="1994-09-02" id="LEGIARTI000006308335" num="197" origine="LEGI"/>
+<LIEN_ART debut="1994-09-02" etat="MODIFIE" fin="1995-10-27" id="LEGIARTI000006308336" num="197" origine="LEGI"/>
+<LIEN_ART debut="1995-10-27" etat="MODIFIE" fin="1996-05-12" id="LEGIARTI000006308337" num="197" origine="LEGI"/>
+<LIEN_ART debut="1996-05-12" etat="MODIFIE" fin="1997-04-11" id="LEGIARTI000006308338" num="197" origine="LEGI"/>
+<LIEN_ART debut="1997-04-11" etat="MODIFIE" fin="1998-04-22" id="LEGIARTI000006308339" num="197" origine="LEGI"/>
+<LIEN_ART debut="1998-04-22" etat="MODIFIE" fin="1999-03-31" id="LEGIARTI000006308340" num="197" origine="LEGI"/>
+<LIEN_ART debut="1999-03-31" etat="MODIFIE" fin="1999-12-31" id="LEGIARTI000006308341" num="197" origine="LEGI"/>
+<LIEN_ART debut="1999-12-31" etat="MODIFIE" fin="2000-07-14" id="LEGIARTI000006308342" num="197" origine="LEGI"/>
+<LIEN_ART debut="2000-07-14" etat="MODIFIE" fin="2001-03-31" id="LEGIARTI000006308343" num="197" origine="LEGI"/>
+<LIEN_ART debut="2001-03-31" etat="MODIFIE" fin="2001-12-29" id="LEGIARTI000006308344" num="197" origine="LEGI"/>
+<LIEN_ART debut="2002-03-31" etat="MODIFIE" fin="2002-08-31" id="LEGIARTI000006308345" num="197" origine="LEGI"/>
+<LIEN_ART debut="2002-08-31" etat="MODIFIE" fin="2002-12-31" id="LEGIARTI000006308346" num="197" origine="LEGI"/>
+<LIEN_ART debut="2003-01-01" etat="MODIFIE" fin="2003-12-31" id="LEGIARTI000006308347" num="197" origine="LEGI"/>
+<LIEN_ART debut="2003-12-31" etat="MODIFIE" fin="2004-12-31" id="LEGIARTI000006308348" num="197" origine="LEGI"/>
+<LIEN_ART debut="2005-01-01" etat="MODIFIE" fin="2005-12-31" id="LEGIARTI000006308349" num="197" origine="LEGI"/>
+<LIEN_ART debut="2005-12-31" etat="MODIFIE" fin="2006-12-27" id="LEGIARTI000006308350" num="197" origine="LEGI"/>
+<LIEN_ART debut="2006-12-27" etat="MODIFIE" fin="2007-12-28" id="LEGIARTI000006308351" num="197" origine="LEGI"/>
+<LIEN_ART debut="2007-12-28" etat="MODIFIE" fin="2008-12-29" id="LEGIARTI000017888080" num="197" origine="LEGI"/>
+<LIEN_ART debut="2008-12-29" etat="MODIFIE" fin="2010-01-01" id="LEGIARTI000020034044" num="197" origine="LEGI"/>
+<LIEN_ART debut="2010-01-01" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000021625085" num="197" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="MODIFIE" fin="2013-01-01" id="LEGIARTI000023374383" num="197" origine="LEGI"/>
+<LIEN_ART debut="2013-01-01" etat="MODIFIE" fin="2013-09-21" id="LEGIARTI000026946345" num="197" origine="LEGI"/>
+<LIEN_ART debut="2013-09-21" etat="MODIFIE" fin="2014-01-01" id="LEGIARTI000027978112" num="197" origine="LEGI"/>
+<LIEN_ART debut="2014-01-01" etat="MODIFIE" fin="2015-01-01" id="LEGIARTI000028416896" num="197" origine="LEGI"/>
+<LIEN_ART debut="2015-01-01" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000030021309" num="197" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE_MORT_NE" fin="2015-12-31" id="LEGIARTI000030090721" num="197" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000031776514" num="197" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000033805185" num="197" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="MODIFIE" fin="2018-12-31" id="LEGIARTI000036426118" num="197" origine="LEGI"/>
+<LIEN_ART debut="2018-12-31" etat="MODIFIE" fin="2019-06-08" id="LEGIARTI000037985566" num="197" origine="LEGI"/>
+<LIEN_ART debut="2019-06-08" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000038687475" num="197" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2020-07-25" id="LEGIARTI000041464047" num="197" origine="LEGI"/>
+<LIEN_ART debut="2021-01-01" etat="MODIFIE_MORT_NE" fin="2020-12-31" id="LEGIARTI000041479341" num="197" origine="LEGI"/>
+<LIEN_ART debut="2020-07-25" etat="MODIFIE" fin="2020-12-31" id="LEGIARTI000042159500" num="197" origine="LEGI"/>
+<LIEN_ART debut="2020-12-31" etat="MODIFIE" fin="2022-01-01" id="LEGIARTI000042907517" num="197" origine="LEGI"/>
+<LIEN_ART debut="2022-01-01" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000044978323" num="197" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000046860759" num="197" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="MODIFIE" fin="2025-02-16" id="LEGIARTI000048805432" num="197" origine="LEGI"/>
+<LIEN_ART debut="2025-02-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051212954" num="197" origine="LEGI"/>
+<LIEN_ART debut="1979-07-01" etat="MODIFIE" fin="1989-12-30" id="LEGIARTI000006303125" num="197 A" origine="LEGI"/>
+<LIEN_ART debut="1989-12-30" etat="MODIFIE" fin="1994-09-02" id="LEGIARTI000006303126" num="197 A" origine="LEGI"/>
+<LIEN_ART debut="1994-09-02" etat="MODIFIE" fin="1997-04-11" id="LEGIARTI000006303127" num="197 A" origine="LEGI"/>
+<LIEN_ART debut="1997-04-11" etat="MODIFIE" fin="2006-12-31" id="LEGIARTI000006303128" num="197 A" origine="LEGI"/>
+<LIEN_ART debut="2006-12-31" etat="MODIFIE" fin="2014-12-30" id="LEGIARTI000006303129" num="197 A" origine="LEGI"/>
+<LIEN_ART debut="2014-12-30" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000030059912" num="197 A" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000031782163" num="197 A" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037985917" num="197 A" origine="LEGI"/>
+<LIEN_ART debut="1979-07-01" etat="MODIFIE" fin="1994-09-02" id="LEGIARTI000006303130" num="197 B" origine="LEGI"/>
+<LIEN_ART debut="1994-09-02" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006303131" num="197 B" origine="LEGI"/>
+<LIEN_ART debut="2021-01-01" etat="MODIFIE_MORT_NE" fin="2020-12-31" id="LEGIARTI000037985924" num="197 B" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="MODIFIE_MORT_NE" fin="2020-12-31" id="LEGIARTI000039795740" num="197 B" origine="LEGI"/>
+<LIEN_ART debut="1979-07-01" etat="MODIFIE" fin="2009-01-01" id="LEGIARTI000006303132" num="197 C" origine="LEGI"/>
+<LIEN_ART debut="2009-01-01" etat="MODIFIE_MORT_NE" fin="2008-12-29" id="LEGIARTI000019287062" num="197 C" origine="LEGI"/>
+<LIEN_ART debut="2008-12-29" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000020038556" num="197 C" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000023371338" num="197 C" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000036432022" num="197 C" origine="LEGI"/>
+<LIEN_ART debut="1984-07-20" etat="MODIFIE" fin="2004-01-01" id="LEGIARTI000006308354" num="199" origine="LEGI"/>
+<LIEN_ART debut="2004-01-01" etat="MODIFIE" fin="2004-08-31" id="LEGIARTI000006308355" num="199" origine="LEGI"/>
+<LIEN_ART debut="2004-08-31" etat="MODIFIE" fin="2013-09-21" id="LEGIARTI000006308356" num="199" origine="LEGI"/>
+<LIEN_ART debut="2013-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027978108" num="199" origine="LEGI"/>
+<LIEN_ART debut="1992-07-04" etat="MODIFIE" fin="1993-01-01" id="LEGIARTI000006303324" num="200 bis" origine="LEGI"/>
+<LIEN_ART debut="1993-01-01" etat="PERIME" fin="1994-09-02" id="LEGIARTI000006303325" num="200 bis" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006191595" debut="1979-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006191595" niv="7" url="/LEGI/SCTA/00/00/06/19/15/LEGISCTA000006191595.xml">1° : Imputation des retenues à la source et crédits d'impôt</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191596" debut="1985-12-31" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191596" niv="7" url="/LEGI/SCTA/00/00/06/19/15/LEGISCTA000006191596.xml">Imputation des retenues à la source et crédits d'impôt.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191897" debut="1987-12-31" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191897" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191897.xml">Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191935" debut="1997-04-11" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006191935" niv="7" url="/LEGI/SCTA/00/00/06/19/19/LEGISCTA000006191935.xml">2° : Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191827" debut="1991-06-24" etat="MODIFIE" fin="2013-01-01" id="LEGISCTA000006191827" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191827.xml">3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191827" debut="2013-01-01" etat="MODIFIE" fin="2015-07-30" id="LEGISCTA000027734803" niv="7" url="/LEGI/SCTA/00/00/27/73/48/LEGISCTA000027734803.xml">3° : Crédit d'impôt accordée au titre des cotisations versées aux organisations syndicales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191827" debut="2015-07-30" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000030949116" niv="7" url="/LEGI/SCTA/00/00/30/94/91/LEGISCTA000030949116.xml">3° : Crédit d'impôt accordé au titre des cotisations versées aux organisations syndicales ainsi qu'aux associations nationales professionnelles de militaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191597" debut="1989-07-14" etat="ABROGE" fin="1991-06-24" id="LEGISCTA000006191597" niv="7" url="/LEGI/SCTA/00/00/06/19/15/LEGISCTA000006191597.xml">Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191919" debut="1997-04-11" etat="ABROGE" fin="2005-01-01" id="LEGISCTA000006191919" niv="7" url="/LEGI/SCTA/00/00/06/19/19/LEGISCTA000006191919.xml">4° : Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191598" debut="1989-07-14" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191598" niv="7" url="/LEGI/SCTA/00/00/06/19/15/LEGISCTA000006191598.xml">Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191599" debut="1992-07-04" etat="ABROGE" fin="1994-09-02" id="LEGISCTA000006191599" niv="7" url="/LEGI/SCTA/00/00/06/19/15/LEGISCTA000006191599.xml">Réduction d'impôt pour dépenses de formation du chef d'entreprise</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191828" debut="1994-09-02" etat="ABROGE" fin="1998-04-22" id="LEGISCTA000006191828" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191828.xml">5° : Réduction d'impôt pour dépenses de formation du chef d'entreprise</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191600" debut="1993-08-18" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191600" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191600.xml">Réduction d'impôt accordée au titre des frais de scolarité des enfants poursuivant des études secondaires ou supérieures.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191829" debut="1997-04-11" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006191829" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191829.xml">6° : Réduction d'impôt accordée au titre des frais de scolarité des enfants poursuivant des études secondaires ou supérieures</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191601" debut="1983-01-01" etat="ABROGE" fin="1994-09-02" id="LEGISCTA000006191601" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191601.xml">Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191602" debut="1983-12-30" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191602" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191602.xml">Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191603" debut="1994-09-02" etat="ABROGE" fin="2005-01-01" id="LEGISCTA000006191603" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191603.xml">8° : Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191604" debut="1983-12-30" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006191604" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191604.xml">9° : Réduction d'impôt accordée au titre de certaines primes d'assurances</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191605" debut="1983-12-30" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191605" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191605.xml">Réduction d'impôt accordée au titre de certaines primes d'assurances.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191606" debut="1983-12-30" etat="ABROGE" fin="1996-12-31" id="LEGISCTA000006191606" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191606.xml">Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191830" debut="1994-09-02" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191830" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191830.xml">10° : Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191831" debut="1996-12-31" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191831" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191831.xml">10° : Réduction d'impôt accordée au titre des sommes déposées dans le fonds salariaux.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191607" debut="1987-12-31" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191607" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191607.xml">Réduction d'impôt accordée au titre des investissements immobiliers locatifs.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191608" debut="1991-12-31" etat="ABROGE" fin="2002-03-31" id="LEGISCTA000006191608" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191608.xml">11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191609" debut="1999-03-31" etat="ABROGE" fin="2001-03-31" id="LEGISCTA000006191609" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191609.xml">11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs réalisés dans des résidences de tourisme classées dans les zones de revitalisation rurale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191832" debut="2001-03-31" etat="ABROGE" fin="2001-12-29" id="LEGISCTA000006191832" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191832.xml">11° bis : Réduction d'impôt accordée au titre des investissements immobiliers locatifs réalisés dans des résidences de tourisme classées dans les zones de revitalisation rurale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191610" debut="1999-03-31" etat="MODIFIE" fin="2011-06-01" id="LEGISCTA000006191610" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191610.xml">11° bis : Réduction d'impôt accordée au titre des investissements immobiliers locatifs réalisés dans des résidences de tourisme classées dans les zones de revitalisation rurales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191610" debut="2011-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000025918735" niv="7" url="/LEGI/SCTA/00/00/25/91/87/LEGISCTA000025918735.xml">11° bis : Réduction d'impôt accordée au titre des investissements dans l'immobilier de loisirs </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191611" debut="2002-03-31" etat="MODIFIE" fin="2015-07-15" id="LEGISCTA000006191611" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191611.xml">11° ter : Réduction d'impôt au titre &#13;
+d'investissements ou de travaux forestiers</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191611" debut="2015-07-15" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031535319" niv="7" url="/LEGI/SCTA/00/00/31/53/53/LEGISCTA000031535319.xml">11° ter : Réduction d'impôt au titre &#13;
+d'investissements forestiers</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022852398" debut="2006-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022852398" niv="7" url="/LEGI/SCTA/00/00/22/85/23/LEGISCTA000022852398.xml">11° quater : Réduction d'impôt accordée au titre des investissements dans des résidences hôtelières à vocation sociale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191613" debut="1996-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006191613" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191613.xml">12° : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191612" debut="1986-07-31" etat="ABROGE" fin="1996-05-12" id="LEGISCTA000006191612" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191612.xml">Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191615" debut="1988-12-28" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191615" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191615.xml">Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191898" debut="1994-09-02" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191898" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191898.xml">13° : Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191943" debut="1997-04-11" etat="ABROGE" fin="2000-03-31" id="LEGISCTA000006191943" niv="7" url="/LEGI/SCTA/00/00/06/19/19/LEGISCTA000006191943.xml">13° : Réduction d'impôt accordée au titre des souscriptions au capital de sociétés nouvelles.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191833" debut="1995-10-27" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191833" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191833.xml">14° : Réduction d'impôt au titre des souscriptions au numéraire au capital de sociétés non cotées.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191614" debut="1997-04-11" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006191614" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191614.xml">14° : Réduction d'impôt accordée au titre des souscriptions en numéraire au capital des sociétés ainsi qu'au titre des souscriptions de parts de fonds communs de placement dans l'innovation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191834" debut="1997-04-11" etat="ABROGE" fin="2011-06-01" id="LEGISCTA000006191834" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191834.xml">15° : Réduction d'impôt accordée au titre du rachat d'une entreprise par ses salariés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022852477" debut="2009-04-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022852477" niv="7" url="/LEGI/SCTA/00/00/22/85/24/LEGISCTA000022852477.xml">15° bis : Réduction d'impôt accordée au titre d'emprunts souscrits pour la reprise d'une entreprise</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191616" debut="1989-07-14" etat="ABROGE" fin="1991-12-31" id="LEGISCTA000006191616" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191616.xml">15° ter : Réduction d'impôt accordée au titre de l'aide à domicile et de l'hébergement en établissement de long séjour.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191616" debut="2015-04-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000030508110" niv="7" url="/LEGI/SCTA/00/00/30/50/81/LEGISCTA000030508110.xml">15° ter : Réduction d'impôt accordée au titre des souscriptions en numéraire au capital d'entreprises de presse.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191617" debut="1991-06-24" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191617" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191617.xml">Réduction d'impôt accordée au titre de l'hébergement en établissement de long séjour ou en section de cure médicale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191920" debut="1997-04-11" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006191920" niv="7" url="/LEGI/SCTA/00/00/06/19/19/LEGISCTA000006191920.xml">16° : Réduction d'impôt accordée au titre des dépenses afférentes à la dépendance</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191899" debut="1995-10-27" etat="MODIFIE" fin="2018-06-26" id="LEGISCTA000006191899" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191899.xml">17° : Réduction ou crédit d'impôt accordé au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191899" debut="2018-06-26" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037150807" niv="7" url="/LEGI/SCTA/00/00/37/15/08/LEGISCTA000037150807.xml">17° : Crédit d'impôt accordé au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191618" debut="1991-12-31" etat="ABROGE" fin="1995-10-27" id="LEGISCTA000006191618" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191618.xml">Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191619" debut="1996-05-12" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191619" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191619.xml">*Réduction d'impôt au titre des intérêts de prêts à la consommation*.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191620" debut="1997-04-11" etat="ABROGE" fin="2001-03-31" id="LEGISCTA000006191620" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191620.xml">18° : Réduction d'impôt accordée au titre des intérêts des prêts à la consommation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191621" debut="2001-03-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006191621" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191621.xml">19° : Réduction d'impôt accordée au titre des prestations compensatoires réglées en capital ou par attribution d'un bien ou d'un droit</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508671" debut="2001-03-31" etat="ABROGE" fin="2016-06-13" id="LEGISCTA000022508671" niv="7" url="/LEGI/SCTA/00/00/22/50/86/LEGISCTA000022508671.xml">19° bis : Réduction d'impôt au titre de la souscription de la déclaration de revenus par voie électronique associée au paiement de l'impôt correspondant par voie de prélèvement ou électronique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508673" debut="2001-03-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022508673" niv="7" url="/LEGI/SCTA/00/00/22/50/86/LEGISCTA000022508673.xml">19° quater : Réduction d'impôt au titre des intérêts du différé de paiement accordé lors de la transmission d'une exploitation agricole</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508674" debut="2001-03-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022508674" niv="7" url="/LEGI/SCTA/00/00/22/50/86/LEGISCTA000022508674.xml">19° quinquies : Réduction d'impôt accordée au titre du financement en capital d'oeuvres cinématographiques ou audiovisuelles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508679" debut="2001-03-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022508679" niv="7" url="/LEGI/SCTA/00/00/22/50/86/LEGISCTA000022508679.xml">19° sexies : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508680" debut="2001-03-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022508680" niv="7" url="/LEGI/SCTA/00/00/22/50/86/LEGISCTA000022508680.xml">19° septies : Réduction d'impôt accordée au titre des dépenses de restauration immobilière dans les secteurs sauvegardés, les quartiers anciens dégradés et les zones protégées </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508681" debut="2001-03-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022508681" niv="7" url="/LEGI/SCTA/00/00/22/50/86/LEGISCTA000022508681.xml">19° octies : Réduction d'impôt accordée au titre des souscriptions au capital d'une SOFIPECHE</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508682" debut="2001-03-31" etat="ABROGE" fin="2011-06-01" id="LEGISCTA000022508682" niv="7" url="/LEGI/SCTA/00/00/22/50/86/LEGISCTA000022508682.xml">19° nonies : Réduction d'impôt accordée au titre des versements effectués sur un compte épargne codéveloppement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508683" debut="2001-03-31" etat="MODIFIE" fin="2022-01-01" id="LEGISCTA000022508683" niv="7" url="/LEGI/SCTA/00/00/22/50/86/LEGISCTA000022508683.xml">19° decies : Réduction d'impôt accordée au titre des investissements locatifs</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508683" debut="2022-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044991997" niv="7" url="/LEGI/SCTA/00/00/44/99/19/LEGISCTA000044991997.xml">19° decies : Réduction d'impôt accordée au titre des investissements locatifs et des logements donnés en location à loyer abordable</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022508684" debut="2001-03-31" etat="ABROGE" fin="2022-01-01" id="LEGISCTA000022508684" niv="7" url="/LEGI/SCTA/00/00/22/50/86/LEGISCTA000022508684.xml">19° undecies : Réduction d'impôt accordée au titre des dépenses de préservation du patrimoine naturel</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000027747400" debut="2013-01-01" etat="ABROGE" fin="2022-01-01" id="LEGISCTA000027747400" niv="7" url="/LEGI/SCTA/00/00/27/74/74/LEGISCTA000027747400.xml">19° duodecies : Réduction d'impôt accordée au titre des investissements locatifs intermédiaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191835" debut="1990-06-15" etat="ABROGE" fin="1994-09-02" id="LEGISCTA000006191835" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191835.xml">Réduction d'impôt accordée au titre des dons faits par les particuliers</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191944" debut="1997-04-11" etat="ABROGE" fin="2001-03-31" id="LEGISCTA000006191944" niv="7" url="/LEGI/SCTA/00/00/06/19/19/LEGISCTA000006191944.xml">19° : Réduction d'impôt accordée au titre des dons faits par les particuliers</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191957" debut="2001-03-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006191957" niv="7" url="/LEGI/SCTA/00/00/06/19/19/LEGISCTA000006191957.xml">20° : Réduction d'impôt accordée au titre des dons faits par les particuliers</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025918868" debut="1998-01-01" etat="MODIFIE" fin="2003-08-03" id="LEGISCTA000025918868" niv="7" url="/LEGI/SCTA/00/00/25/91/88/LEGISCTA000025918868.xml">21° : Imputation de la réduction d'impôt pour versement de dons aux oeuvres prévue à l'article 238 bis </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025918868" debut="2003-08-03" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000046143379" niv="7" url="/LEGI/SCTA/00/00/46/14/33/LEGISCTA000046143379.xml">21° : Imputation de la réduction d'impôt pour versement de dons aux oeuvres prévue à l'article 238 bis </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191921" debut="1994-09-02" etat="ABROGE" fin="1997-04-11" id="LEGISCTA000006191921" niv="7" url="/LEGI/SCTA/00/00/06/19/19/LEGISCTA000006191921.xml">18° : Réduction d'impôt accordée au titre des dons faits par les particuliers</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191622" debut="1992-07-04" etat="ABROGE" fin="1994-09-02" id="LEGISCTA000006191622" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191622.xml">Minoration des cotisations d'impôt sur le revenu</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191623" debut="1998-04-22" etat="ABROGE" fin="2001-03-31" id="LEGISCTA000006191623" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191623.xml">21° : Crédit d'impôt accordé au titre des dépenses d'entretien afférentes à l'habitation principale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191922" debut="2001-03-31" etat="ABROGE" fin="2002-03-31" id="LEGISCTA000006191922" niv="7" url="/LEGI/SCTA/00/00/06/19/19/LEGISCTA000006191922.xml">22° : Crédit d'impôt accordé au titre des dépenses d'entretien afférentes à l'habitation principale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191836" debut="2000-12-31" etat="ABROGE" fin="2001-03-31" id="LEGISCTA000006191836" niv="7" url="/LEGI/SCTA/00/00/06/19/18/LEGISCTA000006191836.xml">22° : Crédit d'impôt pour l'acquisition de certains gros équipements.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191624" debut="2006-01-01" etat="MODIFIE" fin="2015-01-01" id="LEGISCTA000006191624" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191624.xml">23° : Crédit d'impôt pour dépenses d'équipement de l'habitation principale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191624" debut="2015-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000030021317" niv="7" url="/LEGI/SCTA/00/00/30/02/13/LEGISCTA000030021317.xml">23° : Crédit d'impôt pour la transition énergétique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507967" debut="2009-12-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021507967" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507967.xml">23° bis : Crédit d'impôt pour frais de garde des jeunes enfants</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000042857381" debut="2020-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042857381" niv="7" url="/LEGI/SCTA/00/00/42/85/73/LEGISCTA000042857381.xml">23° ter : Crédit d'impôt pour acquisition et pose de systèmes de charge pour véhicule électrique&#13;
+&#13;
+&#13;
+</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191625" debut="2001-03-31" etat="ABROGE" fin="2007-12-29" id="LEGISCTA000006191625" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191625.xml">24° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006191626" debut="2001-05-31" etat="PERIME" fin="2020-07-28" id="LEGISCTA000006191626" niv="7" url="/LEGI/SCTA/00/00/06/19/16/LEGISCTA000006191626.xml">25° : Prime pour l'emploi</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507968" debut="2007-12-28" etat="ABROGE" fin="2011-06-01" id="LEGISCTA000021507968" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507968.xml">26° : Crédit d'impôt au titre des revenus distribués</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507972" debut="2009-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021507972" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507972.xml">27° : Réduction d'impôt accordée au titre de l'aide apportée à certains créateurs d'entreprise</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507973" debut="2009-03-28" etat="PERIME" fin="2020-07-28" id="LEGISCTA000021507973" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507973.xml">28° : Crédit d'impôt au titre des contrats d'assurance pour loyers impayés des logements locatifs conventionnés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507974" debut="2007-01-01" etat="ABROGE" fin="2011-06-01" id="LEGISCTA000021507974" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507974.xml">29° : Crédit d'impôt en faveur des jeunes prenant un métier rencontrant des difficultés de recrutement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507975" debut="2006-01-06" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021507975" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507975.xml">29° bis : Réduction d'impôt au titre des cotisations versées aux associations syndicales chargées du défrichement forestier</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507976" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021507976" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507976.xml">30° : Crédit d'impôt au titre des dépenses de remplacement pour congé de certains exploitants agricoles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507977" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021507977" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507977.xml">31° : Crédit d'impôt pour changement d'habitation principale en vue d'exercer une activité salariée</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507978" debut="2005-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021507978" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507978.xml">32° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021507988" debut="2009-04-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021507988" niv="7" url="/LEGI/SCTA/00/00/21/50/79/LEGISCTA000021507988.xml">33° : Crédit d'impôt au titre des intérêts d'emprunt supportés pour l'acquisition ou la construction de l'habitation principale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000031535478" debut="2015-07-15" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000031535478" niv="7" url="/LEGI/SCTA/00/00/31/53/54/LEGISCTA000031535478.xml">34° Crédit d'impôt pour dépenses de travaux forestiers </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000031535478" debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000046861077" niv="7" url="/LEGI/SCTA/00/00/46/86/10/LEGISCTA000046861077.xml">34° : Crédit d'impôt au titre d'investissements forestiers</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000042179975" debut="2020-08-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042179999" niv="7" url="/LEGI/SCTA/00/00/42/17/99/LEGISCTA000042179999.xml">35° : Crédit d'impôt pour le premier abonnement à un journal, à une publication périodique ou à un service de presse en ligne d'information politique et générale</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006069577" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des impôts, CGI." debut="1952-02-14" fin="2999-01-01" id_txt="LEGITEXT000006069577">Code général des impôts</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1952-02-14" fin="2999-01-01" id="LEGISCTA000006084232">Livre premier : Assiette et liquidation de l'impôt</TITRE_TM>
+<TM>
+<TITRE_TM debut="1952-02-14" fin="2999-01-01" id="LEGISCTA000006114494">Première Partie : Impôts d'État</TITRE_TM>
+<TM>
+<TITRE_TM debut="1954-08-05" fin="2999-01-01" id="LEGISCTA000006133844">Titre premier : Impôts directs et taxes assimilées</TITRE_TM>
+<TM>
+<TITRE_TM debut="1954-08-05" fin="2999-01-01" id="LEGISCTA000006147017">Chapitre premier : Impôt sur le revenu</TITRE_TM>
+<TM>
+<TITRE_TM debut="1979-07-01" fin="2999-01-01" id="LEGISCTA000006162525">Section V : Calcul de l'impôt</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000019284902</ID>
+<TITRE_TA>CHAPITRE V : FAVORISER LA REPRISE, LA TRANSMISSION, LE « REBOND »</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285071" num="64" origine="LEGI"/>
+<LIEN_ART debut="2008-08-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019285073" num="65" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285075" num="66" origine="LEGI"/>
+<LIEN_ART debut="2008-08-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019285077" num="67" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285079" num="68" origine="LEGI"/>
+<LIEN_ART debut="2008-08-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019285081" num="69" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285083" num="70" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285085" num="71" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285087" num="72" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285089" num="73" origine="LEGI"/>
+<LIEN_ART debut="2008-08-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019285091" num="74" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285099" num="75" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285101" num="76" origine="LEGI"/>
+<LIEN_ART debut="2008-08-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019285107" num="77" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285093" num="78" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285103" num="79" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285105" num="80" origine="LEGI"/>
+<LIEN_ART debut="2008-08-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019285095" num="81" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000019285097" num="82" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000019283050" date_publi="2008-08-05" date_signature="2008-08-04" ministere="" nature="LOI" nor="ECEX0808477L" num="2008-776" num_parution_jo="0181">
+<TITRE_TXT c_titre_court="LOI n° 2008-776 du 4 août 2008" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000019283050">LOI n° 2008-776 du 4 août 2008  de modernisation de l'économie (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n° 2008-776 du 4 août 2008" debut="2008-08-06" fin="2999-01-01" id_txt="LEGITEXT000019284897">LOI n° 2008-776 du 4 août 2008 de modernisation de l'économie (1)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-08-06" fin="2999-01-01" id="LEGISCTA000019284916">TITRE IER : MOBILISER LES ENTREPRENEURS</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

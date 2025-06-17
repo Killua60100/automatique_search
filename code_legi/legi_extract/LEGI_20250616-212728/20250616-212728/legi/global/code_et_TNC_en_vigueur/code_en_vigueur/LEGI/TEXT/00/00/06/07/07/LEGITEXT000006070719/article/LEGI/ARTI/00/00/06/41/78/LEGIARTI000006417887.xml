@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417887</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X225L12FXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/78/LEGIARTI000006417887.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>225-12-5</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2003-03-19</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149830">Chapitre V : Des atteintes à la dignité de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-03-19" fin="2999-01-01" id="LEGISCTA000006165303">Section 2 ter : De l'exploitation de la mendicité</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2003-03-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417887" num="225-12-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>L'exploitation de la mendicité est le fait par quiconque de quelque manière que ce soit :</p>
+<br/>
+<p>1° D'organiser la mendicité d'autrui en vue d'en tirer profit ;</p>
+<br/>
+<p>2° De tirer profit de la mendicité d'autrui, d'en partager les bénéfices ou de recevoir des subsides d'une personne se livrant habituellement à la mendicité ;</p>
+<br/>
+<p>3° D'embaucher, d'entraîner ou de détourner une personne en vue de la livrer à la mendicité, ou d'exercer sur elle une pression pour qu'elle mendie ou continue de le faire ;</p>
+<br/>
+<p>4° D'embaucher, d'entraîner ou de détourner à des fins d'enrichissement personnel une personne en vue de la livrer à l'exercice d'un service moyennant un don sur la voie publique.</p>
+<br/>
+<p>Est assimilé à l'exploitation de la mendicité le fait de ne pouvoir justifier de ressources correspondant à son train de vie tout en exerçant une influence de fait, permanente ou non, sur une ou plusieurs personnes se livrant à la mendicité ou en étant en relation habituelle avec cette ou ces dernières.</p>
+<br/>
+<p>L'exploitation de la mendicité est punie de trois ans d'emprisonnement et d'une amende de 45 000 euros.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="CODIFICATION">Loi 92-684 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000412199" datesignatexte="2003-03-18" id="LEGIARTI000006528957" naturetexte="LOI" nortexte="INTX0200145L" num="64" numtexte="2003-239" sens="source" typelien="CREATION">Loi n°2003-239 du 18 mars 2003 - art. 64 () JORF 19 mars 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000000412199" datesignatexte="2003-03-18" id="LEGIARTI000006528957" naturetexte="LOI" nortexte="INTX0200145L" num="64" numtexte="2003-239" sens="cible" typelien="CREE">Loi n°2003-239 du 18 mars 2003 - art. 64</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000006335062" naturetexte="CODE" nortexte="" num="L313-5" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000049043201" naturetexte="CODE" nortexte="" num="L432-1-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L432-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000038189508" naturetexte="CODE" nortexte="" num="R311-15" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000025450337" naturetexte="CODE" nortexte="" num="L2336-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2336-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049294196" naturetexte="CODE" nortexte="" num="L312-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L312-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742096" naturetexte="CODE" nortexte="" num="706-55" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-55 (V)</LIEN>
+</LIENS>
+</ARTICLE>

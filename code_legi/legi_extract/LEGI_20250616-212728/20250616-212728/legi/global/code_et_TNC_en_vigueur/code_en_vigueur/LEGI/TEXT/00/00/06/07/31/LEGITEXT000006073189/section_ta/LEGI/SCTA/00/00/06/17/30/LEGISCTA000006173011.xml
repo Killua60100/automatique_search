@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006173011</ID>
+<TITRE_TA>Section 3 : Commission des comptes de la sécurité sociale.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2004-08-17" etat="MODIFIE" fin="2010-06-30" id="LEGIARTI000006740089" num="L114-1" origine="LEGI"/>
+<LIEN_ART debut="2010-06-30" etat="MODIFIE" fin="2010-12-22" id="LEGIARTI000022405480" num="L114-1" origine="LEGI"/>
+<LIEN_ART debut="2010-12-22" etat="MODIFIE" fin="2018-08-06" id="LEGIARTI000023266643" num="L114-1" origine="LEGI"/>
+<LIEN_ART debut="2018-08-06" etat="MODIFIE" fin="2025-02-28" id="LEGIARTI000037290455" num="L114-1" origine="LEGI"/>
+<LIEN_ART debut="2025-02-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051288919" num="L114-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073189" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité sociale." debut="1958-10-16" fin="2999-01-01" id_txt="LEGITEXT000006073189">Code de la sécurité sociale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006106050">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006126885">Livre I : Généralités - Dispositions communes à tout ou partie des régimes de base</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006141600">Titre I : Généralités</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-23" fin="2999-01-01" id="LEGISCTA000006156001">Chapitre 4 : Commissions et conseils</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

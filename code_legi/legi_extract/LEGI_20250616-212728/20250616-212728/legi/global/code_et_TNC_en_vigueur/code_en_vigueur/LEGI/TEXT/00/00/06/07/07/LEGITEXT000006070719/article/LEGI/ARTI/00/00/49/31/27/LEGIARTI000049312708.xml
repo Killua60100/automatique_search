@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049312708</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/31/27/LEGIARTI000049312708.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>222-12</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2024-03-23</DATE_DEBUT>
+<DATE_FIN>2024-05-12</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165279">Section 1 : Des atteintes volontaires à l'intégrité de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006181751">Paragraphe 2 : Des violences</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-23" id="LEGIARTI000006417627" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1996-07-23" etat="MODIFIE" fin="1998-06-18" id="LEGIARTI000006417628" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1998-06-18" etat="MODIFIE" fin="1999-06-19" id="LEGIARTI000006417629" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1999-06-19" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417630" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2002-09-10" id="LEGIARTI000006417631" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-09-10" etat="MODIFIE" fin="2003-02-04" id="LEGIARTI000006417632" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-02-04" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417633" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2006-04-05" id="LEGIARTI000006417634" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-04-05" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006417635" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2010-03-04" id="LEGIARTI000006417636" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-03-04" etat="MODIFIE" fin="2010-07-11" id="LEGIARTI000021926101" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-07-11" etat="MODIFIE" fin="2010-08-11" id="LEGIARTI000022469932" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-08-11" etat="MODIFIE" fin="2012-05-01" id="LEGIARTI000022686351" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2012-08-08" id="LEGIARTI000046554333" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-08-08" etat="MODIFIE" fin="2016-04-15" id="LEGIARTI000026268266" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-04-15" etat="MODIFIE" fin="2017-01-29" id="LEGIARTI000032400574" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-01-29" etat="MODIFIE" fin="2018-08-06" id="LEGIARTI000033975300" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-08-06" etat="MODIFIE" fin="2021-05-27" id="LEGIARTI000037289690" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-05-27" etat="MODIFIE" fin="2021-11-27" id="LEGIARTI000043540669" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-11-27" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000044376085" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-01-26" etat="MODIFIE" fin="2024-03-23" id="LEGIARTI000045071409" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-03-23" etat="MODIFIE" fin="2024-05-12" id="LEGIARTI000049312708" num="222-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531829" num="222-12" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>L'infraction définie à l'article 222-11 est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende lorsqu'elle est commise :</p>
+<p>1° Sur un mineur de quinze ans ;</p>
+<p>2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;</p>
+<p>3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;</p>
+<p>4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, une personne dépositaire de l'autorité publique autre que celles mentionnées à l'article 222-14-5, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 271-1 du code de la sécurité intérieure, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;</p>
+<p>4° bis A Sur une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611-1 ou L. 621-1 du code de la sécurité intérieure dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;</p>
+<p>4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou une personne chargée d'une mission de service public autre que celles mentionnées à l'article 222-14-5 du présent code ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;</p>
+<p>4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4°, 4° bis A et 4° bis, en raison des fonctions exercées par ces dernières ;</p>
+<p>5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction nationale ou devant la Cour pénale internationale ;</p>
+<p>5° bis et 5° ter (abrogés)</p>
+<p>5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans l'exercice de cette activité ;</p>
+<p>6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;</p>
+<p>6° bis Contre une personne, en raison de son refus de contracter un mariage ou de conclure une union ou afin de la contraindre à contracter un mariage ou à conclure une union ;</p>
+<p>7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;</p>
+<p>7° bis Par une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611-1 ou L. 621-1 du code de la sécurité intérieure dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;</p>
+<p>8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;</p>
+<p>9° Avec préméditation ou avec guet-apens ;</p>
+<p>10° Avec usage ou menace d'une arme ;</p>
+<p>11° Dans des établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;</p>
+<p>12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;</p>
+<p>13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs ;</p>
+<p>14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants ;</p>
+<p>15° Par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être identifiée.</p>
+<p>Les peines encourues sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende lorsque l'infraction définie à l'article 222-11 est commise :</p>
+<p>a) Sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur ;</p>
+<p>b) Alors qu'un mineur assiste aux faits et que ceux-ci sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ou, si la victime est mineure, par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur victime.</p>
+<p>Les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende lorsque cette infraction est commise dans deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont portées à dix ans d'emprisonnement et 150 000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.</p>
+<p>Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au présent article lorsqu'elles sont punies de dix ans d'emprisonnement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000371690" datesignatexte="1995-08-03" id="LEGIARTI000006492670" naturetexte="LOI" nortexte="JUSX9500089L" num="25" numtexte="95-884" sens="cible" typelien="CITATION">Loi n°95-884 du 3 août 1995 - art. 25 (V)</LIEN>
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000049309567" datesignatexte="2024-03-21" id="LEGIARTI000049310364" naturetexte="LOI" nortexte="IOMX2326246L" num="1" numtexte="2024-247" sens="cible" typelien="MODIFIE">LOI n°2024-247 du 21 mars 2024 - art. 1</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006574785" naturetexte="CODE" nortexte="" num="2-3" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 2-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074234" datesignatexte="2999-01-01" id="LEGIARTI000022175343" naturetexte="CODE" nortexte="" num="L322-5" numtexte="" sens="cible" typelien="CITATION">Code de l'aviation civile - art. L322-5 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000049043201" naturetexte="CODE" nortexte="" num="L432-1-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L432-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000049043253" naturetexte="CODE" nortexte="" num="L432-6-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L432-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000021926198" naturetexte="CODE" nortexte="" num="398-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 398-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032403162" naturetexte="CODE" nortexte="" num="706-47-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-47-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000046017748" naturetexte="CODE" nortexte="" num="721-1-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 721-1-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531911" naturetexte="CODE" nortexte="" num="8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000020638650" naturetexte="CODE" nortexte="" num="837" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 837 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000034098591" naturetexte="CODE" nortexte="" num="9-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 9-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044360387" naturetexte="CODE" nortexte="" num="D1-11-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D1-11-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033328567" naturetexte="CODE" nortexte="" num="D147-31" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D147-31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042726346" naturetexte="CODE" nortexte="" num="D403" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D403 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000028625140" naturetexte="CODE" nortexte="" num="D49-23" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D49-23 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000042179017" naturetexte="CODE" nortexte="" num="L1632-2" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1632-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000042173340" naturetexte="CODE" nortexte="" num="L1634-2" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1634-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000023079863" naturetexte="CODE" nortexte="" num="L5531-8" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L5531-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000023079858" naturetexte="CODE" nortexte="" num="L5531-9" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L5531-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000023077747" naturetexte="CODE" nortexte="" num="L6433-2" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L6433-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071188" datesignatexte="2999-01-01" id="LEGIARTI000006523848" naturetexte="CODE" nortexte="" num="42" numtexte="" sens="cible" typelien="CITATION">Code disciplinaire et pénal de la marine marchande - art. 42 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071188" datesignatexte="2999-01-01" id="LEGIARTI000006523883" naturetexte="CODE" nortexte="" num="58" numtexte="" sens="cible" typelien="CITATION">Code disciplinaire et pénal de la marine marchande - art. 58 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000006547608" naturetexte="CODE" nortexte="" num="L223-2" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. L223-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000024041718" naturetexte="CODE" nortexte="" num="1825 A" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1825 A (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051741809" naturetexte="CODE" nortexte="" num="131-26-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-26-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000023712622" naturetexte="CODE" nortexte="" num="132-19-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 132-19-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417625" naturetexte="CODE" nortexte="" num="222-11" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 222-11</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049312685" naturetexte="CODE" nortexte="" num="222-14-5" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-14-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417658" naturetexte="CODE" nortexte="" num="222-16-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-16-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049312656" naturetexte="CODE" nortexte="" num="222-47" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-47 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000042342613" naturetexte="CODE" nortexte="" num="222-48-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-48-1 (M)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505484" naturetexte="CODE" nortexte="" num="L271-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L271-1</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025506185" naturetexte="CODE" nortexte="" num="L611-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L611-1</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025506411" naturetexte="CODE" nortexte="" num="L621-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L621-1</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000044065461</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/44/06/54/LEGIARTI000044065461.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L712-4</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2022-02-26</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-02-26" fin="2999-01-01" id="LEGISCTA000044065425">Livre VII : Dispositions relatives à l'outre-mer</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-02-26" fin="2999-01-01" id="LEGISCTA000044065427">Titre Ier : Conditions générales d'application des livres 1er à VI et du droit de l'Union européenne en outre-mer</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-02-26" fin="2999-01-01" id="LEGISCTA000044065451">Chapitre II : Application en outre-mer des dispositions du droit de l'Union européenne en matière monétaire et financière</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-02-26" fin="2999-01-01" id="LEGISCTA000044065453">Section 1 : Application des dispositions du droit de l'Union européenne à Saint-Barthélemy</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2022-02-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044065461" num="L712-4" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément à l'article 9 de l'ordonnance n° 2021-1200 du 15 septembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard au 1er mars 2022. Cette date a été fixée au 26 février 2022 conformément au 1° de l'article 1 du décret n° 2022-231 du 24 février 2022.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Le ministre chargé de l'économie arrête la liste des règlements (UE) portant mesures restrictives pris en application des articles 75 ou 215 du traité sur le fonctionnement de l'Union européenne qui sont rendus applicables à Saint-Barthélemy. Les mesures de gel des avoirs et d'interdiction de mise à disposition prises sur le fondement de ces règlements ou des règlements européens d'exécution pris pour leur application sont mises en œuvre dans cette collectivité dans les conditions mentionnées ci-dessous. <br/>Les fonds et ressources économiques des personnes physiques ou morales ou de toute autre entité visées par les mesures mentionnées au premier alinéa sont gelés à compter de la publication par le ministre chargé de l'économie des éléments d'identification de ces personnes ou entités au registre national mentionné à l'article L. 562-9. <br/>Ces mesures sont exécutoires à compter de cette publication. Elles prennent fin dès le retrait du registre de ces éléments d'identification.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000044060532" datesignatexte="2021-09-15" id="LEGIARTI000044064822" naturetexte="ORDONNANCE" nortexte="ECOT2121961R" num="" numtexte="2021-1200" sens="source" typelien="CODIFICATION">Ordonnance n°2021-1200 du 15 septembre 2021 - art.</LIEN>
+<LIEN cidtexte="JORFTEXT000044060532" datesignatexte="2021-09-15" id="LEGIARTI000044064822" naturetexte="ORDONNANCE" nortexte="ECOT2121961R" num="" numtexte="2021-1200" sens="cible" typelien="CREE">Ordonnance n°2021-1200 du 15 septembre 2021 - art.</LIEN>
+<LIEN cidtexte="JORFTEXT000049330498" datesignatexte="2024-03-08" id="LEGITEXT000049334473" naturetexte="ARRETE" nortexte="ECOT2400462A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 mars 2024 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000051740680" naturetexte="CODE" nortexte="" num="L562-11" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045250639" naturetexte="CODE" nortexte="" num="L562-12" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045250683" naturetexte="CODE" nortexte="" num="L562-4" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045250680" naturetexte="CODE" nortexte="" num="L562-4-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-4-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000051740756" naturetexte="CODE" nortexte="" num="L562-5" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045250644" naturetexte="CODE" nortexte="" num="L562-6" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000051740735" naturetexte="CODE" nortexte="" num="L562-7" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000051740714" naturetexte="CODE" nortexte="" num="L562-8" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658517" naturetexte="CODE" nortexte="" num="L562-9" numtexte="" sens="source" typelien="CITATION">Code monétaire et financier - art. L562-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000042496665" naturetexte="CODE" nortexte="" num="L713-16" numtexte="" sens="source" typelien="CONCORDANCE">Code monétaire et financier - art. L713-16 (VT) Saint-Barthélemy</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000050370958" naturetexte="CODE" nortexte="" num="L772-4" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L772-4 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

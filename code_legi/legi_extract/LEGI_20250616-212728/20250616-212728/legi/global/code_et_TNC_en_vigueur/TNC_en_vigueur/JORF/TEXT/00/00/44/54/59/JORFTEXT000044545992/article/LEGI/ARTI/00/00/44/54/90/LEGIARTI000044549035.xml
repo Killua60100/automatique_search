@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000044549035</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/44/54/90/LEGIARTI000044549035.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>16</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000044545992" date_publi="2021-12-23" date_signature="2021-12-22" ministere="" nature="LOI" nor="JUSX2107763L" num="2021-1729" num_parution_jo="0298">
+<TITRE_TXT c_titre_court="LOI n°2021-1729 du 22 décembre 2021" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000044545992">LOI n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2021-1729 du 22 décembre 2021" debut="2021-12-24" fin="2999-01-01" id_txt="LEGITEXT000044548947">LOI n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire (1)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2021-12-24" fin="2999-01-01" id="LEGISCTA000044548961">Titre II : DISPOSITIONS AMÉLIORANT LE DÉROULEMENT DES PROCÉDURES PÉNALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-12-24" fin="2999-01-01" id="LEGISCTA000044548952">Chapitre V : Dispositions diverses</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000044549035" num="16" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000044546047" num="16" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>A modifié les dispositions suivantes :<blockquote>- Code de procédure pénale<blockquote>
+  Art. 198
+</blockquote>
+</blockquote>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044569917" naturetexte="CODE" nortexte="" num="198" numtexte="" sens="source" typelien="MODIFIE">Code de procédure pénale - art. 198 (M)</LIEN>
+</LIENS>
+</ARTICLE>

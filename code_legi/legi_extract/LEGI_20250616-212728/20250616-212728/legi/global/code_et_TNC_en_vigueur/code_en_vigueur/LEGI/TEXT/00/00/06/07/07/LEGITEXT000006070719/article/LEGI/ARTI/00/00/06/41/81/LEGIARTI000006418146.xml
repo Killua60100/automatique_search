@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006418146</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X311L09BXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/81/LEGIARTI000006418146.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>311-9-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2004-03-10</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117598">Livre III : Des crimes et délits contre les biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006136042">Titre Ier : Des appropriations frauduleuses</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149833">Chapitre Ier : Du vol</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165324">Section 1 : Du vol simple et des vols aggravés</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006418146" num="311-9-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742414" num="311-9-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Toute personne qui a tenté de commettre un vol en bande organisée prévu par l'article 311-9 est exempte de peine si, ayant averti l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas échéant, les autres auteurs ou complices. <br/>
+<br/>La peine privative de liberté encourue par l'auteur ou le complice d'un vol en bande organisée est réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser l'infraction en cours ou d'éviter que l'infraction n'entraîne mort d'homme ou infirmité permanente et d'identifier, le cas échéant, les autres auteurs ou complices.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000359433" datesignatexte="1992-07-22" id="JORFTEXT000000359433" naturetexte="LOI" nortexte="JUSX8900011L" num="" numtexte="92-685" sens="source" typelien="CODIFICATION">Loi 92-685 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000249995" datesignatexte="2004-03-09" id="LEGIARTI000006494278" naturetexte="LOI" nortexte="JUSX0300028L" num="12" numtexte="2004-204" sens="source" typelien="CREATION">Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418144" naturetexte="CODE" nortexte="" num="311-9" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 311-9 (V)</LIEN>
+</LIENS>
+</ARTICLE>

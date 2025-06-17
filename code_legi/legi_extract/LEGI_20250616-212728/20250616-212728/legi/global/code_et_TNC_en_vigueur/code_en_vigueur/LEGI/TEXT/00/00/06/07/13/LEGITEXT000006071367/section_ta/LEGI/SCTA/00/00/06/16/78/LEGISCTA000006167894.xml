@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006167894</ID>
+<TITRE_TA>Section 3 : Assurances sociales.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2004-07-01" etat="MODIFIE" fin="2010-01-30" id="LEGIARTI000006585681" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2010-01-30" etat="MODIFIE" fin="2011-07-01" id="LEGIARTI000021763332" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2011-07-01" etat="MODIFIE" fin="2011-12-23" id="LEGIARTI000023032186" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2011-12-23" etat="MODIFIE" fin="2016-12-25" id="LEGIARTI000025013396" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2016-12-25" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000033713605" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000035640926" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="MODIFIE" fin="2018-09-01" id="LEGIARTI000036390368" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2018-09-01" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000037074941" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="MODIFIE" fin="2025-01-01" id="LEGIARTI000046805630" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048700881" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2004-07-01" id="LEGIARTI000006585680" num="L741-9" origine="LEGI"/>
+<LIEN_ART debut="2004-07-01" etat="MODIFIE_MORT_NE" fin="2003-12-31" id="LEGIARTI000006585683" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2006-12-22" etat="MODIFIE" fin="2007-01-01" id="LEGIARTI000006585686" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2007-01-01" etat="MODIFIE" fin="2008-06-27" id="LEGIARTI000017845072" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2008-06-27" etat="MODIFIE" fin="2008-12-19" id="LEGIARTI000019071196" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2008-12-19" etat="MODIFIE" fin="2010-01-30" id="LEGIARTI000019950229" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2010-01-30" etat="MODIFIE" fin="2010-07-29" id="LEGIARTI000021763322" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2010-07-29" etat="MODIFIE" fin="2012-12-19" id="LEGIARTI000022658194" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2012-12-19" etat="MODIFIE" fin="2014-10-15" id="LEGIARTI000026800067" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2014-10-15" etat="MODIFIE" fin="2018-09-01" id="LEGIARTI000029594431" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2018-09-01" etat="MODIFIE" fin="2019-12-28" id="LEGIARTI000037074931" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2019-12-28" etat="MODIFIE" fin="2025-03-26" id="LEGIARTI000041396028" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2025-03-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051373868" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2006-03-24" etat="MODIFIE" fin="2006-12-22" id="LEGIARTI000006585685" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2004-07-01" etat="MODIFIE" fin="2006-03-24" id="LEGIARTI000006585684" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2004-07-01" id="LEGIARTI000006585682" num="L741-10" origine="LEGI"/>
+<LIEN_ART debut="2006-12-22" etat="ABROGE" fin="2010-01-30" id="LEGIARTI000006585687" num="L741-10-1" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2001-12-26" id="LEGIARTI000006585688" num="L741-11" origine="LEGI"/>
+<LIEN_ART debut="2007-12-22" etat="ABROGE" fin="2010-01-30" id="LEGIARTI000017844601" num="L741-10-2" origine="LEGI"/>
+<LIEN_ART debut="2007-12-28" etat="ABROGE" fin="2010-01-30" id="LEGIARTI000017923937" num="L741-10-3" origine="LEGI"/>
+<LIEN_ART debut="2008-12-19" etat="ABROGE" fin="2010-01-30" id="LEGIARTI000019950479" num="L741-10-4" origine="LEGI"/>
+<LIEN_ART debut="2001-12-26" etat="MODIFIE" fin="2010-01-30" id="LEGIARTI000006585689" num="L741-11" origine="LEGI"/>
+<LIEN_ART debut="2010-01-30" etat="MODIFIE" fin="2018-09-01" id="LEGIARTI000021763306" num="L741-11" origine="LEGI"/>
+<LIEN_ART debut="2018-09-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037074928" num="L741-11" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2010-01-30" id="LEGIARTI000006585690" num="L741-12" origine="LEGI"/>
+<LIEN_ART debut="2010-01-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021763302" num="L741-12" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2010-01-30" id="LEGIARTI000006585691" num="L741-13" origine="LEGI"/>
+<LIEN_ART debut="2010-01-30" etat="MODIFIE" fin="2014-12-25" id="LEGIARTI000021763300" num="L741-13" origine="LEGI"/>
+<LIEN_ART debut="2014-12-25" etat="MODIFIE" fin="2018-09-01" id="LEGIARTI000029961636" num="L741-13" origine="LEGI"/>
+<LIEN_ART debut="2018-09-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037074918" num="L741-13" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2010-01-30" id="LEGIARTI000006585693" num="L741-14" origine="LEGI"/>
+<LIEN_ART debut="2010-01-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021763296" num="L741-14" origine="LEGI"/>
+<LIEN_ART debut="2007-08-22" etat="MODIFIE" fin="2008-12-19" id="LEGIARTI000006585696" num="L741-15" origine="LEGI"/>
+<LIEN_ART debut="2008-12-19" etat="MODIFIE" fin="2012-08-18" id="LEGIARTI000019950266" num="L741-15" origine="LEGI"/>
+<LIEN_ART debut="2012-08-18" etat="MODIFIE" fin="2018-09-01" id="LEGIARTI000026294360" num="L741-15" origine="LEGI"/>
+<LIEN_ART debut="2018-09-01" etat="MODIFIE" fin="2019-01-01" id="LEGIARTI000037074912" num="L741-15" origine="LEGI"/>
+<LIEN_ART debut="2019-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037947443" num="L741-15" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2003-01-18" id="LEGIARTI000006585694" num="L741-15" origine="LEGI"/>
+<LIEN_ART debut="2003-01-18" etat="MODIFIE" fin="2007-08-22" id="LEGIARTI000006585695" num="L741-15" origine="LEGI"/>
+<LIEN_ART debut="2006-01-06" etat="MODIFIE" fin="2007-08-22" id="LEGIARTI000006585697" num="L741-15-1" origine="LEGI"/>
+<LIEN_ART debut="2007-08-22" etat="MODIFIE" fin="2007-12-22" id="LEGIARTI000006585698" num="L741-15-1" origine="LEGI"/>
+<LIEN_ART debut="2007-12-22" etat="MODIFIE" fin="2012-01-01" id="LEGIARTI000017845468" num="L741-15-1" origine="LEGI"/>
+<LIEN_ART debut="2012-01-01" etat="ABROGE" fin="2015-10-09" id="LEGIARTI000025075950" num="L741-15-1" origine="LEGI"/>
+<LIEN_ART debut="2007-08-22" etat="MODIFIE" fin="2007-12-22" id="LEGIARTI000006585700" num="L741-15-2" origine="LEGI"/>
+<LIEN_ART debut="2007-12-22" etat="ABROGE" fin="2018-09-01" id="LEGIARTI000017845462" num="L741-15-2" origine="LEGI"/>
+<LIEN_ART debut="2006-01-06" etat="MODIFIE" fin="2007-08-22" id="LEGIARTI000006585699" num="L741-15-2" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2001-12-26" id="LEGIARTI000006585701" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2006-01-06" etat="MODIFIE" fin="2006-12-22" id="LEGIARTI000006585703" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2006-12-22" etat="MODIFIE" fin="2008-02-15" id="LEGIARTI000006585704" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2008-02-15" etat="MODIFIE" fin="2008-12-19" id="LEGIARTI000018978754" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2008-12-19" etat="MODIFIE" fin="2010-03-11" id="LEGIARTI000019950472" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2010-03-11" etat="MODIFIE" fin="2010-12-22" id="LEGIARTI000021948681" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2010-12-22" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000023271932" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="MODIFIE" fin="2013-01-01" id="LEGIARTI000023382221" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2013-01-01" etat="MODIFIE" fin="2015-01-01" id="LEGIARTI000026948527" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2015-01-01" etat="MODIFIE" fin="2019-01-01" id="LEGIARTI000030024039" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2019-01-01" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000037947610" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="MODIFIE" fin="2025-02-28" id="LEGIARTI000048600700" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2025-02-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051284277" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2001-12-26" etat="MODIFIE" fin="2006-01-06" id="LEGIARTI000006585702" num="L741-16" origine="LEGI"/>
+<LIEN_ART debut="2010-03-11" etat="MODIFIE" fin="2010-05-08" id="LEGIARTI000021948696" num="L741-16-1" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2013-01-01" id="LEGIARTI000022202652" num="L741-16-1" origine="LEGI"/>
+<LIEN_ART debut="2013-01-01" etat="MODIFIE" fin="2015-01-01" id="LEGIARTI000026948518" num="L741-16-1" origine="LEGI"/>
+<LIEN_ART debut="2015-01-01" etat="ABROGE" fin="2019-01-01" id="LEGIARTI000030024022" num="L741-16-1" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2010-01-30" id="LEGIARTI000006585705" num="L741-17" origine="LEGI"/>
+<LIEN_ART debut="2010-01-30" etat="ABROGE" fin="2019-01-01" id="LEGIARTI000021763290" num="L741-17" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2018-09-01" id="LEGIARTI000006585706" num="L741-18" origine="LEGI"/>
+<LIEN_ART debut="2018-09-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037074924" num="L741-18" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006585707" num="L741-19" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2018-09-01" id="LEGIARTI000006585708" num="L741-20" origine="LEGI"/>
+<LIEN_ART debut="2018-09-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037074920" num="L741-20" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006585709" num="L741-21" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006585711" num="L741-22" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2002-01-18" id="LEGIARTI000006585712" num="L741-23" origine="LEGI"/>
+<LIEN_ART debut="2002-01-18" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006585713" num="L741-23" origine="LEGI"/>
+<LIEN_ART debut="2004-01-01" etat="ABROGE" fin="2010-01-30" id="LEGIARTI000006585715" num="L741-24" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="MODIFIE" fin="2004-01-01" id="LEGIARTI000006585714" num="L741-24" origine="LEGI"/>
+<LIEN_ART debut="2000-06-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006585716" num="L741-25" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-06-22" fin="2999-01-01" id="LEGISCTA000006121425">Livre VII : Dispositions sociales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-06-22" fin="2999-01-01" id="LEGISCTA000006138366">Titre IV : Protection sociale des personnes salariées des professions agricoles</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-06-22" fin="2999-01-01" id="LEGISCTA000006152348">Chapitre Ier : Cotisations et autres financements</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

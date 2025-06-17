@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTELR>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000006068624</ID>
+<ANCIEN_ID>PPEAU</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/struct/LEGI/TEXT/00/00/06/06/86/LEGITEXT000006068624.xml</URL>
+<NATURE>LOI</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000000886460</CID>
+<NUM>78-17</NUM>
+<NUM_PARUTION/>
+<NUM_SEQUENCE>0</NUM_SEQUENCE>
+<NOR/>
+<DATE_PUBLI>1978-01-07</DATE_PUBLI>
+<DATE_TEXTE>1978-01-06</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2025-05-03</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI>0</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>0</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+</META_SPEC>
+</META>
+<VERSIONS>
+<VERSION etat="">
+<LIEN_TXT debut="2999-01-01" fin="2999-01-01" id="JORFTEXT000000886460" num="78-17"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_TXT debut="1978-01-07" fin="2999-01-01" id="LEGITEXT000006068624" num="78-17"/>
+</VERSION>
+</VERSIONS>
+<STRUCT>
+<LIEN_SECTION_TA cid="LEGISCTA000006095881" debut="1978-07-23" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000006095881" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095881.xml">Chapitre Ier : Principes et définitions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095898" debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000006095898" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095898.xml">Chapitre II : Conditions de licéité des traitements de données à caractère personnel</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095899" debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000006095899" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095899.xml">Chapitre III : La Commission nationale de l'informatique et des libertés.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095900" debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000006095900" niv="1" url="/LEGI/SCTA/00/00/06/09/59/LEGISCTA000006095900.xml">Chapitre IV : Formalités préalables à la mise en oeuvre des traitements.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095901" debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000006095901" niv="1" url="/LEGI/SCTA/00/00/06/09/59/LEGISCTA000006095901.xml">Chapitre V : Obligations incombant aux responsables de traitements et droits des personnes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095902" debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000006095902" niv="1" url="/LEGI/SCTA/00/00/06/09/59/LEGISCTA000006095902.xml">Chapitre VI : Le contrôle de la mise en oeuvre des traitements.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037802702" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037817103" niv="1" url="/LEGI/SCTA/00/00/37/81/71/LEGISCTA000037817103.xml">Titre Ier : Dispositions communes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037804929" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037817521" niv="1" url="/LEGI/SCTA/00/00/37/81/75/LEGISCTA000037817521.xml">Titre II : Traitements relevant du régime de protection des données à caractère personnel prévu par le règlement (UE) 2016/679 du 27 avril 2016</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037814526" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037817613" niv="1" url="/LEGI/SCTA/00/00/37/81/76/LEGISCTA000037817613.xml">Titre III : Dispositions applicables aux traitements relevant de la directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037814592" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037817709" niv="1" url="/LEGI/SCTA/00/00/37/81/77/LEGISCTA000037817709.xml">Titre IV : Dispositions applicables aux traitements intéressant la sûreté de l'Etat et la défense &#13;
+</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000049568350" debut="2024-05-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000049568350" niv="1" url="/LEGI/SCTA/00/00/49/56/83/LEGISCTA000049568350.xml">Titre IV BIS : DISPOSITIONS RELATIVES À L'ALTRUISME EN MATIÈRE DE DONNÉES</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000049568671" debut="2024-02-17" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000049568671" niv="1" url="/LEGI/SCTA/00/00/49/56/86/LEGISCTA000049568671.xml">Titre IV TER : DISPOSITIONS APPLICABLES AUX FOURNISSEURS DE PLATEFORMES EN LIGNE RELEVANT DU RÈGLEMENT (UE) 2022/2065 DU PARLEMENT EUROPÉEN ET DU CONSEIL DU 19 OCTOBRE 2022 RELATIF À UN MARCHÉ UNIQUE DES SERVICES NUMÉRIQUES ET MODIFIANT LA DIRECTIVE 2000/31/ CE (RÈGLEMENT SUR LES SERVICES NUMÉRIQUES)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037814624" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037817751" niv="1" url="/LEGI/SCTA/00/00/37/81/77/LEGISCTA000037817751.xml">Titre V : Dispositions relatives à l'outre-mer &#13;
+</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095882" debut="1978-07-23" etat="ABROGE" fin="2004-08-07" id="LEGISCTA000006095882" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095882.xml">Chapitre II : La Commission nationale de l'informatique et des libertés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095883" debut="1978-07-23" etat="ABROGE" fin="1994-03-01" id="LEGISCTA000006095883" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095883.xml">LA COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTES</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095884" debut="1978-07-23" etat="ABROGE" fin="2004-08-07" id="LEGISCTA000006095884" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095884.xml">Chapitre III : Formalités préalables à la mise en oeuvre des traitements automatisés.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095885" debut="1978-07-23" etat="ABROGE" fin="2004-08-07" id="LEGISCTA000006095885" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095885.xml">Chapitre IV : Collecte, enregistrement et conservation des informations nominatives.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095886" debut="1978-07-23" etat="ABROGE" fin="2004-08-07" id="LEGISCTA000006095886" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095886.xml">Chapitre V : Exercice du droit d'accès.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095887" debut="1994-07-02" etat="ABROGE" fin="2004-08-07" id="LEGISCTA000006095887" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095887.xml">Chapitre V bis : Traitements automatisés de données nominatives ayant pour fin la recherche dans le domaine de la santé.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095888" debut="1999-07-28" etat="ABROGE" fin="2004-08-07" id="LEGISCTA000006095888" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095888.xml">Chapitre V ter : Traitement des données personnelles de santé à des fins d'évaluation ou d'analyse des activités de soins et de prévention.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095889" debut="1980-01-01" etat="ABROGE" fin="2004-08-07" id="LEGISCTA000006095889" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095889.xml">Chapitre VI : Dispositions pénales.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095890" debut="1980-01-01" etat="ABROGE" fin="2004-08-07" id="LEGISCTA000006095890" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095890.xml">Chapitre VII : Dispositions diverses.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095891" debut="2004-08-07" etat="MODIFIE" fin="2011-03-31" id="LEGISCTA000006095891" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095891.xml">Chapitre VII : Sanctions prononcées par la Commission nationale de l'informatique et des libertés.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095891" debut="2011-03-31" etat="MODIFIE" fin="2018-05-25" id="LEGISCTA000023784585" niv="1" url="/LEGI/SCTA/00/00/23/78/45/LEGISCTA000023784585.xml">Chapitre VII : Sanctions prononcées par la formation restreinte de la Commission nationale de l'informatique et des libertés.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095891" debut="2018-05-25" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000037090112" niv="1" url="/LEGI/SCTA/00/00/37/09/01/LEGISCTA000037090112.xml">Chapitre VII : Mesures et sanctions prises par la formation restreinte de la Commission nationale de l'informatique et des libertés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037087595" debut="2018-05-25" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000037087595" niv="1" url="/LEGI/SCTA/00/00/37/08/75/LEGISCTA000037087595.xml">Chapitre VII bis : De la coopération </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095892" debut="2004-08-07" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000006095892" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095892.xml">Chapitre VIII : Dispositions pénales.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095893" debut="2004-08-07" etat="MODIFIE" fin="2016-01-28" id="LEGISCTA000006095893" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095893.xml">Chapitre IX : Traitements de données à caractère personnel ayant pour fin la recherche dans le domaine de la santé.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095893" debut="2016-01-28" etat="MODIFIE" fin="2018-05-25" id="LEGISCTA000031932064" niv="1" url="/LEGI/SCTA/00/00/31/93/20/LEGISCTA000031932064.xml">Chapitre IX : Traitements de données à caractère personnel  à des fins de recherche, d'étude ou d'évaluation dans le domaine de la santé.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095893" debut="2018-05-25" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000037090299" niv="1" url="/LEGI/SCTA/00/00/37/09/02/LEGISCTA000037090299.xml">Chapitre IX : Traitements de données à caractère personnel dans le domaine de la santé</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095894" debut="2004-08-07" etat="ABROGE" fin="2016-01-28" id="LEGISCTA000006095894" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095894.xml">Chapitre X : Traitements de données de santé à caractère personnel à des fins d'évaluation ou d'analyse des pratiques ou des activités de soins et de prévention.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095895" debut="2004-08-07" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000006095895" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095895.xml">Chapitre XI : Traitements de données à caractère personnel aux fins de journalisme et d'expression littéraire et artistique.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095896" debut="2004-08-07" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000006095896" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095896.xml">Chapitre XII : Transferts de données à caractère personnel vers des Etats n'appartenant pas à la Communauté européenne.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037088626" debut="2018-05-25" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000037088641" niv="1" url="/LEGI/SCTA/00/00/37/08/86/LEGISCTA000037088641.xml">Chapitre XIII : Dispositions applicables aux traitements relevant de la directive (UE 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/ JAI du Conseil</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095897" debut="2004-08-07" etat="MODIFIE" fin="2018-05-25" id="LEGISCTA000006095897" niv="1" url="/LEGI/SCTA/00/00/06/09/58/LEGISCTA000006095897.xml">Chapitre XIII : Dispositions diverses.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095897" debut="2018-05-25" etat="ABROGE" fin="2019-06-01" id="LEGISCTA000037090443" niv="1" url="/LEGI/SCTA/00/00/37/09/04/LEGISCTA000037090443.xml">Chapitre XIV : Dispositions diverses.</LIEN_SECTION_TA>
+</STRUCT>
+
+</TEXTELR>

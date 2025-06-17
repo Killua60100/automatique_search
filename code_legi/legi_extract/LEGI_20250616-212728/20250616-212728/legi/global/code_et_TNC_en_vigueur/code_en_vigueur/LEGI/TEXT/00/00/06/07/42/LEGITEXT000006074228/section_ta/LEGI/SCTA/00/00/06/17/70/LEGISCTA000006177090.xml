@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006177090</ID>
+<TITRE_TA>Section 2 : Plaques et inscriptions.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2003-01-15" id="LEGIARTI000006841702" num="R317-8" origine="LEGI"/>
+<LIEN_ART debut="2003-12-13" etat="MODIFIE" fin="2006-01-15" id="LEGIARTI000006841705" num="R317-8" origine="LEGI"/>
+<LIEN_ART debut="2006-01-15" etat="MODIFIE" fin="2009-04-15" id="LEGIARTI000006841706" num="R317-8" origine="LEGI"/>
+<LIEN_ART debut="2009-04-15" etat="MODIFIE" fin="2012-01-05" id="LEGIARTI000020241991" num="R317-8" origine="LEGI"/>
+<LIEN_ART debut="2012-01-05" etat="MODIFIE" fin="2020-08-27" id="LEGIARTI000025111475" num="R317-8" origine="LEGI"/>
+<LIEN_ART debut="2020-08-27" etat="MODIFIE" fin="2025-06-16" id="LEGIARTI000042266062" num="R317-8" origine="LEGI"/>
+<LIEN_ART debut="2025-06-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740218" num="R317-8" origine="LEGI"/>
+<LIEN_ART debut="2003-01-15" etat="MODIFIE" fin="2003-06-22" id="LEGIARTI000006841703" num="R317-8" origine="LEGI"/>
+<LIEN_ART debut="2003-06-22" etat="MODIFIE" fin="2003-12-13" id="LEGIARTI000006841704" num="R317-8" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2016-04-15" id="LEGIARTI000006841707" num="R317-9" origine="LEGI"/>
+<LIEN_ART debut="2016-04-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032401410" num="R317-9" origine="LEGI"/>
+<LIEN_ART debut="2003-06-22" etat="MODIFIE" fin="2016-04-15" id="LEGIARTI000006841709" num="R317-10" origine="LEGI"/>
+<LIEN_ART debut="2016-04-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032401415" num="R317-10" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2003-06-22" id="LEGIARTI000006841708" num="R317-10" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2016-04-15" id="LEGIARTI000006841710" num="R317-11" origine="LEGI"/>
+<LIEN_ART debut="2016-04-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032401422" num="R317-11" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2009-04-15" id="LEGIARTI000006841711" num="R317-12" origine="LEGI"/>
+<LIEN_ART debut="2009-04-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020241995" num="R317-12" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006841712" num="R317-13" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006841714" num="R317-14" origine="LEGI"/>
+<LIEN_ART debut="2019-10-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039275482" num="R317-14-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006108688">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006129091">Livre III : Le véhicule.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006143855">Titre Ier : Dispositions techniques.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006159583">Chapitre VII : Dispositifs et aménagements particuliers</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

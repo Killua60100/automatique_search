@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575365</ID>
+<ANCIEN_ID>PXXXXXXXXXX0157L000AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/53/LEGIARTI000006575365.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>157</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1976-01-01</DATE_DEBUT>
+<DATE_FIN>2004-02-12</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151881">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006167429">Section 9 : De l'expertise</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1976-01-01" etat="MODIFIE" fin="2004-02-12" id="LEGIARTI000006575365" num="157" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2004-02-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575366" num="157" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>   Les experts sont choisis parmi les personnes physiques ou morales qui figurent soit sur une liste nationale établie par le bureau de la Cour de cassation, soit sur une des listes dressées par les cours d'appel, le procureur général entendu.<br/>
+    Les modalités d'inscription et de radiation sur ces listes sont fixées par un décret en Conseil d'Etat.<br/>
+    A titre exceptionnel, les juridictions peuvent, par décision motivée, choisir des experts ne figurant sur aucune de ces listes.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="LEGIARTI000006275777" naturetexte="ORDONNANCE" nortexte="" num="1" numtexte="58-1296" sens="source" typelien="MODIFICATION">Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958</LIEN>
+<LIEN cidtexte="JORFTEXT000000517670" datesignatexte="1960-06-04" id="JORFTEXT000000517670" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="60-529" sens="source" typelien="MODIFICATION">Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960</LIEN>
+<LIEN cidtexte="JORFTEXT000000874942" datesignatexte="1971-06-29" id="LEGIARTI000006492476" naturetexte="LOI" nortexte="" num="3" numtexte="71-498" sens="cible" typelien="CITATION">Loi n°71-498 du 29 juin 1971 - art. 3 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000875042" datesignatexte="1974-12-31" id="LEGIARTI000006497869" naturetexte="DECRET" nortexte="" num="39" numtexte="74-1184" sens="cible" typelien="CITATION">Décret n°74-1184 du 31 décembre 1974 - art. 39 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000700423" datesignatexte="1975-08-06" id="JORFTEXT000000700423" naturetexte="LOI" nortexte="" num="" numtexte="75-701" sens="source" typelien="MODIFICATION">Loi 75-701 1975-08-06 art. 24 JORF 7 août 1975 en vigueur le 1er janvier 1976</LIEN>
+<LIEN cidtexte="JORFTEXT000000700423" datesignatexte="1975-08-06" id="JORFARTI000002081431" naturetexte="LOI" nortexte="" num="29" numtexte="75-701" sens="source" typelien="SPEC_APPLI">Loi n°75-701 du 6 août 1975 - art. 29, v. init.</LIEN>
+<LIEN cidtexte="JORFTEXT000000382296" datesignatexte="1997-02-06" id="LEGIARTI000032714134" naturetexte="DECRET" nortexte="JUSC9620898D" num="10" numtexte="97-109" sens="cible" typelien="CITATION">Décret n°97-109 du 6 février 1997 - art. 10 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000382296" datesignatexte="1997-02-06" id="LEGIARTI000032714165" naturetexte="DECRET" nortexte="JUSC9620898D" num="13" numtexte="97-109" sens="cible" typelien="CITATION">Décret n°97-109 du 6 février 1997 - art. 13 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000382296" datesignatexte="1997-02-06" id="LEGIARTI000032714116" naturetexte="DECRET" nortexte="JUSC9620898D" num="4" numtexte="97-109" sens="cible" typelien="CITATION">Décret n°97-109 du 6 février 1997 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000772680" datesignatexte="2001-09-05" id="LEGIARTI000019271130" naturetexte="ARRETE" nortexte="MESP0123164A" num="14" numtexte="" sens="cible" typelien="CITATION">Arrêté du 5 septembre 2001 - art. 14 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000243398" datesignatexte="2006-06-01" id="LEGIARTI000006917966" naturetexte="ORDONNANCE" nortexte="JUSX0600040R" num="11" numtexte="2006-639" sens="cible" typelien="CITATION">Ordonnance n°2006-639 du 1 juin 2006 - art. 11 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000243398" datesignatexte="2006-06-01" id="LEGIARTI000006917895" naturetexte="ORDONNANCE" nortexte="JUSX0600040R" num="7" numtexte="2006-639" sens="cible" typelien="CITATION">Ordonnance n°2006-639 du 1 juin 2006 - art. 7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000243398" datesignatexte="2006-06-01" id="LEGIARTI000006917932" naturetexte="ORDONNANCE" nortexte="JUSX0600040R" num="9" numtexte="2006-639" sens="cible" typelien="CITATION">Ordonnance n°2006-639 du 1 juin 2006 - art. 9 (V)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000032711627" datesignatexte="2016-06-14" id="LEGIARTI000032712139" naturetexte="DECRET" nortexte="JUSD1607271D" num="15" numtexte="2016-796" sens="cible" typelien="CITATION">Décret n°2016-796 du 14 juin 2016 - art. 15</LIEN>
+<LIEN cidtexte="JORFTEXT000033067101" datesignatexte="2016-08-24" id="LEGIARTI000033067420" naturetexte="DECRET" nortexte="INTS1610707D" num="1" numtexte="2016-1152" sens="cible" typelien="CITATION">Décret n°2016-1152 du 24 août 2016 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000033607271" datesignatexte="2016-12-13" id="LEGIARTI000033610308" naturetexte="ARRETE" nortexte="AFSP1636875A" num="12" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 décembre 2016 - art. 12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006514861" naturetexte="CODE" nortexte="" num="D24" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. D24 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000028749093" naturetexte="CODE" nortexte="" num="L215-12" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L215-12 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000028749090" naturetexte="CODE" nortexte="" num="L215-17" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L215-17 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000032225029" naturetexte="CODE" nortexte="" num="L512-42" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L512-42 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000032225015" naturetexte="CODE" nortexte="" num="L512-49" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L512-49 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033068418" naturetexte="CODE" nortexte="" num="R235-9" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R235-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000030293529" naturetexte="CODE" nortexte="" num="R3354-20" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. R3354-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575370" naturetexte="CODE" nortexte="" num="160" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 160 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575371" naturetexte="CODE" nortexte="" num="161" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 161 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048441770" naturetexte="CODE" nortexte="" num="161-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 161-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047053056" naturetexte="CODE" nortexte="" num="230-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048441712" naturetexte="CODE" nortexte="" num="230-36" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-36 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047052981" naturetexte="CODE" nortexte="" num="60" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 60 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047052956" naturetexte="CODE" nortexte="" num="60-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 60-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311624" naturetexte="CODE" nortexte="" num="706-102-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-102-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032654031" naturetexte="CODE" nortexte="" num="706-102-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-102-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740329" naturetexte="CODE" nortexte="" num="706-99" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-99 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047053288" naturetexte="CODE" nortexte="" num="74" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 74 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006075115" datesignatexte="2999-01-01" id="LEGIARTI000006900432" naturetexte="CODE" nortexte="" num="R*32" numtexte="" sens="cible" typelien="CITATION">Code des débits de boissons et des mesures contre  - art. R*32 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006648364" naturetexte="CODE" nortexte="" num="L325-2-1" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L325-2-1 (AbD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000033025016" naturetexte="CODE" nortexte="" num="L8271-3" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8271-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043540877" naturetexte="CODE" nortexte="" num="222-14-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-14-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006419416" naturetexte="CODE" nortexte="" num="R131-35" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. R131-35 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006419420" naturetexte="CODE" nortexte="" num="R131-45" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. R131-45 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006419414" naturetexte="CODE" nortexte="" num="R131-52" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. R131-52 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071329" datesignatexte="1919-01-22" id="LEGIARTI000006554038" naturetexte="DECRET" nortexte="" num="26" numtexte="" sens="cible" typelien="CITATION">Décret n°1919-01-22 du 22 janvier 1919 - art. 26 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

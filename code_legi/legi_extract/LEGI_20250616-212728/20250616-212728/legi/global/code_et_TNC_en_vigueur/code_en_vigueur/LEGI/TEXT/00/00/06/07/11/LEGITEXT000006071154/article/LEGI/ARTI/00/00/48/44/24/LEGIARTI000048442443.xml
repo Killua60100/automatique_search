@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000048442443</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/48/44/24/LEGIARTI000048442443.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2024-11-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2999-01-01" id="LEGISCTA000006138120">Titre XIII : De la procédure applicable aux infractions en matière économique et financière</TITRE_TM>
+<TM>
+<TITRE_TM debut="2014-02-01" fin="2999-01-01" id="LEGISCTA000028299380">Chapitre III : Dispositions diverses</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1976-01-01" etat="ABROGE" fin="1994-03-01" id="LEGIARTI000006577511" num="706" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1998-07-03" etat="MODIFIE" fin="2004-10-01" id="LEGIARTI000006577512" num="706" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2014-02-01" id="LEGIARTI000006577513" num="706" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-02-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000028312437" num="706" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2024-11-01" id="LEGIARTI000039279316" num="706" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-11-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048442443" num="706" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément au IX de l'article 60 de la loi n° 2023-1059 du 20 novembre 2023, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le premier jour du douzième mois suivant la publication de ladite loi.</p>
+<p>Conformément à l'article 7 du décret n° 2024-965 du 30 octobre 2024, ces dispositions entrent en vigueur le 1er novembre 2024.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Des assistants spécialisés peuvent être nommés afin d'exercer leurs fonctions auprès d'un pôle de l'instruction mentionné à l'article 52-1 ou d'un tribunal judiciaire mentionné aux articles 704 ou 705. <br/>
+<br/>Sous réserve du présent article, ils sont régis par l'article L. 123-5 du code de l'organisation judiciaire. </p>
+<p>Les assistants spécialisés participent aux procédures sous la responsabilité des magistrats, sans pouvoir toutefois recevoir délégation de signature, sauf pour les réquisitions prévues par les articles 60-1,60-2,77-1-1,77-1-2,99-3 et 99-4. </p>
+<p>Ils accomplissent toutes les tâches qui leur sont confiées par les magistrats et peuvent notamment : </p>
+<p>1° Assister les juges d'instruction dans tous les actes d'information ; </p>
+<p>2° Assister les magistrats du ministère public dans l'exercice de l'action publique ; </p>
+<p>3° Assister les officiers de police judiciaire agissant sur délégation des magistrats ; </p>
+<p>4° Remettre aux magistrats des documents de synthèse ou d'analyse qui peuvent être versés au dossier de la procédure ; </p>
+<p>5° Mettre en oeuvre le droit de communication reconnu aux magistrats en application de l'article 132-22 du code pénal. </p>
+<p>Le procureur général peut leur demander d'assister le ministère public devant la juridiction d'appel. </p>
+<p>Un décret en Conseil d'Etat précise les modalités d'application du présent article.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance n° 58-1296 du 23 décembre 1958</LIEN>
+<LIEN cidtexte="JORFTEXT000000864438" datesignatexte="1982-06-14" id="LEGIARTI000042513738" naturetexte="ARRETE" nortexte="" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 14 juin 1982 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000864438" datesignatexte="1982-06-14" id="LEGIARTI000042513755" naturetexte="ARRETE" nortexte="" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 14 juin 1982 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033227440" datesignatexte="2016-09-01" id="LEGIARTI000043682702" naturetexte="ARRETE" nortexte="ECFE1626313A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 1er septembre 2016 - art. 2 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000044315354" datesignatexte="2021-11-09" id="LEGITEXT000044317922" naturetexte="DECRET" nortexte="JUST2114818D" num="" numtexte="2021-1469" sens="cible" typelien="CITATION">Décret n°2021-1469 du 9 novembre 2021 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045638783" datesignatexte="2022-04-19" id="LEGIARTI000046065898" naturetexte="ARRETE" nortexte="JUST2211563A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 avril 2022 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000046061815" datesignatexte="2022-07-13" id="LEGIARTI000046063959" naturetexte="ARRETE" nortexte="JUST2220677A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 juillet 2022 - art. 1</LIEN>
+
+<LIEN cidtexte="JORFTEXT000048186342" datesignatexte="2023-10-10" id="LEGIARTI000048187521" naturetexte="DECRET" nortexte="JUSD2322830D" num="6" numtexte="2023-935" sens="cible" typelien="CITATION">Décret n°2023-935 du 10 octobre 2023 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000048430512" datesignatexte="2023-11-20" id="LEGIARTI000048431861" naturetexte="LOI" nortexte="JUST2305124L" num="37" numtexte="2023-1059" sens="cible" typelien="MODIFIE">LOI n°2023-1059 du 20 novembre 2023 - art. 37</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417396" naturetexte="CODE" nortexte="" num="132-22" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-22</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576971" naturetexte="CODE" nortexte="" num="567-1" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 567-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577493" naturetexte="CODE" nortexte="" num="704" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 704 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577515" naturetexte="CODE" nortexte="" num="706-1" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 706-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577791" naturetexte="CODE" nortexte="" num="706-79" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 706-79 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071164" datesignatexte="2999-01-01" id="LEGIARTI000048436698" naturetexte="CODE" nortexte="" num="L123-5" numtexte="" sens="cible" typelien="CITATION">Code de l'organisation judiciaire - art. L123-5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742218" naturetexte="CODE" nortexte="" num="28-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575009" naturetexte="CODE" nortexte="" num="52-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 52-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577505" naturetexte="CODE" nortexte="" num="705" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 705</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000024964762" naturetexte="CODE" nortexte="" num="706-181" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-181 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000022304496" naturetexte="CODE" nortexte="" num="706-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042750764" naturetexte="CODE" nortexte="" num="706-25-15" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-25-15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042750754" naturetexte="CODE" nortexte="" num="706-25-2-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-25-2-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575139" naturetexte="CODE" nortexte="" num="77-1-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 77-1-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575243" naturetexte="CODE" nortexte="" num="99-3" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 99-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045233562" naturetexte="CODE" nortexte="" num="D47-12-10" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D47-12-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048188612" naturetexte="CODE" nortexte="" num="R15-33-66-8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R15-33-66-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048188592" naturetexte="CODE" nortexte="" num="R249-13" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R249-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517450" naturetexte="CODE" nortexte="" num="R50 bis" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R50 bis (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517451" naturetexte="CODE" nortexte="" num="R50 ter" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R50 ter (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000037520985" naturetexte="CODE" nortexte="" num="59 terdecies" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 59 terdecies (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000037520700" naturetexte="CODE" nortexte="" num="L135 ZJ" numtexte="" sens="cible" typelien="CITATION">Livre des procédures fiscales - art. L135 ZJ (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000048442439" naturetexte="CODE" nortexte="" num="L142 A" numtexte="" sens="cible" typelien="CITATION">Livre des procédures fiscales - art. L142 A (VD)</LIEN>
+</LIENS>
+</ARTICLE>

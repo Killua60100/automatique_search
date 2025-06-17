@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000025507957</ID>
+<TITRE_TA>Section 1 : Jeux de hasard et casinos</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000039168948" debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000039170417" niv="6" url="/LEGI/SCTA/00/00/39/17/04/LEGISCTA000039170417.xml">Sous-section 1 : Jeux d'argent et de hasard </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000039168964" debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000039170486" niv="6" url="/LEGI/SCTA/00/00/39/17/04/LEGISCTA000039170486.xml">Sous-section 2 :  Communication commerciale</LIEN_SECTION_TA>
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2017-03-02" id="LEGIARTI000025505740" num="L324-1" origine="LEGI"/>
+<LIEN_ART debut="2017-03-02" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000034116009" num="L324-1" origine="LEGI"/>
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000025505742" num="L324-2" origine="LEGI"/>
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000025505744" num="L324-3" origine="LEGI"/>
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000025505749" num="L324-4" origine="LEGI"/>
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000025505755" num="L324-5" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508079">LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2020-01-01" id="LEGISCTA000025507989">TITRE II : JEUX DE HASARD, CASINOS, LOTERIES</TITRE_TM>
+<TITRE_TM debut="2020-01-01" fin="2999-01-01" id="LEGISCTA000039182522">TITRE II : JEUX D'ARGENT ET DE HASARD, CASINOS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507959">Chapitre IV : Dispositions pénales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

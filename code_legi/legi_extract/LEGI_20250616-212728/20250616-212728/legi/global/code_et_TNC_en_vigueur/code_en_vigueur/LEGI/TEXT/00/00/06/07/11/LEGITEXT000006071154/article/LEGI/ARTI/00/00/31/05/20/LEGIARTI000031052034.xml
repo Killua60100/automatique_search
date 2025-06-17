@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000031052034</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/31/05/20/LEGIARTI000031052034.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-75-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2015-08-19</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151937">Chapitre Ier : Compétence des juridictions spécialisées</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2015-08-19" id="LEGIARTI000023716964" num="706-75-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2015-08-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000031052034" num="706-75-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Par dérogation aux dispositions du deuxième alinéa de l'article 380-1, en cas d'appel d'une décision d'une cour d'assises dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel pour le jugement des crimes entrant dans le champ d'application des articles 706-73, à l'exception du 11°, 706-73-1 ou 706-74, dans les affaires qui sont ou apparaîtraient d'une grande complexité, la chambre criminelle de la Cour de cassation peut désigner la même cour d'assises, autrement composée, pour connaître de l'appel.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000031045937" datesignatexte="2015-08-17" id="LEGIARTI000031047629" naturetexte="LOI" nortexte="JUSX1403244L" num="11" numtexte="2015-993" sens="cible" typelien="MODIFIE">LOI n°2015-993 du 17 août 2015 - art. 11</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576360" naturetexte="CODE" nortexte="" num="380-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 380-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000031052232" naturetexte="CODE" nortexte="" num="706-74" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-74 (M)</LIEN>
+</LIENS>
+</ARTICLE>

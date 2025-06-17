@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575774</ID>
+<ANCIEN_ID>PXXXXXXXXXX0173L000AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/57/LEGIARTI000006575774.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>173</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1958-04-08</DATE_DEBUT>
+<DATE_FIN>1993-03-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151881">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1993-03-01" fin="2999-01-01" id="LEGISCTA000006167430">Section 10 : Des nullités de l'information</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1958-04-08" etat="MODIFIE" fin="1993-03-01" id="LEGIARTI000006575774" num="173" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="1993-09-02" id="LEGIARTI000006575775" num="173" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-09-02" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575776" num="173" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2004-10-01" id="LEGIARTI000006575777" num="173" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2007-07-01" id="LEGIARTI000006575778" num="173" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-07-01" etat="MODIFIE" fin="2017-10-31" id="LEGIARTI000006575779" num="173" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-10-31" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000035997486" num="173" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2024-09-30" id="LEGIARTI000038312041" num="173" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-09-30" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000048442087" num="173" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743085" num="173" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les actes annulés sont retirés du dossier d'information et classés au greffe de la cour d'appel. Il est interdit d'y puiser aucun renseignement contre les parties au débat, à peine de forfaiture pour les magistrats et de poursuites devant leurs chambres de discipline pour les défenseurs.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="SPEC_APPLI">Loi 57-1426 1957-12-31 art. 18</LIEN>
+<LIEN cidtexte="JORFTEXT000000271253" datesignatexte="2007-03-05" id="LEGIARTI000033459413" naturetexte="LOI" nortexte="JUSX0600156L" num="30" numtexte="2007-291" sens="cible" typelien="CITATION">Loi n° 2007-291 du 5 mars 2007 - art. 30 (V)</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000045476241" datesignatexte="2999-01-01" id="LEGIARTI000045480166" naturetexte="CODE" nortexte="" num="L315-8" numtexte="" sens="cible" typelien="CITATION">Code pénitentiaire - art. L315-8 (V)</LIEN>
+
+
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575285" naturetexte="CODE" nortexte="" num="113-8" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 113-8 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575784" naturetexte="CODE" nortexte="" num="174" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 174 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575941" naturetexte="CODE" nortexte="" num="218" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 218 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575205" naturetexte="CODE" nortexte="" num="80-3" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 80-3 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070884" datesignatexte="2999-01-01" id="LEGIARTI000006434089" naturetexte="CODE" nortexte="" num="119" numtexte="" sens="cible" typelien="CITATION">Code de justice militaire - art. 119 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000029000916" naturetexte="CODE" nortexte="" num="113-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 113-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038312243" naturetexte="CODE" nortexte="" num="116" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 116 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038312271" naturetexte="CODE" nortexte="" num="175" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 175 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045071232" naturetexte="CODE" nortexte="" num="187" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 187 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045071215" naturetexte="CODE" nortexte="" num="194" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 194 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575953" naturetexte="CODE" nortexte="" num="221-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 221-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576989" naturetexte="CODE" nortexte="" num="571" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 571 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033518767" naturetexte="CODE" nortexte="" num="695-9-22" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 695-9-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048442106" naturetexte="CODE" nortexte="" num="696-132" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 696-132 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575201" naturetexte="CODE" nortexte="" num="80-1-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 80-1-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038312222" naturetexte="CODE" nortexte="" num="89-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 89-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044051450" naturetexte="CODE" nortexte="" num="D153" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D153 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

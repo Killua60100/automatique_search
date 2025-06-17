@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006574846</ID>
+<ANCIEN_ID>PXXXXXXXXXX0011L000AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/48/LEGIARTI000006574846.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>11</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1994-03-01</DATE_DEBUT>
+<DATE_FIN>2000-06-16</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006138088">Titre Ier : Des autorités chargées de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753873">Titre Ier : Des autorités chargées  de la conduite de la politique pénale, de l'action publique et de l'instruction</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1958-04-08" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006574845" num="11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2000-06-16" id="LEGIARTI000006574846" num="11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-06-16" etat="MODIFIE" fin="2021-12-24" id="LEGIARTI000006574847" num="11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2021-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044568210" num="11" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Sauf dans le cas où la loi en dispose autrement et sans préjudice des droits de la défense, la procédure au cours de l'enquête et de l'instruction est secrète.</p>
+<br/>
+<p>Toute personne qui concourt à cette procédure est tenue au secret professionnel dans les conditions et sous les peines des articles 226-13 et 226-14 du Code pénal.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000878028" datesignatexte="1967-07-13" id="LEGIARTI000006398365" naturetexte="LOI" nortexte="" num="10" numtexte="67-563" sens="cible" typelien="CITATION">Loi n°67-563 du 13 juillet 1967 - art. 10 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000515870" datesignatexte="1981-12-30" id="LEGIARTI000032235983" naturetexte="LOI" nortexte="" num="108" numtexte="81-1160" sens="cible" typelien="CITATION">Loi n° 81-1160 du 30 décembre 1981 - art. 108 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000710062" datesignatexte="1992-10-28" id="LEGIARTI000006545691" naturetexte="ARRETE" nortexte="DEFG9202075A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 octobre 1992 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="LEGIARTI000006491517" naturetexte="LOI" nortexte="JUSX9200040L" num="8" numtexte="92-1336" sens="source" typelien="MODIFICATION">Loi n°92-1336 du 16 décembre 1992 - art. 8 () JORF 23 décembre 1992 en vigueur le 1er mars 1994</LIEN>
+<LIEN cidtexte="JORFTEXT000000208262" datesignatexte="2001-01-11" id="LEGIARTI000006522074" naturetexte="DECRET" nortexte="MJSK0070148D" num="Annexe" numtexte="2001-36" sens="cible" typelien="CITATION">Décret n°2001-36 du 11 janvier 2001 - art. Annexe (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000609541" datesignatexte="2006-06-06" id="LEGIARTI000039770193" naturetexte="ARRETE" nortexte="INTC0600544A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 6 juin 2006 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000463531" datesignatexte="2006-12-18" id="LEGIARTI000006522521" naturetexte="DECRET" nortexte="MJSK0670272D" num="ANNEXE" numtexte="2006-1629" sens="cible" typelien="CITATION">Décret n°2006-1629 du 18 décembre 2006 - art. ANNEXE (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000275587" datesignatexte="2006-12-23" id="LEGIARTI000006522542" naturetexte="DECRET" nortexte="MJSK0670300D" num="Annexe" numtexte="2006-1768" sens="cible" typelien="CITATION">Décret n°2006-1768 du 23 décembre 2006 - art. Annexe (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000017958176" datesignatexte="2008-01-16" id="LEGIARTI000017986567" naturetexte="ARRETE" nortexte="JUSA0800958A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 16 janvier 2008 - art. 4 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000019567074" datesignatexte="2008-10-03" id="LEGIARTI000019567475" naturetexte="DECRET" nortexte="IOCM0810371D" num="Annexe" numtexte="2008-1022" sens="cible" typelien="CITATION">Décret n°2008-1022
+ du 3 octobre 2008 - art. (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000027838211" datesignatexte="2013-08-12" id="LEGIARTI000027840853" naturetexte="ARRETE" nortexte="INTA1319067A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 12 août 2013 - art. 3 (V)</LIEN>
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000045406621" datesignatexte="2022-03-23" id="LEGITEXT000045407578" naturetexte="DECRET" nortexte="INTD2132000D" num="" numtexte="2022-417" sens="cible" typelien="CITATION">Décret n°2022-417 du 23 mars 2022 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000048186342" datesignatexte="2023-10-10" id="LEGIARTI000048187521" naturetexte="DECRET" nortexte="JUSD2322830D" num="6" numtexte="2023-935" sens="cible" typelien="CITATION">Décret n°2023-935 du 10 octobre 2023 - art. 6 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000049385823" datesignatexte="2024-04-08" id="LEGIARTI000049386971" naturetexte="LOI" nortexte="TSSX2310018L" num="34" numtexte="2024-317" sens="cible" typelien="CITATION">LOI n°2024-317 du 8 avril 2024 - art. 34</LIEN>
+<LIEN cidtexte="JORFTEXT000049563368" datesignatexte="2024-05-21" id="LEGIARTI000049565914" naturetexte="LOI" nortexte="ECOI2309270L" num="52" numtexte="2024-449" sens="cible" typelien="CITATION">LOI n°2024-449 du 21 mai 2024 - art. 52</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417944" naturetexte="CODE" nortexte="" num="226-13" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 226-13 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417946" naturetexte="CODE" nortexte="" num="226-14" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 226-14 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006574998" naturetexte="CODE" nortexte="" num="48-1" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 48-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070884" datesignatexte="2999-01-01" id="LEGIARTI000006434018" naturetexte="CODE" nortexte="" num="78" numtexte="" sens="cible" typelien="CITATION">Code de justice militaire - art. 78 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071360" datesignatexte="2999-01-01" id="LEGIARTI000024971115" naturetexte="CODE" nortexte="" num="L271-1" numtexte="" sens="cible" typelien="CITATION">Code de justice militaire. - art. L271-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000049392133" naturetexte="CODE" nortexte="" num="L313-24-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L313-24-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000024040562" naturetexte="CODE" nortexte="" num="L141-3" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L141-3 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000006292310" naturetexte="CODE" nortexte="" num="L216-10" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L216-10 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000042012859" naturetexte="CODE" nortexte="" num="L512-18" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L512-18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000032225085" naturetexte="CODE" nortexte="" num="L512-19" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L512-19 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000032225078" naturetexte="CODE" nortexte="" num="L512-22" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L512-22 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000042616510" naturetexte="CODE" nortexte="" num="L512-22-1" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L512-22-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000046190638" naturetexte="CODE" nortexte="" num="L512-22-2" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L512-22-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000049567032" naturetexte="CODE" nortexte="" num="L512-68" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L512-68 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000041984334" naturetexte="CODE" nortexte="" num="L329-27" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L329-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000041984338" naturetexte="CODE" nortexte="" num="L329-29" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L329-29 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000006908111" naturetexte="CODE" nortexte="" num="Annexe 36-1" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. Annexe 36-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000048590501" naturetexte="CODE" nortexte="" num="L2324-2-2" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L2324-2-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049312975" naturetexte="CODE" nortexte="" num="L132-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L132-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740822" naturetexte="CODE" nortexte="" num="706-105-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-105-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042779179" naturetexte="CODE" nortexte="" num="706-25-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-25-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045292604" naturetexte="CODE" nortexte="" num="706-52" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-52 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039081907" naturetexte="CODE" nortexte="" num="A53-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. A53-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039081898" naturetexte="CODE" nortexte="" num="A53-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. A53-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039344995" naturetexte="CODE" nortexte="" num="D15-4-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D15-4-5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038552675" naturetexte="CODE" nortexte="" num="D589-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D589-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038552679" naturetexte="CODE" nortexte="" num="D589-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D589-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047957531" naturetexte="CODE" nortexte="" num="R15-17-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R15-17-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000025835634" naturetexte="CODE" nortexte="" num="R15-33-66-9" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R15-33-66-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048188592" naturetexte="CODE" nortexte="" num="R249-13" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R249-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000022374212" naturetexte="CODE" nortexte="" num="R249-9" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R249-9 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000045444715" naturetexte="CODE" nortexte="" num="L6143-19" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L6143-19 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000026505168" naturetexte="CODE" nortexte="" num="Annexe II-2 (art R232-86)" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. Annexe II-2 (art R232-86) (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000049312989" naturetexte="CODE" nortexte="" num="L2121-27-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L2121-27-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006390145" naturetexte="CODE" nortexte="" num="L2211-3" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L2211-3 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000047291997" naturetexte="CODE" nortexte="" num="L613-1" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L613-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000024040484" naturetexte="CODE" nortexte="" num="L642-35" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L642-35 (V)</LIEN>
+</LIENS>
+</ARTICLE>

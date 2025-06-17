@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006150662</ID>
+<TITRE_TA>Chapitre V : Dispositions pénales.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2021-05-28" id="LEGIARTI000006465436" num="L39" origine="LEGI"/>
+<LIEN_ART debut="2021-05-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043545471" num="L39" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2011-08-27" id="LEGIARTI000006465880" num="L39-1" origine="LEGI"/>
+<LIEN_ART debut="2011-08-27" etat="MODIFIE" fin="2015-10-16" id="LEGIARTI000024506242" num="L39-1" origine="LEGI"/>
+<LIEN_ART debut="2015-10-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000031318701" num="L39-1" origine="LEGI"/>
+<LIEN_ART debut="2019-08-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038867232" num="L39-1-1" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006465886" num="L39-2" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020631695" num="L39-2" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2004-07-10" id="LEGIARTI000006465885" num="L39-2" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006465901" num="L39-2-1" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="ABROGE_DIFF" fin="2026-06-13" id="LEGIARTI000006465890" num="L39-3" origine="LEGI"/>
+<LIEN_ART debut="2026-06-13" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741273" num="L39-3" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006465928" num="L39-3-1" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2016-06-13" id="LEGIARTI000006465894" num="L39-4" origine="LEGI"/>
+<LIEN_ART debut="2016-06-13" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032444895" num="L39-4" origine="LEGI"/>
+<LIEN_ART debut="1996-07-27" etat="ABROGE" fin="2009-05-14" id="LEGIARTI000006465896" num="L39-5" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2019-08-03" id="LEGIARTI000006465899" num="L39-6" origine="LEGI"/>
+<LIEN_ART debut="2019-08-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038889171" num="L39-6" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006465929" num="L39-7" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006465930" num="L39-8" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006465931" num="L39-9" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006465932" num="L39-10" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="MODIFIE" fin="2019-08-03" id="LEGIARTI000020631687" num="L39-10" origine="LEGI"/>
+<LIEN_ART debut="2019-08-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038889160" num="L39-10" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2005-05-21" id="LEGIARTI000006465442" num="L40" origine="LEGI"/>
+<LIEN_ART debut="2005-05-21" etat="MODIFIE" fin="2016-10-09" id="LEGIARTI000006465443" num="L40" origine="LEGI"/>
+<LIEN_ART debut="2016-10-09" etat="MODIFIE" fin="2019-10-20" id="LEGIARTI000033219431" num="L40" origine="LEGI"/>
+<LIEN_ART debut="2019-10-20" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000039247383" num="L40" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2021-12-25" id="LEGIARTI000039455549" num="L40" origine="LEGI"/>
+<LIEN_ART debut="2021-12-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044564931" num="L40" origine="LEGI"/>
+<LIEN_ART debut="2001-07-28" etat="MODIFIE" fin="2016-07-01" id="LEGIARTI000006465933" num="L40-1" origine="LEGI"/>
+<LIEN_ART debut="2016-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032235701" num="L40-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070987" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des postes et des communications électroniques" debut="1962-03-14" fin="2999-01-01" id_txt="LEGITEXT000006070987">Code des postes et des communications électroniques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1962-03-14" fin="2999-01-01" id="LEGISCTA000006092423">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-27" fin="2999-01-01" id="LEGISCTA000006118605">LIVRE II : Les communications électroniques</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-27" fin="2999-01-01" id="LEGISCTA000006136631">TITRE Ier : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

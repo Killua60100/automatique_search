@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006151436</ID>
+<TITRE_TA>Chapitre VIII : Autres diplômes et titres.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166841" debut="2006-05-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006166841" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166841.xml">Section 1 : Le titre professionnel.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166843" debut="2006-05-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006166843" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166843.xml">Section 2 : Le diplôme " un des meilleurs ouvriers de France "</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166844" debut="2006-12-20" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006166844" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166844.xml">Section 3 : Diplôme initial de langue française.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022194200" debut="2010-12-15" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022195196" niv="5" url="/LEGI/SCTA/00/00/22/19/51/LEGISCTA000022195196.xml">Section 4 : Diplôme de compétence en langue</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000030263939" debut="2015-02-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000030263939" niv="5" url="/LEGI/SCTA/00/00/30/26/39/LEGISCTA000030263939.xml">Section 5 : Diplômes d'initiation aux activités aéronautiques et spatiales </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000042354267" debut="2020-09-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042354280" niv="5" url="/LEGI/SCTA/00/00/42/35/42/LEGISCTA000042354280.xml">Section 6 : Diplômes d'initiation à la mer</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071191" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'éducation" debut="2000-06-22" fin="2999-01-01" id_txt="LEGITEXT000006071191">Code de l'éducation</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-07-17" fin="2999-01-01" id="LEGISCTA000006095806">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006120399">Livre III : L'organisation des enseignements scolaires.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006137643">Titre III : Les enseignements du second degré.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006404463</ID>
+<ANCIEN_ID>PAEAGXXXXXX001AAXXXXXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/40/44/LEGIARTI000006404463.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+
+<ETAT>ABROGE</ETAT>
+
+<DATE_DEBUT>1996-04-30</DATE_DEBUT>
+<DATE_FIN>2004-12-21</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000713756" date_publi="1994-07-16" date_signature="1994-07-15" ministere="" nature="LOI" nor="DEFX9400020L" num="94-589" num_parution_jo="0163">
+<TITRE_TXT c_titre_court="LOI n° 94-589 du 15 juillet 1994" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000713756">LOI n° 94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de contrôle en mer (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2019-05-09" fin="2999-01-01" id_txt="LEGITEXT000038452858">Loi n° 94-589 du 15 juillet 1994 relative à l'exercice par l'Etat de ses pouvoirs de police en mer pour la lutte contre certaines infractions relevant de conventions internationales</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 94-589 du 15 juillet 1994" debut="2011-01-07" fin="2019-05-09" id_txt="LEGITEXT000023386330">Loi n° 94-589 du 15 juillet 1994 relative à la lutte contre la piraterie et aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2005-04-23" fin="2011-01-07" id_txt="LEGITEXT000005616201">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="1994-07-16" fin="2005-04-23" id_txt="LEGITEXT000005616200">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1996-04-30" fin="2004-12-21" id="LEGISCTA000006088682">Titre Ier : Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-07-16" etat="MODIFIE" fin="1996-04-30" id="LEGIARTI000006404462" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1996-04-30" etat="ABROGE" fin="2004-12-21" id="LEGIARTI000006404463" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000023386318" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-05-09" etat="MODIFIE" fin="2021-05-01" id="LEGIARTI000038452933" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-05-01" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000051188710" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743698" num="1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les commandants des bâtiments de l'Etat et les commandants de bord des aéronefs de l'Etat, chargés de la surveillance en mer, sont habilités, pour assurer le respect des dispositions qui s'appliquent en mer en vertu du droit international ainsi que des lois et règlements de la République, à exercer et à faire exécuter les mesures de contrôle et de coercition prévues par le droit international, la législation et la réglementation française.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000006404467" naturetexte="LOI" nortexte="DEFX9400020L" num="3" numtexte="94-589" sens="cible" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000377272" datesignatexte="1996-04-29" id="LEGIARTI000006492818" naturetexte="LOI" nortexte="JUSX9400124L" num="1" numtexte="96-359" sens="source" typelien="MODIFICATION">Loi n°96-359 du 29 avril 1996 - art. 1 () JORF 30 avril 1996</LIEN>
+<LIEN cidtexte="JORFTEXT000000238564" datesignatexte="2004-12-20" id="LEGIARTI000006236766" naturetexte="ORDONNANCE" nortexte="DEFX0400190R" num="5" numtexte="2004-1374" sens="source" typelien="ABROGATION">Ordonnance n°2004-1374 du 20 décembre 2004 - art. 5 (V) JORF 21 décembre 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000024613667" datesignatexte="2011-09-29" id="LEGIARTI000030320421" naturetexte="DECRET" nortexte="DEFD1111996D" num="1" numtexte="2011-1213" sens="cible" typelien="CITATION">Décret n°2011-1213 du 29 septembre 2011 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000041762356" datesignatexte="2020-03-26" id="LEGIARTI000041763803" naturetexte="DECRET" nortexte="ARMD2002207D" num="2" numtexte="2020-342" sens="cible" typelien="CITATION">Décret n°2020-342 du 26 mars 2020 - art. 2</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539734" naturetexte="CODE" nortexte="" num="L1521-2" numtexte="" sens="cible" typelien="CONCORDANCE">Code de la défense. - art. L1521-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000051461689" naturetexte="CODE" nortexte="" num="R1521-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. R1521-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000051461676" naturetexte="CODE" nortexte="" num="R1521-5" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. R1521-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539733" naturetexte="CODE" nortexte="" num="L1521-2" numtexte="" sens="source" typelien="CONCORDE">Code de la défense. - art. L1521-2 (M)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417819</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X224L06AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/78/LEGIARTI000006417819.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>224-6</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>1994-03-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149829">Chapitre IV : Des atteintes aux libertés de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006165296">Section 2 : Du détournement d'aéronef, de navire ou de tout autre moyen de transport</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417819" num="224-6" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Le fait de s'emparer ou de prendre le contrôle par violence ou menace de violence d'un aéronef, d'un navire ou de tout autre moyen de transport à bord desquels des personnes ont pris place, ainsi que d'une plate-forme fixe située sur le plateau continental, est puni de vingt ans de réclusion criminelle. <br/>
+<br/>Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à cette infraction.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="CODIFICATION">Loi 92-684 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="SPEC_APPLI">Loi 92-684 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 373</LIEN>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000023386318" naturetexte="LOI" nortexte="DEFX9400020L" num="1" numtexte="94-589" sens="cible" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 1 (M)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000032728685" datesignatexte="2016-06-20" id="LEGIARTI000032730793" naturetexte="LOI" nortexte="DEVX1600975L" num="61" numtexte="2016-816" sens="cible" typelien="CITATION">LOI n°2016-816 du 20 juin 2016 - art. 61</LIEN>
+<LIEN cidtexte="JORFTEXT000034674742" datesignatexte="2017-05-10" id="LEGITEXT000034723150" naturetexte="DECRET" nortexte="DEVT1700190D" num="" numtexte="2017-944" sens="cible" typelien="CITATION">Décret n°2017-944 du 10 mai 2017 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000035454549" datesignatexte="2017-08-23" id="LEGITEXT000035454885" naturetexte="DECRET" nortexte="TRAT1713522D" num="" numtexte="2017-1300" sens="cible" typelien="CITATION">Décret n°2017-1300 du 23 août 2017 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000044271440" datesignatexte="2021-10-29" id="LEGIARTI000044274699" naturetexte="DECRET" nortexte="INTD2111381D" num="9" numtexte="2021-1402" sens="cible" typelien="CITATION">Décret n°2021-1402 du 29 octobre 2021 - art. 9</LIEN>
+<LIEN cidtexte="JORFTEXT000048514229" datesignatexte="2023-12-01" id="LEGIARTI000048515694" naturetexte="ARRETE" nortexte="IOMD2329915A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 1er décembre 2023 - art. 3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074234" datesignatexte="2999-01-01" id="LEGIARTI000006844222" naturetexte="CODE" nortexte="" num="L282-1" numtexte="" sens="cible" typelien="CITATION">Code de l'aviation civile - art. L282-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000025450337" naturetexte="CODE" nortexte="" num="L2336-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2336-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049294196" naturetexte="CODE" nortexte="" num="L312-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L312-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000034114727" naturetexte="CODE" nortexte="" num="L611-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L611-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742186" naturetexte="CODE" nortexte="" num="689-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 689-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044278316" naturetexte="CODE" nortexte="" num="R53-14" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000023085092" naturetexte="CODE" nortexte="" num="L1631-2" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1631-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000042173148" naturetexte="CODE" nortexte="" num="L1634-1" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1634-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000032748222" naturetexte="CODE" nortexte="" num="L5441-1" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L5441-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000034114744" naturetexte="CODE" nortexte="" num="L5442-1" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L5442-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000023077907" naturetexte="CODE" nortexte="" num="L6372-4" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L6372-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006648895" naturetexte="CODE" nortexte="" num="L351-9" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L351-9 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000023376435" naturetexte="CODE" nortexte="" num="224-6-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417820" naturetexte="CODE" nortexte="" num="224-7" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-7 (V)</LIEN>
+</LIENS>
+</ARTICLE>

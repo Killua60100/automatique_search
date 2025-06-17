@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006151435</ID>
+<TITRE_TA>Chapitre VII : Dispositions propres aux formations professionnelles.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166834" debut="2006-05-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006166834" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166834.xml">Section 1 : Le certificat d'aptitude professionnelle</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166835" debut="2006-05-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006166835" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166835.xml">Section 2 : Le brevet d'études professionnelles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166836" debut="2006-05-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006166836" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166836.xml">Section 3 : Le baccalauréat professionnel</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166837" debut="2006-05-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006166837" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166837.xml">Section 4 : Le brevet professionnel</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166838" debut="2006-05-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006166838" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166838.xml">Section 5 : Le diplôme national du brevet des métiers d'art.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166839" debut="2006-05-24" etat="MODIFIE" fin="2025-01-01" id="LEGISCTA000006166839" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166839.xml">Section 6 : La mention complémentaire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166839" debut="2025-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000048000929" niv="5" url="/LEGI/SCTA/00/00/48/00/09/LEGISCTA000048000929.xml">Section 6 : Le certificat de spécialisation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006166840" debut="2006-07-01" etat="ABROGE" fin="2013-08-29" id="LEGISCTA000006166840" niv="5" url="/LEGI/SCTA/00/00/06/16/68/LEGISCTA000006166840.xml">Section 7 : La formation d'apprenti junior</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000023389186" debut="2011-01-02" etat="MODIFIE" fin="2019-09-02" id="LEGISCTA000023389186" niv="5" url="/LEGI/SCTA/00/00/23/38/91/LEGISCTA000023389186.xml">Section 8 : Le dispositif d'initiation aux métiers en alternance </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000023389186" debut="2019-09-02" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000038219361" niv="5" url="/LEGI/SCTA/00/00/38/21/93/LEGISCTA000038219361.xml">Section 8 : Les classes de troisième “prépa-métiers"</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071191" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'éducation" debut="2000-06-22" fin="2999-01-01" id_txt="LEGITEXT000006071191">Code de l'éducation</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-07-17" fin="2999-01-01" id="LEGISCTA000006095806">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006120399">Livre III : L'organisation des enseignements scolaires.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006137643">Titre III : Les enseignements du second degré.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

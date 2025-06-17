@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006725344</ID>
+<ANCIEN_ID>SQHKMXXXXXX001AAXXXXXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/72/53/LEGIARTI000006725344.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2002-01-01</DATE_DEBUT>
+<DATE_FIN>2007-05-12</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000398298" date_publi="2002-01-05" date_signature="2002-01-04" ministere="MINISTERE DE L'EMPLOI ET DE LA SOLIDARITE" nature="DECRET" nor="MESH0124422D" num="2002-9" num_parution_jo="">
+<TITRE_TXT c_titre_court="Décret n°2002-9 du 4 janvier 2002" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000398298">Décret n° 2002-9 du 4 janvier 2002 relatif au temps de travail et à l'organisation du travail dans les établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°2002-9 du 4 janvier 2002" debut="2025-06-06" fin="2999-01-01" id_txt="LEGITEXT000051691567">Décret n° 2002-9 du 4 janvier 2002 relatif au temps de travail et à l'organisation du travail dans les établissements mentionnés à l'article L. 5 du code général de la fonction publique</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°2002-9 du 4 janvier 2002" debut="2002-01-01" fin="2025-06-06" id_txt="LEGITEXT000005632044">Décret n°2002-9 du 4 janvier 2002 relatif au temps de travail et à l'organisation du travail dans les établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2002-01-01" fin="2999-01-01" id="LEGISCTA000006105355">TITRE Ier : DISPOSITIONS GÉNÉRALES.</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2007-05-12" id="LEGIARTI000006725344" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-05-12" etat="MODIFIE" fin="2025-06-06" id="LEGIARTI000006725345" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051691561" num="1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La durée du travail est fixée à 35 heures par semaine dans les établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée.<br/>
+<br/>   Le décompte du temps de travail est réalisé sur la base d'une durée annuelle de travail effectif de 1 600 heures maximum, sans préjudice des heures supplémentaires susceptibles d'être effectuées.<br/>
+<br/>   Cette durée est réduite pour les agents soumis à des sujétions spécifiques dans les conditions prévues aux articles 2 à 4 ci-après.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="TXT_SOURCE">Directive 93-104 CE 1993-11-23</LIEN>
+<LIEN cidtexte="JORFTEXT000000512459" datesignatexte="1986-01-09" id="JORFTEXT000000512459" naturetexte="LOI" nortexte="" num="" numtexte="86-33" sens="source" typelien="CITATION">Loi 86-33 1986-01-09 art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000000512459" datesignatexte="1986-01-09" id="JORFTEXT000000512459" naturetexte="LOI" nortexte="" num="" numtexte="86-33" sens="source" typelien="TXT_SOURCE">Loi 86-33 1986-01-09 art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000000343794" datesignatexte="1991-02-06" id="LEGIARTI000050931559" naturetexte="DECRET" nortexte="SANH9002461D" num="32" numtexte="91-155" sens="cible" typelien="CITATION">Décret n°91-155 du 6 février 1991 - art. 32 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000343794" datesignatexte="1991-02-06" id="LEGIARTI000045808556" naturetexte="DECRET" nortexte="SANH9002461D" num="9-1" numtexte="91-155" sens="cible" typelien="CITATION">Décret n°91-155 du 6 février 1991 - art. 9-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000398298" datesignatexte="2002-01-04" id="JORFTEXT000000398298" naturetexte="DECRET" nortexte="MESH0124422D" num="" numtexte="2002-9" sens="source" typelien="CITATION">Décret 2002-9 2002-01-04</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000031690520" datesignatexte="2015-12-23" id="LEGIARTI000031694075" naturetexte="DECRET" nortexte="OMES1529726D" num="1" numtexte="2015-1754" sens="cible" typelien="CITATION">Décret n°2015-1754 du 23 décembre 2015 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000031690520" datesignatexte="2015-12-23" id="LEGIARTI000031694083" naturetexte="DECRET" nortexte="OMES1529726D" num="5" numtexte="2015-1754" sens="cible" typelien="CITATION">Décret n°2015-1754 du 23 décembre 2015 - art. 5</LIEN>
+<LIEN cidtexte="JORFTEXT000042045575" datesignatexte="2020-06-26" id="LEGIARTI000042048084" naturetexte="DECRET" nortexte="SSAH1937447D" num="3" numtexte="2020-791" sens="cible" typelien="CITATION">Décret n°2020-791 du 26 juin 2020 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000043872189" datesignatexte="2021-07-28" id="LEGIARTI000043872667" naturetexte="DECRET" nortexte="SSAH2115832D" num="2" numtexte="2021-996" sens="cible" typelien="CITATION">Décret n°2021-996 du 28 juillet 2021 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000051517324" naturetexte="CODE" nortexte="" num="D2573-8" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D2573-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006396896" naturetexte="CODE" nortexte="" num="R2123-10" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000031625596" naturetexte="CODE" nortexte="" num="R7125-8" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R7125-8 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

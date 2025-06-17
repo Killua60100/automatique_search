@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051742309</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/23/LEGIARTI000051742309.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-88-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006167521">Section 3 : De la garde à vue</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2011-06-01" etat="ABROGE" fin="2012-02-18" id="LEGIARTI000023865498" num="706-88-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742309" num="706-88-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsque la présence de substances stupéfiantes dans le corps de la personne gardée à vue pour une infraction mentionnée au 3° de l'article 706-73 est établie dans les conditions prévues au présent article, le juge des libertés et de la détention peut, à titre exceptionnel et selon les modalités prévues au deuxième alinéa de l'article 706-88, décider que la garde à vue en cours de cette personne fera l'objet d'une prolongation supplémentaire de vingt-quatre heures. </p>
+<p>Avant l'expiration du délai de garde à vue prévu au même article 706-88, la personne dont la prolongation exceptionnelle de la garde à vue est envisagée est examinée par un médecin désigné par le procureur de la République, le juge d'instruction ou l'officier de police judiciaire. Le médecin délivre un certificat médical par lequel il établit la présence ou l'absence de substances stupéfiantes dans le corps de la personne et se prononce sur l'aptitude au maintien en garde à vue. Ce certificat est versé au dossier. </p>
+<p>A l'expiration de la quatre-vingt-seizième heure, la personne dont la prolongation de la garde à vue est ainsi décidée peut demander à s'entretenir avec un avocat, selon les modalités prévues à l'article 63-4. La personne gardée à vue est avisée de ce droit dès la notification de la prolongation prévue au présent article. </p>
+<p>Elle est également avisée de son droit de demander un nouvel examen médical au cours de la prolongation. </p>
+<p>S'il n'a pas été fait droit à la demande de la personne gardée à vue de faire prévenir, par téléphone, une personne avec laquelle elle vit habituellement ou l'un de ses parents en ligne directe, l'un de ses frères et sœurs ou son employeur de la mesure dont elle fait l'objet, dans les conditions prévues aux articles 63-1 et 63-2, elle peut réitérer cette demande à compter de la quatre-vingt-seizième heure.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000024799337" datesignatexte="2011-11-14" id="LEGITEXT000024801504" naturetexte="DECRET" nortexte="JUSD1120145D" num="" numtexte="2011-1520" sens="cible" typelien="CITATION">Décret n°2011-1520 du 14 novembre 2011 (Ab)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000025687446" datesignatexte="2012-04-13" id="LEGITEXT000025688990" naturetexte="DECRET" nortexte="JUSX1209704D" num="" numtexte="2012-476" sens="cible" typelien="CITATION">Décret n°2012-476
+ du 13 avril 2012 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736666" naturetexte="LOI" nortexte="JUSX2430702L" num="26" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 26</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575069" naturetexte="CODE" nortexte="" num="63-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 63-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575076" naturetexte="CODE" nortexte="" num="63-2" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 63-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575082" naturetexte="CODE" nortexte="" num="63-4" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 63-4</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577801" naturetexte="CODE" nortexte="" num="706-88" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-88</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000024803626" naturetexte="CODE" nortexte="" num="R53-40" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-40 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000024801776" naturetexte="CODE" nortexte="" num="R53-40-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-40-5 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

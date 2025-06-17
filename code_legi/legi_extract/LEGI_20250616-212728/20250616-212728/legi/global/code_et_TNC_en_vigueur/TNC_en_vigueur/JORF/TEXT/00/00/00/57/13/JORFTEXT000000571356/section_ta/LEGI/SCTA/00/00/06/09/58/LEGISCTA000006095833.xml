@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006095833</ID>
+<TITRE_TA>Titre XII : Des collectivités territoriales</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1958-10-05" etat="MODIFIE" fin="1993-07-28" id="LEGIARTI000006527577" num="72" origine="LEGI"/>
+<LIEN_ART debut="1993-07-28" etat="MODIFIE" fin="2003-03-29" id="LEGIARTI000006527578" num="72" origine="LEGI"/>
+<LIEN_ART debut="2003-03-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006527579" num="72" origine="LEGI"/>
+<LIEN_ART debut="2003-03-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006527593" num="72-1" origine="LEGI"/>
+<LIEN_ART debut="2003-03-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006527594" num="72-2" origine="LEGI"/>
+<LIEN_ART debut="2003-03-29" etat="MODIFIE" fin="2008-07-25" id="LEGIARTI000006527595" num="72-3" origine="LEGI"/>
+<LIEN_ART debut="2008-07-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019241095" num="72-3" origine="LEGI"/>
+<LIEN_ART debut="2003-03-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006527596" num="72-4" origine="LEGI"/>
+<LIEN_ART debut="1958-10-05" etat="MODIFIE" fin="1993-07-28" id="LEGIARTI000006527580" num="73" origine="LEGI"/>
+<LIEN_ART debut="1993-07-28" etat="MODIFIE" fin="2003-03-29" id="LEGIARTI000006527581" num="73" origine="LEGI"/>
+<LIEN_ART debut="2003-03-29" etat="MODIFIE" fin="2008-07-25" id="LEGIARTI000006527582" num="73" origine="LEGI"/>
+<LIEN_ART debut="2008-07-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019241099" num="73" origine="LEGI"/>
+<LIEN_ART debut="1958-10-05" etat="MODIFIE" fin="1992-06-26" id="LEGIARTI000006527584" num="74" origine="LEGI"/>
+<LIEN_ART debut="1992-06-26" etat="MODIFIE" fin="1993-07-28" id="LEGIARTI000006527585" num="74" origine="LEGI"/>
+<LIEN_ART debut="1993-07-28" etat="MODIFIE" fin="2003-03-29" id="LEGIARTI000006527586" num="74" origine="LEGI"/>
+<LIEN_ART debut="2003-03-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006527587" num="74" origine="LEGI"/>
+<LIEN_ART debut="2003-03-29" etat="MODIFIE" fin="2008-07-25" id="LEGIARTI000006527597" num="74-1" origine="LEGI"/>
+<LIEN_ART debut="2008-07-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019241101" num="74-1" origine="LEGI"/>
+<LIEN_ART debut="1958-10-05" etat="MODIFIE" fin="1993-07-28" id="LEGIARTI000006527588" num="75" origine="LEGI"/>
+<LIEN_ART debut="1993-07-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006527589" num="75" origine="LEGI"/>
+<LIEN_ART debut="2008-07-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019241104" num="75-1" origine="LEGI"/>
+<LIEN_ART debut="1958-10-05" etat="MODIFIE" fin="1993-07-28" id="LEGIARTI000006527590" num="76" origine="LEGI"/>
+<LIEN_ART debut="1993-07-28" etat="ABROGE" fin="1995-08-05" id="LEGIARTI000006527591" num="76" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000571356" date_publi="1958-10-05" date_signature="1958-10-04" ministere="" nature="CONSTITUTION" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Constitution du 4 octobre 1958" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000571356">Constitution du 4 octobre 1958</TITRE_TXT>
+<TITRE_TXT c_titre_court="Constitution du 4 octobre 1958" debut="1958-10-05" fin="2999-01-01" id_txt="LEGITEXT000006071194">Constitution du 4 octobre 1958 </TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

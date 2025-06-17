@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000048431604</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/48/43/16/LEGIARTI000048431604.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000048430497" date_publi="2023-11-21" date_signature="2023-11-20" ministere="" nature="LOI" nor="JUSB2305129L" num="2023-1058" num_parution_jo="0269">
+<TITRE_TXT c_titre_court="LOI n°2023-1058 du 20 novembre 2023" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000048430497">LOI organique n° 2023-1058 du 20 novembre 2023 relative à l'ouverture, à la modernisation et à la responsabilité du corps judiciaire (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2023-1058 du 20 novembre 2023" debut="2023-11-22" fin="2999-01-01" id_txt="LEGITEXT000048431577">LOI organique n° 2023-1058 du 20 novembre 2023 relative à l'ouverture, à la modernisation et à la responsabilité du corps judiciaire (1)</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000048431604" num="3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000048430500" num="3" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>A créé les dispositions suivantes :</p>
+<blockquote>-Ordonnance n° 58-1270 du 22 décembre 1958 <blockquote>
+Art. 38-3, Art. 39-1, Art. 72-1, Art. 28-4, Art. 39-2 
+</blockquote>
+</blockquote>
+<br/>
+<p>A abrogé les dispositions suivantes :</p>
+<blockquote>-Ordonnance n° 58-1270 du 22 décembre 1958 <blockquote>
+Art. 3, Art. 76-3 
+</blockquote>
+</blockquote>
+<br/>
+<p>A modifié les dispositions suivantes :</p>
+<blockquote>-Ordonnance n° 58-1270 du 22 décembre 1958 <blockquote>
+Art. 2, Art. 3, Art. 3-1, Art. 10-2, Sct. Chapitre III : Des magistrats des premier et deuxième grades, Art. 27-1, Art. 28, Art. 28-1, Art. 28-3, Art. 31, Sct. Chapitre IV : Des magistrats du troisième grade, Art. 34, Art. 35, Art. 36, Art. 37, Art. 38, Art. 38-1, Art. 38-2, Art. 39, Sct. Chapitre V : De l'intégration provisoire dans le corps judiciaire., Art. 40-5, Art. 67, Art. 71, Art. 72, Art. 72-2, Art. 72-3, Art. 76-1, Art. 76-1-1, Art. 76-2
+</blockquote>
+</blockquote>
+<blockquote>-Loi organique n° 94-100 du 5 février 1994 <blockquote>
+Art. 1, Art. 2, Art. 8, Art. 20-1 
+</blockquote>
+</blockquote>
+<br/>
+<p>A abrogé les dispositions suivantes :</p>
+<blockquote>-Ordonnance n° 58-1270 du 22 décembre 1958 <blockquote>
+Art. 28-2, Art. 35-1, Art. 35-2, Art. 37-1, Art. 76-4, Art. 76-5
+</blockquote>
+</blockquote>
+<div>
+<br/>
+</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGISCTA000048434788" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 -  Chapitre III : Des magistrats des premier et de... (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGISCTA000048434764" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 -  Chapitre IV : Des magistrats du troisième grade (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGISCTA000048434741" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 -  Chapitre V : De l'intégration provisoire dans l... (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434790" naturetexte="ORDONNANCE" nortexte="" num="10-2" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 10-2 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434796" naturetexte="ORDONNANCE" nortexte="" num="2" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 2 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434782" naturetexte="ORDONNANCE" nortexte="" num="27-1" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 27-1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434779" naturetexte="ORDONNANCE" nortexte="" num="28" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 28 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434770" naturetexte="ORDONNANCE" nortexte="" num="28-1" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 28-1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000038283672" naturetexte="ORDONNANCE" nortexte="" num="28-2" numtexte="58-1270" sens="source" typelien="ABROGE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 28-2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434768" naturetexte="ORDONNANCE" nortexte="" num="28-3" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 28-3 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048432169" naturetexte="ORDONNANCE" nortexte="" num="28-4" numtexte="58-1270" sens="source" typelien="CREE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 28-4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434794" naturetexte="ORDONNANCE" nortexte="" num="3" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 3 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434794" naturetexte="ORDONNANCE" nortexte="" num="3" numtexte="58-1270" sens="source" typelien="ABROGE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 3 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434792" naturetexte="ORDONNANCE" nortexte="" num="3-1" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 3-1 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434766" naturetexte="ORDONNANCE" nortexte="" num="31" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 31 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434761" naturetexte="ORDONNANCE" nortexte="" num="34" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 34 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434755" naturetexte="ORDONNANCE" nortexte="" num="35" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 35 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000006451824" naturetexte="ORDONNANCE" nortexte="" num="35-1" numtexte="58-1270" sens="source" typelien="ABROGE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 35-1 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000006451825" naturetexte="ORDONNANCE" nortexte="" num="35-2" numtexte="58-1270" sens="source" typelien="ABROGE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 35-2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434753" naturetexte="ORDONNANCE" nortexte="" num="36" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 36 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434751" naturetexte="ORDONNANCE" nortexte="" num="37" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 37 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000033041101" naturetexte="ORDONNANCE" nortexte="" num="37-1" numtexte="58-1270" sens="source" typelien="ABROGE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 37-1 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434749" naturetexte="ORDONNANCE" nortexte="" num="38" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 38 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434747" naturetexte="ORDONNANCE" nortexte="" num="38-1" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 38-1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434745" naturetexte="ORDONNANCE" nortexte="" num="38-2" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 38-2 (MMN)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048432316" naturetexte="ORDONNANCE" nortexte="" num="38-3" numtexte="58-1270" sens="source" typelien="CREE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 38-3 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434743" naturetexte="ORDONNANCE" nortexte="" num="39" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 39 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048432341" naturetexte="ORDONNANCE" nortexte="" num="39-1" numtexte="58-1270" sens="source" typelien="CREE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 39-1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048432345" naturetexte="ORDONNANCE" nortexte="" num="39-2" numtexte="58-1270" sens="source" typelien="CREE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 39-2 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434738" naturetexte="ORDONNANCE" nortexte="" num="40-5" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 40-5 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434735" naturetexte="ORDONNANCE" nortexte="" num="67" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 67 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434733" naturetexte="ORDONNANCE" nortexte="" num="71" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 71 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434729" naturetexte="ORDONNANCE" nortexte="" num="72" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 72 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048432448" naturetexte="ORDONNANCE" nortexte="" num="72-1" numtexte="58-1270" sens="source" typelien="CREE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 72-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434727" naturetexte="ORDONNANCE" nortexte="" num="72-2" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 72-2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434725" naturetexte="ORDONNANCE" nortexte="" num="72-3" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 72-3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434716" naturetexte="ORDONNANCE" nortexte="" num="76-1" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 76-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434714" naturetexte="ORDONNANCE" nortexte="" num="76-1-1" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 76-1-1 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048434710" naturetexte="ORDONNANCE" nortexte="" num="76-2" numtexte="58-1270" sens="source" typelien="MODIFIE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 76-2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000006451962" naturetexte="ORDONNANCE" nortexte="" num="76-3" numtexte="58-1270" sens="source" typelien="ABROGE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 76-3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000025364390" naturetexte="ORDONNANCE" nortexte="" num="76-4" numtexte="58-1270" sens="source" typelien="ABROGE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 76-4 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000006451964" naturetexte="ORDONNANCE" nortexte="" num="76-5" numtexte="58-1270" sens="source" typelien="ABROGE">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 76-5 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGISCTA000006091598" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1270" sens="cible" typelien="ABROGATION">Ordonnance n° 58-1270 du 22 décembre 1958 -  Chapitre V : Des magistrats hors hiérarchie. (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048438747" naturetexte="ORDONNANCE" nortexte="" num="26" numtexte="58-1270" sens="cible" typelien="MODIFICATION">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 26 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048438675" naturetexte="ORDONNANCE" nortexte="" num="3-1" numtexte="58-1270" sens="cible" typelien="MODIFICATION">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 3-1 (MMN)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048438877" naturetexte="ORDONNANCE" nortexte="" num="40" numtexte="58-1270" sens="cible" typelien="MODIFICATION">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 40 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048438894" naturetexte="ORDONNANCE" nortexte="" num="40-1" numtexte="58-1270" sens="cible" typelien="MODIFICATION">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 40-1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048438720" naturetexte="ORDONNANCE" nortexte="" num="41-9" numtexte="58-1270" sens="cible" typelien="MODIFICATION">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 41-9 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339259" datesignatexte="1958-12-22" id="LEGIARTI000048438958" naturetexte="ORDONNANCE" nortexte="" num="76-1-1" numtexte="58-1270" sens="cible" typelien="MODIFICATION">Ordonnance n° 58-1270 du 22 décembre 1958 - art. 76-1-1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000364282" datesignatexte="1994-02-05" id="LEGIARTI000048434707" naturetexte="LOI_ORGANIQUE" nortexte="JUSX9300115L" num="1" numtexte="94-100" sens="source" typelien="MODIFIE">Loi organique n° 94-100 du 5 février 1994 - art. 1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000364282" datesignatexte="1994-02-05" id="LEGIARTI000048434704" naturetexte="LOI_ORGANIQUE" nortexte="JUSX9300115L" num="2" numtexte="94-100" sens="source" typelien="MODIFIE">Loi organique n° 94-100 du 5 février 1994 - art. 2 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000364282" datesignatexte="1994-02-05" id="LEGIARTI000048434697" naturetexte="LOI_ORGANIQUE" nortexte="JUSX9300115L" num="20-1" numtexte="94-100" sens="source" typelien="MODIFIE">Loi organique n° 94-100 du 5 février 1994 - art. 20-1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000364282" datesignatexte="1994-02-05" id="LEGIARTI000048434702" naturetexte="LOI_ORGANIQUE" nortexte="JUSX9300115L" num="8" numtexte="94-100" sens="source" typelien="MODIFIE">Loi organique n° 94-100 du 5 février 1994 - art. 8 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

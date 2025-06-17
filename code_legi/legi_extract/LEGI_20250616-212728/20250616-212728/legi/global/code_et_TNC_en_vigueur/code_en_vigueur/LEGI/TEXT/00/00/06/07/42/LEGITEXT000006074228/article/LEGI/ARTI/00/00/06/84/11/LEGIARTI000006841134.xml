@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006841134</ID>
+<ANCIEN_ID>UFAXXXXXXXX1X325L01AXXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/84/11/LEGIARTI000006841134.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L325-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2003-03-19</DATE_DEBUT>
+<DATE_FIN>2003-06-13</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006108686">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006129086">Livre 3 : Le véhicule</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006143841">Titre 2 : Dispositions administratives</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006159535">Chapitre 5 : Immobilisation et mise en fourrière.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2001-11-16" id="LEGIARTI000006841132" num="L325-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006841133" num="L325-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2003-06-13" id="LEGIARTI000006841134" num="L325-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-06-13" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006841135" num="L325-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2011-12-30" id="LEGIARTI000006841136" num="L325-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-12-30" etat="MODIFIE" fin="2013-05-30" id="LEGIARTI000025092338" num="L325-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-05-30" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000027473900" num="L325-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033813311" num="L325-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<br/>   NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont applicables à Mayotte.<br/>
+<br/>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les véhicules dont la circulation ou le stationnement en infraction aux dispositions du présent code ou aux règlements de police ou à la réglementation relative à l'assurance obligatoire des véhicules à moteur compromettent la sécurité ou le droit à réparation des usagers de la route, la tranquillité ou l'hygiène publique, l'esthétique des sites et des paysages classés, la conservation ou l'utilisation normale des voies ouvertes à la circulation publique et de leurs dépendances, notamment par les véhicules de transport en commun, peuvent à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans l'accord du propriétaire du véhicule, dans les cas et conditions précisés par le décret prévu aux articles L. 325-3 et L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la destruction.<br/>
+<br/>   Peuvent également, à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans l'accord du propriétaire du véhicule, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se trouvant sur les voies ouvertes à la circulation publique ou sur leurs dépendances, sont privés d'éléments indispensables à leur utilisation normale et insusceptibles de réparation immédiate à la suite de dégradations ou de vols.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000518957" datesignatexte="1977-11-30" id="LEGIARTI000006885001" naturetexte="DECRET" nortexte="" num="1 bis" numtexte="77-1331" sens="cible" typelien="CITATION">Décret n°77-1331 du 30 novembre 1977 - art. 1 bis (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000218883" datesignatexte="2000-09-22" id="JORFTEXT000000218883" naturetexte="ORDONNANCE" nortexte="EQUX0000053R" num="" numtexte="2000-930" sens="source" typelien="CODIFICATION">Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000</LIEN>
+<LIEN cidtexte="JORFTEXT000000222052" datesignatexte="2001-11-15" id="JORFTEXT000000222052" naturetexte="LOI" nortexte="INTX0100032L" num="" numtexte="2001-1062" sens="source" typelien="SPEC_APPLI">Loi 2001-1062 2001-11-15 art. 71 I et III : application à Mayotte et en Polynésie française</LIEN>
+<LIEN cidtexte="JORFTEXT000000412199" datesignatexte="2003-03-18" id="JORFTEXT000000412199" naturetexte="LOI" nortexte="INTX0200145L" num="" numtexte="2003-239" sens="source" typelien="MODIFICATION">Loi 2003-239 2003-03-18 art. 87 1°, 2° JORF 19 mars 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000000603464" datesignatexte="2003-06-12" id="JORFTEXT000000603464" naturetexte="LOI" nortexte="EQUX0200012L" num="" numtexte="2003-495" sens="source" typelien="CODIFICATION">Loi 2003-495 2003-06-12 art. 38 JORF 13 juin 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000020787852" datesignatexte="2009-06-23" id="LEGIARTI000020788897" naturetexte="DECRET" nortexte="DEVT0907450D" num="4" numtexte="2009-780" sens="cible" typelien="CITATION">Décret n°2009-780
+ du 23 juin 2009 - art. 4 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000036911439" datesignatexte="2018-05-09" id="LEGIARTI000036913103" naturetexte="ARRETE" nortexte="TRAT1811506A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 9 mai 2018 - art. 3</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006833421" naturetexte="CODE" nortexte="" num="L226-7" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L226-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000041411405" naturetexte="CODE" nortexte="" num="L541-21-3" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L541-21-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000023716129" naturetexte="CODE" nortexte="" num="R362-6" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. R362-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875334" naturetexte="CODE" nortexte="" num="L25" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. L25 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGITEXT000006074228" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code de la route L25 (al. 1)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000038312418" naturetexte="CODE" nortexte="" num="L121-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L121-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000039099784" naturetexte="CODE" nortexte="" num="L221-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L221-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000039099776" naturetexte="CODE" nortexte="" num="L221-2-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L221-2-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033460330" naturetexte="CODE" nortexte="" num="L223-10" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L223-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000039099750" naturetexte="CODE" nortexte="" num="L224-16" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L224-16 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000045071445" naturetexte="CODE" nortexte="" num="L233-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L233-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841045" naturetexte="CODE" nortexte="" num="L234-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L234-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000039785496" naturetexte="CODE" nortexte="" num="L235-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L235-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000045072432" naturetexte="CODE" nortexte="" num="L236-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L236-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841118" naturetexte="CODE" nortexte="" num="L318-4" numtexte="" sens="source" typelien="SPEC_APPLI">Code de la route. - art. L318-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000031065894" naturetexte="CODE" nortexte="" num="L318-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L318-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000045072429" naturetexte="CODE" nortexte="" num="L321-1-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L321-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033460260" naturetexte="CODE" nortexte="" num="L324-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L324-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841158" naturetexte="CODE" nortexte="" num="L325-11" numtexte="" sens="source" typelien="CITATION">Code de la route. - art. L325-11 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000043540496" naturetexte="CODE" nortexte="" num="L325-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L325-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841144" naturetexte="CODE" nortexte="" num="L325-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L325-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841146" naturetexte="CODE" nortexte="" num="L325-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L325-4 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000045072423" naturetexte="CODE" nortexte="" num="L325-7" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L325-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042035304" naturetexte="CODE" nortexte="" num="L327-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L327-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841214" naturetexte="CODE" nortexte="" num="L343-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L343-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000047009358" naturetexte="CODE" nortexte="" num="L343-1" numtexte="" sens="cible" typelien="PILOTE_SUIVEUR">Code de la route. - art. L343-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000023717268" naturetexte="CODE" nortexte="" num="L344-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L344-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000047053592" naturetexte="CODE" nortexte="" num="L412-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L412-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841236" naturetexte="CODE" nortexte="" num="L412-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L412-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000029685236" naturetexte="CODE" nortexte="" num="R211-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R211-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000032468253" naturetexte="CODE" nortexte="" num="R221-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R221-1 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000032289698" naturetexte="CODE" nortexte="" num="R221-1-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R221-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000032468138" naturetexte="CODE" nortexte="" num="R221-20" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R221-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000041910332" naturetexte="CODE" nortexte="" num="R224-6" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R224-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841512" naturetexte="CODE" nortexte="" num="R233-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R233-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000038954545" naturetexte="CODE" nortexte="" num="R234-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R234-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000034063769" naturetexte="CODE" nortexte="" num="R234-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R234-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841567" naturetexte="CODE" nortexte="" num="R244-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R244-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841581" naturetexte="CODE" nortexte="" num="R311-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R311-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000039277978" naturetexte="CODE" nortexte="" num="R312-10" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-10 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000045025481" naturetexte="CODE" nortexte="" num="R312-11" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266036" naturetexte="CODE" nortexte="" num="R312-19" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-19 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000032401231" naturetexte="CODE" nortexte="" num="R312-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000023821543" naturetexte="CODE" nortexte="" num="R312-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000043907798" naturetexte="CODE" nortexte="" num="R312-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000043893478" naturetexte="CODE" nortexte="" num="R312-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000043893485" naturetexte="CODE" nortexte="" num="R312-6" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841590" naturetexte="CODE" nortexte="" num="R312-7" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000023821561" naturetexte="CODE" nortexte="" num="R312-8" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R312-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000050678216" naturetexte="CODE" nortexte="" num="R313-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266155" naturetexte="CODE" nortexte="" num="R313-10" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266148" naturetexte="CODE" nortexte="" num="R313-13" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000050678275" naturetexte="CODE" nortexte="" num="R313-14" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266184" naturetexte="CODE" nortexte="" num="R313-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266134" naturetexte="CODE" nortexte="" num="R313-21" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-21 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266127" naturetexte="CODE" nortexte="" num="R313-24" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-24 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266120" naturetexte="CODE" nortexte="" num="R313-29" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-29 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266177" naturetexte="CODE" nortexte="" num="R313-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000050678242" naturetexte="CODE" nortexte="" num="R313-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000051682590" naturetexte="CODE" nortexte="" num="R313-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266017" naturetexte="CODE" nortexte="" num="R313-6" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000050678264" naturetexte="CODE" nortexte="" num="R313-7" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R313-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266112" naturetexte="CODE" nortexte="" num="R314-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R314-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266104" naturetexte="CODE" nortexte="" num="R314-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R314-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266096" naturetexte="CODE" nortexte="" num="R314-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R314-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266088" naturetexte="CODE" nortexte="" num="R315-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R315-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266080" naturetexte="CODE" nortexte="" num="R315-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R315-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266076" naturetexte="CODE" nortexte="" num="R316-3-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R316-3-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266012" naturetexte="CODE" nortexte="" num="R316-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R316-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266006" naturetexte="CODE" nortexte="" num="R317-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R317-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266001" naturetexte="CODE" nortexte="" num="R317-23" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R317-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266055" naturetexte="CODE" nortexte="" num="R317-23-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R317-23-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266048" naturetexte="CODE" nortexte="" num="R317-24" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R317-24 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266043" naturetexte="CODE" nortexte="" num="R317-24-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R317-24-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042266069" naturetexte="CODE" nortexte="" num="R317-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R317-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000051740218" naturetexte="CODE" nortexte="" num="R317-8" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R317-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000023821569" naturetexte="CODE" nortexte="" num="R318-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R318-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000044944995" naturetexte="CODE" nortexte="" num="R318-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R318-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000023821580" naturetexte="CODE" nortexte="" num="R318-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R318-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000046086891" naturetexte="CODE" nortexte="" num="R321-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R321-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000039276031" naturetexte="CODE" nortexte="" num="R321-4-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R321-4-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000036755097" naturetexte="CODE" nortexte="" num="R322-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R322-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000035433240" naturetexte="CODE" nortexte="" num="R322-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R322-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841815" naturetexte="CODE" nortexte="" num="R323-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R323-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000025111479" naturetexte="CODE" nortexte="" num="R325-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000046669808" naturetexte="CODE" nortexte="" num="R325-45" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-45 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000049692399" naturetexte="CODE" nortexte="" num="R327-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R327-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000049692416" naturetexte="CODE" nortexte="" num="R327-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R327-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000029220529" naturetexte="CODE" nortexte="" num="R411-17" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R411-17 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000051682601" naturetexte="CODE" nortexte="" num="R411-18" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R411-18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000034621583" naturetexte="CODE" nortexte="" num="R411-19" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R411-19 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000034621591" naturetexte="CODE" nortexte="" num="R411-19-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R411-19-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842080" naturetexte="CODE" nortexte="" num="R411-21" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R411-21 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042230074" naturetexte="CODE" nortexte="" num="R411-23-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R411-23-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000029215846" naturetexte="CODE" nortexte="" num="R411-23-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R411-23-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842086" naturetexte="CODE" nortexte="" num="R411-24" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R411-24 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842132" naturetexte="CODE" nortexte="" num="R412-13" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R412-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842133" naturetexte="CODE" nortexte="" num="R412-14" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R412-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000020242045" naturetexte="CODE" nortexte="" num="R412-16" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R412-16 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000043734888" naturetexte="CODE" nortexte="" num="R412-17-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R412-17-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842175" naturetexte="CODE" nortexte="" num="R412-51" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R412-51 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000019277061" naturetexte="CODE" nortexte="" num="R412-6" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R412-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000045025551" naturetexte="CODE" nortexte="" num="R417-10" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R417-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000047794500" naturetexte="CODE" nortexte="" num="R417-11" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R417-11 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842300" naturetexte="CODE" nortexte="" num="R417-12" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R417-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842301" naturetexte="CODE" nortexte="" num="R417-13" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R417-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842293" naturetexte="CODE" nortexte="" num="R417-9" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R417-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842317" naturetexte="CODE" nortexte="" num="R421-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R421-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000047794509" naturetexte="CODE" nortexte="" num="R421-7" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R421-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000049692431" naturetexte="CODE" nortexte="" num="R422-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R422-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000051682638" naturetexte="CODE" nortexte="" num="R422-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R422-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842331" naturetexte="CODE" nortexte="" num="R431-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R431-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842336" naturetexte="CODE" nortexte="" num="R431-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R431-4 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033841902" naturetexte="CODE" nortexte="" num="R433-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R433-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000023821612" naturetexte="CODE" nortexte="" num="R433-12" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R433-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000020791450" naturetexte="CODE" nortexte="" num="R433-16" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R433-16 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033840231" naturetexte="CODE" nortexte="" num="R433-2-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R433-2-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000023784351" naturetexte="CODE" nortexte="" num="R433-20" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R433-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000025713440" naturetexte="CODE" nortexte="" num="R433-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R433-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000023821601" naturetexte="CODE" nortexte="" num="R433-7" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R433-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000023821608" naturetexte="CODE" nortexte="" num="R433-8" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R433-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000022467376" naturetexte="CODE" nortexte="" num="R435-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R435-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033371613" naturetexte="CODE" nortexte="" num="R435-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R435-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033841933" naturetexte="CODE" nortexte="" num="R435-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R435-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033841925" naturetexte="CODE" nortexte="" num="R435-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R435-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000051682658" naturetexte="CODE" nortexte="" num="R435-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R435-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033839761" naturetexte="CODE" nortexte="" num="R435-6" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R435-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000022467379" naturetexte="CODE" nortexte="" num="R436-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R436-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033371714" naturetexte="CODE" nortexte="" num="R437-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R437-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033371716" naturetexte="CODE" nortexte="" num="R437-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R437-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000023085632" naturetexte="CODE" nortexte="" num="L1252-8" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1252-8 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000023083741" naturetexte="CODE" nortexte="" num="L3242-1" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L3242-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000031020930" naturetexte="CODE" nortexte="" num="L3451-2" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L3451-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000043342448" naturetexte="CODE" nortexte="" num="L4274-14-2" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L4274-14-2 (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="TXT_SOURCE">Directive 97-66 CEE 1997-12-15</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051740488</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/04/LEGIARTI000051740488.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>324-1-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117598">Livre III : Des crimes et délits contre les biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136043">Titre II : Des autres atteintes aux biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-05-14" fin="2999-01-01" id="LEGISCTA000006149840">Chapitre IV : Du blanchiment</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-05-14" fin="2999-01-01" id="LEGISCTA000006165345">Section 1 : Du blanchiment simple et du blanchiment aggravé</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-12-08" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000028285954" num="324-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740488" num="324-1-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Pour l'application de l'article 324-1, les biens ou les revenus sont présumés être le produit direct ou indirect d'un crime ou d'un délit dès lors que les conditions matérielles, juridiques ou financières de l'opération de placement, de dissimulation ou de conversion ne peuvent avoir d'autre justification que de dissimuler l'origine ou le bénéficiaire effectif de ces biens ou revenus.</p>
+<p>Cette présomption s'applique à toute opération effectuée, dans les conditions prévues au premier alinéa du présent article, au moyen d'un crypto-actif comportant une fonction d'anonymisation intégrée ou au moyen de tout type de compte ou de technique permettant l'anonymisation ou l'opacification des opérations en crypto-actifs.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736638" naturetexte="LOI" nortexte="JUSX2430702L" num="7" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 7</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418330" naturetexte="CODE" nortexte="" num="324-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 324-1</LIEN>
+</LIENS>
+</ARTICLE>

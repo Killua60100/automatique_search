@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006181369</ID>
+<TITRE_TA>Section 3 : Organisation opérationnelle des services d'incendie et de secours (R)</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394925" num="R1424-38" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="MODIFIE_MORT_NE" fin="2022-04-17" id="LEGIARTI000043498425" num="R1424-38" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045656656" num="R1424-38" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006192600" debut="2000-04-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006192600" niv="7" url="/LEGI/SCTA/00/00/06/19/26/LEGISCTA000006192600.xml">Sous-section 1 : Centres d'incendie et de secours (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192601" debut="2000-04-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006192601" niv="7" url="/LEGI/SCTA/00/00/06/19/26/LEGISCTA000006192601.xml">Sous-section 2 : Mise en oeuvre opérationnelle sur le territoire du département (R)</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006192602" debut="2000-04-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006192602" niv="7" url="/LEGI/SCTA/00/00/06/19/26/LEGISCTA000006192602.xml">Sous-section 3 : Mise en oeuvre opérationnelle en dehors du département (R)</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070633" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des collectivités territoriales" debut="1996-02-24" fin="2999-01-01" id_txt="LEGITEXT000006070633">Code général des collectivités territoriales</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006088021">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006116641">PREMIERE PARTIE : DISPOSITIONS GÉNÉRALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006135522">LIVRE IV : SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006149362">TITRE II : DISPOSITIONS PROPRES À CERTAINS SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006164907">CHAPITRE IV : Services d'incendie et de secours</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000030935050</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/30/93/50/LEGIARTI000030935050.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L821-2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2015-10-03</DATE_DEBUT>
+<DATE_FIN>2016-06-05</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030934655">LIVRE VIII : DU RENSEIGNEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935044">TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935046">Chapitre Ier : De l'autorisation de mise en œuvre</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-10-03" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000030935050" num="L821-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2016-06-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032654222" num="L821-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">L'autorisation mentionnée à l'article L. 821-1 est délivrée sur demande écrite et motivée du ministre de la défense, du ministre de l'intérieur ou des ministres chargés de l'économie, du budget ou des douanes. Chaque ministre ne peut déléguer cette attribution individuellement qu'à des collaborateurs directs habilités au secret de la défense nationale. <br/>
+<br/>La demande précise : <br/>
+<br/>1° La ou les techniques à mettre en œuvre ; <br/>
+<br/>2° Le service pour lequel elle est présentée ; <br/>
+<br/>3° La ou les finalités poursuivies ; <br/>
+<br/>4° Le ou les motifs des mesures ; <br/>
+<br/>5° La durée de validité de l'autorisation ; <br/>
+<br/>6° La ou les personnes, le ou les lieux ou véhicules concernés. <br/>
+<br/>Pour l'application du 6°, les personnes dont l'identité n'est pas connue peuvent être désignées par leurs identifiants ou leur qualité et les lieux ou véhicules peuvent être désignés par référence aux personnes faisant l'objet de la demande. <br/>
+<br/>Lorsqu'elle a pour objet le renouvellement d'une autorisation, la demande expose les raisons pour lesquelles ce renouvellement est justifié au regard de la ou des finalités poursuivies.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000030931899" datesignatexte="2015-07-24" id="LEGIARTI000030933684" naturetexte="LOI" nortexte="PRMX1504410L" num="2" numtexte="2015-912" sens="cible" typelien="CREE">LOI n°2015-912 du 24 juillet 2015 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935048" naturetexte="CODE" nortexte="" num="L821-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L821-1</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000035937600" naturetexte="CODE" nortexte="" num="L821-4" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L821-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887660" naturetexte="CODE" nortexte="" num="L832-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L832-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935595" naturetexte="CODE" nortexte="" num="L851-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L851-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887533" naturetexte="CODE" nortexte="" num="L851-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L851-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030939237" naturetexte="CODE" nortexte="" num="L851-6" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L851-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000032925430" naturetexte="CODE" nortexte="" num="L852-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L852-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000035936329" naturetexte="CODE" nortexte="" num="L852-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L852-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051740953" naturetexte="CODE" nortexte="" num="L852-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L852-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051740998" naturetexte="CODE" nortexte="" num="L853-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L853-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000037200972" naturetexte="CODE" nortexte="" num="L854-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L854-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

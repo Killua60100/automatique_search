@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006181737</ID>
+<TITRE_TA>Sous-section 1 : Des peines applicables en cas de concours d'infractions</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417357" num="132-2" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417358" num="132-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417359" num="132-4" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417361" num="132-5" origine="LEGI"/>
+<LIEN_ART debut="1992-07-23" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006417360" num="132-5" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417363" num="132-6" origine="LEGI"/>
+<LIEN_ART debut="1992-07-23" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006417362" num="132-6" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739528" num="132-6-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417364" num="132-7" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117596">Livre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136038">Titre III : Des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149820">Chapitre II : Du régime des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006165266">Section 1 : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

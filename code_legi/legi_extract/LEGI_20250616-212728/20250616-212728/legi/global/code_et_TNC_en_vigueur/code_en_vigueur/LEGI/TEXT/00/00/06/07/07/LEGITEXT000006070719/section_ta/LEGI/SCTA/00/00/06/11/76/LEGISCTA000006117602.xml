@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006117602</ID>
+<TITRE_TA>Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136044" debut="1992-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136044" niv="3" url="/LEGI/SCTA/00/00/06/13/60/LEGISCTA000006136044.xml">Titre Ier : Des atteintes aux intérêts fondamentaux de la nation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136045" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136045" niv="3" url="/LEGI/SCTA/00/00/06/13/60/LEGISCTA000006136045.xml">Titre II : Du terrorisme</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136046" debut="1990-09-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136046" niv="3" url="/LEGI/SCTA/00/00/06/13/60/LEGISCTA000006136046.xml">Titre III : Des atteintes à l'autorité de l'Etat</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136047" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006136047" niv="3" url="/LEGI/SCTA/00/00/06/13/60/LEGISCTA000006136047.xml">Titre IV : Des atteintes à la confiance publique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136048" debut="1994-03-01" etat="MODIFIE" fin="2025-06-15" id="LEGISCTA000006136048" niv="3" url="/LEGI/SCTA/00/00/06/13/60/LEGISCTA000006136048.xml">Titre V : De la participation à une association de malfaiteurs</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006136048" debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000051741807" niv="3" url="/LEGI/SCTA/00/00/51/74/18/LEGISCTA000051741807.xml">Titre V : De la participation à une association de malfaiteurs et du concours à une organisation criminelle</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

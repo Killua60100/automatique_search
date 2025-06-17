@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051739253</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/92/LEGIARTI000051739253.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-63-1 D</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2025-06-15" id="LEGISCTA000006138134">Titre XXI bis : Protection des personnes bénéficiant d'exemptions ou de réductions de peines pour avoir permis d'éviter la réalisation d'infractions, de faire cesser ou d'atténuer le dommage causé par une infraction, ou d'identifier les auteurs ou complices d'infractions</TITRE_TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051742551">Titre XXI bis : Des collaborateurs de justice</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051739245">Chapitre 1er : De l'octroi du statut de collaborateur de justice</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739253" num="706-63-1 D" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Si la chambre de l'instruction estime, au vu du dossier de la procédure, que les conditions mentionnées à l'article 132-78 du code pénal sont réunies, elle octroie par ordonnance motivée le statut de collaborateur de justice. Elle statue après avoir recueilli par écrit les réquisitions du procureur général ainsi que les observations éventuelles de la personne concernée ou de son avocat. La chambre de l'instruction peut, si elle l'estime nécessaire, procéder à l'audition de la personne concernée, en recourant au besoin à un moyen de télécommunication audiovisuelle selon les modalités prévues à l'article 706-71 du présent code.<br/>
+<br/>
+ La décision de la chambre de l'instruction est notifiée à la personne concernée ou à son avocat ainsi qu'au parquet général et au magistrat à l'origine de la saisine. Elle peut faire l'objet d'un appel, dans un délai de dix jours à compter de sa notification, devant la même chambre de l'instruction autrement composée. La décision de celle-ci n'est pas susceptible de recours. L'ordonnance de la chambre de l'instruction est également communiquée au requérant et à la commission mentionnée à l'article 706-63-1.<br/>
+<br/>
+ En cas d'octroi du statut de collaborateur de justice, une fois la décision devenue définitive, l'ordonnance, la requête, les procès-verbaux de déclaration, l'avis de la commission mentionnée à l'article 706-63-1, la convention mentionnée à l'article 706-63-1 C et tous les actes s'y rapportant sont versés au dossier de la procédure.<br/>
+<br/>
+ En l'absence de saisine de la chambre de l'instruction ou lorsque celle-ci ne fait pas droit à la requête, les procès-verbaux de déclaration et d'évaluation, l'avis de la commission mentionnée à l'article 706-63-1 ainsi que tous les actes s'y rapportant ne sont pas versés au dossier de la procédure mais sont conservés dans un dossier distinct du dossier de la procédure, dans lequel figure également, le cas échéant, la convention mentionnée à l'article 706-63-1 C, la requête et l'ordonnance de la chambre de l'instruction.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736676" naturetexte="LOI" nortexte="JUSX2430702L" num="31" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417505" naturetexte="CODE" nortexte="" num="132-78" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-78</LIEN>
+</LIENS>
+</ARTICLE>

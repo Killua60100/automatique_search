@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006419660</ID>
+<ANCIEN_ID>PCEAAXXXXXX002AAXXXXXXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/96/LEGIARTI000006419660.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+
+<ETAT>TRANSFERE</ETAT>
+
+<DATE_DEBUT>2002-01-01</DATE_DEBUT>
+<DATE_FIN>2010-01-06</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000877119" date_publi="1881-07-30" date_signature="1881-07-29" ministere="" nature="LOI" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Loi du 29 juillet 1881" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000877119">Loi du 29 juillet 1881 sur la liberté de la presse</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi du 29 juillet 1881" debut="1881-07-29" fin="2999-01-01" id_txt="LEGITEXT000006070722">Loi du 29 juillet 1881 sur la liberté de la presse</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1881-07-29" fin="2999-01-01" id="LEGISCTA000006089699">CHAPITRE Ier : DE L'IMPRIMERIE ET DE LA LIBRAIRIE</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006419659" num="2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="TRANSFERE">
+<LIEN_ART debut="2002-01-01" etat="TRANSFERE" fin="2010-01-06" id="LEGIARTI000006419660" num="2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2010-01-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021662491" num="2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Tout écrit rendu public, à l'exception des ouvrages de ville ou bilboquets, portera l'indication du nom et du domicile de l'imprimeur, à peine, contre celui-ci, de 3 750 euros d'amende.</p>
+<p>La distribution des imprimés qui ne porteraient pas la mention exigée au paragraphe précédent est interdite et la même peine est applicable à ceux qui contreviendraient à cette interdiction.</p>
+<p>Une peine de six mois d'emprisonnement pourra être prononcée si, dans les douze mois précédents, l'imprimeur a été condamné pour contravention de même nature.</p>
+<p>Toutefois, si l'imprimé fait appel à des techniques différentes et nécessite le concours de plusieurs imprimeurs, l'indication du nom et du domicile de l'un d'entre eux est suffisante.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000877119" datesignatexte="1881-07-29" id="LEGIARTI000021662494" naturetexte="LOI" nortexte="" num="3" numtexte="" sens="source" typelien="CONCORDE">Loi du 29 juillet 1881 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000193176" datesignatexte="1996-03-28" id="LEGIARTI000006495418" naturetexte="ORDONNANCE" nortexte="JUSX9500191R" num="13" numtexte="96-267" sens="source" typelien="SPEC_APPLI">Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000202677" datesignatexte="1997-11-20" id="LEGIARTI000029499194" naturetexte="DECRET" nortexte="MCCT9700747D" num="13" numtexte="97-1065" sens="cible" typelien="CITATION">Décret n°97-1065 du 20 novembre 1997 - art. 13 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000219672" datesignatexte="2000-09-19" id="LEGIARTI000006716442" naturetexte="ORDONNANCE" nortexte="JUSX0000106R" num="3" numtexte="2000-916" sens="source" typelien="MODIFICATION">Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002</LIEN>
+
+<LIEN cidtexte="JORFTEXT000021601325" datesignatexte="2010-01-04" id="LEGIARTI000021706663" naturetexte="LOI" nortexte="JUSX0803885L" num="1" numtexte="2010-1" sens="cible" typelien="TRANSFERE">LOI n°2010-1
+ du 4 janvier 2010 - art. 1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047052901" naturetexte="CODE" nortexte="" num="100-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 100-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048433337" naturetexte="CODE" nortexte="" num="230-34-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-34-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000029759864" naturetexte="CODE" nortexte="" num="60-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 60-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740331" naturetexte="CODE" nortexte="" num="706-100" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-100 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049312762" naturetexte="CODE" nortexte="" num="223-1-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 223-1-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

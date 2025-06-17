@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006353263</ID>
+<ANCIEN_ID>MEAXXXXXXXX1X111L00AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/35/32/LEGIARTI000006353263.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L111</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1964-10-28</DATE_DEBUT>
+<DATE_FIN>2019-03-25</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070239" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code électoral" debut="1964-10-28" fin="2999-01-01" id_txt="LEGITEXT000006070239">Code électoral</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2999-01-01" id="LEGISCTA000006085760">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2009-01-15" id="LEGISCTA000006115455">LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS</TITRE_TM>
+<TITRE_TM debut="2009-01-15" fin="2014-03-23" id="LEGISCTA000020103140">Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux</TITRE_TM>
+<TITRE_TM debut="2014-03-23" fin="2020-03-01" id="LEGISCTA000027433908">Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+<TITRE_TM debut="2020-03-01" fin="2999-01-01" id="LEGISCTA000029930685">Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2014-03-23" id="LEGISCTA000006134753">Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux</TITRE_TM>
+<TITRE_TM debut="2014-03-23" fin="2020-03-01" id="LEGISCTA000027433906">Titre Ier : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+<TITRE_TM debut="2020-03-01" fin="2999-01-01" id="LEGISCTA000029930683">Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2999-01-01" id="LEGISCTA000006148461">Chapitre VII : Dispositions pénales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1964-10-28" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000006353263" num="L111" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-03-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038310564" num="L111" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Toute manoeuvre frauduleuse ayant pour but d'enfreindre les dispositions des articles L. 71 à L. 77 sera punie des peines prévues à l'article L. 107.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000670066" datesignatexte="1964-10-27" id="JORFTEXT000000670066" naturetexte="DECRET" nortexte="" num="" numtexte="64-1086" sens="source" typelien="CODIFICATION">Décret 64-1086 1964-10-27 JORF 28 OCTOBRE 1964</LIEN>
+<LIEN cidtexte="JORFTEXT000000700228" datesignatexte="1975-12-31" id="LEGIARTI000006386604" naturetexte="LOI" nortexte="" num="4" numtexte="75-1337" sens="cible" typelien="CITATION">Loi n°75-1337 du 31 décembre 1975 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000684074" datesignatexte="1988-07-20" id="LEGIARTI000006491089" naturetexte="LOI" nortexte="JUSX8800077L" num="29" numtexte="88-828" sens="cible" typelien="CITATION">Loi n°88-828 du 20 juillet 1988 - art. 29 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000371690" datesignatexte="1995-08-03" id="LEGIARTI000006492670" naturetexte="LOI" nortexte="JUSX9500089L" num="25" numtexte="95-884" sens="cible" typelien="CITATION">Loi n°95-884 du 3 août 1995 - art. 25 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000555866" datesignatexte="1997-04-18" id="LEGIARTI000006356529" naturetexte="DECRET" nortexte="INTA9700089D" num="ANNEXE IV" numtexte="97-365" sens="cible" typelien="CITATION">Décret n°97-365 du 18 avril 1997 - art. ANNEXE IV (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051741809" naturetexte="CODE" nortexte="" num="131-26-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-26-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000006353254" naturetexte="CODE" nortexte="" num="L107" numtexte="" sens="source" typelien="CITATION">Code électoral - art. L107 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000006353274" naturetexte="CODE" nortexte="" num="L116-1" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. L116-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000028059972" naturetexte="CODE" nortexte="" num="L117" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. L117 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000006353181" naturetexte="CODE" nortexte="" num="L71" numtexte="" sens="source" typelien="CITATION">Code électoral - art. L71 (V)</LIEN>
+</LIENS>
+</ARTICLE>

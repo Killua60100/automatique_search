@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000030935979</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/30/93/59/LEGIARTI000030935979.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L853-3</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2015-10-03</DATE_DEBUT>
+<DATE_FIN>2021-07-31</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030934655">LIVRE VIII : DU RENSEIGNEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935574">TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935962">Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques &#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-10-03" etat="MODIFIE" fin="2021-07-31" id="LEGIARTI000030935979" num="L853-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-07-31" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000043887450" num="L853-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740998" num="L853-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre, lorsque les renseignements ne peuvent être recueillis par un autre moyen légalement autorisé, l'introduction dans un véhicule ou dans un lieu privé à la seule fin de mettre en place, d'utiliser ou de retirer les dispositifs techniques mentionnés aux articles L. 851-5, L. 853-1 et L. 853-2 peut être autorisée. S'il s'agit d'un lieu d'habitation ou pour l'utilisation de la technique mentionnée au 1° du I de l'article L. 853-2, l'autorisation ne peut être donnée qu'après avis exprès de la Commission nationale de contrôle des techniques de renseignement, statuant en formation restreinte ou en formation plénière. <br/>
+<br/>L'introduction dans un véhicule ou dans un lieu privé ne peut être effectuée que par des agents individuellement désignés et habilités appartenant à l'un des services mentionnés aux articles L. 811-2 et L. 811-4 dont la liste est fixée par décret en Conseil d'Etat. <br/>
+<br/>II.-Lorsqu'il est fait application de l'avant-dernier alinéa de l'article L. 821-2, la demande mentionne, lorsqu'ils sont connus, toute indication permettant d'identifier le lieu, son usage, son propriétaire ou toute personne bénéficiant d'un droit, ainsi que la nature détaillée du dispositif envisagé. <br/>
+<br/>III.-Par dérogation à l'article L. 821-4, l'autorisation, spécialement motivée, est délivrée pour une durée maximale de trente jours et est renouvelable dans les mêmes conditions de durée que l'autorisation initiale. Elle ne vaut que pour les actes d'installation, d'utilisation, de maintenance ou de retrait des dispositifs techniques. <br/>
+<br/>Lorsque l'introduction mentionnée au I du présent article et portant sur un lieu privé à usage d'habitation est autorisée après avis défavorable de la Commission nationale de contrôle des techniques de renseignement, le Conseil d'Etat est immédiatement saisi par le président de la commission ou, à défaut, par l'un des membres de la commission parmi ceux mentionnés aux 2° et 3° de l'article L. 831-1 du présent code. La formation spécialisée mentionnée à l'article L. 773-2 du code de justice administrative, le président de la formation restreinte mentionnée au même article L. 773-2 ou le membre qu'il délègue statue dans un délai de vingt-quatre heures à compter de cette saisine. La décision d'autorisation du Premier ministre ne peut être exécutée avant que le Conseil d'Etat n'ait statué, sauf si elle a été délivrée au titre du 4° de l'article L. 811-3 du présent code et que le Premier ministre a ordonné sa mise en œuvre immédiate. <br/>
+<br/>IV.-Le service autorisé à recourir à l'introduction dans un véhicule ou dans un lieu privé rend compte à la commission de sa mise en œuvre. La commission peut à tout moment adresser une recommandation tendant à ce que cette opération soit interrompue et que les renseignements collectés soient détruits.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000030931899" datesignatexte="2015-07-24" id="LEGIARTI000030933636" naturetexte="LOI" nortexte="PRMX1504410L" num="6" numtexte="2015-912" sens="cible" typelien="CREE">LOI n°2015-912 du 24 juillet 2015 - art. 6</LIEN>
+
+
+
+
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000030937135" naturetexte="CODE" nortexte="" num="L773-2" numtexte="" sens="source" typelien="CITATION">Code de justice administrative - art. L773-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000031961645" naturetexte="CODE" nortexte="" num="R773-7" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. R773-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935038" naturetexte="CODE" nortexte="" num="L811-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-2</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935040" naturetexte="CODE" nortexte="" num="L811-3" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-3</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935042" naturetexte="CODE" nortexte="" num="L811-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-4</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935050" naturetexte="CODE" nortexte="" num="L821-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L821-2</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935054" naturetexte="CODE" nortexte="" num="L821-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L821-4</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935078" naturetexte="CODE" nortexte="" num="L831-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L831-1</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887660" naturetexte="CODE" nortexte="" num="L832-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L832-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030939235" naturetexte="CODE" nortexte="" num="L851-5" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L851-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887606" naturetexte="CODE" nortexte="" num="L853-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L853-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887476" naturetexte="CODE" nortexte="" num="L853-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L853-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000038313985" naturetexte="CODE" nortexte="" num="L855-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L855-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051282260" naturetexte="CODE" nortexte="" num="R853-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R853-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

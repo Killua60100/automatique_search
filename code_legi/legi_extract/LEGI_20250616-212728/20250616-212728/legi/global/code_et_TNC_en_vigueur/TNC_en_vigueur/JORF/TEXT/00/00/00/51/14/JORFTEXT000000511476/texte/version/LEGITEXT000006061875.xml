@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000006061875</ID>
+<ANCIEN_ID>ACHDP</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/06/06/18/LEGITEXT000006061875.xml</URL>
+<NATURE>DECRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000000511476</CID>
+<NUM>71-941</NUM>
+<NUM_PARUTION/>
+<NUM_SEQUENCE>0</NUM_SEQUENCE>
+<NOR/>
+<DATE_PUBLI>1971-12-03</DATE_PUBLI>
+<DATE_TEXTE>1971-11-26</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2022-02-27</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR>
+<VERSION_A_VENIR>2025-10-01</VERSION_A_VENIR>
+</VERSIONS_A_VENIR>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI>0</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>0</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Décret n°71-941 du 26 novembre 1971</TITRE>
+<TITREFULL>Décret n°71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>1971-12-03</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000511476" datesignatexte="1971-11-26" id="LEGIARTI000006490226" naturetexte="DECRET" nortexte="" num="25" numtexte="71-941" sens="source" typelien="SPEC_APPLI">Décret 71-941 1971-11-26 art. 25, art. 26</LIEN>
+<LIEN cidtexte="JORFTEXT000000511476" datesignatexte="1971-11-26" id="LEGIARTI000006490235" naturetexte="DECRET" nortexte="" num="26" numtexte="71-941" sens="source" typelien="SPEC_APPLI">Décret 71-941 1971-11-26 art. 25, art. 26</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<br/>   Le Premier ministre,<br/>
+<br/>   Sur le rapport du garde des sceaux, ministre de la justice, du ministre d'Etat chargé des départements et territoires d'outre-mer et du ministre de l'économie et des finances,<br/>
+<br/>   Vu la Constitution, et notamment son article 37 ;<br/>
+<br/>   Vu les articles 1317 à 1321 du code civil ;<br/>
+<br/>   Vu la loi du 25 ventôse an XI modifiée, notamment l'article 67 de ladite loi ;<br/>
+<br/>   Le Conseil d'Etat entendu,<br/>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>Le Premier ministre :<br/>
+ JACQUES CHABAN-DELMAS.<br/>
+ Le garde des sceaux, ministre de la justice,<br/>
+ RENE PLEVEN.<br/>
+ Le ministre d'Etat chargé des départements et territoires d'outre-mer,<br/>
+ PIERRE MESSMER.<br/>
+ Le ministre de l'économie et des finances,<br/>
+ VALERY GISCARD D'ESTAING.<br/>
+ Le secrétaire d'Etat auprès du ministre de l'économie, et des finances, chargé du budget,<br/>
+ JEAN TAITTINGER.<br/>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

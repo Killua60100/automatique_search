@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006529877</ID>
+<ANCIEN_ID>PPEFFXXXXXX024AAXXXXXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/52/98/LEGIARTI000006529877.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>24</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000454124" date_publi="2006-01-24" date_signature="2006-01-23" ministere="" nature="LOI" nor="INTX0500242L" num="2006-64" num_parution_jo="0020">
+<TITRE_TXT c_titre_court="Loi n° 2006-64 du 23 janvier 2006" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000454124">LOI n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 2006-64 du 23 janvier 2006" debut="2006-01-24" fin="2999-01-01" id_txt="LEGITEXT000006053177">Loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la sécurité et aux contrôles frontaliers.</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="LEGISCTA000006096031">Chapitre VIII : Dispositions relatives à la lutte contre le financement des activités terroristes.</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000006529877" num="24" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>a modifié les dispositions suivantes<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000222052" datesignatexte="2001-11-15" id="LEGIARTI000006529372" naturetexte="LOI" nortexte="INTX0100032L" num="71" numtexte="2001-1062" sens="cible" typelien="MODIFICATION">Loi n°2001-1062 du 15 novembre 2001 - art. 71 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577499" naturetexte="CODE" nortexte="" num="704" numtexte="" sens="cible" typelien="MODIFICATION">CODE DE PROCEDURE PENALE - art. 704 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577778" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="MODIFICATION">CODE DE PROCEDURE PENALE - art. 706-73 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000006335061" naturetexte="CODE" nortexte="" num="L313-5" numtexte="" sens="cible" typelien="MODIFICATION">Code de l'entrée et du séjour des étrangers et du  - art. L313-5 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417734" naturetexte="CODE" nortexte="" num="222-39-1" numtexte="" sens="cible" typelien="ABROGATION">Code pénal - art. 222-39-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417848" naturetexte="CODE" nortexte="" num="225-4-8" numtexte="" sens="cible" typelien="ABROGATION">Code pénal - art. 225-4-8 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418175" naturetexte="CODE" nortexte="" num="312-7-1" numtexte="" sens="cible" typelien="ABROGATION">Code pénal - art. 312-7-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418254" naturetexte="CODE" nortexte="" num="321-10-1" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 321-10-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418244" naturetexte="CODE" nortexte="" num="321-6" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 321-6 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418245" naturetexte="CODE" nortexte="" num="321-6-1" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 321-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418854" naturetexte="CODE" nortexte="" num="450-2-1" numtexte="" sens="cible" typelien="ABROGATION">Code pénal - art. 450-2-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418858" naturetexte="CODE" nortexte="" num="450-5" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 450-5 (V)</LIEN>
+</LIENS>
+</ARTICLE>

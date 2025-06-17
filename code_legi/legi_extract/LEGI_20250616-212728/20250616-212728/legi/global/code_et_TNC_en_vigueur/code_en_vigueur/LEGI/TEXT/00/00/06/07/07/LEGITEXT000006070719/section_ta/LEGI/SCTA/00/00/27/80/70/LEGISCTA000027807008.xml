@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000027807008</ID>
+<TITRE_TA>Section 1 bis : De l'enlèvement et de la séquestration</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027811104" num="224-1" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027811099" num="224-2" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027811093" num="224-3" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027811087" num="224-4" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027811082" num="224-5" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000027811079" num="224-5-1" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742448" num="224-5-1" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027811073" num="224-5-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149829">Chapitre IV : Des atteintes aux libertés de la personne</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

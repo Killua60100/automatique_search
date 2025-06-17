@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000028059923</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/28/05/99/LEGIARTI000028059923.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>11-5</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2013-10-13</DATE_DEBUT>
+<DATE_FIN>2015-12-23</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000321646" date_publi="1988-03-12" date_signature="1988-03-11" ministere="" nature="LOI" nor="INTX8800003L" num="88-227" num_parution_jo="">
+<TITRE_TXT c_titre_court="Loi n° 88-227 du 11 mars 1988" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000321646">Loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 88-227 du 11 mars 1988" debut="1988-03-12" fin="2999-01-01" id_txt="LEGITEXT000006069061">Loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1988-03-12" fin="2999-01-01" id="LEGISCTA000006085777">TITRE III : DISPOSITIONS RELATIVES AUX PARTIS ET GROUPEMENTS POLITIQUES ET A LEUR FINANCEMENT.</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1990-01-16" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006355330" num="11-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2013-10-13" id="LEGIARTI000006355331" num="11-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-10-13" etat="MODIFIE" fin="2015-12-23" id="LEGIARTI000028059923" num="11-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-12-23" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000031677800" num="11-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2018-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000035588694" num="11-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Ceux qui ont versé des dons à plusieurs partis politiques en violation de l'article 11-4 sont punis d'une amende de 3 750 euros et d'un an d'emprisonnement ou de l'une de ces deux peines seulement.</p>
+<p>Quand des dons sont consentis par une même personne physique à un seul parti politique en violation du même article 11-4, le bénéficiaire des dons est également soumis aux sanctions prévues au premier alinéa du présent article.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000028056315" datesignatexte="2013-10-11" id="LEGIARTI000028057525" naturetexte="LOI" nortexte="PRMX1309699L" num="16" numtexte="2013-907" sens="cible" typelien="MODIFIE">LOI n°2013-907
+ du 11 octobre 2013 - art. 16</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051741809" naturetexte="CODE" nortexte="" num="131-26-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-26-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

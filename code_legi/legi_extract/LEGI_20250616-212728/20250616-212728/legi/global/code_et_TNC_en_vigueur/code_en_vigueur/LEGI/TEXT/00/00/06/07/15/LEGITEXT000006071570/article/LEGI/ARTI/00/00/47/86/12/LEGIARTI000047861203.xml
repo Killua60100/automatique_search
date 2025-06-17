@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000047861203</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/47/86/12/LEGIARTI000047861203.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>399</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2023-07-20</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2002-12-31" fin="2999-01-01" id="LEGISCTA000006099277">Titre XII : Contentieux et recouvrement</TITRE_TM>
+<TM>
+<TITRE_TM debut="2002-12-31" fin="2999-01-01" id="LEGISCTA000006122135">Chapitre V : Responsabilité et solidarité</TITRE_TM>
+<TM>
+<TITRE_TM debut="2002-12-31" fin="2999-01-01" id="LEGISCTA000006138931">Section 1 : Responsabilité pénale</TITRE_TM>
+<TM>
+<TITRE_TM debut="2002-12-31" fin="2999-01-01" id="LEGISCTA000006153177">Paragraphe 7 : Intéressés à la fraude.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-12-31" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000006616024" num="399" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047861203" num="399" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>1. Ceux qui ont participé comme intéressés d'une manière quelconque aux délits prévus aux articles 414, 414-2 et 415 sont passibles des mêmes peines que les auteurs de l'infraction et, en outre, des peines privatives de droits édictées par l'article 432 ci-après.</p>
+<p>2. Sont réputés intéressés :</p>
+<p>a) Les personnes physiques ou morales qui ont un intérêt à la fraude ;</p>
+<p>b) ceux qui ont coopéré d'une manière quelconque à un ensemble d'actes accomplis par un certain nombre d'individus agissant de concert, d'après un plan de fraude arrêté pour assurer le résultat poursuivi en commun ;</p>
+<p>c) ceux qui ont, sciemment, soit couvert les agissements des fraudeurs ou tenté de leur procurer l'impunité, soit acheté ou détenu, même en dehors du rayon, des marchandises provenant d'un délit de contrebande ou d'importation sans déclaration.</p>
+<p>3. L'intérêt à la fraude ne peut être imputé à celui qui a agi en état de nécessité ou par suite d'erreur invincible.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000239747" datesignatexte="2003-07-01" id="LEGIARTI000026912898" naturetexte="ARRETE" nortexte="BUDD0350010A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 1 juillet 2003 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000047858021" datesignatexte="2023-07-18" id="LEGIARTI000047858917" naturetexte="LOI" nortexte="ECOD2306819L" num="30" numtexte="2023-610" sens="cible" typelien="MODIFIE">LOI n°2023-610 du 18 juillet 2023 - art. 30</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006616050" naturetexte="CODE" nortexte="" num="432" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 432</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051742598" naturetexte="CODE" nortexte="" num="67 bis" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 bis (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051742569" naturetexte="CODE" nortexte="" num="67 bis-1" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 bis-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051742583" naturetexte="CODE" nortexte="" num="67 bis-1 A" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 bis-1 A (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Décret 48-1985 1948-12-08</LIEN>
+</LIENS>
+</ARTICLE>

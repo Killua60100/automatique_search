@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006142795</ID>
+<TITRE_TA>Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006157480" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006157480" niv="4" url="/LEGI/SCTA/00/00/06/15/74/LEGISCTA000006157480.xml">Chapitre Ier : L'obligation de s'assurer</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006157492" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006157492" niv="4" url="/LEGI/SCTA/00/00/06/15/74/LEGISCTA000006157492.xml">Chapitre II : L'obligation d'assurer - Le bureau central de tarification.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006157494" debut="1976-07-21" etat="ABROGE" fin="2001-12-26" id="LEGISCTA000006157494" niv="4" url="/LEGI/SCTA/00/00/06/15/74/LEGISCTA000006157494.xml">Chapitre III : Contribution au profit de la sécurité sociale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006157910" debut="2001-07-13" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006157910" niv="4" url="/LEGI/SCTA/00/00/06/15/79/LEGISCTA000006157910.xml">Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à Mayotte</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006157499" debut="1992-03-20" etat="ABROGE" fin="2001-12-26" id="LEGISCTA000006157499" niv="4" url="/LEGI/SCTA/00/00/06/15/74/LEGISCTA000006157499.xml">Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer et à la collectivité territoriale de Mayotte</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006157496" debut="1976-07-21" etat="ABROGE" fin="1992-10-15" id="LEGISCTA000006157496" niv="4" url="/LEGI/SCTA/00/00/06/15/74/LEGISCTA000006157496.xml">Chapitre IV : Dispositions particulières aux départements et territoires d'outre-mer</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073984" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des assurances" debut="1976-07-11" fin="2999-01-01" id_txt="LEGITEXT000006073984">Code des assurances</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1976-07-16" fin="2999-01-01" id="LEGISCTA000006107964">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1976-07-21" fin="2999-01-01" id="LEGISCTA000006128442">Livre II : Assurances obligatoires</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

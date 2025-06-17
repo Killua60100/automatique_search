@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000033020379</ID>
+<TITRE_TA>Sous-section 1 : Ordre public.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033020376" num="L3121-27" origine="LEGI"/>
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033020373" num="L3121-28" origine="LEGI"/>
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033020370" num="L3121-29" origine="LEGI"/>
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033020367" num="L3121-30" origine="LEGI"/>
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033020364" num="L3121-31" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2016-08-10" id="LEGIARTI000006902472" num="L3121-33" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006112874">Partie législative  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006132332">Troisième partie : Durée du travail, salaire, intéressement, participation et épargne salariale    </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006145403">Livre Ier : Durée du travail, repos et congés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006160754">Titre II : Durée du travail, répartition et aménagement des horaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2016-08-10" id="LEGISCTA000006178002">Chapitre Ier : Durée du travail</TITRE_TM>
+<TITRE_TM debut="2016-08-10" fin="2999-01-01" id="LEGISCTA000033020522">Chapitre Ier : Durée et aménagement du travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2016-08-10" id="LEGISCTA000006189631">Section 3 : Durées maximales de travail</TITRE_TM>
+<TITRE_TM debut="2016-08-10" fin="2999-01-01" id="LEGISCTA000033020381">Section 3 : Durée légale et heures supplémentaires</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000025349741</ID>
+<TITRE_TA>Titre Ier : De la lutte contre la piraterie maritime</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000023386318" num="1" origine="LEGI"/>
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000023386315" num="2" origine="LEGI"/>
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000023386313" num="3" origine="LEGI"/>
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023386311" num="4" origine="LEGI"/>
+<LIEN_ART debut="2014-07-12" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000029227327" num="4" origine="LEGI"/>
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000023386309" num="5" origine="LEGI"/>
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000023386306" num="6" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000713756" date_publi="1994-07-16" date_signature="1994-07-15" ministere="" nature="LOI" nor="DEFX9400020L" num="94-589" num_parution_jo="0163">
+<TITRE_TXT c_titre_court="LOI n° 94-589 du 15 juillet 1994" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000713756">LOI n° 94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de contrôle en mer (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2019-05-09" fin="2999-01-01" id_txt="LEGITEXT000038452858">Loi n° 94-589 du 15 juillet 1994 relative à l'exercice par l'Etat de ses pouvoirs de police en mer pour la lutte contre certaines infractions relevant de conventions internationales</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 94-589 du 15 juillet 1994" debut="2011-01-07" fin="2019-05-09" id_txt="LEGITEXT000023386330">Loi n° 94-589 du 15 juillet 1994 relative à la lutte contre la piraterie et aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2005-04-23" fin="2011-01-07" id_txt="LEGITEXT000005616201">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="1994-07-16" fin="2005-04-23" id_txt="LEGITEXT000005616200">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000049531606</ID>
+<TITRE_TA>Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse et de la sujétion psychologique ou physique</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006417800" num="223-15-2" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="MODIFIE" fin="2023-01-26" id="LEGIARTI000020632131" num="223-15-2" origine="LEGI"/>
+<LIEN_ART debut="2023-01-26" etat="MODIFIE" fin="2024-05-12" id="LEGIARTI000047052865" num="223-15-2" origine="LEGI"/>
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531603" num="223-15-2" origine="LEGI"/>
+<LIEN_ART debut="2001-06-13" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417799" num="223-15-2" origine="LEGI"/>
+<LIEN_ART debut="2001-06-13" etat="MODIFIE" fin="2009-11-26" id="LEGIARTI000006417801" num="223-15-3" origine="LEGI"/>
+<LIEN_ART debut="2009-11-26" etat="TRANSFERE" fin="2024-05-12" id="LEGIARTI000021342944" num="223-15-3" origine="LEGI"/>
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531597" num="223-15-3" origine="LEGI"/>
+<LIEN_ART debut="2001-06-13" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006417802" num="223-15-4" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="TRANSFERE" fin="2024-05-12" id="LEGIARTI000020630932" num="223-15-4" origine="LEGI"/>
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531601" num="223-15-4" origine="LEGI"/>
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049526648" num="223-15-5" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149828">Chapitre III : De la mise en danger de la personne</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

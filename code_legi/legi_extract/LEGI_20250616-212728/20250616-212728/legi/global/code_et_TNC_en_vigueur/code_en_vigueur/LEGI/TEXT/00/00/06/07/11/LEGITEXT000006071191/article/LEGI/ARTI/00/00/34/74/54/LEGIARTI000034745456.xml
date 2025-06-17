@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000034745456</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/34/74/54/LEGIARTI000034745456.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>D337-17</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2018-01-01</DATE_DEBUT>
+<DATE_FIN>2020-06-17</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071191" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'éducation" debut="2000-06-22" fin="2999-01-01" id_txt="LEGITEXT000006071191">Code de l'éducation</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-07-17" fin="2999-01-01" id="LEGISCTA000006095806">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006120399">Livre III : L'organisation des enseignements scolaires.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006137643">Titre III : Les enseignements du second degré.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006151435">Chapitre VII : Dispositions propres aux formations professionnelles.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006166834">Section 1 : Le certificat d'aptitude professionnelle</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006182527">Sous-section 2 : Voies d'accès au diplôme et conditions de délivrance.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-05-24" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000006526780" num="D337-17" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-01-01" etat="MODIFIE" fin="2020-06-17" id="LEGIARTI000034745456" num="D337-17" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2020-06-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000041998862" num="D337-17" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément à l'article 5 du décret n° 2017-961 du 10 mai 2017, les présentes dispositions entrent en vigueur à compter de la session 2018 de l'examen du certificat d'aptitude professionnelle et de l'examen du brevet d'études professionnelles.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les candidats qui n'ont pas obtenu le diplôme du certificat d'aptitude professionnelle conservent, à leur demande, durant cinq années à compter de leur date d'obtention, les notes obtenues ou le bénéfice d'unités constitutives d'un diplôme acquises au titre de la validation des acquis de l'expérience. </p>
+<p>Dans cette limite de cinq ans, les candidats peuvent choisir, à chaque session, soit de conserver leurs notes, soit de passer à nouveau l'épreuve. Dans ce second cas, la dernière note obtenue est seule prise en compte. </p>
+<p>Un arrêté du ministre chargé de l'éducation nationale fixe les conditions dans lesquelles les candidats qui se présentent dans une autre spécialité du diplôme ou d'un diplôme de même niveau peuvent conserver des notes qu'ils ont déjà obtenues. Pour les spécialités mentionnées au cinquième alinéa de l'article D. 337-2, ces conditions sont fixées par un arrêté conjoint du ministre chargé de la mer et du ministre chargé de l'éducation nationale.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000222972" datesignatexte="2002-04-04" id="JORFTEXT000000222972" naturetexte="DECRET" nortexte="MENE0200814D" num="" numtexte="2002-463" sens="source" typelien="CONCORDANCE">Décret 2002-463 2002-04-04 art. 16</LIEN>
+<LIEN cidtexte="JORFTEXT000000222972" datesignatexte="2002-04-04" id="LEGIARTI000006444023" naturetexte="DECRET" nortexte="MENE0200814D" num="16" numtexte="2002-463" sens="cible" typelien="CONCORDE">Décret n°2002-463 du 4 avril 2002 - art. 16 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000607176" datesignatexte="2006-05-23" id="JORFTEXT000000607176" naturetexte="DECRET" nortexte="MENJ0601284D" num="" numtexte="2006-583" sens="source" typelien="CODIFICATION">Décret n°2006-583 du 23 mai 2006</LIEN>
+<LIEN cidtexte="JORFTEXT000029186451" datesignatexte="2014-06-23" id="LEGIARTI000043747758" naturetexte="ARRETE" nortexte="MENE1414880A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 23 juin 2014 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034675695" datesignatexte="2017-05-10" id="LEGIARTI000034732147" naturetexte="DECRET" nortexte="MENE1710600D" num="2" numtexte="2017-961" sens="cible" typelien="MODIFIE">Décret n°2017-961 du 10 mai 2017 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000043741626" datesignatexte="2021-06-11" id="LEGIARTI000043743679" naturetexte="ARRETE" nortexte="MENE2118362A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 11 juin 2021 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000050830375" datesignatexte="2024-12-13" id="LEGIARTI000050832133" naturetexte="ARRETE" nortexte="MENE2434095A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 décembre 2024 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050962639" datesignatexte="2024-11-26" id="LEGIARTI000050963352" naturetexte="ARRETE" nortexte="MENE2432191A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 novembre 2024 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050988895" datesignatexte="2024-12-13" id="LEGIARTI000050993158" naturetexte="ARRETE" nortexte="MENE2434094A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 décembre 2024 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050988975" datesignatexte="2024-12-13" id="LEGIARTI000050994750" naturetexte="ARRETE" nortexte="MENE2434096A" num="7" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 décembre 2024 - art. 7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051041755" datesignatexte="2024-12-13" id="LEGIARTI000051042232" naturetexte="ARRETE" nortexte="MENE2434097A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 décembre 2024 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051106016" datesignatexte="2024-12-13" id="LEGIARTI000051111863" naturetexte="ARRETE" nortexte="MENE2434063A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 décembre 2024 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051106091" datesignatexte="2024-12-13" id="LEGIARTI000051111946" naturetexte="ARRETE" nortexte="MENE2434064A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 décembre 2024 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051539564" datesignatexte="2025-03-26" id="LEGIARTI000051548620" naturetexte="ARRETE" nortexte="MENE2507350A" num="11" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 mars 2025 - art. 11 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051539383" datesignatexte="2025-03-26" id="LEGIARTI000051548357" naturetexte="ARRETE" nortexte="MENE2507348A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 mars 2025 - art. 6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071191" datesignatexte="2999-01-01" id="LEGIARTI000006526786" naturetexte="CODE" nortexte="" num="D337-2" numtexte="" sens="source" typelien="CITATION">Code de l'éducation - art. D337-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

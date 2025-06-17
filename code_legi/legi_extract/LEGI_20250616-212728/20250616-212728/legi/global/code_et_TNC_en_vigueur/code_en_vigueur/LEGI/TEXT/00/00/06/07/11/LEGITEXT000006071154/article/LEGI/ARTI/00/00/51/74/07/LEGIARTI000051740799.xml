@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051740799</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/07/LEGIARTI000051740799.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>230-54</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-11-16" fin="2999-01-01" id="LEGISCTA000006138091">Titre IV : Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051740797">Chapitre IX : Du recours aux informateurs et de la protection de leur anonymat</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740799" num="230-54" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Afin de constater les crimes ou les délits, d'en rassembler les preuves et d'en rechercher les auteurs, les officiers ou agents de police judiciaire agissant au cours de l'enquête ou sur commission rogatoire peuvent avoir recours à des informateurs. Les informations permettant de déterminer que ces derniers ont concouru à l'enquête ou de les identifier n'apparaissent pas dans la procédure.<br/>
+<br/>
+ Le recueil des renseignements, qu'il ait été sollicité ou non, s'effectue sous la responsabilité de l'autorité hiérarchique et par des agents spécialement formés et dûment habilités.<br/>
+<br/>
+ Un décret détermine les conditions d'application du présent article, notamment les modalités d'évaluation collégiale des informateurs par les services de police et de gendarmerie.<br/>
+<br/>
+ II.-Les relations entre les officiers ou agents de police judiciaire et les informateurs mentionnés au I ne peuvent inciter, de manière à la déterminer, à la commission d'une infraction. Ne constituent pas une incitation à commettre une infraction les relations qui contribuent à la poursuite d'une infraction déjà préparée ou débutée au moment où le recueil a été consenti ou sollicité, y compris en cas de réitération ou d'aggravation de l'infraction initiale.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736712" naturetexte="LOI" nortexte="JUSX2430702L" num="46" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 46</LIEN>
+</LIENS>
+</ARTICLE>

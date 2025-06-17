@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049043628</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/04/36/LEGIARTI000049043628.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L823-3-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2024-01-28</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070158" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'entrée et du séjour des étrangers et du droit d'asile." debut="2005-01-19" fin="2999-01-01" id_txt="LEGITEXT000006070158">Code de l'entrée et du séjour des étrangers et du droit d'asile</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042777625">Partie législative </TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774684">Livre VIII : CONTRÔLES ET SANCTIONS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774594">Titre II : SANCTIONS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774530">Chapitre III : FACILITATION DE L'ENTRÉE, DE LA CIRCULATION ET DU SÉJOUR IRRÉGULIERS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774527">Section 1 : Aide à l'entrée, à la circulation et au séjour irréguliers</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774524">Sous-section 1 : Peines principales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-01-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049043628" num="L823-3-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le fait de diriger ou d'organiser un groupement ayant pour objet la commission des infractions définies aux articles L. 823-1 et L. 823-2 est puni de vingt ans de réclusion criminelle et de 1 500 000 euros d'amende.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000049040245" datesignatexte="2024-01-26" id="LEGIARTI000049043058" naturetexte="LOI" nortexte="IOMV2236472L" num="53" numtexte="2024-42" sens="cible" typelien="CREE">LOI n°2024-42 du 26 janvier 2024 - art. 53</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000049051048" naturetexte="CODE" nortexte="" num="L823-9" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L823-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000042773786" naturetexte="CODE" nortexte="" num="L823-1" numtexte="" sens="source" typelien="CITATION">Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L823-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000042773788" naturetexte="CODE" nortexte="" num="L823-2" numtexte="" sens="source" typelien="CITATION">Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L823-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+</LIENS>
+</ARTICLE>

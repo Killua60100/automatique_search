@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051738525</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/85/LEGIARTI000051738525.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>132-78-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117596">Livre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136038">Titre III : Des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149820">Chapitre II : Du régime des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2999-01-01" id="LEGISCTA000006165269">Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051738525" num="132-78-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsque la personne a bénéficié de l'exemption ou de la réduction de peine mentionnée à l'article 132-78, la décision de condamnation fixe également la durée maximale de l'emprisonnement encouru par le condamné si, au cours d'une durée de dix ans en cas de condamnation pour délit ou de vingt ans en cas de condamnation pour crime, surviennent des éléments nouveaux faisant apparaître le caractère mensonger ou volontairement incomplet des déclarations ou s'il commet un nouveau crime ou délit. La durée de l'emprisonnement encouru, cumulée à la peine d'emprisonnement prononcée, ne peut excéder le maximum légal en l'absence de l'exemption ou de la réduction de peine mentionnée au même article 132-78.<br/>
+<br/>
+ Les conditions dans lesquelles le tribunal de l'application des peines peut décider de l'exécution de tout ou partie de la peine d'emprisonnement sont fixées par le code de procédure pénale.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736676" naturetexte="LOI" nortexte="JUSX2430702L" num="31" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739259" naturetexte="CODE" nortexte="" num="706-63-1 G" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-63-1 G (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740810" naturetexte="CODE" nortexte="" num="706-87-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-87-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGITEXT000006071154" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale</LIEN>
+</LIENS>
+</ARTICLE>

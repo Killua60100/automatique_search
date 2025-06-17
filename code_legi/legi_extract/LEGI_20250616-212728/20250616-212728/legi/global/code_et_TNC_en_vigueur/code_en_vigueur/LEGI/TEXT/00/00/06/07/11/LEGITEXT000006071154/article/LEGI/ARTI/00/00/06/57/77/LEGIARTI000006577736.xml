@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006577736</ID>
+<ANCIEN_ID>PXXXXXXXXXX0706L055AXXAE</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/77/LEGIARTI000006577736.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-55</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2005-12-13</DATE_DEBUT>
+<DATE_FIN>2013-08-07</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-11-16" fin="2999-01-01" id="LEGISCTA000006138132">Titre XX : Du fichier national automatisé des empreintes génétiques</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE_MORT_NE" fin="2001-11-16" id="LEGIARTI000006577732" num="706-55" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006577733" num="706-55" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006577734" num="706-55" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006577735" num="706-55" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2013-08-07" id="LEGIARTI000006577736" num="706-55" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-08-07" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000027813162" num="706-55" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000032654379" num="706-55" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-01-26" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000045071113" num="706-55" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742096" num="706-55" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Le fichier national automatisé des empreintes génétiques centralise les traces et empreintes génétiques concernant les infractions suivantes : <br/>
+<br/>1° Les infractions de nature sexuelle visées à l'article 706-47 du présent code ainsi que le délit prévu par l'article 222-32 du code pénal ; <br/>
+<br/>2° Les crimes contre l'humanité et les crimes et délits d'atteintes volontaires à la vie de la personne, de torture et actes de barbarie, de violences volontaires, de menaces d'atteintes aux personnes, de trafic de stupéfiants, d'atteintes aux libertés de la personne, de traite des êtres humains, de proxénétisme, d'exploitation de la mendicité et de mise en péril des mineurs, prévus par les articles 221-1 à 221-5,222-1 à 222-18,222-34 à 222-40,224-1 à 224-8,225-4-1 à 225-4-4,225-5 à 225-10,225-12-1 à 225-12-3,225-12-5 à 225-12-7 et 227-18 à 227-21 du code pénal ; <br/>
+<br/>3° Les crimes et délits de vols, d'extorsions, d'escroqueries, de destructions, de dégradations, de détériorations et de menaces d'atteintes aux biens prévus par les articles 311-1 à 311-13,312-1 à 312-9,313-2 et 322-1 à 322-14 du code pénal ; <br/>
+<br/>4° Les atteintes aux intérêts fondamentaux de la nation, les actes de terrorisme, la fausse monnaie et l'association de malfaiteurs prévus par les articles 410-1 à 413-12,421-1 à 421-4,442-1 à 442-5 et 450-1 du code pénal ; <br/>
+<br/>5° Les délits prévus par les articles L. 2353-4 et L. 2339-1 à L. 2339-11 du code de la défense ; <br/>
+<br/>6° Les infractions de recel ou de blanchiment du produit de l'une des infractions mentionnées aux 1° à 5°, prévues par les articles 321-1 à 321-7 et 324-1 à 324-6 du code pénal.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance 58-1296 1958-12-23</LIEN>
+<LIEN cidtexte="JORFTEXT000000412199" datesignatexte="2003-03-18" id="LEGIARTI000006528918" naturetexte="LOI" nortexte="INTX0200145L" num="29" numtexte="2003-239" sens="cible" typelien="CREE">Loi n°2003-239 du 18 mars 2003 - art. 29</LIEN>
+<LIEN cidtexte="JORFTEXT000000438704" datesignatexte="2004-05-25" id="LEGIARTI000006231085" naturetexte="DECRET" nortexte="JUSD0430034D" num="13" numtexte="2004-470" sens="cible" typelien="CITATION">Décret n°2004-470 du 25 mai 2004 - art. 13 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000419821" datesignatexte="2005-12-12" id="LEGIARTI000006247286" naturetexte="LOI" nortexte="DEFX0500016L" num="18" numtexte="2005-1550" sens="source" typelien="MODIFICATION">Loi n°2005-1550 du 12 décembre 2005 - art. 18 () JORF 13 décembre 2005</LIEN>
+
+
+
+
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417561" naturetexte="CODE" nortexte="" num="221-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 221-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417593" naturetexte="CODE" nortexte="" num="222-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 222-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417703" naturetexte="CODE" nortexte="" num="222-32" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 222-32 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417713" naturetexte="CODE" nortexte="" num="222-34" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 222-34 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417810" naturetexte="CODE" nortexte="" num="224-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 224-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417878" naturetexte="CODE" nortexte="" num="225-12-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 225-12-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417887" naturetexte="CODE" nortexte="" num="225-12-5" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 225-12-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417840" naturetexte="CODE" nortexte="" num="225-4-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 225-4-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417850" naturetexte="CODE" nortexte="" num="225-5" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 225-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418062" naturetexte="CODE" nortexte="" num="227-18" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 227-18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418127" naturetexte="CODE" nortexte="" num="311-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 311-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418159" naturetexte="CODE" nortexte="" num="312-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 312-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418193" naturetexte="CODE" nortexte="" num="313-2" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 313-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418233" naturetexte="CODE" nortexte="" num="321-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 321-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418258" naturetexte="CODE" nortexte="" num="322-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 322-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418330" naturetexte="CODE" nortexte="" num="324-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 324-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418343" naturetexte="CODE" nortexte="" num="410-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 410-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418424" naturetexte="CODE" nortexte="" num="421-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 421-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418772" naturetexte="CODE" nortexte="" num="442-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 442-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418849" naturetexte="CODE" nortexte="" num="450-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 450-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577738" naturetexte="CODE" nortexte="" num="706-56" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 706-56 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577760" naturetexte="CODE" nortexte="" num="706-64" numtexte="" sens="cible" typelien="CONCORDANCE">CODE DE PROCEDURE PENALE - art. 706-64 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517607" naturetexte="CODE" nortexte="" num="R53-20" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. R53-20 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517610" naturetexte="CODE" nortexte="" num="R53-21" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. R53-21 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577680" naturetexte="CODE" nortexte="" num="706-47" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-47 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044568328" naturetexte="CODE" nortexte="" num="706-54" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-54 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577756" naturetexte="CODE" nortexte="" num="706-56-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-56-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032642502" naturetexte="CODE" nortexte="" num="706-56-1-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-56-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047052930" naturetexte="CODE" nortexte="" num="77-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 77-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044278210" naturetexte="CODE" nortexte="" num="R53-10" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044278202" naturetexte="CODE" nortexte="" num="R53-9" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539988" naturetexte="CODE" nortexte="" num="L2339-1" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2339-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540134" naturetexte="CODE" nortexte="" num="L2353-4" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2353-4 (V)</LIEN>
+</LIENS>
+</ARTICLE>

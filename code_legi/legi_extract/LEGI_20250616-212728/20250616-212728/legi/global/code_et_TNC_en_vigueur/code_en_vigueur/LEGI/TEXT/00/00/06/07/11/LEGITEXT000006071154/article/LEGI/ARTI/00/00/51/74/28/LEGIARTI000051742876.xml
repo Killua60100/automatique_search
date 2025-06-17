@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051742876</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/28/LEGIARTI000051742876.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-96</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006167524">Section 6 : Des sonorisations et des fixations d'images de certains lieux ou véhicules</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311671">Section 6 : Des autres techniques spéciales d'enquête</TITRE_TM>
+<TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038270479">Paragraphe 3 : Des sonorisations et des fixations d'images de certains lieux ou véhicules</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006577811" num="706-96" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2015-08-19" id="LEGIARTI000006577812" num="706-96" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-08-19" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000031052078" num="706-96" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2016-10-01" id="LEGIARTI000032653983" num="706-96" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-10-01" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000032679993" num="706-96" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000038311653" num="706-96" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742876" num="706-96" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>Il peut être recouru à la mise en place d'un dispositif technique ayant pour objet, sans le consentement des intéressés, la captation, la fixation, la transmission et l'enregistrement de paroles prononcées par une ou plusieurs personnes à titre privé ou confidentiel, dans des lieux ou véhicules privés ou publics, ou de l'image d'une ou de plusieurs personnes se trouvant dans un lieu privé.</p>
+<p>Dans le cadre d'une enquête ou d'une information judiciaire relative à l'une des infractions prévues aux 1° à 6° et 11° à 12° de l'article 706-73, au blanchiment des mêmes infractions ou à une association de malfaiteurs qui a pour objet la préparation de l'une desdites infractions, il peut également être recouru, pour les finalités mentionnées au premier alinéa du présent article, à un dispositif permettant l'activation à distance d'un appareil électronique fixe. Cette opération est autorisée par le juge des libertés et de la détention, à la requête du procureur de la République, ou par le juge d'instruction, après avis du procureur de la République. Le procureur de la République ou le juge d'instruction peut désigner toute personne physique ou morale habilitée et inscrite sur l'une des listes prévues à l'article 157 en vue d'effectuer les opérations techniques permettant la mise en œuvre du dispositif mentionné au présent alinéa ; il peut également prescrire le recours aux moyens de l'Etat soumis au secret de la défense nationale, selon les formes prévues au chapitre I<sup>er</sup> du titre IV du livre I<sup>er</sup>.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="JORFTEXT000034475225" datesignatexte="2017-04-24" id="LEGIARTI000038582185" naturetexte="DECRET" nortexte="JUST1710972D" num="2" numtexte="2017-614" sens="cible" typelien="CITATION">Décret n°2017-614 du 24 avril 2017 - art. 2 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000044091805" datesignatexte="2021-09-22" id="LEGITEXT000044092657" naturetexte="DECRET" nortexte="INTC2125955D" num="" numtexte="2021-1217" sens="cible" typelien="CITATION">Décret n°2021-1217 du 22 septembre 2021 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045640630" datesignatexte="2022-04-22" id="LEGITEXT000045643810" naturetexte="DECRET" nortexte="INTJ2122804D" num="" numtexte="2022-623" sens="cible" typelien="CITATION">Décret n°2022-623 du 22 avril 2022 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000048735725" datesignatexte="2023-12-30" id="LEGITEXT000048858173" naturetexte="DECRET" nortexte="JUSD2332513D" num="" numtexte="2023-1395" sens="cible" typelien="CITATION">Décret n°2023-1395 du 30 décembre 2023 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051058698" datesignatexte="2025-01-28" id="LEGITEXT000051060033" naturetexte="DECRET" nortexte="INTJ2401963D" num="" numtexte="2025-79" sens="cible" typelien="CITATION">Décret n°2025-79 du 28 janvier 2025 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736696" naturetexte="LOI" nortexte="JUSX2430702L" num="38" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 38</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575504" naturetexte="CODE" nortexte="" num="100-7" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 100-7</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575030" naturetexte="CODE" nortexte="" num="56-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 56-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575042" naturetexte="CODE" nortexte="" num="59" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 59</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032653959" naturetexte="CODE" nortexte="" num="706-100" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-100 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032653954" naturetexte="CODE" nortexte="" num="706-101" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-101 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032632376" naturetexte="CODE" nortexte="" num="706-101-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-101-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311642" naturetexte="CODE" nortexte="" num="706-96-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-96-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311637" naturetexte="CODE" nortexte="" num="706-97" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-97 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032653972" naturetexte="CODE" nortexte="" num="706-98" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-98 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032632168" naturetexte="CODE" nortexte="" num="706-98-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-98-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032653964" naturetexte="CODE" nortexte="" num="706-99" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-99 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740329" naturetexte="CODE" nortexte="" num="706-99" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-99 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051063267" naturetexte="CODE" nortexte="" num="D15-1-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D15-1-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044318038" naturetexte="CODE" nortexte="" num="R40-43-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-43-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044320944" naturetexte="CODE" nortexte="" num="R40-46" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-46 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048860124" naturetexte="CODE" nortexte="" num="R40-57" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-57 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051739339" naturetexte="CODE" nortexte="" num="67 bis-6" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 bis-6 (V)</LIEN>
+</LIENS>
+</ARTICLE>

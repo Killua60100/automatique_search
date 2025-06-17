@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165379</ID>
+<TITRE_TA>Section 2 : Des entraves à l'exercice de la justice</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418618" num="434-7-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418617" num="434-7-1" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006418619" num="434-7-2" origine="LEGI"/>
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2021-12-24" id="LEGIARTI000006418620" num="434-7-2" origine="LEGI"/>
+<LIEN_ART debut="2021-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044568222" num="434-7-2" origine="LEGI"/>
+<LIEN_ART debut="1992-07-23" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418621" num="434-8" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418622" num="434-8" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2000-07-01" id="LEGIARTI000006418624" num="434-9" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2007-11-14" id="LEGIARTI000006418626" num="434-9" origine="LEGI"/>
+<LIEN_ART debut="2007-11-14" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006418627" num="434-9" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000024041412" num="434-9" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028311935" num="434-9" origine="LEGI"/>
+<LIEN_ART debut="2000-07-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418625" num="434-9" origine="LEGI"/>
+<LIEN_ART debut="2007-11-14" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006418628" num="434-9-1" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000024041408" num="434-9-1" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028311908" num="434-9-1" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2003-06-13" id="LEGIARTI000006418630" num="434-10" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028282725" num="434-9-2" origine="LEGI"/>
+<LIEN_ART debut="2003-06-13" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006418631" num="434-10" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000023718263" num="434-10" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418629" num="434-10" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418633" num="434-11" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418632" num="434-11" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418634" num="434-12" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418635" num="434-12" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418636" num="434-13" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418637" num="434-13" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418639" num="434-14" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418638" num="434-14" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418640" num="434-15" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418641" num="434-15" origine="LEGI"/>
+<LIEN_ART debut="2000-12-31" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418643" num="434-15-1" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="MODIFIE_MORT_NE" fin="2000-12-31" id="LEGIARTI000006418642" num="434-15-1" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2002-09-10" id="LEGIARTI000006418644" num="434-15-1" origine="LEGI"/>
+<LIEN_ART debut="2002-09-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418645" num="434-15-1" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006418646" num="434-15-2" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032654251" num="434-15-2" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418648" num="434-16" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418649" num="434-16" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418651" num="434-17" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418650" num="434-17" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418652" num="434-18" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418653" num="434-18" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418654" num="434-19" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418656" num="434-20" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418655" num="434-20" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418657" num="434-21" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418658" num="434-22" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418659" num="434-22" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418661" num="434-23" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418660" num="434-23" origine="LEGI"/>
+<LIEN_ART debut="2010-08-11" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000022686374" num="434-23-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006136046">Titre III : Des atteintes à l'autorité de l'Etat</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006149850">Chapitre IV : Des atteintes à l'action de justice</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

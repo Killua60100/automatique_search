@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006095882</ID>
+<TITRE_TA>Chapitre II : La Commission nationale de l'informatique et des libertés</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528068" num="6" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528070" num="7" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528072" num="8" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528074" num="9" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="1999-07-28" id="LEGIARTI000006528076" num="10" origine="LEGI"/>
+<LIEN_ART debut="1999-07-28" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528077" num="10" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528079" num="11" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528084" num="12" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528081" num="13" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000886460" date_publi="1978-01-07" date_signature="1978-01-06" ministere="" nature="LOI" nor="" num="78-17" num_parution_jo="">
+<TITRE_TXT c_titre_court="LOI n° 78-17 du 6 janvier 1978" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000886460">LOI n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 78-17 du 6 janvier 1978" debut="1978-01-07" fin="2999-01-01" id_txt="LEGITEXT000006068624">Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

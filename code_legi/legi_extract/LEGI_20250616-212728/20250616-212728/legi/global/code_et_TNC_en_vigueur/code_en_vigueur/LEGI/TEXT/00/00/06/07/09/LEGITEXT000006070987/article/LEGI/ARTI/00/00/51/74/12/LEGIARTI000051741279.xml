@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051741279</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/12/LEGIARTI000051741279.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L34-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070987" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des postes et des communications électroniques" debut="1962-03-14" fin="2999-01-01" id_txt="LEGITEXT000006070987">Code des postes et des communications électroniques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1962-03-14" fin="2999-01-01" id="LEGISCTA000006092423">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-27" fin="2999-01-01" id="LEGISCTA000006118605">LIVRE II : Les communications électroniques</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-27" fin="2999-01-01" id="LEGISCTA000006136631">TITRE Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-06-22" fin="2999-01-01" id="LEGISCTA000006150659">Chapitre II : Régime juridique.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-07-10" fin="2999-01-01" id="LEGISCTA000006165910">Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465770" num="L34-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1996-07-27" etat="MODIFIE" fin="2001-07-28" id="LEGIARTI000006465771" num="L34-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2001-07-28" etat="ABROGE" fin="2004-07-10" id="LEGIARTI000006465772" num="L34-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006465773" num="L34-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2009-06-14" id="LEGIARTI000006465774" num="L34-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-06-14" etat="MODIFIE" fin="2011-08-27" id="LEGIARTI000020740388" num="L34-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-08-27" etat="MODIFIE" fin="2013-12-20" id="LEGIARTI000024506075" num="L34-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-12-20" etat="MODIFIE" fin="2021-07-31" id="LEGIARTI000028345210" num="L34-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-07-31" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000043887545" num="L34-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741279" num="L34-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I. – Le présent article s'applique au traitement des données à caractère personnel dans le cadre de la fourniture au public de services de communications électroniques ; il s'applique notamment aux réseaux qui prennent en charge les dispositifs de collecte de données et d'identification.</p>
+<p>II. – Les opérateurs de communications électroniques, et notamment les personnes dont l'activité est d'offrir un accès à des services de communication au public en ligne, effacent ou rendent anonymes, sous réserve des II bis à VI, les données relatives aux communications électroniques.</p>
+<p>Les personnes qui fournissent au public des services de communications électroniques établissent, dans le respect des dispositions de l'alinéa précédent, des procédures internes permettant de répondre aux demandes des autorités compétentes .</p>
+<p>Les personnes qui, au titre d'une activité professionnelle principale ou accessoire, offrent au public une connexion permettant une communication en ligne par l'intermédiaire d'un accès au réseau, y compris à titre gratuit, sont soumises au respect des dispositions applicables aux opérateurs de communications électroniques en vertu du présent article.</p>
+<p>II bis.-Les opérateurs de communications électroniques sont tenus de conserver :<br/>
+<br/>
+1° Pour les besoins des procédures pénales, de la prévention des menaces contre la sécurité publique et de la sauvegarde de la sécurité nationale, les informations relatives à l'identité civile de l'utilisateur, jusqu'à l'expiration d'un délai de cinq ans à compter de la fin de validité de son contrat ou de son service de communications interpersonnelles avec prépaiement. Un décret en Conseil d'Etat détermine les conditions dans lesquelles les opérateurs vérifient les données relatives à l'identité civile ainsi que les services de l'Etat qui ne sont pas soumis à cette vérification ;<br/>
+<br/>
+2° Pour les mêmes finalités que celles énoncées au 1° du présent II bis, les autres informations fournies par l'utilisateur lors de la souscription d'un contrat ou de la création d'un compte ainsi que les informations relatives au paiement, jusqu'à l'expiration d'un délai d'un an à compter de la fin de validité de son contrat ou de la clôture de son compte ;<br/>
+<br/>
+3° Pour les besoins de la lutte contre la criminalité et la délinquance grave, de la prévention des menaces graves contre la sécurité publique et de la sauvegarde de la sécurité nationale, les données techniques permettant d'identifier la source de la connexion ou celles relatives aux équipements terminaux utilisés, jusqu'à l'expiration d'un délai d'un an à compter de la connexion ou de l'utilisation des équipements terminaux.</p>
+<p>III.-Pour des motifs tenant à la sauvegarde de la sécurité nationale, lorsqu'est constatée une menace grave, actuelle ou prévisible, contre cette dernière, le Premier ministre peut enjoindre par décret aux opérateurs de communications électroniques de conserver, pour une durée d'un an, certaines catégories de données de trafic, en complément de celles mentionnées au 3° du II bis, et de données de localisation précisées par décret en Conseil d'Etat.<br/>
+<br/>
+L'injonction du Premier ministre, dont la durée d'application ne peut excéder un an, peut être renouvelée si les conditions prévues pour son édiction continuent d'être réunies. Son expiration est sans incidence sur la durée de conservation des données mentionnées au premier alinéa du présent III.</p>
+<p>III bis.-Les données conservées par les opérateurs en application du présent article peuvent faire l'objet d'une injonction de conservation rapide par les autorités disposant, en application de la loi, d'un accès aux données relatives aux communications électroniques à des fins de prévention et de répression de la criminalité, de la délinquance grave et des autres manquements graves aux règles dont elles ont la charge d'assurer le respect, afin d'accéder à ces données.</p>
+<p>IV. – Pour les besoins de la facturation et du paiement des prestations de communications électroniques, les opérateurs peuvent, jusqu'à la fin de la période au cours de laquelle la facture peut être légalement contestée ou des poursuites engagées pour en obtenir le paiement, utiliser, conserver et, le cas échéant, transmettre à des tiers concernés directement par la facturation ou le recouvrement les catégories de données techniques qui sont déterminées, dans les limites fixées par le VI, selon l'activité des opérateurs et la nature de la communication, par décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.</p>
+<p>Les opérateurs peuvent en outre réaliser un traitement des données relatives au trafic en vue de commercialiser leurs propres services de communications électroniques ou de fournir des services à valeur ajoutée, si les abonnés y consentent expressément et pour une durée déterminée. Cette durée ne peut, en aucun cas, être supérieure à la période nécessaire pour la fourniture ou la commercialisation de ces services. Ils peuvent également conserver certaines données en vue d'assurer la sécurité de leurs réseaux.</p>
+<p>V. – Sans préjudice des dispositions du III et du IV, les données permettant de localiser l'équipement terminal de l'utilisateur ne peuvent ni être utilisées pendant la communication à des fins autres que son acheminement, ni être conservées et traitées après l'achèvement de la communication que moyennant le consentement de l'abonné, dûment informé des catégories de données en cause, de la durée du traitement, de ses fins et du fait que ces données seront ou non transmises à des fournisseurs de services tiers. L'abonné peut retirer à tout moment et gratuitement, hormis les coûts liés à la transmission du retrait, son consentement. L'utilisateur peut suspendre le consentement donné, par un moyen simple et gratuit, hormis les coûts liés à la transmission de cette suspension. Tout appel destiné à un service d'urgence vaut consentement de l'utilisateur jusqu'à l'aboutissement de l'opération de secours qu'il déclenche et seulement pour en permettre la réalisation.</p>
+<p>VI. – Les données conservées et traitées dans les conditions définies aux II bis à V portent exclusivement sur l'identification des personnes utilisatrices des services fournis par les opérateurs, sur les caractéristiques techniques des communications assurées par ces derniers et sur la localisation des équipements terminaux.</p>
+<p>Elles ne peuvent en aucun cas porter sur le contenu des correspondances échangées ou des informations consultées, sous quelque forme que ce soit, dans le cadre de ces communications.</p>
+<p>Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés et de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse, détermine, selon l'activité des opérateurs et la nature des communications, les informations et catégories de données conservées en application des II bis et III ainsi que les modalités de compensation des surcoûts identifiables et spécifiques des prestations assurées à ce titre, à la demande de l'Etat, par les opérateurs.</p>
+<p>La conservation et le traitement de ces données s'effectuent dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.</p>
+<p>Les opérateurs prennent toutes mesures pour empêcher une utilisation de ces données à des fins autres que celles prévues au présent article.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000886460" datesignatexte="1978-01-06" id="JORFTEXT000000886460" naturetexte="LOI" nortexte="" num="" numtexte="78-17" sens="source" typelien="CITATION">LOI n° 78-17 du 6 janvier 1978</LIEN>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000049577522" naturetexte="LOI" nortexte="ECOX0200175L" num="6" numtexte="2004-575" sens="cible" typelien="CITATION">Loi n° 2004-575 du 21 juin 2004 - art. 6</LIEN>
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000021923996" datesignatexte="2010-03-05" id="LEGIARTI000044813167" naturetexte="DECRET" nortexte="MCCB1004830D" num="" numtexte="2010-236" sens="cible" typelien="CITATION">Décret n°2010-236 du 5 mars 2010 - art. (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000025623161" datesignatexte="2012-03-26" id="LEGIARTI000028053181" naturetexte="ARRETE" nortexte="INDZ1209002A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 mars 2012 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000025623161" datesignatexte="2012-03-26" id="LEGIARTI000025623798" naturetexte="ARRETE" nortexte="INDZ1209002A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 mars 2012 - art. 2 (Ab)</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000032164264" datesignatexte="2016-03-07" id="LEGIARTI000032165677" naturetexte="LOI" nortexte="INTX1412529L" num="48" numtexte="2016-274" sens="cible" typelien="CITATION">LOI n°2016-274 du 7 mars 2016 - art. 48</LIEN>
+<LIEN cidtexte="JORFTEXT000032627231" datesignatexte="2016-06-03" id="LEGIARTI000032631175" naturetexte="LOI" nortexte="JUSD1532276L" num="14" numtexte="2016-731" sens="cible" typelien="CITATION">LOI n°2016-731 du 3 juin 2016 - art. 14</LIEN>
+<LIEN cidtexte="JORFTEXT000034165676" datesignatexte="2017-03-09" id="LEGIARTI000034167857" naturetexte="DECRET" nortexte="MCCB1633545D" num="1" numtexte="2017-313" sens="cible" typelien="CITATION">Décret n°2017-313 du 9 mars 2017 - art. 1</LIEN>
+
+
+
+
+
+
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code des postes et télécommunications L32-3-1</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000044228877" datesignatexte="2021-10-20" id="LEGITEXT000044229882" naturetexte="DECRET" nortexte="PRMD2127500D" num="" numtexte="2021-1361" sens="cible" typelien="CITATION">Décret n°2021-1361 du 20 octobre 2021 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000044228912" datesignatexte="2021-10-20" id="LEGIARTI000044230079" naturetexte="DECRET" nortexte="PRMD2127502D" num="1" numtexte="2021-1362" sens="cible" typelien="CITATION">Décret n°2021-1362 du 20 octobre 2021 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000044228912" datesignatexte="2021-10-20" id="LEGIARTI000044230081" naturetexte="DECRET" nortexte="PRMD2127502D" num="2" numtexte="2021-1362" sens="cible" typelien="CITATION">Décret n°2021-1362 du 20 octobre 2021 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000044228912" datesignatexte="2021-10-20" id="LEGIARTI000044230083" naturetexte="DECRET" nortexte="PRMD2127502D" num="3" numtexte="2021-1362" sens="cible" typelien="CITATION">Décret n°2021-1362 du 20 octobre 2021 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000044228912" datesignatexte="2021-10-20" id="LEGIARTI000044230085" naturetexte="DECRET" nortexte="PRMD2127502D" num="4" numtexte="2021-1362" sens="cible" typelien="CITATION">Décret n°2021-1362 du 20 octobre 2021 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000044228912" datesignatexte="2021-10-20" id="LEGIARTI000044230063" naturetexte="DECRET" nortexte="PRMD2127502D" num="5" numtexte="2021-1362" sens="cible" typelien="CITATION">Décret n°2021-1362 du 20 octobre 2021 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000044228912" datesignatexte="2021-10-20" id="LEGIARTI000044230065" naturetexte="DECRET" nortexte="PRMD2127502D" num="6" numtexte="2021-1362" sens="cible" typelien="CITATION">Décret n°2021-1362 du 20 octobre 2021 - art. 6 (V)</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000045374196" datesignatexte="2022-03-15" id="LEGIARTI000046112081" naturetexte="DECISION" nortexte="AMFP2208643S" num="1" numtexte="745" sens="cible" typelien="CITATION">Décision n°745 du 15 mars 2022 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045593640" datesignatexte="2022-04-13" id="LEGIARTI000046112301" naturetexte="DECISION" nortexte="AMFP2211755S" num="1" numtexte="752" sens="cible" typelien="CITATION">Décision n°752 du 13 avril 2022 - art. 1 (V)</LIEN>
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000050048815" datesignatexte="2024-07-17" id="LEGITEXT000050049461" naturetexte="ARRETE" nortexte="PRMD2420156A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 17 juillet 2024 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736694" naturetexte="LOI" nortexte="JUSX2430702L" num="29" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 29</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000022295349" naturetexte="CODE" nortexte="" num="R15-33-68" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. R15-33-68 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000038538849" naturetexte="CODE" nortexte="" num="L450-3-3" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L450-3-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071360" datesignatexte="2999-01-01" id="LEGIARTI000029180739" naturetexte="CODE" nortexte="" num="D269-4" numtexte="" sens="cible" typelien="CITATION">Code de justice militaire. - art. D269-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000037825301" naturetexte="CODE" nortexte="" num="L611-12" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L611-12 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000047922713" naturetexte="CODE" nortexte="" num="L2321-3" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2321-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000036464916" naturetexte="CODE" nortexte="" num="R1334-2" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. R1334-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069414" datesignatexte="2999-01-01" id="LEGIARTI000044259196" naturetexte="CODE" nortexte="" num="L331-21" numtexte="" sens="cible" typelien="CITATION">Code de la propriété intellectuelle - art. L331-21 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069414" datesignatexte="2999-01-01" id="LEGIARTI000027684560" naturetexte="CODE" nortexte="" num="R331-37" numtexte="" sens="cible" typelien="CITATION">Code de la propriété intellectuelle - art. R331-37 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069414" datesignatexte="2999-01-01" id="LEGIARTI000034167883" naturetexte="CODE" nortexte="" num="R331-37-1" numtexte="" sens="cible" typelien="CITATION">Code de la propriété intellectuelle - art. R331-37-1 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505376" naturetexte="CODE" nortexte="" num="L243-12" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L243-12 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000028342288" naturetexte="CODE" nortexte="" num="L246-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L246-1 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000033912415" naturetexte="CODE" nortexte="" num="L832-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L832-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935595" naturetexte="CODE" nortexte="" num="L851-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L851-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030937676" naturetexte="CODE" nortexte="" num="L871-4" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L871-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045289397" naturetexte="CODE" nortexte="" num="60-1-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 60-1-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032654214" naturetexte="CODE" nortexte="" num="727-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 727-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044231140" naturetexte="CODE" nortexte="" num="R213-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R213-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049403697" naturetexte="CODE" nortexte="" num="R92" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R92 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051217035" naturetexte="CODE" nortexte="" num="65" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 65 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000042780025" naturetexte="CODE" nortexte="" num="65 quinquies" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 65 quinquies (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000047922694" naturetexte="CODE" nortexte="" num="L33-14" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L33-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000043887886" naturetexte="CODE" nortexte="" num="L34-4" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L34-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000051741273" naturetexte="CODE" nortexte="" num="L39-3" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L39-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000025622786" naturetexte="CODE" nortexte="" num="R10-12" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. R10-12 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000044231067" naturetexte="CODE" nortexte="" num="R10-13" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. R10-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000030407404" naturetexte="CODE" nortexte="" num="R10-13-1" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. R10-13-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000044231091" naturetexte="CODE" nortexte="" num="R10-14" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. R10-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000025622776" naturetexte="CODE" nortexte="" num="R10-19" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. R10-19 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000025622771" naturetexte="CODE" nortexte="" num="R10-21" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. R10-21 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006464661" naturetexte="CODE" nortexte="" num="D370" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. D370 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006463963" naturetexte="CODE" nortexte="" num="D97-2" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. D97-2 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006463971" naturetexte="CODE" nortexte="" num="D98-1" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. D98-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006463976" naturetexte="CODE" nortexte="" num="D98-2" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. D98-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006464064" naturetexte="CODE" nortexte="" num="D98-2-1" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. D98-2-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006463984" naturetexte="CODE" nortexte="" num="D99-6" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. D99-6 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006465731" naturetexte="CODE" nortexte="" num="L32-3-1" numtexte="" sens="cible" typelien="CONCORDE">Code des postes et des communications électronique - art. L32-3-1 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006466250" naturetexte="CODE" nortexte="" num="R20-40" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. R20-40 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006466335" naturetexte="CODE" nortexte="" num="R9-10" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. R9-10 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006466337" naturetexte="CODE" nortexte="" num="R9-11" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. R9-11 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006466326" naturetexte="CODE" nortexte="" num="R9-5" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. R9-5 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006466327" naturetexte="CODE" nortexte="" num="R9-6" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. R9-6 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006466329" naturetexte="CODE" nortexte="" num="R9-7" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. R9-7 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006466331" naturetexte="CODE" nortexte="" num="R9-8" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. R9-8 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006466333" naturetexte="CODE" nortexte="" num="R9-9" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électronique - art. R9-9 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000037379708" naturetexte="CODE" nortexte="" num="L8113-5-2" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8113-5-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000027782564" naturetexte="CODE" nortexte="" num="L621-10" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L621-10 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000050370777" naturetexte="CODE" nortexte="" num="L621-10-2" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L621-10-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000037526288" naturetexte="CODE" nortexte="" num="L83" numtexte="" sens="cible" typelien="CITATION">Livre des procédures fiscales - art. L83 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000044981353" naturetexte="CODE" nortexte="" num="L96 G" numtexte="" sens="cible" typelien="CITATION">Livre des procédures fiscales - art. L96 G (V)</LIEN>
+</LIENS>
+</ARTICLE>

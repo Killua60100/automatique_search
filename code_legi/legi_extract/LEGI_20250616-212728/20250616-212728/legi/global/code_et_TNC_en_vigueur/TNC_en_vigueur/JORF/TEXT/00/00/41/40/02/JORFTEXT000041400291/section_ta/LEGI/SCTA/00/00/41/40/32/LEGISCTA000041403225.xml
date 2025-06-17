@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000041403225</ID>
+<TITRE_TA>Annexes</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2020-01-16" etat="MODIFIE" fin="2021-01-27" id="LEGIARTI000041403227" num="Annexe 1" origine="LEGI"/>
+<LIEN_ART debut="2021-01-27" etat="MODIFIE" fin="2021-07-10" id="LEGIARTI000043052020" num="Annexe 1" origine="LEGI"/>
+<LIEN_ART debut="2021-07-10" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000043774295" num="Annexe 1" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="MODIFIE_MORT_NE" fin="2022-12-31" id="LEGIARTI000046589773" num="Annexe 1" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="MODIFIE" fin="2023-06-01" id="LEGIARTI000047082988" num="Annexe 1" origine="LEGI"/>
+<LIEN_ART debut="2023-06-01" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000047612179" num="Annexe 1" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048860044" num="Annexe 1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-26" etat="MODIFIE" fin="2022-11-24" id="LEGIARTI000043418797" num="Annexe 2" origine="LEGI"/>
+<LIEN_ART debut="2022-11-24" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000046589777" num="Annexe 2" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048860050" num="Annexe 2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000041400291" date_publi="2020-01-15" date_signature="2020-01-14" ministere="Ministère de la cohésion des territoires et des relations avec les collectivités territoriales Ville et logement" nature="DECRET" nor="LOGL1935489D" num="2020-26" num_parution_jo="0012">
+<TITRE_TXT c_titre_court="Décret n°2020-26 du 14 janvier 2020" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000041400291">Décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°2020-26 du 14 janvier 2020" debut="2020-01-16" fin="2999-01-01" id_txt="LEGITEXT000041403207">Décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000037114558</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/37/11/45/LEGIARTI000037114558.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-106</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2016-06-05</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-06-05" fin="2999-01-01" id="LEGISCTA000032632255">Section 9 : Dispositions spécifiques à certaines infractions</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2004-10-01" etat="ABROGE" fin="2014-06-02" id="LEGIARTI000006577822" num="706-106" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000037114558" num="706-106" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742649" num="706-106" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Sans préjudice des articles 706-81 à 706-87 et aux seules fins de constater les infractions mentionnées au 12° de l'article 706-73, d'en identifier les auteurs et les complices et d'effectuer les saisies prévues au présent code, les officiers de police judiciaire et les agents de police judiciaire placés sous leur autorité peuvent, avec l'autorisation du procureur de la République ou du juge d'instruction saisi des faits qui en avise préalablement le parquet, sans être pénalement responsables de ces actes : </p>
+<p>1° Acquérir des armes ou leurs éléments, des munitions ou des explosifs ; </p>
+<p>2° En vue de l'acquisition d'armes ou de leurs éléments, de munitions ou d'explosifs, mettre à la disposition des personnes se livrant à ces infractions des moyens de caractère juridique ou financier ainsi que des moyens de transport, de dépôt, d'hébergement, de conservation et de télécommunication. </p>
+<p>A peine de nullité, l'autorisation du procureur de la République ou du juge d'instruction, qui peut être donnée par tout moyen, est mentionnée ou versée au dossier de la procédure et les actes autorisés ne peuvent constituer une incitation à commettre une infraction.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="JORFTEXT000032627231" datesignatexte="2016-06-03" id="LEGIARTI000032631203" naturetexte="LOI" nortexte="JUSD1532276L" num="25" numtexte="2016-731" sens="cible" typelien="MODIFIE">LOI n° 2016-731 du 3 juin 2016 - art. 25</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577529" naturetexte="CODE" nortexte="" num="706-1-3" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 706-1-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577794" naturetexte="CODE" nortexte="" num="706-81" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-81 (V)</LIEN>
+</LIENS>
+</ARTICLE>

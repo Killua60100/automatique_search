@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000027806741</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/27/80/67/LEGIARTI000027806741.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000027805521" date_publi="2013-08-06" date_signature="2013-08-05" ministere="" nature="LOI" nor="JUSX1300230L" num="2013-711" num_parution_jo="0181">
+<TITRE_TXT c_titre_court="LOI n° 2013-711 du 5 août 2013" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000027805521">LOI n° 2013-711 du 5 août 2013 portant diverses dispositions d'adaptation dans le domaine de la justice en application du droit de l'Union européenne et des engagements internationaux de la France </TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2013-711&#10; du 5 août 2013" debut="2013-08-07" fin="2999-01-01" id_txt="LEGITEXT000027806720">LOI n° 2013-711 du 5 août 2013 portant diverses dispositions d'adaptation dans le domaine de la justice en application du droit de l'Union européenne et des engagements internationaux de la France (1)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2013-08-07" fin="2999-01-01" id="LEGISCTA000027806723">Chapitre II : Dispositions relatives à la réduction en esclavage  et à l'exploitation de personnes réduites en esclavage</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000027806741" num="3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000027805563" num="3" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>A modifié les dispositions suivantes :<blockquote>- Code pénal<blockquote>  Sct. Section 1 bis : De l'enlèvement et de la séquestration.,   Art. 224-1,   Art. 224-2,   Art. 224-3,   Art. 224-4,   Art. 224-5,   Art. 224-5-1,   Art. 224-5-2,   Sct. Section 1 :De la réduction en esclavage et de l'exploitation de personnes réduites en esclavage.   .,   Art. 224-1 A,   Art. 224-1 B,   Art. 224-1 C,   Art. 224-9,   Art. 224-10
+</blockquote>
+</blockquote>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGISCTA000027811071" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="MODIFIE">Code pénal -  Section 1 : De la réduction en esclavage et de ... (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGISCTA000027807008" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CREE">Code pénal -  Section 1 bis : De l'enlèvement et de la séques... (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811104" naturetexte="CODE" nortexte="" num="224-1" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 224-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027807070" naturetexte="CODE" nortexte="" num="224-1 A" numtexte="" sens="source" typelien="CREE">Code pénal - art. 224-1 A (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027807085" naturetexte="CODE" nortexte="" num="224-1 B" numtexte="" sens="source" typelien="CREE">Code pénal - art. 224-1 B (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027807093" naturetexte="CODE" nortexte="" num="224-1 C" numtexte="" sens="source" typelien="CREE">Code pénal - art. 224-1 C (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811049" naturetexte="CODE" nortexte="" num="224-10" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 224-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811099" naturetexte="CODE" nortexte="" num="224-2" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 224-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811093" naturetexte="CODE" nortexte="" num="224-3" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 224-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811087" naturetexte="CODE" nortexte="" num="224-4" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 224-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811082" naturetexte="CODE" nortexte="" num="224-5" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 224-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811079" naturetexte="CODE" nortexte="" num="224-5-1" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 224-5-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811073" naturetexte="CODE" nortexte="" num="224-5-2" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 224-5-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811053" naturetexte="CODE" nortexte="" num="224-9" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 224-9 (V)</LIEN>
+</LIENS>
+</ARTICLE>

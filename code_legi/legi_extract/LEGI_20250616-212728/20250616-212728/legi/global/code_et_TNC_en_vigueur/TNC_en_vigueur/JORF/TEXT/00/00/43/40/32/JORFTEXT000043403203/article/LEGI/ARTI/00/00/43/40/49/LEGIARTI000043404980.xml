@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000043404980</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/43/40/49/LEGIARTI000043404980.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000043403203" date_publi="2021-04-22" date_signature="2021-04-21" ministere="" nature="LOI" nor="JUSX2103172L" num="2021-478" num_parution_jo="0095">
+<TITRE_TXT c_titre_court="LOI n°2021-478 du 21 avril 2021" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000043403203">LOI n° 2021-478 du 21 avril 2021 visant à protéger les mineurs des crimes et délits sexuels et de l'inceste (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2021-478 du 21 avril 2021" debut="2021-04-23" fin="2999-01-01" id_txt="LEGITEXT000043404965">LOI n° 2021-478 du 21 avril 2021 visant à protéger les mineurs des crimes et délits sexuels et de l'inceste (1)</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043404980" num="4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000043403207" num="4" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>A créé les dispositions suivantes :<blockquote>- Code pénal<blockquote>
+  Sct. Paragraphe 1 : De la mise en péril de la santé et de la moralité des mineurs,   Sct. Paragraphe 2 : Des infractions sexuelles commises contre les mineurs,   Art. 227-21-1
+</blockquote>
+</blockquote>
+<br/>
+<br/>A modifié les dispositions suivantes :<blockquote>- Code pénal<blockquote>
+  Art. 227-15,   Art. 227-16,   Art. 227-17,   Art. 227-17-1,   Art. 227-17-2,   Art. 227-18,   Art. 227-18-1,   Art. 227-19,   Art. 227-21,   Art. 227-22-2,   Art. 227-22,   Art. 227-22-1,   Art. 227-23,   Art. 227-23-1,   Art. 227-24,   Art. 227-24-1,   Art. 227-25,   Art. 227-26,   Art. 227-27,   Art. 227-27-1,   Art. 227-27-2,   Art. 227-27-2-1,   Art. 227-27-3,   Art. 227-28,   Art. 227-28-1,   Art. 227-28-3
+</blockquote>
+</blockquote>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGISCTA000043405082" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CREE">Code pénal -  Paragraphe 1 : De la mise en péril de la santé ... (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGISCTA000043405084" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CREE">Code pénal -  Paragraphe 2 : Des infractions sexuelles commis... (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409247" naturetexte="CODE" nortexte="" num="227-15" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-15 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409241" naturetexte="CODE" nortexte="" num="227-16" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-16 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409233" naturetexte="CODE" nortexte="" num="227-17" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-17 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409222" naturetexte="CODE" nortexte="" num="227-17-1" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-17-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409211" naturetexte="CODE" nortexte="" num="227-17-2" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-17-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409203" naturetexte="CODE" nortexte="" num="227-18" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409198" naturetexte="CODE" nortexte="" num="227-18-1" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-18-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409193" naturetexte="CODE" nortexte="" num="227-19" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-19 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409186" naturetexte="CODE" nortexte="" num="227-21" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-21 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043405086" naturetexte="CODE" nortexte="" num="227-21-1" numtexte="" sens="source" typelien="CREE">Code pénal - art. 227-21-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409063" naturetexte="CODE" nortexte="" num="227-22" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409180" naturetexte="CODE" nortexte="" num="227-22-1" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-22-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043405753" naturetexte="CODE" nortexte="" num="227-22-2" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-22-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409170" naturetexte="CODE" nortexte="" num="227-23" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043405758" naturetexte="CODE" nortexte="" num="227-23-1" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-23-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409165" naturetexte="CODE" nortexte="" num="227-24" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-24 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409162" naturetexte="CODE" nortexte="" num="227-24-1" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-24-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409095" naturetexte="CODE" nortexte="" num="227-25" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 227-25 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409090" naturetexte="CODE" nortexte="" num="227-26" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 227-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409082" naturetexte="CODE" nortexte="" num="227-27" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 227-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409149" naturetexte="CODE" nortexte="" num="227-27-1" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-27-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409144" naturetexte="CODE" nortexte="" num="227-27-2" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-27-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409076" naturetexte="CODE" nortexte="" num="227-27-2-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 227-27-2-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409137" naturetexte="CODE" nortexte="" num="227-27-3" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-27-3 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409127" naturetexte="CODE" nortexte="" num="227-28" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-28 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409116" naturetexte="CODE" nortexte="" num="227-28-1" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-28-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409101" naturetexte="CODE" nortexte="" num="227-28-3" numtexte="" sens="source" typelien="DEPLACE">Code pénal - art. 227-28-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

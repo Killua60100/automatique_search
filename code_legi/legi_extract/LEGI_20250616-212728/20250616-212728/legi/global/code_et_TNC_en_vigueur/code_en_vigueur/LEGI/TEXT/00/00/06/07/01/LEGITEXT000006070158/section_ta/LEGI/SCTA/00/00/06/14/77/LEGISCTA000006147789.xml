@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006147789</ID>
+<TITRE_TA>Chapitre II : Aide à l'entrée et au séjour irréguliers</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2005-03-01" etat="MODIFIE" fin="2013-01-02" id="LEGIARTI000006335286" num="L622-1" origine="LEGI"/>
+<LIEN_ART debut="2013-01-02" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000026911205" num="L622-1" origine="LEGI"/>
+<LIEN_ART debut="2005-03-01" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006335287" num="L622-2" origine="LEGI"/>
+<LIEN_ART debut="2005-03-01" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006335288" num="L622-3" origine="LEGI"/>
+<LIEN_ART debut="2005-03-01" etat="MODIFIE" fin="2006-07-25" id="LEGIARTI000006335289" num="L622-4" origine="LEGI"/>
+<LIEN_ART debut="2006-07-25" etat="MODIFIE" fin="2011-06-18" id="LEGIARTI000006335290" num="L622-4" origine="LEGI"/>
+<LIEN_ART debut="2011-06-18" etat="MODIFIE" fin="2013-01-02" id="LEGIARTI000024197889" num="L622-4" origine="LEGI"/>
+<LIEN_ART debut="2013-01-02" etat="MODIFIE" fin="2018-09-12" id="LEGIARTI000026911210" num="L622-4" origine="LEGI"/>
+<LIEN_ART debut="2018-12-01" etat="MODIFIE_MORT_NE" fin="2018-09-12" id="LEGIARTI000037164281" num="L622-4" origine="LEGI"/>
+<LIEN_ART debut="2018-09-12" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000037398912" num="L622-4" origine="LEGI"/>
+<LIEN_ART debut="2005-03-01" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006335291" num="L622-5" origine="LEGI"/>
+<LIEN_ART debut="2005-03-01" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006335292" num="L622-6" origine="LEGI"/>
+<LIEN_ART debut="2005-03-01" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006335293" num="L622-7" origine="LEGI"/>
+<LIEN_ART debut="2005-03-01" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006335294" num="L622-8" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000020631881" num="L622-8" origine="LEGI"/>
+<LIEN_ART debut="2005-03-01" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006335295" num="L622-9" origine="LEGI"/>
+<LIEN_ART debut="2006-07-25" etat="MODIFIE" fin="2011-06-18" id="LEGIARTI000006335296" num="L622-10" origine="LEGI"/>
+<LIEN_ART debut="2011-06-18" etat="MODIFIE" fin="2016-03-09" id="LEGIARTI000024197979" num="L622-10" origine="LEGI"/>
+<LIEN_ART debut="2016-03-09" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000032172078" num="L622-10" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070158" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'entrée et du séjour des étrangers et du droit d'asile." debut="2005-01-19" fin="2999-01-01" id_txt="LEGITEXT000006070158">Code de l'entrée et du séjour des étrangers et du droit d'asile</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2005-01-19" fin="2021-05-01" id="LEGISCTA000006085121">Partie législative ancienne</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-01-19" fin="2021-05-01" id="LEGISCTA000006115068">LIVRE VI : CONTRÔLES ET SANCTIONS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-01-19" fin="2021-05-01" id="LEGISCTA000006134418">TITRE II : SANCTIONS</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

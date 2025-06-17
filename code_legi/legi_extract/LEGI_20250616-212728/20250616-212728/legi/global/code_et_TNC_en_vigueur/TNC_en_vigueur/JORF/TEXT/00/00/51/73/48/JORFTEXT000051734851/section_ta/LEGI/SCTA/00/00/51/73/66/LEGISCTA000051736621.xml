@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000051736621</ID>
+<TITRE_TA>Titre III : RENFORCEMENT DU RENSEIGNEMENT ADMINISTRATIF EN MATIÈRE DE LUTTE CONTRE LE NARCOTRAFIC</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000051736650" num="13" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000051736652" num="14" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051736668" num="15" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000051736670" num="16" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000051736672" num="17" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000051734851" date_publi="2025-06-14" date_signature="2025-06-13" ministere="" nature="LOI" nor="JUSX2430702L" num="2025-532" num_parution_jo="0137">
+<TITRE_TXT c_titre_court="LOI n°2025-532 du 13 juin 2025" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000051734851">LOI n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2025-532 du 13 juin 2025" debut="2025-06-15" fin="2999-01-01" id_txt="LEGITEXT000051736616">LOI n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic (1)</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

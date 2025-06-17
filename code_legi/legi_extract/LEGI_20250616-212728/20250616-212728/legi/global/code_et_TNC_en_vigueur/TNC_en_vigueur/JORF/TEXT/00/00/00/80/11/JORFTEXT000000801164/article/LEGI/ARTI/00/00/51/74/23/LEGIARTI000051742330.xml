@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051742330</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/23/LEGIARTI000051742330.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000801164" date_publi="2004-06-22" date_signature="2004-06-21" ministere="" nature="LOI" nor="ECOX0200175L" num="2004-575" num_parution_jo="0143">
+<TITRE_TXT c_titre_court="LOI n° 2004-575 du 21 juin 2004" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000801164">LOI n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 2004-575 du 21 juin 2004" debut="2004-06-22" fin="2999-01-01" id_txt="LEGITEXT000005789847">Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (1).</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-06-22" fin="2999-01-01" id="LEGISCTA000006089778">TITRE Ier : DE LA LIBERTÉ DE COMMUNICATION EN LIGNE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-06-22" fin="2024-05-23" id="LEGISCTA000006117685">CHAPITRE II : Les prestataires techniques.</TITRE_TM>
+<TITRE_TM debut="2024-05-23" fin="2999-01-01" id="LEGISCTA000049577606">CHAPITRE II : Les fournisseurs de services intermédiaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2024-02-17" fin="2999-01-01" id="LEGISCTA000049568861">Section 2 : Dispositions relatives à la lutte contre les contenus terroristes et pédopornographiques</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="TRANSFERE">
+<LIEN_ART debut="2021-04-20" etat="TRANSFERE" fin="2024-05-23" id="LEGIARTI000042440864" num="6-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-05-23" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000049581622" num="6-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742330" num="6-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Si un fournisseur de services d'hébergement n'a jamais fait l'objet d'une demande en application de l'article 6-1 en vue de retirer une image ou une représentation de mineurs présentant un caractère pornographique relevant de l'article 227-23 du code pénal ou un contenu relatif à la cession ou l'offre de stupéfiants relevant de l'article 222-39 du même code, l'autorité administrative mentionnée à l'article 6-1 de la présente loi communique à ladite personne des informations sur les procédures et les délais applicables, au moins douze heures avant d'émettre la demande de retrait.</p>
+<p>II.-Si le fournisseur mentionné au I du présent article ne peut se conformer à une demande de retrait pour des motifs tenant à la force majeure ou à une impossibilité de fait qui ne lui sont pas imputables, y compris pour des raisons techniques ou opérationnelles objectivement justifiables, il informe de ces motifs, sans retard indu, l'autorité administrative qui a émis la demande de retrait.</p>
+<p>Le délai indiqué au deuxième alinéa de l'article 6-1 commence à courir dès que les motifs mentionnés au premier alinéa du présent II ont cessé d'exister.</p>
+<p>Si le fournisseur mentionné au I ne peut se conformer à une demande de retrait, au motif que cette dernière contient des erreurs manifestes ou ne contient pas suffisamment d'informations pour en permettre l'exécution, il informe de ces motifs, sans retard indu, l'autorité administrative qui a émis la demande de retrait et demande les éclaircissements nécessaires.</p>
+<p>Le délai indiqué au deuxième alinéa de l'article 6-1 commence à courir dès que le fournisseur de services d'hébergement a reçu ces éclaircissements.</p>
+<p>III.-Lorsqu'un fournisseur de services d'hébergement retire une image ou une représentation de mineurs présentant un caractère pornographique et relevant de l'article 227-23 du code pénal ou un contenu relatif à la cession ou l'offre de stupéfiants relevant de l'article 222-39 du même code, il en informe dans les meilleurs délais le fournisseur de contenus, en précisant les motifs qui ont conduit au retrait de l'image ou de la représentation, la possibilité de solliciter la transmission d'une copie de l'injonction de retrait et les droits dont il dispose pour contester la demande de retrait devant la juridiction administrative compétente.</p>
+<p>Sur demande du fournisseur de contenus, le fournisseur de services d'hébergement transmet une copie de l'injonction de retrait.</p>
+<p>Les obligations prévues aux deux premiers alinéas du présent III ne s'appliquent pas lorsque l'autorité compétente qui a émis la demande de retrait décide qu'il est nécessaire et proportionné de ne pas divulguer d'informations pour ne pas entraver le bon déroulement des actions de prévention, de détection, de recherche et de poursuite des auteurs des infractions prévues aux articles 227-23 et 222-39 du code pénal.</p>
+<p>En pareil cas, l'autorité compétente informe le fournisseur de services d'hébergement de sa décision en précisant sa durée d'application, qui ne peut excéder six semaines à compter de ladite décision, et le fournisseur de services d'hébergement ne divulgue aucune information sur le retrait du contenu au fournisseur de ce dernier.</p>
+<p>Ladite autorité compétente peut prolonger cette période d'une nouvelle période de six semaines lorsque la non-divulgation continue d'être justifiée. En pareil cas, elle en informe le fournisseur de services d'hébergement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000049581616" naturetexte="LOI" nortexte="ECOX0200175L" num="6-5" numtexte="2004-575" sens="source" typelien="CONCORDE">Loi n° 2004-575 du 21 juin 2004 - art. 6-5 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736692" naturetexte="LOI" nortexte="JUSX2430702L" num="28" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 28</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417729" naturetexte="CODE" nortexte="" num="222-39" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 222-39</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418087" naturetexte="CODE" nortexte="" num="227-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 227-23</LIEN>
+</LIENS>
+</ARTICLE>

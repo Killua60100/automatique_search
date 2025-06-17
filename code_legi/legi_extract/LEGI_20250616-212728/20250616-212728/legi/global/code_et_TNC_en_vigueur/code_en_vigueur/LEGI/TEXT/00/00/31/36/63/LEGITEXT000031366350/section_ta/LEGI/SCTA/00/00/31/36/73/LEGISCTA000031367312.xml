@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000031367312</ID>
+<TITRE_TA>Titre Ier : LES DEMANDES DU PUBLIC ET LEUR TRAITEMENT</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2016-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000031367314" num="L110-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000031367316" debut="2016-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031367316" niv="3" url="/LEGI/SCTA/00/00/31/36/73/LEGISCTA000031367316.xml">Chapitre Ier : Règles générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000031367325" debut="2016-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031367325" niv="3" url="/LEGI/SCTA/00/00/31/36/73/LEGISCTA000031367325.xml">Chapitre II : Modalités de saisine et d'échanges</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000031367374" debut="2016-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031367374" niv="3" url="/LEGI/SCTA/00/00/31/36/73/LEGISCTA000031367374.xml">Chapitre III : Contenu des dossiers</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000031367388" debut="2016-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000031367388" niv="3" url="/LEGI/SCTA/00/00/31/36/73/LEGISCTA000031367388.xml">Chapitre IV : Diligences de l'administration</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000048802016" debut="2023-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000048802016" niv="3" url="/LEGI/SCTA/00/00/48/80/20/LEGISCTA000048802016.xml">Chapitre V : Lutte contre la fraude</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000031366350" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des relations entre le public et l'administration" debut="2016-01-01" fin="2999-01-01" id_txt="LEGITEXT000031366350">Code des relations entre le public et l'administration</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="LEGISCTA000031367310">Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

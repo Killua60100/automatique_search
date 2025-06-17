@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000029227540</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/29/22/75/LEGIARTI000029227540.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L1333-13-11</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2014-07-12</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071307" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la défense." debut="2004-12-21" fin="2999-01-01" id_txt="LEGITEXT000006071307">Code de la défense</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006096399">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006120655">PARTIE 1 : PRINCIPES GÉNÉRAUX DE LA DÉFENSE.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006137702">LIVRE III : MISE EN ŒUVRE DE LA DÉFENSE NON MILITAIRE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006151475">TITRE III : DÉFENSE ÉCONOMIQUE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006166901">Chapitre III : Matières et installations nucléaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006182572">Section 1 : Protection et contrôle des matières nucléaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2014-07-12" fin="2999-01-01" id="LEGISCTA000029221238">Sous-section 3 : Dispositions pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2014-07-12" fin="2999-01-01" id="LEGISCTA000029221254">Paragraphe 2 : Sanctions pénales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2014-07-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000029227540" num="L1333-13-11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709322" num="L1333-13-11" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les deux premiers alinéas de l'article 132-23 du code pénal sont applicables aux infractions prévues par les articles L. 1333-13-3 à L. 1333-13-5 et par le premier alinéa de l'article L. 1333-13-6 du présent code.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000029218284" datesignatexte="2014-07-10" id="LEGIARTI000029220189" naturetexte="ORDONNANCE" nortexte="DEFX1411031R" num="16" numtexte="2014-792" sens="cible" typelien="DEPLACE">ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709302" naturetexte="CODE" nortexte="" num="L1333-13-3" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-13-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709308" naturetexte="CODE" nortexte="" num="L1333-13-6" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-13-6</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742186" naturetexte="CODE" nortexte="" num="689-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 689-5 (V)</LIEN>
+</LIENS>
+</ARTICLE>

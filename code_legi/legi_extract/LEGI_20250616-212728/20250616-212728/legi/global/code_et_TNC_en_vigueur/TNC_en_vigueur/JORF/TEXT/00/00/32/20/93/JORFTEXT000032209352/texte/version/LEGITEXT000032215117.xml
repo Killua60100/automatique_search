@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000032215117</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/32/21/51/LEGITEXT000032215117.xml</URL>
+<NATURE>ORDONNANCE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000032209352</CID>
+<NUM>2016-301</NUM>
+<NUM_PARUTION>0064</NUM_PARUTION>
+<NUM_SEQUENCE>29</NUM_SEQUENCE>
+<NOR>EINC1602822R</NOR>
+<DATE_PUBLI>2016-03-16</DATE_PUBLI>
+<DATE_TEXTE>2016-03-14</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2017-07-01</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0064 du 16 mars 2016</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Ordonnance n°2016-301 du 14 mars 2016</TITRE>
+<TITREFULL>Ordonnance n° 2016-301 du 14 mars 2016 relative à la partie législative du code de la consommation</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2016-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000313944" datesignatexte="1946-05-23" id="JORFTEXT000000313944" naturetexte="LOI" nortexte="" num="" numtexte="46-1173" sens="source" typelien="CITATION">Loi n° 46-1173 du 23 mai 1946 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000512228" datesignatexte="1970-01-02" id="JORFTEXT000000512228" naturetexte="LOI" nortexte="" num="" numtexte="70-9" sens="source" typelien="CITATION">Loi n° 70-9 du 2 janvier 1970 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000321872" datesignatexte="1989-06-23" id="JORFTEXT000000321872" naturetexte="LOI" nortexte="SECX8800144L" num="" numtexte="89-421" sens="source" typelien="CITATION">Loi n° 89-421 du 23 juin 1989 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000709058" datesignatexte="1989-12-31" id="JORFTEXT000000709058" naturetexte="LOI" nortexte="COMX8900062L" num="" numtexte="89-1008" sens="source" typelien="CITATION">Loi n° 89-1008 du 31 décembre 1989 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000349929" datesignatexte="1994-08-04" id="JORFTEXT000000349929" naturetexte="LOI" nortexte="MCCX9400007L" num="" numtexte="94-665" sens="source" typelien="CITATION">Loi n° 94-665 du 4 août 1994 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000193678" datesignatexte="1996-07-05" id="JORFTEXT000000193678" naturetexte="LOI" nortexte="COMX9600031L" num="" numtexte="96-603" sens="source" typelien="CITATION">Loi n° 96-603 du 5 juillet 1996 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000223114" datesignatexte="2001-05-15" id="JORFTEXT000000223114" naturetexte="LOI" nortexte="ECOX0000021L" num="" numtexte="2001-420" sens="source" typelien="CITATION">Loi n° 2001-420 du 15 mai 2001 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="JORFTEXT000000801164" naturetexte="LOI" nortexte="ECOX0200175L" num="" numtexte="2004-575" sens="source" typelien="CITATION">Loi n° 2004-575 du 21 juin 2004 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000028738036" datesignatexte="2014-03-17" id="JORFTEXT000028738036" naturetexte="LOI" nortexte="EFIX1307316L" num="" numtexte="2014-344" sens="source" typelien="CITATION">LOI n°2014-344  du 17 mars 2014 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000031912641" datesignatexte="2016-01-26" id="JORFTEXT000031912641" naturetexte="LOI" nortexte="AFSX1418355L" num="" numtexte="2016-41" sens="source" typelien="CITATION">LOI n°2016-41 du 26 janvier 2016 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034070801" datesignatexte="2017-02-21" id="LEGIARTI000034071208" naturetexte="LOI" nortexte="ECFC1613746L" num="1" numtexte="2017-203" sens="source" typelien="RATIFICATION">LOI n°2017-203 du 21 février 2017 - art. 1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGITEXT000005634379" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de commerce (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069414" datesignatexte="2999-01-01" id="LEGITEXT000006069414" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la propriété intellectuelle (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGITEXT000006069565" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la consommation (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGITEXT000006069583" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Livre des procédures fiscales (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGITEXT000006070933" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de justice administrative (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGITEXT000006070987" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des postes et des communications électroniques (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGITEXT000006071367" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code rural et de la pêche maritime (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGITEXT000006072026" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code monétaire et financier (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGITEXT000006072050" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072052" datesignatexte="2999-01-01" id="LEGITEXT000006072052" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail applicable à Mayotte. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGITEXT000006072665" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la santé publique (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGITEXT000006073189" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGITEXT000006073984" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des assurances (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074067" datesignatexte="2999-01-01" id="LEGITEXT000006074067" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la mutualité (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGITEXT000006074069" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074073" datesignatexte="2999-01-01" id="LEGITEXT000006074073" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du tourisme. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGITEXT000006074096" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la construction et de l'habitation. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGITEXT000006074220" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'environnement (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGITEXT000006074228" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la route. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGITEXT000023086525" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des transports (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025244092" datesignatexte="2999-01-01" id="LEGITEXT000025244092" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code forestier (nouveau) (V)</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Le Président de la République,<br/>Sur le rapport du Premier ministre et du ministre de l'économie, de l'industrie et du numérique,<br/>Vu la Constitution, notamment son article 38 ;<br/>Vu le code de l'action sociale et des familles ;<br/>Vu le code des assurances ;<br/>Vu le code de commerce ;<br/>Vu le code de la consommation ;<br/>Vu le code de la construction et de l'habitation ;<br/>Vu le code de l'environnement ;<br/>Vu le code forestier ;<br/>Vu le code de justice administrative, notamment son article R. 123-20 ;<br/>Vu le code monétaire et financier ;<br/>Vu le code de la mutualité ;<br/>Vu le code des postes et des communications électroniques ;<br/>Vu le livre des procédures fiscales ;<br/>Vu le code de la propriété intellectuelle ;<br/>Vu le code de la route ;<br/>Vu le code rural et de la pêche maritime ;<br/>Vu le code de la santé publique ;<br/>Vu le code de la sécurité sociale ;<br/>Vu le code du tourisme ;<br/>Vu le code des transports ;<br/>Vu le code du travail ;<br/>Vu le code du travail applicable à Mayotte ;<br/>Vu la loi du 3 juillet 1934 modifiée tendant à réglementer la fabrication des pâtes alimentaires ;<br/>Vu la loi n° 46-1173 du 23 mai 1946 modifiée portant réglementation des conditions d'accès à la profession de coiffeur ;<br/>Vu la loi n° 70-9 du 2 janvier 1970 modifiée réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce ;<br/>Vu la loi de finances pour 1982 (n° 81-1160 du 30 décembre 1981) modifiée ;<br/>Vu la loi n° 89-421 du 23 juin 1989 modifiée relative à l'information et à la protection des consommateurs ainsi qu'à diverses pratiques commerciales ;<br/>Vu la loi n° 89-1008 du 31 décembre 1989 modifiée relative au développement des entreprises commerciales et artisanales et à l'amélioration de leur environnement économique, juridique et social ;<br/>Vu la loi n° 94-665 du 4 août 1994 modifiée relative à l'emploi de la langue française ;<br/>Vu la loi n° 96-603 du 5 juillet 1996 modifiée relative au développement et à la promotion du commerce et de l'artisanat ;<br/>Vu la loi n° 2001-420 du 15 mai 2001 modifiée relative aux nouvelles régulations économiques ;<br/>Vu la loi n° 2004-575 du 21 juin 2004 modifiée pour la confiance dans l'économie numérique ;<br/>Vu la loi n° 2014-344 du 17 mars 2014 modifiée relative à la consommation, notamment le I de son article 161 ;<br/>Vu la loi n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé ;<br/>Vu l'ordonnance du 10 septembre 1817 modifiée qui réunit, sous la dénomination d'Ordre des avocats au Conseil d'Etat et à la Cour de cassation, l'ordre des avocats aux conseils et le collège des avocats à la Cour de cassation ;<br/>Vu le décret-loi du 30 juillet 1935 modifié relatif à la défense du marché des vins et au régime économique de l'alcool ;<br/>Vu les avis de la Commission supérieure de codification en date des 22 janvier 2008, 27 mai 2008, 20 janvier 2009, 9 juin 2009, 1er février 2011, 1er mars 2011, 19 mai 2015 et 17 novembre 2015 ;<br/>Le Conseil d'Etat (section des finances) entendu,<br/>Le conseil des ministres entendu,<br/>Ordonne :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 14 mars 2016.</p>
+</div>
+<div align="left">
+<p>François Hollande</p>
+<p>Par le Président de la République :</p>
+</div>
+<div align="left">
+<p>Le Premier ministre,</p>
+<p>Manuel Valls</p>
+</div>
+<div align="left">
+<p>Le ministre de l'économie, de l'industrie et du numérique,</p>
+<p>Emmanuel Macron</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU>
+<p>Conformément à l'article 1 de la loi n° 2017-203 du 21 février 2017 simplifiant le dispositif de mise en œuvre des obligations en matière de conformité et de sécurité des produits et services, l'ordonnance n° 2016-301 du 14 mars 2016 est ratifiée. </p>
+</CONTENU>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

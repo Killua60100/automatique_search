@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006574869</ID>
+<ANCIEN_ID>PXXXXXXXXXX0016L002AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/48/LEGIARTI000006574869.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>16-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>1976-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006138088">Titre Ier : Des autorités chargées de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753873">Titre Ier : Des autorités chargées  de la conduite de la politique pénale, de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151872">Chapitre Ier : De la police judiciaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006167412">Section 2 : Des officiers de police judiciaire</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="1976-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006574869" num="16-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Dans le délai d'un mois à partir du rejet explicite ou implicite de la demande prévue à l'article précédent, l'officier de police judiciaire peut former un recours devant une commission composée de trois magistrats du siège de la Cour de cassation ayant le grade de président de chambre ou de conseiller. Ces magistrats sont désignés annuellement, en même temps que trois suppléants, par le bureau de la Cour de cassation.<br/>
+<br/>   Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000700423" datesignatexte="1975-08-06" id="JORFTEXT000000700423" naturetexte="LOI" nortexte="" num="" numtexte="75-701" sens="source" typelien="CREATION">Loi 75-701 1975-08-06 art. 21 JORF 7 août 1975 en vigueur le 1er janvier 1976</LIEN>
+<LIEN cidtexte="JORFTEXT000000700423" datesignatexte="1975-08-06" id="JORFTEXT000000700423" naturetexte="LOI" nortexte="" num="" numtexte="75-701" sens="source" typelien="SPEC_APPLI">Loi 75-701 1975-08-06 art. 29 Décret fixant la date d'entrée en vigueur - absence</LIEN>
+<LIEN cidtexte="LEGITEXT000006071164" datesignatexte="2999-01-01" id="LEGIARTI000006518630" naturetexte="CODE" nortexte="" num="L142-1" numtexte="" sens="cible" typelien="CONCORDANCE">CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071164" datesignatexte="2999-01-01" id="LEGIARTI000006518631" naturetexte="CODE" nortexte="" num="L142-2" numtexte="" sens="cible" typelien="CITATION">CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071164" datesignatexte="2999-01-01" id="LEGIARTI000006518631" naturetexte="CODE" nortexte="" num="L142-2" numtexte="" sens="cible" typelien="CONCORDANCE">CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071164" datesignatexte="2999-01-01" id="LEGIARTI000006519671" naturetexte="CODE" nortexte="" num="R142-1" numtexte="" sens="cible" typelien="CITATION">CODE DE L'ORGANISATION JUDICIAIRE. - art. R142-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071164" datesignatexte="2999-01-01" id="LEGIARTI000006519671" naturetexte="CODE" nortexte="" num="R142-1" numtexte="" sens="cible" typelien="CONCORDANCE">CODE DE L'ORGANISATION JUDICIAIRE. - art. R142-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006574868" naturetexte="CODE" nortexte="" num="16-1" numtexte="" sens="source" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 16-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742218" naturetexte="CODE" nortexte="" num="28-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048838748" naturetexte="CODE" nortexte="" num="28-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042751075" naturetexte="CODE" nortexte="" num="28-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006516935" naturetexte="CODE" nortexte="" num="R15-7" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R15-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006516936" naturetexte="CODE" nortexte="" num="R15-8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R15-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006518291" naturetexte="CODE" nortexte="" num="R241" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R241 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039344897" naturetexte="CODE" nortexte="" num="R93" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R93 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

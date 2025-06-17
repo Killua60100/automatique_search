@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023386309</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/38/63/LEGIARTI000023386309.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-01-07</DATE_DEBUT>
+<DATE_FIN>2019-05-09</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000713756" date_publi="1994-07-16" date_signature="1994-07-15" ministere="" nature="LOI" nor="DEFX9400020L" num="94-589" num_parution_jo="0163">
+<TITRE_TXT c_titre_court="LOI n° 94-589 du 15 juillet 1994" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000713756">LOI n° 94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de contrôle en mer (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2019-05-09" fin="2999-01-01" id_txt="LEGITEXT000038452858">Loi n° 94-589 du 15 juillet 1994 relative à l'exercice par l'Etat de ses pouvoirs de police en mer pour la lutte contre certaines infractions relevant de conventions internationales</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 94-589 du 15 juillet 1994" debut="2011-01-07" fin="2019-05-09" id_txt="LEGITEXT000023386330">Loi n° 94-589 du 15 juillet 1994 relative à la lutte contre la piraterie et aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2005-04-23" fin="2011-01-07" id_txt="LEGITEXT000005616201">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="1994-07-16" fin="2005-04-23" id_txt="LEGITEXT000005616200">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2011-01-07" fin="2019-05-09" id="LEGISCTA000025349741">Titre Ier : De la lutte contre la piraterie maritime</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-07-16" etat="MODIFIE" fin="1996-04-30" id="LEGIARTI000006404470" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1996-04-30" etat="ABROGE" fin="2004-12-21" id="LEGIARTI000006404471" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000023386309" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-05-09" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000038452910" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743674" num="5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>A défaut d'entente avec les autorités d'un autre Etat pour l'exercice par celui-ci de sa compétence juridictionnelle, les auteurs et complices des infractions mentionnées au II de l'article 1er et commises hors du territoire de la République peuvent être poursuivis et jugés par les juridictions françaises lorsqu'ils ont été appréhendés par les agents mentionnés à l'article 4. </CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000006404478" naturetexte="LOI" nortexte="DEFX9400020L" num="8" numtexte="94-589" sens="cible" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 8 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000023367866" datesignatexte="2011-01-05" id="LEGIARTI000023376209" naturetexte="LOI" nortexte="DEFX0914087L" num="1" numtexte="2011-13" sens="cible" typelien="MODIFIE">LOI n°2011-13 du 5 janvier 2011 - art. 1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539742" naturetexte="CODE" nortexte="" num="L1521-5" numtexte="" sens="cible" typelien="CONCORDANCE">Code de la défense. - art. L1521-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539741" naturetexte="CODE" nortexte="" num="L1521-5" numtexte="" sens="source" typelien="CONCORDE">Code de la défense. - art. L1521-5 (M)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000029582329</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/29/58/23/LEGIARTI000029582329.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L253-17-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2014-10-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006138324">Titre V : La protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-07-01" fin="2011-07-17" id="LEGISCTA000006152417">Chapitre III : Mise sur le marché des produits phytosanitaires</TITRE_TM>
+<TITRE_TM debut="2011-07-17" fin="2999-01-01" id="LEGISCTA000024373528">Chapitre III : Mise sur le marché et utilisation  des produits phytopharmaceutiques</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-07-17" fin="2999-01-01" id="LEGISCTA000024366026">Section 9 : Dispositions pénales&#13;
+&#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2014-10-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000029582329" num="L253-17-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>Est puni de cinq ans d'emprisonnement et de 375 000 € d'amende le fait de fabriquer, distribuer, faire de la publicité, offrir à la vente, vendre, importer, exporter un produit falsifié mentionné à l'article L. 253-1. Ces peines sont portées à sept ans d'emprisonnement et 750 000 € d'amende lorsque : <br/>
+<br/>1° Le produit falsifié est dangereux pour la santé de l'homme ou pour l'environnement ; <br/>
+<br/>2° Les délits prévus au premier alinéa du présent article ont été commis par les personnes agréées en application de l'article L. 254-1, les personnes titulaires d'autorisation de mise sur le marché de produits mentionnés à l'article L. 253-1, les grossistes et les groupements d'achat ; <br/>
+<br/>3° Ces mêmes délits ont été commis en bande organisée ; <br/>
+<br/>4° Les délits de publicité, d'offre de vente ou de vente de produits falsifiés ont été commis sur un réseau de télécommunication à destination d'un public non déterminé.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000029573022" datesignatexte="2014-10-13" id="LEGIARTI000029575195" naturetexte="LOI" nortexte="AGRX1324417L" num="53" numtexte="2014-1170" sens="cible" typelien="CREE">LOI n° 2014-1170 du 13 octobre 2014 - art. 53</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741942" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006582996" naturetexte="CODE" nortexte="" num="L253-1" numtexte="" sens="source" typelien="CITATION">Code rural - art. L253-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006583237" naturetexte="CODE" nortexte="" num="L254-1" numtexte="" sens="source" typelien="CITATION">Code rural - art. L254-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

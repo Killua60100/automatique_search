@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051741589</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/15/LEGIARTI000051741589.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20-1</NUM>
+
+<ETAT>VIGUEUR_DIFF</ETAT>
+
+<DATE_DEBUT>2025-10-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000511476" date_publi="1971-12-03" date_signature="1971-11-26" ministere="" nature="DECRET" nor="" num="71-941" num_parution_jo="">
+<TITRE_TXT c_titre_court="Décret n° 71-941 du 26 novembre 1971" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000511476">Décret n° 71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°71-941 du 26 novembre 1971" debut="1971-12-03" fin="2999-01-01" id_txt="LEGITEXT000006061875">Décret n°71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2006-02-01" fin="2999-01-01" id="LEGISCTA000006093913">Titre III : Etablissement de l'acte notarié</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-02-01" fin="2999-01-01" id="LEGISCTA000006119365">Chapitre III : Actes établis sur support électronique</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE_DIFF">
+<LIEN_ART debut="2020-11-22" etat="ABROGE_DIFF" fin="2025-10-01" id="LEGIARTI000042546520" num="20-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741589" num="20-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément à l’article 3 de l’arrêté du 12 juin 2025 (NOR : JUSC2506609D), ces dispositions entrent en vigueur le 1er octobre 2025.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>Une procuration sur support électronique peut être établie par un notaire, lorsqu'une ou plusieurs parties ne sont pas présentes devant lui.</p>
+<p>L'identification des parties s'effectue par un système de vérification établi par le Conseil supérieur du notariat. Ce système de vérification assure la sécurité, l'intégrité, et la confidentialité des informations nécessaires à cette identification, dont il garantit la fiabilité.<br/>
+<br/>
+Le recueil par le notaire du consentement de la ou des parties à l'acte qui ne sont pas présentes devant lui s'effectue au moyen d'un système de visioconférence répondant aux conditions mentionnées à l'article 16.<br/>
+<br/>
+Immédiatement après avoir reçu le ou les consentements, le notaire recueille la signature électronique de la ou des parties au moyen d'un procédé de signature électronique qualifiée répondant aux exigences du décret du 28 septembre 2017 déjà mentionné.<br/>
+<br/>
+L'acte est parfait lorsque le notaire y appose sa signature électronique qualifiée.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051736218" datesignatexte="2025-06-13" id="LEGIARTI000051737547" naturetexte="DECRET" nortexte="JUSC2506609D" num="1" numtexte="2025-538" sens="cible" typelien="MODIFIE">Décret n°2025-538 du 13 juin 2025 - art. 1</LIEN>
+</LIENS>
+</ARTICLE>

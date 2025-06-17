@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000025508077</ID>
+<TITRE_TA>TITRE Ier : ARMES ET MUNITIONS</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505562" debut="2012-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000025508075" niv="4" url="/LEGI/SCTA/00/00/25/50/80/LEGISCTA000025508075.xml">Chapitre Ier : Dispositions générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505570" debut="2012-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000025508069" niv="4" url="/LEGI/SCTA/00/00/25/50/80/LEGISCTA000025508069.xml">Chapitre II : Acquisition et détention</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505621" debut="2012-05-01" etat="MODIFIE" fin="2017-03-02" id="LEGISCTA000025508035" niv="4" url="/LEGI/SCTA/00/00/25/50/80/LEGISCTA000025508035.xml">Chapitre III : Commerce de détail</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505621" debut="2017-03-02" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000034114975" niv="4" url="/LEGI/SCTA/00/00/34/11/49/LEGISCTA000034114975.xml">Chapitre III : Fabrication et commerce</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505637" debut="2012-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000025508024" niv="4" url="/LEGI/SCTA/00/00/25/50/80/LEGISCTA000025508024.xml">Chapitre IV : Conservation, perte et transfert de propriété</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505647" debut="2012-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000025508018" niv="4" url="/LEGI/SCTA/00/00/25/50/80/LEGISCTA000025508018.xml">Chapitre V : Port et transport</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505654" debut="2012-05-01" etat="MODIFIE" fin="2017-03-02" id="LEGISCTA000025508013" niv="4" url="/LEGI/SCTA/00/00/25/50/80/LEGISCTA000025508013.xml">Chapitre VI : Acquisition et détention de certaines armes et munitions par des résidents d'un Etat membre de l'Union européenne et transfert de ces armes et munitions à destination ou en provenance d'un de ces Etats</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505654" debut="2017-03-02" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000034114970" niv="4" url="/LEGI/SCTA/00/00/34/11/49/LEGISCTA000034114970.xml">Chapitre VI : Acquisition, détention et transferts au sein de l'Union européenne, importations et exportations</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505658" debut="2012-05-01" etat="MODIFIE" fin="2013-09-06" id="LEGISCTA000025508010" niv="4" url="/LEGI/SCTA/00/00/25/50/80/LEGISCTA000025508010.xml">Chapitre VII : Dispositions pénales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025505658" debut="2013-09-06" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027591806" niv="4" url="/LEGI/SCTA/00/00/27/59/18/LEGISCTA000027591806.xml">Chapitre VII : Dispositions pénales</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508079">LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

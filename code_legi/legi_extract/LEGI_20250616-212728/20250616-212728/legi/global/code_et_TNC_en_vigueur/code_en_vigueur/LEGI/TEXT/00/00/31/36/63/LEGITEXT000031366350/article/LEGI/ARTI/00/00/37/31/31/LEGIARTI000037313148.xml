@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000037313148</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/37/31/31/LEGIARTI000037313148.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L114-10</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2018-08-12</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000031366350" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des relations entre le public et l'administration" debut="2016-01-01" fin="2999-01-01" id_txt="LEGITEXT000031366350">Code des relations entre le public et l'administration</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="LEGISCTA000031367310">Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="LEGISCTA000031367312">Titre Ier : LES DEMANDES DU PUBLIC ET LEUR TRAITEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="LEGISCTA000031367388">Chapitre IV : Diligences de l'administration</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="LEGISCTA000031367410">Section 4 : Echanges de données entre administrations</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2018-08-12" id="LEGIARTI000031367416" num="L114-10" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2018-08-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037313148" num="L114-10" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsqu'en raison de leur nature ou d'une impossibilité technique, les informations ou données nécessaires pour traiter la demande ou la déclaration ne peuvent être obtenues directement par une administration auprès d'une autre dans les conditions prévues aux articles L. 114-8 ou L. 114-9, il revient à la personne concernée de les communiquer à l'administration.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000215117" datesignatexte="2000-04-12" id="LEGIARTI000030563450" naturetexte="LOI" nortexte="FPPX9800029L" num="16 A" numtexte="2000-321" sens="source" typelien="CONCORDANCE">Loi n° 2000-321 du 12 avril 2000 - art. 16 A, al 7 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000031360943" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.</LIEN>
+<LIEN cidtexte="JORFTEXT000037307624" datesignatexte="2018-08-10" id="LEGIARTI000037309107" naturetexte="LOI" nortexte="CPAX1730519L" num="41" numtexte="2018-727" sens="cible" typelien="MODIFIE">LOI n°2018-727 du 10 août 2018 - art. 41</LIEN>
+<LIEN cidtexte="JORFTEXT000038930025" datesignatexte="2019-08-02" id="LEGIARTI000039420641" naturetexte="ARRETE" nortexte="TREK1918309A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 août 2019 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000048222977" datesignatexte="2023-10-17" id="LEGIARTI000048223670" naturetexte="DECRET" nortexte="ECOI2317960D" num="5" numtexte="2023-955" sens="cible" typelien="CITATION">Décret n°2023-955 du 17 octobre 2023 - art. 5</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006741023" naturetexte="CODE" nortexte="" num="L114-8" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L114-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006741024" naturetexte="CODE" nortexte="" num="L114-9" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L114-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000048224081" naturetexte="CODE" nortexte="" num="R123-242-1" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. R123-242-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000031366350" datesignatexte="2999-01-01" id="LEGIARTI000045213315" naturetexte="CODE" nortexte="" num="L114-8" numtexte="" sens="cible" typelien="CITATION">Code des relations entre le public et l'adminis... - art. L114-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000031366350" datesignatexte="2999-01-01" id="LEGIARTI000048838596" naturetexte="CODE" nortexte="" num="L552-3" numtexte="" sens="cible" typelien="CITATION">Code des relations entre le public et l'adminis... - art. L552-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000031366350" datesignatexte="2999-01-01" id="LEGIARTI000037312258" naturetexte="CODE" nortexte="" num="L562-3" numtexte="" sens="cible" typelien="CITATION">Code des relations entre le public et l'adminis... - art. L562-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000031366350" datesignatexte="2999-01-01" id="LEGIARTI000037312204" naturetexte="CODE" nortexte="" num="L572-1" numtexte="" sens="cible" typelien="CITATION">Code des relations entre le public et l'adminis... - art. L572-1 (M)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000028299380</ID>
+<TITRE_TA>Chapitre III : Dispositions diverses</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2014-02-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000028312437" num="706" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2024-11-01" id="LEGIARTI000039279316" num="706" origine="LEGI"/>
+<LIEN_ART debut="2024-11-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048442443" num="706" origine="LEGI"/>
+<LIEN_ART debut="2014-02-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028299431" num="706-1" origine="LEGI"/>
+<LIEN_ART debut="2014-02-01" etat="MODIFIE" fin="2016-07-03" id="LEGIARTI000028312420" num="706-1-1" origine="LEGI"/>
+<LIEN_ART debut="2016-07-03" etat="MODIFIE" fin="2016-12-11" id="LEGIARTI000032751695" num="706-1-1" origine="LEGI"/>
+<LIEN_ART debut="2016-12-11" etat="MODIFIE" fin="2018-10-25" id="LEGIARTI000033611497" num="706-1-1" origine="LEGI"/>
+<LIEN_ART debut="2018-10-25" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000037526870" num="706-1-1" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000047860986" num="706-1-1" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742686" num="706-1-1" origine="LEGI"/>
+<LIEN_ART debut="2014-02-01" etat="MODIFIE" fin="2014-06-02" id="LEGIARTI000028312405" num="706-1-2" origine="LEGI"/>
+<LIEN_ART debut="2014-06-02" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000029000973" num="706-1-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2999-01-01" id="LEGISCTA000006138120">Titre XIII : De la procédure applicable aux infractions en matière économique et financière</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

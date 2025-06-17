@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051728577</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/72/85/LEGIARTI000051728577.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6-5</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-14</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000525014" date_publi="1990-09-26" date_signature="1990-09-25" ministere="MINISTERE DE L'INTERIEUR" nature="DECRET" nor="INTE9000277D" num="90-850" num_parution_jo="0223">
+<TITRE_TXT c_titre_court="Décret n°90-850 du 25 septembre 1990" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000525014">Décret  no 90-850 du 25 septembre 1990 portant dispositions communes à    l'ensemble des sapeurs-pompiers professionnels</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°90-850 du 25 septembre 1990" debut="1990-09-26" fin="2999-01-01" id_txt="LEGITEXT000006076555">Décret n°90-850 du 25 septembre 1990 portant dispositions communes à l'ensemble des sapeurs-pompiers professionnels</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1998-06-07" fin="2999-01-01" id="LEGISCTA000006086667">CHAPITRE II : Régime indemnitaire.</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1998-06-07" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006372677" num="6-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2025-06-14" id="LEGIARTI000045657061" num="6-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051728577" num="6-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les sapeurs-pompiers professionnels, à l'exclusion de ceux occupant des emplois de chef de groupement, de sous-directeur, de directeur adjoint ou de directeur, peuvent bénéficier d'une indemnité de spécialité s'ils ont validé les formations de spécialités définies à l'arrêté mentionné à l'article R. 1424-54 du code général des collectivités territoriales et exercent réellement les spécialités correspondantes. Le nombre de spécialités pouvant être pris en compte pour le calcul de l'indemnité est limité à deux. </p>
+<p>La liste des spécialités ouvrant droit à cette indemnité, les niveaux de spécialisation et les taux maxima correspondants figurent dans le tableau II joint en annexe au présent décret.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000525014" datesignatexte="1990-09-25" id="JORFTEXT000000525014" naturetexte="DECRET" nortexte="INTE9000277D" num="" numtexte="90-850" sens="source" typelien="CITATION">Décret n°90-850 du 25 septembre 1990</LIEN>
+<LIEN cidtexte="JORFTEXT000051724908" datesignatexte="2025-06-11" id="LEGIARTI000051725571" naturetexte="DECRET" nortexte="INTE2229726D" num="2" numtexte="2025-523" sens="cible" typelien="MODIFIE">Décret n°2025-523 du 11 juin 2025 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006394942" naturetexte="CODE" nortexte="" num="R1424-54" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales - art. R1424-54 (V)</LIEN>
+</LIENS>
+</ARTICLE>

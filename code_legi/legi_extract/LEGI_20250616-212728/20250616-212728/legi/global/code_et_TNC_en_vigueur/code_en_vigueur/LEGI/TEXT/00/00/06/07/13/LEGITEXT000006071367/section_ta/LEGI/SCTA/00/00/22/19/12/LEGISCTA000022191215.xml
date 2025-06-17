@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000022191215</ID>
+<TITRE_TA>Chapitre préliminaire : Inspections et contrôles</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000022191213" num="L250-1" origine="LEGI"/>
+<LIEN_ART debut="2019-12-14" etat="MODIFIE" fin="2021-12-17" id="LEGIARTI000039329389" num="L250-1" origine="LEGI"/>
+<LIEN_ART debut="2021-12-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044504431" num="L250-1" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2014-10-15" id="LEGIARTI000022191211" num="L250-2" origine="LEGI"/>
+<LIEN_ART debut="2014-10-15" etat="ABROGE" fin="2021-12-30" id="LEGIARTI000029595179" num="L250-2" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000022191208" num="L250-3" origine="LEGI"/>
+<LIEN_ART debut="2015-06-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000030679886" num="L250-3" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="ABROGE" fin="2021-12-30" id="LEGIARTI000022191205" num="L250-4" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000022191200" num="L250-5" origine="LEGI"/>
+<LIEN_ART debut="2015-06-06" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000030679893" num="L250-5" origine="LEGI"/>
+<LIEN_ART debut="2019-12-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039329383" num="L250-5" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000022191193" num="L250-6" origine="LEGI"/>
+<LIEN_ART debut="2015-06-06" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000030679903" num="L250-6" origine="LEGI"/>
+<LIEN_ART debut="2019-12-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039329377" num="L250-6" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000022191186" num="L250-7" origine="LEGI"/>
+<LIEN_ART debut="2015-06-06" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000030679918" num="L250-7" origine="LEGI"/>
+<LIEN_ART debut="2019-12-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039329369" num="L250-7" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000022191184" num="L250-8" origine="LEGI"/>
+<LIEN_ART debut="2015-10-09" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000031280681" num="L250-9" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051737218" num="L250-10" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006138324">Titre V : La protection des végétaux</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

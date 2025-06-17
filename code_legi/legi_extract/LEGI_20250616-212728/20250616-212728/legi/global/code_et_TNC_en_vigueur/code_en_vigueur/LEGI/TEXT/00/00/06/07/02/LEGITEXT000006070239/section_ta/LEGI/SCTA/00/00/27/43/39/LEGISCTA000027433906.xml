@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000027433906</ID>
+<TITRE_TA>Titre Ier : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006148454" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006148454" niv="4" url="/LEGI/SCTA/00/00/06/14/84/LEGISCTA000006148454.xml">Chapitre Ier : Conditions requises pour être électeur</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006148455" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006148455" niv="4" url="/LEGI/SCTA/00/00/06/14/84/LEGISCTA000006148455.xml">Chapitre II : Listes électorales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006148456" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006148456" niv="4" url="/LEGI/SCTA/00/00/06/14/84/LEGISCTA000006148456.xml">Chapitre III : Conditions d'éligibilité et inéligibilités</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006148457" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006148457" niv="4" url="/LEGI/SCTA/00/00/06/14/84/LEGISCTA000006148457.xml">Chapitre IV : Incompatibilités</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006148458" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006148458" niv="4" url="/LEGI/SCTA/00/00/06/14/84/LEGISCTA000006148458.xml">Chapitre V : Propagande</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006148459" debut="1990-01-16" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006148459" niv="4" url="/LEGI/SCTA/00/00/06/14/84/LEGISCTA000006148459.xml">Chapitre V bis : Financement et plafonnement des dépenses électorales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000049310691" debut="2025-03-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000049310904" niv="4" url="/LEGI/SCTA/00/00/49/31/09/LEGISCTA000049310904.xml">Chapitre V ter : Protection des candidats</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006148460" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006148460" niv="4" url="/LEGI/SCTA/00/00/06/14/84/LEGISCTA000006148460.xml">Chapitre VI : Vote</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006148461" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006148461" niv="4" url="/LEGI/SCTA/00/00/06/14/84/LEGISCTA000006148461.xml">Chapitre VII : Dispositions pénales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006148462" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006148462" niv="4" url="/LEGI/SCTA/00/00/06/14/84/LEGISCTA000006148462.xml">Chapitre VIII : Contentieux</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070239" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code électoral" debut="1964-10-28" fin="2999-01-01" id_txt="LEGITEXT000006070239">Code électoral</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2999-01-01" id="LEGISCTA000006085760">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2009-01-15" id="LEGISCTA000006115455">LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS</TITRE_TM>
+<TITRE_TM debut="2009-01-15" fin="2014-03-23" id="LEGISCTA000020103140">Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux</TITRE_TM>
+<TITRE_TM debut="2014-03-23" fin="2020-03-01" id="LEGISCTA000027433908">Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+<TITRE_TM debut="2020-03-01" fin="2999-01-01" id="LEGISCTA000029930685">Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006181750</ID>
+<TITRE_TA>Paragraphe 1 : Des tortures et actes de barbarie</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417593" num="222-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417594" num="222-2" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2006-04-05" id="LEGIARTI000006417599" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="1999-06-19" etat="MODIFIE" fin="2003-02-04" id="LEGIARTI000006417597" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2010-03-04" id="LEGIARTI000006417601" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2010-03-04" etat="MODIFIE" fin="2010-07-11" id="LEGIARTI000021926147" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2010-07-11" etat="MODIFIE" fin="2010-08-11" id="LEGIARTI000022469921" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2010-08-11" etat="MODIFIE" fin="2012-05-01" id="LEGIARTI000022686366" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2012-08-08" etat="MODIFIE" fin="2016-04-15" id="LEGIARTI000026268281" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2016-04-15" etat="MODIFIE" fin="2017-01-29" id="LEGIARTI000032400601" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2017-01-29" etat="MODIFIE" fin="2021-11-27" id="LEGIARTI000033975327" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2021-11-27" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000044376119" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2022-01-26" etat="MODIFIE" fin="2024-05-12" id="LEGIARTI000045071031" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2012-08-08" id="LEGIARTI000046554155" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531887" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2006-04-05" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006417600" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="1996-07-23" etat="MODIFIE" fin="1999-06-19" id="LEGIARTI000006417596" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-23" id="LEGIARTI000006417595" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="2003-02-04" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417598" num="222-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006417602" num="222-4" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2024-05-12" id="LEGIARTI000006417603" num="222-4" origine="LEGI"/>
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531871" num="222-4" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417604" num="222-5" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417605" num="222-6" origine="LEGI"/>
+<LIEN_ART debut="2001-06-13" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006417606" num="222-6-1" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020630991" num="222-6-1" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006417607" num="222-6-2" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742438" num="222-6-2" origine="LEGI"/>
+<LIEN_ART debut="2010-07-11" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000022469925" num="222-6-3" origine="LEGI"/>
+<LIEN_ART debut="2020-08-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042182577" num="222-6-4" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165279">Section 1 : Des atteintes volontaires à l'intégrité de la personne</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

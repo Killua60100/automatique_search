@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006138130</ID>
+<TITRE_TA>Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2006-04-05" id="LEGIARTI000006577682" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="1998-06-18" etat="TRANSFERE" fin="2004-03-10" id="LEGIARTI000006577680" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006577681" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="2006-04-05" etat="MODIFIE" fin="2013-08-07" id="LEGIARTI000006577683" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="MODIFIE" fin="2016-04-16" id="LEGIARTI000027813052" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="2016-04-16" etat="MODIFIE" fin="2018-08-06" id="LEGIARTI000032405515" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="2018-08-06" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000037289461" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="2020-12-27" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000042779747" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="MODIFIE" fin="2021-12-02" id="LEGIARTI000043409371" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="2021-12-02" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044394236" num="706-47" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006577684" num="706-47-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006151935" debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006151935" niv="4" url="/LEGI/SCTA/00/00/06/15/19/LEGISCTA000006151935.xml">Chapitre Ier : Dispositions générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151994" debut="2005-12-13" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006151994" niv="4" url="/LEGI/SCTA/00/00/06/15/19/LEGISCTA000006151994.xml">Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes</LIEN_SECTION_TA>
+<LIEN_ART debut="1998-06-18" etat="MODIFIE" fin="2001-11-16" id="LEGIARTI000006577698" num="706-54" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006151936" debut="2004-03-10" etat="ABROGE" fin="2005-12-13" id="LEGISCTA000006151936" niv="4" url="/LEGI/SCTA/00/00/06/15/19/LEGISCTA000006151936.xml">Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018164406" debut="2008-02-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018170862" niv="4" url="/LEGI/SCTA/00/00/18/17/08/LEGISCTA000018170862.xml">Chapitre III : De la rétention de sûreté et de la surveillance de sûreté</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

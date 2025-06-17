@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051739251</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/92/LEGIARTI000051739251.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-63-1 C</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2025-06-15" id="LEGISCTA000006138134">Titre XXI bis : Protection des personnes bénéficiant d'exemptions ou de réductions de peines pour avoir permis d'éviter la réalisation d'infractions, de faire cesser ou d'atténuer le dommage causé par une infraction, ou d'identifier les auteurs ou complices d'infractions</TITRE_TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051742551">Titre XXI bis : Des collaborateurs de justice</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051739245">Chapitre 1er : De l'octroi du statut de collaborateur de justice</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739251" num="706-63-1 C" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le procureur de la République ou le juge d'instruction vérifie le caractère sincère, complet et déterminant des déclarations recueillies par procès-verbal. Il recueille l'avis de la commission mentionnée à l'article 706-63-1.<br/>
+<br/>
+ Si le procureur de la République ou, sur avis conforme du procureur de la République, le juge d'instruction estime opportun l'octroi du statut de collaborateur de justice, il saisit par requête la chambre de l'instruction de la cour d'appel. Les procès-verbaux de déclaration et d'évaluation et l'avis de la commission sont joints à la requête.<br/>
+<br/>
+ Est également jointe à la requête la convention, conclue avec le procureur de la République ou le juge d'instruction, par laquelle la personne éligible au statut de collaborateur de justice s'engage, jusqu'à sa comparution devant la juridiction de jugement, à répondre aux convocations délivrées dans le cadre de la procédure et à ne pas commettre un nouveau crime ou un nouveau délit.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736676" naturetexte="LOI" nortexte="JUSX2430702L" num="31" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 31 (V)</LIEN>
+</LIENS>
+</ARTICLE>

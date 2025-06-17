@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417295</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X131L30AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/72/LEGIARTI000006417295.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>131-30</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1994-03-01</DATE_DEBUT>
+<DATE_FIN>1997-04-25</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117596">Livre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136038">Titre III : Des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149819">Chapitre Ier : De la nature des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006165264">Section 1 : Des peines applicables aux personnes physiques</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006181731">Sous-section 5 : Du contenu et des modalités d'application de certaines peines</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE_MORT_NE" fin="1993-08-29" id="LEGIARTI000006417294" num="131-30" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1997-04-25" id="LEGIARTI000006417295" num="131-30" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1997-04-25" etat="MODIFIE" fin="1998-05-12" id="LEGIARTI000006417296" num="131-30" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1998-05-12" etat="MODIFIE" fin="2003-11-27" id="LEGIARTI000006417297" num="131-30" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-11-27" etat="MODIFIE" fin="2020-03-24" id="LEGIARTI000006417298" num="131-30" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-03-24" etat="MODIFIE" fin="2024-01-28" id="LEGIARTI000038313436" num="131-30" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-01-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049050734" num="131-30" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Lorsqu'elle est prévue par la loi, la peine d'interdiction du territoire français peut être prononcée, à titre définitif ou pour une durée de dix ans au plus, à l'encontre de tout étranger coupable d'un crime ou d'un délit.<br/>
+<br/>   L'interdiction du territoire entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement ou de réclusion.<br/>
+<br/>   Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction l'interdiction du territoire français à l'encontre :<br/>
+<br/>   1° D'un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement, l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;<br/>
+<br/>   2° D'un condamné étranger marié depuis au moins un an avec un conjoint de nationalité française, à condition que ce mariage soit antérieur aux faits ayant entraîné sa condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait conservé la nationalité française ;<br/>
+<br/>   3° D'un condamné étranger qui justifie qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix ans ;<br/>
+<br/>   4° D'un condamné étranger qui justifie qu'il réside régulièrement en France depuis plus de quinze ans.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000359434" datesignatexte="1992-07-22" id="JORFTEXT000000359434" naturetexte="LOI" nortexte="JUSX8900136L" num="" numtexte="92-683" sens="source" typelien="CODIFICATION">Loi 92-683 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000359434" datesignatexte="1992-07-22" id="JORFTEXT000000359434" naturetexte="LOI" nortexte="JUSX8900136L" num="" numtexte="92-683" sens="source" typelien="SPEC_APPLI">Loi 92-683 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 373</LIEN>
+<LIEN cidtexte="JORFTEXT000000530357" datesignatexte="1993-08-24" id="LEGIARTI000006657287" naturetexte="LOI" nortexte="INTX9300081L" num="33" numtexte="93-1027" sens="source" typelien="MODIFICATION">Loi n°93-1027 du 24 août 1993 - art. 33 () JORF 29 août 1993</LIEN>
+<LIEN cidtexte="JORFTEXT000000369046" datesignatexte="1995-01-21" id="LEGIARTI000006527971" naturetexte="LOI" nortexte="INTX9400063L" num="18" numtexte="95-73" sens="cible" typelien="CITATION">Loi n° 95-73 du 21 janvier 1995 - art. 18 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000371690" datesignatexte="1995-08-03" id="LEGIARTI000006492648" naturetexte="LOI" nortexte="JUSX9500089L" num="8" numtexte="95-884" sens="cible" typelien="CITATION">Loi n°95-884 du 3 août 1995 - art. 8 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000742258" datesignatexte="1996-05-15" id="LEGIARTI000006554507" naturetexte="ARRETE" nortexte="INTD9500737A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 15 mai 1996 - art. 2 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000740628" datesignatexte="1998-06-17" id="LEGIARTI000006488309" naturetexte="LOI" nortexte="ECOX9600160L" num="78" numtexte="98-467" sens="cible" typelien="CITATION">Loi n°98-467 du 17 juin 1998 - art. 78 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000764403" datesignatexte="2000-04-26" id="LEGIARTI000026911225" naturetexte="ORDONNANCE" nortexte="INTX0000046R" num="28" numtexte="2000-371" sens="cible" typelien="CITATION">Ordonnance n° 2000-371 du 26 avril 2000 - art. 28 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000764403" datesignatexte="2000-04-26" id="LEGIARTI000032656104" naturetexte="ORDONNANCE" nortexte="INTX0000046R" num="48" numtexte="2000-371" sens="cible" typelien="CITATION">Ordonnance n° 2000-371 du 26 avril 2000 - art. 48 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000582390" datesignatexte="2000-04-26" id="LEGIARTI000026911230" naturetexte="ORDONNANCE" nortexte="INTX0000047R" num="30" numtexte="2000-372" sens="cible" typelien="CITATION">Ordonnance n° 2000-372 du 26 avril 2000 - art. 30 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000400039" datesignatexte="2000-04-26" id="LEGIARTI000023822280" naturetexte="ORDONNANCE" nortexte="INTX0000048R" num="48" numtexte="2000-373" sens="cible" typelien="CITATION">Ordonnance n° 2000-373 du 26 avril 2000 - art. 48 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000582390" datesignatexte="2000-04-26" id="LEGIARTI000006336861" naturetexte="ORDONNANCE" nortexte="INTX0000047R" num="50" numtexte="2000-372" sens="cible" typelien="CITATION">Ordonnance n°2000-372 du 26 avril 2000 - art. 50 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771533" datesignatexte="2002-03-20" id="LEGIARTI000026911235" naturetexte="ORDONNANCE" nortexte="INTX0200012R" num="30" numtexte="2002-388" sens="cible" typelien="CITATION">Ordonnance n° 2002-388 du 20 mars 2002 - art. 30 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771533" datesignatexte="2002-03-20" id="LEGIARTI000032656142" naturetexte="ORDONNANCE" nortexte="INTX0200012R" num="50" numtexte="2002-388" sens="cible" typelien="CITATION">Ordonnance n° 2002-388 du 20 mars 2002 - art. 50 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000412199" datesignatexte="2003-03-18" id="LEGIARTI000022469712" naturetexte="LOI" nortexte="INTX0200145L" num="23" numtexte="2003-239" sens="cible" typelien="CITATION">Loi n°2003-239 du 18 mars 2003 - art. 23 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000022235577" datesignatexte="2010-05-10" id="LEGIARTI000022236844" naturetexte="ARRETE" nortexte="IMIK1009907A" num="8" numtexte="" sens="cible" typelien="CITATION">Arrêté du 10 mai 2010 - art. 8 (V)</LIEN>
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000024389411" datesignatexte="2011-07-22" id="LEGIARTI000024395530" naturetexte="ARRETE" nortexte="IOCV1117611A" num="5" numtexte="" sens="cible" typelien="CITATION">Arrêté du 22 juillet 2011 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024404020" datesignatexte="2011-07-26" id="LEGIARTI000024404842" naturetexte="ARRETE" nortexte="IOCL1113715A" num="5" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 juillet 2011 - art. 5 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000024403998" datesignatexte="2011-07-26" id="LEGIARTI000024404804" naturetexte="ARRETE" nortexte="IOCL1113712A" num="5" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 juillet 2011 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024404049" datesignatexte="2011-07-26" id="LEGIARTI000024404881" naturetexte="ARRETE" nortexte="IOCL1113716A" num="5" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 juillet 2011 - art. 5 (V)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000025092900" datesignatexte="2011-12-29" id="LEGIARTI000025113419" naturetexte="ARRETE" nortexte="IOCL1133590A" num="5" numtexte="" sens="cible" typelien="CITATION">Arrêté du 29 décembre 2011 - art. 5 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000025746952" datesignatexte="2012-04-18" id="LEGIARTI000025748561" naturetexte="ARRETE" nortexte="IOCL1203218A" num="5" numtexte="" sens="cible" typelien="CITATION">Arrêté du 18 avril 2012 - art. 5 (V)</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000030235682" datesignatexte="2015-02-04" id="LEGIARTI000030237944" naturetexte="ARRETE" nortexte="INTV1430080A" num="5" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 4 février 2015 - art. 5 (V)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000032164264" datesignatexte="2016-03-07" id="LEGIARTI000032165661" naturetexte="LOI" nortexte="INTX1412529L" num="40" numtexte="2016-274" sens="cible" typelien="CITATION">LOI n°2016-274 du 7 mars 2016 - art. 40</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000050871007" datesignatexte="2024-12-30" id="LEGITEXT000050919098" naturetexte="DECRET" nortexte="JUSD2432326D" num="" numtexte="2024-1230" sens="cible" typelien="CITATION">Décret n°2024-1230 du 30 décembre 2024 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071360" datesignatexte="2999-01-01" id="LEGIARTI000024042628" naturetexte="CODE" nortexte="" num="L333-7" numtexte="" sens="cible" typelien="CITATION">Code de justice militaire. - art. L333-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000037110557" naturetexte="CODE" nortexte="" num="L541-1" numtexte="" sens="cible" typelien="PILOTE_SUIVEUR">Code de l'entrée et du séjour des étrangers et ... - art. L541-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000037398759" naturetexte="CODE" nortexte="" num="L541-3" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000030957569" naturetexte="CODE" nortexte="" num="L551-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000037398738" naturetexte="CODE" nortexte="" num="L561-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000037401228" naturetexte="CODE" nortexte="" num="L561-2" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000037390104" naturetexte="CODE" nortexte="" num="L571-4" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L571-4 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000006335288" naturetexte="CODE" nortexte="" num="L622-3" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L622-3 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000006335293" naturetexte="CODE" nortexte="" num="L622-7" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L622-7 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000006335300" naturetexte="CODE" nortexte="" num="L623-2" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L623-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000006335232" naturetexte="CODE" nortexte="" num="L541-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et du  - art. L541-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000030664585" naturetexte="CODE" nortexte="" num="L1333-13-17" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-17 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000030665919" naturetexte="CODE" nortexte="" num="L1333-13-7" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709554" naturetexte="CODE" nortexte="" num="L2339-17" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2339-17 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709421" naturetexte="CODE" nortexte="" num="L2341-5-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2341-5-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000019294097" naturetexte="CODE" nortexte="" num="L2342-77" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2342-77 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000022505100" naturetexte="CODE" nortexte="" num="L2344-8" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2344-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505174" naturetexte="CODE" nortexte="" num="L211-14" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L211-14 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051531477" naturetexte="CODE" nortexte="" num="230-19" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-19 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006648523" naturetexte="CODE" nortexte="" num="L362-5" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L362-5 (AbD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006648553" naturetexte="CODE" nortexte="" num="L364-9" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L364-9 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006903756" naturetexte="CODE" nortexte="" num="L5224-3" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L5224-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006904836" naturetexte="CODE" nortexte="" num="L8224-4" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8224-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006904873" naturetexte="CODE" nortexte="" num="L8256-6" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8256-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072052" datesignatexte="2999-01-01" id="LEGIARTI000006653876" naturetexte="CODE" nortexte="" num="L341-3" numtexte="" sens="cible" typelien="CITATION">Code du travail applicable à Mayotte. - art. L341-3 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000023501962" datesignatexte="2999-01-01" id="LEGIARTI000043961957" naturetexte="CODE" nortexte="" num="L512-3-1" numtexte="" sens="cible" typelien="CITATION">Code minier (nouveau) - art. L512-3-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051739534" naturetexte="CODE" nortexte="" num="131-30-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-30-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417546" naturetexte="CODE" nortexte="" num="213-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 213-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417558" naturetexte="CODE" nortexte="" num="215-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 215-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000045071049" naturetexte="CODE" nortexte="" num="221-11" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-11 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027809201" naturetexte="CODE" nortexte="" num="221-16" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-16 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000037398862" naturetexte="CODE" nortexte="" num="222-48" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-48 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032632533" naturetexte="CODE" nortexte="" num="222-64" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-64 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000037391559" naturetexte="CODE" nortexte="" num="223-21" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 223-21 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000037391592" naturetexte="CODE" nortexte="" num="224-11" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-11 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000023717945" naturetexte="CODE" nortexte="" num="225-21" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 225-21 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000037398851" naturetexte="CODE" nortexte="" num="311-15" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 311-15 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000037398840" naturetexte="CODE" nortexte="" num="312-14" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 312-14 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418256" naturetexte="CODE" nortexte="" num="321-11" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 321-11 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000037398829" naturetexte="CODE" nortexte="" num="322-16" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 322-16 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418340" naturetexte="CODE" nortexte="" num="324-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 324-8 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418417" naturetexte="CODE" nortexte="" num="414-6" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 414-6 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032925395" naturetexte="CODE" nortexte="" num="422-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 422-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418476" naturetexte="CODE" nortexte="" num="431-12" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 431-12 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418490" naturetexte="CODE" nortexte="" num="431-19" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 431-19 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000021926159" naturetexte="CODE" nortexte="" num="431-27" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 431-27 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418469" naturetexte="CODE" nortexte="" num="431-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 431-8 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043972487" naturetexte="CODE" nortexte="" num="433-21-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 433-21-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043972377" naturetexte="CODE" nortexte="" num="433-23-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 433-23-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418715" naturetexte="CODE" nortexte="" num="434-46" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 434-46 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049050708" naturetexte="CODE" nortexte="" num="435-14" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 435-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418732" naturetexte="CODE" nortexte="" num="435-5" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 435-5 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049050700" naturetexte="CODE" nortexte="" num="441-11" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 441-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418798" naturetexte="CODE" nortexte="" num="442-12" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 442-12 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418821" naturetexte="CODE" nortexte="" num="443-7" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 443-7 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418840" naturetexte="CODE" nortexte="" num="444-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 444-8 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000022686493" naturetexte="CODE" nortexte="" num="462-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 462-4 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

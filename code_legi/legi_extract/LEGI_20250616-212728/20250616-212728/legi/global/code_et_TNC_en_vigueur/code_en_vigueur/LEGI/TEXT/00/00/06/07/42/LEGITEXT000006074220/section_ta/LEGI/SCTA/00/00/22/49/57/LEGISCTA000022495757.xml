@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000022495757</ID>
+<TITRE_TA>Livre IV : Patrimoine naturel</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006143745" debut="2000-09-21" etat="MODIFIE" fin="2010-07-14" id="LEGISCTA000006143745" niv="3" url="/LEGI/SCTA/00/00/06/14/37/LEGISCTA000006143745.xml">Titre Ier : Protection de la faune et de la flore</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006143745" debut="2010-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022495755" niv="3" url="/LEGI/SCTA/00/00/22/49/57/LEGISCTA000022495755.xml">Titre Ier : Protection du patrimoine naturel</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006143746" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006143746" niv="3" url="/LEGI/SCTA/00/00/06/14/37/LEGISCTA000006143746.xml">Titre II : Chasse</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006143747" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006143747" niv="3" url="/LEGI/SCTA/00/00/06/14/37/LEGISCTA000006143747.xml">Titre III : Pêche en eau douce et gestion des ressources piscicoles</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074220" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'environnement" debut="2000-09-21" fin="2999-01-01" id_txt="LEGITEXT000006074220">Code de l'environnement</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006108630">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

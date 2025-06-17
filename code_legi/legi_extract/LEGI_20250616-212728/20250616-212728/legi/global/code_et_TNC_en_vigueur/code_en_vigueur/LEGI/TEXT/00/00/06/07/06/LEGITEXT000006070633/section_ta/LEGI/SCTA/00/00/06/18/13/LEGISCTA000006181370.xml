@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006181370</ID>
+<TITRE_TA>Section 4 : Dispositions diverses et transitoires</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394939" num="R1424-51" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045656723" num="R1424-51" origine="LEGI"/>
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394940" num="R1424-52" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2023-07-01" id="LEGIARTI000045656716" num="R1424-52" origine="LEGI"/>
+<LIEN_ART debut="2023-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047777211" num="R1424-52" origine="LEGI"/>
+<LIEN_ART debut="2013-02-22" etat="ABROGE" fin="2022-04-17" id="LEGIARTI000027091191" num="R1424-52-1" origine="LEGI"/>
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394941" num="R1424-53" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045656708" num="R1424-53" origine="LEGI"/>
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394942" num="R1424-54" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045656696" num="R1424-54" origine="LEGI"/>
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394944" num="R1424-55" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045656690" num="R1424-55" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070633" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des collectivités territoriales" debut="1996-02-24" fin="2999-01-01" id_txt="LEGITEXT000006070633">Code général des collectivités territoriales</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006088021">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006116641">PREMIERE PARTIE : DISPOSITIONS GÉNÉRALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006135522">LIVRE IV : SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006149362">TITRE II : DISPOSITIONS PROPRES À CERTAINS SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006164907">CHAPITRE IV : Services d'incendie et de secours</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

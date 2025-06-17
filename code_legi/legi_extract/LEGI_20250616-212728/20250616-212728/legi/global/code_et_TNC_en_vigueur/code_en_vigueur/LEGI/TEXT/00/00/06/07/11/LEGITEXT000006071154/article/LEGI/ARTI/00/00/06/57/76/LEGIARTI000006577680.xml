@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006577680</ID>
+<ANCIEN_ID>PXXXXXXXXXX0706L047AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/76/LEGIARTI000006577680.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-47</NUM>
+
+<ETAT>TRANSFERE</ETAT>
+
+<DATE_DEBUT>1998-06-18</DATE_DEBUT>
+<DATE_FIN>2004-03-10</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="1998-06-18" fin="2999-01-01" id="LEGISCTA000006138130">Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="TRANSFERE">
+<LIEN_ART debut="1998-06-18" etat="TRANSFERE" fin="2004-03-10" id="LEGIARTI000006577680" num="706-47" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006577681" num="706-47" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2006-04-05" id="LEGIARTI000006577682" num="706-47" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-04-05" etat="MODIFIE" fin="2013-08-07" id="LEGIARTI000006577683" num="706-47" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-08-07" etat="MODIFIE" fin="2016-04-16" id="LEGIARTI000027813052" num="706-47" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-04-16" etat="MODIFIE" fin="2018-08-06" id="LEGIARTI000032405515" num="706-47" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-08-06" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000037289461" num="706-47" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-12-27" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000042779747" num="706-47" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-04-23" etat="MODIFIE" fin="2021-12-02" id="LEGIARTI000043409371" num="706-47" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2021-12-02" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044394236" num="706-47" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les personnes poursuivies pour le meurtre ou l'assassinat d'un mineur précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie ou pour l'une des infractions visées aux articles 222-23 à 222-32 et 227-22 à 227-27 du code pénal doivent être soumises, avant tout jugement sur le fond, à une expertise médicale. L'expert est interrogé sur l'opportunité d'une injonction de soins dans le cadre d'un suivi socio-judiciaire.<br/>
+<br/>   Cette expertise peut être ordonnée dès le stade de l'enquête par le procureur de la République.<br/>
+<br/>   Cette expertise est communiquée à l'administration pénitentiaire en cas de condamnation à une peine privative de liberté, afin de faciliter le suivi médical et psychologique en détention prévu par l'article 718.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance 58-1296 1958-12-23</LIEN>
+<LIEN cidtexte="JORFTEXT000000556901" datesignatexte="1998-06-17" id="LEGIARTI000006492907" naturetexte="LOI" nortexte="JUSX9700090L" num="28" numtexte="98-468" sens="source" typelien="CREATION">Loi n°98-468 du 17 juin 1998 - art. 28 () JORF 18 juin 1998</LIEN>
+<LIEN cidtexte="JORFTEXT000000399349" datesignatexte="2000-05-18" id="LEGIARTI000006499643" naturetexte="DECRET" nortexte="JUSD0030065D" num="2" numtexte="2000-413" sens="cible" typelien="CITATION">Décret n°2000-413 du 18 mai 2000 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000779239" datesignatexte="2002-08-06" id="LEGIARTI000006493625" naturetexte="LOI" nortexte="JUSX0200109L" num="14" numtexte="2002-1062" sens="cible" typelien="CITATION">Loi n° 2002-1062 du 6 août 2002 - art. 14 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000249995" datesignatexte="2004-03-09" id="JORFTEXT000000249995" naturetexte="LOI" nortexte="JUSX0300028L" num="" numtexte="2004-204" sens="source" typelien="TRANSFERT">Loi 2004-204 2004-03-09 art. 47 2° JORF 10 mars 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000000249995" datesignatexte="2004-03-09" id="LEGIARTI000006494500" naturetexte="LOI" nortexte="JUSX0300028L" num="216" numtexte="2004-204" sens="cible" typelien="CITATION">Loi n°2004-204 du 9 mars 2004 - art. 216 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000786845" datesignatexte="2005-12-12" id="LEGIARTI000006494593" naturetexte="LOI" nortexte="JUSX0407878L" num="28" numtexte="2005-1549" sens="cible" typelien="CITATION">Loi n°2005-1549 du 12 décembre 2005 - art. 28 (V)</LIEN>
+
+
+
+
+
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039088555" naturetexte="CODE" nortexte="" num="L632-2" numtexte="" sens="cible" typelien="CITATION">Code de la justice pénale des mineurs - art. L632-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000043204205" naturetexte="CODE" nortexte="" num="L632-3" numtexte="" sens="cible" typelien="CITATION">Code de la justice pénale des mineurs - art. L632-3 (V)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000045476241" datesignatexte="2999-01-01" id="LEGIARTI000045479800" naturetexte="CODE" nortexte="" num="L512-1" numtexte="" sens="cible" typelien="CITATION">Code pénitentiaire - art. L512-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049467675" datesignatexte="2024-04-23" id="LEGITEXT000049468407" naturetexte="DECRET" nortexte="IOMD2400952D" num="" numtexte="2024-374" sens="cible" typelien="CITATION">Décret n°2024-374 du 23 avril 2024 (V)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGITEXT000006070719" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code pénal 222-23 à 222-32, 227-22 à 227-27</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577684" naturetexte="CODE" nortexte="" num="706-47-1" numtexte="" sens="source" typelien="CONCORDE">CODE DE PROCEDURE PENALE - art. 706-47-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577687" naturetexte="CODE" nortexte="" num="706-47-1" numtexte="" sens="cible" typelien="CONCORDANCE">CODE DE PROCEDURE PENALE - art. 706-47-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577704" naturetexte="CODE" nortexte="" num="706-53-1" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 706-53-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577698" naturetexte="CODE" nortexte="" num="706-54" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 706-54 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577932" naturetexte="CODE" nortexte="" num="718" numtexte="" sens="source" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 718 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517578" naturetexte="CODE" nortexte="" num="R53-10" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. R53-10 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517606" naturetexte="CODE" nortexte="" num="R53-20" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. R53-20 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006517609" naturetexte="CODE" nortexte="" num="R53-21" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. R53-21 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000025583578" naturetexte="CODE" nortexte="" num="138-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 138-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043409351" naturetexte="CODE" nortexte="" num="7" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000021958720" naturetexte="CODE" nortexte="" num="706-47-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-47-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577688" naturetexte="CODE" nortexte="" num="706-48" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-48 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577690" naturetexte="CODE" nortexte="" num="706-49" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-49 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577693" naturetexte="CODE" nortexte="" num="706-51-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-51-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045292604" naturetexte="CODE" nortexte="" num="706-52" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-52 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000037289502" naturetexte="CODE" nortexte="" num="706-53" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-53 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043409382" naturetexte="CODE" nortexte="" num="706-53-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-53-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049391767" naturetexte="CODE" nortexte="" num="706-53-7" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-53-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742096" naturetexte="CODE" nortexte="" num="706-55" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-55 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000024461825" naturetexte="CODE" nortexte="" num="712-16-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 712-16-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000029371117" naturetexte="CODE" nortexte="" num="712-21" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 712-21 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000025583584" naturetexte="CODE" nortexte="" num="712-22-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 712-22-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044569630" naturetexte="CODE" nortexte="" num="721-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 721-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047052930" naturetexte="CODE" nortexte="" num="77-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 77-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000025585884" naturetexte="CODE" nortexte="" num="775-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 775-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531911" naturetexte="CODE" nortexte="" num="8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000034098591" naturetexte="CODE" nortexte="" num="9-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 9-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000022968426" naturetexte="CODE" nortexte="" num="D147-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D147-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044360471" naturetexte="CODE" nortexte="" num="D47-11-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D47-11-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000029972708" naturetexte="CODE" nortexte="" num="D49-23" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D49-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000025072704" naturetexte="CODE" nortexte="" num="D49-65-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D49-65-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000051530972" naturetexte="CODE" nortexte="" num="L3116-3-1" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L3116-3-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

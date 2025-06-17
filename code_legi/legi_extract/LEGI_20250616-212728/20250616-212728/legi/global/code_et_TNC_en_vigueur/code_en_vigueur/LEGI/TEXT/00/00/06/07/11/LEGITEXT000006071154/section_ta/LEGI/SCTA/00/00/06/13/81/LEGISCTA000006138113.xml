@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006138113</ID>
+<TITRE_TA>Titre X : Des infractions commises hors du territoire de la République</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151919" debut="1994-03-01" etat="ABROGE" fin="1999-06-24" id="LEGISCTA000006151919" niv="4" url="/LEGI/SCTA/00/00/06/15/19/LEGISCTA000006151919.xml">Chapitre Ier : De la compétence des juridictions françaises.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151991" debut="1993-03-01" etat="ABROGE" fin="1999-06-24" id="LEGISCTA000006151991" niv="4" url="/LEGI/SCTA/00/00/06/15/19/LEGISCTA000006151991.xml">Chapitre II : De l'exercice des poursuites et de la juridiction territorialement compétente.</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

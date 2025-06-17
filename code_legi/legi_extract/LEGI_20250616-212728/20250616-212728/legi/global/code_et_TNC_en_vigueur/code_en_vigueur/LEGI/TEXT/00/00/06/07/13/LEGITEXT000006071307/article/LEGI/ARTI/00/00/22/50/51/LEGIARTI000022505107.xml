@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000022505107</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/22/50/51/LEGIARTI000022505107.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L2344-7</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2010-08-02</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071307" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la défense." debut="2004-12-21" fin="2999-01-01" id_txt="LEGITEXT000006071307">Code de la défense</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006096399">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006120656">PARTIE 2 : RÉGIMES JURIDIQUES DE DÉFENSE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006137708">LIVRE III : RÉGIMES JURIDIQUES DE DÉFENSE D'APPLICATION PERMANENTE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006151498">TITRE IV : ARMES SOUMISES À INTERDICTION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-08-02" fin="2999-01-01" id="LEGISCTA000022505136">Chapitre IV : Armes à sous-munitions</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-08-02" fin="2999-01-01" id="LEGISCTA000022505130">Section 3 : Dispositions pénales&#13;
+&#13;
+&#13;
+</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-08-02" fin="2999-01-01" id="LEGISCTA000022505126">Sous-section 2 : Sanctions pénales&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2010-08-02" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000022505107" num="L2344-7" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Loi n° 2010-819 du 20 juillet 2010 article 6 : La présente loi est applicable à compter du lendemain de la publication au Journal officiel de la convention sur les armes à sous-munitions qui entre en vigueur au plan international le 1er août 2010, si cette publication est postérieure à celle de la présente loi ou à compter du lendemain de la publication de la présente loi, dans le cas contraire. La convention a été publiée par le décret n° 2010-900 du 29 juillet 2010 au Journal officiel du 1er août 2010. </p>
+<br/>
+<br/>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>Le fait de méconnaître les interdictions mentionnées à l'article L. 2344-2 et au second alinéa de l'article L. 2344-3 est puni de dix ans d'emprisonnement et de 150 000 € d'amende. <br/>
+<br/>La tentative des délits mentionnés à l'alinéa précédent est punie des mêmes peines.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000022502271" datesignatexte="2010-07-20" id="LEGIARTI000022503930" naturetexte="LOI" nortexte="DEFD0925372L" num="1" numtexte="2010-819" sens="cible" typelien="CREE">LOI n°2010-819
+ du 20 juillet 2010 - art. 1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000022504017" naturetexte="CODE" nortexte="" num="L2344-2" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2344-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000022504019" naturetexte="CODE" nortexte="" num="L2344-3" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2344-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000022505094" naturetexte="CODE" nortexte="" num="L2344-9" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2344-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742218" naturetexte="CODE" nortexte="" num="28-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

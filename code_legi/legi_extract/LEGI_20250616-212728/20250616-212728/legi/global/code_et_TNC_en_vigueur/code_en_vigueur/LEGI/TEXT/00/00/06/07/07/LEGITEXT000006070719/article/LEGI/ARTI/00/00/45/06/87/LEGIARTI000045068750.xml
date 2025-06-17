@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000045068750</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/45/06/87/LEGIARTI000045068750.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>221-5-6</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2022-01-26</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149826">Chapitre Ier : Des atteintes à la vie de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-01-26" fin="2999-01-01" id="LEGISCTA000045068748">Section 1 bis : De l'atteinte à la vie résultant d'une intoxication volontaire </TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2022-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045068750" num="221-5-6" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait pour une personne d'avoir consommé volontairement, de façon illicite ou manifestement excessive, des substances psychoactives en ayant connaissance du fait que cette consommation est susceptible de la conduire à mettre délibérément autrui en danger, lorsque cette consommation a entraîné un trouble psychique ou neuropsychique temporaire sous l'empire duquel elle a commis un homicide volontaire dont elle est déclarée pénalement irresponsable en application du premier alinéa de l'article 122-1. <br/>
+<br/>Si l'infraction prévue au premier alinéa du présent article a été commise par une personne qui a été précédemment déclarée pénalement irresponsable d'un homicide volontaire en application du premier alinéa de l'article 122-1 en raison d'une abolition de son discernement ou du contrôle de ses actes résultant d'un trouble psychique ou neuropsychique temporaire provoqué par la même consommation volontaire de substances psychoactives, la peine est portée à quinze ans de réclusion criminelle. Dans les cas prévus au présent alinéa, les articles 132-8 et 132-9 ne sont pas applicables.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000045067923" datesignatexte="2022-01-24" id="LEGIARTI000045068689" naturetexte="LOI" nortexte="JUSX2116059L" num="3" numtexte="2022-52" sens="cible" typelien="CREE">LOI n°2022-52 du 24 janvier 2022 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000045653738" datesignatexte="2022-04-25" id="LEGIARTI000045655990" naturetexte="DECRET" nortexte="JUSD2211663D" num="2" numtexte="2022-657" sens="cible" typelien="CITATION">Décret n°2022-657 du 25 avril 2022 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045069227" naturetexte="CODE" nortexte="" num="706-139-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-139-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045069229" naturetexte="CODE" nortexte="" num="706-139-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-139-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742096" naturetexte="CODE" nortexte="" num="706-55" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-55 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045656179" naturetexte="CODE" nortexte="" num="D47-37-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D47-37-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417213" naturetexte="CODE" nortexte="" num="122-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 122-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417365" naturetexte="CODE" nortexte="" num="132-8" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417366" naturetexte="CODE" nortexte="" num="132-9" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-9 (V)</LIEN>
+</LIENS>
+</ARTICLE>

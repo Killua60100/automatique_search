@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000046708552</ID>
+<TITRE_TA>Sous-section 4 : Corps départemental de sapeurs-pompiers (R)</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000006394890" num="R1424-21" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2017-12-31" id="LEGIARTI000033834526" num="R1424-21" origine="LEGI"/>
+<LIEN_ART debut="2017-12-31" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000036413421" num="R1424-21" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045656466" num="R1424-21" origine="LEGI"/>
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394891" num="R1424-22" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043498429" num="R1424-22" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000045656460" num="R1424-22" origine="LEGI"/>
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2009-10-15" id="LEGIARTI000006394892" num="R1424-23" origine="LEGI"/>
+<LIEN_ART debut="2009-10-15" etat="MODIFIE" fin="2010-11-19" id="LEGIARTI000021150433" num="R1424-23" origine="LEGI"/>
+<LIEN_ART debut="2010-11-19" etat="MODIFIE" fin="2015-06-20" id="LEGIARTI000023280431" num="R1424-23" origine="LEGI"/>
+<LIEN_ART debut="2015-06-20" etat="MODIFIE" fin="2020-02-22" id="LEGIARTI000030750981" num="R1424-23" origine="LEGI"/>
+<LIEN_ART debut="2020-02-22" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000041615201" num="R1424-23" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2024-12-05" id="LEGIARTI000045656245" num="R1424-23" origine="LEGI"/>
+<LIEN_ART debut="2024-12-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000050723487" num="R1424-23" origine="LEGI"/>
+<LIEN_ART debut="2001-07-31" etat="MODIFIE" fin="2012-05-01" id="LEGIARTI000006394893" num="R1424-23-1" origine="LEGI"/>
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000025738822" num="R1424-23-1" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045656394" num="R1424-23-1" origine="LEGI"/>
+<LIEN_ART debut="2001-07-31" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394894" num="R1424-23-2" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2025-06-14" id="LEGIARTI000045656358" num="R1424-23-2" origine="LEGI"/>
+<LIEN_ART debut="2025-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051728537" num="R1424-23-2" origine="LEGI"/>
+<LIEN_ART debut="2001-07-31" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394895" num="R1424-23-3" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2025-06-14" id="LEGIARTI000045656449" num="R1424-23-3" origine="LEGI"/>
+<LIEN_ART debut="2025-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051728526" num="R1424-23-3" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070633" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des collectivités territoriales" debut="1996-02-24" fin="2999-01-01" id_txt="LEGITEXT000006070633">Code général des collectivités territoriales</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006088021">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006116641">PREMIERE PARTIE : DISPOSITIONS GÉNÉRALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006135522">LIVRE IV : SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006149362">TITRE II : DISPOSITIONS PROPRES À CERTAINS SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006164907">CHAPITRE IV : Services d'incendie et de secours</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2022-04-17" id="LEGISCTA000006181367">Section 1 : Service départemental d'incendie et de secours (R)</TITRE_TM>
+<TITRE_TM debut="2022-04-17" fin="2999-01-01" id="LEGISCTA000045656215">Section 1 : Services départementaux et territoriaux d'incendie et de secours</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

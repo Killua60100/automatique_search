@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006121325</ID>
+<TITRE_TA>Livre II : Des juridictions de jugement</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138092" debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006138092" niv="3" url="/LEGI/SCTA/00/00/06/13/80/LEGISCTA000006138092.xml">Titre Ier : De la cour d'assises</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138092" debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044568358" niv="3" url="/LEGI/SCTA/00/00/44/56/83/LEGISCTA000044568358.xml">Titre Ier : De la cour d'assises et de la cour criminelle départementale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138093" debut="1959-03-02" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138093" niv="3" url="/LEGI/SCTA/00/00/06/13/80/LEGISCTA000006138093.xml">Titre II : Du jugement des délits</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138094" debut="1959-03-02" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138094" niv="3" url="/LEGI/SCTA/00/00/06/13/80/LEGISCTA000006138094.xml">Titre III : Du jugement des contraventions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138096" debut="1959-03-02" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138096" niv="3" url="/LEGI/SCTA/00/00/06/13/80/LEGISCTA000006138096.xml">Titre IV : Des citations et significations</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

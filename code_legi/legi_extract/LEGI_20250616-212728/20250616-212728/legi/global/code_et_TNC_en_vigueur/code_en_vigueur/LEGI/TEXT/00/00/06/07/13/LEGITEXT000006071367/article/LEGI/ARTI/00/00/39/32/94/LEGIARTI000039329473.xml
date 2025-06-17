@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000039329473</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/39/32/94/LEGIARTI000039329473.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L251-14</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2019-12-14</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006138324">Titre V : La protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006152215">Chapitre Ier : La surveillance biologique du territoire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2019-12-14" id="LEGISCTA000006167717">Section 2 : Les mesures de protection contre les organismes nuisibles.</TITRE_TM>
+<TITRE_TM debut="2019-12-14" fin="2999-01-01" id="LEGISCTA000039329367">Section 2 : Les mesures de protection contre les organismes nuisibles aux végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2019-12-14" fin="2999-01-01" id="LEGISCTA000039303636">Sous-section 2 : Certifications officielles, contrôles officiels et autres activités officielles </TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2005-02-24" id="LEGIARTI000006583183" num="L251-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-02-24" etat="MODIFIE" fin="2010-05-08" id="LEGIARTI000006583184" num="L251-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2011-07-24" id="LEGIARTI000022189450" num="L251-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-07-24" etat="MODIFIE" fin="2014-10-15" id="LEGIARTI000024396708" num="L251-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-10-15" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000029595264" num="L251-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-06-06" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000030680052" num="L251-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-12-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039329473" num="L251-14" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>En application du règlement (UE) 2016/2031 du 26 octobre 2016, dans le cadre des contrôles officiels sur les végétaux, produits végétaux et autres objets introduits ou mis en circulation sur le territoire de l'Union, lorsqu'est constatée ou suspectée la présence d'un organisme nuisible réglementé conformément aux 1°, 2°, 3°, 4° ou 5° de l'article L. 251-3 du présent code, ou susceptible de l'être conformément à l'article 29 de ce règlement, ou lorsque des végétaux, produits végétaux ou autres objets ne respectent pas les exigences fixées par le même règlement ou les actes délégués, actes d'exécution ou dispositions nationales pris pour son application, les agents habilités par l'autorité administrative peuvent ordonner la destruction, la consignation, le retrait ou le rappel de tout ou partie du lot ou toutes autres mesures qu'ils jugent appropriées pour s'assurer du respect de ces exigences dans un délai qu'ils déterminent. Le cas échéant, ils peuvent annuler et retirer le passeport phytosanitaire de l'unité commerciale concernée. </p>
+<p>En cas d'inexécution des mesures dans les délais prescrits, les agents habilités font procéder à la destruction d'office du lot aux frais du propriétaire ou du détenteur.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000039297041" datesignatexte="2019-10-30" id="LEGIARTI000039300436" naturetexte="ORDONNANCE" nortexte="AGRG1922672R" num="4" numtexte="2019-1110" sens="cible" typelien="MODIFIE">Ordonnance n°2019-1110 du 30 octobre 2019 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000042659707" datesignatexte="2020-12-11" id="LEGIARTI000042660994" naturetexte="DECRET" nortexte="TREP2018387D" num="10" numtexte="2020-1573" sens="cible" typelien="CITATION">Décret n°2020-1573 du 11 décembre 2020 - art. 10</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000042662503" naturetexte="CODE" nortexte="" num="D543-227-1" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. D543-227-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000033035432" naturetexte="CODE" nortexte="" num="L411-7" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L411-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000019906305" naturetexte="CODE" nortexte="" num="D251-6" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D251-6 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000022191087" naturetexte="CODE" nortexte="" num="L205-11" numtexte="" sens="cible" typelien="CITATION">Code rural - art. L205-11 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006583168" naturetexte="CODE" nortexte="" num="L251-3" numtexte="" sens="source" typelien="CITATION">Code rural - art. L251-3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code rural L951-14</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000026119320" naturetexte="CODE" nortexte="" num="D251-2-2" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D251-2-2 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044909946" naturetexte="CODE" nortexte="" num="D251-2-3" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D251-2-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039503591" naturetexte="CODE" nortexte="" num="D251-7" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D251-7 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000051737486" naturetexte="CODE" nortexte="" num="L251-20" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000022200530" naturetexte="CODE" nortexte="" num="L252-5" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L252-5 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039503578" naturetexte="CODE" nortexte="" num="R251-8" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R251-8 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039503561" naturetexte="CODE" nortexte="" num="R251-9" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R251-9 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006418721</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X435L01AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/87/LEGIARTI000006418721.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>435-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2002-01-01</DATE_DEBUT>
+<DATE_FIN>2007-11-14</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006136046">Titre III : Des atteintes à l'autorité de l'Etat</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-07-01" fin="2007-11-14" id="LEGISCTA000006149851">Chapitre V : Des atteintes à l'administration publique des Communautés européennes, des Etats membres de l'Union européenne, des autres Etats étrangers et des organisations internationales publiques</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-07-01" fin="2007-11-14" id="LEGISCTA000006165382">Section 1 : De la corruption passive.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-07-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418720" num="435-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2007-11-14" id="LEGIARTI000006418721" num="435-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-11-14" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006418722" num="435-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000024041405" num="435-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-12-08" etat="MODIFIE" fin="2019-09-20" id="LEGIARTI000028311953" num="435-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-09-20" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000039113354" num="435-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2020-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042780042" num="435-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Pour l'application de la convention relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés européennes ou des fonctionnaires des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997, est puni de dix ans d'emprisonnement et de 150000 euros d'amende le fait par un fonctionnaire communautaire ou un fonctionnaire national d'un autre Etat membre de l'Union européenne ou par un membre de la Commission des Communautés européennes, du Parlement européen, de la Cour de justice et de la Cour des comptes des Communautés européennes de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour accomplir ou s'abstenir d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000722860" datesignatexte="1992-07-22" id="JORFTEXT000000722860" naturetexte="LOI" nortexte="JUSX9100041L" num="" numtexte="92-686" sens="source" typelien="CODIFICATION">Loi 92-686 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000386448" datesignatexte="2000-06-30" id="LEGIARTI000006493505" naturetexte="LOI" nortexte="JUSX9800178L" num="3" numtexte="2000-595" sens="source" typelien="SPEC_APPLI">Loi n°2000-595 du 30 juin 2000 - art. 3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000386448" datesignatexte="2000-06-30" id="LEGIARTI000006493511" naturetexte="LOI" nortexte="JUSX9800178L" num="8" numtexte="2000-595" sens="source" typelien="SPEC_APPLI">Loi n°2000-595 du 30 juin 2000 - art. 8 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000219672" datesignatexte="2000-09-19" id="LEGIARTI000006716442" naturetexte="ORDONNANCE" nortexte="JUSX0000106R" num="3" numtexte="2000-916" sens="source" typelien="MODIFICATION">Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000043567430" datesignatexte="2021-05-31" id="LEGIARTI000043568394" naturetexte="DECRET" nortexte="JUSD2115808D" num="2" numtexte="2021-694" sens="cible" typelien="CITATION">Décret n°2021-694 du 31 mai 2021 - art. 2</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577500" naturetexte="CODE" nortexte="" num="704" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 704 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033460406" naturetexte="CODE" nortexte="" num="2-23" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044550454" naturetexte="CODE" nortexte="" num="56-1-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 56-1-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039113320" naturetexte="CODE" nortexte="" num="689-8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 689-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039279324" naturetexte="CODE" nortexte="" num="705" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 705 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000028312388" naturetexte="CODE" nortexte="" num="706-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047860986" naturetexte="CODE" nortexte="" num="706-1-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-1-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000024041508" naturetexte="CODE" nortexte="" num="706-1-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-1-3 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043570713" naturetexte="CODE" nortexte="" num="D47-1-31" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D47-1-31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051741809" naturetexte="CODE" nortexte="" num="131-26-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-26-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049776984" naturetexte="CODE" nortexte="" num="435-16" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 435-16 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418735" naturetexte="CODE" nortexte="" num="435-6" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 435-6 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742366" naturetexte="CODE" nortexte="" num="435-6-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 435-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000033563720" naturetexte="CODE" nortexte="" num="435-6-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 435-6-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

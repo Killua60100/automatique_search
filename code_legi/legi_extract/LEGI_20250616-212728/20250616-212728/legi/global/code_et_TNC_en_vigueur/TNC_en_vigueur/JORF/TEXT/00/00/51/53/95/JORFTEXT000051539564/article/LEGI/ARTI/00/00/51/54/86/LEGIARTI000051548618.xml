@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051548618</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/54/86/LEGIARTI000051548618.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>10</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-05-03</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000051539564" date_publi="2025-05-02" date_signature="2025-03-26" ministere="Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche" nature="ARRETE" nor="MENE2507350A" num="" num_parution_jo="0103">
+<TITRE_TXT c_titre_court="Arrêté du 26 mars 2025" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000051539564">Arrêté du 26 mars 2025 portant création de la spécialité « conducteur routier de marchandises » de certificat d'aptitude professionnelle et fixant ses modalités de délivrance</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 26 mars 2025" debut="2025-05-03" fin="2999-01-01" id_txt="LEGITEXT000051548565">Arrêté du 26 mars 2025 portant création de la spécialité « conducteur routier de marchandises » de certificat d'aptitude professionnelle et fixant ses modalités de délivrance</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-05-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051548618" num="10" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000051539606" num="10" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Les candidats au certificat d'aptitude professionnelle « conducteur routier de marchandises », option « Livraisons de proximité », par la voie de la validation des acquis de l'expérience (VAE) doivent être titulaires du permis de conduire de catégorie C et de la carte de qualification de conducteur correspondante en cours de validité.<br/>Les candidats au certificat d'aptitude professionnelle « conducteur routier de marchandises », option « Livraisons longue distance », par la voie de la validation des acquis de l'expérience (VAE) doivent être titulaires du permis de conduire de catégorie CE et de la carte de qualification de conducteur correspondante en cours de validité.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS/>
+</ARTICLE>

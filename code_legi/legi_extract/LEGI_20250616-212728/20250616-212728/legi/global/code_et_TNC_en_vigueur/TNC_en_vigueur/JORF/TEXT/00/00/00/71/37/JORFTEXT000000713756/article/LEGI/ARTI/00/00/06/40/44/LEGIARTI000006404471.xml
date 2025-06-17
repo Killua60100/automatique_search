@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006404471</ID>
+<ANCIEN_ID>PAEAGXXXXXX005AAXXXXXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/40/44/LEGIARTI000006404471.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+
+<ETAT>ABROGE</ETAT>
+
+<DATE_DEBUT>1996-04-30</DATE_DEBUT>
+<DATE_FIN>2004-12-21</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000713756" date_publi="1994-07-16" date_signature="1994-07-15" ministere="" nature="LOI" nor="DEFX9400020L" num="94-589" num_parution_jo="0163">
+<TITRE_TXT c_titre_court="LOI n° 94-589 du 15 juillet 1994" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000713756">LOI n° 94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de contrôle en mer (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2019-05-09" fin="2999-01-01" id_txt="LEGITEXT000038452858">Loi n° 94-589 du 15 juillet 1994 relative à l'exercice par l'Etat de ses pouvoirs de police en mer pour la lutte contre certaines infractions relevant de conventions internationales</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 94-589 du 15 juillet 1994" debut="2011-01-07" fin="2019-05-09" id_txt="LEGITEXT000023386330">Loi n° 94-589 du 15 juillet 1994 relative à la lutte contre la piraterie et aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2005-04-23" fin="2011-01-07" id_txt="LEGITEXT000005616201">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="1994-07-16" fin="2005-04-23" id_txt="LEGITEXT000005616200">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1996-04-30" fin="2004-12-21" id="LEGISCTA000006088682">Titre Ier : Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-07-16" etat="MODIFIE" fin="1996-04-30" id="LEGIARTI000006404470" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1996-04-30" etat="ABROGE" fin="2004-12-21" id="LEGIARTI000006404471" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000023386309" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-05-09" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000038452910" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743674" num="5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Lorsque l'accès à bord a été refusé ou s'est trouvé matériellement impossible, le commandant ou le commandant de bord peut ordonner le déroutement du navire vers la position ou le port appropriés.<br/>
+<br/>   Le commandant ou le commandant de bord peut également ordonner le déroutement du navire vers une position ou un port appropriés dans les cas suivants :<br/>
+<br/>   - soit en application du droit international ;<br/>
+<br/>   - soit en vertu de dispositions législatives ou réglementaires particulières ;<br/>
+<br/>   - soit pour l'exécution d'une décision de justice ;<br/>
+<br/>   - soit à la demande d'une autorité qualifiée en matière de police judiciaire.<br/>
+<br/>   Le commandant ou le commandant de bord désigne la position ou le port de déroutement en accord avec l'autorité de contrôle des opérations.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000006404478" naturetexte="LOI" nortexte="DEFX9400020L" num="8" numtexte="94-589" sens="cible" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 8 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000377272" datesignatexte="1996-04-29" id="LEGIARTI000006492818" naturetexte="LOI" nortexte="JUSX9400124L" num="1" numtexte="96-359" sens="source" typelien="MODIFICATION">Loi n°96-359 du 29 avril 1996 - art. 1 () JORF 30 avril 1996</LIEN>
+<LIEN cidtexte="JORFTEXT000000238564" datesignatexte="2004-12-20" id="LEGIARTI000006236766" naturetexte="ORDONNANCE" nortexte="DEFX0400190R" num="5" numtexte="2004-1374" sens="source" typelien="ABROGATION">Ordonnance n°2004-1374 du 20 décembre 2004 - art. 5 (V) JORF 21 décembre 2004</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539742" naturetexte="CODE" nortexte="" num="L1521-5" numtexte="" sens="cible" typelien="CONCORDANCE">Code de la défense. - art. L1521-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539741" naturetexte="CODE" nortexte="" num="L1521-5" numtexte="" sens="source" typelien="CONCORDE">Code de la défense. - art. L1521-5 (M)</LIEN>
+</LIENS>
+</ARTICLE>

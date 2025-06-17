@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000031421861</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/31/42/18/LEGITEXT000031421861.xml</URL>
+<NATURE>DECRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000031421481</CID>
+<NUM>2015-1400</NUM>
+<NUM_PARUTION>0257</NUM_PARUTION>
+<NUM_SEQUENCE>25</NUM_SEQUENCE>
+<NOR>INTB1512441D</NOR>
+<DATE_PUBLI>2015-11-05</DATE_PUBLI>
+<DATE_TEXTE>2015-11-03</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2016-01-01</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0257 du 5 novembre 2015</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI>20666</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>20666</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>DÉCRET n°2015-1400 du 3 novembre 2015</TITRE>
+<TITREFULL>Décret n° 2015-1400 du 3 novembre 2015 relatif à l'allocation différentielle de fin de mandat des élus locaux</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2016-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000030423022" datesignatexte="2015-03-31" id="JORFTEXT000030423022" naturetexte="LOI" nortexte="RDFX1303221L" num="" numtexte="2015-366" sens="source" typelien="APPLICATION">LOI n° 2015-366 du 31 mars 2015</LIEN>
+<LIEN cidtexte="JORFTEXT000030423022" datesignatexte="2015-03-31" id="JORFTEXT000030423022" naturetexte="LOI" nortexte="RDFX1303221L" num="" numtexte="2015-366" sens="source" typelien="CITATION">LOI n°2015-366 du 31 mars 2015 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030423022" datesignatexte="2015-03-31" id="JORFARTI000030423098" naturetexte="LOI" nortexte="RDFX1303221L" num="12" numtexte="2015-366" sens="source" typelien="CITATION">LOI n°2015-366 du 31 mars 2015 - art. 12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070300" datesignatexte="2999-01-01" id="LEGITEXT000006070300" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des communes de la Nouvelle-Calédonie (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGITEXT000006070633" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGISCTA000006088021" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales -  Partie réglementaire (V)</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Le Premier ministre,<br/>Sur le rapport du ministre de l'intérieur et de la ministre de la décentralisation et de la fonction publique,<br/>Vu le code général des collectivités territoriales ;<br/>Vu le code des communes de la Nouvelle-Calédonie ;<br/>Vu la loi n° 2015-366 du 31 mars 2015 visant à faciliter l'exercice, par les élus locaux, de leur mandat, notamment ses articles 18 et 19 ;<br/>Vu l'avis du Conseil national d'évaluation des normes en date du 2 juillet 2015 ;<br/>Le Conseil d'Etat (section de l'intérieur) entendu,<br/>Décrète :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 3 novembre 2015.</p>
+</div>
+<div align="left">
+<p>Manuel Valls</p>
+<p>Par le Premier ministre :</p>
+</div>
+<div align="left">
+<p>Le ministre de l'intérieur,</p>
+<p>Bernard Cazeneuve</p>
+</div>
+<div align="left">
+<p>La ministre de la décentralisation et de la fonction publique,</p>
+<p>Marylise Lebranchu</p>
+</div>
+<div align="left">
+<p>La ministre des outre-mer,</p>
+<p>George Pau-Langevin</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

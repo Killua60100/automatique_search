@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023712497</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/71/24/LEGIARTI000023712497.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-102-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-03-16</DATE_DEBUT>
+<DATE_FIN>2014-11-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-03-16" fin="2019-06-01" id="LEGISCTA000023712495">Section 6 bis : De la captation des données informatiques &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-11-15" id="LEGIARTI000023712497" num="706-102-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-11-15" etat="MODIFIE" fin="2015-08-19" id="LEGIARTI000029760002" num="706-102-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-08-19" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000031052071" num="706-102-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000032654038" num="706-102-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038311624" num="706-102-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>Lorsque les nécessités de l'information concernant un crime ou un délit entrant dans le champ d'application de l'article 706-73 l'exigent, le juge d'instruction peut, après avis du procureur de la République, autoriser par ordonnance motivée les officiers et agents de police judiciaire commis sur commission rogatoire à mettre en place un dispositif technique ayant pour objet, sans le consentement des intéressés, d'accéder, en tous lieux, à des données informatiques, de les enregistrer, les conserver et les transmettre, telles qu'elles s'affichent sur un écran pour l'utilisateur d'un système de traitement automatisé de données ou telles qu'il les y introduit par saisie de caractères. Ces opérations sont effectuées sous l'autorité et le contrôle du juge d'instruction.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000023707312" datesignatexte="2011-03-14" id="LEGIARTI000023708789" naturetexte="LOI" nortexte="IOCX0903274L" num="36" numtexte="2011-267" sens="cible" typelien="CREE">LOI n°2011-267
+ du 14 mars 2011 - art. 36</LIEN>
+
+<LIEN cidtexte="JORFTEXT000024752774" datesignatexte="2011-11-03" id="LEGITEXT000024755534" naturetexte="DECRET" nortexte="IOCJ1122274D" num="" numtexte="2011-1431" sens="cible" typelien="CITATION">Décret n°2011-1431
+ du 3 novembre 2011 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026241910" datesignatexte="2012-07-04" id="LEGIARTI000033064189" naturetexte="ARRETE" nortexte="PRMD1230326A" num="Annexe I" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 juillet 2012 - art. Annexe I (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026241910" datesignatexte="2012-07-04" id="LEGIARTI000033064203" naturetexte="ARRETE" nortexte="PRMD1230326A" num="Annexe II" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 juillet 2012 - art. Annexe II (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029279020" datesignatexte="2014-07-21" id="LEGITEXT000029279405" naturetexte="DECRET" nortexte="INTJ1407702D" num="" numtexte="2014-827" sens="cible" typelien="CITATION">DÉCRET n°2014-827 du 21 juillet 2014 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030913775" datesignatexte="2015-07-17" id="LEGITEXT000030914964" naturetexte="ARRETE" nortexte="PRMD1512671A" num="" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 17 juillet 2015 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000031646377" datesignatexte="2015-12-18" id="LEGITEXT000031649173" naturetexte="DECRET" nortexte="INTD1508550D" num="" numtexte="2015-1700" sens="cible" typelien="CITATION">Décret n°2015-1700 du 18 décembre 2015 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000031646377" datesignatexte="2015-12-18" id="LEGIARTI000031649184" naturetexte="DECRET" nortexte="INTD1508550D" num="1" numtexte="2015-1700" sens="cible" typelien="CITATION">Décret n°2015-1700 du 18 décembre 2015 - art. 1 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000031646377" datesignatexte="2015-12-18" id="LEGIARTI000041476964" naturetexte="DECRET" nortexte="INTD1508550D" num="2" numtexte="2015-1700" sens="cible" typelien="CITATION">Décret n°2015-1700 du 18 décembre 2015 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000031646377" datesignatexte="2015-12-18" id="LEGIARTI000041476977" naturetexte="DECRET" nortexte="INTD1508550D" num="4" numtexte="2015-1700" sens="cible" typelien="CITATION">Décret n°2015-1700 du 18 décembre 2015 - art. 4 (V)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000034475225" datesignatexte="2017-04-24" id="LEGIARTI000038582185" naturetexte="DECRET" nortexte="JUST1710972D" num="2" numtexte="2017-614" sens="cible" typelien="CITATION">Décret n°2017-614 du 24 avril 2017 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000036887904" datesignatexte="2018-05-09" id="LEGIARTI000036891336" naturetexte="ARRETE" nortexte="INTR1802937A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 9 mai 2018 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000036969968" datesignatexte="2018-05-30" id="LEGITEXT000036971244" naturetexte="DECRET" nortexte="INTR1802958D" num="" numtexte="2018-425" sens="cible" typelien="CITATION">Décret n°2018-425 du 30 mai 2018 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000039749506" datesignatexte="2019-12-31" id="LEGITEXT000041440630" naturetexte="DECRET" nortexte="INTD1927956D" num="" numtexte="2019-1602" sens="cible" typelien="CITATION">Décret n°2019-1602 du 31 décembre 2019 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000039749506" datesignatexte="2019-12-31" id="LEGIARTI000041440645" naturetexte="DECRET" nortexte="INTD1927956D" num="1" numtexte="2019-1602" sens="cible" typelien="CITATION">Décret n°2019-1602 du 31 décembre 2019 - art. 1</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000045640630" datesignatexte="2022-04-22" id="LEGITEXT000045643810" naturetexte="DECRET" nortexte="INTJ2122804D" num="" numtexte="2022-623" sens="cible" typelien="CITATION">Décret n°2022-623 du 22 avril 2022 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051058698" datesignatexte="2025-01-28" id="LEGITEXT000051060033" naturetexte="DECRET" nortexte="INTJ2401963D" num="" numtexte="2025-79" sens="cible" typelien="CITATION">Décret n°2025-79 du 28 janvier 2025 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023712500" naturetexte="CODE" nortexte="" num="706-102-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-102-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742899" naturetexte="CODE" nortexte="" num="706-102-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-102-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311615" naturetexte="CODE" nortexte="" num="706-102-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-102-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032654004" naturetexte="CODE" nortexte="" num="706-102-6" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-102-6 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032653998" naturetexte="CODE" nortexte="" num="706-102-7" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-102-7 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000035937330" naturetexte="CODE" nortexte="" num="706-24-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-24-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051063277" naturetexte="CODE" nortexte="" num="D15-1-6" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D15-1-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000042193578" naturetexte="CODE" nortexte="" num="226-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 226-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

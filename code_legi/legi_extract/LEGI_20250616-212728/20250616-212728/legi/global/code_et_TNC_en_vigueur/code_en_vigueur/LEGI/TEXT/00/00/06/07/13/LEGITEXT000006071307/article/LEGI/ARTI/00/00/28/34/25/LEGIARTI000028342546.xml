@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000028342546</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/28/34/25/LEGIARTI000028342546.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L2321-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2013-12-20</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071307" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la défense." debut="2004-12-21" fin="2999-01-01" id_txt="LEGITEXT000006071307">Code de la défense</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006096399">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006120656">PARTIE 2 : RÉGIMES JURIDIQUES DE DÉFENSE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006137708">LIVRE III : RÉGIMES JURIDIQUES DE DÉFENSE D'APPLICATION PERMANENTE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006151496">TITRE II : SÉCURITÉ DES SYSTÈMES D'INFORMATION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2013-12-20" id="LEGISCTA000018095363">Chapitre Ier : Responsabilités</TITRE_TM>
+<TITRE_TM debut="2013-12-20" fin="2999-01-01" id="LEGISCTA000028345135">Chapitre Ier : Responsabilités</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2013-12-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028342546" num="L2321-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>Pour répondre à une attaque informatique qui vise les systèmes d'information affectant le potentiel de guerre ou économique, la sécurité ou la capacité de survie de la Nation, les services de l'Etat peuvent, dans les conditions fixées par le Premier ministre, procéder aux opérations techniques nécessaires à la caractérisation de l'attaque et à la neutralisation de ses effets en accédant aux systèmes d'information qui sont à l'origine de l'attaque.<br/>
+<br/>  Pour être en mesure de répondre aux attaques mentionnées au premier alinéa, les services de l'Etat déterminés par le Premier ministre peuvent détenir des équipements, des instruments, des programmes informatiques et toutes données susceptibles de permettre la réalisation d'une ou plusieurs des infractions prévues aux articles 323-1 à 323-3 du code pénal, en vue d'analyser leur conception et d'observer leur fonctionnement.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000028338825" datesignatexte="2013-12-18" id="LEGIARTI000028340490" naturetexte="LOI" nortexte="DEFX1317084L" num="21" numtexte="2013-1168" sens="cible" typelien="CREE">LOI n°2013-1168
+ du 18 décembre 2013 - art. 21</LIEN>
+<LIEN cidtexte="JORFTEXT000030943456" datesignatexte="2015-07-17" id="LEGIARTI000034719788" naturetexte="ARRETE" nortexte="PRMD1515011A" num="1" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 17 juillet 2015 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030943456" datesignatexte="2015-07-17" id="LEGIARTI000030946293" naturetexte="ARRETE" nortexte="PRMD1515011A" num="2" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 17 juillet 2015 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034579384" datesignatexte="2017-05-04" id="LEGITEXT000034606685" naturetexte="ARRETE" nortexte="PRMD1712727A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 mai 2017 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034580618" datesignatexte="2017-05-04" id="LEGITEXT000034587367" naturetexte="DECRET" nortexte="DEFD1708457D" num="" numtexte="2017-743" sens="cible" typelien="CITATION">Décret n°2017-743 du 4 mai 2017 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418314" naturetexte="CODE" nortexte="" num="323-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 323-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000034587936" naturetexte="CODE" nortexte="" num="D3121-14-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. D3121-14-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740822" naturetexte="CODE" nortexte="" num="706-105-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-105-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

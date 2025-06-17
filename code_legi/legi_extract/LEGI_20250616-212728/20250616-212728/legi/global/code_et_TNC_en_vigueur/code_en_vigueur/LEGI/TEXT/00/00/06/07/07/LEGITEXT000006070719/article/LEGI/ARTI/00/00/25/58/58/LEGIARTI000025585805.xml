@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000025585805</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/25/58/58/LEGIARTI000025585805.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>450-5</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2012-03-29</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2025-06-15" id="LEGISCTA000006136048">Titre V : De la participation à une association de malfaiteurs</TITRE_TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051741807">Titre V : De la participation à une association de malfaiteurs et du concours à une organisation criminelle</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006418857" num="450-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2012-03-29" id="LEGIARTI000006418858" num="450-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-03-29" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000025585805" num="450-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741757" num="450-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Les personnes physiques et morales reconnues coupables des infractions prévues au deuxième alinéa de l'article 450-1 et à l'article 321-6-1 encourent également la peine complémentaire de confiscation de tout ou partie des biens leur appartenant ou, sous réserve des droits du propriétaire de bonne foi, dont elles ont la libre disposition, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000722860" datesignatexte="1992-07-22" id="JORFTEXT000000722860" naturetexte="LOI" nortexte="JUSX9100041L" num="" numtexte="92-686" sens="source" typelien="CODIFICATION">Loi n°92-686 du 22 juillet 1992</LIEN>
+<LIEN cidtexte="JORFTEXT000025582235" datesignatexte="2012-03-27" id="LEGIARTI000025583180" naturetexte="LOI" nortexte="JUSX1128281L" num="13" numtexte="2012-409" sens="cible" typelien="MODIFIE">LOI n°2012-409
+ du 27 mars 2012 - art. 13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418245" naturetexte="CODE" nortexte="" num="321-6-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 321-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418849" naturetexte="CODE" nortexte="" num="450-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 450-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

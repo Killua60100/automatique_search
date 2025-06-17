@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000025507257</ID>
+<TITRE_TA>Chapitre III : Sapeurs-pompiers</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025506678" debut="2012-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000025507255" niv="5" url="/LEGI/SCTA/00/00/25/50/72/LEGISCTA000025507255.xml">Section 1 : Missions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025506682" debut="2012-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000025507252" niv="5" url="/LEGI/SCTA/00/00/25/50/72/LEGISCTA000025507252.xml">Section 2 : Sapeurs-pompiers professionnels</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025506689" debut="2012-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000025507246" niv="5" url="/LEGI/SCTA/00/00/25/50/72/LEGISCTA000025507246.xml">Section 3 : Sapeurs-pompiers volontaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000044370782" debut="2021-11-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044370782" niv="5" url="/LEGI/SCTA/00/00/44/37/07/LEGISCTA000044370782.xml">Section 4 : Promotions à titre exceptionnel </LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507275">LIVRE VII : SÉCURITÉ CIVILE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507268">TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

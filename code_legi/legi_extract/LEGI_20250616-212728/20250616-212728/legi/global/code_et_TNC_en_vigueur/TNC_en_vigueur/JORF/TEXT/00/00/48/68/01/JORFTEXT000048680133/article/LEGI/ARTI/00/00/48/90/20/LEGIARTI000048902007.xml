@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000048902007</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/48/90/20/LEGIARTI000048902007.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000048680133" date_publi="2023-12-28" date_signature="2023-12-19" ministere="Ministère de la transition énergétique" nature="ARRETE" nor="ENER2334670A" num="" num_parution_jo="0300">
+<TITRE_TXT c_titre_court="Arrêté du 19 décembre 2023" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000048680133">Arrêté du 19 décembre 2023 créant de nouvelles dispositions relatives à la Rénovation d'ampleur des maisons individuelles et des appartements dans le cadre du dispositif des certificats d'économies d'énergie</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 19 décembre 2023" debut="2023-12-29" fin="2999-01-01" id_txt="LEGITEXT000048902000">Arrêté du 19 décembre 2023 créant de nouvelles dispositions relatives à la Rénovation d'ampleur des maisons individuelles et des appartements dans le cadre du dispositif des certificats d'économies d'énergie</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000048902007" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000048680136" num="1" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<br/>A créé les dispositions suivantes :<blockquote>- ARRÊTÉ du 4 septembre 2014<blockquote>
+  Art. 4 bis
+</blockquote>
+</blockquote>
+<br/>
+<br/>A modifié les dispositions suivantes :<blockquote>- ARRÊTÉ du 4 septembre 2014<blockquote>
+  Art. Annexe 6
+</blockquote>
+</blockquote>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000029460644" datesignatexte="2014-09-04" id="LEGIARTI000048902095" naturetexte="ARRETE" nortexte="DEVR1414899A" num="4 bis" numtexte="" sens="source" typelien="CREE">ARRÊTÉ du 4 septembre 2014 - art. 4 bis (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000029460644" datesignatexte="2014-09-04" id="LEGIARTI000048908281" naturetexte="ARRETE" nortexte="DEVR1414899A" num="Annexe 6" numtexte="" sens="source" typelien="MODIFIE">ARRÊTÉ du 4 septembre 2014 - art. Annexe 6 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000006824923" naturetexte="CODE" nortexte="" num="L321-1" numtexte="" sens="source" typelien="CITATION">Code de la construction et de l'habitation. - art. L321-1</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000043966569" naturetexte="CODE" nortexte="" num="L232-3" numtexte="" sens="source" typelien="CITATION">Code de l'énergie - art. L232-3</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000031747989" naturetexte="CODE" nortexte="" num="R221-15" numtexte="" sens="source" typelien="CITATION">Code de l'énergie - art. R221-15</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000031748003" naturetexte="CODE" nortexte="" num="R221-22" numtexte="" sens="source" typelien="CITATION">Code de l'énergie - art. R221-22</LIEN>
+</LIENS>
+</ARTICLE>

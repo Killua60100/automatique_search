@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006182887</ID>
+<TITRE_TA>Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1991-10-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006575246" num="100" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000032655282" num="100" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2022-03-01" id="LEGIARTI000038311524" num="100" origine="LEGI"/>
+<LIEN_ART debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044568189" num="100" origine="LEGI"/>
+<LIEN_ART debut="1991-10-01" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000006575247" num="100-1" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038311520" num="100-1" origine="LEGI"/>
+<LIEN_ART debut="1991-10-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006575248" num="100-2" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032655271" num="100-2" origine="LEGI"/>
+<LIEN_ART debut="1991-10-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006575249" num="100-3" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2023-01-26" id="LEGIARTI000032655276" num="100-3" origine="LEGI"/>
+<LIEN_ART debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047053163" num="100-3" origine="LEGI"/>
+<LIEN_ART debut="1991-10-01" etat="MODIFIE" fin="2023-01-26" id="LEGIARTI000006575250" num="100-4" origine="LEGI"/>
+<LIEN_ART debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047053155" num="100-4" origine="LEGI"/>
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2010-01-06" id="LEGIARTI000006575252" num="100-5" origine="LEGI"/>
+<LIEN_ART debut="2010-01-06" etat="MODIFIE" fin="2022-03-01" id="LEGIARTI000021662516" num="100-5" origine="LEGI"/>
+<LIEN_ART debut="2022-03-01" etat="MODIFIE" fin="2023-01-26" id="LEGIARTI000044568186" num="100-5" origine="LEGI"/>
+<LIEN_ART debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047052901" num="100-5" origine="LEGI"/>
+<LIEN_ART debut="1991-10-01" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006575251" num="100-5" origine="LEGI"/>
+<LIEN_ART debut="1991-10-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575253" num="100-6" origine="LEGI"/>
+<LIEN_ART debut="1995-02-09" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006575506" num="100-7" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575507" num="100-7" origine="LEGI"/>
+<LIEN_ART debut="2017-05-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033518755" num="100-8" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151881">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-10-01" fin="2999-01-01" id="LEGISCTA000006167423">Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

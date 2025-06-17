@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000032550646</ID>
+<TITRE_TA>Chapitre II : Produits du tabac</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2006-05-25" etat="MODIFIE" fin="2016-05-21" id="LEGIARTI000006688229" num="L3512-1" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="MODIFIE" fin="2016-01-28" id="LEGIARTI000006688237" num="L3512-2" origine="LEGI"/>
+<LIEN_ART debut="2016-01-28" etat="MODIFIE" fin="2016-05-20" id="LEGIARTI000031927728" num="L3512-2" origine="LEGI"/>
+<LIEN_ART debut="2016-05-20" etat="MODIFIE" fin="2016-05-21" id="LEGIARTI000031968808" num="L3512-2" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="ABROGE_DIFF" fin="2025-07-01" id="LEGIARTI000006688232" num="L3512-1-1" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006688239" num="L3512-3" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="MODIFIE" fin="2016-01-28" id="LEGIARTI000020631462" num="L3512-3" origine="LEGI"/>
+<LIEN_ART debut="2016-01-28" etat="MODIFIE" fin="2016-05-21" id="LEGIARTI000031927754" num="L3512-3" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="MODIFIE" fin="2009-07-23" id="LEGIARTI000006688241" num="L3512-4" origine="LEGI"/>
+<LIEN_ART debut="2009-07-23" etat="MODIFIE" fin="2010-05-08" id="LEGIARTI000020895388" num="L3512-4" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2016-01-28" id="LEGIARTI000022288150" num="L3512-4" origine="LEGI"/>
+<LIEN_ART debut="2016-01-28" etat="MODIFIE" fin="2016-05-21" id="LEGIARTI000031927771" num="L3512-4" origine="LEGI"/>
+<LIEN_ART debut="2016-01-28" etat="ABROGE" fin="2016-05-21" id="LEGIARTI000031917950" num="L3512-2-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000032548701" debut="2016-05-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032548705" niv="6" url="/LEGI/SCTA/00/00/32/54/87/LEGISCTA000032548705.xml">Section 1 : Dispositions générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032549017" debut="2016-05-21" etat="ABROGE_DIFF" fin="2025-07-01" id="LEGISCTA000032549017" niv="6" url="/LEGI/SCTA/00/00/32/54/90/LEGISCTA000032549017.xml">Section 2 : Modalités de vente &#13;
+</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032549017" debut="2025-07-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGISCTA000048654306" niv="6" url="/LEGI/SCTA/00/00/48/65/43/LEGISCTA000048654306.xml">Section 2 : Régime économique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032549029" debut="2016-05-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032549029" niv="6" url="/LEGI/SCTA/00/00/32/54/90/LEGISCTA000032549029.xml">Section 3 : Ingrédients et émissions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032549041" debut="2016-05-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032549041" niv="6" url="/LEGI/SCTA/00/00/32/54/90/LEGISCTA000032549041.xml">Section 4 : Caractéristiques des conditionnements</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032549049" debut="2016-05-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032549049" niv="6" url="/LEGI/SCTA/00/00/32/54/90/LEGISCTA000032549049.xml">Section 5 : Traçabilité</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000033676133" debut="2016-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033676136" niv="6" url="/LEGI/SCTA/00/00/33/67/61/LEGISCTA000033676136.xml">Section 6 : Dispositions applicables à certaines collectivités d'outre-mer</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072665" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la santé publique" debut="1953-10-07" fin="2999-01-01" id_txt="LEGITEXT000006072665">Code de la santé publique</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-06-22" fin="2999-01-01" id="LEGISCTA000006103419">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-06-22" fin="2999-01-01" id="LEGISCTA000006125347">Troisième partie : Lutte contre les maladies et dépendances</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-25" fin="2999-01-01" id="LEGISCTA000006140619">Livre V : Lutte contre le tabagisme et lutte contre le dopage</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-25" fin="2999-01-01" id="LEGISCTA000006155126">Titre Ier : Lutte contre le tabagisme</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

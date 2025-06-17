@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006167432</ID>
+<TITRE_TA>Section 12 : De l'appel des ordonnances du juge d'instruction</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1988-03-01" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575416" num="185" origine="LEGI"/>
+<LIEN_ART debut="1993-09-02" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575830" num="186" origine="LEGI"/>
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575419" num="186-1" origine="LEGI"/>
+<LIEN_ART debut="1995-02-09" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575837" num="187" origine="LEGI"/>
+<LIEN_ART debut="1997-03-31" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575841" num="187-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151881">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006841711</ID>
+<ANCIEN_ID>UFAXXXXXXXX2X317R012XXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/84/17/LEGIARTI000006841711.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>R317-12</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2001-06-01</DATE_DEBUT>
+<DATE_FIN>2009-04-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006108688">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006129091">Livre III : Le véhicule.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006143855">Titre Ier : Dispositions techniques.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006159583">Chapitre VII : Dispositifs et aménagements particuliers</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006177090">Section 2 : Plaques et inscriptions.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2009-04-15" id="LEGIARTI000006841711" num="R317-12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2009-04-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020241995" num="R317-12" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Tout véhicule ou matériel agricole ou forestier, attaché à une exploitation agricole, à une entreprise de travaux agricoles, à une coopérative d'utilisation de matériel agricole ou à une exploitation forestière, doit être muni d'une plaque d'identité portant un numéro d'ordre et fixée en évidence à l'arrière du véhicule.<br/>
+<br/>   Le ministre chargé des transports détermine, après avis du ministre chargé de l'agriculture, le modèle et le mode de pose de ces plaques dites plaques d'exploitation.<br/>
+<br/>   Le fait de faire circuler un véhicule non muni de la plaque exigée par le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000578193" datesignatexte="2001-03-22" id="JORFTEXT000000578193" naturetexte="DECRET" nortexte="EQUS0100055D" num="" numtexte="2001-251" sens="source" typelien="CODIFICATION">Décret 2001-251 2001-03-22 JORF 25 mars 2001</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875765" naturetexte="CODE" nortexte="" num="R158" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R158 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875983" naturetexte="CODE" nortexte="" num="R240" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R240 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGITEXT000006074228" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code de la route R158, R240 (al. 1)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000051740218" naturetexte="CODE" nortexte="" num="R317-8" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R317-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842036" naturetexte="CODE" nortexte="" num="R342-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R342-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

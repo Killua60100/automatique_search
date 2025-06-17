@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000018523998</ID>
+<TITRE_TA>Sous-section 4 : Conventionnement avec une entreprise d'accueil</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2012-05-05" id="LEGIARTI000018523996" num="R6223-10" origine="LEGI"/>
+<LIEN_ART debut="2012-05-05" etat="MODIFIE" fin="2020-04-01" id="LEGIARTI000025798253" num="R6223-10" origine="LEGI"/>
+<LIEN_ART debut="2020-04-01" etat="MODIFIE" fin="2023-12-29" id="LEGIARTI000041771425" num="R6223-10" origine="LEGI"/>
+<LIEN_ART debut="2023-12-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048721856" num="R6223-10" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2012-05-05" id="LEGIARTI000018523994" num="R6223-11" origine="LEGI"/>
+<LIEN_ART debut="2012-05-05" etat="MODIFIE" fin="2020-04-01" id="LEGIARTI000025798260" num="R6223-11" origine="LEGI"/>
+<LIEN_ART debut="2020-04-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000041771421" num="R6223-11" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2009-01-01" id="LEGIARTI000018523992" num="R6223-12" origine="LEGI"/>
+<LIEN_ART debut="2009-01-01" etat="MODIFIE" fin="2009-12-13" id="LEGIARTI000020064101" num="R6223-12" origine="LEGI"/>
+<LIEN_ART debut="2009-12-13" etat="MODIFIE" fin="2010-02-15" id="LEGIARTI000021493968" num="R6223-12" origine="LEGI"/>
+<LIEN_ART debut="2010-02-15" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000022357306" num="R6223-12" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2020-04-01" id="LEGIARTI000041435624" num="R6223-12" origine="LEGI"/>
+<LIEN_ART debut="2020-04-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000041771417" num="R6223-12" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="ABROGE" fin="2012-05-05" id="LEGIARTI000018523990" num="R6223-13" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2020-04-01" id="LEGIARTI000018523988" num="R6223-14" origine="LEGI"/>
+<LIEN_ART debut="2020-04-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000041771414" num="R6223-14" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000018523986" num="R6223-15" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033769668" num="R6223-15" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000018523984" num="R6223-16" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018464861">Partie réglementaire  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524328">Sixième partie : La formation professionnelle tout au long de la vie </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524215">Livre II : L'apprentissage </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524191">Titre II : Contrat d'apprentissage</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524026">Chapitre III : Obligations de l'employeur</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524024">Section 1 : Organisation de l'apprentissage</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

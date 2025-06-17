@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000023268618</ID>
+<TITRE_TA>Chapitre Ier : Prévention et gestion des déchets</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176615" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006176615" niv="5" url="/LEGI/SCTA/00/00/06/17/66/LEGISCTA000006176615.xml">Section 1 : Dispositions générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176616" debut="2000-09-21" etat="MODIFIE" fin="2010-12-19" id="LEGISCTA000006176616" niv="5" url="/LEGI/SCTA/00/00/06/17/66/LEGISCTA000006176616.xml">Section 2 : Production et distribution de produits générateurs de déchets</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176616" debut="2010-12-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000023268652" niv="5" url="/LEGI/SCTA/00/00/23/26/86/LEGISCTA000023268652.xml">Section 2 : Conception, production et distribution de produits générateurs de déchets</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176617" debut="2000-09-21" etat="MODIFIE" fin="2010-12-19" id="LEGISCTA000006176617" niv="5" url="/LEGI/SCTA/00/00/06/17/66/LEGISCTA000006176617.xml">Section 3 : Elimination des déchets</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176617" debut="2010-12-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000023268677" niv="5" url="/LEGI/SCTA/00/00/23/26/86/LEGISCTA000023268677.xml">Section 3 : Prévention et gestion des déchets</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176618" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006176618" niv="5" url="/LEGI/SCTA/00/00/06/17/66/LEGISCTA000006176618.xml">Section 4 : Dispositions particulières aux mouvements transfrontaliers de déchets</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176619" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006176619" niv="5" url="/LEGI/SCTA/00/00/06/17/66/LEGISCTA000006176619.xml">Section 5 : Dispositions financières</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176620" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006176620" niv="5" url="/LEGI/SCTA/00/00/06/17/66/LEGISCTA000006176620.xml">Section 6 : Dispositions pénales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176621" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006176621" niv="5" url="/LEGI/SCTA/00/00/06/17/66/LEGISCTA000006176621.xml">Section 7 : Dispositions diverses</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074220" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'environnement" debut="2000-09-21" fin="2999-01-01" id_txt="LEGITEXT000006074220">Code de l'environnement</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006108630">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006129026">Livre V : Prévention des pollutions, des risques et des nuisances</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006143752">Titre IV : Déchets</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

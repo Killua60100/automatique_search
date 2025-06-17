@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417801</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X223L15DXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/78/LEGIARTI000006417801.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>223-15-3</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2001-06-13</DATE_DEBUT>
+<DATE_FIN>2009-11-26</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149828">Chapitre III : De la mise en danger de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-13" fin="2024-05-12" id="LEGISCTA000006165293">Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse</TITRE_TM>
+<TITRE_TM debut="2024-05-12" fin="2999-01-01" id="LEGISCTA000049531606">Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse et de la sujétion psychologique ou physique</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-06-13" etat="MODIFIE" fin="2009-11-26" id="LEGIARTI000006417801" num="223-15-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="TRANSFERE">
+<LIEN_ART debut="2009-11-26" etat="TRANSFERE" fin="2024-05-12" id="LEGIARTI000021342944" num="223-15-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531597" num="223-15-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les personnes physiques coupables du délit prévu à la présente section encourent également les peines complémentaires suivantes :<br/>
+<br/>   1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ;<br/>
+<br/>   2° L'interdiction, suivant les modalités prévues par l'article 131-27, d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, pour une durée de cinq ans au plus ;<br/>
+<br/>   3° La fermeture, pour une durée de cinq ans au plus, des établissements ou de l'un ou de plusieurs des établissements de l'entreprise ayant servi à commettre les faits incriminés ;<br/>
+<br/>   4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit, à l'exception des objets susceptibles de restitution ;<br/>
+<br/>   5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 ;<br/>
+<br/>   6° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;<br/>
+<br/>   7° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="CODIFICATION">Loi 92-684 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000589924" datesignatexte="2001-06-12" id="LEGIARTI000006493593" naturetexte="LOI" nortexte="JUSX9903887L" num="20" numtexte="2001-504" sens="source" typelien="CREATION">Loi n°2001-504 du 12 juin 2001 - art. 20 () JORF 13 juin 2001</LIEN>
+<LIEN cidtexte="JORFTEXT000000589924" datesignatexte="2001-06-12" id="LEGIARTI000049531610" naturetexte="LOI" nortexte="JUSX9903887L" num="19" numtexte="2001-504" sens="cible" typelien="CITATION">Loi n° 2001-504 du 12 juin 2001 - art. 19 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000049531952" naturetexte="LOI" nortexte="ECOX0200175L" num="6" numtexte="2004-575" sens="cible" typelien="CITATION">Loi n° 2004-575 du 21 juin 2004 - art. 6 (MMN)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000049523123" datesignatexte="2024-05-10" id="LEGIARTI000049526538" naturetexte="LOI" nortexte="IOMD2327297L" num="14" numtexte="2024-420" sens="cible" typelien="CITATION">LOI n°2024-420 du 10 mai 2024 - art. 14</LIEN>
+<LIEN cidtexte="JORFTEXT000049523123" datesignatexte="2024-05-10" id="LEGIARTI000049526552" naturetexte="LOI" nortexte="IOMD2327297L" num="3" numtexte="2024-420" sens="cible" typelien="CITATION">LOI n°2024-420 du 10 mai 2024 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000049523123" datesignatexte="2024-05-10" id="LEGIARTI000049526524" naturetexte="LOI" nortexte="IOMD2327297L" num="7" numtexte="2024-420" sens="cible" typelien="CITATION">LOI n°2024-420 du 10 mai 2024 - art. 7</LIEN>
+<LIEN cidtexte="JORFTEXT000051492620" datesignatexte="2025-04-15" id="LEGITEXT000051495586" naturetexte="ARRETE" nortexte="JUSD2434238A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 15 avril 2025 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051492620" datesignatexte="2025-04-15" id="LEGIARTI000051495594" naturetexte="ARRETE" nortexte="JUSD2434238A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 15 avril 2025 - art. 1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071191" datesignatexte="2999-01-01" id="LEGIARTI000049531646" naturetexte="CODE" nortexte="" num="L444-6" numtexte="" sens="cible" typelien="CITATION">Code de l'éducation - art. L444-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049527186" naturetexte="CODE" nortexte="" num="157-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 157-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531995" naturetexte="CODE" nortexte="" num="2-17" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-17 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049532044" naturetexte="CODE" nortexte="" num="2-6" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531736" naturetexte="CODE" nortexte="" num="704" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 704 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000049531775" naturetexte="CODE" nortexte="" num="1378 octies" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1378 octies (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417290" naturetexte="CODE" nortexte="" num="131-26" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417291" naturetexte="CODE" nortexte="" num="131-27" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417303" naturetexte="CODE" nortexte="" num="131-31" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417308" naturetexte="CODE" nortexte="" num="131-35" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-35 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531601" naturetexte="CODE" nortexte="" num="223-15-4" numtexte="" sens="source" typelien="CONCORDE">Code pénal - art. 223-15-4 (V)</LIEN>
+</LIENS>
+</ARTICLE>

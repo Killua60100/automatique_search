@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023268806</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/26/88/LEGIARTI000023268806.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L541-46</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2010-12-19</DATE_DEBUT>
+<DATE_FIN>2011-03-16</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074220" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'environnement" debut="2000-09-21" fin="2999-01-01" id_txt="LEGITEXT000006074220">Code de l'environnement</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006108630">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006129026">Livre V : Prévention des pollutions, des risques et des nuisances</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006143752">Titre IV : Déchets</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-12-19" id="LEGISCTA000006159289">Chapitre Ier : Elimination des déchets et récupération des matériaux</TITRE_TM>
+<TITRE_TM debut="2010-12-19" fin="2999-01-01" id="LEGISCTA000023268618">Chapitre Ier : Prévention et gestion des déchets</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006176620">Section 6 : Dispositions pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006188458">Sous-section 2 : Sanctions</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006834506" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2004-07-14" id="LEGIARTI000006834507" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-07-14" etat="MODIFIE" fin="2005-09-09" id="LEGIARTI000006834508" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-09-09" etat="MODIFIE" fin="2005-10-27" id="LEGIARTI000006834509" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-10-27" etat="MODIFIE" fin="2007-02-22" id="LEGIARTI000006834510" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-02-22" etat="MODIFIE" fin="2008-08-03" id="LEGIARTI000006834511" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2008-08-03" etat="MODIFIE" fin="2009-07-26" id="LEGIARTI000019281083" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-07-26" etat="MODIFIE" fin="2010-07-14" id="LEGIARTI000020902790" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-07-14" etat="MODIFIE" fin="2010-12-19" id="LEGIARTI000022482355" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-12-19" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000023268806" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2013-07-01" id="LEGIARTI000023717833" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-07-01" etat="MODIFIE" fin="2015-08-19" id="LEGIARTI000025144803" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-08-19" etat="MODIFIE" fin="2020-02-12" id="LEGIARTI000031066410" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-02-12" etat="MODIFIE" fin="2021-08-25" id="LEGIARTI000041599178" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-08-25" etat="MODIFIE" fin="2021-10-10" id="LEGIARTI000043978872" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-10-10" etat="MODIFIE" fin="2023-10-25" id="LEGIARTI000044192274" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-10-25" etat="MODIFIE" fin="2024-04-24" id="LEGIARTI000048247421" num="L541-46" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-04-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049464299" num="L541-46" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait de : </p>
+<p>1° Refuser de fournir à l'administration les informations visées à l'article L. 541-9 ou fournir des informations inexactes ; </p>
+<p>2° Méconnaître les prescriptions des I, VII et VIII de l'article L. 541-10 ou de l'article L. 541-10-7 ; </p>
+<p>3° Refuser de fournir à l'administration les informations visées à l'article L. 541-7 ou fournir des informations inexactes, ou se mettre volontairement dans l'impossibilité matérielle de fournir ces informations ; </p>
+<p>4° Abandonner, déposer ou faire déposer, dans des conditions contraires aux dispositions du présent chapitre, des déchets ; </p>
+<p>5° Effectuer la collecte, le transport ou des opérations de courtage ou de négoce de déchets sans satisfaire aux prescriptions prises en vertu de l'article L. 541-8 et de ses textes d'application ; </p>
+<p>6° Remettre ou faire remettre des déchets à tout autre que l'exploitant d'une installation agréée, en méconnaissance de l'article L. 541-22 ; </p>
+<p>7° Gérer des déchets au sens de l'article L. 541-1-1 sans être titulaire de l'agrément prévu à l'article L. 541-22 ; </p>
+<p>8° Gérer des déchets, au sens de l'article L. 541-1-1, sans satisfaire aux prescriptions concernant les caractéristiques, les quantités, les conditions techniques et financières de prise en charge des déchets et les procédés de traitement mis en œuvre fixées en application des articles L. 541-2, L. 541-2-1, L. 541-7-2, L. 541-21-1 et L. 541-22 ; </p>
+<p>9° Méconnaître les prescriptions des articles L. 541-30-1 et L. 541-31 ; </p>
+<p>10° Mettre obstacle à l'accomplissement des contrôles ou à l'exercice des fonctions des agents prévus à l'article L. 541-44 ; </p>
+<p>11° a) De procéder ou faire procéder à un transfert de déchets sans avoir notifié ce transfert aux autorités compétentes françaises ou étrangères ou sans avoir obtenu le consentement préalable desdites autorités alors que cette notification et ce consentement sont requis ; </p>
+<p>b) De procéder ou faire procéder à un transfert de déchets alors que le consentement des autorités compétentes concernées a été obtenu par fraude ; </p>
+<p>c) De procéder ou faire procéder à un transfert de déchets alors que le transfert n'est pas accompagné du document de mouvement prévu par l'article 4 du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ; </p>
+<p>d) De procéder ou faire procéder à un transfert de déchets pour lequel le producteur, le destinataire ou l'installation de destination des déchets ne sont pas ceux mentionnés dans les documents de notification ou de mouvement prévus par l'article 4 du règlement mentionné ci-dessus ; </p>
+<p>e) De procéder ou faire procéder à un transfert de déchets d'une nature différente de celle indiquée dans les documents de notification ou de mouvement prévus par l'article 4 du règlement mentionné ci-dessus, ou portant sur une quantité de déchets significativement supérieure ; </p>
+<p>f) De procéder ou faire procéder à un transfert de déchets dont la valorisation ou l'élimination est réalisée en méconnaissance de la réglementation communautaire ou internationale ; </p>
+<p>g) D'exporter des déchets en méconnaissance des dispositions des articles 34,36,39 et 40 du règlement mentionné ci-dessus ; </p>
+<p>h) D'importer des déchets en méconnaissance des dispositions des articles 41 et 43 du règlement mentionné ci-dessus ; </p>
+<p>i) De procéder à un mélange de déchets au cours du transfert en méconnaissance de l'article 19 du règlement mentionné ci-dessus ; </p>
+<p>j) De ne pas déférer à une mise en demeure prise sur le fondement de l'article L. 541-42 ; 
+</p>
+<p>12° Méconnaître les obligations d'information prévues à l'article L. 343-3 du code des ports maritimes ; </p>
+<p>13° Ne pas respecter les prescriptions édictées en application de l'article 7 du règlement (CE) n° 850/2004 du Parlement européen et du Conseil, du 29 avril 2004, concernant les polluants organiques persistants et modifiant la directive 79/117/ CEE ; </p>
+<p>14° Ne pas respecter les interdictions édictées à l'article 1er du règlement (CE) n° 1102/2008 du Parlement européen et du Conseil du 22 octobre 2008 relatif à l'interdiction des exportations de mercure métallique et de certains composés et mélanges de mercure et au stockage en toute sécurité de cette substance. </p>
+<p>II.-En cas de condamnation prononcée pour les infractions visées aux 4°,6° et 8° du I, le tribunal peut ordonner, sous astreinte, la remise en état des lieux endommagés par les déchets qui n'ont pas été traités dans les conditions conformes à la loi. </p>
+<p>III.-En cas de condamnation prononcée pour les infractions visées aux 7° et 8° du I, le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'installation et interdire à son exploitant d'exercer l'activité d'éliminateur ou de récupérateur. </p>
+<p>IV.-En cas de condamnation prononcée pour les infractions visées aux 6°,7°,8° et 11° du I et commises à l'aide d'un véhicule, le tribunal peut, de plus, ordonner la suspension du permis de conduire pour une durée n'excédant pas cinq ans.</p>
+<p>V.-En cas de condamnation prononcée pour les infractions mentionnées au 11° du I, le tribunal peut, en outre, ordonner l'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'intervenir dans un transfert transfrontalier de déchets à titre de notifiant ou de personne responsable d'un transfert au sens du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets. </p>
+<p>VI.-Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000888298" datesignatexte="1975-07-15" id="LEGIARTI000006846566" naturetexte="LOI" nortexte="" num="24" numtexte="75-633" sens="source" typelien="CONCORDANCE">Loi n°75-633 du 15 juillet 1975 - art. 24 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000888298" datesignatexte="1975-07-15" id="LEGIARTI000006846570" naturetexte="LOI" nortexte="" num="24" numtexte="75-633" sens="cible" typelien="CONCORDE">Loi n°75-633 du 15 juillet 1975 - art. 24 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000871783" datesignatexte="1985-08-16" id="LEGIARTI000031662467" naturetexte="DECRET" nortexte="" num="6" numtexte="85-891" sens="cible" typelien="CITATION">Décret n°85-891 du 16 août 1985 - art. 6 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000198352" datesignatexte="1999-08-30" id="LEGIARTI000025088605" naturetexte="DECRET" nortexte="EQUT9900775D" num="2" numtexte="99-752" sens="cible" typelien="CITATION">Décret n°99-752 du 30 août 1999 - art. 2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000257088" datesignatexte="2005-05-30" id="LEGIARTI000006241989" naturetexte="DECRET" nortexte="DEVP0530001D" num="7" numtexte="2005-635" sens="cible" typelien="CITATION">Décret n°2005-635 du 30 mai 2005 - art. 7 (Ab)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000023246129" datesignatexte="2010-12-17" id="LEGIARTI000023248257" naturetexte="ORDONNANCE" nortexte="DEVX1028667R" num="19" numtexte="2010-1579" sens="cible" typelien="MODIFIE">Ordonnance n°2010-1579
+ du 17 décembre 2010 - art. 19</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000039384266" datesignatexte="2019-11-14" id="LEGIARTI000039385866" naturetexte="DECRET" nortexte="TREP1918462D" num="3" numtexte="2019-1176" sens="cible" typelien="CITATION">Décret n°2019-1176 du 14 novembre 2019 - art. 3 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000050980603" datesignatexte="2025-01-15" id="LEGIARTI000050981627" naturetexte="DECRET" nortexte="ATDT2400248D" num="11" numtexte="2025-50" sens="cible" typelien="CITATION">Décret n°2025-50 du 15 janvier 2025 - art. 11</LIEN>
+<LIEN cidtexte="JORFTEXT000050980603" datesignatexte="2025-01-15" id="LEGIARTI000050981617" naturetexte="DECRET" nortexte="ATDT2400248D" num="6" numtexte="2025-50" sens="cible" typelien="CITATION">Décret n°2025-50 du 15 janvier 2025 - art. 6</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417291" naturetexte="CODE" nortexte="" num="131-27" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-27</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000023248306" naturetexte="CODE" nortexte="" num="L541-1-1" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-1-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834454" naturetexte="CODE" nortexte="" num="L541-10" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-10</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834445" naturetexte="CODE" nortexte="" num="L541-2" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000023248320" naturetexte="CODE" nortexte="" num="L541-2-1" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-2-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000022482622" naturetexte="CODE" nortexte="" num="L541-21-1" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-21-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834478" naturetexte="CODE" nortexte="" num="L541-22" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834489" naturetexte="CODE" nortexte="" num="L541-30-1" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-30-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834490" naturetexte="CODE" nortexte="" num="L541-31" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-31</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834501" naturetexte="CODE" nortexte="" num="L541-41" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-41</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834502" naturetexte="CODE" nortexte="" num="L541-42" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-42</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000020631789" naturetexte="CODE" nortexte="" num="L541-47" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L541-47 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834513" naturetexte="CODE" nortexte="" num="L541-48" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L541-48 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834451" naturetexte="CODE" nortexte="" num="L541-7" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-7</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000023248595" naturetexte="CODE" nortexte="" num="L541-7-2" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-7-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834452" naturetexte="CODE" nortexte="" num="L541-8" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834453" naturetexte="CODE" nortexte="" num="L541-9" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L541-9</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000025144796" naturetexte="CODE" nortexte="" num="L542-2-2" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L542-2-2 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000032006373" naturetexte="CODE" nortexte="" num="L542-2-3" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L542-2-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006834904" naturetexte="CODE" nortexte="" num="L655-6" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L655-6 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000043299886" naturetexte="CODE" nortexte="" num="R541-78" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. R541-78 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000020242011" naturetexte="CODE" nortexte="" num="R322-9" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R322-9 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000020763353" naturetexte="CODE" nortexte="" num="R4212-1" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. R4212-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000020763345" naturetexte="CODE" nortexte="" num="R4212-2" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. R4212-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042751075" naturetexte="CODE" nortexte="" num="28-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741942" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000025145052" naturetexte="CODE" nortexte="" num="L1252-11" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1252-11 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000046177074" naturetexte="CODE" nortexte="" num="R3113-26" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R3113-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000046177288" naturetexte="CODE" nortexte="" num="R3211-27" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R3211-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000050982740" naturetexte="CODE" nortexte="" num="R4421-12" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R4421-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000050982317" naturetexte="CODE" nortexte="" num="R4422-12" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R4422-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074233" datesignatexte="2999-01-01" id="LEGIARTI000006842577" naturetexte="CODE" nortexte="" num="L325-3" numtexte="" sens="source" typelien="CITATION">Code des ports maritimes - art. L325-3</LIEN>
+</LIENS>
+</ARTICLE>

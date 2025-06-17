@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417357</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X132L02AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/73/LEGIARTI000006417357.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>132-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>1994-03-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117596">Livre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136038">Titre III : Des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149820">Chapitre II : Du régime des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006165266">Section 1 : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006181737">Sous-section 1 : Des peines applicables en cas de concours d'infractions</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417357" num="132-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Il y a concours d'infractions lorsqu'une infraction est commise par une personne avant que celle-ci ait été définitivement condamnée pour une autre infraction.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000359434" datesignatexte="1992-07-22" id="JORFTEXT000000359434" naturetexte="LOI" nortexte="JUSX8900136L" num="" numtexte="92-683" sens="source" typelien="SPEC_APPLI">Loi 92-683 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000359434" datesignatexte="1992-07-22" id="JORFTEXT000000359434" naturetexte="LOI" nortexte="JUSX8900136L" num="" numtexte="92-683" sens="source" typelien="CODIFICATION">Loi n°92-683 du 22 juillet 1992 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 371</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000045071445" naturetexte="CODE" nortexte="" num="L233-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L233-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577701" naturetexte="CODE" nortexte="" num="706-47-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-47-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047053035" naturetexte="CODE" nortexte="" num="706-56" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-56 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051739528" naturetexte="CODE" nortexte="" num="132-6-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 132-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418565" naturetexte="CODE" nortexte="" num="433-9" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 433-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418661" naturetexte="CODE" nortexte="" num="434-23" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 434-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418679" naturetexte="CODE" nortexte="" num="434-31" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 434-31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000032361234" naturetexte="CODE" nortexte="" num="L958-13" numtexte="" sens="cible" typelien="CITATION">Code rural - art. L958-13 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000022199453" naturetexte="CODE" nortexte="" num="L955-12" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L955-12 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000024395229" naturetexte="CODE" nortexte="" num="L981-12" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L981-12 (VT)</LIEN>
+</LIENS>
+</ARTICLE>

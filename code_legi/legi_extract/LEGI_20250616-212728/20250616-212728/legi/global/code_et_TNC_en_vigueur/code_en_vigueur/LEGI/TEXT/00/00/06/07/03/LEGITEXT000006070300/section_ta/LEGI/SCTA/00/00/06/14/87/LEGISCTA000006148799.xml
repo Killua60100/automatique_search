@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006148799</ID>
+<TITRE_TA>Chapitre Ier : Conseil municipal</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2001-07-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006361690" num="L121-1" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2022-12-18" id="LEGIARTI000030425386" num="L121-1-1" origine="LEGI"/>
+<LIEN_ART debut="2022-12-18" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000046708859" num="L121-1-1" origine="LEGI"/>
+<LIEN_ART debut="2022-12-18" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000046708282" num="L121-1-2" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006164287" debut="2001-07-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006164287" niv="5" url="/LEGI/SCTA/00/00/06/16/42/LEGISCTA000006164287.xml">Section 1 : Formation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006164288" debut="2001-07-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006164288" niv="5" url="/LEGI/SCTA/00/00/06/16/42/LEGISCTA000006164288.xml">Section 2 : Fonctionnement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006164289" debut="2001-07-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006164289" niv="5" url="/LEGI/SCTA/00/00/06/16/42/LEGISCTA000006164289.xml">Section 3 : Dispositions applicables aux membres des conseils municipaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006164290" debut="2001-07-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006164290" niv="5" url="/LEGI/SCTA/00/00/06/16/42/LEGISCTA000006164290.xml">Section 4 : Attributions des conseils municipaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006164292" debut="2005-05-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006164292" niv="5" url="/LEGI/SCTA/00/00/06/16/42/LEGISCTA000006164292.xml">Section 5 : Garanties accordées aux membres des conseils municipaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006164291" debut="2001-07-05" etat="ABROGE" fin="2005-05-07" id="LEGISCTA000006164291" niv="5" url="/LEGI/SCTA/00/00/06/16/42/LEGISCTA000006164291.xml">Section 5 : Garanties accordées aux membres des conseils municipaux dans l'exercice de leur mandat</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006164293" debut="2001-07-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006164293" niv="5" url="/LEGI/SCTA/00/00/06/16/42/LEGISCTA000006164293.xml">Section 6 : Garanties accordées aux membres des conseils municipaux dans leur activité professionnelle</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006164294" debut="2001-07-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006164294" niv="5" url="/LEGI/SCTA/00/00/06/16/42/LEGISCTA000006164294.xml">Section 7 : Droit à la formation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006164295" debut="2001-07-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006164295" niv="5" url="/LEGI/SCTA/00/00/06/16/42/LEGISCTA000006164295.xml">Section 8 : Régime juridique des actes pris par les autorités communales</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070300" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des communes de la Nouvelle-Calédonie" debut="2001-07-05" fin="2999-01-01" id_txt="LEGITEXT000006070300">Code des communes de la Nouvelle-Calédonie</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-07-05" fin="2999-01-01" id="LEGISCTA000006086056">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-07-05" fin="2999-01-01" id="LEGISCTA000006115627">LIVRE Ier : ORGANISATION COMMUNALE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-07-05" fin="2999-01-01" id="LEGISCTA000006134955">TITRE II : ORGANES DE LA COMMUNE</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

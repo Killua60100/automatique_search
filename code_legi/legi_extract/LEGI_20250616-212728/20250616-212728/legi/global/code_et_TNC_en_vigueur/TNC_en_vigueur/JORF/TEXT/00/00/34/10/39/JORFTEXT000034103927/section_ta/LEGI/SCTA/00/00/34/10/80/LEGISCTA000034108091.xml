@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000034108091</ID>
+<TITRE_TA>Chapitre IV : Renforcement des capacités d'intervention de l'Etat</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2017-03-02" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000034108139" num="33" origine="LEGI"/>
+<LIEN_ART debut="2017-03-02" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000034108161" num="34" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="MODIFIE" fin="2019-12-30" id="LEGIARTI000036364734" num="34" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2022-01-01" id="LEGIARTI000039182768" num="34" origine="LEGI"/>
+<LIEN_ART debut="2019-12-30" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000041537251" num="34" origine="LEGI"/>
+<LIEN_ART debut="2022-01-01" etat="MODIFIE" fin="2025-02-16" id="LEGIARTI000044981274" num="34" origine="LEGI"/>
+<LIEN_ART debut="2025-02-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051200807" num="34" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000034103927" date_publi="2017-03-01" date_signature="2017-02-28" ministere="" nature="LOI" nor="ARCX1617470L" num="2017-257" num_parution_jo="0051">
+<TITRE_TXT c_titre_court="LOI n° 2017-257 du 28 février 2017" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000034103927">LOI n° 2017-257 du 28 février 2017 relative au statut de Paris et à l'aménagement métropolitain (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2017-257 du 28 février 2017" debut="2017-03-02" fin="2999-01-01" id_txt="LEGITEXT000034108087">LOI n° 2017-257 du 28 février 2017 relative au statut de Paris et à l'aménagement métropolitain (1)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2017-03-02" fin="2999-01-01" id="LEGISCTA000034108101">Titre Ier : RÉFORME DU STATUT DE PARIS</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

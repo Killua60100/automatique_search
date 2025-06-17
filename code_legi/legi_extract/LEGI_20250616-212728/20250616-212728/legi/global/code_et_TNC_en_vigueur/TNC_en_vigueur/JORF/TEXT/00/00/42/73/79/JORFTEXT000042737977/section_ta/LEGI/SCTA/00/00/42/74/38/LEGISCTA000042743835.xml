@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000042743835</ID>
+<TITRE_TA>Titre III : DISPOSITIONS DIVERSES</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000042743837" num="26" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000042743839" num="27" origine="LEGI"/>
+<LIEN_ART debut="2020-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042743845" num="28" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000042743841" num="29" origine="LEGI"/>
+<LIEN_ART debut="2020-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042743843" num="30" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000042737977" date_publi="2020-12-26" date_signature="2020-12-24" ministere="" nature="LOI" nor="JUSX1933222L" num="2020-1672" num_parution_jo="0312">
+<TITRE_TXT c_titre_court="LOI n°2020-1672 du 24 décembre 2020" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000042737977">LOI n° 2020-1672 du 24 décembre 2020 relative au Parquet européen, à la justice environnementale et à la justice pénale spécialisée (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2020-1672 du 24 décembre 2020" debut="2020-12-27" fin="2999-01-01" id_txt="LEGITEXT000042743823">LOI n° 2020-1672 du 24 décembre 2020 relative au Parquet européen, à la justice environnementale et à la justice pénale spécialisée (1)</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

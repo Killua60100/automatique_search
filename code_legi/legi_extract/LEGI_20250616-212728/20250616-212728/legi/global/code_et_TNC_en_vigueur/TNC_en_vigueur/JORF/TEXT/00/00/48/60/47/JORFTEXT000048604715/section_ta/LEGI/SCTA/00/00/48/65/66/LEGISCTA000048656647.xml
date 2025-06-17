@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000048656647</ID>
+<TITRE_TA>Annexe</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2023-12-22" etat="MODIFIE" fin="2024-03-03" id="LEGIARTI000048656650" num="" origine="LEGI"/>
+<LIEN_ART debut="2024-03-03" etat="MODIFIE" fin="2024-04-19" id="LEGIARTI000049228885" num="" origine="LEGI"/>
+<LIEN_ART debut="2024-04-19" etat="MODIFIE" fin="2024-12-27" id="LEGIARTI000049431640" num="" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000049431940" num="" origine="LEGI"/>
+<LIEN_ART debut="2024-12-27" etat="MODIFIE" fin="2025-01-11" id="LEGIARTI000050834124" num="" origine="LEGI"/>
+<LIEN_ART debut="2025-01-11" etat="MODIFIE" fin="2025-01-18" id="LEGIARTI000050963611" num="" origine="LEGI"/>
+<LIEN_ART debut="2025-01-18" etat="MODIFIE" fin="2025-01-29" id="LEGIARTI000050995502" num="" origine="LEGI"/>
+<LIEN_ART debut="2025-01-29" etat="MODIFIE" fin="2025-02-02" id="LEGIARTI000051042442" num="" origine="LEGI"/>
+<LIEN_ART debut="2025-02-02" etat="MODIFIE" fin="2025-05-03" id="LEGIARTI000051112112" num="" origine="LEGI"/>
+<LIEN_ART debut="2025-05-03" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000051737731" num="" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000048604715" date_publi="2023-12-21" date_signature="2023-11-23" ministere="Ministère de l'éducation nationale et de la jeunesse" nature="ARRETE" nor="MENE2332945A" num="" num_parution_jo="0295">
+<TITRE_TXT c_titre_court="Arrêté du 23 novembre 2023" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000048604715">Arrêté du 23 novembre 2023 fixant les groupements de mathématiques pour les spécialités de certificat d'aptitude professionnelle</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 23 novembre 2023" debut="2023-12-22" fin="2999-01-01" id_txt="LEGITEXT000048656645">Arrêté du 23 novembre 2023 fixant les groupements de mathématiques pour les spécialités de certificat d'aptitude professionnelle</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

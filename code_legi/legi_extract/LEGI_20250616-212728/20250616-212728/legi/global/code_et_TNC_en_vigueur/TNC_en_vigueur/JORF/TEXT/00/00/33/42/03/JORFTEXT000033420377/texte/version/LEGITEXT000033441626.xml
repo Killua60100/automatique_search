@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000033441626</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/33/44/16/LEGITEXT000033441626.xml</URL>
+<NATURE>DECRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000033420377</CID>
+<NUM>2016-1551</NUM>
+<NUM_PARUTION>0269</NUM_PARUTION>
+<NUM_SEQUENCE>26</NUM_SEQUENCE>
+<NOR>ETST1628309D</NOR>
+<DATE_PUBLI>2016-11-19</DATE_PUBLI>
+<DATE_TEXTE>2016-11-18</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2017-01-01</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Décret n°2016-1551 du 18 novembre 2016</TITRE>
+<TITREFULL>Décret n° 2016-1551 du 18 novembre 2016 portant diverses mesures relatives à la durée du travail, aux repos et aux congés</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000215117" datesignatexte="2000-04-12" id="LEGIARTI000006529211" naturetexte="LOI" nortexte="FPPX9800029L" num="21" numtexte="2000-321" sens="source" typelien="CITATION">Loi n° 2000-321 du 12 avril 2000 - art. 21 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000589919" datesignatexte="2002-04-22" id="JORFTEXT000000589919" naturetexte="DECRET" nortexte="MEST0210401D" num="" numtexte="2002-595" sens="source" typelien="CITATION">Décret n°2002-595 du 22 avril 2002 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000807961" datesignatexte="2005-01-20" id="JORFTEXT000000807961" naturetexte="DECRET" nortexte="SOCT0510001D" num="" numtexte="2005-40" sens="source" typelien="CITATION">Décret n°2005-40 du 20 janvier 2005 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000017649581" datesignatexte="2007-12-13" id="JORFTEXT000017649581" naturetexte="DECRET" nortexte="MTST0770103D" num="" numtexte="2007-1753" sens="source" typelien="CITATION">Décret n°2007-1753  du 13 décembre 2007 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000019381682" datesignatexte="2008-08-26" id="JORFTEXT000019381682" naturetexte="DECRET" nortexte="MTST0819028D" num="" numtexte="2008-853" sens="source" typelien="CITATION">Décret n°2008-853  du 26 août 2008 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000019498843" datesignatexte="2008-09-17" id="JORFTEXT000019498843" naturetexte="DECRET" nortexte="AGRF0820177D" num="" numtexte="2008-973" sens="source" typelien="CITATION">Décret n°2008-973 du 17 septembre 2008 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000020088715" datesignatexte="2009-01-12" id="JORFTEXT000020088715" naturetexte="DECRET" nortexte="MTST0829565D" num="" numtexte="2009-44" sens="source" typelien="CITATION">Décret n°2009-44 du 12 janvier 2009 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024584258" datesignatexte="2011-09-23" id="JORFTEXT000024584258" naturetexte="DECRET" nortexte="DEVA1122974D" num="" numtexte="2011-1171" sens="source" typelien="CITATION">Décret n°2011-1171 du 23 septembre 2011 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000028336217" datesignatexte="2013-12-17" id="JORFTEXT000028336217" naturetexte="DECRET" nortexte="ETST1327302D" num="" numtexte="2013-1165" sens="source" typelien="CITATION">Décret n°2013-1165  du 17 décembre 2013 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029676059" datesignatexte="2014-10-23" id="JORFTEXT000029676059" naturetexte="DECRET" nortexte="ETSX1419020D" num="" numtexte="2014-1289" sens="source" typelien="CITATION">DÉCRET n°2014-1289 du 23 octobre 2014 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029676080" datesignatexte="2014-10-23" id="JORFTEXT000029676080" naturetexte="DECRET" nortexte="ETSX1419021D" num="" numtexte="2014-1290" sens="source" typelien="CITATION">DÉCRET n°2014-1290 du 23 octobre 2014 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030649757" datesignatexte="2015-05-29" id="JORFTEXT000030649757" naturetexte="DECRET" nortexte="FCPS1509796D" num="" numtexte="2015-586" sens="source" typelien="CITATION">DÉCRET n°2015-586 du 29 mai 2015 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000032983213" datesignatexte="2016-08-08" id="JORFTEXT000032983213" naturetexte="LOI" nortexte="ETSX1604461L" num="" numtexte="2016-1088" sens="source" typelien="APPLICATION">LOI n° 2016-1088 du 8 août 2016</LIEN>
+<LIEN cidtexte="JORFTEXT000032983213" datesignatexte="2016-08-08" id="JORFARTI000032983520" naturetexte="LOI" nortexte="ETSX1604461L" num="8" numtexte="2016-1088" sens="source" typelien="CITATION">LOI n°2016-1088 du 8 août 2016 - art. 8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGITEXT000006070633" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGITEXT000006072050" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGITEXT000006073189" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGITEXT000006074069" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGITEXT000006074228" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la route. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074234" datesignatexte="2999-01-01" id="LEGITEXT000006074234" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'aviation civile (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000031366350" datesignatexte="2999-01-01" id="LEGITEXT000031366350" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des relations entre le public et l'administration (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">dispositions réglementaires du code du travail</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Le Premier ministre,<br/>Sur le rapport de la ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social,<br/>Vu le code de l'action sociale et des familles ;<br/>Vu le code de l'aviation civile ;<br/>Vu le code général des collectivités territoriales ;<br/>Vu le code des relations entre le public et l'administration ;<br/>Vu le code de la route ;<br/>Vu le code de la sécurité sociale ;<br/>Vu le code du travail ;<br/>Vu le décret n° 2002-595 du 22 avril 2002 relatif à la durée du travail dans l'hôtellerie de plein air ;<br/>Vu le décret n° 2005-40 du 20 janvier 2005 relatif à la durée du travail dans les services de l'automobile ;<br/>Vu le décret n° 2007-1753 du 13 décembre 2007 fixant un régime d'équivalence quotidien dans la branche de la production audiovisuelle ;<br/>Vu le décret n° 2008-853 du 26 août 2008 relatif à la durée du travail dans l'enseignement privé hors contrat ;<br/>Vu le décret n° 2008-973 du 17 septembre 2008 fixant les équivalences de nuit dans l'enseignement privé agricole ;<br/>Vu le décret n° 2009-44 du 12 janvier 2009 fixant un régime d'équivalence dans la branche des entreprises techniques au service de la création et de l'événement ;<br/>Vu le décret n° 2011-1171 du 23 septembre 2011 relatif à la rémunération des ouvriers de l'État relevant de la direction générale de l'aviation civile et de l'établissement public Météo-France ;<br/>Vu le décret n° 2013-1165 du 17 décembre 2013 fixant un régime d'équivalence dans la branche de la production cinématographique ;<br/>Vu le décret n° 2014-1289 du 23 octobre 2014 relatif aux exceptions à l'application du principe « silence vaut acceptation » sur le fondement du II de l'article 21 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations ;<br/>Vu le décret n° 2014-1290 du 23 octobre 2014 relatif aux exceptions à l'application du délai de deux mois de naissance des décisions implicites d'acceptation sur le fondement du II de l'article 21 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations ;<br/>Vu le décret n° 2015-586 du 29 mai 2015 relatif aux modalités de recouvrement des cotisations et contributions sociales dues au titre des périodes de congés payés et versées par l'intermédiaire d'une caisse de congés payés ;<br/>Vu l'avis de la Commission nationale de la négociation collective en date du 14 octobre 2016 ;<br/>Le Conseil d'Etat (section sociale) entendu,<br/>Décrète :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 18 novembre 2016.</p>
+</div>
+<div align="left">
+<p>Manuel Valls</p>
+<p>Par le Premier ministre :</p>
+</div>
+<div align="left">
+<p>La ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social,</p>
+<p>Myriam El Khomri</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

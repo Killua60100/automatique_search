@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000031283201</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/31/28/32/LEGIARTI000031283201.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L201-4</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2015-10-09</DATE_DEBUT>
+<DATE_FIN>2019-12-14</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-24" fin="2999-01-01" id="LEGISCTA000006138320">Titre Préliminaire : Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-24" fin="2011-07-24" id="LEGISCTA000006152201">Chapitre Ier : Epidémiologie.</TITRE_TM>
+<TITRE_TM debut="2011-07-24" fin="2015-10-09" id="LEGISCTA000024396581">Chapitre Ier : Dispositions générales relatives à la prévention, à la surveillance et à la lutte contre les dangers sanitaires concernant les animaux et les végétaux</TITRE_TM>
+<TITRE_TM debut="2015-10-09" fin="2999-01-01" id="LEGISCTA000031283207">Chapitre Ier : Dispositions générales relatives à la prévention, à la surveillance et à la lutte contre les dangers sanitaires concernant les animaux, les végétaux et les aliments</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-07-24" fin="2999-01-01" id="LEGISCTA000024390507">Section 2 : Responsabilités de l'Etat dans la surveillance, la prévention, la lutte contre les dangers sanitaires</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-07-24" etat="MODIFIE" fin="2014-10-15" id="LEGIARTI000024390557" num="L201-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-10-15" etat="MODIFIE" fin="2015-10-09" id="LEGIARTI000029594803" num="L201-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-10-09" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000031283201" num="L201-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-12-14" etat="MODIFIE" fin="2021-10-22" id="LEGIARTI000039329242" num="L201-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2021-10-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044233217" num="L201-4" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>L'autorité administrative prend toutes mesures de prévention, de surveillance ou de lutte relatives aux dangers sanitaires de première catégorie. Elle peut prendre de telles mesures pour les dangers de deuxième catégorie. </p>
+<p>A ce titre, elle peut, notamment : </p>
+<p>1° Imposer à certains propriétaires ou détenteurs d'animaux, de denrées d'origine animale ou d'aliments pour animaux, ainsi qu'à certains propriétaires ou détenteurs de végétaux, des mesures particulières de contrôle adaptées à ces dangers ; </p>
+<p>2° Soumettre, en fonction des dangers sanitaires et des types de production, les propriétaires ou détenteurs d'animaux ou de végétaux à un agrément sanitaire, à des obligations de déclaration de détention, de déplacement d'animaux, d'activité, d'état sanitaire, dans des conditions définies par décret en Conseil d'Etat ; </p>
+<p>3° Soumettre à un agrément les personnes intervenant dans la mise en œuvre des mesures de prévention, de surveillance ou de lutte prévues au présent article ; </p>
+<p>4° Imposer aux personnes mentionnées au dernier alinéa de l'article L. 201-2 des mesures particulières de contrôle adaptées à ces dangers et au caractère sauvage des animaux fréquentant les territoires sur lesquels elles organisent l'exercice de la chasse ou sur lesquels elles exercent leur droit de chasser. </p>
+<p>A la seule fin d'identifier la cause et l'étendue de phénomènes sanitaires émergents, l'autorité administrative peut obtenir des personnes mentionnées à l'article L. 201-7 la réalisation de tout prélèvement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000025070199" datesignatexte="2011-12-16" id="LEGIARTI000025107106" naturetexte="ARRETE" nortexte="AGRG1133497A" num="10" numtexte="" sens="cible" typelien="CITATION">Arrêté du 16 décembre 2011 - art. 10 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029676437" datesignatexte="2014-10-23" id="LEGIARTI000035664746" naturetexte="DECRET" nortexte="AGRX1416996D" num="" numtexte="2014-1296" sens="cible" typelien="CITATION">DÉCRET n°2014-1296 du 23 octobre 2014 - art. (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029676481" datesignatexte="2014-10-23" id="LEGIARTI000035664925" naturetexte="DECRET" nortexte="AGRX1416999D" num="" numtexte="2014-1298" sens="cible" typelien="CITATION">DÉCRET n°2014-1298 du 23 octobre 2014 - art. (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000031279232" datesignatexte="2015-10-07" id="LEGIARTI000031280070" naturetexte="ORDONNANCE" nortexte="AGRG1517390R" num="1" numtexte="2015-1242" sens="cible" typelien="MODIFIE">ORDONNANCE n°2015-1242 du 7 octobre 2015 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000034603791" datesignatexte="2017-05-04" id="LEGIARTI000039802956" naturetexte="ARRETE" nortexte="AGRG1632554A" num="13" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 mai 2017 - art. 13 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000037116751" datesignatexte="2018-06-27" id="LEGITEXT000037127341" naturetexte="ARRETE" nortexte="AGRG1817091A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 27 juin 2018 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000037477237" datesignatexte="2018-10-08" id="LEGIARTI000037496730" naturetexte="ARRETE" nortexte="AGRG1827322A" num="11" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 octobre 2018 - art. 11 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000037491527" datesignatexte="2018-10-12" id="LEGIARTI000037494771" naturetexte="ARRETE" nortexte="AGRG1827844A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 12 octobre 2018 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000037501487" datesignatexte="2018-10-16" id="LEGIARTI000038174663" naturetexte="ARRETE" nortexte="AGRG1828116A" num="8" numtexte="" sens="cible" typelien="CITATION">Arrêté du 16 octobre 2018 - art. 8 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000037508465" datesignatexte="2018-10-19" id="LEGIARTI000043035263" naturetexte="ARRETE" nortexte="AGRG1828791A" num="16 bis" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 octobre 2018 - art. 16 bis (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000038028528" datesignatexte="2019-01-18" id="LEGIARTI000038043513" naturetexte="ARRETE" nortexte="AGRG1901979A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 18 janvier 2019 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000039686039" datesignatexte="2019-12-27" id="LEGIARTI000039800266" naturetexte="ARRETE" nortexte="AGRG1937165A" num="7" numtexte="" sens="cible" typelien="CITATION">Arrêté du 27 décembre 2019 - art. 7</LIEN>
+<LIEN cidtexte="JORFTEXT000042659707" datesignatexte="2020-12-11" id="LEGIARTI000042660994" naturetexte="DECRET" nortexte="TREP2018387D" num="10" numtexte="2020-1573" sens="cible" typelien="CITATION">Décret n°2020-1573 du 11 décembre 2020 - art. 10</LIEN>
+<LIEN cidtexte="JORFTEXT000044346734" datesignatexte="2021-11-20" id="LEGIARTI000044349463" naturetexte="ARRETE" nortexte="AGRG2134356A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 20 novembre 2021 - art. 6 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000049467923" datesignatexte="2024-04-24" id="LEGITEXT000049468876" naturetexte="ARRETE" nortexte="AGRG2401113A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 24 avril 2024 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000050732158" datesignatexte="2024-11-30" id="LEGITEXT000050737451" naturetexte="ARRETE" nortexte="AGRG2427724A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 30 novembre 2024 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051139200" datesignatexte="2025-01-31" id="LEGITEXT000051140544" naturetexte="ARRETE" nortexte="AGRG2237643A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 31 janvier 2025 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051582401" datesignatexte="2025-05-09" id="LEGITEXT000051584598" naturetexte="ARRETE" nortexte="AGRG2513514A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 9 mai 2025 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000042662503" naturetexte="CODE" nortexte="" num="D543-227-1" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. D543-227-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000026118397" naturetexte="CODE" nortexte="" num="D221-1" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D221-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000046864671" naturetexte="CODE" nortexte="" num="D614-54" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D614-54 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000046864551" naturetexte="CODE" nortexte="" num="D614-6" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D614-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000024390582" naturetexte="CODE" nortexte="" num="L201-10" numtexte="" sens="cible" typelien="CITATION">Code rural - art. L201-10 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006583028" naturetexte="CODE" nortexte="" num="L201-2" numtexte="" sens="source" typelien="CITATION">Code rural - art. L201-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000024390565" naturetexte="CODE" nortexte="" num="L201-7" numtexte="" sens="source" typelien="CITATION">Code rural - art. L201-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000026139867" naturetexte="CODE" nortexte="" num="R228-1" numtexte="" sens="cible" typelien="CITATION">Code rural - art. R228-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044909940" naturetexte="CODE" nortexte="" num="D251-2-5" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D251-2-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000036925053" naturetexte="CODE" nortexte="" num="D615-15" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D615-15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039329211" naturetexte="CODE" nortexte="" num="L201-12" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L201-12 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044233206" naturetexte="CODE" nortexte="" num="L201-5" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L201-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000024390585" naturetexte="CODE" nortexte="" num="L201-8" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L201-8 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000024390610" naturetexte="CODE" nortexte="" num="L203-8" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L203-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000051737236" naturetexte="CODE" nortexte="" num="L251-22" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039329433" naturetexte="CODE" nortexte="" num="L253-7" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L253-7 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044233691" naturetexte="CODE" nortexte="" num="L271-5" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L271-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000047847402" naturetexte="CODE" nortexte="" num="R201-41" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R201-41 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044909510" naturetexte="CODE" nortexte="" num="R201-5" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R201-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000046490356" naturetexte="CODE" nortexte="" num="R203-1" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R203-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000026119981" naturetexte="CODE" nortexte="" num="R203-2" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R203-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

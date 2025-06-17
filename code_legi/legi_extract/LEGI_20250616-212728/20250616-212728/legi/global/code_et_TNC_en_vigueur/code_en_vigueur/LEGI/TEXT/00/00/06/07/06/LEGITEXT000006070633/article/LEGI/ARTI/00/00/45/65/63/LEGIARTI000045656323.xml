@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000045656323</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/45/65/63/LEGIARTI000045656323.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>R1424-1-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2022-04-17</DATE_DEBUT>
+<DATE_FIN>2025-06-14</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070633" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des collectivités territoriales" debut="1996-02-24" fin="2999-01-01" id_txt="LEGITEXT000006070633">Code général des collectivités territoriales</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006088021">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006116641">PREMIERE PARTIE : DISPOSITIONS GÉNÉRALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006135522">LIVRE IV : SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006149362">TITRE II : DISPOSITIONS PROPRES À CERTAINS SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006164907">CHAPITRE IV : Services d'incendie et de secours</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2022-04-17" id="LEGISCTA000006181367">Section 1 : Service départemental d'incendie et de secours (R)</TITRE_TM>
+<TITRE_TM debut="2022-04-17" fin="2999-01-01" id="LEGISCTA000045656215">Section 1 : Services départementaux et territoriaux d'incendie et de secours</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-07-31" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000006394867" num="R1424-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000033823857" num="R1424-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2025-06-14" id="LEGIARTI000045656323" num="R1424-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051728519" num="R1424-1-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les services départementaux et territoriaux d'incendie et de secours sont classés par ordre décroissant en trois catégories A, B et C, sur la base de la population telle que définie à l'article L. 3334-2.</p>
+<p>Ce classement est fixé par arrêté du ministre chargé de la sécurité civile.</p>
+<p>Lorsque l'existence de risques particuliers le justifie, le ministre peut, sur proposition du préfet du département, après avis conforme du conseil d'administration du service d'incendie et de secours concerné et sur rapport de l'inspection générale de la sécurité civile, classer ce service dans la catégorie immédiatement supérieure à celle résultant de l'application du premier alinéa.</p>
+<p>L'organisation du service départemental ou territorial d'incendie et de secours ainsi que le niveau et la répartition des grades des officiers qui y sont affectés sont déterminés en fonction de son classement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000554147" datesignatexte="1995-07-27" id="LEGIARTI000043634274" naturetexte="DECRET" nortexte="FPPX9500099D" num="3" numtexte="95-860" sens="cible" typelien="CITATION">Décret n°95-860 du 27 juillet 1995 - art. 3 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000399814" datesignatexte="2000-04-07" id="JORFTEXT000000399814" naturetexte="DECRET" nortexte="INTX0004021D" num="" numtexte="2000-318" sens="source" typelien="CODIFICATION">Décret n° 2000-318 du 7 avril 2000</LIEN>
+<LIEN cidtexte="JORFTEXT000000394320" datesignatexte="2001-07-30" id="LEGIARTI000006379586" naturetexte="DECRET" nortexte="INTE0100186D" num="10" numtexte="2001-683" sens="cible" typelien="CITATION">Décret n°2001-683 du 30 juillet 2001 - art. 10 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000394320" datesignatexte="2001-07-30" id="LEGIARTI000006379587" naturetexte="DECRET" nortexte="INTE0100186D" num="11" numtexte="2001-683" sens="cible" typelien="CITATION">Décret n°2001-683 du 30 juillet 2001 - art. 11 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000394320" datesignatexte="2001-07-30" id="LEGIARTI000006379588" naturetexte="DECRET" nortexte="INTE0100186D" num="12" numtexte="2001-683" sens="cible" typelien="CITATION">Décret n°2001-683 du 30 juillet 2001 - art. 12 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000394320" datesignatexte="2001-07-30" id="LEGIARTI000006379585" naturetexte="DECRET" nortexte="INTE0100186D" num="9" numtexte="2001-683" sens="cible" typelien="CITATION">Décret n°2001-683 du 30 juillet 2001 - art. 9 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000406064" datesignatexte="2001-08-02" id="LEGIARTI000019426922" naturetexte="ARRETE" nortexte="INTE0100479A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 août 2001 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000022959558" datesignatexte="2010-10-19" id="LEGITEXT000022960339" naturetexte="ARRETE" nortexte="IOCE1026890A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 octobre 2010 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000022959558" datesignatexte="2010-10-19" id="LEGIARTI000022960343" naturetexte="ARRETE" nortexte="IOCE1026890A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 octobre 2010 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024810106" datesignatexte="2011-11-02" id="LEGITEXT000024811405" naturetexte="ARRETE" nortexte="IOCE1129957A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 novembre 2011 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000024810106" datesignatexte="2011-11-02" id="LEGIARTI000024811408" naturetexte="ARRETE" nortexte="IOCE1129957A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 novembre 2011 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000028464969" datesignatexte="2013-12-26" id="LEGITEXT000028466724" naturetexte="ARRETE" nortexte="INTE1332070A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 décembre 2013 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000028464969" datesignatexte="2013-12-26" id="LEGIARTI000028466728" naturetexte="ARRETE" nortexte="INTE1332070A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 décembre 2013 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000030462296" datesignatexte="2015-03-20" id="LEGITEXT000030463354" naturetexte="ARRETE" nortexte="INTE1506098A" num="" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 20 mars 2015 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000030462296" datesignatexte="2015-03-20" id="LEGIARTI000030463358" naturetexte="ARRETE" nortexte="INTE1506098A" num="1" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 20 mars 2015 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000033076677" datesignatexte="2016-08-30" id="LEGIARTI000045657435" naturetexte="DECRET" nortexte="INTE1611389D" num="2" numtexte="2016-1177" sens="cible" typelien="CITATION">Décret n°2016-1177 du 30 août 2016 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033133349" datesignatexte="2016-09-20" id="LEGIARTI000045657476" naturetexte="DECRET" nortexte="INTE1616582D" num="16" numtexte="2016-1236" sens="cible" typelien="CITATION">Décret n°2016-1236 du 20 septembre 2016 - art. 16 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033758808" datesignatexte="2016-12-30" id="LEGIARTI000033792187" naturetexte="DECRET" nortexte="INTE1631233D" num="23" numtexte="2016-2002" sens="cible" typelien="CITATION">Décret n°2016-2002 du 30 décembre 2016 - art. 23 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033759014" datesignatexte="2016-12-30" id="LEGIARTI000051726465" naturetexte="DECRET" nortexte="INTE1631174D" num="14-1" numtexte="2016-2008" sens="cible" typelien="CITATION">Décret n°2016-2008 du 30 décembre 2016 - art. 14-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033759014" datesignatexte="2016-12-30" id="LEGIARTI000051728676" naturetexte="DECRET" nortexte="INTE1631174D" num="3" numtexte="2016-2008" sens="cible" typelien="CITATION">Décret n°2016-2008 du 30 décembre 2016 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033893479" datesignatexte="2017-01-02" id="LEGIARTI000033896279" naturetexte="ARRETE" nortexte="INTE1631280A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 janvier 2017 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000036847698" datesignatexte="2018-04-27" id="LEGIARTI000036849861" naturetexte="DECRET" nortexte="PRMX1802251D" num="1" numtexte="2018-306" sens="cible" typelien="CITATION">Décret n°2018-306 du 27 avril 2018 - art. 1</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000044505745" datesignatexte="2021-12-16" id="LEGIARTI000044507478" naturetexte="DECRET" nortexte="INTE2129064D" num="5" numtexte="2021-1665" sens="cible" typelien="CITATION">Décret n°2021-1665 du 16 décembre 2021 - art. 5</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595007" naturetexte="DECRET" nortexte="INTE2132249D" num="1" numtexte="2022-557" sens="cible" typelien="MODIFIE">Décret n°2022-557 du 14 avril 2022 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595025" naturetexte="DECRET" nortexte="INTE2132249D" num="10" numtexte="2022-557" sens="cible" typelien="CITATION">Décret n°2022-557 du 14 avril 2022 - art. 10</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006391848" naturetexte="CODE" nortexte="" num="L3334-2" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales - art. L3334-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000049728115" naturetexte="CODE" nortexte="" num="R1424-70" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R1424-70 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

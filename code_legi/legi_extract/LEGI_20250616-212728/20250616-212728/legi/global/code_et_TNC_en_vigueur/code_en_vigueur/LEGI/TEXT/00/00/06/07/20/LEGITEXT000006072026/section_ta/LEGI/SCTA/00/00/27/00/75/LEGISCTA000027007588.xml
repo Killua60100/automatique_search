@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000027007588</ID>
+<TITRE_TA>Titre Ier :  Les opérations de banque, les services de paiement et l'émission et la gestion de monnaie électronique</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006154402" debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006154402" niv="4" url="/LEGI/SCTA/00/00/06/15/44/LEGISCTA000006154402.xml">Chapitre Ier : Dispositions générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006154410" debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006154410" niv="4" url="/LEGI/SCTA/00/00/06/15/44/LEGISCTA000006154410.xml">Chapitre II : Comptes et dépôts</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006154430" debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006154430" niv="4" url="/LEGI/SCTA/00/00/06/15/44/LEGISCTA000006154430.xml">Chapitre III : Crédits</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000020861166" debut="2009-11-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000020866829" niv="4" url="/LEGI/SCTA/00/00/20/86/68/LEGISCTA000020866829.xml">Chapitre IV : Les services de paiement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000020861411" debut="2009-11-01" etat="MODIFIE" fin="2013-01-30" id="LEGISCTA000020866959" niv="4" url="/LEGI/SCTA/00/00/20/86/69/LEGISCTA000020866959.xml">Chapitre V : Médiation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000020861411" debut="2013-01-30" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027007570" niv="4" url="/LEGI/SCTA/00/00/27/00/75/LEGISCTA000027007570.xml">Chapitre V : L'émission et la gestion de monnaie électronique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000020861482" debut="2009-11-01" etat="MODIFIE" fin="2013-01-30" id="LEGISCTA000020866987" niv="4" url="/LEGI/SCTA/00/00/20/86/69/LEGISCTA000020866987.xml">Chapitre VI : Contrôle et dispositions communes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000020861482" debut="2013-01-30" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027007572" niv="4" url="/LEGI/SCTA/00/00/27/00/75/LEGISCTA000027007572.xml">Chapitre VI : Médiation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000027005863" debut="2013-01-30" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027005868" niv="4" url="/LEGI/SCTA/00/00/27/00/58/LEGISCTA000027005868.xml">Chapitre VII : Contrôle et dispositions communes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000029211486" debut="2014-07-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000029211486" niv="4" url="/LEGI/SCTA/00/00/29/21/14/LEGISCTA000029211486.xml">Chapitre VIII : Offre d'opérations de banque à des personnes physiques résidant en france par des établissements de crédit ayant leur siège social dans un etat figurant sur la liste des etats bénéficiaires de l'aide publique au développement et qui n'est pas partie à l'accord sur l'espace économique européen</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006123907">Livre III : Les services</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006138157</ID>
+<TITRE_TA>Titre X : Des frais de justice</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1959-03-02" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006578388" num="800" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2020-12-31" id="LEGIARTI000006578389" num="800" origine="LEGI"/>
+<LIEN_ART debut="2020-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042915828" num="800" origine="LEGI"/>
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="2007-07-01" id="LEGIARTI000006578390" num="800-1" origine="LEGI"/>
+<LIEN_ART debut="2007-07-01" etat="MODIFIE" fin="2011-12-30" id="LEGIARTI000006578391" num="800-1" origine="LEGI"/>
+<LIEN_ART debut="2011-12-30" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000025076056" num="800-1" origine="LEGI"/>
+<LIEN_ART debut="2020-12-27" etat="MODIFIE" fin="2024-09-30" id="LEGIARTI000042779516" num="800-1" origine="LEGI"/>
+<LIEN_ART debut="2024-09-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048442137" num="800-1" origine="LEGI"/>
+<LIEN_ART debut="2000-06-16" etat="MODIFIE" fin="2011-12-15" id="LEGIARTI000006578392" num="800-2" origine="LEGI"/>
+<LIEN_ART debut="2011-12-15" etat="MODIFIE" fin="2013-01-01" id="LEGIARTI000024967447" num="800-2" origine="LEGI"/>
+<LIEN_ART debut="2013-01-01" etat="MODIFIE" fin="2021-12-24" id="LEGIARTI000026948578" num="800-2" origine="LEGI"/>
+<LIEN_ART debut="2021-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044569761" num="800-2" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006151952" debut="1989-07-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006151952" niv="4" url="/LEGI/SCTA/00/00/06/15/19/LEGISCTA000006151952.xml">Dispositions générales</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121331">Livre V : Des procédures d'exécution</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

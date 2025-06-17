@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000038271580</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/38/27/15/LEGIARTI000038271580.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-80-2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2019-03-25</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006167519">Section 1 : De la surveillance</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000038271580" num="706-80-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742657" num="706-80-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Dans le cadre d'une opération de surveillance de l'acheminement ou du transport des objets, biens ou produits tirés de la commission de l'une des infractions entrant dans le champ d'application des articles 706-73,706-73-1 ou 706-74 ou servant à les commettre, et lorsque les nécessités de l'enquête ou de l'instruction l'exigent, les officiers de police judiciaire et, sous leur autorité, les agents de police judiciaire en charge des investigations peuvent, avec l'autorisation du procureur de la République ou du juge d'instruction saisi des faits, qui en avise préalablement le parquet, livrer ou délivrer à la place des prestataires de services postaux et des opérateurs de fret ces objets, biens ou produits, sans être pénalement responsables. </p>
+<p>A peine de nullité, l'autorisation du procureur de la République ou du juge d'instruction est écrite et motivée. Cette autorisation est versée au dossier de la procédure et les actes autorisés ne peuvent constituer une incitation à commettre une infraction.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000038261631" datesignatexte="2019-03-23" id="LEGIARTI000038262608" naturetexte="LOI" nortexte="JUST1806695L" num="68" numtexte="2019-222" sens="cible" typelien="CREE">LOI n°2019-222 du 23 mars 2019 - art. 68</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000031050748" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577781" naturetexte="CODE" nortexte="" num="706-74" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-74 (V)</LIEN>
+</LIENS>
+</ARTICLE>

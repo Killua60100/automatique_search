@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000036495020</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/36/49/50/LEGITEXT000036495020.xml</URL>
+<NATURE>ARRETE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000030001603</CID>
+<NUM/>
+<NUM_PARUTION>0302</NUM_PARUTION>
+<NUM_SEQUENCE>30</NUM_SEQUENCE>
+<NOR>DEVR1428328A</NOR>
+<DATE_PUBLI>2014-12-31</DATE_PUBLI>
+<DATE_TEXTE>2014-12-29</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2025-06-15</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR>
+<VERSION_A_VENIR>2026-01-01</VERSION_A_VENIR>
+<VERSION_A_VENIR>2027-01-01</VERSION_A_VENIR>
+</VERSIONS_A_VENIR>
+<ORIGINE_PUBLI>JORF n°0302 du 31 décembre 2014</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI>23315</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>23316</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Arrêté du 29 décembre 2014</TITRE>
+<TITREFULL>Arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2018-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000023317192" datesignatexte="2010-12-29" id="JORFTEXT000023317192" naturetexte="DECRET" nortexte="DEVR1024885D" num="" numtexte="2010-1664" sens="source" typelien="CITATION">Décret n°2010-1664 du 29 décembre 2010</LIEN>
+<LIEN cidtexte="JORFTEXT000030000173" datesignatexte="2014-12-29" id="JORFTEXT000030000173" naturetexte="DECRET" nortexte="DEVR1423795D" num="" numtexte="2014-1668" sens="source" typelien="CITATION">DÉCRET n°2014-1668 du 29 décembre 2014</LIEN>
+<LIEN cidtexte="JORFTEXT000036340845" datesignatexte="2017-12-29" id="LEGIARTI000036487065" naturetexte="ARRETE" nortexte="TRER1725883A" num="2" numtexte="" sens="cible" typelien="MODIFIE">Arrêté du 29 décembre 2017 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGISCTA000023986204" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'énergie</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGITEXT000023983208" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'énergie</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>La ministre de l'écologie, du développement durable et de l'énergie,<br/>Vu le code de l'énergie, notamment ses articles L. 221-1 à L. 222-9 ;<br/>Vu le décret n° 2010-1664 du 29 décembre 2010 modifié relatif aux certificats d'économies d'énergie, notamment ses articles 3 et 7 ;<br/>Vu le décret n° 2014-1668 du 29 décembre 2014 relatif aux obligations de la troisième période du dispositif des certificats d'économies d'énergie ;<br/>Vu l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;<br/>Vu l'avis du Conseil supérieur de l'énergie du 9 décembre 2014,<br/>Arrête :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 29 décembre 2014.</p>
+</div>
+<div align="left">
+<p>Pour la ministre et par délégation :</p>
+<p>Le directeur général de l'énergie et du climat,</p>
+<p>L. Michel</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000051706268</ID>
+<TITRE_TA>ANNEXES</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706270" num="Annexe à l'article A. 5332-200" origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706275" num="Annexe à l'article A. 5332-300 " origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706287" num="Annexe à l'article A. 5332-306 " origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706297" num="Annexe à l'article A. 5332-310 " origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706318" num="Annexe" origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706320" num="Annexe à l'article A. 5332-400 " origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706335" num="Annexe à l'article A. 5332-406" origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706358" num="Annexe à l'article A. 5332-410 " origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706432" num="Annexe " origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706438" num="Annexe à l'article A. 5332-500" origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706447" num="Annexe à l'article A. 5332-703" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000051706459" debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000051706459" niv="6" url="/LEGI/SCTA/00/00/51/70/64/LEGISCTA000051706459.xml">ANNEXES À L'ARTICLE A. 5332-706 - FORMATION ET ÉVALUATION EN DISTANCIEL</LIEN_SECTION_TA>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706490" num="Annexe à l'article A. 5332-715 " origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706498" num="Annexe à l'article A. 5332-721" origine="LEGI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051706546" num="Annexe à l'article A. 5332-728" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000023086525" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des transports" debut="2010-12-01" fin="2999-01-01" id_txt="LEGITEXT000023086525">Code des transports</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2013-08-30" fin="2999-01-01" id="LEGISCTA000027908281">PARTIE RÉGLEMENTAIRE - Arrêtés </TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-06-08" fin="2999-01-01" id="LEGISCTA000051706005">CINQUIÈME PARTIE : TRANSPORT ET NAVIGATION MARITIMES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-06-08" fin="2999-01-01" id="LEGISCTA000051706007">Livre III : LES PORTS MARITIMES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-06-08" fin="2999-01-01" id="LEGISCTA000051706009">Titre III : POLICE DES PORTS MARITIMES</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006167519</ID>
+<TITRE_TA>Section 1 : De la surveillance</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2015-08-19" id="LEGIARTI000006577793" num="706-80" origine="LEGI"/>
+<LIEN_ART debut="2015-08-19" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000031052015" num="706-80" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000038312770" num="706-80" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039279216" num="706-80" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000038271578" num="706-80-1" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039278934" num="706-80-1" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000038271580" num="706-80-2" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742657" num="706-80-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

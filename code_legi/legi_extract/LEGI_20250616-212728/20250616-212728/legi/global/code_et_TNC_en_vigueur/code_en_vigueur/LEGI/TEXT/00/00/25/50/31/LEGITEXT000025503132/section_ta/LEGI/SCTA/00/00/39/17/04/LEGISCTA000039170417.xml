@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000039170417</ID>
+<TITRE_TA>Sous-section 1 : Jeux d'argent et de hasard </TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182736" num="L324-1" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182732" num="L324-2" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182720" num="L324-3" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182705" num="L324-4" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182698" num="L324-5" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182692" num="L324-6" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182681" num="L324-7" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508079">LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2020-01-01" id="LEGISCTA000025507989">TITRE II : JEUX DE HASARD, CASINOS, LOTERIES</TITRE_TM>
+<TITRE_TM debut="2020-01-01" fin="2999-01-01" id="LEGISCTA000039182522">TITRE II : JEUX D'ARGENT ET DE HASARD, CASINOS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507959">Chapitre IV : Dispositions pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2020-01-01" id="LEGISCTA000025507957">Section 1 : Jeux de hasard et casinos</TITRE_TM>
+<TITRE_TM debut="2020-01-01" fin="2999-01-01" id="LEGISCTA000039182749">Section 1 : Dispositions communes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

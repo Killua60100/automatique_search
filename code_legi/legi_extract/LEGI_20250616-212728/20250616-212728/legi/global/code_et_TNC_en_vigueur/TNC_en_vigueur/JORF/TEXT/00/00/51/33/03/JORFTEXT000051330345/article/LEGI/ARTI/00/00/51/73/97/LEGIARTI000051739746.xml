@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051739746</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/97/LEGIARTI000051739746.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3 bis</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-16</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000051330345" date_publi="2025-03-16" date_signature="2025-03-06" ministere="Ministère du travail, de la santé, des solidarités et des familles" nature="ARRETE" nor="TSSD2506797A" num="" num_parution_jo="0065">
+<TITRE_TXT c_titre_court="Arrêté du 6 mars 2025" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000051330345">Arrêté du 6 mars 2025 portant création du titre professionnel de développeur intégrateur en informatique industrielle</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 6 mars 2025" debut="2025-03-17" fin="2999-01-01" id_txt="LEGITEXT000051332103">Arrêté du 6 mars 2025 portant création du titre professionnel de développeur intégrateur en informatique industrielle</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739746" num="3 bis" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les personnes titulaires d'une attestation de compétences de développeur intégrateur en informatique industrielle délivrée dans les conditions mentionnées ci-après peuvent présenter une demande au représentant territorial compétent du ministère chargé de l'emploi afin que le titre professionnel de développeur intégrateur en informatique industrielle leur soit délivré par correspondance :</p>
+<p align="left">1° Attestation de compétences délivrée le 22 avril 2021, le 31 mars 2022 ou le 6 juillet 2023 par l'Agence nationale pour la formation professionnelle des adultes (AFPA) de Vénissieux ;</p>
+<p align="left">2° Attestation de compétences délivrée le 22 décembre 2020, le 29 juin 2022, le 30 juin 2022 ou le 7 décembre 2023 par l'Agence nationale pour la formation professionnelle des adultes (AFPA) de Metz ;</p>
+<p align="left">3° Attestation de compétences délivrée le 14 décembre 2020, le 16 décembre 2020 ou le 4 août 2023 par l'Agence nationale pour la formation professionnelle des adultes (AFPA) de Mantes Magnanville.</p>
+<p align="left">La demande adressée au représentant territorial compétent du ministère chargé de l'emploi est accompagnée d'une copie de l'attestation de compétences, et, le cas échéant, des justificatifs afférents.</p>
+<p align="left">La décision de ce dernier fait l'objet d'une notification entrainant la délivrance du titre professionnel.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051736273" datesignatexte="2025-05-27" id="LEGIARTI000051737589" naturetexte="ARRETE" nortexte="TSSD2515412A" num="1" numtexte="" sens="cible" typelien="CREE">Arrêté du 27 mai 2025 - art. 1</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000006068842</ID>
+<ANCIEN_ID>MSEAG</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/06/06/88/LEGITEXT000006068842.xml</URL>
+<NATURE>LOI</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000000320434</CID>
+<NUM>84-53</NUM>
+<NUM_PARUTION/>
+<NUM_SEQUENCE>0</NUM_SEQUENCE>
+<NOR/>
+<DATE_PUBLI>1984-01-27</DATE_PUBLI>
+<DATE_TEXTE>1984-01-26</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2025-02-01</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI>0</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>0</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Loi n° 84-53 du 26 janvier 1984</TITRE>
+<TITREFULL>Loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale (1).</TITREFULL>
+
+<ETAT>ABROGE_DIFF</ETAT>
+<DATE_DEBUT>1984-01-27</DATE_DEBUT>
+<DATE_FIN>2222-02-22</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000320434" datesignatexte="1984-01-26" id="JORFTEXT000000320434" naturetexte="LOI" nortexte="" num="" numtexte="84-53" sens="source" typelien="CREATION">LOI 84-53 1984-01-26 JORF 27 JANVIER 1984 rectificatif JORF 18 avril 1984</LIEN>
+<LIEN cidtexte="JORFTEXT000044411525" datesignatexte="2021-11-24" id="LEGIARTI000044415256" naturetexte="ORDONNANCE" nortexte="TFPF2121004R" num="8" numtexte="2021-1574" sens="source" typelien="ABROGATION">Ordonnance n°2021-1574 du 24 novembre 2021 - art. 8</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU/>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>Par le Président de la République, François MITTERRAND.<br/>
+ Le Premier ministre, Pierre MAUROY.<br/>
+ Le ministre de l'intérieur et de la décentralisation, Gaston DEFFERRE.<br/>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU>
+<br/>   TRAVAUX PREPARATOIRES (1).<br/>
+ Assemblée nationale :<br/>
+<br/>   Projet de loi n° 1388 ;<br/>
+<br/>   Rapport de M. Tabanou, au nom de la commission des lois, n° 1519 ;<br/>
+<br/>   Discussion les 3, 4, 5 octobre 1983 ;<br/>
+<br/>   Adoption, après déclaration d'urgence, le 5 octobre 1983.<br/>
+ Sénat :<br/>
+<br/>   Projet de loi, adopté par l'Assemblée nationale, n° 7 (1983-1984) ;<br/>
+<br/>   Rapport de M. Hoeffel, au nom de la commission des lois, n° 82 (1983-1984) ;<br/>
+<br/>   Discussion les 13 et 14 décembre 1983 ;<br/>
+<br/>   Adoption le 14 décembre 1983.<br/>
+ Assemblée nationale :<br/>
+<br/>   Rapport de M. Tabanou, au nom de la commission mixte paritaire n° 1920 ;<br/>
+<br/>   Sénat :<br/>
+<br/>   Rapport de M. Hoeffel, au nom de la commission mixte paritaire n° 163 (1983-1984).<br/>
+ Assemblée nationale :<br/>
+<br/>   Projet de loi, modifié par le Sénat n° 1890 ;<br/>
+<br/>   Rapport de M. Tabanou, au nom de la commission des lois, n° 1925 ;<br/>
+<br/>   Adoption le 21 décembre 1983.<br/>
+ Sénat :<br/>
+<br/>   Projet de loi, adopté avec modifications par l'Assemblée nationale en deuxième et nouvelle lecture, n° 178 (1983-1984) ;<br/>
+<br/>   Rapport de M. Hoeffel, au nom de la commission des lois, n° 180 (1983-1984) ;<br/>
+<br/>   Discussion et rejet le 22 décembre 1983 ;<br/>
+ Assemblée nationale :<br/>
+<br/>   Projet de loi, rejeté par le Sénat en deuxième et nouvelle lecture, n° 1957 ;<br/>
+<br/>   Rapport de M. Tabanou, au nom de la commission des lois, n° 1958 ;<br/>
+<br/>   Discussion et adoption le 22 décembre 1983.<br/>
+ Conseil constitutionnel :<br/>
+<br/>   Décision du 20 janvier 1984, publiée au Journal officiel du 21 janvier 1984.<br/>
+</CONTENU>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006099275</ID>
+<TITRE_TA>Titre XII : Contentieux</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006122131" debut="1994-02-11" etat="ABROGE" fin="2001-01-05" id="LEGISCTA000006122131" niv="2" url="/LEGI/SCTA/00/00/06/12/21/LEGISCTA000006122131.xml">Chapitre Ier : Constatation des infractions douanières</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006122125" debut="1949-01-01" etat="ABROGE" fin="1992-04-01" id="LEGISCTA000006122125" niv="2" url="/LEGI/SCTA/00/00/06/12/21/LEGISCTA000006122125.xml">Chapitre Ier : Constatations des infractions douanières</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006122126" debut="1949-01-01" etat="ABROGE" fin="2002-12-31" id="LEGISCTA000006122126" niv="2" url="/LEGI/SCTA/00/00/06/12/21/LEGISCTA000006122126.xml">Chapitre II : Poursuites</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006122127" debut="1949-01-01" etat="ABROGE" fin="2002-12-31" id="LEGISCTA000006122127" niv="2" url="/LEGI/SCTA/00/00/06/12/21/LEGISCTA000006122127.xml">Chapitre III : Procédure devant les tribunaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006122128" debut="1949-01-01" etat="ABROGE" fin="2003-01-01" id="LEGISCTA000006122128" niv="2" url="/LEGI/SCTA/00/00/06/12/21/LEGISCTA000006122128.xml">Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006122129" debut="1949-01-01" etat="ABROGE" fin="2002-01-01" id="LEGISCTA000006122129" niv="2" url="/LEGI/SCTA/00/00/06/12/21/LEGISCTA000006122129.xml">Chapitre V : Responsabilité et solidarité</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006122130" debut="1949-01-01" etat="ABROGE" fin="2002-12-31" id="LEGISCTA000006122130" niv="2" url="/LEGI/SCTA/00/00/06/12/21/LEGISCTA000006122130.xml">Chapitre VI : Dispositions répressives</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

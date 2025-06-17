@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000043409275</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/43/40/92/LEGIARTI000043409275.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>225-12-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2021-04-23</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149830">Chapitre V : Des atteintes à la dignité de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-03-19" fin="2016-04-15" id="LEGISCTA000006165396">Section 2 bis : Du recours à la prostitution de mineurs ou de personnes particulièrement vulnérables.</TITRE_TM>
+<TITRE_TM debut="2016-04-15" fin="2999-01-01" id="LEGISCTA000032400789">Section 2 bis : Du recours à la prostitution</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-03-05" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417878" num="225-12-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2016-04-15" id="LEGIARTI000006417879" num="225-12-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-04-15" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000032400782" num="225-12-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409275" num="225-12-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsqu'il est commis en récidive dans les conditions prévues au second alinéa de l'article 132-11, le fait de solliciter, d'accepter ou d'obtenir des relations de nature sexuelle d'une personne qui se livre à la prostitution, y compris de façon occasionnelle, en échange d'une rémunération, d'une promesse de rémunération, de la fourniture d'un avantage en nature ou de la promesse d'un tel avantage est puni de 3 750 € d'amende.</p>
+<p>Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende le fait de solliciter, d'accepter ou d'obtenir, en échange d'une rémunération, d'une promesse de rémunération, de la fourniture d'un avantage en nature ou de la promesse d'un tel avantage, des relations de nature sexuelle de la part d'une personne qui se livre à la prostitution, y compris de façon occasionnelle, lorsque cette personne est mineure ou présente une particulière vulnérabilité, apparente ou connue de son auteur, due à une maladie, à une infirmité, à un handicap ou à un état de grossesse.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="CODIFICATION">Loi n° 92-684 du 22 juillet 1992</LIEN>
+<LIEN cidtexte="JORFTEXT000000779239" datesignatexte="2002-08-06" id="LEGIARTI000006493625" naturetexte="LOI" nortexte="JUSX0200109L" num="14" numtexte="2002-1062" sens="cible" typelien="CITATION">Loi n° 2002-1062 du 6 août 2002 - art. 14 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000813882" datesignatexte="2005-12-30" id="LEGIARTI000048838955" naturetexte="LOI" nortexte="ECOX0500273L" num="128" numtexte="2005-1720" sens="cible" typelien="CITATION">Loi n° 2005-1720 du 30 décembre 2005 - art. 128 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000032396046" datesignatexte="2016-04-13" id="LEGIARTI000032397196" naturetexte="LOI" nortexte="FDFX1331971L" num="22" numtexte="2016-444" sens="cible" typelien="CITATION">LOI n°2016-444 du 13 avril 2016 - art. 22 (V)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000043403203" datesignatexte="2021-04-21" id="LEGIARTI000043404984" naturetexte="LOI" nortexte="JUSX2103172L" num="7" numtexte="2021-478" sens="cible" typelien="MODIFIE">LOI n°2021-478 du 21 avril 2021 - art. 7</LIEN>
+<LIEN cidtexte="JORFTEXT000044271440" datesignatexte="2021-10-29" id="LEGIARTI000044274699" naturetexte="DECRET" nortexte="INTD2111381D" num="9" numtexte="2021-1402" sens="cible" typelien="CITATION">Décret n°2021-1402 du 29 octobre 2021 - art. 9</LIEN>
+
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000020196876" naturetexte="CODE" nortexte="" num="L123-11-3" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L123-11-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033225721" naturetexte="CODE" nortexte="" num="D221-19" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. D221-19 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000045136938" naturetexte="CODE" nortexte="" num="L421-3" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L421-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000049043201" naturetexte="CODE" nortexte="" num="L432-1-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L432-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000038189508" naturetexte="CODE" nortexte="" num="R311-15" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000025450337" naturetexte="CODE" nortexte="" num="L2336-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2336-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049294196" naturetexte="CODE" nortexte="" num="L312-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L312-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033460642" naturetexte="CODE" nortexte="" num="2-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000029759972" naturetexte="CODE" nortexte="" num="706-35-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-35-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044394236" naturetexte="CODE" nortexte="" num="706-47" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-47 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742096" naturetexte="CODE" nortexte="" num="706-55" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-55 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044278316" naturetexte="CODE" nortexte="" num="R53-14" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417368" naturetexte="CODE" nortexte="" num="132-11" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-11</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409260" naturetexte="CODE" nortexte="" num="225-12-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 225-12-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032400764" naturetexte="CODE" nortexte="" num="225-12-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 225-12-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006150655</ID>
+<TITRE_TA>CHAPITRE III : Dispositions pénales.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006465432" num="L39" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465433" num="L39" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465876" num="L39-1" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006465875" num="L39-1" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006465881" num="L39-2" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465882" num="L39-2" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006465887" num="L39-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="ABROGE" fin="1996-07-27" id="LEGIARTI000006465888" num="L39-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465892" num="L39-4" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006465891" num="L39-4" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465895" num="L39-5" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465897" num="L39-6" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1991-07-13" id="LEGIARTI000006465438" num="L40" origine="LEGI"/>
+<LIEN_ART debut="1991-07-13" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465439" num="L40" origine="LEGI"/>
+<LIEN_ART debut="1991-10-01" etat="ABROGE" fin="1994-03-01" id="LEGIARTI000006465446" num="L41" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1991-10-01" id="LEGIARTI000006465445" num="L41" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="ABROGE" fin="1991-10-01" id="LEGIARTI000006465450" num="L42" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006465454" num="L43" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465455" num="L43" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006465462" num="L44" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465471" num="L45" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070987" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des postes et des communications électroniques" debut="1962-03-14" fin="2999-01-01" id_txt="LEGITEXT000006070987">Code des postes et des communications électroniques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1962-03-14" fin="2999-01-01" id="LEGISCTA000006092423">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="2004-07-10" id="LEGISCTA000006118604">LIVRE II : Les télécommunications</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="2004-07-10" id="LEGISCTA000006136628">TITRE Ier : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

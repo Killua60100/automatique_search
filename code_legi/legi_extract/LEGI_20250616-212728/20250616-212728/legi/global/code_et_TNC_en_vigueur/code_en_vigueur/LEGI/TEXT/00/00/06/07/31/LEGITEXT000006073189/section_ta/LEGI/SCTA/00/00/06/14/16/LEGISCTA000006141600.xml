@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006141600</ID>
+<TITRE_TA>Titre I : Généralités</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155998" debut="1985-12-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006155998" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155998.xml">Chapitre 1er : Organisation de la sécurité sociale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155999" debut="1996-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006155999" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155999.xml">Chapitre 1 bis : Lois de financement de la sécurité sociale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006156000" debut="2004-08-17" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006156000" niv="4" url="/LEGI/SCTA/00/00/06/15/60/LEGISCTA000006156000.xml">Chapitre 1 ter : Objectifs de dépenses et de recettes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037044571" debut="1996-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037044571" niv="4" url="/LEGI/SCTA/00/00/37/04/45/LEGISCTA000037044571.xml">Chapitre 2 : Ministres compétents
+</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037044558" debut="1996-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037044558" niv="4" url="/LEGI/SCTA/00/00/37/04/45/LEGISCTA000037044558.xml">Chapitre 3 : Inspection générale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006156001" debut="1996-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006156001" niv="4" url="/LEGI/SCTA/00/00/06/15/60/LEGISCTA000006156001.xml">Chapitre 4 : Commissions et conseils</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006156002" debut="2003-08-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006156002" niv="4" url="/LEGI/SCTA/00/00/06/15/60/LEGISCTA000006156002.xml">Chapitre 4 bis : Organisation comptable</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006156003" debut="2005-12-20" etat="MODIFIE" fin="2018-12-24" id="LEGISCTA000006156003" niv="4" url="/LEGI/SCTA/00/00/06/15/60/LEGISCTA000006156003.xml">Chapitre 4 ter : Contrôle et lutte contre la fraude</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006156003" debut="2018-12-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037948986" niv="4" url="/LEGI/SCTA/00/00/37/94/89/LEGISCTA000037948986.xml">Chapitre 4 ter : Dispositifs de contrôle et relatifs à la lutte contre la fraude</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000025012492" debut="2011-12-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000025012492" niv="4" url="/LEGI/SCTA/00/00/25/01/24/LEGISCTA000025012492.xml">Chapitre 4 quater : Prospective et performance du service public de la sécurité sociale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006156004" debut="1985-12-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006156004" niv="4" url="/LEGI/SCTA/00/00/06/15/60/LEGISCTA000006156004.xml">Chapitre 5 : Dispositions diverses</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073189" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité sociale." debut="1958-10-16" fin="2999-01-01" id_txt="LEGITEXT000006073189">Code de la sécurité sociale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006106050">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006126885">Livre I : Généralités - Dispositions communes à tout ou partie des régimes de base</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

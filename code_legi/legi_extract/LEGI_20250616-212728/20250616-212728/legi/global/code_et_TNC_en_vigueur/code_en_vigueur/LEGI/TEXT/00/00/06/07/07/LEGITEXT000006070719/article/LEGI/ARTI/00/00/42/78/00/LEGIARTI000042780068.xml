@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000042780068</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/42/78/00/LEGIARTI000042780068.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>432-15</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2020-12-27</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006136046">Titre III : Des atteintes à l'autorité de l'Etat</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149848">Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165364">Section 3 : Des manquements au devoir de probité</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006181766">Paragraphe 5 : De la soustraction et du détournement de biens</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418530" num="432-15" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000006418531" num="432-15" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-12-08" etat="MODIFIE" fin="2019-09-20" id="LEGIARTI000028311956" num="432-15" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-09-20" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000039113380" num="432-15" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2020-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042780068" num="432-15" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, un comptable public, un dépositaire public ou l'un de ses subordonnés, de détruire, détourner ou soustraire un acte ou un titre, ou des fonds publics ou privés, ou effets, pièces ou titres en tenant lieu, ou tout autre objet qui lui a été remis en raison de ses fonctions ou de sa mission, est puni de dix ans d'emprisonnement et d'une amende de 1 000 000 €, dont le montant peut être porté au double du produit de l'infraction.</p>
+<p>La peine d'amende est portée à 2 000 000 € ou, s'il excède ce montant, au double du produit de l'infraction, lorsque l'infraction est commise en bande organisée.</p>
+<p>La tentative des délits prévus aux alinéas qui précèdent est punie des mêmes peines.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000705067" datesignatexte="1958-11-17" id="LEGIARTI000035569637" naturetexte="ORDONNANCE" nortexte="" num="8 quater" numtexte="58-1100" sens="cible" typelien="CITATION">Ordonnance n° 58-1100 du 17 novembre 1958 - art. 8 quater (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000322519" datesignatexte="1979-01-03" id="LEGIARTI000006528384" naturetexte="LOI" nortexte="" num="28" numtexte="79-18" sens="cible" typelien="CITATION">Loi n°79-18 du 3 janvier 1979 - art. 28 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000320434" datesignatexte="1984-01-26" id="LEGIARTI000035588551" naturetexte="LOI" nortexte="" num="110" numtexte="84-53" sens="cible" typelien="CITATION">Loi n° 84-53 du 26 janvier 1984 - art. 110 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000722860" datesignatexte="1992-07-22" id="JORFTEXT000000722860" naturetexte="LOI" nortexte="JUSX9100041L" num="" numtexte="92-686" sens="source" typelien="CODIFICATION">Loi n°92-686 du 22 juillet 1992</LIEN>
+<LIEN cidtexte="JORFTEXT000000393606" datesignatexte="1999-03-19" id="LEGIARTI000035586168" naturetexte="LOI" nortexte="INTX9800159L" num="161" numtexte="99-209" sens="cible" typelien="CITATION">Loi n° 99-209 du 19 mars 1999 - art. 161 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000393606" datesignatexte="1999-03-19" id="LEGIARTI000035586163" naturetexte="LOI" nortexte="INTX9800159L" num="64" numtexte="99-209" sens="cible" typelien="CITATION">Loi n° 99-209 du 19 mars 1999 - art. 64 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000435515" datesignatexte="2004-02-27" id="LEGIARTI000038741776" naturetexte="LOI" nortexte="DOMX0300085L" num="129" numtexte="2004-192" sens="cible" typelien="CITATION">Loi organique n° 2004-192 du 27 février 2004 - art. 129 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000435515" datesignatexte="2004-02-27" id="LEGIARTI000035586178" naturetexte="LOI" nortexte="DOMX0300085L" num="86" numtexte="2004-192" sens="cible" typelien="CITATION">Loi organique n° 2004-192 du 27 février 2004 - art. 86 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000808107" datesignatexte="2005-01-04" id="LEGIARTI000044467735" naturetexte="ORDONNANCE" nortexte="DOMX0400146R" num="72-6" numtexte="2005-10" sens="cible" typelien="CITATION">Ordonnance n° 2005-10 du 4 janvier 2005 - art. 72-6 (V)</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000035567974" datesignatexte="2017-09-15" id="LEGIARTI000035569416" naturetexte="LOI" nortexte="JUSC1715753L" num="11" numtexte="2017-1339" sens="cible" typelien="CITATION">LOI n° 2017-1339 du 15 septembre 2017 - art. 11 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000042737977" datesignatexte="2020-12-24" id="LEGIARTI000042743843" naturetexte="LOI" nortexte="JUSX1933222L" num="30" numtexte="2020-1672" sens="cible" typelien="MODIFIE">LOI n°2020-1672 du 24 décembre 2020 - art. 30 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742686" naturetexte="CODE" nortexte="" num="706-1-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070300" datesignatexte="2999-01-01" id="LEGIARTI000051642411" naturetexte="CODE" nortexte="" num="L122-18-1" numtexte="" sens="cible" typelien="CITATION">Code des communes de la Nouvelle-Calédonie - art. L122-18-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074236" datesignatexte="2999-01-01" id="LEGIARTI000032860065" naturetexte="CODE" nortexte="" num="L214-10" numtexte="" sens="cible" typelien="CITATION">Code du patrimoine - art. L214-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074236" datesignatexte="2999-01-01" id="LEGIARTI000019202944" naturetexte="CODE" nortexte="" num="L214-2" numtexte="" sens="cible" typelien="CITATION">Code du patrimoine. - art. L214-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074236" datesignatexte="2999-01-01" id="LEGIARTI000019202937" naturetexte="CODE" nortexte="" num="L214-3" numtexte="" sens="cible" typelien="CITATION">Code du patrimoine. - art. L214-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418533" naturetexte="CODE" nortexte="" num="432-16" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 432-16 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000035588351" naturetexte="CODE" nortexte="" num="432-17" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 432-17 (V)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417561</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X221L01AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/75/LEGIARTI000006417561.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>221-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>1994-03-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149826">Chapitre Ier : Des atteintes à la vie de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165276">Section 1 : Des atteintes volontaires à la vie</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417561" num="221-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le fait de donner volontairement la mort à autrui constitue un meurtre. Il est puni de trente ans de réclusion criminelle.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000537611" datesignatexte="1991-07-10" id="LEGIARTI000038312643" naturetexte="LOI" nortexte="JUSX9100049L" num="9-2" numtexte="91-647" sens="cible" typelien="CITATION">Loi n° 91-647 du 10 juillet 1991 - art. 9-2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="CODIFICATION">Loi 92-684 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="SPEC_APPLI">Loi 92-684 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000710420" datesignatexte="1992-10-12" id="LEGIARTI000038312636" naturetexte="ORDONNANCE" nortexte="DOMX9200165R" num="5-1" numtexte="92-1147" sens="cible" typelien="CITATION">Ordonnance n° 92-1147 du 12 octobre 1992 - art. 5-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 373</LIEN>
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000032401821" datesignatexte="2016-04-14" id="LEGIARTI000032403070" naturetexte="LOI" nortexte="JUSD1522885L" num="1" numtexte="2016-457" sens="cible" typelien="CITATION">LOI n°2016-457 du 14 avril 2016 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000032627231" datesignatexte="2016-06-03" id="LEGIARTI000032631199" naturetexte="LOI" nortexte="JUSD1532276L" num="23" numtexte="2016-731" sens="cible" typelien="CITATION">LOI n°2016-731 du 3 juin 2016 - art. 23</LIEN>
+<LIEN cidtexte="JORFTEXT000044271440" datesignatexte="2021-10-29" id="LEGIARTI000044274699" naturetexte="DECRET" nortexte="INTD2111381D" num="9" numtexte="2021-1402" sens="cible" typelien="CITATION">Décret n°2021-1402 du 29 octobre 2021 - art. 9</LIEN>
+<LIEN cidtexte="JORFTEXT000045076469" datesignatexte="2022-01-20" id="LEGIARTI000045077044" naturetexte="DECRET" nortexte="JUSD2201078D" num="2" numtexte="2022-67" sens="cible" typelien="CITATION">Décret n°2022-67 du 20 janvier 2022 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000045653701" datesignatexte="2022-04-25" id="LEGIARTI000045655797" naturetexte="DECRET" nortexte="JUSD2211260D" num="3" numtexte="2022-656" sens="cible" typelien="CITATION">Décret n°2022-656 du 25 avril 2022 - art. 3</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000045136938" naturetexte="CODE" nortexte="" num="L421-3" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L421-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074234" datesignatexte="2999-01-01" id="LEGIARTI000019294093" naturetexte="CODE" nortexte="" num="L282-2" numtexte="" sens="cible" typelien="CITATION">Code de l'aviation civile - art. L282-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000025450337" naturetexte="CODE" nortexte="" num="L2336-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2336-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049294196" naturetexte="CODE" nortexte="" num="L312-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L312-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033975162" naturetexte="CODE" nortexte="" num="2-17" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-17 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033975596" naturetexte="CODE" nortexte="" num="2-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049294183" naturetexte="CODE" nortexte="" num="2-25" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-25 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033460642" naturetexte="CODE" nortexte="" num="2-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045099310" naturetexte="CODE" nortexte="" num="2-6" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-6 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000041587173" naturetexte="CODE" nortexte="" num="2-8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-8 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048442178" naturetexte="CODE" nortexte="" num="706-106-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-106-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044394236" naturetexte="CODE" nortexte="" num="706-47" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-47 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032403162" naturetexte="CODE" nortexte="" num="706-47-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-47-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742096" naturetexte="CODE" nortexte="" num="706-55" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-55 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033328567" naturetexte="CODE" nortexte="" num="D147-31" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D147-31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045659578" naturetexte="CODE" nortexte="" num="D15-3-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D15-3-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045659697" naturetexte="CODE" nortexte="" num="D32-2-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D32-2-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045077482" naturetexte="CODE" nortexte="" num="D47-12-8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D47-12-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000028625140" naturetexte="CODE" nortexte="" num="D49-23" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D49-23 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044278316" naturetexte="CODE" nortexte="" num="R53-14" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000023077900" naturetexte="CODE" nortexte="" num="L6372-6" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L6372-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000038313207" naturetexte="CODE" nortexte="" num="221-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-8 (VD)</LIEN>
+
+</LIENS>
+</ARTICLE>

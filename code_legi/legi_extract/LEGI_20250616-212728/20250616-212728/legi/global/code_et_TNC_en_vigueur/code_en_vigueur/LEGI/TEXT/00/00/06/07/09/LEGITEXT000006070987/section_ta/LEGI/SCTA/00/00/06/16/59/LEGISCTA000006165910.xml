@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165910</ID>
+<TITRE_TA>Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2009-06-14" id="LEGIARTI000006465774" num="L34-1" origine="LEGI"/>
+<LIEN_ART debut="2009-06-14" etat="MODIFIE" fin="2011-08-27" id="LEGIARTI000020740388" num="L34-1" origine="LEGI"/>
+<LIEN_ART debut="2011-08-27" etat="MODIFIE" fin="2013-12-20" id="LEGIARTI000024506075" num="L34-1" origine="LEGI"/>
+<LIEN_ART debut="2013-12-20" etat="MODIFIE" fin="2021-07-31" id="LEGIARTI000028345210" num="L34-1" origine="LEGI"/>
+<LIEN_ART debut="2021-07-31" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000043887545" num="L34-1" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741279" num="L34-1" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006465773" num="L34-1" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="ABROGE" fin="2015-01-01" id="LEGIARTI000006465794" num="L34-1-1" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006465778" num="L34-2" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006465781" num="L34-3" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000023713267" num="L34-3" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2021-07-31" id="LEGIARTI000006465784" num="L34-4" origine="LEGI"/>
+<LIEN_ART debut="2021-07-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043887886" num="L34-4" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006465787" num="L34-5" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2011-08-27" id="LEGIARTI000024042439" num="L34-5" origine="LEGI"/>
+<LIEN_ART debut="2011-08-27" etat="MODIFIE" fin="2014-03-19" id="LEGIARTI000024506081" num="L34-5" origine="LEGI"/>
+<LIEN_ART debut="2014-03-19" etat="MODIFIE" fin="2016-07-01" id="LEGIARTI000028748611" num="L34-5" origine="LEGI"/>
+<LIEN_ART debut="2016-07-01" etat="MODIFIE" fin="2020-07-26" id="LEGIARTI000032235707" num="L34-5" origine="LEGI"/>
+<LIEN_ART debut="2020-07-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042155961" num="L34-5" origine="LEGI"/>
+<LIEN_ART debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006465790" num="L34-6" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070987" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des postes et des communications électroniques" debut="1962-03-14" fin="2999-01-01" id_txt="LEGITEXT000006070987">Code des postes et des communications électroniques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1962-03-14" fin="2999-01-01" id="LEGISCTA000006092423">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-27" fin="2999-01-01" id="LEGISCTA000006118605">LIVRE II : Les communications électroniques</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-27" fin="2999-01-01" id="LEGISCTA000006136631">TITRE Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-06-22" fin="2999-01-01" id="LEGISCTA000006150659">Chapitre II : Régime juridique.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

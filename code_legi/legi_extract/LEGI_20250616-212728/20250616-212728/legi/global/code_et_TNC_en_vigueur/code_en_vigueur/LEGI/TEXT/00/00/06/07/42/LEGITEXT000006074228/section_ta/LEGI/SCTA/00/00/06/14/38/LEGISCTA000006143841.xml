@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006143841</ID>
+<TITRE_TA>Titre 2 : Dispositions administratives</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159531" debut="2006-01-06" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159531" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159531.xml">Chapitre 1er : Réception et homologation.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159532" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159532" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159532.xml">Chapitre 2 : Immatriculation.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159533" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159533" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159533.xml">Chapitre 3 : Contrôle technique.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159534" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159534" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159534.xml">Chapitre 4 : Assurance.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159535" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159535" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159535.xml">Chapitre 5 : Immobilisation et mise en fourrière.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159553" debut="2003-06-13" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159553" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159553.xml">Chapitre 6 : Organisation de la profession d'expert en automobile.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159536" debut="2001-06-01" etat="ABROGE" fin="2003-06-13" id="LEGISCTA000006159536" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159536.xml">Chapitre 6 : Retrait de la circulation des véhicules accidentés.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159537" debut="2003-06-13" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159537" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159537.xml">Chapitre 7 : Véhicules endommagés.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000039680981" debut="2019-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000039680981" niv="4" url="/LEGI/SCTA/00/00/39/68/09/LEGISCTA000039680981.xml">Chapitre 8 : Messages promotionnels&#13;
+</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000041984262" debut="2020-06-12" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000041984262" niv="4" url="/LEGI/SCTA/00/00/41/98/42/LEGISCTA000041984262.xml">Chapitre 9 : Surveillance du marché des véhicules à moteur</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006108686">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006129086">Livre 3 : Le véhicule</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

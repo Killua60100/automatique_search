@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006089699</ID>
+<TITRE_TA>CHAPITRE Ier : DE L'IMPRIMERIE ET DE LA LIBRAIRIE</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1881-07-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006419657" num="1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006419659" num="2" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="TRANSFERE" fin="2010-01-06" id="LEGIARTI000006419660" num="2" origine="LEGI"/>
+<LIEN_ART debut="2010-01-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021662491" num="2" origine="LEGI"/>
+<LIEN_ART debut="2016-11-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033386692" num="2 bis" origine="LEGI"/>
+<LIEN_ART debut="2010-01-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021662494" num="3" origine="LEGI"/>
+<LIEN_ART debut="1881-07-29" etat="ABROGE" fin="1925-05-27" id="LEGIARTI000029783724" num="3" origine="LEGI"/>
+<LIEN_ART debut="1881-07-29" etat="ABROGE" fin="1925-05-27" id="LEGIARTI000006419664" num="4" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000877119" date_publi="1881-07-30" date_signature="1881-07-29" ministere="" nature="LOI" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Loi du 29 juillet 1881" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000877119">Loi du 29 juillet 1881 sur la liberté de la presse</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi du 29 juillet 1881" debut="1881-07-29" fin="2999-01-01" id_txt="LEGITEXT000006070722">Loi du 29 juillet 1881 sur la liberté de la presse</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000048908296</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/48/90/82/LEGIARTI000048908296.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>Annexe 2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2023-12-29</DATE_DEBUT>
+<DATE_FIN>2024-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000029953752" date_publi="2014-12-24" date_signature="2014-12-22" ministere="Ministère de l'écologie, du développement durable et de l'énergie" nature="ARRETE" nor="DEVR1428341A" num="" num_parution_jo="0297">
+<TITRE_TXT c_titre_court="ARRÊTÉ du 22 décembre 2014" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000029953752">Arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie</TITRE_TXT>
+<TITRE_TXT c_titre_court="ARRÊTÉ du 22 décembre 2014" debut="2015-01-01" fin="2999-01-01" id_txt="LEGITEXT000030077390">Arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2015-01-01" fin="2999-01-01" id="LEGISCTA000030077391">Annexes</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-01-01" etat="MODIFIE" fin="2015-03-30" id="LEGIARTI000030109051" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-03-30" etat="MODIFIE" fin="2015-08-03" id="LEGIARTI000030418961" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-08-03" etat="MODIFIE" fin="2015-08-12" id="LEGIARTI000030966541" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-08-12" etat="MODIFIE" fin="2015-10-05" id="LEGIARTI000031043947" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-10-05" etat="MODIFIE" fin="2016-01-04" id="LEGIARTI000031269972" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-01-04" etat="MODIFIE" fin="2016-03-13" id="LEGIARTI000031876997" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-03-13" etat="MODIFIE" fin="2016-07-01" id="LEGIARTI000032192086" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-07-01" etat="MODIFIE" fin="2016-11-10" id="LEGIARTI000032239787" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-11-10" etat="MODIFIE" fin="2016-12-23" id="LEGIARTI000033361058" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-12-23" etat="MODIFIE" fin="2017-03-12" id="LEGIARTI000033677892" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-03-12" etat="MODIFIE" fin="2017-08-09" id="LEGIARTI000034264511" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-08-09" etat="MODIFIE" fin="2018-01-11" id="LEGIARTI000035390114" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-01-11" etat="MODIFIE" fin="2018-12-19" id="LEGIARTI000036501692" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-12-19" etat="MODIFIE" fin="2019-04-01" id="LEGIARTI000037845366" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-04-01" etat="MODIFIE" fin="2019-06-10" id="LEGIARTI000038049867" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-06-10" etat="MODIFIE" fin="2019-09-01" id="LEGIARTI000038659703" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-09-01" etat="MODIFIE" fin="2020-01-31" id="LEGIARTI000039024016" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-01-31" etat="MODIFIE" fin="2020-05-20" id="LEGIARTI000046170555" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-04-02" etat="MODIFIE" fin="2020-05-20" id="LEGIARTI000041893007" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-05-20" etat="MODIFIE" fin="2020-08-03" id="LEGIARTI000042205127" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-08-03" etat="MODIFIE" fin="2020-10-12" id="LEGIARTI000041776170" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-10-12" etat="MODIFIE" fin="2020-12-31" id="LEGIARTI000042416505" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-12-31" etat="MODIFIE" fin="2021-07-31" id="LEGIARTI000043034077" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-07-31" etat="MODIFIE" fin="2022-01-01" id="LEGIARTI000043874862" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-10-14" etat="MODIFIE" fin="2021-12-20" id="LEGIARTI000045012818" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-12-20" etat="MODIFIE" fin="2021-12-29" id="LEGIARTI000045349241" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-12-29" etat="MODIFIE" fin="2022-03-13" id="LEGIARTI000044199999" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-03-13" etat="MODIFIE" fin="2022-08-04" id="LEGIARTI000044532014" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-08-04" etat="MODIFIE" fin="2022-08-05" id="LEGIARTI000046159947" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-08-05" etat="MODIFIE" fin="2022-10-01" id="LEGIARTI000046197482" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-10-01" etat="MODIFIE" fin="2022-10-14" id="LEGIARTI000046198207" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-10-14" etat="MODIFIE" fin="2022-12-29" id="LEGIARTI000046414784" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-12-29" etat="MODIFIE" fin="2023-03-01" id="LEGIARTI000046828576" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-03-01" etat="MODIFIE" fin="2023-08-01" id="LEGIARTI000046980641" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-08-01" etat="MODIFIE" fin="2023-10-01" id="LEGIARTI000047779841" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-10-01" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000048137966" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="2024-01-01" etat="MODIFIE_MORT_NE" fin="2023-11-30" id="LEGIARTI000048138516" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-11-30" etat="MODIFIE" fin="2023-12-29" id="LEGIARTI000048964991" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-12-29" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000048908296" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-01-01" etat="MODIFIE" fin="2024-03-30" id="LEGIARTI000048923983" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-03-30" etat="MODIFIE" fin="2024-08-31" id="LEGIARTI000049341588" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-08-31" etat="MODIFIE" fin="2024-09-18" id="LEGIARTI000050149130" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-09-18" etat="MODIFIE" fin="2024-11-21" id="LEGIARTI000050225855" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-11-21" etat="MODIFIE" fin="2025-01-01" id="LEGIARTI000050625742" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2025-01-01" etat="MODIFIE" fin="2025-04-01" id="LEGIARTI000050940544" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2025-04-01" etat="MODIFIE" fin="2025-04-26" id="LEGIARTI000050944384" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2025-04-26" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000051518532" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE_DIFF">
+<LIEN_ART debut="2025-06-15" etat="ABROGE_DIFF" fin="2025-07-01" id="LEGIARTI000051739490" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051722024" num="Annexe 2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément à l’article 1 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), les fiches d'opérations standardisées BAR-TH-171 Pompe à chaleur de type air/ eau et BAR-TH-172 Pompe à chaleur de type eau/ eau ou sol/ eau figurant en annexe A dudit arrêté sont ajoutées à la présente annexe à compter du 1er janvier 2024.</p>
+<p>Conformément à l'article 5 de l'arrêté du 19 décembre 2023 (NOR : ENER2334670A), dans le cas où le bénéficiaire est une personne physique propriétaire occupant ou bailleur d'un logement occupé à titre de résidence principale, ou une personne physique titulaire d'un droit réel immobilier conférant l'usage d'un logement occupé à titre de résidence principale, pour ce logement, les fiches d'opération n° BAR-TH-174 et n° BAR-TH-175 sont applicables aux opérations dont la demande d'aide auprès de l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation est déposée auprès de cette dernière à compter du 1er janvier 2024.</p>
+<p>Dans les autres cas, les fiches d'opération n° BAR-TH-174 et n° BAR-TH-175 sont applicables aux opérations engagées à compter du 1er janvier 2024.</p>
+<p>Conformément à l'article 5 de l'arrêté du 19 décembre 2023 (NOR : ENER2334670A), la suppression de la fiche d'opération standardisée BAR-TH-164 est applicable aux opérations engagées à compter du 1er janvier 2024. Les dispositions de la fiche d'opération standardisée BAR-TH-164 s'appliquent aux opérations engagées jusqu'au 31 décembre 2023, achevées au plus tard le 31 décembre 2025 et incluses dans une liste transmise, au plus tard le 15 janvier 2024, par le demandeur de certificats au ministre chargé de l'énergie, suivant le modèle intitulé " Tableau de recensement des engagements BAR-TH-164 " établi par la DGEC et mis à disposition sur le site Internet du ministère.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Secteur résidentiel</p>
+<p>- Isolation de combles ou de toitures / Fiche d’opération standardisée n° BAR-EN-101</p>
+<p>Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.</p>
+<p>Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.</p>
+<p>Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1<sup>er</sup> mai 2022.</p>
+<p>Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-EN-101, figurant en annexe B dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.</p>
+<p>- Isolation des murs / Fiche d’opération standardisée n° BAR-EN-102</p>
+<p>Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1<sup>er</sup> mai 2022.</p>
+<p>Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER2205456A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1<sup>er</sup> mai 2022.</p>
+<p>- Isolation d’un plancher / Fiche d’opération standardisée n° BAR-EN-103</p>
+<p>Conformément à l’article 1er de l’arrêté du 10 janvier 2019 (NOR : TRER1834746A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1<sup>er</sup> avril 2019.</p>
+<p>Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.</p>
+<p>Conformément à l’article 1<sup>er</sup> de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.</p>
+<p>Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1<sup>er</sup> mai 2022.</p>
+<p>- Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAR-EN-104</p>
+<p>- Isolation des toitures terrasses / Fiche d’opération standardisée n° BAR-EN-105</p>
+<p>Conformément à l’article 1<sup>er</sup> de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2021.</p>
+<p>Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1<sup>er</sup> mai 2022.</p>
+<p>Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-EN-104, figurant en annexe B dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.</p>
+<p>- Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-106</p>
+<p>Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.</p>
+<p>Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.</p>
+<p>- Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-107</p>
+<p>Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.</p>
+<p>- Fermeture isolante / Fiche d’opération standardisée n° BAR-EN-108</p>
+<p>Conformément à l’article 1<sup>er</sup> de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2021.</p>
+<p>- Réduction des apports solaires par la toiture (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-109</p>
+<p>- Chauffe-eau solaire individuel (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-101</p>
+<p>- Chauffe-eau solaire collectif (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-102</p>
+<p>Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.</p>
+<p>- Chaudière individuelle à haute performance énergétique / Fiche d’opération standardisée n°BAR-TH-106</p>
+<p>Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.</p>
+<p>- Chaudière collective haute performance énergétique / Fiche d’opération standardisée n°BAR-TH-107</p>
+<p>- Chaudière collective haute performance énergétique avec contrat assurant la conduite de l’installation / Fiche d’opération standardisée n°BAR-TH-107-SE</p>
+<p>- Radiateur basse température pour un chauffage central / Fiche d’opération standardisée n°BAR-TH-110</p>
+<p>- Régulation par sonde de température extérieure / Fiche d’opération standardisée n°BAR-TH-111</p>
+<p>- Appareil indépendant de chauffage au bois / Fiche d’opération standardisée n°BAR-TH-112</p>
+<p>Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.</p>
+<p>Conformément à l’article 2 de l’arrêté du 25 juillet 2022 (NOR : ENER2221632A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à comper du 1er octobre 2022.</p>
+<p>- Chaudière biomasse individuelle / Fiche d’opération standardisée n°BAR-TH-113</p>
+<p>Conformément à l’article 1<sup>er</sup> de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2021.</p>
+<p>Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER2205456A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1<sup>er</sup> mai 2022.</p>
+<p>- Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n°BAR-TH-115 (Abrogée à compter du 1er avril 2018)</p>
+<p>Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.</p>
+<p>- Plancher chauffant hydraulique à basse température / Fiche d’opération standardisée n°BAR-TH-116</p>
+<p>- Robinet thermostatique / Fiche d’opération standardisée n°BAR-TH-117</p>
+<p>- Système de régulation par programmation d’intermittence / Fiche d’opération standardisée n°BAR-TH-118</p>
+<p>- Système de comptage individuel d’énergie de chauffage / Fiche d’opération standardisée n°BAR-TH-121 (Abrogée à compter du 1<sup>er</sup> octobre 2020)</p>
+<p align="justify">Conformément à l’article 3 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.</p>
+<p>- Récupérateur de chaleur à condensation / Fiche d’opération standardisée n°BAR-TH-122</p>
+<p>- Optimiseur de relance en chauffage collectif / Fiche d’opération standardisée n°BAR-TH-123</p>
+<p>Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-123, figurant en annexe B dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.</p>
+<p>- Chauffe-eau solaire individuel (France d’outre-mer) / Fiche d’opération standardisée n°BAR-TH-124</p>
+<p>Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.</p>
+<p>- Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-125</p>
+<p align="justify">Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté, à compter du 1<sup>er</sup> avril 2020.</p>
+<p>Conformément à l’article 1<sup>er</sup> de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.</p>
+<p align="justify">Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1<sup>er</sup> avril 2022.</p>
+<p align="justify">Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-125, figurant en annexe B dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.</p>
+<p>- Ventilation Mécanique Contrôlée simple flux hygroréglable (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-127</p>
+<p align="justify">Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté, à compter du 1<sup>er</sup> avril 2020.</p>
+<p>Conformément à l’article 1<sup>er</sup> de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.</p>
+<p>Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1<sup>er</sup> avril 2022.</p>
+<p>Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-127, figurant en annexe B dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.</p>
+<p>- Pompe à chaleur de type air/air / Fiche d’opération standardisée n°BAR-TH-129</p>
+<p align="justify">Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.</p>
+<p>Conformément à l’article 3 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.</p>
+<p>- Surperformance énergétique pour un bâtiment neuf (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-130</p>
+<p>Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-130, figurant en annexe B dudit arrêté remplace, à compter du 1er janvier 2024, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.</p>
+<p>- Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n°BAR-TH-131 (Abrogée à compter du 1er avril 2018)</p>
+<p>Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.</p>
+<p>- Chauffe-eau solaire collectif (France d’outre-mer) / Fiche d’opération standardisée n°BAR-TH-135</p>
+<p>Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.</p>
+<p>- Raccordement d’un bâtiment résidentiel à un réseau de chaleur / Fiche d’opération standardisée n°BAR-TH-137</p>
+<p>Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.</p>
+<p>Conformément à l’article 3 de l’arrêté du 12 juillet 2022 (NOR : ENER2219562A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1<sup>er</sup> septembre 2022.</p>
+<p>- Système de variation électronique de vitesse sur une pompe / Fiche d’opération standardisée n°BAR-TH-139</p>
+<p>Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.</p>
+<p>- Climatiseur performant (France d’outre-mer) / Fiche d’opération standardisée n°BAR-TH-141</p>
+<p>- Système solaire combiné (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-143</p>
+<p>Conformément à l’article 1er de l’arrêté du 21 décembre 2022 (NOR : ENER2235115A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mars 2023.</p>
+<p>- Rénovation globale d’un bâtiment résidentiel (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-145</p>
+<p align="justify">Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté, à compter du 1<sup>er</sup> avril 2020.</p>
+<p>Conformément à l’article 1<sup>er</sup> de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.</p>
+<p>Conformément à l’article 1er de l’arrêté du 27 juin 2023 (NOR : ENER2315086A), les fiches d'opérations standardisées figurant en annexe A dudit arrêté remplacent, à compter du 1er août 2023, les fiches portant les mêmes références figurant en annexe 2 de l'arrêté du 22 décembre 2014 susvisé.</p>
+<p>- Chauffe-eau thermodynamique à accumulation / Fiche d’opération standardisée n°BAR-TH-148</p>
+<p align="justify">Conformément au 2° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.</p>
+<p>- Pompe à chaleur collective à absorption de type air/eau ou eau/eau / Fiche d’opération standardisée n°BAR-TH-150</p>
+<p>- Ventilation hybride hygroréglable (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-155</p>
+<p align="justify">Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté, à compter du 1<sup>er</sup> avril 2020.</p>
+<p>Conformément à l’article 1<sup>er</sup> de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.</p>
+<p align="justify">Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1<sup>er</sup> avril 2022.</p>
+<p>- Emetteur électrique à régulation électronique à fonctions avancées / Fiche d’opération standardisée n°BAR-TH-158</p>
+<p>Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.</p>
+<p>- Pompe à chaleur hybride individuelle / Fiche d’opération standardisée n°BAR-TH-159</p>
+<p>Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER2205456A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1<sup>er</sup> mai 2022.</p>
+<p>Conformément à l’article 2 de l’arrêté du 20 juillet 2022 (NOR : ENER2218620A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1<sup>er</sup> novembre 2022.</p>
+<p>Conformément à l'article 1 de l'arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1<sup>er</sup> avril 2023.</p>
+<p>- Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n°BAR-TH-160</p>
+<p>Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1<sup>er</sup> mai 2022.</p>
+<p>Conformément à l'article 1 de l'arrêté du 20 décembre 2022 (NOR : ENER2234942A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1<sup>er</sup> avril 2023.</p>
+<p>Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-160, figurant en annexe C dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.</p>
+<p>- Isolation des points singuliers d’un réseau / Fiche d’opération standardisée n°BAR-TH-161</p>
+<p>- Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d’eau (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-162</p>
+<p>Conformément à l'article 1 de l'arrêté du 15 septembre 2023 (NOR : ENER2325207A), la fiche d'opération n° BAR-TH-161, figurant en annexe C dudit arrêté remplace, à compter du 1er octobre 2023, la fiche d'opération standardisée portant les mêmes références figurant à l'annexe 2 du présent arrêté.</p>
+<p>- Conduit d’évacuation des produits de combustion / Fiche d’opération standardisée n°BAR-TH-163</p>
+<p>Conformément à l’article 1<sup>er</sup> de l’arrêté du 19 juillet 2021 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er novembre 2021.</p>
+<p>- Rénovation globale d’une maison individuelle (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-164</p>
+<p>Conformément à l’article 1<sup>er</sup> de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.</p>
+<p>Conformément au III de l'article 2 de l'arrêté du 19 décembre 2023 (NOR : ENER2334670A), la fiche d’opération standardisée est supprimée.</p>
+<p>- Chaudière biomasse collective / Fiche d’opération standardisée n°BAR-TH-165</p>
+<p>- Pompe à chaleur collective de type air/eau ou eau/eau / Fiche d’opération standardisée n°BAR-TH-166</p>
+<p>- Chauffe-bain individuel à haut rendement ou à condensation (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-167</p>
+<p>- Dispositif solaire thermique (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-168</p>
+<p>- Pompe à chaleur collective de type air/eau ou eau/eau pour l'eau chaude sanitaire / Fiche d'opération standardisée n° BAR-TH-169</p>
+<p>- Récupération de chaleur fatale issue de serveurs informatiques pour l'eau chaude sanitaire collective / Fiche d’opération standardisée n° BAR-TH-170</p>
+<p>- Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101</p>
+<p align="justify">Conformément à l’article 6 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté pour les opérations dont la date de distribution des lampes à l’utilisateur final intervient à compter du 1er octobre 2017.</p>
+<p>- Luminaire à modules LED avec dispositif de contrôle pour les parties communes / Fiche d’opération standardisée n° BAR-EQ-110</p>
+<p>- Lampe à LED de classe A+ / Fiche d’opération standardisée n° BAR-EQ-111 (Abrogée à compter du 1<sup>er</sup> avril 2022)</p>
+<p align="justify">Conformément à l’article 1er de l’arrêté du 4 mars 2016 (NOR : DEVR1606276A), la fiche d’opération standardisée est remplacée par la version figurant en annexe dudit arrêté, à compter du 1<sup>er</sup> juillet 2016.</p>
+<p align="justify">Conformément à l’article 6 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté pour les opérations dont la date de distribution des lampes à l’utilisateur final intervient à compter du 1er octobre 2017.</p>
+<p>- Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAR-EQ-112 (Abrogée à compter du 1<sup>er</sup> mai 2016)</p>
+<p align="justify">Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), la fiche d’opération standardisée ainsi que son annexe 1 sont remplacées par les versions figurant à l’annexe 6 dudit arrêté.</p>
+<p>- Dispositif d’affichage et d’interprétation des consommations pour un logement chauffé à l’électricité / Fiche d’opération standardisée n° BAR-EQ-113 (Abrogée à compter du 1<sup>er</sup> janvier 2019)</p>
+<p>- Dispositif d’affichage et d’interprétation des consommations d’énergie pour un logement chauffé au combustible / Fiche d’opération standardisée n° AR-EQ-114 (Abrogée à compter du 1<sup>er</sup> janvier 2019)</p>
+<p>- Dispositif d’affichage et d’interprétation des consommations d’énergie / Fiche d’opération standardisée n° BAR-EQ-115</p>
+<p>- Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAR-SE-104</p>
+<p>- Contrat de Performance Energétique Services (CPE Services) / Fiche d’opération standardisée n° BAR-SE-105</p>
+<p>- Service de suivi des consommations d’énergie / Fiche d’opération standardisée n° BAR-SE-106</p>
+<p>- Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAR-SE-107</p>
+<p>- Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-108</p>
+<p>- Désembouage d'un réseau hydraulique de chauffage collectif en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-109</p>
+<p>- Pompe à chaleur de type air/ eau / Fiche d’opération standardisée BAR-TH-171</p>
+<p>- Pompe à chaleur de type eau/ eau ou sol/ eau / Fiche d’opération standardisée BAR-TH-172</p>
+<p>Conformément à l’article 1 de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A), les fiches d'opérations standardisées BAR-TH-171 Pompe à chaleur de type air/ eau et BAR-TH-172 Pompe à chaleur de type eau/ eau ou sol/ eau figurant en annexe A dudit arrêté sont ajoutées à la présente annexe à compter du 1er janvier 2024.</p>
+<p>- Système de régulation par programmation horaire pièce par pièce / Fiche d’opération standardisée BAR-TH-173</p>
+<p>Conformément à l’article 1 de l’arrêté du 22 novembre 2023 (NOR : ENER2332128A), la fiche d'opération standardisée BAR-TH-173 " Système de régulation par programmation horaire pièce par pièce " figurant en annexe A dudit arrêté est ajoutée à la présente annexe.</p>
+<p>- Rénovation d'ampleur d'une maison individuelle (France métropolitaine) / Fiche d’opération standardisée BAR-TH-174</p>
+<p>- Rénovation d'ampleur d'un appartement (France métropolitaine) / Fiche d’opération standardisée BAR-TH-175</p>
+<br/>
+<p>Liens :</p>
+<p>Vous pouvez consulter l'intégralité de l’arrêté du 19 décembre 2023 (NOR : ENER2334670A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28 décembre 2023, texte 100, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=QRgTaQfM0balM0WO-DVjXpwWNLb9rmqINmyEx1QxYqg=
+</p>
+<p>Vous pouvez consulter l'intégralité de l’arrêté du 22 novembre 2023 (NOR : ENER2332128A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0276 du 29 novembre 2023, texte 48, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=slhu5rtQEP98tJsCKeTS-9pbpMGytxJiYFAB07a-XpU=
+</p>
+<p>Vous pouvez consulter l'intégralité de l’arrêté du 4 octobre 2023 (NOR : ENER2325697A) avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0232 du 6 octobre 2023, texte 26, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=7RiHSw1r6JqFPbYvJ-KMcNe7NQ0Bwz--rDCJlG3YNd0=
+</p>
+<p>Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0227 du 30/09/2023, texte n° 39, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=2eo_9bKPruY9aVYxIHHqRZAonPLOBawu6mXaWDKqFfw=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0011 du 13/01/2023, texte n° 17, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=gsXRq2HI5C12ytBpBuSJe-wD-lQnj8EG78BD08U7ANE=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0300 du 28/12/2022, texte n° 71, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=W8WsfNOlOI6RDy-wPtZgP3DdH2qFDNV7z33iieedbY4=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0238 du 13/10/2022, texte n° 26, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=IfPCTOBZvUbd24vn3kDNUKFvGs9WK7QfWI-0Yygfd_k=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0178 du 03/08/2022, texte n° 40, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=oQu3Y-LjnZuzins8OYKWD9e28XWm-Rn2rXJfi6SAZBY=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 12/03/2022, texte n° 5, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=XYSapO88DEipMnFq20QwVfCwQ8RhV7Mt8a-smbCOZxc=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0301 du 28/12/2021, texte n° 7, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=3h1kFMmEC5Sa8YLxD0_ESaLQUj7RVu-69Zl-EasUOEI=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0295 du 19/12/2021, texte n° 13, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=M8Ld4djfu8SiQ7Wj2bdJxG3_jl-AG5OU8reAnxwY_iE=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0239 du 13/10/2021, texte n° 42, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=B51-SSHriFiFYTUI37wQ7PwDva0a42xsLCS5e-CWYeI=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0175 du 30/07/2021, texte n° 2, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=pIHHY48SRkCwDVTpbkn3r7zpZd6I8n7FDiJ95W09ZL4=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte n° 16, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=lsbjkllDP7FKiDNSrB8xR3I0p40x7_qaO7csO7mEUs0=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0248 du 11/10/2020, texte n° 4, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=624wFiFmvAh6257w6N9CHO6yplGEb0Xgie4-T-nS53g=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0189 du 02/08/2020, texte n° 10, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0122 du 19/05/2020, texte n° 6, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=CvA1mo1BjKK6qp2RfDP-iN_gRqcUA3qn9Cpuf_2cwJA=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0079 du 01/04/2020, texte n° 9, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=0LduWOm6C36WhoOrckwBT4k85GgPqvffEsbnZjwEPRE=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0025 du 30/01/2020, texte n° 8, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=TtFjMCu9CIzP1bhSZJIVTmkcBJxiewM6c-LqiFcIJkI=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0202 du 31/08/2019, texte n° 6, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=w75r1aFNZtgSLs1AgZIXbd_gRqcUA3qn9Cpuf_2cwJA=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0133 du 09/06/2019, texte n° 1, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=Q_vQ16VVzxXuswcUNhlLjHWJxxTi3iGaJHtrBnqWc5M=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0008 du 10/01/2019, texte n° 1, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=u7rGf9s03QdWLxlTlXxBZO6yplGEb0Xgie4-T-nS53g=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0292 du 18/12/2018, texte n° 1, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=RZUf_1Eyg_e60erLnPvC31sDFihSq-tW46KWa2ISZzs=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0007 du 10/01/2018, texte n° 4, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=J2HvEFaoaeMDE2T9jQY3ykvjG5MsDkfRtWfMxQ-Cnuk=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 08/08/2017, texte n° 6, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=-ToGTgdTj04TdTasn3SJqh9K_gvnOMgthOva_2h02AY=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 11/03/2017, texte n° 5, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=Are8M2WeOI9J78d3VbKHHfCwQ8RhV7Mt8a-smbCOZxc=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 22/12/2016, texte n° 8, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=IFDoQg-qK6IdNEW2cTEt_bmCxJ-mC_f1ilDVx1TFCBg=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0261 du 09/11/2016, texte n° 4, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=knbQtrSz_f90M6D1wPlbP2gPlRv7gOmIegJaPV6kUU0=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0065 du 17/03/2016, texte n° 4, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=euM7CBfnJRla0RrU96Kfh0mtqoLOiPab_gT-xvWbPuE=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0061 du 12/03/2016, texte n° 5, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=MBOjYK1aF6nQu8_MetCbfkOKybiynhwl4zWmqSZPghk=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0002 du 03/01/2016, texte n° 6, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=7tQP0tbHnNdb41iGhdrOe9_gRqcUA3qn9Cpuf_2cwJA=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0230 du 04/10/2015, texte n° 4, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=77zgWXa2t1AtUu7C9fx1wEFiR1cJimgoBPDZZ4qc0Sc=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 11/08/2015, texte n° 2, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=rZaFYhIykfEHeO_cYuUudh9K_gvnOMgthOva_2h02AY=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0177 du 02/08/2015, texte n° 2, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante :  https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+</p>
+<p align="justify">Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0179 du 04/08/2022, texte n° 35, accessible à l’adresse suivante :<br/>
+ https://www.legifrance.gouv.fr/download/pdf?id=5gAfOAZyNgIh7Fm-Ar17lvaib6Ml9xQU-us85fgyoEk=
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000048680133" datesignatexte="2023-12-19" id="LEGIARTI000048902019" naturetexte="ARRETE" nortexte="ENER2334670A" num="" numtexte="" sens="cible" typelien="MODIFIE">Arrêté du 19 décembre 2023 - art.</LIEN>
+<LIEN cidtexte="JORFTEXT000048680133" datesignatexte="2023-12-19" id="LEGIARTI000048902009" naturetexte="ARRETE" nortexte="ENER2334670A" num="2" numtexte="" sens="cible" typelien="MODIFIE">Arrêté du 19 décembre 2023 - art. 2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

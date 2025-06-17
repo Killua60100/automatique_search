@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006577755</ID>
+<ANCIEN_ID>PXXXXXXXXXX0706L061AXXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/77/LEGIARTI000006577755.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-61</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2004-03-10</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-11-16" fin="2999-01-01" id="LEGISCTA000006138133">Titre XXI : De la protection des témoins</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE_MORT_NE" fin="2001-11-16" id="LEGIARTI000006577753" num="706-61" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006577754" num="706-61" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577755" num="706-61" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>La personne mise en examen ou renvoyée devant la juridiction de jugement peut demander à être confrontée avec un témoin entendu en application des dispositions de l'article 706-58 par l'intermédiaire d'un dispositif technique permettant l'audition du témoin à distance ou à faire interroger ce témoin par son avocat par ce même moyen. La voix du témoin est alors rendue non identifiable par des procédés techniques appropriés. <br/>
+<br/>Si la juridiction ordonne un supplément d'information aux fins d'audition du témoin, ce dernier est entendu soit par un juge d'instruction désigné pour exécuter ce supplément d'information, soit, si l'un des membres de la juridiction a été désigné pour exécuter cette audition, en utilisant le dispositif technique prévu par l'alinéa précédent.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance 58-1296 1958-12-23</LIEN>
+<LIEN cidtexte="JORFTEXT000000249995" datesignatexte="2004-03-09" id="LEGIARTI000006494418" naturetexte="LOI" nortexte="JUSX0300028L" num="141" numtexte="2004-204" sens="source" typelien="MODIFICATION">Loi n°2004-204 du 9 mars 2004 - art. 141 () JORF 10 mars 2004</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577766" naturetexte="CODE" nortexte="" num="706-70" numtexte="" sens="cible" typelien="CONCORDANCE">CODE DE PROCEDURE PENALE - art. 706-70 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047920927" naturetexte="CODE" nortexte="" num="656-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 656-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577745" naturetexte="CODE" nortexte="" num="706-58" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-58 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577757" naturetexte="CODE" nortexte="" num="706-62" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-62 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742538" naturetexte="CODE" nortexte="" num="706-63-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-63-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051742598" naturetexte="CODE" nortexte="" num="67 bis" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 bis (V)</LIEN>
+</LIENS>
+</ARTICLE>

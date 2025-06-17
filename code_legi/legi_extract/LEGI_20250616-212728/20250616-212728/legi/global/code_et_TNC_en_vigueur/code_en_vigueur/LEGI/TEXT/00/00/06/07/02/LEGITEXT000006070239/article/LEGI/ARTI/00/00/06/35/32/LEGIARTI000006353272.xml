@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006353272</ID>
+<ANCIEN_ID>MEAXXXXXXXX1X116L00AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/35/32/LEGIARTI000006353272.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L116</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1964-10-28</DATE_DEBUT>
+<DATE_FIN>1989-01-04</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070239" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code électoral" debut="1964-10-28" fin="2999-01-01" id_txt="LEGITEXT000006070239">Code électoral</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2999-01-01" id="LEGISCTA000006085760">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2009-01-15" id="LEGISCTA000006115455">LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS</TITRE_TM>
+<TITRE_TM debut="2009-01-15" fin="2014-03-23" id="LEGISCTA000020103140">Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux</TITRE_TM>
+<TITRE_TM debut="2014-03-23" fin="2020-03-01" id="LEGISCTA000027433908">Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+<TITRE_TM debut="2020-03-01" fin="2999-01-01" id="LEGISCTA000029930685">Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2014-03-23" id="LEGISCTA000006134753">Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux</TITRE_TM>
+<TITRE_TM debut="2014-03-23" fin="2020-03-01" id="LEGISCTA000027433906">Titre Ier : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+<TITRE_TM debut="2020-03-01" fin="2999-01-01" id="LEGISCTA000029930683">Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2999-01-01" id="LEGISCTA000006148461">Chapitre VII : Dispositions pénales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1964-10-28" etat="MODIFIE" fin="1989-01-04" id="LEGIARTI000006353272" num="L116" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="1989-01-04" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006353273" num="L116" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Ceux qui, par des manoeuvres frauduleuses quelconques, accomplies même en dehors des locaux ou commissions visés à l'article L. 113, auront porté atteinte ou tenté de porter atteinte à la sincérité d'un scrutin, violé ou tenté de violer le secret du vote, empêché ou tenté d'empêcher les opérations du scrutin, ou qui, par les mêmes manoeuvres, en auront changé ou tenté de changer les résultats, seront punis des peines portées audit article.<br/>
+<br/>   Les mêmes peines seront appliquées à tout individu qui aura porté atteinte ou tenté de porter atteinte au fonctionnement d'une machine à voter en vue d'empêcher les opérations du scrutin ou d'en fausser les résultats.<br/>
+<br/>   Les mêmes peines seront appliquées à toute personne qui aura fait expulser sans motif légitime de la salle de vote un assesseur ou un délégué ou qui l'aura empêché d'exercer ses prérogatives.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000867981" datesignatexte="1946-11-27" id="LEGIARTI000006764806" naturetexte="DECRET" nortexte="" num="54" numtexte="46-2769" sens="cible" typelien="CITATION">Décret n°46-2769 du 27 novembre 1946 - art. 54 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000867981" datesignatexte="1946-11-27" id="LEGIARTI000006764806" naturetexte="DECRET" nortexte="" num="54" numtexte="46-2769" sens="cible" typelien="TXT_ASSOCIE">Décret n°46-2769 du 27 novembre 1946 - art. 54 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000684037" datesignatexte="1962-11-06" id="LEGIARTI000006527742" naturetexte="LOI" nortexte="" num="3" numtexte="62-1292" sens="cible" typelien="CITATION">Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000670066" datesignatexte="1964-10-27" id="JORFTEXT000000670066" naturetexte="DECRET" nortexte="" num="" numtexte="64-1086" sens="source" typelien="CODIFICATION">Décret 64-1086 1964-10-27 JORF 28 OCTOBRE 1964</LIEN>
+<LIEN cidtexte="JORFTEXT000000511691" datesignatexte="1969-05-10" id="JORFTEXT000000511691" naturetexte="LOI" nortexte="" num="" numtexte="69-419" sens="source" typelien="MODIFICATION">Loi 69-419 1969-05-10 art. 16 JORF 11 mai 1969</LIEN>
+<LIEN cidtexte="JORFTEXT000000521786" datesignatexte="1975-12-31" id="JORFTEXT000000521786" naturetexte="LOI" nortexte="" num="" numtexte="75-1329" sens="source" typelien="MODIFICATION">Loi 75-1329 1975-12-31 art. 11 JORF 1er janvier 1976</LIEN>
+<LIEN cidtexte="JORFTEXT000000699946" datesignatexte="1977-09-26" id="LEGIARTI000006682420" naturetexte="ORDONNANCE" nortexte="" num="4-10" numtexte="77-1102" sens="cible" typelien="CITATION">Ordonnance n°77-1102 du 26 septembre 1977 - art. 4-10 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000335561" datesignatexte="1979-09-18" id="LEGIARTI000006765717" naturetexte="DECRET" nortexte="" num="39" numtexte="79-807" sens="cible" typelien="CITATION">Décret n°79-807 du 18 septembre 1979 - art. 39 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000697128" datesignatexte="1979-12-12" id="LEGIARTI000006760773" naturetexte="DECRET" nortexte="" num="30" numtexte="79-1082" sens="cible" typelien="CITATION">Décret n°79-1082 du 12 décembre 1979 - art. 30 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000879337" datesignatexte="1980-01-14" id="LEGIARTI000006760802" naturetexte="DECRET" nortexte="" num="25" numtexte="80-22" sens="cible" typelien="CITATION">Décret n°80-22 du 14 janvier 1980 - art. 25 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000684964" datesignatexte="1982-12-17" id="LEGIARTI000006756212" naturetexte="LOI" nortexte="" num="29" numtexte="82-1061" sens="cible" typelien="CITATION">Loi n°82-1061 du 17 décembre 1982 - art. 29 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000684074" datesignatexte="1988-07-20" id="LEGIARTI000006491089" naturetexte="LOI" nortexte="JUSX8800077L" num="29" numtexte="88-828" sens="cible" typelien="CITATION">Loi n°88-828 du 20 juillet 1988 - art. 29 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000371690" datesignatexte="1995-08-03" id="LEGIARTI000006492670" naturetexte="LOI" nortexte="JUSX9500089L" num="25" numtexte="95-884" sens="cible" typelien="CITATION">Loi n°95-884 du 3 août 1995 - art. 25 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000779239" datesignatexte="2002-08-06" id="LEGIARTI000006493625" naturetexte="LOI" nortexte="JUSX0200109L" num="14" numtexte="2002-1062" sens="cible" typelien="CITATION">Loi n° 2002-1062 du 6 août 2002 - art. 14 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000037019230" datesignatexte="2018-06-06" id="LEGIARTI000037037068" naturetexte="DECRET" nortexte="MOMO1813070D" num="16" numtexte="2018-457" sens="cible" typelien="CITATION">Décret n°2018-457 du 6 juin 2018 - art. 16 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000042032902" datesignatexte="2020-06-24" id="LEGIARTI000042035566" naturetexte="DECRET" nortexte="MOMS2013810D" num="16" numtexte="2020-776" sens="cible" typelien="CITATION">Décret n°2020-776 du 24 juin 2020 - art. 16 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000043728098" datesignatexte="2021-06-30" id="LEGIARTI000043738396" naturetexte="DECRET" nortexte="MOMS2117137D" num="16" numtexte="2021-866" sens="cible" typelien="CITATION">Décret n°2021-866 du 30 juin 2021 - art. 16 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006741673" naturetexte="CODE" nortexte="" num="L214-12" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L214-12 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006751175" naturetexte="CODE" nortexte="" num="R611-94" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. R611-94 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006751561" naturetexte="CODE" nortexte="" num="R631-31" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. R631-31 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006751614" naturetexte="CODE" nortexte="" num="R632-23" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. R632-23 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006751694" naturetexte="CODE" nortexte="" num="R633-48" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. R633-48 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006751643" naturetexte="CODE" nortexte="" num="R633-8-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. R633-8-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901545" naturetexte="CODE" nortexte="" num="L1443-2" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L1443-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006650164" naturetexte="CODE" nortexte="" num="L513-4" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L513-4 (AbD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051741809" naturetexte="CODE" nortexte="" num="131-26-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-26-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000051174819" naturetexte="CODE" nortexte="" num="L723-24" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L723-24 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000006353264" naturetexte="CODE" nortexte="" num="L113" numtexte="" sens="source" typelien="CITATION">Code électoral - art. L113 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000028059972" naturetexte="CODE" nortexte="" num="L117" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. L117 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000006353022" naturetexte="CODE" nortexte="" num="L5" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. L5 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000039779480" naturetexte="CODE" nortexte="" num="R176-1-8" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. R176-1-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000039779275" naturetexte="CODE" nortexte="" num="R56" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. R56 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073419" datesignatexte="1947-05-02" id="LEGIARTI000006774656" naturetexte="DECRET" nortexte="" num="40 bis" numtexte="" sens="cible" typelien="CITATION">Décret n°1947-05-02 du 2 mai 1947 - art. 40 bis (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

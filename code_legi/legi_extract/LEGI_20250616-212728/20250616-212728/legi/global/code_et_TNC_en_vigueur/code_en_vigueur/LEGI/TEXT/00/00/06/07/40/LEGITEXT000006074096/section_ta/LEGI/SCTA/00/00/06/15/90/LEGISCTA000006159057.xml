@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006159057</ID>
+<TITRE_TA>Chapitre V : Organismes concourant aux objectifs de la politique d'aide au logement.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2000-12-14" etat="MODIFIE" fin="2005-01-19" id="LEGIARTI000006825042" num="L365-1" origine="LEGI"/>
+<LIEN_ART debut="2006-07-16" etat="MODIFIE" fin="2009-03-28" id="LEGIARTI000006825044" num="L365-1" origine="LEGI"/>
+<LIEN_ART debut="2009-03-28" etat="MODIFIE" fin="2014-03-27" id="LEGIARTI000020465502" num="L365-1" origine="LEGI"/>
+<LIEN_ART debut="2014-03-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028808835" num="L365-1" origine="LEGI"/>
+<LIEN_ART debut="2005-01-19" etat="MODIFIE" fin="2006-07-16" id="LEGIARTI000006825043" num="L365-1" origine="LEGI"/>
+<LIEN_ART debut="2009-03-28" etat="MODIFIE" fin="2020-03-13" id="LEGIARTI000020465508" num="L365-2" origine="LEGI"/>
+<LIEN_ART debut="2020-03-13" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000041715812" num="L365-2" origine="LEGI"/>
+<LIEN_ART debut="2009-03-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020465506" num="L365-3" origine="LEGI"/>
+<LIEN_ART debut="2009-03-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020465504" num="L365-4" origine="LEGI"/>
+<LIEN_ART debut="2009-03-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020465515" num="L365-5" origine="LEGI"/>
+<LIEN_ART debut="2009-03-28" etat="ABROGE" fin="2015-01-01" id="LEGIARTI000020465513" num="L365-6" origine="LEGI"/>
+<LIEN_ART debut="2009-03-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020465510" num="L365-7" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074096" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la construction et de l'habitation." debut="1977-03-10" fin="2999-01-01" id_txt="LEGITEXT000006074096">Code de la construction et de l'habitation</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1978-06-08" fin="2999-01-01" id="LEGISCTA000006108136">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1978-06-08" fin="2999-01-01" id="LEGISCTA000006128683">Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-12-14" fin="2999-01-01" id="LEGISCTA000006143548">Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

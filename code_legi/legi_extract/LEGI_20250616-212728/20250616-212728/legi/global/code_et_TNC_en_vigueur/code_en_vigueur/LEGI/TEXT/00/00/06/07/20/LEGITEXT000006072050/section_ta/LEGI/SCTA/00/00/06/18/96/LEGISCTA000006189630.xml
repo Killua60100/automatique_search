@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006189630</ID>
+<TITRE_TA>Section 2 : Durée légale et heures supplémentaires</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006195762" debut="2008-05-01" etat="MODIFIE" fin="2016-08-10" id="LEGISCTA000006195762" niv="7" url="/LEGI/SCTA/00/00/06/19/57/LEGISCTA000006195762.xml">Sous-section 1 : Durée légale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006195762" debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033020449" niv="7" url="/LEGI/SCTA/00/00/33/02/04/LEGISCTA000033020449.xml">Sous-section 1 : Temps de pause.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006195763" debut="2008-05-01" etat="MODIFIE" fin="2016-08-10" id="LEGISCTA000006195763" niv="7" url="/LEGI/SCTA/00/00/06/19/57/LEGISCTA000006195763.xml">Sous-section 2 : Contingent annuel d'heures supplémentaires et dérogations.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006195763" debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033020438" niv="7" url="/LEGI/SCTA/00/00/33/02/04/LEGISCTA000033020438.xml">Sous-section 2 : Durée quotidienne maximale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006195764" debut="2008-05-01" etat="MODIFIE" fin="2016-08-10" id="LEGISCTA000006195764" niv="7" url="/LEGI/SCTA/00/00/06/19/57/LEGISCTA000006195764.xml">Sous-section 3 : Contreparties aux heures supplémentaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006195764" debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033020420" niv="7" url="/LEGI/SCTA/00/00/33/02/04/LEGISCTA000033020420.xml">Sous-section 3 : Durées hebdomadaires maximales</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006112874">Partie législative  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006132332">Troisième partie : Durée du travail, salaire, intéressement, participation et épargne salariale    </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006145403">Livre Ier : Durée du travail, repos et congés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006160754">Titre II : Durée du travail, répartition et aménagement des horaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2016-08-10" id="LEGISCTA000006178002">Chapitre Ier : Durée du travail</TITRE_TM>
+<TITRE_TM debut="2016-08-10" fin="2999-01-01" id="LEGISCTA000033020522">Chapitre Ier : Durée et aménagement du travail</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

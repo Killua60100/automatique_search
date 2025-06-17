@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000022191186</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/22/19/11/LEGIARTI000022191186.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L250-7</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2010-05-08</DATE_DEBUT>
+<DATE_FIN>2015-06-06</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006138324">Titre V : La protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-05-08" fin="2999-01-01" id="LEGISCTA000022191215">Chapitre préliminaire : Inspections et contrôles</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2015-06-06" id="LEGIARTI000022191186" num="L250-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-06-06" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000030679918" num="L250-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-12-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039329369" num="L250-7" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>I. ― Si un ou des lots de produits végétaux, d'origine végétale ou de tous produits mentionnés aux articles L. 251-1, L. 251-12, L. 253-1, L. 255-1 ou L. 257-1 présente ou est susceptible de présenter un danger pour la santé publique, la sécurité des consommateurs ou l'environnement, les agents mentionnés à l'article L. 250-2 peuvent ordonner la destruction, la consignation, le retrait ou le rappel, en un ou plusieurs lieux, du ou des lots de produits précédemment cités ou toute autre mesure qu'ils jugent nécessaire. <br/>
+<br/>II. ― Tout opérateur qui, ayant acquis ou cédé un ou plusieurs lots, a connaissance de la décision de consignation, de retrait ou de rappel est tenu d'en informer celui qui lui a fourni la marchandise et ceux à qui il l'a cédée.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000022176494" datesignatexte="2010-05-06" id="LEGIARTI000022181059" naturetexte="ORDONNANCE" nortexte="AGRS1007448R" num="5" numtexte="2010-460" sens="cible" typelien="CREE">Ordonnance n°2010-460 du 6 mai 2010 - art. 5</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000042659707" datesignatexte="2020-12-11" id="LEGIARTI000042660994" naturetexte="DECRET" nortexte="TREP2018387D" num="10" numtexte="2020-1573" sens="cible" typelien="CITATION">Décret n°2020-1573 du 11 décembre 2020 - art. 10</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000042662503" naturetexte="CODE" nortexte="" num="D543-227-1" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. D543-227-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000031280681" naturetexte="CODE" nortexte="" num="L250-9" numtexte="" sens="cible" typelien="CITATION">Code rural - art. L250-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006583165" naturetexte="CODE" nortexte="" num="L251-1" numtexte="" sens="source" typelien="CITATION">Code rural - art. L251-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006583180" naturetexte="CODE" nortexte="" num="L251-12" numtexte="" sens="source" typelien="CITATION">Code rural - art. L251-12</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006582996" naturetexte="CODE" nortexte="" num="L253-1" numtexte="" sens="source" typelien="CITATION">Code rural - art. L253-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006583260" naturetexte="CODE" nortexte="" num="L255-1" numtexte="" sens="source" typelien="CITATION">Code rural - art. L255-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006583274" naturetexte="CODE" nortexte="" num="L257-1" numtexte="" sens="source" typelien="CITATION">Code rural - art. L257-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000051737486" naturetexte="CODE" nortexte="" num="L251-20" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039329590" naturetexte="CODE" nortexte="" num="L257-12" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L257-12 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

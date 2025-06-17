@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000038311671</ID>
+<TITRE_TA>Section 6 : Des autres techniques spéciales d'enquête</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000038269594" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000038269615" niv="6" url="/LEGI/SCTA/00/00/38/26/96/LEGISCTA000038269615.xml">Paragraphe 1 : Dispositions communes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000038270196" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000038270199" niv="6" url="/LEGI/SCTA/00/00/38/27/01/LEGISCTA000038270199.xml">Paragraphe 2 : Du recueil des données techniques de connexion et des interceptions de correspondances émises par la voie des communications électroniques</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000038270476" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000038270479" niv="6" url="/LEGI/SCTA/00/00/38/27/04/LEGISCTA000038270479.xml">Paragraphe 3 : Des sonorisations et des fixations d'images de certains lieux ou véhicules</LIEN_SECTION_TA>
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006577811" num="706-96" origine="LEGI"/>
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2015-08-19" id="LEGIARTI000006577812" num="706-96" origine="LEGI"/>
+<LIEN_ART debut="2015-08-19" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000031052078" num="706-96" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2016-10-01" id="LEGIARTI000032653983" num="706-96" origine="LEGI"/>
+<LIEN_ART debut="2016-10-01" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000032679993" num="706-96" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000051740327" debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000051740327" niv="6" url="/LEGI/SCTA/00/00/51/74/03/LEGISCTA000051740327.xml">Paragraphe 3 bis : De l'activation à distance des appareils électroniques mobiles </LIEN_SECTION_TA>
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2016-10-01" id="LEGIARTI000032631954" num="706-96-1" origine="LEGI"/>
+<LIEN_ART debut="2016-10-01" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000032680060" num="706-96-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000038270752" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000038270761" niv="6" url="/LEGI/SCTA/00/00/38/27/07/LEGISCTA000038270761.xml">Paragraphe 4 : De la captation des données informatiques</LIEN_SECTION_TA>
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006577813" num="706-97" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000032653977" num="706-97" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="ABROGE" fin="2019-06-01" id="LEGIARTI000032632168" num="706-98-1" origine="LEGI"/>
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006577814" num="706-98" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000032653972" num="706-98" origine="LEGI"/>
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2009-08-07" id="LEGIARTI000006577815" num="706-99" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000020958052" num="706-99" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="TRANSFERE" fin="2019-06-01" id="LEGIARTI000032653964" num="706-99" origine="LEGI"/>
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006577816" num="706-100" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="ABROGE" fin="2019-06-01" id="LEGIARTI000032653959" num="706-100" origine="LEGI"/>
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006577817" num="706-101" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="ABROGE" fin="2019-06-01" id="LEGIARTI000032653954" num="706-101" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="ABROGE" fin="2019-06-01" id="LEGIARTI000032632376" num="706-101-1" origine="LEGI"/>
+<LIEN_ART debut="2004-10-01" etat="ABROGE" fin="2019-06-01" id="LEGIARTI000006577818" num="706-102" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

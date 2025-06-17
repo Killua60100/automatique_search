@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006149846</ID>
+<TITRE_TA>Chapitre II : Dispositions particulières</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418446" num="422-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006418447" num="422-2" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742399" num="422-2" origine="LEGI"/>
+<LIEN_ART debut="1996-07-23" etat="MODIFIE" fin="2008-08-06" id="LEGIARTI000006418449" num="422-3" origine="LEGI"/>
+<LIEN_ART debut="2008-08-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019292979" num="422-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-23" id="LEGIARTI000006418448" num="422-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE_MORT_NE" fin="1993-08-29" id="LEGIARTI000006418450" num="422-4" origine="LEGI"/>
+<LIEN_ART debut="2003-11-27" etat="MODIFIE" fin="2016-07-22" id="LEGIARTI000006418453" num="422-4" origine="LEGI"/>
+<LIEN_ART debut="2016-07-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032925395" num="422-4" origine="LEGI"/>
+<LIEN_ART debut="1998-05-12" etat="MODIFIE" fin="2003-11-27" id="LEGIARTI000006418452" num="422-4" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1998-05-12" id="LEGIARTI000006418451" num="422-4" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006418454" num="422-5" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020630765" num="422-5" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2012-03-29" id="LEGIARTI000006418455" num="422-6" origine="LEGI"/>
+<LIEN_ART debut="2012-03-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000025585834" num="422-6" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418456" num="422-7" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006136045">Titre II : Du terrorisme</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

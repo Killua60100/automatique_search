@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000048903283</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/48/90/32/LEGIARTI000048903283.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3-5-2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2023-12-29</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000030001603" date_publi="2014-12-31" date_signature="2014-12-29" ministere="Ministère de l'écologie, du développement durable et de l'énergie" nature="ARRETE" nor="DEVR1428328A" num="" num_parution_jo="0302">
+<TITRE_TXT c_titre_court="ARRÊTÉ du 29 décembre 2014" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000030001603">Arrêté du 29 décembre 2014 relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 29 décembre 2014" debut="2018-01-01" fin="2999-01-01" id_txt="LEGITEXT000036495020">Arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie</TITRE_TXT>
+<TITRE_TXT c_titre_court="ARRÊTÉ du 29 décembre 2014" debut="2015-01-01" fin="2018-01-01" id_txt="LEGITEXT000030066891">Arrêté du 29 décembre 2014 relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-12-29" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000048903283" num="3-5-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739480" num="3-5-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément à l'article 5 de l'arrêté du 19 décembre 2023 (NOR : ENER2334670A), dans le cas où le bénéficiaire est une personne physique propriétaire occupant ou bailleur d'un logement occupé à titre de résidence principale, ou une personne physique titulaire d'un droit réel immobilier conférant l'usage d'un logement occupé à titre de résidence principale, pour ce logement, ces dispositions sont applicables aux opérations dont la demande d'aide auprès de l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation est déposée auprès de cette dernière à compter du 1er janvier 2024.</p>
+<p>Dans les autres cas, ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2024.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I. - Sont bonifiées les opérations relevant des fiches BAR-TH-174 et BAR-TH-175 engagées jusqu'au 31 décembre 2025 et achevées au plus tard le 31 décembre 2026 pour lesquelles le demandeur est l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation et lorsque le rôle actif et incitatif prévu à l'article R. 221-22 du code de l'énergie est assuré dans les conditions prévues aux II et IV du présent article, ou pour lesquelles le demandeur est signataire de la charte d'engagement “ Coup de pouce Rénovation d'ampleur des maisons et appartements individuels ” figurant en annexe IV-5, et lorsque le rôle actif et incitatif prévu à l'article R. 221-22 du code de l'énergie est conforme à cette charte.</p>
+<p>II. - Ces bonifications ne sont pas cumulables avec celles prévues aux articles 3-5,3-6,3-6-1,3-7,3-7-1 et 4 à 6-1. ;</p>
+<p>III. - Sans préjudice du I, sont éligibles les opérations respectant les dispositions prévues dans la charte et dont la date d'engagement est postérieure à la date de prise d'effet de la charte signée par le demandeur. ;</p>
+<p>IV. - Le volume total de certificats d'économies d'énergie délivrés pour les travaux relevant des fiches BAR-TH-174 “ Rénovation d'ampleur d'une maison individuelle (France métropolitaine) ” et BAR-TH-175 “ Rénovation d'ampleur d'un appartement (France métropolitaine) ” est multiplié par un coefficient 2.</p>
+<p>L'organisme réalisant l'audit énergétique et répondant aux exigences des fiches d'opérations standardisées BAR-TH-174 et BAR-TH-175 ne peut sous-traiter tout ou partie de l'étude. La visite du bâtiment aux fins de l'étude énergétique, notamment, est effectuée par l'organisme réalisant l'étude énergétique ; cette visite nécessite le déplacement physique d'une personne de l'organisme sur le lieu de l'opération. ;</p>
+<p>V. - Le demandeur propose au bénéficiaire de l'opération, directement ou par l'intermédiaire d'un partenaire, une prestation d'assistance à maîtrise d'ouvrage ainsi que des solutions de financements conformes à l'annexe IV-5.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000048680133" datesignatexte="2023-12-19" id="LEGIARTI000048902011" naturetexte="ARRETE" nortexte="ENER2334670A" num="3" numtexte="" sens="cible" typelien="CREE">Arrêté du 19 décembre 2023 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000050221803" datesignatexte="2024-09-06" id="LEGIARTI000050222129" naturetexte="ARRETE" nortexte="ECOR2416035A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 6 septembre 2024 - art. 2 (V)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000006824923" naturetexte="CODE" nortexte="" num="L321-1" numtexte="" sens="source" typelien="CITATION">Code de la construction et de l'habitation. - art. L321-1</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000031748003" naturetexte="CODE" nortexte="" num="R221-22" numtexte="" sens="source" typelien="CITATION">Code de l'énergie - art. R221-22</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049952411</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/95/24/LEGIARTI000049952411.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>9</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2024-07-12</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000047329443" date_publi="2023-03-22" date_signature="2023-03-21" ministere="Première ministre" nature="ARRETE" nor="PRMG2306938A" num="" num_parution_jo="0069">
+<TITRE_TXT c_titre_court="Arrêté du 21 mars 2023" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000047329443">Arrêté du 21 mars 2023 fixant les modalités d'organisation, la nature, la durée, les coefficients et le programme des épreuves des concours d'entrée à l'Institut national du service public et les modalités d'organisation des concours d'accès aux cycles préparatoires au concours interne et au troisième concours</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 21 mars 2023" debut="2024-01-01" fin="2999-01-01" id_txt="LEGITEXT000047329993">Arrêté du 21 mars 2023 fixant les modalités d'organisation, la nature, la durée, les coefficients et le programme des épreuves des concours d'entrée à l'Institut national du service public et les modalités d'organisation des concours d'accès aux cycles préparatoires au concours interne et au troisième concours</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2024-01-01" fin="2999-01-01" id="LEGISCTA000047330007">Titre V : DISPOSITIONS RELATIVES AUX JURYS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2024-01-01" fin="2999-01-01" id="LEGISCTA000047330001">Chapitre Ier : Concours d'entrée à l'Institut national du service public</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-01-01" etat="MODIFIE" fin="2024-07-12" id="LEGIARTI000047330034" num="9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-07-12" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000049952411" num="9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741428" num="9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000047329484" num="9" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<br/>
+<br/>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les épreuves écrites sont anonymes. Chacune est notée par deux correcteurs, dont l'un au moins a la qualité de membre de jury.<br/>
+<br/>
+Les épreuves orales sont évaluées par au moins un membre du jury, à l'exception des épreuves orales de langue étrangère qui peuvent être évaluées par des examinateurs n'ayant pas la qualité de membre de jury. Les épreuves de langue facultative des concours de la voie " Orient " sont évaluées par des examinateurs n'ayant pas la qualité de membre de jury.<br/>
+<br/>
+L'épreuve de mise en situation collective prévue aux 2° du II des articles 4 et 6 est évaluée par le même groupe de membres de jury et d'examinateurs. Elle peut être mutualisée.<br/>
+<br/>
+Pour chaque concours, l'épreuve d'entretien est évaluée par au moins trois membres du jury.<br/>
+<br/>
+Les épreuves sont notées de 0 à 20.<br/>
+<br/>
+Nul ne peut être déclaré admissible ou admis s'il n'a pas participé à l'ensemble des épreuves ou si une note éliminatoire lui a été attribuée.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000049938355" datesignatexte="2024-07-10" id="LEGIARTI000049949220" naturetexte="ARRETE" nortexte="PRME2418470A" num="4" numtexte="" sens="cible" typelien="MODIFIE">Arrêté du 10 juillet 2024 - art. 4</LIEN>
+</LIENS>
+</ARTICLE>

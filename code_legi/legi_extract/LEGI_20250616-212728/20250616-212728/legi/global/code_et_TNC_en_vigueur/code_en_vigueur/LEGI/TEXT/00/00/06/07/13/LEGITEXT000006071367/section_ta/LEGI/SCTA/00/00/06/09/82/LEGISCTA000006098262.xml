@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006098262</ID>
+<TITRE_TA>Partie législative</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000029575571" debut="2014-10-15" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000029579994" niv="2" url="/LEGI/SCTA/00/00/29/57/99/LEGISCTA000029579994.xml">Livre Préliminaire : Objectifs de la politique en faveur de l'agriculture, de l'alimentation et de la pêche maritime</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121414" debut="1992-12-12" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006121414" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121414.xml">Livre Ier : Aménagement et équipement de l'espace rural</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121415" debut="1989-11-04" etat="ABROGE" fin="2000-09-21" id="LEGISCTA000006121415" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121415.xml">Livre II : Protection de la nature</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121418" debut="2000-09-21" etat="MODIFIE" fin="2010-07-29" id="LEGISCTA000006121418" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121418.xml">Livre II : Santé publique vétérinaire et protection des végétaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121418" debut="2010-07-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022657339" niv="2" url="/LEGI/SCTA/00/00/22/65/73/LEGISCTA000022657339.xml">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121420" debut="1993-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006121420" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121420.xml">Livre III : Exploitation agricole</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121422" debut="1982-12-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006121422" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121422.xml">Livre IV : Baux ruraux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121423" debut="1985-01-04" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006121423" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121423.xml">Livre V : Organismes professionnels agricoles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121424" debut="1998-07-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006121424" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121424.xml">Livre VI : Production et marchés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121425" debut="2000-06-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006121425" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121425.xml">Livre VII : Dispositions sociales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121433" debut="1983-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006121433" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121433.xml">Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000022196218" debut="2010-05-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022199825" niv="2" url="/LEGI/SCTA/00/00/22/19/98/LEGISCTA000022199825.xml">Livre IX : Pêche maritime et aquaculture marine</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006121434" debut="2000-06-22" etat="ABROGE" fin="2000-09-21" id="LEGISCTA000006121434" niv="2" url="/LEGI/SCTA/00/00/06/12/14/LEGISCTA000006121434.xml">Livre IX : Santé publique vétérinaire et protection des végétaux</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

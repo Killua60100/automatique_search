@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006418357</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X411L07AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/83/LEGIARTI000006418357.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>411-7</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2002-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136044">Titre Ier : Des atteintes aux intérêts fondamentaux de la nation</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149841">Chapitre Ier : De la trahison et de l'espionnage</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165349">Section 3 : De la livraison d'informations à une puissance étrangère</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418356" num="411-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418357" num="411-7" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le fait de recueillir ou de rassembler, en vue de les livrer à une puissance étrangère, à une entreprise ou organisation étrangère ou sous contrôle étranger ou à leurs agents, des renseignements, procédés, objets, documents, données informatisées ou fichiers dont l'exploitation, la divulgation ou la réunion est de nature à porter atteinte aux intérêts fondamentaux de la nation est puni de dix ans d'emprisonnement et de 150 000 euros d'amende.</p>
+<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000887412" datesignatexte="1966-04-14" id="LEGIARTI000006630000" naturetexte="DECRET" nortexte="" num="8" numtexte="66-221" sens="cible" typelien="CITATION">Décret n°66-221 du 14 avril 1966 - art. 8 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000722860" datesignatexte="1992-07-22" id="JORFTEXT000000722860" naturetexte="LOI" nortexte="JUSX9100041L" num="" numtexte="92-686" sens="source" typelien="CODIFICATION">Loi 92-686 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000722860" datesignatexte="1992-07-22" id="JORFTEXT000000722860" naturetexte="LOI" nortexte="JUSX9100041L" num="" numtexte="92-686" sens="source" typelien="SPEC_APPLI">Loi 92-686 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 373</LIEN>
+<LIEN cidtexte="JORFTEXT000000219672" datesignatexte="2000-09-19" id="LEGIARTI000006716442" naturetexte="ORDONNANCE" nortexte="JUSX0000106R" num="3" numtexte="2000-916" sens="source" typelien="MODIFICATION">Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002</LIEN>
+<LIEN cidtexte="LEGITEXT000006070884" datesignatexte="2999-01-01" id="LEGIARTI000006434709" naturetexte="CODE" nortexte="" num="476-15" numtexte="" sens="cible" typelien="CITATION">Code de justice militaire - art. 476-15 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071360" datesignatexte="2999-01-01" id="LEGIARTI000006574008" naturetexte="CODE" nortexte="" num="L333-6" numtexte="" sens="cible" typelien="CITATION">Code de justice militaire. - art. L333-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741942" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742379" naturetexte="CODE" nortexte="" num="414-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 414-4 (V)</LIEN>
+</LIENS>
+</ARTICLE>

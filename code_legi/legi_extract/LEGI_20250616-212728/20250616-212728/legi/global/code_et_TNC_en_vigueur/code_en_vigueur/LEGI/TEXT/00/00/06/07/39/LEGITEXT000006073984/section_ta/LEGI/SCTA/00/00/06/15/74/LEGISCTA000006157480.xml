@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006157480</ID>
+<TITRE_TA>Chapitre Ier : L'obligation de s'assurer</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006174242" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006174242" niv="5" url="/LEGI/SCTA/00/00/06/17/42/LEGISCTA000006174242.xml">Section I : Personnes assujetties.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006174247" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006174247" niv="5" url="/LEGI/SCTA/00/00/06/17/42/LEGISCTA000006174247.xml">Section II : Etendue de l'obligation d'assurance.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018611463" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018611463" niv="5" url="/LEGI/SCTA/00/00/18/61/14/LEGISCTA000018611463.xml">Section III : Franchises, exclusions de garantie et déchéances.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018611472" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018611472" niv="5" url="/LEGI/SCTA/00/00/18/61/14/LEGISCTA000018611472.xml">Section IV : Contrôle de l'obligation d'assurance.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018611476" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018611476" niv="5" url="/LEGI/SCTA/00/00/18/61/14/LEGISCTA000018611476.xml">Section V : Dispositions relatives à l'assurance des véhicules en circulation internationale et de certains autres véhicules.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006174251" debut="1976-07-21" etat="ABROGE" fin="1988-03-20" id="LEGISCTA000006174251" niv="5" url="/LEGI/SCTA/00/00/06/17/42/LEGISCTA000006174251.xml">Section VI : Pénalités.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006174255" debut="1988-03-20" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006174255" niv="5" url="/LEGI/SCTA/00/00/06/17/42/LEGISCTA000006174255.xml">Section VI : Procédures d'indemnisation.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006174271" debut="1988-03-20" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006174271" niv="5" url="/LEGI/SCTA/00/00/06/17/42/LEGISCTA000006174271.xml">Section VII : Pénalités.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000048520400" debut="2023-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000048520400" niv="5" url="/LEGI/SCTA/00/00/48/52/04/LEGISCTA000048520400.xml">Section VIII : Transparence et comparaison des offres</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073984" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des assurances" debut="1976-07-11" fin="2999-01-01" id_txt="LEGITEXT000006073984">Code des assurances</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1976-07-16" fin="2999-01-01" id="LEGISCTA000006107964">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1976-07-21" fin="2999-01-01" id="LEGISCTA000006128442">Livre II : Assurances obligatoires</TITRE_TM>
+<TM>
+<TITRE_TM debut="1976-07-21" fin="2999-01-01" id="LEGISCTA000006142795">Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

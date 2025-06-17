@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051739191</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/91/LEGIARTI000051739191.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L465-3-7</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006123910">Livre IV : Les marchés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006140043">Titre VI : Dispositions pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006154602">Chapitre V : Infractions relatives à la protection des investisseurs</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006170504">Section 1 : Atteintes à la transparence des marchés</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739191" num="L465-3-7" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsque l'action publique est mise en mouvement par le procureur de la République financier dans les conditions prévues au III de l'article L. 465-3-6, l'article 132-78 du code pénal est applicable aux délits mentionnés à la présente section.<br/>
+<br/>
+ Dans le cas mentionné au deuxième alinéa de l'article 132-78 du code pénal, la peine encourue est réduite des deux tiers. La même réduction s'applique à la peine d'amende encourue.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736676" naturetexte="LOI" nortexte="JUSX2430702L" num="31" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417505" naturetexte="CODE" nortexte="" num="132-78" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-78</LIEN>
+</LIENS>
+</ARTICLE>

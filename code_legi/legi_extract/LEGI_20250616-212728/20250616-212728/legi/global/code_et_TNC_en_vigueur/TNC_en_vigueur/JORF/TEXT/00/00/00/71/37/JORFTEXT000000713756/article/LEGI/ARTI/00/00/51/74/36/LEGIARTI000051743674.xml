@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051743674</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/36/LEGIARTI000051743674.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000713756" date_publi="1994-07-16" date_signature="1994-07-15" ministere="" nature="LOI" nor="DEFX9400020L" num="94-589" num_parution_jo="0163">
+<TITRE_TXT c_titre_court="LOI n° 94-589 du 15 juillet 1994" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000713756">LOI n° 94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de contrôle en mer (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2019-05-09" fin="2999-01-01" id_txt="LEGITEXT000038452858">Loi n° 94-589 du 15 juillet 1994 relative à l'exercice par l'Etat de ses pouvoirs de police en mer pour la lutte contre certaines infractions relevant de conventions internationales</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 94-589 du 15 juillet 1994" debut="2011-01-07" fin="2019-05-09" id_txt="LEGITEXT000023386330">Loi n° 94-589 du 15 juillet 1994 relative à la lutte contre la piraterie et aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="2005-04-23" fin="2011-01-07" id_txt="LEGITEXT000005616201">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n°94-589 du 15 juillet 1994" debut="1994-07-16" fin="2005-04-23" id_txt="LEGITEXT000005616200">Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-07-16" etat="MODIFIE" fin="1996-04-30" id="LEGIARTI000006404470" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1996-04-30" etat="ABROGE" fin="2004-12-21" id="LEGIARTI000006404471" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-01-07" etat="MODIFIE" fin="2019-05-09" id="LEGIARTI000023386309" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-05-09" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000038452910" num="5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743674" num="5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsqu'une infraction est constatée, l'exécution des mesures de contrôle et de coercition prévues par la présente loi est placée sous l'autorité du procureur de la République.</p>
+<p>Les auteurs ou complices des infractions mentionnées au 1° de l'article 1er commises hors du territoire de la République peuvent être poursuivis et jugés par les juridictions françaises.</p>
+<p>Peut être poursuivie et jugée par les juridictions françaises toute personne soupçonnée d'avoir commis au delà de la mer territoriale française l'infraction de participation à une association de malfaiteurs prévue à l'article 450-1 du code pénal, lorsque ladite association de malfaiteurs a été formée ou établie en vue de commettre sur le territoire français une ou plusieurs autres infractions mentionnées au 2° de l'article 1er de la présente loi.</p>
+<p>Sous réserve du troisième alinéa du présent article, lorsque l'une des infractions mentionnées aux 2°, 3° et 4° de l'article 1er, commise au-delà de la mer territoriale française, est constatée, une demande, transmise par la voie diplomatique, est adressée à l'Etat du pavillon, tendant à ce que celui-ci fasse savoir s'il consent à ce que les auteurs ou complices de l'infraction soient poursuivis et jugés par les juridictions françaises.</p>
+<p>Une copie de la réponse de l'Etat du pavillon est transmise dans les plus brefs délais au procureur de la République.</p>
+<p>Les auteurs ou complices des infractions mentionnées aux 2°, 3° et 4° de l'article 1er commises au-delà de la mer territoriale française peuvent être poursuivis et jugés par les juridictions françaises lorsque des accords bilatéraux ou multilatéraux le prévoient ou avec l'assentiment de l'Etat du pavillon, ainsi que dans le cas où ces infractions sont commises à bord d'un navire n'arborant aucun pavillon ou sans nationalité.</p>
+<p>Lorsqu'aucune suite judiciaire n'est donnée par les juridictions françaises, le compte rendu d'exécution des mesures prises en application de la présente loi est adressé à l'Etat exerçant, le cas échéant, sa compétence juridictionnelle. Les objets, produits ou documents placés sous scellés peuvent lui être remis.</p>
+<p>Les commandants des bâtiments de l'Etat et les commandants de bord des aéronefs de l'Etat sont alors habilités à exercer et à faire exercer au nom de cet Etat les mesures de contrôle et de coercition prévues par la présente loi et fixées en accord avec lui.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000006404478" naturetexte="LOI" nortexte="DEFX9400020L" num="8" numtexte="94-589" sens="cible" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 8 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736718" naturetexte="LOI" nortexte="JUSX2430702L" num="49" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 49</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539742" naturetexte="CODE" nortexte="" num="L1521-5" numtexte="" sens="cible" typelien="CONCORDANCE">Code de la défense. - art. L1521-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539741" naturetexte="CODE" nortexte="" num="L1521-5" numtexte="" sens="source" typelien="CONCORDE">Code de la défense. - art. L1521-5 (M)</LIEN>
+</LIENS>
+</ARTICLE>

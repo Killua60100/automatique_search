@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006120402</ID>
+<TITRE_TA>CHAPITRE II : Dispositions relatives à la prévention de l'insécurité.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2004-08-07" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006527955" num="10" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006527956" num="10" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="ABROGE" fin="2012-05-01" id="LEGIARTI000023721790" num="10" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006527954" num="10" origine="LEGI"/>
+<LIEN_ART debut="1995-01-24" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006527953" num="10" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006527957" num="10-1" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="ABROGE" fin="2012-05-01" id="LEGIARTI000023721783" num="10-1" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="ABROGE" fin="2012-05-01" id="LEGIARTI000023710821" num="10-2" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000006527958" num="11" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000006527959" num="12" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000006527960" num="13" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000006527961" num="14" origine="LEGI"/>
+<LIEN_ART debut="1995-01-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006527962" num="15" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2009-08-07" id="LEGIARTI000006527963" num="15-1" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000020958061" num="15-1" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="ABROGE" fin="2025-06-15" id="LEGIARTI000032654945" num="15-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000369046" date_publi="1995-01-24" date_signature="1995-01-21" ministere="" nature="LOI" nor="INTX9400063L" num="95-73" num_parution_jo="0020">
+<TITRE_TXT c_titre_court="Loi n° 95-73 du 21 janvier 1995" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000369046">LOI n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 95-73 du 21 janvier 1995" debut="1995-01-24" fin="2999-01-01" id_txt="LEGITEXT000005617582">Loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1995-01-24" fin="2999-01-01" id="LEGISCTA000006095877">TITRE II : La mise en oeuvre des orientations</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

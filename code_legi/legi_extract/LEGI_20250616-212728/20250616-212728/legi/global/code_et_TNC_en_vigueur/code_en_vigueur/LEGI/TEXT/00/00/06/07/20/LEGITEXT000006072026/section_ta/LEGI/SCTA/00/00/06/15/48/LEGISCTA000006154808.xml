@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006154808</ID>
+<TITRE_TA>Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658391" num="L562-1" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658406" num="L562-2" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658434" num="L562-3" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658448" num="L562-4" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658463" num="L562-5" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658477" num="L562-6" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658491" num="L562-7" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658503" num="L562-8" origine="LEGI"/>
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658529" num="L562-10" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006123943">Livre V : Les prestataires de services</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-01-24" fin="2007-03-07" id="LEGISCTA000006140134">Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

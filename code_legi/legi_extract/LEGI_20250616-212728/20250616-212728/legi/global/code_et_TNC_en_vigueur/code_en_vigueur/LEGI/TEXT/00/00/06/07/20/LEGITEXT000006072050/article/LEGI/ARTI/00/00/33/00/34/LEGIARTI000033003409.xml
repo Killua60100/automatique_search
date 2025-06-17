@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000033003409</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/33/00/34/LEGIARTI000033003409.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L3121-67</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2016-08-10</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006112874">Partie législative  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006132332">Troisième partie : Durée du travail, salaire, intéressement, participation et épargne salariale    </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006145403">Livre Ier : Durée du travail, repos et congés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006160754">Titre II : Durée du travail, répartition et aménagement des horaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2016-08-10" id="LEGISCTA000006178002">Chapitre Ier : Durée du travail</TITRE_TM>
+<TITRE_TM debut="2016-08-10" fin="2999-01-01" id="LEGISCTA000033020522">Chapitre Ier : Durée et aménagement du travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-08-10" fin="2999-01-01" id="LEGISCTA000033003400">Section 6 : Dispositions d'application</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033003409" num="L3121-67" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Des décrets en Conseil d'Etat déterminent les modalités d'application du présent chapitre pour l'ensemble des branches d'activité ou des professions ou pour une branche ou une profession particulière. Ces décrets fixent notamment : </p>
+<p> 1° La répartition et l'aménagement des horaires de travail ; </p>
+<p> 2° Les conditions de recours aux astreintes ; </p>
+<p> 3° Les dérogations permanentes ou temporaires applicables dans certains cas et pour certains emplois ; </p>
+<p> 4° Les périodes de repos ; </p>
+<p> 5° Les modalités de récupération des heures de travail perdues ; </p>
+<p> 6° Les mesures de contrôle de ces diverses dispositions. </p>
+<p> Ces décrets sont pris et révisés après consultation des organisations d'employeurs et de salariés intéressées et au vu, le cas échéant, des résultats des négociations intervenues entre ces organisations. </p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000032983213" datesignatexte="2016-08-08" id="LEGIARTI000033001006" naturetexte="LOI" nortexte="ETSX1604461L" num="8" numtexte="2016-1088" sens="cible" typelien="CREE">LOI n°2016-1088 du 8 août 2016 - art. 8 (V)</LIEN>
+
+
+
+
+
+<LIEN cidtexte="LEGITEXT000006074234" datesignatexte="2999-01-01" id="LEGIARTI000033471301" naturetexte="CODE" nortexte="" num="R427-1" numtexte="" sens="cible" typelien="CITATION">Code de l'aviation civile - art. R427-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000043128341" naturetexte="CODE" nortexte="" num="R434-30" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. R434-30 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000036243404" naturetexte="CODE" nortexte="" num="L1325-1" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1325-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000035627501" naturetexte="CODE" nortexte="" num="L5544-1" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L5544-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000033516016" naturetexte="CODE" nortexte="" num="D3171-1" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. D3171-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000033003420" naturetexte="CODE" nortexte="" num="L3121-68" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L3121-68 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000033021085" naturetexte="CODE" nortexte="" num="L3132-28" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L3132-28 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000033021072" naturetexte="CODE" nortexte="" num="L3164-4" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L3164-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000033471459" naturetexte="CODE" nortexte="" num="R3124-3" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. R3124-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000051517324" naturetexte="CODE" nortexte="" num="D2573-8" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D2573-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000033516130" naturetexte="CODE" nortexte="" num="D4134-31" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D4134-31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000033471227" naturetexte="CODE" nortexte="" num="R2123-9" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-9 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000033471219" naturetexte="CODE" nortexte="" num="R3123-7" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R3123-7 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000033471211" naturetexte="CODE" nortexte="" num="R4135-7" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R4135-7 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000023501962" datesignatexte="2999-01-01" id="LEGIARTI000033021537" naturetexte="CODE" nortexte="" num="L191-2" numtexte="" sens="cible" typelien="CITATION">Code minier (nouveau) - art. L191-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

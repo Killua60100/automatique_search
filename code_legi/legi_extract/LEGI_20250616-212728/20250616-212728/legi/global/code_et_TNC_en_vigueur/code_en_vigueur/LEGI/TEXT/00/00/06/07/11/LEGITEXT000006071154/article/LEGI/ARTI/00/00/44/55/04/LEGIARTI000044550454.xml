@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000044550454</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/44/55/04/LEGIARTI000044550454.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>56-1-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2022-03-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138089">Titre II : Des enquêtes et des contrôles d'identité</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151876">Chapitre Ier : Des crimes et des délits flagrants</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044550454" num="56-1-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément au II de l'article 59 de la loi n° 2021-1729 du 22 décembre 2021, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la publication de ladite loi.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Dans les cas prévus aux articles 56-1 et 56-1-1, sans préjudice des prérogatives du bâtonnier ou de son délégué prévues à l'article 56-1 et des droits de la personne perquisitionnée prévus à l'article 56-1-1, le secret professionnel du conseil n'est pas opposable aux mesures d'enquête ou d'instruction lorsque celles-ci sont relatives aux infractions mentionnées aux articles 1741 et 1743 du code général des impôts et aux articles 421-2-2, 433-1, 433-2 et 435-1 à 435-10 du code pénal ainsi qu'au blanchiment de ces délits, sous réserve que les consultations, correspondances ou pièces détenues ou transmises par l'avocat ou son client établissent la preuve de leur utilisation aux fins de commettre ou de faciliter la commission desdites infractions.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000044545992" datesignatexte="2021-12-22" id="LEGIARTI000044549051" naturetexte="LOI" nortexte="JUSX2107763L" num="3" numtexte="2021-1729" sens="cible" typelien="MODIFIE">LOI n°2021-1729 du 22 décembre 2021 - art. 3</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000006312980" naturetexte="CODE" nortexte="" num="1741" numtexte="" sens="source" typelien="CITATION">Code général des impôts, CGI. - art. 1741 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000006312991" naturetexte="CODE" nortexte="" num="1743" numtexte="" sens="source" typelien="CITATION">Code général des impôts, CGI. - art. 1743 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418433" naturetexte="CODE" nortexte="" num="421-2-2" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 421-2-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418537" naturetexte="CODE" nortexte="" num="433-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 433-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418541" naturetexte="CODE" nortexte="" num="433-2" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 433-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418720" naturetexte="CODE" nortexte="" num="435-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 435-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047052901" naturetexte="CODE" nortexte="" num="100-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 100-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575030" naturetexte="CODE" nortexte="" num="56-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 56-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044550033" naturetexte="CODE" nortexte="" num="56-1-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 56-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740331" naturetexte="CODE" nortexte="" num="706-100" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-100 (V)</LIEN>
+</LIENS>
+</ARTICLE>

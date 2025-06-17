@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000047053456</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/47/05/34/LEGIARTI000047053456.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>322-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2023-01-26</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117598">Livre III : Des crimes et délits contre les biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136043">Titre II : Des autres atteintes aux biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149838">Chapitre II : Des destructions, dégradations et détériorations</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165341">Section 1 : Des destructions, dégradations et détériorations ne présentant pas de danger pour les personnes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418258" num="322-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2002-09-10" id="LEGIARTI000006418259" num="322-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-09-10" etat="MODIFIE" fin="2023-01-26" id="LEGIARTI000006418260" num="322-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047053456" num="322-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I. - La destruction, la dégradation ou la détérioration d'un bien appartenant à autrui est punie de deux ans d'emprisonnement et de 30 000 euros d'amende, sauf s'il n'en est résulté qu'un dommage léger.</p>
+<p>II. - Le fait de tracer des inscriptions, des signes ou des dessins, sans autorisation préalable, sur les façades, les véhicules, les voies publiques ou le mobilier urbain est puni de 3 750 euros d'amende et d'une peine de travail d'intérêt général lorsqu'il n'en est résulté qu'un dommage léger.</p>
+<p>L'action publique peut être éteinte, y compris en cas de récidive, dans les conditions prévues aux articles 495-17 à 495-25 du code de procédure pénale, par le versement d'une amende forfaitaire d'un montant de 200 euros. Le montant de l'amende forfaitaire minorée est de 150 euros et le montant de l'amende forfaitaire majorée est de 450 euros.<br/>
+<br/>
+ Les dispositions des articles 495-20 et 495-21 du même code relatives à l'exigence d'une consignation préalable à la contestation de l'amende forfaitaire ne sont pas applicables.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000875895" datesignatexte="1926-12-17" id="LEGIARTI000039280425" naturetexte="LOI" nortexte="" num="3" numtexte="" sens="cible" typelien="CITATION">Loi du 17 décembre 1926 - art. 3 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000875895" datesignatexte="1926-12-17" id="LEGIARTI000039280658" naturetexte="LOI" nortexte="" num="4" numtexte="" sens="cible" typelien="CITATION">Loi du 17 décembre 1926 - art. 4 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000359433" datesignatexte="1992-07-22" id="JORFTEXT000000359433" naturetexte="LOI" nortexte="JUSX8900011L" num="" numtexte="92-685" sens="source" typelien="CODIFICATION">Loi n°92-685 du 22 juillet 1992</LIEN>
+<LIEN cidtexte="JORFTEXT000000813253" datesignatexte="2005-07-13" id="LEGIARTI000024008965" naturetexte="LOI" nortexte="ECOX0400059L" num="92" numtexte="2005-781" sens="cible" typelien="CITATION">Loi n°2005-781 du 13 juillet 2005 - art. 92 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000648362" datesignatexte="2007-08-02" id="LEGIARTI000021871175" naturetexte="DECRET" nortexte="DEVX0757178D" num="Annexe" numtexte="2007-1167" sens="cible" typelien="CITATION">Décret n°2007-1167 du 2 août 2007 - art. Annexe (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000020907361" datesignatexte="2009-04-10" id="LEGIARTI000020908967" naturetexte="ARRETE" nortexte="DEVS0826055A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 10 avril 2009 - art. (V)</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000047046768" datesignatexte="2023-01-24" id="LEGIARTI000047047877" naturetexte="LOI" nortexte="IOMD2223411L" num="25" numtexte="2023-22" sens="cible" typelien="MODIFIE">LOI n°2023-22 du 24 janvier 2023 - art. 25 (V)</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006574962" naturetexte="CODE" nortexte="" num="41-2" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 41-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000047053522" naturetexte="CODE" nortexte="" num="L554-12" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L554-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000023986077" naturetexte="CODE" nortexte="" num="L142-41" numtexte="" sens="cible" typelien="CITATION">Code de l'énergie - art. L142-41 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000025450337" naturetexte="CODE" nortexte="" num="L2336-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2336-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000037411327" naturetexte="CODE" nortexte="" num="R212-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R212-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505171" naturetexte="CODE" nortexte="" num="L211-13" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L211-13 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049294196" naturetexte="CODE" nortexte="" num="L312-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L312-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033460456" naturetexte="CODE" nortexte="" num="2-20" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045099310" naturetexte="CODE" nortexte="" num="2-6" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-6 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000041587173" naturetexte="CODE" nortexte="" num="2-8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-8 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032400691" naturetexte="CODE" nortexte="" num="398-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 398-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000025548946" naturetexte="CODE" nortexte="" num="495" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 495 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742096" naturetexte="CODE" nortexte="" num="706-55" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-55 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000050096715" naturetexte="CODE" nortexte="" num="D8-2-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D8-2-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000023077907" naturetexte="CODE" nortexte="" num="L6372-4" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L6372-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074236" datesignatexte="2999-01-01" id="LEGIARTI000047053415" naturetexte="CODE" nortexte="" num="L114-2" numtexte="" sens="cible" typelien="PILOTE_SUIVEUR">Code du patrimoine - art. L114-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074236" datesignatexte="2999-01-01" id="LEGIARTI000006845487" naturetexte="CODE" nortexte="" num="L114-2" numtexte="" sens="cible" typelien="CITATION">Code du patrimoine. - art. L114-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000047570030" naturetexte="CODE" nortexte="" num="L332-11" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. L332-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000047053429" naturetexte="CODE" nortexte="" num="322-15" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 322-15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000020630787" naturetexte="CODE" nortexte="" num="322-17" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 322-17 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000047053449" naturetexte="CODE" nortexte="" num="322-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 322-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000047053443" naturetexte="CODE" nortexte="" num="322-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 322-3 (V)</LIEN>
+
+</LIENS>
+</ARTICLE>

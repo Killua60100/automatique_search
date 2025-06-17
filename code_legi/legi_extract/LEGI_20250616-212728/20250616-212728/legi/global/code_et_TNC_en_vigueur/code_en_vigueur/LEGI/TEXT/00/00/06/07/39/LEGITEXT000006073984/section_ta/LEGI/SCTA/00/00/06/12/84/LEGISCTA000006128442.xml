@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006128442</ID>
+<TITRE_TA>Livre II : Assurances obligatoires</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2005-12-16" etat="MODIFIE" fin="2008-01-01" id="LEGIARTI000006795297" num="L200-1" origine="LEGI"/>
+<LIEN_ART debut="2008-01-01" etat="MODIFIE" fin="2008-07-17" id="LEGIARTI000017868403" num="L200-1" origine="LEGI"/>
+<LIEN_ART debut="2008-07-17" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000019202655" num="L200-1" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000030437930" num="L200-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006142795" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006142795" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142795.xml">Titre Ier : L'assurance des véhicules terrestres à moteur et de leurs remorques et semi-remorques</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000028776937" debut="2014-03-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000028776948" niv="3" url="/LEGI/SCTA/00/00/28/77/69/LEGISCTA000028776948.xml">Titre Ier bis : L'assurance habitation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142804" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006142804" niv="3" url="/LEGI/SCTA/00/00/06/14/28/LEGISCTA000006142804.xml">Titre II : L'assurance des engins de remontée mécanique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142809" debut="1976-07-21" etat="ABROGE" fin="1994-01-05" id="LEGISCTA000006142809" niv="3" url="/LEGI/SCTA/00/00/06/14/28/LEGISCTA000006142809.xml">Titre III : L'assurance de la responsabilité civile des chasseurs</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142820" debut="2005-06-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006142820" niv="3" url="/LEGI/SCTA/00/00/06/14/28/LEGISCTA000006142820.xml">Titre IV : L'assurance des travaux de construction</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142811" debut="1979-01-01" etat="ABROGE" fin="2005-06-09" id="LEGISCTA000006142811" niv="3" url="/LEGI/SCTA/00/00/06/14/28/LEGISCTA000006142811.xml">Titre IV : L'assurance des travaux du bâtiment</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142818" debut="1979-01-01" etat="ABROGE" fin="2003-08-02" id="LEGISCTA000006142818" niv="3" url="/LEGI/SCTA/00/00/06/14/28/LEGISCTA000006142818.xml">Titre IV : L'assurance des travaux du bâtiment</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142821" debut="2002-03-05" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006142821" niv="3" url="/LEGI/SCTA/00/00/06/14/28/LEGISCTA000006142821.xml">Titre V : L'assurance de responsabilité civile médicale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000049310672" debut="2025-03-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000049310680" niv="3" url="/LEGI/SCTA/00/00/49/31/06/LEGISCTA000049310680.xml">Titre V bis : L'assurance des risques liés à l'exercice d'un mandat électif</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142823" debut="2005-12-16" etat="MODIFIE" fin="2007-12-23" id="LEGISCTA000006142823" niv="3" url="/LEGI/SCTA/00/00/06/14/28/LEGISCTA000006142823.xml">Titre VI : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142823" debut="2008-01-01" etat="ABROGE" fin="2016-01-01" id="LEGISCTA000017868401" niv="3" url="/LEGI/SCTA/00/00/17/86/84/LEGISCTA000017868401.xml">Titre VI : Dispositions spécifiques à Mayotte</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000017851715" debut="2008-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000017868423" niv="3" url="/LEGI/SCTA/00/00/17/86/84/LEGISCTA000017868423.xml">Titre VII : Dispositions applicables dans les îles Wallis et Futuna</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073984" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des assurances" debut="1976-07-11" fin="2999-01-01" id_txt="LEGITEXT000006073984">Code des assurances</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1976-07-16" fin="2999-01-01" id="LEGISCTA000006107964">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

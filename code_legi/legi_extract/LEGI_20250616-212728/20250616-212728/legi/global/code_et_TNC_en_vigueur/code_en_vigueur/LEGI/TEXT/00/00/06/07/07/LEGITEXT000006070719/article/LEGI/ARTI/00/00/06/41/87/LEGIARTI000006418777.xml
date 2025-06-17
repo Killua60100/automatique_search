@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006418777</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X442L02AXXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/87/LEGIARTI000006418777.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>442-2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2004-03-10</DATE_DEBUT>
+<DATE_FIN>2007-10-30</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006136047">Titre IV : Des atteintes à la confiance publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149855">Chapitre II : De la fausse monnaie</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418775" num="442-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006418776" num="442-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2007-10-30" id="LEGIARTI000006418777" num="442-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2007-10-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418778" num="442-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le transport, la mise en circulation ou la détention en vue de la mise en circulation des signes monétaires contrefaits ou falsifiés mentionnés au premier alinéa de l'article 442-1 ou des signes monétaires irrégulièrement fabriqués mentionnés au deuxième alinéa de cet article sont punis de dix ans d'emprisonnement et de 150 000 Euros d'amende.<br/>
+<br/>   Les infractions prévues au précédent alinéa sont punies de trente ans de réclusion criminelle et de 450 000 Euros d'amende lorsqu'elles sont commises en bande organisée.<br/>
+<br/>   Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au deuxième alinéa du présent article.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000722860" datesignatexte="1992-07-22" id="JORFTEXT000000722860" naturetexte="LOI" nortexte="JUSX9100041L" num="" numtexte="92-686" sens="source" typelien="CODIFICATION">Loi 92-686 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000249995" datesignatexte="2004-03-09" id="LEGIARTI000006494271" naturetexte="LOI" nortexte="JUSX0300028L" num="6" numtexte="2004-204" sens="source" typelien="MODIFICATION">Loi n°2004-204 du 9 mars 2004 - art. 6 () JORF 10 mars 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000044271440" datesignatexte="2021-10-29" id="LEGIARTI000044274699" naturetexte="DECRET" nortexte="INTD2111381D" num="9" numtexte="2021-1402" sens="cible" typelien="CITATION">Décret n°2021-1402 du 29 octobre 2021 - art. 9</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044278316" naturetexte="CODE" nortexte="" num="R53-14" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070666" datesignatexte="2999-01-01" id="LEGIARTI000006398346" naturetexte="CODE" nortexte="" num="37" numtexte="" sens="cible" typelien="CITATION">Code des instruments monétaires et des médailles - art. 37 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418772" naturetexte="CODE" nortexte="" num="442-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 442-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418804" naturetexte="CODE" nortexte="" num="442-15" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 442-15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418791" naturetexte="CODE" nortexte="" num="442-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 442-8 (V)</LIEN>
+</LIENS>
+</ARTICLE>

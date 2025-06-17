@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000032633870</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/32/63/38/LEGIARTI000032633870.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-72-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2016-06-05</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2002-09-10" fin="2005-04-01" id="LEGISCTA000006138137">Titre XXIV : Dispositions relatives à la juridiction de proximité</TITRE_TM>
+<TITRE_TM debut="2014-11-15" fin="2999-01-01" id="LEGISCTA000029759967">Titre XXIV : De la procédure applicable aux atteintes aux systèmes de traitement automatisé de données</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2016-06-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032633870" num="706-72-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Pour la poursuite, l'instruction et le jugement des infractions entrant dans le champ d'application de l'article 706-72, le procureur de la République, le pôle de l'instruction, le tribunal correctionnel et la cour d'assises de Paris exercent une compétence concurrente à celle qui résulte de l'application des articles 43, 52 et 382. </p>
+<p>En ce qui concerne les mineurs, le procureur de la République, le pôle de l'instruction, le juge des enfants, le tribunal pour enfants et la cour d'assises des mineurs de Paris exercent une compétence concurrente à celle qui résulte de l'application de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante. </p>
+<p>Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions entrant dans le champ d'application de l'article 706-72, le procureur de la République et le pôle de l'instruction de Paris exercent leurs attributions sur toute l'étendue du territoire national.<br/>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000517521" datesignatexte="1945-02-02" id="JORFTEXT000000517521" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="45-174" sens="source" typelien="CITATION">Ordonnance n° 45-174 du 2 février 1945 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000032627231" datesignatexte="2016-06-03" id="LEGIARTI000032631209" naturetexte="LOI" nortexte="JUSD1532276L" num="28" numtexte="2016-731" sens="cible" typelien="CREE">LOI n°2016-731 du 3 juin 2016 - art. 28</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039088031" naturetexte="CODE" nortexte="" num="L211-2" numtexte="" sens="cible" typelien="CITATION">Code de la justice pénale des mineurs - art. L211-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000043203908" naturetexte="CODE" nortexte="" num="L231-1" numtexte="" sens="cible" typelien="CITATION">Code de la justice pénale des mineurs - art. L231-1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000044559727" datesignatexte="2021-12-22" id="LEGIARTI000049507480" naturetexte="ARRETE" nortexte="INTC2132289A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 22 décembre 2021 - art. 4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576386" naturetexte="CODE" nortexte="" num="382" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 382 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006574978" naturetexte="CODE" nortexte="" num="43" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 43 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575006" naturetexte="CODE" nortexte="" num="52" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 52 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740822" naturetexte="CODE" nortexte="" num="706-105-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-105-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577773" naturetexte="CODE" nortexte="" num="706-72" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-72 (V)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000042546520</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/42/54/65/LEGIARTI000042546520.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20-1</NUM>
+
+<ETAT>ABROGE_DIFF</ETAT>
+
+<DATE_DEBUT>2020-11-22</DATE_DEBUT>
+<DATE_FIN>2025-10-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000511476" date_publi="1971-12-03" date_signature="1971-11-26" ministere="" nature="DECRET" nor="" num="71-941" num_parution_jo="">
+<TITRE_TXT c_titre_court="Décret n° 71-941 du 26 novembre 1971" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000511476">Décret n° 71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°71-941 du 26 novembre 1971" debut="1971-12-03" fin="2999-01-01" id_txt="LEGITEXT000006061875">Décret n°71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2006-02-01" fin="2999-01-01" id="LEGISCTA000006093913">Titre III : Etablissement de l'acte notarié</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-02-01" fin="2999-01-01" id="LEGISCTA000006119365">Chapitre III : Actes établis sur support électronique</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE_DIFF">
+<LIEN_ART debut="2020-11-22" etat="ABROGE_DIFF" fin="2025-10-01" id="LEGIARTI000042546520" num="20-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741589" num="20-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le notaire instrumentaire peut établir une procuration sur support électronique, lorsqu'une ou les parties à cet acte ne sont pas présentes devant lui.<br/>
+<br/>
+ L'échange des informations nécessaires à l'établissement de l'acte et le recueil, par le notaire instrumentaire, du consentement de la ou des parties à l'acte qui ne sont pas présentes s'effectuent au moyen d'un système de traitement, de communication et de transmission de l'information garantissant l'identification des parties, l'intégrité et la confidentialité du contenu et agréé par le Conseil supérieur du notariat.<br/>
+<br/>
+ Le notaire instrumentaire recueille, simultanément avec leur consentement, la signature électronique de cette ou ces parties au moyen d'un procédé de signature électronique qualifiée répondant aux exigences du décret du 28 septembre 2017 déjà mentionné.<br/>
+<br/>
+ L'acte est parfait lorsque le notaire instrumentaire y appose sa signature électronique qualifiée.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000042544060" datesignatexte="2020-11-20" id="LEGIARTI000042546457" naturetexte="DECRET" nortexte="JUSC2025928D" num="1" numtexte="2020-1422" sens="cible" typelien="CREE">Décret n°2020-1422 du 20 novembre 2020 - art. 1</LIEN>
+</LIENS>
+</ARTICLE>

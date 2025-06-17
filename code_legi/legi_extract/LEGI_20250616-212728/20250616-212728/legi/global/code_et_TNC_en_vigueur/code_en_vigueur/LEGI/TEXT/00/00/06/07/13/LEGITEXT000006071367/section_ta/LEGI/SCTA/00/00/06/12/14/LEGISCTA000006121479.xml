@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006121479</ID>
+<TITRE_TA>Livre VII : Dispositions sociales</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138444" debut="2005-04-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138444" niv="3" url="/LEGI/SCTA/00/00/06/13/84/LEGISCTA000006138444.xml">Titre Ier : Réglementation du travail salarié</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138445" debut="2005-04-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138445" niv="3" url="/LEGI/SCTA/00/00/06/13/84/LEGISCTA000006138445.xml">Titre II : Organisation générale des régimes de protection sociale des professions agricoles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138447" debut="2005-04-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138447" niv="3" url="/LEGI/SCTA/00/00/06/13/84/LEGISCTA000006138447.xml">Titre III : Protection sociale des personnes non salariées des professions agricoles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138448" debut="2005-04-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138448" niv="3" url="/LEGI/SCTA/00/00/06/13/84/LEGISCTA000006138448.xml">Titre IV : Protection sociale des personnes salariées des professions agricoles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138449" debut="2005-04-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138449" niv="3" url="/LEGI/SCTA/00/00/06/13/84/LEGISCTA000006138449.xml">Titre V : Accidents du travail et maladies professionnelles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138450" debut="2005-04-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138450" niv="3" url="/LEGI/SCTA/00/00/06/13/84/LEGISCTA000006138450.xml">Titre VI : Dispositions spéciales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032708218" debut="2016-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032708218" niv="3" url="/LEGI/SCTA/00/00/32/70/82/LEGISCTA000032708218.xml">Titre VIII : Dispositions relatives à l'outre-mer
+
+</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1979-12-01" fin="2999-01-01" id="LEGISCTA000006098287">Partie réglementaire</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

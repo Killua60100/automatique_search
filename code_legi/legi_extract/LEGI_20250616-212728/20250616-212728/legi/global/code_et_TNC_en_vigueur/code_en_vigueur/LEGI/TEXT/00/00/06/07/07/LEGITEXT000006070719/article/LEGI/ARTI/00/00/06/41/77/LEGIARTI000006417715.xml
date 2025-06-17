@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417715</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X222L34AXXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/77/LEGIARTI000006417715.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>222-34</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2002-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2023-04-01" id="LEGISCTA000006165284">Section 4 : Du trafic de stupéfiants</TITRE_TM>
+<TITRE_TM debut="2023-04-01" fin="2999-01-01" id="LEGISCTA000047052744">Section 7 : Du trafic de stupéfiants</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1992-07-23" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006417713" num="222-34" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417714" num="222-34" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417715" num="222-34" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le fait de diriger ou d'organiser un groupement ayant pour objet la production, la fabrication, l'importation, l'exportation, le transport, la détention, l'offre, la cession, l'acquisition ou l'emploi illicites de stupéfiants est puni de la réclusion criminelle à perpétuité et de 7 500 000 euros d'amende. </p>
+<br/>
+<p>Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par le présent article.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="CODIFICATION">Loi 92-684 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="SPEC_APPLI">Loi 92-684 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 373</LIEN>
+<LIEN cidtexte="JORFTEXT000000219672" datesignatexte="2000-09-19" id="LEGIARTI000006716442" naturetexte="ORDONNANCE" nortexte="JUSX0000106R" num="3" numtexte="2000-916" sens="source" typelien="MODIFICATION">Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002</LIEN>
+<LIEN cidtexte="JORFTEXT000020315197" datesignatexte="2009-02-24" id="LEGITEXT000020882862" naturetexte="ARRETE" nortexte="SASP0904649A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 24 février 2009 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000026278402" datesignatexte="2012-07-11" id="LEGIARTI000026279464" naturetexte="ARRETE" nortexte="INTC1221461A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 11 juillet 2012 - art. 2 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000030920376" datesignatexte="2015-07-23" id="LEGIARTI000037389545" naturetexte="ORDONNANCE" nortexte="EINM1506103R" num="45" numtexte="2015-899" sens="cible" typelien="CITATION">ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (VT)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000031939947" datesignatexte="2016-01-29" id="LEGIARTI000037389227" naturetexte="ORDONNANCE" nortexte="EINM1527673R" num="39" numtexte="2016-65" sens="cible" typelien="CITATION">Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VT)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000039727443" datesignatexte="2019-12-31" id="LEGIARTI000041403854" naturetexte="DECRET" nortexte="ECOT1932857D" num="1" numtexte="2019-1590" sens="cible" typelien="CITATION">Décret n°2019-1590 du 31 décembre 2019 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000044271440" datesignatexte="2021-10-29" id="LEGIARTI000044274699" naturetexte="DECRET" nortexte="INTD2111381D" num="9" numtexte="2021-1402" sens="cible" typelien="CITATION">Décret n°2021-1402 du 29 octobre 2021 - art. 9</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000045406621" datesignatexte="2022-03-23" id="LEGITEXT000045407578" naturetexte="DECRET" nortexte="INTD2132000D" num="" numtexte="2022-417" sens="cible" typelien="CITATION">Décret n°2022-417 du 23 mars 2022 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000032171180" naturetexte="CODE" nortexte="" num="L313-5" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000049043201" naturetexte="CODE" nortexte="" num="L432-1-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L432-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000038189508" naturetexte="CODE" nortexte="" num="R311-15" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000047293161" naturetexte="CODE" nortexte="" num="L2141-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L2141-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000047293128" naturetexte="CODE" nortexte="" num="L2341-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L2341-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000047293065" naturetexte="CODE" nortexte="" num="L3123-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L3123-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000025450337" naturetexte="CODE" nortexte="" num="L2336-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2336-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074067" datesignatexte="2999-01-01" id="LEGIARTI000027782611" naturetexte="CODE" nortexte="" num="L114-21" numtexte="" sens="cible" typelien="CITATION">Code de la mutualité - art. L114-21 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049294196" naturetexte="CODE" nortexte="" num="L312-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L312-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000027782581" naturetexte="CODE" nortexte="" num="L931-9" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L931-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033460523" naturetexte="CODE" nortexte="" num="2-16" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-16 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742218" naturetexte="CODE" nortexte="" num="28-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742176" naturetexte="CODE" nortexte="" num="706-26" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742096" naturetexte="CODE" nortexte="" num="706-55" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-55 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049050984" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311907" naturetexte="CODE" nortexte="" num="78-2-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 78-2-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044278316" naturetexte="CODE" nortexte="" num="R53-14" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R53-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000046177074" naturetexte="CODE" nortexte="" num="R3113-26" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R3113-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000046177288" naturetexte="CODE" nortexte="" num="R3211-27" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R3211-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000048638140" naturetexte="CODE" nortexte="" num="1649 quater-0 B bis" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1649 quater-0 B bis (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000041577908" naturetexte="CODE" nortexte="" num="L561-22" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L561-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000051740660" naturetexte="CODE" nortexte="" num="L562-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000041461651" naturetexte="CODE" nortexte="" num="R151-10" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R151-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000037678762" naturetexte="CODE" nortexte="" num="R153-10" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R153-10 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051739534" naturetexte="CODE" nortexte="" num="131-30-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-30-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742295" naturetexte="CODE" nortexte="" num="222-38" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-38 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000020630960" naturetexte="CODE" nortexte="" num="222-42" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-42 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742405" naturetexte="CODE" nortexte="" num="222-43" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-43 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000047052756" naturetexte="CODE" nortexte="" num="222-44" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-44 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051739948" naturetexte="CODE" nortexte="" num="222-44-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-44-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049312656" naturetexte="CODE" nortexte="" num="222-47" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-47 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000037398862" naturetexte="CODE" nortexte="" num="222-48" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-48 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000025585843" naturetexte="CODE" nortexte="" num="222-49" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-49 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417766" naturetexte="CODE" nortexte="" num="222-50" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-50 (V)</LIEN>
+</LIENS>
+</ARTICLE>

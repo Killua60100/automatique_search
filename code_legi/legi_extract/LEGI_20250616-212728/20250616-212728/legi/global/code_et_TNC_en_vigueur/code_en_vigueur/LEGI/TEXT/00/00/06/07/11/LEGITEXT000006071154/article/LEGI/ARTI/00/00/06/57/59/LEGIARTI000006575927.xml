@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575927</ID>
+<ANCIEN_ID>PXXXXXXXXXX0212L000AXXAD</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/59/LEGIARTI000006575927.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>212</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2001-01-01</DATE_DEBUT>
+<DATE_FIN>2009-11-26</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151886">Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006167457">Section 1 : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1986-02-01" etat="MODIFIE" fin="1993-03-01" id="LEGIARTI000006575924" num="212" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="1994-02-02" id="LEGIARTI000006575925" num="212" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-02-02" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575926" num="212" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2009-11-26" id="LEGIARTI000006575927" num="212" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-11-26" etat="MODIFIE" fin="2024-06-26" id="LEGIARTI000021332892" num="212" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-06-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049778638" num="212" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Si la chambre de l'instruction estime que les faits ne constituent ni crime, ni délit, ni contravention ou si l'auteur est resté inconnu ou s'il n'existe pas de charges suffisantes contre la personne mise en examen, elle déclare qu'il n'y a lieu à suivre.<br/>
+<br/>   Les personnes mises en examen qui sont provisoirement détenues sont remises en liberté. L'arrêt met fin au contrôle judiciaire.<br/>
+<br/>   La chambre de l'instruction statue par le même arrêt sur la restitution des objets placés sous main de justice. Elle peut refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000765204" datesignatexte="2000-06-15" id="LEGIARTI000006493396" naturetexte="LOI" nortexte="JUSX9800048L" num="83" numtexte="2000-516" sens="source" typelien="MODIFICATION">Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740505" naturetexte="CODE" nortexte="" num="41-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 41-5 (V)</LIEN>
+</LIENS>
+</ARTICLE>

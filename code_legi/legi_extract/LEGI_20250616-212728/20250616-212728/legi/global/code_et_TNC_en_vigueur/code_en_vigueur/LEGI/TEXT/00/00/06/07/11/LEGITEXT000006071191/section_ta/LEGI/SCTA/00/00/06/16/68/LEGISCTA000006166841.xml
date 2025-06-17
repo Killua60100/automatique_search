@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006166841</ID>
+<TITRE_TA>Section 1 : Le titre professionnel.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2006-05-24" etat="MODIFIE" fin="2008-05-01" id="LEGIARTI000006526954" num="R338-1" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2016-07-14" id="LEGIARTI000028683087" num="R338-1" origine="LEGI"/>
+<LIEN_ART debut="2016-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032890280" num="R338-1" origine="LEGI"/>
+<LIEN_ART debut="2006-05-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006526955" num="R338-2" origine="LEGI"/>
+<LIEN_ART debut="2006-05-24" etat="MODIFIE" fin="2016-07-14" id="LEGIARTI000006526956" num="R338-3" origine="LEGI"/>
+<LIEN_ART debut="2016-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032890272" num="R338-3" origine="LEGI"/>
+<LIEN_ART debut="2006-05-24" etat="MODIFIE" fin="2016-07-14" id="LEGIARTI000006526957" num="R338-4" origine="LEGI"/>
+<LIEN_ART debut="2016-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032890265" num="R338-4" origine="LEGI"/>
+<LIEN_ART debut="2006-05-24" etat="MODIFIE" fin="2016-07-14" id="LEGIARTI000006526958" num="R338-5" origine="LEGI"/>
+<LIEN_ART debut="2016-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032890259" num="R338-5" origine="LEGI"/>
+<LIEN_ART debut="2006-05-24" etat="MODIFIE" fin="2008-05-01" id="LEGIARTI000006526959" num="R338-6" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2009-11-14" id="LEGIARTI000028683115" num="R338-6" origine="LEGI"/>
+<LIEN_ART debut="2009-11-14" etat="MODIFIE" fin="2016-07-14" id="LEGIARTI000030238744" num="R338-6" origine="LEGI"/>
+<LIEN_ART debut="2016-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032890250" num="R338-6" origine="LEGI"/>
+<LIEN_ART debut="2006-05-24" etat="MODIFIE" fin="2009-11-14" id="LEGIARTI000006526960" num="R338-7" origine="LEGI"/>
+<LIEN_ART debut="2009-11-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000030238761" num="R338-7" origine="LEGI"/>
+<LIEN_ART debut="2006-05-24" etat="MODIFIE" fin="2010-01-20" id="LEGIARTI000006526961" num="R338-8" origine="LEGI"/>
+<LIEN_ART debut="2010-01-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021710553" num="R338-8" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071191" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'éducation" debut="2000-06-22" fin="2999-01-01" id_txt="LEGITEXT000006071191">Code de l'éducation</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-07-17" fin="2999-01-01" id="LEGISCTA000006095806">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006120399">Livre III : L'organisation des enseignements scolaires.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006137643">Titre III : Les enseignements du second degré.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-24" fin="2999-01-01" id="LEGISCTA000006151436">Chapitre VIII : Autres diplômes et titres.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

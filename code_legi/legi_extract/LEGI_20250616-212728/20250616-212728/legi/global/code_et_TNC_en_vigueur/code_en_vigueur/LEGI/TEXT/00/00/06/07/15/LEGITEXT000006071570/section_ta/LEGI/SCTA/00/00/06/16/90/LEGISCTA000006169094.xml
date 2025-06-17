@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006169094</ID>
+<TITRE_TA>A. - Première classe.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006615944" num="414" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE_MORT_NE" fin="2011-03-15" id="LEGIARTI000023712769" num="414" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000023719664" num="414" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2016-01-28" id="LEGIARTI000024041623" num="414" origine="LEGI"/>
+<LIEN_ART debut="2016-01-28" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000031927787" num="414" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000033815388" num="414" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047861217" num="414" origine="LEGI"/>
+<LIEN_ART debut="2002-12-31" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006615943" num="414" origine="LEGI"/>
+<LIEN_ART debut="2009-05-29" etat="MODIFIE" fin="2012-03-24" id="LEGIARTI000020675904" num="414-1" origine="LEGI"/>
+<LIEN_ART debut="2012-03-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000025560139" num="414-1" origine="LEGI"/>
+<LIEN_ART debut="2019-09-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039112540" num="414-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2002-12-31" fin="2999-01-01" id="LEGISCTA000006099277">Titre XII : Contentieux et recouvrement</TITRE_TM>
+<TM>
+<TITRE_TM debut="2002-12-31" fin="2999-01-01" id="LEGISCTA000006122136">Chapitre VI : Dispositions répressives</TITRE_TM>
+<TM>
+<TITRE_TM debut="2002-12-31" fin="2999-01-01" id="LEGISCTA000006138934">Section 1 : Classification des infractions douanières et peines principales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2002-12-31" fin="2999-01-01" id="LEGISCTA000006153206">Paragraphe 3 : Délits douaniers</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

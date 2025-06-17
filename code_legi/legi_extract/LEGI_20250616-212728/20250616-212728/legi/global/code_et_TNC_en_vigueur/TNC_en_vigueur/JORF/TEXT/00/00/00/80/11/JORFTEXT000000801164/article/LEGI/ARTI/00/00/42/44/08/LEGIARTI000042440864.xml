@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000042440864</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/42/44/08/LEGIARTI000042440864.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6-2</NUM>
+
+<ETAT>TRANSFERE</ETAT>
+
+<DATE_DEBUT>2021-04-20</DATE_DEBUT>
+<DATE_FIN>2024-05-23</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000801164" date_publi="2004-06-22" date_signature="2004-06-21" ministere="" nature="LOI" nor="ECOX0200175L" num="2004-575" num_parution_jo="0143">
+<TITRE_TXT c_titre_court="LOI n° 2004-575 du 21 juin 2004" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000801164">LOI n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 2004-575 du 21 juin 2004" debut="2004-06-22" fin="2999-01-01" id_txt="LEGITEXT000005789847">Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (1).</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-06-22" fin="2999-01-01" id="LEGISCTA000006089778">TITRE Ier : DE LA LIBERTÉ DE COMMUNICATION EN LIGNE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-06-22" fin="2024-05-23" id="LEGISCTA000006117685">CHAPITRE II : Les prestataires techniques.</TITRE_TM>
+<TITRE_TM debut="2024-05-23" fin="2999-01-01" id="LEGISCTA000049577606">CHAPITRE II : Les fournisseurs de services intermédiaire</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="TRANSFERE">
+<LIEN_ART debut="2021-04-20" etat="TRANSFERE" fin="2024-05-23" id="LEGIARTI000042440864" num="6-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-05-23" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000049581622" num="6-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742330" num="6-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément à l'article 8 de la loi n° 2020-1266 du 19 octobre 2020, ces dispositions entrent en vigueur six mois après la publication de la présente loi.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsque l'autorité administrative compétente mentionnée à l'article L. 7124-1 du code du travail constate qu'un contenu audiovisuel est mis à la disposition du public sur une plateforme mentionnée au 5° du même article L. 7124-1 en méconnaissance de l'obligation d'agrément préalable prévu au titre du même 5° ou de l'obligation déclarative prévue à l'article 3 de la loi n° 2020-1266 du 19 octobre 2020 visant à encadrer l'exploitation commerciale de l'image d'enfants de moins de seize ans sur les plateformes en ligne, elle peut saisir l'autorité judiciaire selon les modalités et dans les conditions prévues par voie réglementaire afin que cette dernière ordonne toute mesure propre à prévenir un dommage imminent ou à faire cesser un trouble manifestement illicite.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000049581616" naturetexte="LOI" nortexte="ECOX0200175L" num="6-5" numtexte="2004-575" sens="source" typelien="CONCORDE">Loi n° 2004-575 du 21 juin 2004 - art. 6-5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000042439054" datesignatexte="2020-10-19" id="LEGIARTI000042440573" naturetexte="LOI" nortexte="MICX2012545L" num="2" numtexte="2020-1266" sens="cible" typelien="CREE">LOI n°2020-1266 du 19 octobre 2020 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000042439054" datesignatexte="2020-10-19" id="JORFARTI000042439057" naturetexte="LOI" nortexte="MICX2012545L" num="3" numtexte="2020-1266" sens="source" typelien="CITATION">LOI n°2020-1266 du 19 octobre 2020 - art. 3</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000049563368" datesignatexte="2024-05-21" id="LEGIARTI000049565872" naturetexte="LOI" nortexte="ECOI2309270L" num="4" numtexte="2024-449" sens="cible" typelien="TRANSFERE">LOI n°2024-449 du 21 mai 2024 - art. 4</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006904634" naturetexte="CODE" nortexte="" num="L7124-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L7124-1</LIEN>
+</LIENS>
+</ARTICLE>

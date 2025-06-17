@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006085185</ID>
+<TITRE_TA>TITRE III : PÉNALITÉS.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2000-05-01" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336805" num="28" origine="LEGI"/>
+<LIEN_ART debut="2000-05-01" etat="MODIFIE" fin="2004-11-25" id="LEGIARTI000006336806" num="29" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336807" num="29" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="MODIFIE" fin="2007-01-26" id="LEGIARTI000006336809" num="30" origine="LEGI"/>
+<LIEN_ART debut="2007-01-26" etat="MODIFIE" fin="2013-01-02" id="LEGIARTI000006336810" num="30" origine="LEGI"/>
+<LIEN_ART debut="2013-01-02" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000026911230" num="30" origine="LEGI"/>
+<LIEN_ART debut="2000-05-01" etat="MODIFIE" fin="2004-11-25" id="LEGIARTI000006336808" num="30" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336811" num="30-1" origine="LEGI"/>
+<LIEN_ART debut="2000-05-01" etat="MODIFIE" fin="2004-11-25" id="LEGIARTI000006336812" num="31" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336813" num="31" origine="LEGI"/>
+<LIEN_ART debut="2007-01-26" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336815" num="31-1" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="MODIFIE" fin="2007-01-26" id="LEGIARTI000006336814" num="31-1" origine="LEGI"/>
+<LIEN_ART debut="2004-11-25" etat="ABROGE" fin="2021-05-01" id="LEGIARTI000006336816" num="31-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000582390" date_publi="2000-04-30" date_signature="2000-04-26" ministere="MINISTERE DE L'INTERIEUR" nature="ORDONNANCE" nor="INTX0000047R" num="2000-372" num_parution_jo="0102">
+<TITRE_TXT c_titre_court="Ordonnance n° 2000-372 du 26 avril 2000" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000582390">Ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française</TITRE_TXT>
+<TITRE_TXT c_titre_court="Ordonnance n° 2000-372 du 26 avril 2000" debut="2000-05-01" fin="2021-05-01" id_txt="LEGITEXT000005629337">Ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

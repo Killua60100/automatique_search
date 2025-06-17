@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTELR>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000006068396</ID>
+<ANCIEN_ID>AKEAP</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/struct/LEGI/TEXT/00/00/06/06/83/LEGITEXT000006068396.xml</URL>
+<NATURE>LOI</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000000508793</CID>
+<NUM>71-1130</NUM>
+<NUM_PARUTION/>
+<NUM_SEQUENCE>0</NUM_SEQUENCE>
+<NOR/>
+<DATE_PUBLI>1972-01-05</DATE_PUBLI>
+<DATE_TEXTE>1971-12-31</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2025-01-01</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI>0</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>0</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+</META_SPEC>
+</META>
+<VERSIONS>
+<VERSION etat="">
+<LIEN_TXT debut="2999-01-01" fin="2999-01-01" id="JORFTEXT000000508793" num="71-1130"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_TXT debut="1972-09-16" fin="2999-01-01" id="LEGITEXT000006068396" num="71-1130"/>
+</VERSION>
+</VERSIONS>
+<STRUCT>
+<LIEN_SECTION_TA cid="LEGISCTA000006112889" debut="1972-09-16" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006112889" niv="1" url="/LEGI/SCTA/00/00/06/11/28/LEGISCTA000006112889.xml">Titre Ier : Création et organisation de la nouvelle profession d'avocat</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006112890" debut="1972-09-16" etat="ABROGE" fin="1992-01-01" id="LEGISCTA000006112890" niv="1" url="/LEGI/SCTA/00/00/06/11/28/LEGISCTA000006112890.xml">Titre II : Réglementation de l'usage du titre de conseil juridique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006112891" debut="1992-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006112891" niv="1" url="/LEGI/SCTA/00/00/06/11/28/LEGISCTA000006112891.xml">Titre II : Réglementation de la consultation en matière juridique et de la rédaction d'actes sous seing privé</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006112892" debut="1972-09-16" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006112892" niv="1" url="/LEGI/SCTA/00/00/06/11/28/LEGISCTA000006112892.xml">Titre III : Dispositions diverses.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006112893" debut="2004-02-12" etat="MODIFIE" fin="2016-12-24" id="LEGISCTA000006112893" niv="1" url="/LEGI/SCTA/00/00/06/11/28/LEGISCTA000006112893.xml">Titre IV : Dispositions relatives à l'exercice permanent de la profession d'avocat en France par les ressortissants des Etats membres de la Communauté européenne ayant acquis leur qualification dans un autre Etat membre</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006112893" debut="2016-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033679022" niv="1" url="/LEGI/SCTA/00/00/33/67/90/LEGISCTA000033679022.xml">Titre IV : Dispositions relatives à l'exercice permanent de la profession d'avocat en France par les ressortissants des Etats membres de l'Union européenne ayant acquis leur qualification dans un autre Etat membre</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000033677982" debut="2016-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033677982" niv="1" url="/LEGI/SCTA/00/00/33/67/79/LEGISCTA000033677982.xml">Titre V : Dispositions relatives à l'accès partiel à la profession d'avocat en France par les ressortissants des Etats membres de l'Union européenne ayant acquis leur qualification dans un autre Etat membre.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000036849781" debut="2018-04-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000036849784" niv="1" url="/LEGI/SCTA/00/00/36/84/97/LEGISCTA000036849784.xml">Titre VI : Dispositions relatives à l'exercice par les avocats inscrits aux barreaux d'Etats non membres de l'Union européenne de l'activité de consultation juridique et de rédaction d'actes sous seing privé pour autrui</LIEN_SECTION_TA>
+</STRUCT>
+
+</TEXTELR>

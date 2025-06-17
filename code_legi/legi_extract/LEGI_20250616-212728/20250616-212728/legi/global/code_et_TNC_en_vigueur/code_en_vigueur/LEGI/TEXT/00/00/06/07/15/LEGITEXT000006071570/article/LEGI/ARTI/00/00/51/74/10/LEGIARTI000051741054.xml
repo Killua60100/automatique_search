@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051741054</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/10/LEGIARTI000051741054.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>64-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006099261">Titre II : Organisation et fonctionnement du service des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006122076">Chapitre IV : Pouvoirs des agents des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-04-13" fin="2999-01-01" id="LEGISCTA000006138847">Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741054" num="64-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>En cas de délit flagrant, si les nécessités de l'enquête douanière relative aux infractions mentionnées au dernier alinéa de l'article 414, lorsqu'elles portent sur des produits stupéfiants et qu'elles sont commises en bande organisée, l'exigent, le juge des libertés et de la détention peut autoriser les agents des douanes qui y sont habilités à effectuer des opérations de visite et de saisie en dehors des heures prévues à l'article 64. Ces opérations ne peuvent, à peine de nullité, concerner des locaux d'habitation.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736722" naturetexte="LOI" nortexte="JUSX2430702L" num="51" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 51</LIEN>
+</LIENS>
+</ARTICLE>

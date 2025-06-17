@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049051057</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/05/10/LEGIARTI000049051057.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L823-3</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2024-01-28</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070158" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'entrée et du séjour des étrangers et du droit d'asile." debut="2005-01-19" fin="2999-01-01" id_txt="LEGITEXT000006070158">Code de l'entrée et du séjour des étrangers et du droit d'asile</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042777625">Partie législative </TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774684">Livre VIII : CONTRÔLES ET SANCTIONS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774594">Titre II : SANCTIONS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774530">Chapitre III : FACILITATION DE L'ENTRÉE, DE LA CIRCULATION ET DU SÉJOUR IRRÉGULIERS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774527">Section 1 : Aide à l'entrée, à la circulation et au séjour irréguliers</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-05-01" fin="2999-01-01" id="LEGISCTA000042774524">Sous-section 1 : Peines principales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-05-01" etat="MODIFIE" fin="2024-01-28" id="LEGIARTI000042774517" num="L823-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-01-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049051057" num="L823-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Sont punies de dix ans d'emprisonnement et de 750 000 euros d'amende les infractions définies aux articles L. 823-1 et L. 823-2 lorsque les faits : </p>
+<p>1° Sont commis en bande organisée ; </p>
+<p>2° Sont commis dans des circonstances qui exposent directement les étrangers à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente ; </p>
+<p>3° Ont pour effet de soumettre les étrangers à des conditions de vie, de transport, de travail ou d'hébergement incompatibles avec la dignité de la personne humaine ; </p>
+<p>4° Sont commis au moyen d'une habilitation ou d'un titre de circulation en zone réservée d'un aérodrome ou d'un port ; </p>
+<p>5° Ont pour effet d'éloigner des mineurs étrangers de leur milieu familial ou de leur environnement traditionnel. </p>
+<p>Les peines sont portées à quinze ans de réclusion criminelle et un million d'euros d'amende lorsque les infractions prévues aux mêmes articles L. 823-1 et L. 823-2 sont commises dans deux circonstances mentionnées au présent article, dont celle mentionnée au 1°.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000042754770" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance n°2020-1733 du 16 décembre 2020 - art.</LIEN>
+<LIEN cidtexte="JORFTEXT000049040245" datesignatexte="2024-01-26" id="LEGIARTI000049043058" naturetexte="LOI" nortexte="IOMV2236472L" num="53" numtexte="2024-42" sens="cible" typelien="MODIFIE">LOI n°2024-42 du 26 janvier 2024 - art. 53</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000006335291" naturetexte="CODE" nortexte="" num="L622-5" numtexte="" sens="source" typelien="CONCORDANCE">Code de l'entrée et du séjour des étrangers et ... - art. L622-5 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000042773786" naturetexte="CODE" nortexte="" num="L823-1" numtexte="" sens="source" typelien="CITATION">Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L823-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000042773788" naturetexte="CODE" nortexte="" num="L823-2" numtexte="" sens="source" typelien="CITATION">Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L823-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000042920211" naturetexte="CODE" nortexte="" num="L8112-2" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8112-2 (M)</LIEN>
+</LIENS>
+</ARTICLE>

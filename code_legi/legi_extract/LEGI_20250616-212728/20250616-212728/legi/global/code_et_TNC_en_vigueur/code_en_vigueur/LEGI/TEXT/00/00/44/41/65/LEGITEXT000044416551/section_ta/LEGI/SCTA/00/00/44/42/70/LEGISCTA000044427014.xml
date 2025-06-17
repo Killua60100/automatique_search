@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000044427014</ID>
+<TITRE_TA>Titre II : RECRUTEMENT DES FONCTIONNAIRES</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044427012" num="L320-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000044421572" debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044427010" niv="4" url="/LEGI/SCTA/00/00/44/42/70/LEGISCTA000044427010.xml">Chapitre Ier : Contrôle préalable des conditions d'accès au statut de fonctionnaire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000044421580" debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044427002" niv="4" url="/LEGI/SCTA/00/00/44/42/70/LEGISCTA000044427002.xml">Chapitre II : Dispositions applicables à certains recrutements</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000044421596" debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044426986" niv="4" url="/LEGI/SCTA/00/00/44/42/69/LEGISCTA000044426986.xml">Chapitre III : Préparation aux procédures de recrutement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000044421600" debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044426982" niv="4" url="/LEGI/SCTA/00/00/44/42/69/LEGISCTA000044426982.xml">Chapitre IV : Recul ou suppression de l'âge maximal pour le recrutement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000044421618" debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044426962" niv="4" url="/LEGI/SCTA/00/00/44/42/69/LEGISCTA000044426962.xml">Chapitre V : Recrutement par concours</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000044421764" debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044426816" niv="4" url="/LEGI/SCTA/00/00/44/42/68/LEGISCTA000044426816.xml">Chapitre VI : Autres modalités d'accès aux fonctions publiques</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000044421816" debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044426764" niv="4" url="/LEGI/SCTA/00/00/44/42/67/LEGISCTA000044426764.xml">Chapitre VII : Stage et titularisation</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000044416551" date_publi="2021-12-06" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général de la fonction publique" debut="2022-03-01" fin="2999-01-01" id_txt="LEGITEXT000044416551">Code général de la fonction publique</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2022-03-01" fin="2999-01-01" id="LEGISCTA000044428011">PARTIE LÉGISLATIVE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-03-01" fin="2999-01-01" id="LEGISCTA000044427049">Livre III : RECRUTEMENT</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

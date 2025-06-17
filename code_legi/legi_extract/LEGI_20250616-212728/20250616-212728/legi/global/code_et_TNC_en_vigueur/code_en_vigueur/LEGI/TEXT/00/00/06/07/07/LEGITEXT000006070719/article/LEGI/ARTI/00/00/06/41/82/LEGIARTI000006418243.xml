@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006418243</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X321L06AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/82/LEGIARTI000006418243.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>321-6</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2002-01-01</DATE_DEBUT>
+<DATE_FIN>2006-01-24</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117598">Livre III : Des crimes et délits contre les biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136043">Titre II : Des autres atteintes aux biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149837">Chapitre Ier : Du recel et des infractions assimilées ou voisines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006165339">Section 2 : Des infractions assimilées au recel ou voisines de celui-ci</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418242" num="321-6" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006418243" num="321-6" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006418244" num="321-6" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740493" num="321-6" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le fait, par une personne ayant autorité sur un mineur qui vit avec elle et se livre habituellement à des crimes ou à des délits contre les biens d'autrui, de ne pouvoir justifier de ressources correspondant à son train de vie, est puni de cinq ans d'emprisonnement et de 375000 euros d'amende. L'amende peut être élevée au-delà de 375000 euros jusqu'à la moitié de la valeur des biens recelés.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000359433" datesignatexte="1992-07-22" id="JORFTEXT000000359433" naturetexte="LOI" nortexte="JUSX8900011L" num="" numtexte="92-685" sens="source" typelien="CODIFICATION">Loi 92-685 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000359433" datesignatexte="1992-07-22" id="JORFTEXT000000359433" naturetexte="LOI" nortexte="JUSX8900011L" num="" numtexte="92-685" sens="source" typelien="SPEC_APPLI">Loi 92-685 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 373</LIEN>
+<LIEN cidtexte="JORFTEXT000000219672" datesignatexte="2000-09-19" id="LEGIARTI000006716442" naturetexte="ORDONNANCE" nortexte="JUSX0000106R" num="3" numtexte="2000-916" sens="source" typelien="MODIFICATION">Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000039727443" datesignatexte="2019-12-31" id="LEGIARTI000041403854" naturetexte="DECRET" nortexte="ECOT1932857D" num="1" numtexte="2019-1590" sens="cible" typelien="CITATION">Décret n°2019-1590 du 31 décembre 2019 - art. 1</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000020196876" naturetexte="CODE" nortexte="" num="L123-11-3" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L123-11-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000046177074" naturetexte="CODE" nortexte="" num="R3113-26" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R3113-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000046177288" naturetexte="CODE" nortexte="" num="R3211-27" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R3211-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000041461651" naturetexte="CODE" nortexte="" num="R151-10" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R151-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000037678762" naturetexte="CODE" nortexte="" num="R153-10" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R153-10 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418254" naturetexte="CODE" nortexte="" num="321-10-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 321-10-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032654721" naturetexte="CODE" nortexte="" num="321-6-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 321-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000038313239" naturetexte="CODE" nortexte="" num="321-9" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 321-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000049635608" naturetexte="CODE" nortexte="" num="L10 B" numtexte="" sens="cible" typelien="CITATION">Livre des procédures fiscales - art. L10 B (V)</LIEN>
+</LIENS>
+</ARTICLE>

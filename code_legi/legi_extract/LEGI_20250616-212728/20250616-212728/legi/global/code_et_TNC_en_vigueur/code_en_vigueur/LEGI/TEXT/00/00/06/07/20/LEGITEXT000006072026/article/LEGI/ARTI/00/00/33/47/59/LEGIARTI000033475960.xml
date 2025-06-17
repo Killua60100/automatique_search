@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000033475960</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/33/47/59/LEGIARTI000033475960.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L562-7</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2017-07-01</DATE_DEBUT>
+<DATE_FIN>2020-11-06</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006123943">Livre V : Les prestataires de services</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-03-07" fin="2017-12-30" id="LEGISCTA000006140135">Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes et les loteries, jeux et paris prohibés</TITRE_TM>
+<TITRE_TM debut="2017-12-30" fin="2999-01-01" id="LEGISCTA000036365190">Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes, les loteries, jeux et paris prohibés et l'évasion et la fraude fiscales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-03-07" fin="2009-02-01" id="LEGISCTA000006154831">Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.</TITRE_TM>
+<TITRE_TM debut="2009-02-01" fin="2017-07-01" id="LEGISCTA000020196819">Chapitre II : Obligations relatives au gel des avoirs</TITRE_TM>
+<TITRE_TM debut="2017-07-01" fin="2999-01-01" id="LEGISCTA000033476000">Chapitre II : Dispositions relatives au gel des avoirs et à l'interdiction de mise à disposition</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2001-05-16" id="LEGIARTI000006658489" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-05-16" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006658490" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658491" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2009-02-01" id="LEGIARTI000006658492" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-02-01" etat="MODIFIE" fin="2017-07-01" id="LEGIARTI000020196787" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-07-01" etat="MODIFIE" fin="2020-11-06" id="LEGIARTI000033475960" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-11-06" etat="MODIFIE" fin="2022-02-26" id="LEGIARTI000042498832" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-02-26" etat="MODIFIE" fin="2024-07-27" id="LEGIARTI000045250663" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-07-27" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000050053912" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740735" num="L562-7" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>Les interdictions prévues au présent chapitre ne font pas obstacle aux versements de fonds sur les comptes détenus auprès des personnes mentionnées à l'article L. 561-2, dont les fonds sont gelés en vertu des articles L. 562-2 ou L. 562-3. Les personnes mentionnées à l'article L. 562-4, qui créditent un compte dont les fonds sont gelés en informent sans délai le ministre chargé de l'économie.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000350808" datesignatexte="1990-07-12" id="JORFTEXT000000350808" naturetexte="LOI" nortexte="ECOX9000077L" num="" numtexte="90-614" sens="source" typelien="CONCORDANCE">Loi 90-614 1990-07-12 art. 7</LIEN>
+<LIEN cidtexte="JORFTEXT000000574489" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance n° 2000-1223 du 14 décembre 2000 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000350808" datesignatexte="1990-07-12" id="LEGIARTI000006695428" naturetexte="LOI" nortexte="ECOX9000077L" num="7" numtexte="90-614" sens="cible" typelien="CONCORDE">Loi n°90-614 du 12 juillet 1990 - art. 7 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000033471674" datesignatexte="2016-11-24" id="LEGIARTI000033472599" naturetexte="ORDONNANCE" nortexte="ECFT1627558R" num="1" numtexte="2016-1575" sens="cible" typelien="MODIFIE">Ordonnance n°2016-1575 du 24 novembre 2016 - art. 1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000020179037" naturetexte="CODE" nortexte="" num="L561-2" numtexte="" sens="source" typelien="CITATION">Code monétaire et financier - art. L561-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000020180057" naturetexte="CODE" nortexte="" num="L714-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L714-3 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

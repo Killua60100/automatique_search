@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006115068</ID>
+<TITRE_TA>LIVRE VI : CONTRÔLES ET SANCTIONS</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006134417" debut="2005-03-01" etat="ABROGE" fin="2021-05-01" id="LEGISCTA000006134417" niv="3" url="/LEGI/SCTA/00/00/06/13/44/LEGISCTA000006134417.xml">TITRE Ier : CONTRÔLES</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006134418" debut="2005-01-19" etat="ABROGE" fin="2021-05-01" id="LEGISCTA000006134418" niv="3" url="/LEGI/SCTA/00/00/06/13/44/LEGISCTA000006134418.xml">TITRE II : SANCTIONS</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070158" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'entrée et du séjour des étrangers et du droit d'asile." debut="2005-01-19" fin="2999-01-01" id_txt="LEGITEXT000006070158">Code de l'entrée et du séjour des étrangers et du droit d'asile</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2005-01-19" fin="2021-05-01" id="LEGISCTA000006085121">Partie législative ancienne</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

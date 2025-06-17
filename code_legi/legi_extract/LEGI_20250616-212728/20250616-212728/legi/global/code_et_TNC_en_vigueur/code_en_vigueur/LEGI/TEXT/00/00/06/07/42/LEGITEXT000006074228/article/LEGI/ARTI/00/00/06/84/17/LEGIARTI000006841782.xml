@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006841782</ID>
+<ANCIEN_ID>UFAXXXXXXXX2X322R003XXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/84/17/LEGIARTI000006841782.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>R322-3</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2004-01-01</DATE_DEBUT>
+<DATE_FIN>2009-04-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006108688">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006129091">Livre III : Le véhicule.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006143856">Titre II : Dispositions administratives. </TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006159586">Chapitre II : Immatriculation</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006177098">Section 1 : Délivrance du certificat d'immatriculation.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2003-01-15" id="LEGIARTI000006841780" num="R322-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-01-15" etat="MODIFIE" fin="2004-01-01" id="LEGIARTI000006841781" num="R322-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-01-01" etat="MODIFIE" fin="2009-04-15" id="LEGIARTI000006841782" num="R322-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-04-15" etat="MODIFIE" fin="2018-03-31" id="LEGIARTI000020242028" num="R322-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2018-03-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000036755097" num="R322-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   I. - La circulation à titre provisoire d'un véhicule, que celui-ci ait fait ou non l'objet de la délivrance d'une "carte grise", est autorisée sous couvert d'un certificat d'immatriculation spécial W ou WW ou d'un certificat de transit ou d'un document équivalent délivré par les autorités compétentes d'un Etat membre de la Communauté européenne.<br/>
+<br/>   Lorsque le véhicule a fait l'objet de la délivrance d'une carte grise comportant un coupon détachable, sa circulation à titre provisoire est autorisée sous couvert de ce coupon dûment rempli.<br/>
+<br/>   II. - Les bénéficiaires et la durée de validité du coupon détachable de la carte grise et des certificats d'immatriculation spéciaux W ou WW ainsi que les conditions de leur attribution et de leur utilisation sont définis par arrêté du ministre chargé des transports pris après avis du ministre de l'intérieur.<br/>
+<br/>   III. - Est puni de l'amende prévue pour les contraventions de la 4e classe :<br/>
+<br/>   1° Le fait pour toute personne d'utiliser un coupon détachable de carte grise, un certificat d'immatriculation spécial W ou WW ou pour tout professionnel de l'automobile de délivrer un certificat d'immatriculation spécial WW sans respecter les dispositions du présent article ou celles prises pour son application ;<br/>
+<br/>   2° Le fait pour toute personne d'utiliser un certificat de transit ou un document équivalent délivré par les autorités compétentes d'un Etat membre de la Communauté européenne sans respecter les conditions de sa validité.<br/>
+<br/>   L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000578193" datesignatexte="2001-03-22" id="JORFTEXT000000578193" naturetexte="DECRET" nortexte="EQUS0100055D" num="" numtexte="2001-251" sens="source" typelien="CODIFICATION">Décret 2001-251 2001-03-22 JORF 25 mars 2001</LIEN>
+<LIEN cidtexte="JORFTEXT000000429829" datesignatexte="2003-12-11" id="JORFTEXT000000429829" naturetexte="DECRET" nortexte="EQUX0300133D" num="" numtexte="2003-1186" sens="source" typelien="SPEC_APPLI">Décret 2003-1186 2003-12-11 art. 17 : (application à Mayotte)</LIEN>
+<LIEN cidtexte="JORFTEXT000000429829" datesignatexte="2003-12-11" id="LEGIARTI000006884629" naturetexte="DECRET" nortexte="EQUX0300133D" num="8" numtexte="2003-1186" sens="source" typelien="MODIFICATION">Décret n°2003-1186 du 11 décembre 2003 - art. 8 () JORF 13 décembre 2003 en vigueur le 1er janvier 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000027619051" datesignatexte="2013-06-26" id="LEGIARTI000027622277" naturetexte="DECRET" nortexte="BUDD1232568D" num="11" numtexte="2013-559" sens="cible" typelien="CITATION">Décret n°2013-559 du 26 juin 2013 - art. 11 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000031425652" datesignatexte="2015-11-05" id="LEGIARTI000034754869" naturetexte="DECRET" nortexte="INTX1523043D" num="Annexe 1" numtexte="2015-1423" sens="cible" typelien="CITATION">DÉCRET n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000036750342" datesignatexte="2018-03-28" id="LEGITEXT000036753974" naturetexte="DECRET" nortexte="TRER1717809D" num="" numtexte="2018-211" sens="cible" typelien="CITATION">Décret n°2018-211 du 28 mars 2018 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000036868691" datesignatexte="2018-04-17" id="LEGITEXT000036870998" naturetexte="ARRETE" nortexte="TRER1717820A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 17 avril 2018 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000043684467" datesignatexte="2021-05-26" id="LEGITEXT000043685620" naturetexte="ARRETE" nortexte="TRER2108356A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 26 mai 2021 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000049803986" naturetexte="CODE" nortexte="" num="R421-42" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. R421-42</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000049803988" naturetexte="CODE" nortexte="" num="R421-43" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. R421-43</LIEN>
+<LIEN cidtexte="JORFTEXT000048007398" datesignatexte="2023-07-28" id="LEGITEXT000048008529" naturetexte="ARRETE" nortexte="TRER2322545A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 juillet 2023 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006075077" datesignatexte="1984-11-05" id="LEGIARTI000020242154" naturetexte="ARRETE" nortexte="" num="65-10" numtexte="" sens="cible" typelien="CITATION">Arrêté du 5 novembre 1984 - art. 65-10 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875641" naturetexte="CODE" nortexte="" num="R111-1" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R111-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875766" naturetexte="CODE" nortexte="" num="R159" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R159 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875773" naturetexte="CODE" nortexte="" num="R165" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R165 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875823" naturetexte="CODE" nortexte="" num="R185" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R185 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875866" naturetexte="CODE" nortexte="" num="R200-2" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R200-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875989" naturetexte="CODE" nortexte="" num="R241" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R241 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGITEXT000006074228" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la route L325-1 à L325-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGITEXT000006074228" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code de la route R111-1, R159, R165, R185, R200-2, R241 (al. 1 et 5)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841806" naturetexte="CODE" nortexte="" num="R*322-12-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R*322-12-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000051740218" naturetexte="CODE" nortexte="" num="R317-8" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R317-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000051740207" naturetexte="CODE" nortexte="" num="R325-38" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-38 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006842036" naturetexte="CODE" nortexte="" num="R342-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R342-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

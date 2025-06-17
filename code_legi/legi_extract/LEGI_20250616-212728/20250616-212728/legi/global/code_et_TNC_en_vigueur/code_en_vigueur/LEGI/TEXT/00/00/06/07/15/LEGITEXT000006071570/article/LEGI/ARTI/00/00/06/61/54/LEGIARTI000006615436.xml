@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006615436</ID>
+<ANCIEN_ID>RDAXXXXXXXX5X067BAAAXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/61/54/LEGIARTI000006615436.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>67 bis</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1991-12-20</DATE_DEBUT>
+<DATE_FIN>2004-10-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006099261">Titre II : Organisation et fonctionnement du service des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006122076">Chapitre IV : Pouvoirs des agents des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-12-20" fin="2016-06-05" id="LEGISCTA000006138848">Section 7 : Livraisons surveillées.</TITRE_TM>
+<TITRE_TM debut="2016-06-05" fin="2999-01-01" id="LEGISCTA000032654987">Section 7 : Procédures spéciales d'enquête douanière</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1991-12-20" etat="MODIFIE" fin="2004-10-01" id="LEGIARTI000006615436" num="67 bis" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006615437" num="67 bis" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-03-13" id="LEGIARTI000023719622" num="67 bis" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-03-13" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000028717027" num="67 bis" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000032654779" num="67 bis" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000038312798" num="67 bis" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000041783841" num="67 bis" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-07-20" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000047861413" num="67 bis" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742598" num="67 bis" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Afin de constater les infractions douanières d'importation, d'exportation ou de détention de substances ou plantes classées comme stupéfiants, d'identifier les auteurs et complices de ces infractions ainsi que ceux qui y ont participé comme intéressés au sens de l'article 399 et d'effectuer les saisies prévues par le présent code, les agents des douanes habilités par le ministre chargé des douanes dans des conditions fixées par décret peuvent, après en avoir informé le procureur de la République et sous son contrôle, procéder à la surveillance de l'acheminement de ces substances ou plantes.<br/>
+<br/>   Ils ne sont pas pénalement responsables lorsque, aux mêmes fins, avec l'autorisation du procureur de la République et sous son contrôle, ils acquièrent, détiennent, transportent ou livrent ces substances ou plantes ou mettent à la disposition des personnes les détenant ou se livrant aux infractions douanières mentionnées à l'alinéa précédent des moyens de caractère juridique, ainsi que des moyens de transport, de dépôt et de communication. L'autorisation ne peut être donnée que pour des actes ne déterminant pas la commission des infractions visées au premier alinéa.<br/>
+<br/>   Les dispositions des deux alinéas précédents sont, aux mêmes fins, applicables aux substances qui sont utilisées pour la fabrication illicite des produits stupéfiants et dont la liste est fixée par décret, ainsi qu'aux matériels servant à cette fabrication.<br/>
+<br/>   Ne sont pas pénalement punissables les agents des douanes qui accomplissent, en ce qui concerne les fonds sur lesquels porte l'infraction prévue par l'article 415 et pour la constatation de celle-ci, les actes mentionnés aux deux premiers alinéas.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Décret 48-1985 1948-12-08</LIEN>
+<LIEN cidtexte="JORFTEXT000000721125" datesignatexte="1991-12-19" id="LEGIARTI000006696548" naturetexte="LOI" nortexte="JUSX9100119L" num="2" numtexte="91-1264" sens="source" typelien="CREATION">Loi n°91-1264 du 19 décembre 1991 - art. 2 () JORF 20 décembre 1991</LIEN>
+<LIEN cidtexte="JORFTEXT000000376606" datesignatexte="1996-06-19" id="LEGIARTI000039280528" naturetexte="LOI" nortexte="INDX9500023L" num="10-1" numtexte="96-542" sens="cible" typelien="CITATION">Loi n° 96-542 du 19 juin 1996 - art. 10-1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000594441" datesignatexte="2002-10-02" id="LEGIARTI000006214565" naturetexte="DECRET" nortexte="BUDD0250007D" num="1" numtexte="2002-1245" sens="cible" typelien="CITATION">Décret n°2002-1245 du 2 octobre 2002 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000594441" datesignatexte="2002-10-02" id="LEGIARTI000006214569" naturetexte="DECRET" nortexte="BUDD0250007D" num="5" numtexte="2002-1245" sens="cible" typelien="CITATION">Décret n°2002-1245 du 2 octobre 2002 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000443545" datesignatexte="2004-09-15" id="LEGITEXT000005845871" naturetexte="DECRET" nortexte="ECOD0450006D" num="" numtexte="2004-976" sens="cible" typelien="TXT_SOURCE">Décret n°2004-976 du 15 septembre 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000000443545" datesignatexte="2004-09-15" id="LEGIARTI000006234422" naturetexte="DECRET" nortexte="ECOD0450006D" num="1" numtexte="2004-976" sens="cible" typelien="TXT_SOURCE">Décret n°2004-976 du 15 septembre 2004 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000443545" datesignatexte="2004-09-15" id="LEGIARTI000049334357" naturetexte="DECRET" nortexte="ECOD0450006D" num="1" numtexte="2004-976" sens="cible" typelien="CITATION">Décret n°2004-976 du 15 septembre 2004 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000443545" datesignatexte="2004-09-15" id="LEGIARTI000006234423" naturetexte="DECRET" nortexte="ECOD0450006D" num="2" numtexte="2004-976" sens="cible" typelien="TXT_SOURCE">Décret n°2004-976 du 15 septembre 2004 - art. 2 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000443545" datesignatexte="2004-09-15" id="LEGIARTI000006234424" naturetexte="DECRET" nortexte="ECOD0450006D" num="3" numtexte="2004-976" sens="cible" typelien="TXT_SOURCE">Décret n°2004-976 du 15 septembre 2004 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000443545" datesignatexte="2004-09-15" id="LEGIARTI000006234425" naturetexte="DECRET" nortexte="ECOD0450006D" num="4" numtexte="2004-976" sens="cible" typelien="TXT_SOURCE">Décret n°2004-976 du 15 septembre 2004 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000443545" datesignatexte="2004-09-15" id="LEGIARTI000006234426" naturetexte="DECRET" nortexte="ECOD0450006D" num="5" numtexte="2004-976" sens="cible" typelien="TXT_SOURCE">Décret n°2004-976 du 15 septembre 2004 - art. 5 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000024270383" datesignatexte="2011-06-27" id="LEGITEXT000024274651" naturetexte="DECRET" nortexte="BCRD1110313D" num="" numtexte="2011-751" sens="cible" typelien="CITATION">Décret n°2011-751
+ du 27 juin 2011 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000049330452" datesignatexte="2024-03-27" id="LEGITEXT000049332095" naturetexte="DECRET" nortexte="ECOD2401547D" num="" numtexte="2024-271" sens="cible" typelien="CITATION">Décret n°2024-271 du 27 mars 2024 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049330452" datesignatexte="2024-03-27" id="LEGIARTI000049332115" naturetexte="DECRET" nortexte="ECOD2401547D" num="2" numtexte="2024-271" sens="cible" typelien="CITATION">Décret n°2024-271 du 27 mars 2024 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047770697" naturetexte="CODE" nortexte="" num="D15-1-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D15-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006514829" naturetexte="CODE" nortexte="" num="D15-1-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D15-1-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047770710" naturetexte="CODE" nortexte="" num="D15-1-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D15-1-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006616024" naturetexte="CODE" nortexte="" num="399" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 399 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615945" naturetexte="CODE" nortexte="" num="415" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 415 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000028717037" naturetexte="CODE" nortexte="" num="67 bis-1" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 bis-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051742583" naturetexte="CODE" nortexte="" num="67 bis-1 A" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 bis-1 A (V)</LIEN>
+</LIENS>
+</ARTICLE>

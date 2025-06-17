@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051739426</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/94/LEGIARTI000051739426.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L232-9</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508388">LIVRE II : ORDRE ET SÉCURITÉ PUBLICS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508292">TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051739424">Chapitre II bis : Recueil des données relatives aux navires de plaisance&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739426" num="L232-9" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Afin de prévenir et de réprimer le terrorisme, de faciliter la constatation des infractions s'y rattachant, de faciliter la constatation des infractions liées à la criminalité organisée, au sens des articles 706-73 et 706-73-1 du code de procédure pénale, et des infractions de contrebande, d'importation ou d'exportation commises en bande organisée, prévues et réprimées par le dernier alinéa de l'article 414 du code des douanes, ainsi que la constatation, lorsqu'elles portent sur des fonds provenant de ces mêmes infractions, de la réalisation ou de la tentative de réalisation des opérations financières définies à l'article 415 du même code et afin de permettre le rassemblement des preuves de ces infractions et la recherche de leurs auteurs, l'autorité portuaire ou l'autorité investie du pouvoir de police portuaire collecte les données qui permettent d'identifier les navires de plaisance qui ont un autre port d'attache, leur propriétaire, les personnes qu'ils transportent ainsi que leur itinéraire. Elle transmet ces données aux services de l'Etat chargés de la prévention et de la répression des infractions mentionnées au présent alinéa. </p>
+<p>Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des ports détermine les ports concernés par l'obligation définie au premier alinéa du présent I. </p>
+<p>II.-Les données collectées et transmises en application du I, les modalités de leur transmission ainsi que les services de l'Etat mentionnés au premier alinéa du même I sont précisés par décret en Conseil d'Etat. <br/>Ce décret précise les conditions dans lesquelles l'autorité portuaire ou l'autorité investie du pouvoir de police portuaire vérifie les données de l'identité civile des personnes concernées. </p>
+<p>III.-En cas de méconnaissance par une autorité portuaire ou par une autorité investie du pouvoir de police portuaire des obligations fixées au présent article, l'amende et la procédure prévues à l'article L. 232-5 sont applicables. </p>
+<p>Lorsque l'infraction définie au premier alinéa du présent III est commise de manière habituelle, elle est punie de deux ans d'emprisonnement et d'une amende de 30 000 euros. </p>
+<p>IV.-Les données mentionnées au I peuvent être conservées pendant une durée maximale de cinq ans. </p>
+<p>V.-Le présent article n'est pas applicable aux navires soumis à l'article L. 232-7-1.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736652" naturetexte="LOI" nortexte="JUSX2430702L" num="14" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 14</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000031050748" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615940" naturetexte="CODE" nortexte="" num="414" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 414</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615945" naturetexte="CODE" nortexte="" num="415" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 415</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505275" naturetexte="CODE" nortexte="" num="L232-5" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L232-5 (V)</LIEN>
+</LIENS>
+</ARTICLE>

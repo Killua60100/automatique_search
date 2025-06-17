@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006138088</ID>
+<TITRE_TA>Titre Ier : Des autorités chargées de l'action publique et de l'instruction</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2000-06-16" id="LEGIARTI000006574846" num="11" origine="LEGI"/>
+<LIEN_ART debut="2000-06-16" etat="MODIFIE" fin="2021-12-24" id="LEGIARTI000006574847" num="11" origine="LEGI"/>
+<LIEN_ART debut="2021-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044568210" num="11" origine="LEGI"/>
+<LIEN_ART debut="1958-04-08" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006574845" num="11" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006574848" num="11-1" origine="LEGI"/>
+<LIEN_ART debut="2016-04-16" etat="MODIFIE" fin="2025-04-30" id="LEGIARTI000032403107" num="11-2" origine="LEGI"/>
+<LIEN_ART debut="2025-04-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051531544" num="11-2" origine="LEGI"/>
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049527184" num="11-3" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006151872" debut="1958-04-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006151872" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151872.xml">Chapitre Ier : De la police judiciaire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006152027" debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006152027" niv="4" url="/LEGI/SCTA/00/00/06/15/20/LEGISCTA000006152027.xml">Chapitre Ier bis : Des attributions du garde des sceaux, ministre de la justice</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151873" debut="1958-04-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006151873" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151873.xml">Chapitre II : Du ministère public</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151874" debut="1958-04-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006151874" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151874.xml">Chapitre III : Du juge d'instruction</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151875" debut="1988-03-01" etat="ABROGE" fin="1987-12-31" id="LEGISCTA000006151875" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151875.xml">Chapitre III : De la chambre d'accusation et du juge d'instruction</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

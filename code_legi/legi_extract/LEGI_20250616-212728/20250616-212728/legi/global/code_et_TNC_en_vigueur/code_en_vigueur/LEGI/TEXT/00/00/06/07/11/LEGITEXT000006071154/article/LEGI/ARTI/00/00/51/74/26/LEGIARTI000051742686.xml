@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051742686</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/26/LEGIARTI000051742686.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-1-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2999-01-01" id="LEGISCTA000006138120">Titre XIII : De la procédure applicable aux infractions en matière économique et financière</TITRE_TM>
+<TM>
+<TITRE_TM debut="2014-02-01" fin="2999-01-01" id="LEGISCTA000028299380">Chapitre III : Dispositions diverses</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2014-02-01" id="LEGIARTI000006577527" num="706-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-02-01" etat="MODIFIE" fin="2016-07-03" id="LEGIARTI000028312420" num="706-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-07-03" etat="MODIFIE" fin="2016-12-11" id="LEGIARTI000032751695" num="706-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-12-11" etat="MODIFIE" fin="2018-10-25" id="LEGIARTI000033611497" num="706-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-10-25" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000037526870" num="706-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-07-20" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000047860986" num="706-1-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742686" num="706-1-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les articles 706-80 à 706-87 [Rédaction conforme au dernier alinéa de l'article 1er de la décision du Conseil constitutionnel n° 2013-679 DC du 4 décembre 2013], 706-95 à 706-103,706-105 et 706-106 sont applicables à l'enquête, à la poursuite, à l'instruction et au jugement des délits prévus : </p>
+<p>1° A l'article 432-15 du code pénal ; </p>
+<p>2° Aux articles 1741 et 1743 du code général des impôts, lorsqu'ils sont commis en bande organisée ou lorsqu'il existe des présomptions caractérisées que ces infractions résultent d'un des comportements mentionnés aux 1° à 5° du II de l'article L. 228 du livre des procédures fiscales ; </p>
+<p>3° Sous réserve du 21° de l'article 706-73 du présent code, au dernier alinéa de l'article 414 du code des douanes, au troisième alinéa de l'article 414-2 du même code et au dernier alinéa de l'article 415 dudit code ; </p>
+<p>4° Aux articles L. 465-1 à L. 465-3-3 du code monétaire et financier lorsqu'ils sont commis en bande organisée. </p>
+<p>Les articles mentionnés au premier alinéa du présent article sont également applicables à l'enquête, à la poursuite, à l'instruction et au jugement du blanchiment des délits mentionnés aux 1° à 3°.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance n° 58-1296 du 23 décembre 1958</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736730" naturetexte="LOI" nortexte="JUSX2430702L" num="55" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 55 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000006312980" naturetexte="CODE" nortexte="" num="1741" numtexte="" sens="source" typelien="CITATION">Code général des impôts, CGI. - art. 1741</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000006315989" naturetexte="CODE" nortexte="" num="L228" numtexte="" sens="source" typelien="CITATION">Livre des procédures fiscales - art. L228</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418530" naturetexte="CODE" nortexte="" num="432-15" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 432-15</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577821" naturetexte="CODE" nortexte="" num="706-105" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-105</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577793" naturetexte="CODE" nortexte="" num="706-80" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-80</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577810" naturetexte="CODE" nortexte="" num="706-95" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-95</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615940" naturetexte="CODE" nortexte="" num="414" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 414</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000039112532" naturetexte="CODE" nortexte="" num="414-2" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 414-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615945" naturetexte="CODE" nortexte="" num="415" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 415</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006654278" naturetexte="CODE" nortexte="" num="L465-1" numtexte="" sens="source" typelien="CITATION">Code monétaire et financier - art. L465-1</LIEN>
+</LIENS>
+</ARTICLE>

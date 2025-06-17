@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000020196814</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/20/19/68/LEGIARTI000020196814.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L562-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2009-02-01</DATE_DEBUT>
+<DATE_FIN>2012-12-23</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006123943">Livre V : Les prestataires de services</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-03-07" fin="2017-12-30" id="LEGISCTA000006140135">Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes et les loteries, jeux et paris prohibés</TITRE_TM>
+<TITRE_TM debut="2017-12-30" fin="2999-01-01" id="LEGISCTA000036365190">Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes, les loteries, jeux et paris prohibés et l'évasion et la fraude fiscales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-03-07" fin="2009-02-01" id="LEGISCTA000006154831">Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.</TITRE_TM>
+<TITRE_TM debut="2009-02-01" fin="2017-07-01" id="LEGISCTA000020196819">Chapitre II : Obligations relatives au gel des avoirs</TITRE_TM>
+<TITRE_TM debut="2017-07-01" fin="2999-01-01" id="LEGISCTA000033476000">Chapitre II : Dispositions relatives au gel des avoirs et à l'interdiction de mise à disposition</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-02-01" fin="2017-07-01" id="LEGISCTA000020196817">Section 1 :  Gel des avoirs dans le cadre de la lutte contre le financement du terrorisme</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2001-05-16" id="LEGIARTI000006658385" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-05-16" etat="MODIFIE" fin="2003-08-02" id="LEGIARTI000006658386" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-08-02" etat="MODIFIE" fin="2004-02-12" id="LEGIARTI000006658387" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-02-12" etat="MODIFIE" fin="2004-06-26" id="LEGIARTI000006658388" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-08-11" etat="MODIFIE" fin="2004-10-01" id="LEGIARTI000006658389" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-05-07" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006658390" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658391" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2007-11-01" id="LEGIARTI000006658392" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-11-01" etat="MODIFIE" fin="2009-02-01" id="LEGIARTI000006658393" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-02-01" etat="MODIFIE" fin="2012-12-23" id="LEGIARTI000020196814" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-12-23" etat="MODIFIE" fin="2015-03-01" id="LEGIARTI000026829101" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-03-01" etat="MODIFIE" fin="2017-07-01" id="LEGIARTI000029759812" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-07-01" etat="MODIFIE" fin="2024-07-27" id="LEGIARTI000033475993" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-07-27" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000050053961" num="L562-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740660" num="L562-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Sans préjudice des mesures restrictives spécifiques prises en application de règlements du Conseil de l'Union européenne et des mesures prononcées par l'autorité judiciaire, le ministre chargé de l'économie peut décider le gel, pour une durée de six mois, renouvelable, de tout ou partie des fonds, instruments financiers et ressources économiques détenus auprès des organismes et personnes mentionnés à l'article L. 562-3 qui appartiennent à des personnes physiques ou morales qui commettent, ou tentent de commettre, des actes de terrorisme, définis comme il est dit au 4 de l'article 1er du règlement (CE) n° 2580 / 2001 du Conseil, du 27 décembre 2001, concernant l'adoption de mesures restrictives spécifiques à l'encontre de certaines personnes et entités dans le cadre de la lutte contre le terrorisme, les facilitent ou y participent et à des personnes morales détenues par ces personnes physiques ou contrôlées, directement ou indirectement, par elles au sens des 5 et 6 de l'article 1er du règlement (CE) n° 2580 / 2001 du Conseil, du 27 décembre 2001, précité. Les fruits produits par les fonds, instruments et ressources précités sont également gelés.</p>
+<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000350808" datesignatexte="1990-07-12" id="JORFTEXT000000350808" naturetexte="LOI" nortexte="ECOX9000077L" num="" numtexte="90-614" sens="source" typelien="CONCORDANCE">Loi 90-614 1990-07-12 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000350808" datesignatexte="1990-07-12" id="LEGIARTI000006695414" naturetexte="LOI" nortexte="ECOX9000077L" num="1" numtexte="90-614" sens="cible" typelien="CONCORDE">Loi n°90-614 du 12 juillet 1990 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000574489" datesignatexte="2000-12-14" id="LEGITEXT000005630278" naturetexte="ORDONNANCE" nortexte="ECOX0000098R" num="" numtexte="2000-1223" sens="source" typelien="CODIFICATION">Ordonnance n° 2000-1223 du 14 décembre 2000 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000608544" datesignatexte="2003-12-15" id="LEGIARTI000006226262" naturetexte="DECRET" nortexte="ECOT0337070D" num="1" numtexte="2003-1195" sens="cible" typelien="CITATION">Décret n°2003-1195 du 15 décembre 2003 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000627859" datesignatexte="2004-08-19" id="LEGIARTI000006530999" naturetexte="ORDONNANCE" nortexte="ECOX0400157R" num="12" numtexte="2004-823" sens="cible" typelien="CITATION">Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000606599" datesignatexte="2004-11-12" id="LEGIARTI000025894143" naturetexte="ARRETE" nortexte="ECOT0420062A" num="315-53" numtexte="" sens="cible" typelien="CITATION">Arrêté du 12 novembre 2004 - art. 315-53 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000606599" datesignatexte="2004-11-12" id="LEGIARTI000025894159" naturetexte="ARRETE" nortexte="ECOT0420062A" num="315-54" numtexte="" sens="cible" typelien="CITATION">Arrêté du 12 novembre 2004 - art. 315-54 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000606599" datesignatexte="2004-11-12" id="LEGIARTI000036894957" naturetexte="ARRETE" nortexte="ECOT0420062A" num="321-34" numtexte="" sens="cible" typelien="CITATION">Arrêté du 12 novembre 2004 - art. 321-34 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000606599" datesignatexte="2004-11-12" id="LEGIARTI000046130001" naturetexte="ARRETE" nortexte="ECOT0420062A" num="321-35" numtexte="" sens="cible" typelien="CITATION">Arrêté du 12 novembre 2004 - art. 321-35 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000456027" datesignatexte="2006-01-19" id="LEGIARTI000006532205" naturetexte="ORDONNANCE" nortexte="ECOX0500165R" num="6" numtexte="2006-60" sens="cible" typelien="CITATION">Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000456027" datesignatexte="2006-01-19" id="LEGIARTI000006532250" naturetexte="ORDONNANCE" nortexte="ECOX0500165R" num="7" numtexte="2006-60" sens="cible" typelien="CITATION">Ordonnance n°2006-60 du 19 janvier 2006 - art. 7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000429028" datesignatexte="2007-10-18" id="LEGIARTI000006719099" naturetexte="ORDONNANCE" nortexte="ECET0761449R" num="9" numtexte="2007-1490" sens="cible" typelien="CITATION">Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000020176088" datesignatexte="2009-01-30" id="LEGIARTI000020178286" naturetexte="ORDONNANCE" nortexte="ECET0828284R" num="3" numtexte="2009-104" sens="cible" typelien="MODIFIE">Ordonnance n°2009-104
+ du 30 janvier 2009 - art. 3</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000021122648" datesignatexte="2009-10-07" id="LEGITEXT000021123145" naturetexte="ARRETE" nortexte="ECET0829584A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 7 octobre 2009 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000021122655" datesignatexte="2009-10-07" id="LEGITEXT000021123157" naturetexte="ARRETE" nortexte="ECET0920891A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 7 octobre 2009 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000022198339" datesignatexte="2010-04-27" id="LEGITEXT000022204099" naturetexte="ARRETE" nortexte="ECET1001574A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 27 avril 2010 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000023240180" datesignatexte="2010-12-14" id="LEGITEXT000023244741" naturetexte="ARRETE" nortexte="EFIT1026403A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 14 décembre 2010 (P)</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000030263092" datesignatexte="2015-02-20" id="LEGITEXT000030263468" naturetexte="DECRET" nortexte="FCPT1427098D" num="" numtexte="2015-198" sens="cible" typelien="CITATION">DÉCRET n°2015-198 du 20 février 2015 (V)</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000042946753" naturetexte="CODE" nortexte="" num="R312-8" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. R312-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006641872" naturetexte="CODE" nortexte="" num="D562-12" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. D562-12 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006641892" naturetexte="CODE" nortexte="" num="D562-14" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. D562-14 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658372" naturetexte="CODE" nortexte="" num="L561-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L561-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000020196775" naturetexte="CODE" nortexte="" num="L562-10" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658407" naturetexte="CODE" nortexte="" num="L562-2" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000019299640" naturetexte="CODE" nortexte="" num="L562-2-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-2-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658435" naturetexte="CODE" nortexte="" num="L562-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000042498840" naturetexte="CODE" nortexte="" num="L562-5" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-5 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658478" naturetexte="CODE" nortexte="" num="L562-6" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000020196787" naturetexte="CODE" nortexte="" num="L562-7" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658504" naturetexte="CODE" nortexte="" num="L562-8" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000033475946" naturetexte="CODE" nortexte="" num="L562-9" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-9 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000027643864" naturetexte="CODE" nortexte="" num="L563-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L563-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658589" naturetexte="CODE" nortexte="" num="L563-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L563-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658603" naturetexte="CODE" nortexte="" num="L563-4" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L563-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658615" naturetexte="CODE" nortexte="" num="L563-6" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L563-6 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658635" naturetexte="CODE" nortexte="" num="L564-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L564-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658646" naturetexte="CODE" nortexte="" num="L564-2" numtexte="" sens="cible" typelien="CONCORDE">Code monétaire et financier - art. L564-2 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658660" naturetexte="CODE" nortexte="" num="L564-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L564-3 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658745" naturetexte="CODE" nortexte="" num="L565-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L565-3 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000019300544" naturetexte="CODE" nortexte="" num="L566-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L566-3 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006659268" naturetexte="CODE" nortexte="" num="L574-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L574-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000020860479" naturetexte="CODE" nortexte="" num="L725-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L725-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006663614" naturetexte="CODE" nortexte="" num="L735-13" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L735-13 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000021657761" naturetexte="CODE" nortexte="" num="L735-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L735-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000044570494" naturetexte="CODE" nortexte="" num="L745-13" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L745-13 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006666332" naturetexte="CODE" nortexte="" num="L755-13" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L755-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000022317826" naturetexte="CODE" nortexte="" num="L765-13" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L765-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045236487" naturetexte="CODE" nortexte="" num="L773-43" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L773-43 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045236705" naturetexte="CODE" nortexte="" num="L774-43" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L774-43 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000050054148" naturetexte="CODE" nortexte="" num="L775-37" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L775-37 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006686402" naturetexte="CODE" nortexte="" num="R562-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R562-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000030265148" naturetexte="CODE" nortexte="" num="R562-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R562-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006686423" naturetexte="CODE" nortexte="" num="R562-2" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R562-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006686842" naturetexte="CODE" nortexte="" num="R563-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R563-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006686863" naturetexte="CODE" nortexte="" num="R563-2" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R563-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006686876" naturetexte="CODE" nortexte="" num="R563-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R563-3 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006686897" naturetexte="CODE" nortexte="" num="R563-4" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R563-4 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006686919" naturetexte="CODE" nortexte="" num="R564-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R564-1 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000020871451" naturetexte="CODE" nortexte="" num="R565-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R565-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000022517594" naturetexte="CODE" nortexte="" num="L135 T" numtexte="" sens="cible" typelien="CITATION">Livre des procédures fiscales - art. L135 T (M)</LIEN>
+</LIENS>
+</ARTICLE>

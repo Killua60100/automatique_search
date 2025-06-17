@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165366</ID>
+<TITRE_TA>Section 1 : De la corruption active et du trafic d'influence commis par les particuliers</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2007-11-14" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006418540" num="433-1" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000024041418" num="433-1" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="MODIFIE" fin="2019-09-20" id="LEGIARTI000028311938" num="433-1" origine="LEGI"/>
+<LIEN_ART debut="2019-09-20" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000039113360" num="433-1" origine="LEGI"/>
+<LIEN_ART debut="2020-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042780049" num="433-1" origine="LEGI"/>
+<LIEN_ART debut="2000-07-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418538" num="433-1" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2007-11-14" id="LEGIARTI000006418539" num="433-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2000-07-01" id="LEGIARTI000006418537" num="433-1" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2007-11-14" id="LEGIARTI000006418542" num="433-2" origine="LEGI"/>
+<LIEN_ART debut="2007-11-14" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006418543" num="433-2" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000024041415" num="433-2" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028311912" num="433-2" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418541" num="433-2" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028282720" num="433-2-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006136046">Titre III : Des atteintes à l'autorité de l'Etat</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149849">Chapitre III : Des atteintes à l'administration publique commises par les particuliers</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000018524024</ID>
+<TITRE_TA>Section 1 : Organisation de l'apprentissage</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497324" debut="2008-05-01" etat="MODIFIE" fin="2020-04-01" id="LEGISCTA000018524022" niv="7" url="/LEGI/SCTA/00/00/18/52/40/LEGISCTA000018524022.xml">Sous-section 1 : Déclaration de l'employeur</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497324" debut="2020-04-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000041771449" niv="7" url="/LEGI/SCTA/00/00/41/77/14/LEGISCTA000041771449.xml">Sous-section 1 : Obligations envers l'administration</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497336" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018524010" niv="7" url="/LEGI/SCTA/00/00/18/52/40/LEGISCTA000018524010.xml">Sous-section 2 : Nombre maximal d'apprentis</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497344" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018524002" niv="7" url="/LEGI/SCTA/00/00/18/52/40/LEGISCTA000018524002.xml">Sous-section 3 : Obligations envers les représentants de l'apprenti</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497348" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018523998" niv="7" url="/LEGI/SCTA/00/00/18/52/39/LEGISCTA000018523998.xml">Sous-section 4 : Conventionnement avec une entreprise d'accueil</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497364" debut="2008-05-01" etat="ABROGE" fin="2019-10-27" id="LEGISCTA000018523982" niv="7" url="/LEGI/SCTA/00/00/18/52/39/LEGISCTA000018523982.xml">Sous-section 5 : Conventionnement avec une entreprise d'un autre Etat membre  de la Communauté européenne</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018464861">Partie réglementaire  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524328">Sixième partie : La formation professionnelle tout au long de la vie </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524215">Livre II : L'apprentissage </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524191">Titre II : Contrat d'apprentissage</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524026">Chapitre III : Obligations de l'employeur</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

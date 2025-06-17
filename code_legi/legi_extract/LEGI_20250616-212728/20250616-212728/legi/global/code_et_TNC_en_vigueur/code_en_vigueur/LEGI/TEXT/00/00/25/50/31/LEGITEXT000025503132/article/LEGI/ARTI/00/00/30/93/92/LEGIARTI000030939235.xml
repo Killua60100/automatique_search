@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000030939235</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/30/93/92/LEGIARTI000030939235.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L851-5</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2015-10-03</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030934655">LIVRE VIII : DU RENSEIGNEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935574">TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935579">Chapitre Ier :  Des accès administratifs aux données de connexion</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2015-10-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000030939235" num="L851-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Dans les conditions prévues au chapitre Ier du titre II du présent livre, peut être autorisée l'utilisation d'un dispositif technique permettant la localisation en temps réel d'une personne, d'un véhicule ou d'un objet. </p>
+<p>Si la mise en œuvre de cette technique nécessite l'introduction dans un véhicule ou dans un lieu privé, cette mesure s'effectue selon les modalités définies à l'article L. 853-3.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000030931899" datesignatexte="2015-07-24" id="LEGIARTI000030933632" naturetexte="LOI" nortexte="PRMX1504410L" num="5" numtexte="2015-912" sens="cible" typelien="CREE">LOI n°2015-912 du 24 juillet 2015 - art. 5</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051740998" naturetexte="CODE" nortexte="" num="L853-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L853-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000038313985" naturetexte="CODE" nortexte="" num="L855-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L855-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051282249" naturetexte="CODE" nortexte="" num="R851-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R851-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051282260" naturetexte="CODE" nortexte="" num="R853-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R853-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

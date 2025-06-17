@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417730</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X222L39AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/77/LEGIARTI000006417730.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>222-39</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1994-03-01</DATE_DEBUT>
+<DATE_FIN>2002-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2023-04-01" id="LEGISCTA000006165284">Section 4 : Du trafic de stupéfiants</TITRE_TM>
+<TITRE_TM debut="2023-04-01" fin="2999-01-01" id="LEGISCTA000047052744">Section 7 : Du trafic de stupéfiants</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1992-07-23" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006417729" num="222-39" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417730" num="222-39" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006417731" num="222-39" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2007-03-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417732" num="222-39" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La cession ou l'offre illicites de stupéfiants à une personne en vue de sa consommation personnelle sont punies de cinq ans d'emprisonnement et de 500 000 F d'amende.<br/>
+<br/>   La peine d'emprisonnement est portée à dix ans lorsque les stupéfiants sont offerts ou cédés, dans les conditions définies à l'alinéa précédent, à des mineurs ou dans des centres d'enseignement ou d'éducation ou dans les locaux de l'administration.<br/>
+<br/>   Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables à l'infraction prévue par l'alinéa précédent.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000699737" datesignatexte="1945-11-02" id="LEGIARTI000006336328" naturetexte="ORDONNANCE" nortexte="" num="12" numtexte="45-2658" sens="cible" typelien="CITATION">Ordonnance n°45-2658 du 2 novembre 1945 - art. 12 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="CODIFICATION">Loi 92-684 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="SPEC_APPLI">Loi 92-684 1992-07-22 art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="JORFTEXT000000177662" naturetexte="LOI" nortexte="JUSX9200040L" num="" numtexte="92-1336" sens="source" typelien="SPEC_APPLI">Loi 92-1336 1992-12-16 art. 373</LIEN>
+<LIEN cidtexte="JORFTEXT000000177662" datesignatexte="1992-12-16" id="LEGIARTI000006491896" naturetexte="LOI" nortexte="JUSX9200040L" num="354" numtexte="92-1336" sens="source" typelien="MODIFICATION">Loi n°92-1336 du 16 décembre 1992 - art. 354 () JORF 23 décembre 1992 en vigueur le 1er mars 1994</LIEN>
+<LIEN cidtexte="JORFTEXT000000764403" datesignatexte="2000-04-26" id="LEGIARTI000006336619" naturetexte="ORDONNANCE" nortexte="INTX0000046R" num="15" numtexte="2000-371" sens="cible" typelien="CITATION">Ordonnance n° 2000-371 du 26 avril 2000 - art. 15 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000400039" datesignatexte="2000-04-26" id="LEGIARTI000006336928" naturetexte="ORDONNANCE" nortexte="INTX0000048R" num="15" numtexte="2000-373" sens="cible" typelien="CITATION">Ordonnance n° 2000-373 du 26 avril 2000 - art. 15 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000582390" datesignatexte="2000-04-26" id="LEGIARTI000006336775" naturetexte="ORDONNANCE" nortexte="INTX0000047R" num="16" numtexte="2000-372" sens="cible" typelien="CITATION">Ordonnance n°2000-372 du 26 avril 2000 - art. 16 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771533" datesignatexte="2002-03-20" id="LEGIARTI000006337084" naturetexte="ORDONNANCE" nortexte="INTX0200012R" num="16" numtexte="2002-388" sens="cible" typelien="CITATION">Ordonnance n° 2002-388 du 20 mars 2002 - art. 16 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000051742330" naturetexte="LOI" nortexte="ECOX0200175L" num="6-2" numtexte="2004-575" sens="cible" typelien="CITATION">Loi n° 2004-575 du 21 juin 2004 - art. 6-2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026278402" datesignatexte="2012-07-11" id="LEGIARTI000026279464" naturetexte="ARRETE" nortexte="INTC1221461A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 11 juillet 2012 - art. 2 (V)</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000006335062" naturetexte="CODE" nortexte="" num="L313-5" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000028701620" naturetexte="CODE" nortexte="" num="R311-15" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742666" naturetexte="CODE" nortexte="" num="706-32" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-32 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032403162" naturetexte="CODE" nortexte="" num="706-47-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-47-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23 (M)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006490179</ID>
+<ANCIEN_ID>ACHDPXXXXXX020AAXXXXXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/49/01/LEGIARTI000006490179.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1999-12-24</DATE_DEBUT>
+<DATE_FIN>2006-02-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000511476" date_publi="1971-12-03" date_signature="1971-11-26" ministere="" nature="DECRET" nor="" num="71-941" num_parution_jo="">
+<TITRE_TXT c_titre_court="Décret n° 71-941 du 26 novembre 1971" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000511476">Décret n° 71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°71-941 du 26 novembre 1971" debut="1971-12-03" fin="2999-01-01" id_txt="LEGITEXT000006061875">Décret n°71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1971-12-03" etat="MODIFIE" fin="1999-12-24" id="LEGIARTI000006490178" num="20" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1999-12-24" etat="MODIFIE" fin="2006-02-01" id="LEGIARTI000006490179" num="20" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-02-01" etat="MODIFIE" fin="2020-11-22" id="LEGIARTI000006490180" num="20" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-11-22" etat="MODIFIE" fin="2022-02-27" id="LEGIARTI000042548580" num="20" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE_DIFF">
+<LIEN_ART debut="2022-02-27" etat="ABROGE_DIFF" fin="2025-10-01" id="LEGIARTI000045268481" num="20" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741591" num="20" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Chaque notaire est tenu d'avoir un sceau particulier, portant ses nom, qualité et établissement et, d'après un modèle uniforme, l'effigie de la République française.<br/>
+<br/>   Le sceau est apposé sur les actes délivrés en brevet ainsi que sur les copies exécutoires et expéditions.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000511476" datesignatexte="1971-11-26" id="LEGIARTI000006490226" naturetexte="DECRET" nortexte="" num="25" numtexte="71-941" sens="source" typelien="SPEC_APPLI">Décret n°71-941 du 26 novembre 1971 - art. 25 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000511476" datesignatexte="1971-11-26" id="LEGIARTI000006490235" naturetexte="DECRET" nortexte="" num="26" numtexte="71-941" sens="source" typelien="SPEC_APPLI">Décret n°71-941 du 26 novembre 1971 - art. 26 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000875725" datesignatexte="1973-12-28" id="LEGIARTI000032586768" naturetexte="DECRET" nortexte="" num="23" numtexte="73-1202" sens="cible" typelien="CITATION">Décret n°73-1202 du 28 décembre 1973 - art. 23 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000213881" datesignatexte="1999-12-15" id="JORFTEXT000000213881" naturetexte="DECRET" nortexte="JUSC9920672D" num="" numtexte="99-1088" sens="source" typelien="SPEC_APPLI">Décret 99-1088 1999-12-15 art. 8 *champ d'application territoriale*</LIEN>
+<LIEN cidtexte="JORFTEXT000000213881" datesignatexte="1999-12-15" id="LEGIARTI000006599600" naturetexte="DECRET" nortexte="JUSC9920672D" num="6" numtexte="99-1088" sens="source" typelien="MODIFICATION">Décret n°99-1088 du 15 décembre 1999 - art. 6 () JORF 24 décembre 1999</LIEN>
+<LIEN cidtexte="JORFTEXT000032576285" datesignatexte="2016-05-20" id="LEGIARTI000032578912" naturetexte="DECRET" nortexte="JUSC1600230D" num="13" numtexte="2016-661" sens="cible" typelien="CITATION">Décret n°2016-661 du 20 mai 2016 - art. 13 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000041781728" datesignatexte="2020-04-03" id="LEGIARTI000041783179" naturetexte="DECRET" nortexte="JUSC2008409D" num="1" numtexte="2020-395" sens="cible" typelien="CITATION">Décret n°2020-395 du 3 avril 2020 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045243542" datesignatexte="2022-02-25" id="LEGITEXT000045245955" naturetexte="DECRET" nortexte="JUSC2135628D" num="" numtexte="2022-245" sens="cible" typelien="CITATION">Décret n°2022-245 du 25 février 2022 (V)</LIEN>
+</LIENS>
+</ARTICLE>

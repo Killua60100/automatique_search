@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000027433908</ID>
+<TITRE_TA>Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006134753" debut="1964-10-28" etat="MODIFIE" fin="2014-03-23" id="LEGISCTA000006134753" niv="3" url="/LEGI/SCTA/00/00/06/13/47/LEGISCTA000006134753.xml">Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006134753" debut="2014-03-23" etat="MODIFIE" fin="2020-03-01" id="LEGISCTA000027433906" niv="3" url="/LEGI/SCTA/00/00/27/43/39/LEGISCTA000027433906.xml">Titre Ier : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006134753" debut="2020-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000029930683" niv="3" url="/LEGI/SCTA/00/00/29/93/06/LEGISCTA000029930683.xml">Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006134754" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006134754" niv="3" url="/LEGI/SCTA/00/00/06/13/47/LEGISCTA000006134754.xml">Titre II : Dispositions spéciales à l'élection des députés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006134755" debut="1964-10-28" etat="MODIFIE" fin="2015-03-22" id="LEGISCTA000006134755" niv="3" url="/LEGI/SCTA/00/00/06/13/47/LEGISCTA000006134755.xml">Titre III : Dispositions spéciales à l'élection des conseillers généraux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006134755" debut="2015-03-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027573172" niv="3" url="/LEGI/SCTA/00/00/27/57/31/LEGISCTA000027573172.xml">Titre III : Dispositions spéciales à l'élection des conseillers départementaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000029928447" debut="2020-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000029930682" niv="3" url="/LEGI/SCTA/00/00/29/93/06/LEGISCTA000029930682.xml">Titre III bis : Dispositions spéciales à l'élection des conseillers métropolitains de Lyon  </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006134756" debut="1964-10-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006134756" niv="3" url="/LEGI/SCTA/00/00/06/13/47/LEGISCTA000006134756.xml">Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000027432234" debut="2014-03-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027457360" niv="3" url="/LEGI/SCTA/00/00/27/45/73/LEGISCTA000027457360.xml">Titre V : Dispositions spéciales à l'élection des conseillers communautaires
+ 
+  
+</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070239" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code électoral" debut="1964-10-28" fin="2999-01-01" id_txt="LEGITEXT000006070239">Code électoral</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1964-10-28" fin="2999-01-01" id="LEGISCTA000006085760">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

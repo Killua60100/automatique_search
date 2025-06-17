@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000023782501</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/23/78/25/LEGITEXT000023782501.xml</URL>
+<NATURE>ORDONNANCE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000023781468</CID>
+<NUM>2011-337</NUM>
+<NUM_PARUTION>0075</NUM_PARUTION>
+<NUM_SEQUENCE>12</NUM_SEQUENCE>
+<NOR>JUSB1105063R</NOR>
+<DATE_PUBLI>2011-03-30</DATE_PUBLI>
+<DATE_TEXTE>2011-03-29</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2020-06-19</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI>5514</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>5517</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Ordonnance n° 2011-337</TITRE>
+<TITREFULL>Ordonnance n° 2011-337 du 29 mars 2011 modifiant l'organisation judiciaire dans le Département de Mayotte</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2011-04-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000517521" datesignatexte="1945-02-02" id="JORFTEXT000000517521" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="45-174" sens="source" typelien="CITATION">Ordonnance n°45-174 du 2 février 1945 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000888628" datesignatexte="1952-12-15" id="JORFTEXT000000888628" naturetexte="LOI" nortexte="" num="" numtexte="52-1322" sens="source" typelien="CITATION">Loi n°52-1322 du 15 décembre 1952 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000170065" datesignatexte="2999-01-01" id="JORFTEXT000000170065" naturetexte="ORDONNANCE" nortexte="DOMX9000153R" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance n°91-246 du 25 février 1991 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000346853" datesignatexte="1992-10-12" id="JORFTEXT000000346853" naturetexte="ORDONNANCE" nortexte="DOMX9200156R" num="" numtexte="92-1143" sens="source" typelien="CITATION">Ordonnance n°92-1143 du 12 octobre 1992 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000368749" datesignatexte="1996-12-20" id="JORFTEXT000000368749" naturetexte="ORDONNANCE" nortexte="DOMX9600135R" num="" numtexte="96-1122" sens="source" typelien="CITATION">Ordonnance n°96-1122 du 20 décembre 1996 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000400039" datesignatexte="2000-04-26" id="JORFTEXT000000400039" naturetexte="ORDONNANCE" nortexte="INTX0000048R" num="" numtexte="2000-373" sens="source" typelien="CITATION">Ordonnance n°2000-373 du 26 avril 2000 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000023174540" datesignatexte="2010-12-07" id="JORFTEXT000023174540" naturetexte="LOI_ORGANIQUE" nortexte="IOCX1014246L" num="" numtexte="2010-1486" sens="source" typelien="CITATION">LOI organique n°2010-1486  du 7 décembre 2010 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000023174577" datesignatexte="2010-12-07" id="JORFTEXT000023174577" naturetexte="LOI" nortexte="IOCX1014249L" num="" numtexte="2010-1487" sens="source" typelien="CITATION">LOI n°2010-1487  du 7 décembre 2010 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000023273986" datesignatexte="2010-12-22" id="JORFTEXT000023273986" naturetexte="LOI" nortexte="JUSX0903630L" num="" numtexte="2010-1609" sens="source" typelien="CITATION">LOI n°2010-1609  du 22 décembre 2010 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024403725" datesignatexte="2011-07-27" id="LEGIARTI000024404948" naturetexte="LOI" nortexte="IOCX1031679L" num="15" numtexte="2011-884" sens="source" typelien="RATIFICATION">LOI n°2011-884&#13;
+ du 27 juillet 2011 - art. 15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGITEXT000005634379" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de commerce (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGITEXT000006070633" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGITEXT000006070719" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code pénal (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070721" datesignatexte="2999-01-01" id="LEGITEXT000006070721" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code civil (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000006449523" naturetexte="CODE" nortexte="" num="R123-20" numtexte="" sens="source" typelien="CITATION">Code de justice administrative - art. R123-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGITEXT000006071154" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGITEXT000006072050" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGITEXT000006073189" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">code de l'organisation judiciaire</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">code du travail applicable dans la collectivité départementale de Mayotte</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">code rural</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/> Le Président de la République,<br/> Sur le rapport du Premier ministre, du garde des sceaux, ministre de la justice et des libertés, et du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration,<br/> Vu la Constitution, notamment ses articles 38 et 73 ;<br/> Vu la loi organique n° 2010-1486 du 7 décembre 2010 relative au Département de Mayotte ;<br/> Vu le code général des collectivités territoriales, notamment son article LO 3446-1 ;<br/> Vu le code civil ;<br/> Vu le code de commerce ;<br/> Vu le code de l'organisation judiciaire ;<br/> Vu le code pénal ;<br/> Vu le code de procédure pénale ;<br/> Vu le code rural et de la pêche maritime ;<br/> Vu le code de la sécurité sociale ;<br/> Vu la loi n° 52-1322 du 15 décembre 1952 modifiée instituant un code du travail dans les territoires et territoires associés relevant du ministère de la France d'outre-mer ;<br/> Vu la loi n° 2010-1487 du 7 décembre 2010 relatif au Département de Mayotte, notamment son article 30 ;<br/> Vu la loi n° 2010-1609 du 22 décembre 2010 relative à l'exécution des décisions de justice, aux conditions d'exercice de certaines professions réglementées et aux experts judiciaires, notamment son article 11 ;<br/> Vu l'ordonnance n° 45-174 du 2 février 1945 modifiée relative à l'enfance délinquante ;<br/> Vu l'ordonnance n° 91-246 du 25 février 1991 modifiée relative au code du travail applicable dans la collectivité départementale de Mayotte ;<br/> Vu l'ordonnance n° 92-1143 du 12 octobre 1992 modifiée relative à l'aide juridictionnelle à Mayotte ;<br/> Vu l'ordonnance n° 96-1122 du 20 décembre 1996 modifiée relative à l'amélioration de la santé publique à Mayotte ;<br/> Vu l'ordonnance n° 2000-373 du 26 avril 2000 modifiée relative aux conditions d'entrée et de séjour des étrangers à Mayotte ;<br/> Vu l'avis du comité technique paritaire des services judiciaires en date du 4 mars 2011 ;<br/> Vu la saisine du conseil général de Mayotte en date du 7 mars 2011 ;<br/> Vu la saisine du conseil régional de La Réunion en date du 9 mars 2011 ;<br/> Vu la saisine du conseil général de La Réunion en date du 9 mars 2001 ;<br/> Vu l'article R. 123-20 du code de justice administrative ;<br/> Le Conseil d'Etat (section de l'intérieur) entendu ;<br/> Le conseil des ministres entendu,<br/> Ordonne :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p> Fait le 29 mars 2011.</p>
+</div>
+<div align="center">
+<p>Nicolas Sarkozy  </p>
+</div>
+<div align="left">
+<p>   Par le Président de la République :</p>
+</div>
+<div align="center">
+<p>Le Premier ministre,</p>
+<p>François Fillon</p>
+<p>Le garde des sceaux,</p>
+<p>ministre de la justice et des libertés,</p>
+<p>Michel Mercier</p>
+<p>Le ministre de l'intérieur,</p>
+<p>de l'outre-mer, des collectivités territoriales</p>
+<p>et de l'immigration,</p>
+<p>Claude Guéant</p>
+<p>La ministre de l'économie,</p>
+<p>des finances et de l'industrie,</p>
+<p>Christine Lagarde</p>
+<p>Le ministre du travail,</p>
+<p>de l'emploi et de la santé,</p>
+<p>Xavier Bertrand</p>
+<p>Le ministre de l'agriculture, de l'alimentation,</p>
+<p>de la pêche, de la ruralité</p>
+<p>et de l'aménagement du territoire,</p>
+<p>Bruno Le Maire</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU>
+<p>La loi n° 2011-884 du 27 juillet 2011 dans son article 15 V a ratifié l'ordonnance n° 2011-334 du 29 mars 2011 modifiant l'organisation judiciaire dans le Département de Mayotte.</p>
+</CONTENU>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

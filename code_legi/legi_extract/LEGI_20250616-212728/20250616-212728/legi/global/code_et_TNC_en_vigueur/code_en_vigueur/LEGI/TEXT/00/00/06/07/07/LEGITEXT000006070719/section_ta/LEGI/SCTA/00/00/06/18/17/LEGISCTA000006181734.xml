@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006181734</ID>
+<TITRE_TA>Sous-section 1 : Des peines criminelles et correctionnelles</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006417331" num="131-37" origine="LEGI"/>
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2016-12-11" id="LEGIARTI000006417332" num="131-37" origine="LEGI"/>
+<LIEN_ART debut="2016-12-11" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033611379" num="131-37" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006417333" num="131-38" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417334" num="131-38" origine="LEGI"/>
+<LIEN_ART debut="2004-06-22" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006417337" num="131-39" origine="LEGI"/>
+<LIEN_ART debut="2001-06-13" etat="MODIFIE" fin="2004-06-22" id="LEGIARTI000006417336" num="131-39" origine="LEGI"/>
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2009-04-01" id="LEGIARTI000006417338" num="131-39" origine="LEGI"/>
+<LIEN_ART debut="2009-04-01" etat="MODIFIE" fin="2010-07-11" id="LEGIARTI000020148562" num="131-39" origine="LEGI"/>
+<LIEN_ART debut="2010-07-11" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000022470176" num="131-39" origine="LEGI"/>
+<LIEN_ART debut="2014-07-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000029236660" num="131-39" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE_MORT_NE" fin="1992-08-01" id="LEGIARTI000006417335" num="131-39" origine="LEGI"/>
+<LIEN_ART debut="2007-03-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417339" num="131-39-1" origine="LEGI"/>
+<LIEN_ART debut="2016-12-11" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000033563257" num="131-39-2" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048539764" num="131-39-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117596">Livre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136038">Titre III : Des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149819">Chapitre Ier : De la nature des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006165265">Section 2 : Des peines applicables aux personnes morales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

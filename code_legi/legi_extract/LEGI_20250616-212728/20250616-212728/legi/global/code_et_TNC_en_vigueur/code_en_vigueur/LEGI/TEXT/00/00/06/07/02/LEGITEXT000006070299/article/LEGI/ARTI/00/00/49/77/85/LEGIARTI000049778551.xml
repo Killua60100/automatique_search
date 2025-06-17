@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049778551</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/77/85/LEGIARTI000049778551.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L2222-9</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2024-06-26</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070299" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général de la propriété des personnes publiques." debut="2006-07-01" fin="2999-01-01" id_txt="LEGITEXT000006070299">Code général de la propriété des personnes publiques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2006-07-01" fin="2999-01-01" id="LEGISCTA000006086052">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-07-01" fin="2999-01-01" id="LEGISCTA000006115616">DEUXIÈME PARTIE : GESTION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-07-01" fin="2999-01-01" id="LEGISCTA000006134946">LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-07-01" fin="2999-01-01" id="LEGISCTA000006148773">TITRE II : UTILISATION DU DOMAINE PRIVÉ</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-07-01" fin="2999-01-01" id="LEGISCTA000006164236">Chapitre II : Dispositions particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-07-01" fin="2999-01-01" id="LEGISCTA000006180835">Section 1 : Location, mise à disposition et affectation</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-07-01" fin="2999-01-01" id="LEGISCTA000006192181">Sous-section 2 : Domaine mobilier.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-07-01" etat="MODIFIE" fin="2019-07-27" id="LEGIARTI000006361341" num="L2222-9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-07-27" etat="MODIFIE" fin="2020-12-31" id="LEGIARTI000038846023" num="L2222-9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-12-31" etat="MODIFIE" fin="2024-06-26" id="LEGIARTI000042915803" num="L2222-9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-06-26" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000049778551" num="L2222-9" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740511" num="L2222-9" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>Les biens mobiliers dont, à l'occasion d'une procédure pénale, la propriété a été transférée à l'Etat suite à une décision judiciaire définitive peuvent être affectés, à titre gratuit, dans les conditions déterminées par arrêté interministériel, aux services judiciaires ou à des services de police, des unités de gendarmerie, des services de l'administration pénitentiaire, des établissements publics placés sous la tutelle du ministère de la justice, des services de l'administration des douanes ou des services de l'Office français de la biodiversité lorsque ces services ou unités effectuent des missions de police judiciaire.</p>
+<p>Lorsque les mêmes biens n'ont pas été affectés à l'un des services mentionnés au premier alinéa, ils peuvent être affectés, à titre gratuit, à l'établissement public national à caractère administratif d'un parc national créé en application de l'article L. 331-2 du code de l'environnement, au syndicat mixte d'aménagement et de gestion d'un parc naturel régional mentionné à l'article L. 333-3 du même code, à des fondations ou à des associations reconnues d'utilité publique ou à des fédérations sportives délégataires définies à l'article L. 131-14 du code du sport.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000456141" datesignatexte="2006-04-21" id="JORFTEXT000000456141" naturetexte="ORDONNANCE" nortexte="ECOX0400219R" num="" numtexte="2006-460" sens="source" typelien="CODIFICATION">Ordonnance n° 2006-460 du 21 avril 2006</LIEN>
+<LIEN cidtexte="JORFTEXT000036684292" datesignatexte="2018-02-23" id="LEGITEXT000036686798" naturetexte="ARRETE" nortexte="CPAE1805945A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 23 février 2018 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000043339338" datesignatexte="2021-01-14" id="LEGIARTI000043341538" naturetexte="ARRETE" nortexte="TREL2029153A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 14 janvier 2021 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000049775573" datesignatexte="2024-06-24" id="LEGIARTI000049776328" naturetexte="LOI" nortexte="ECOX2331114L" num="1" numtexte="2024-582" sens="cible" typelien="CITATION">LOI n°2024-582 du 24 juin 2024 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000049775573" datesignatexte="2024-06-24" id="LEGIARTI000049776328" naturetexte="LOI" nortexte="ECOX2331114L" num="1" numtexte="2024-582" sens="cible" typelien="MODIFIE">LOI n°2024-582 du 24 juin 2024 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000050403254" datesignatexte="2024-10-28" id="LEGITEXT000050404027" naturetexte="ARRETE" nortexte="JUSB2422101A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 octobre 2024 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070208" datesignatexte="2999-01-01" id="LEGIARTI000006350429" naturetexte="CODE" nortexte="" num="L69-2" numtexte="" sens="source" typelien="CONCORDANCE">Code du domaine de l'Etat - art. L69-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740538" naturetexte="CODE" nortexte="" num="706-160" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-160 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070208" datesignatexte="2999-01-01" id="LEGIARTI000006350429" naturetexte="CODE" nortexte="" num="L69-2" numtexte="" sens="cible" typelien="CONCORDE">Code du domaine de l'Etat - art. L69-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070299" datesignatexte="2999-01-01" id="LEGIARTI000049779040" naturetexte="CODE" nortexte="" num="L5511-4" numtexte="" sens="cible" typelien="CITATION">Code général de la propriété des personnes publ... - art. L5511-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070299" datesignatexte="2999-01-01" id="LEGIARTI000033162939" naturetexte="CODE" nortexte="" num="L5532-1" numtexte="" sens="cible" typelien="CITATION">Code général de la propriété des personnes publ... - art. L5532-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070299" datesignatexte="2999-01-01" id="LEGIARTI000047585589" naturetexte="CODE" nortexte="" num="L5632-2" numtexte="" sens="cible" typelien="CITATION">Code général de la propriété des personnes publ... - art. L5632-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070299" datesignatexte="2999-01-01" id="LEGIARTI000049778919" naturetexte="CODE" nortexte="" num="L5711-2" numtexte="" sens="cible" typelien="CITATION">Code général de la propriété des personnes publ... - art. L5711-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070299" datesignatexte="2999-01-01" id="LEGIARTI000033163683" naturetexte="CODE" nortexte="" num="L5732-2" numtexte="" sens="cible" typelien="CITATION">Code général de la propriété des personnes publ... - art. L5732-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070299" datesignatexte="2999-01-01" id="LEGIARTI000037908208" naturetexte="CODE" nortexte="" num="R3211-35" numtexte="" sens="cible" typelien="CITATION">Code général de la propriété des personnes publ... - art. R3211-35 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000006547545" naturetexte="CODE" nortexte="" num="L131-14" numtexte="" sens="source" typelien="CITATION">Code du sport. - art. L131-14</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006833523" naturetexte="CODE" nortexte="" num="L331-2" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L331-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000006833642" naturetexte="CODE" nortexte="" num="L333-3" numtexte="" sens="source" typelien="CITATION">Code de l'environnement - art. L333-3</LIEN>
+</LIENS>
+</ARTICLE>

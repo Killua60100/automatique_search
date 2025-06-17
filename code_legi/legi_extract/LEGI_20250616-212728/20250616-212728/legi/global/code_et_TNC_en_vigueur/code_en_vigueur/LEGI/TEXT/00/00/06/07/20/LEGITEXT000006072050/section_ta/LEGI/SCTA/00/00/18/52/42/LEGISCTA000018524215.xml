@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000018524215</ID>
+<TITRE_TA>Livre II : L'apprentissage </TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497134" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018524213" niv="4" url="/LEGI/SCTA/00/00/18/52/42/LEGISCTA000018524213.xml">Titre Ier : Dispositions générales </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497156" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018524191" niv="4" url="/LEGI/SCTA/00/00/18/52/41/LEGISCTA000018524191.xml">Titre II : Contrat d'apprentissage</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497494" debut="2008-05-01" etat="MODIFIE" fin="2019-11-09" id="LEGISCTA000018523852" niv="4" url="/LEGI/SCTA/00/00/18/52/38/LEGISCTA000018523852.xml">Titre III : Centres de formation d'apprentis et sections d'apprentissage </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497494" debut="2019-11-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000039355520" niv="4" url="/LEGI/SCTA/00/00/39/35/55/LEGISCTA000039355520.xml">Titre III : Dispositions spécifiques applicables aux centres de formation d'apprentis</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497726" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018523618" niv="4" url="/LEGI/SCTA/00/00/18/52/36/LEGISCTA000018523618.xml">Titre IV : Financement de l'apprentissage </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497870" debut="2008-05-01" etat="MODIFIE" fin="2019-01-01" id="LEGISCTA000018523473" niv="4" url="/LEGI/SCTA/00/00/18/52/34/LEGISCTA000018523473.xml">Titre V : Inspection et contrôle de l'apprentissage </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497870" debut="2019-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037872716" niv="4" url="/LEGI/SCTA/00/00/37/87/27/LEGISCTA000037872716.xml">Titre V : Contrôle pédagogique des formations par apprentissage conduisant à un diplôme</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000018497950" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000018523392" niv="4" url="/LEGI/SCTA/00/00/18/52/33/LEGISCTA000018523392.xml">Titre VI : Dispositions particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000034063699" debut="2017-02-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000034063699" niv="4" url="/LEGI/SCTA/00/00/34/06/36/LEGISCTA000034063699.xml">Titre VII : Développement de l'apprentissage dans le secteur public non industriel et commercial </LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018464861">Partie réglementaire  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000018524328">Sixième partie : La formation professionnelle tout au long de la vie </TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

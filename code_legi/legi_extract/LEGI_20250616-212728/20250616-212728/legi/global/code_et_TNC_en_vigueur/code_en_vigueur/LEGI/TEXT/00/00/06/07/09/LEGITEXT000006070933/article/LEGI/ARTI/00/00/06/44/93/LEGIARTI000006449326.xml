@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006449326</ID>
+<ANCIEN_ID>PFAXXXXXXXX1X521L01AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/44/93/LEGIARTI000006449326.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L521-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2001-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070933" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de justice administrative" debut="2000-12-31" fin="2999-01-01" id_txt="LEGITEXT000006070933">Code de justice administrative</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-12-31" fin="2999-01-01" id="LEGISCTA000006091521">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006118213">Livre V : Le référé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006136456">Titre II : Le juge des référés statuant en urgence</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006150399">Chapitre Ier : Pouvoirs</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006449326" num="L521-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Quand une décision administrative, même de rejet, fait l'objet d'une requête en annulation ou en réformation, le juge des référés, saisi d'une demande en ce sens, peut ordonner la suspension de l'exécution de cette décision, ou de certains de ses effets, lorsque l'urgence le justifie et qu'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux quant à la légalité de la décision.</p>
+<p>Lorsque la suspension est prononcée, il est statué sur la requête en annulation ou en réformation de la décision dans les meilleurs délais. La suspension prend fin au plus tard lorsqu'il est statué sur la requête en annulation ou en réformation de la décision.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000217071" datesignatexte="2999-01-01" id="JORFTEXT000000217071" naturetexte="RAPPORT" nortexte="JUSX0000016P" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000</LIEN>
+<LIEN cidtexte="JORFTEXT000000204851" datesignatexte="2000-06-30" id="LEGIARTI000006493495" naturetexte="LOI" nortexte="JUSX9900017L" num="25" numtexte="2000-597" sens="source" typelien="SPEC_APPLI">Loi n°2000-597 du 30 juin 2000 - art. 25 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000204851" datesignatexte="2000-06-30" id="LEGIARTI000006493469" naturetexte="LOI" nortexte="JUSX9900017L" num="4" numtexte="2000-597" sens="source" typelien="CREATION">Loi n°2000-597 du 30 juin 2000 - art. 4 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001</LIEN>
+<LIEN cidtexte="JORFTEXT000000422094" datesignatexte="2003-07-02" id="JORFTEXT000000422094" naturetexte="LOI" nortexte="FPPX0300014L" num="" numtexte="2003-591" sens="source" typelien="CODIFICATION">Loi 2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000000609465" datesignatexte="2003-09-02" id="LEGIARTI000006223254" naturetexte="DECRET" nortexte="JUSC0320469D" num="8" numtexte="2003-841" sens="cible" typelien="CITATION">Décret n°2003-841 du 2 septembre 2003 - art. 8 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000049566396" naturetexte="LOI" nortexte="ECOX0200175L" num="10-1" numtexte="2004-575" sens="cible" typelien="CITATION">Loi n° 2004-575 du 21 juin 2004 - art. 10-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000049581638" naturetexte="LOI" nortexte="ECOX0200175L" num="6-1-5" numtexte="2004-575" sens="cible" typelien="CITATION">Loi n° 2004-575 du 21 juin 2004 - art. 6-1-5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000049569048" naturetexte="LOI" nortexte="ECOX0200175L" num="6-2-2" numtexte="2004-575" sens="cible" typelien="CITATION">Loi n° 2004-575 du 21 juin 2004 - art. 6-2-2 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000020017410" datesignatexte="2008-12-24" id="LEGIARTI000027479686" naturetexte="ARRETE" nortexte="JUSC0830156A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 24 décembre 2008 - art. 1 (VT)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000025467872" datesignatexte="2012-03-08" id="LEGIARTI000025469679" naturetexte="ARRETE" nortexte="JUSA1201262A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 mars 2012 - art. 1 (V)</LIEN>
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000032627231" datesignatexte="2016-06-03" id="LEGIARTI000032631255" naturetexte="LOI" nortexte="JUSD1532276L" num="52" numtexte="2016-731" sens="cible" typelien="CITATION">LOI n°2016-731 du 3 juin 2016 - art. 52</LIEN>
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000042101318" datesignatexte="2020-07-09" id="LEGIARTI000042522958" naturetexte="LOI" nortexte="PRMX2013758L" num="1" numtexte="2020-856" sens="cible" typelien="CITATION">LOI n°2020-856 du 9 juillet 2020 - art. 1 (Ab)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000045476241" datesignatexte="2999-01-01" id="LEGIARTI000045480162" naturetexte="CODE" nortexte="" num="L315-9" numtexte="" sens="cible" typelien="CITATION">Code pénitentiaire - art. L315-9 (V)</LIEN>
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000049563368" datesignatexte="2024-05-21" id="LEGIARTI000049565874" naturetexte="LOI" nortexte="ECOI2309270L" num="5" numtexte="2024-449" sens="cible" typelien="CITATION">LOI n°2024-449 du 21 mai 2024 - art. 5 (V)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000020102470" naturetexte="CODE" nortexte="" num="L522-1" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. L522-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000006449334" naturetexte="CODE" nortexte="" num="L523-1" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. L523-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000051372410" naturetexte="CODE" nortexte="" num="L77-15-3" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. L77-15-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000006450010" naturetexte="CODE" nortexte="" num="R522-6" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. R522-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000006450022" naturetexte="CODE" nortexte="" num="R523-1" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. R523-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000037214566" naturetexte="CODE" nortexte="" num="R612-5-2" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. R612-5-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000021864892" naturetexte="CODE" nortexte="" num="R822-5" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. R822-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000033334151" naturetexte="CODE" nortexte="" num="R111-20" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. R111-20 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000042144990" naturetexte="CODE" nortexte="" num="L134-34" numtexte="" sens="cible" typelien="CITATION">Code de l'énergie - art. L134-34 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000041867994" naturetexte="CODE" nortexte="" num="L3131-18" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L3131-18 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000032925346" naturetexte="CODE" nortexte="" num="L224-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L224-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000032634641" naturetexte="CODE" nortexte="" num="L225-4" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L225-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887330" naturetexte="CODE" nortexte="" num="L228-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L228-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887311" naturetexte="CODE" nortexte="" num="L228-5" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L228-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044569571" naturetexte="CODE" nortexte="" num="803-8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 803-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000049571362" naturetexte="CODE" nortexte="" num="L36-11" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L36-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006465927" naturetexte="CODE" nortexte="" num="L38-3" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L38-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000042624177" naturetexte="CODE" nortexte="" num="L5-3" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L5-3 (V)</LIEN>
+</LIENS>
+</ARTICLE>

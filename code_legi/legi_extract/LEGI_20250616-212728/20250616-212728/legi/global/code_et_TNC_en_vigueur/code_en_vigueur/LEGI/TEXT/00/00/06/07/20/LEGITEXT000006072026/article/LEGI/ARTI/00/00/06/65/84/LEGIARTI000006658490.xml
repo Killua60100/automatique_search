@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006658490</ID>
+<ANCIEN_ID>AELXXXXXXXX562L007AXXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/65/84/LEGIARTI000006658490.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L562-7</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2001-05-16</DATE_DEBUT>
+<DATE_FIN>2006-01-24</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006123943">Livre V : Les prestataires de services</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2006-01-24" id="LEGISCTA000006140129">Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2006-01-24" id="LEGISCTA000006154704">Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2001-05-16" id="LEGIARTI000006658489" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-05-16" etat="MODIFIE" fin="2006-01-24" id="LEGIARTI000006658490" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-01-24" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006658491" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2009-02-01" id="LEGIARTI000006658492" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-02-01" etat="MODIFIE" fin="2017-07-01" id="LEGIARTI000020196787" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-07-01" etat="MODIFIE" fin="2020-11-06" id="LEGIARTI000033475960" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-11-06" etat="MODIFIE" fin="2022-02-26" id="LEGIARTI000042498832" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-02-26" etat="MODIFIE" fin="2024-07-27" id="LEGIARTI000045250663" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-07-27" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000050053912" num="L562-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740735" num="L562-7" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Lorsque, par suite soit d'un grave défaut de vigilance, soit d'une carence dans l'organisation de ses procédures internes de contrôle, un organisme financier ou une personne visés à l'article L. 562-1 a omis de faire les obligations découlant du présent titre, l'autorité ayant pouvoir disciplinaire engage une procédure sur le fondement des règlements professionnels ou administratifs et en avise le procureur de la République.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000350808" datesignatexte="1990-07-12" id="JORFTEXT000000350808" naturetexte="LOI" nortexte="ECOX9000077L" num="" numtexte="90-614" sens="source" typelien="CONCORDANCE">Loi 90-614 1990-07-12 art. 7</LIEN>
+<LIEN cidtexte="JORFTEXT000000350808" datesignatexte="1990-07-12" id="LEGIARTI000006695428" naturetexte="LOI" nortexte="ECOX9000077L" num="7" numtexte="90-614" sens="cible" typelien="CONCORDE">Loi n°90-614 du 12 juillet 1990 - art. 7 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000574489" datesignatexte="2000-12-14" id="LEGITEXT000005630278" naturetexte="ORDONNANCE" nortexte="ECOX0000098R" num="" numtexte="2000-1223" sens="source" typelien="CODIFICATION">Ordonnance n° 2000-1223 du 14 décembre 2000 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000223114" datesignatexte="2001-05-15" id="LEGIARTI000006516538" naturetexte="LOI" nortexte="ECOX0000021L" num="33" numtexte="2001-420" sens="source" typelien="MODIFICATION">Loi n°2001-420 du 15 mai 2001 - art. 33 () JORF 16 mai 2001</LIEN>
+<LIEN cidtexte="JORFTEXT000000223114" datesignatexte="2001-05-15" id="LEGIARTI000006516711" naturetexte="LOI" nortexte="ECOX0000021L" num="43" numtexte="2001-420" sens="source" typelien="MODIFICATION">Loi n°2001-420 du 15 mai 2001 - art. 43 () JORF 16 mai 2001</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658385" naturetexte="CODE" nortexte="" num="L562-1" numtexte="" sens="source" typelien="CITATION">Code monétaire et financier - art. L562-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000020180057" naturetexte="CODE" nortexte="" num="L714-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L714-3 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

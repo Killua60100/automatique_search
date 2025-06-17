@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006129090</ID>
+<TITRE_TA>Livre II : Le conducteur.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006143851" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006143851" niv="3" url="/LEGI/SCTA/00/00/06/14/38/LEGISCTA000006143851.xml">Titre Ier : Enseignement de la conduite et de la sécurité routière.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006143852" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006143852" niv="3" url="/LEGI/SCTA/00/00/06/14/38/LEGISCTA000006143852.xml">Titre II : Permis de conduire.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006143853" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006143853" niv="3" url="/LEGI/SCTA/00/00/06/14/38/LEGISCTA000006143853.xml">Titre III : Comportement du conducteur.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006143854" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006143854" niv="3" url="/LEGI/SCTA/00/00/06/14/38/LEGISCTA000006143854.xml">Titre IV : Dispositions relatives à l'outre-mer.</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006108688">Partie réglementaire</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

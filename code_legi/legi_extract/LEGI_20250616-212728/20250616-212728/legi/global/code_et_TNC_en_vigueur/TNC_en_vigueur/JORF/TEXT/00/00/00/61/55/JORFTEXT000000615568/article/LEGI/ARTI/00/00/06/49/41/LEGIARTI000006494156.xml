@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006494156</ID>
+<ANCIEN_ID>PJEF1XXXXXX052AAXXXXXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/49/41/LEGIARTI000006494156.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>52</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000615568" date_publi="2007-03-07" date_signature="2007-03-05" ministere="" nature="LOI" nor="INTX0600091L" num="2007-297" num_parution_jo="0056">
+<TITRE_TXT c_titre_court="Loi n° 2007-297 du 5 mars 2007" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000615568">LOI n° 2007-297 du 5 mars 2007 relative à la prévention de la délinquance (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 2007-297 du 5 mars 2007" debut="2007-03-07" fin="2999-01-01" id_txt="LEGITEXT000006055600">Loi n° 2007-297 du 5 mars 2007 relative à la prévention de la délinquance (1).</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2007-03-07" fin="2999-01-01" id="LEGISCTA000006094161">Chapitre VI : Dispositions tendant à prévenir la toxicomanie et certaines pratiques addictives.</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000006494156" num="52" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>a modifié les dispositions suivantes<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577642" naturetexte="CODE" nortexte="" num="706-32" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-32 (M)</LIEN>
+</LIENS>
+</ARTICLE>

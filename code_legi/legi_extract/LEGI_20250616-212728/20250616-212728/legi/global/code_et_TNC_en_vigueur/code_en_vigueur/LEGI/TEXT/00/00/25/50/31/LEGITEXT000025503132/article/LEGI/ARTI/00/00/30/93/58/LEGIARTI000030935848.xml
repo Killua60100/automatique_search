@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000030935848</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/30/93/58/LEGIARTI000030935848.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L852-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2015-10-03</DATE_DEBUT>
+<DATE_FIN>2016-07-22</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030934655">LIVRE VIII : DU RENSEIGNEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935574">TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935846">Chapitre II : Des interceptions de sécurité &#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-10-03" etat="MODIFIE" fin="2016-07-22" id="LEGIARTI000030935848" num="L852-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2016-07-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032925430" num="L852-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre, peuvent être autorisées les interceptions de correspondances émises par la voie des communications électroniques et susceptibles de révéler des renseignements relatifs aux finalités mentionnées à l'article L. 811-3. Lorsqu'il existe des raisons sérieuses de croire qu'une ou plusieurs personnes appartenant à l'entourage d'une personne concernée par l'autorisation sont susceptibles de fournir des informations au titre de la finalité qui motive l'autorisation, celle-ci peut être également accordée pour ces personnes. <br/>
+<br/>II.-Pour les seules finalités mentionnées aux 1° et 4° et a du 5° de l'article L. 811-3 du présent code, peut être autorisée, pour une durée de quarante-huit heures renouvelable, l'utilisation d'un appareil ou d'un dispositif technique mentionné au 1° de l'article 226-3 du code pénal afin d'intercepter des correspondances émises ou reçues par un équipement terminal. Les correspondances interceptées par cet appareil ou ce dispositif technique sont détruites dès qu'il apparaît qu'elles sont sans lien avec l'autorisation délivrée, dans la limite du délai prévu au 1° du I de l'article L. 822-2 du présent code. <br/>
+<br/>III.-L'autorisation vaut autorisation de recueil des informations ou documents mentionnés à l'article L. 851-1 nécessaires à l'exécution de l'interception et à son exploitation. <br/>
+<br/>IV.-Un service du Premier ministre organise la centralisation de l'exécution des interceptions mentionnées au I. Après avis de la Commission nationale de contrôle des techniques de renseignement, le Premier ministre définit les modalités de la centralisation des correspondances interceptées en application du II. <br/>
+<br/>V.-Les opérations de transcription et d'extraction des communications interceptées, auxquelles la Commission nationale de contrôle des techniques de renseignement dispose d'un accès permanent, complet, direct et immédiat, sont effectuées au sein d'un service du Premier ministre. <br/>
+<br/>VI.-Le nombre maximal des autorisations d'interception en vigueur simultanément est arrêté par le Premier ministre, après avis de la Commission nationale de contrôle des techniques de renseignement. La décision fixant ce contingent et sa répartition entre les ministres mentionnés au premier alinéa de l'article L. 821-2 ainsi que le nombre d'autorisations d'interception délivrées sont portés à la connaissance de la commission.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000030931899" datesignatexte="2015-07-24" id="LEGIARTI000030933632" naturetexte="LOI" nortexte="PRMX1504410L" num="5" numtexte="2015-912" sens="cible" typelien="CREE">LOI n°2015-912 du 24 juillet 2015 - art. 5</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000034581450" datesignatexte="2017-05-03" id="LEGITEXT000034587224" naturetexte="DECRET" nortexte="JUSK1706126D" num="" numtexte="2017-749" sens="cible" typelien="CITATION">Décret n°2017-749 du 3 mai 2017 (V)</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417931" naturetexte="CODE" nortexte="" num="226-3" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 226-3 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000037200943" naturetexte="CODE" nortexte="" num="L2371-2" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2371-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935040" naturetexte="CODE" nortexte="" num="L811-3" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-3</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935050" naturetexte="CODE" nortexte="" num="L821-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L821-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051740972" naturetexte="CODE" nortexte="" num="L822-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L822-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043880878" naturetexte="CODE" nortexte="" num="L822-2-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L822-2-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935595" naturetexte="CODE" nortexte="" num="L851-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L851-1</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051740953" naturetexte="CODE" nortexte="" num="L852-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L852-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000037200982" naturetexte="CODE" nortexte="" num="L854-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L854-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000031550362" naturetexte="CODE" nortexte="" num="L854-8" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L854-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000038313985" naturetexte="CODE" nortexte="" num="L855-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L855-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887500" naturetexte="CODE" nortexte="" num="L871-6" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L871-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887489" naturetexte="CODE" nortexte="" num="L871-7" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L871-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000046844641" naturetexte="CODE" nortexte="" num="R852-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R852-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000048367494" naturetexte="CODE" nortexte="" num="R852-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R852-2 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

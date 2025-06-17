@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575937</ID>
+<ANCIEN_ID>PXXXXXXXXXX0217L000AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/59/LEGIARTI000006575937.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>217</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1989-07-08</DATE_DEBUT>
+<DATE_FIN>1993-03-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2001-01-01" id="LEGISCTA000006151885">Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2001-01-01" id="LEGISCTA000006167453">Section 1 : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1986-02-01" etat="MODIFIE" fin="1989-07-08" id="LEGIARTI000006575936" num="217" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1989-07-08" etat="MODIFIE" fin="1993-03-01" id="LEGIARTI000006575937" num="217" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575938" num="217" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006575939" num="217" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575940" num="217" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Hors le cas prévu à l'article 196, les dispositifs des arrêts sont, dans les trois jours, par lettre recommandée, portés à la connaissance des conseils des inculpés et des parties civiles.<br/>
+<br/>   Dans les mêmes formes et délais, les dispositifs des arrêts de non-lieu sont portés à la connaissance des inculpés, les dispositifs des arrêts de renvoi devant le tribunal correctionnel ou de police sont portés à la connaissance des inculpés et des parties civiles.<br/>
+<br/>   Les arrêts contre lesquels les inculpés ou les parties civiles peuvent former un pourvoi en cassation leur sont signifiés à la requête du procureur général dans les trois jours. Toutefois, ces arrêts sont notifiés par lettre recommandée à l'inculpé, à la partie civile ou au requérant mentionné au cinquième alinéa de l'article 99 tant que le juge d'instruction n'a pas clôturé son information. Ils peuvent être notifiés à l'inculpé détenu par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au procureur général l'original ou la copie du récépissé signé par l'inculpé.<br/>
+<br/>   Toute notification d'acte à la dernière adresse déclarée par une partie est réputée faite à sa personne.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000878231" datesignatexte="1985-12-30" id="JORFTEXT000000878231" naturetexte="LOI" nortexte="" num="" numtexte="85-1407" sens="source" typelien="SPEC_APPLI">Loi 85-1407 1985-12-30 art. 94</LIEN>
+<LIEN cidtexte="JORFTEXT000000321876" datesignatexte="1989-07-06" id="LEGIARTI000006490945" naturetexte="LOI" nortexte="JUSX8800146L" num="11" numtexte="89-461" sens="source" typelien="MODIFICATION">Loi n°89-461 du 6 juillet 1989 - art. 11 () JORF 8 juillet 1989</LIEN>
+<LIEN cidtexte="LEGITEXT000045476241" datesignatexte="2999-01-01" id="LEGIARTI000045480214" naturetexte="CODE" nortexte="" num="L311-3" numtexte="" sens="cible" typelien="CITATION">Code pénitentiaire - art. L311-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575880" naturetexte="CODE" nortexte="" num="196" numtexte="" sens="source" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 196 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051743062" naturetexte="CODE" nortexte="" num="385" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 385 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGITEXT000006071154" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale 99 al. 5, 196</LIEN>
+</LIENS>
+</ARTICLE>

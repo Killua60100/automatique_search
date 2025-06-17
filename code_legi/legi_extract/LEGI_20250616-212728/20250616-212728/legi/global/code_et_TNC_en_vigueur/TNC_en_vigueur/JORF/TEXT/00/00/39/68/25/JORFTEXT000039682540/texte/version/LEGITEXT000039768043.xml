@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000039768043</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/39/76/80/LEGITEXT000039768043.xml</URL>
+<NATURE>ARRETE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000039682540</CID>
+<NUM/>
+<NUM_PARUTION>0301</NUM_PARUTION>
+<NUM_SEQUENCE>26</NUM_SEQUENCE>
+<NOR>TREK1900275A</NOR>
+<DATE_PUBLI>2019-12-28</DATE_PUBLI>
+<DATE_TEXTE>2019-12-26</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2019-12-29</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0301 du 28 décembre 2019</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Arrêté du 26 décembre 2019</TITRE>
+<TITREFULL>Arrêté du 26 décembre 2019 portant délégation de pouvoirs en matière de recrutement et de gestion des personnels relevant du ministre chargé des transports affectés à Voies navigables de France</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2019-12-29</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000507067" datesignatexte="1970-07-02" id="JORFTEXT000000507067" naturetexte="DECRET" nortexte="" num="" numtexte="70-606" sens="source" typelien="CITATION">Décret n°70-606 du 2 juillet 1970 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000513337" datesignatexte="1971-12-13" id="JORFTEXT000000513337" naturetexte="DECRET" nortexte="" num="" numtexte="71-990" sens="source" typelien="CITATION">Décret n°71-990 du 13 décembre 1971 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000683201" datesignatexte="1975-09-23" id="JORFTEXT000000683201" naturetexte="DECRET" nortexte="" num="" numtexte="75-888" sens="source" typelien="CITATION">Décret n°75-888 du 23 septembre 1975 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000863906" datesignatexte="1978-03-20" id="JORFTEXT000000863906" naturetexte="DECRET" nortexte="" num="" numtexte="78-399" sens="source" typelien="CITATION">Décret n°78-399 du 20 mars 1978 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000889074" datesignatexte="1982-03-31" id="JORFTEXT000000889074" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="82-296" sens="source" typelien="CITATION">Ordonnance n° 82-296 du 31 mars 1982 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000880484" datesignatexte="1982-05-28" id="JORFTEXT000000880484" naturetexte="DECRET" nortexte="" num="" numtexte="82-447" sens="source" typelien="CITATION">Décret n°82-447 du 28 mai 1982 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000519819" datesignatexte="1982-07-20" id="JORFTEXT000000519819" naturetexte="DECRET" nortexte="" num="" numtexte="82-624" sens="source" typelien="CITATION">Décret n°82-624 du 20 juillet 1982 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000504704" datesignatexte="1983-07-13" id="JORFTEXT000000504704" naturetexte="LOI" nortexte="" num="" numtexte="83-634" sens="source" typelien="CITATION">Loi n° 83-634 du 13 juillet 1983 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000501099" datesignatexte="1984-01-11" id="JORFTEXT000000501099" naturetexte="LOI" nortexte="" num="" numtexte="84-16" sens="source" typelien="CITATION">Loi n° 84-16 du 11 janvier 1984 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000502401" datesignatexte="1985-09-16" id="JORFTEXT000000502401" naturetexte="DECRET" nortexte="" num="" numtexte="85-986" sens="source" typelien="CITATION">Décret n°85-986 du 16 septembre 1985 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000684079" datesignatexte="1986-09-15" id="JORFTEXT000000684079" naturetexte="DECRET" nortexte="" num="" numtexte="86-1046" sens="source" typelien="CITATION">Décret n°86-1046 du 15 septembre 1986 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000362464" datesignatexte="1993-03-29" id="JORFTEXT000000362464" naturetexte="DECRET" nortexte="MERG9300017D" num="" numtexte="93-752" sens="source" typelien="CITATION">Décret n°93-752 du 29 mars 1993 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000366828" datesignatexte="1994-10-07" id="JORFTEXT000000366828" naturetexte="DECRET" nortexte="FPPA9400088D" num="" numtexte="94-874" sens="source" typelien="CITATION">Décret n°94-874 du 7 octobre 1994 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000714563" datesignatexte="1994-11-23" id="JORFTEXT000000714563" naturetexte="DECRET" nortexte="FPPA9400119D" num="" numtexte="94-1020" sens="source" typelien="CITATION">Décret n°94-1020 du 23 novembre 1994 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000388059" datesignatexte="1998-03-19" id="JORFTEXT000000388059" naturetexte="DECRET" nortexte="FPPA9700198D" num="" numtexte="98-188" sens="source" typelien="CITATION">Décret n°98-188 du 19 mars 1998 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000761488" datesignatexte="1999-11-16" id="JORFTEXT000000761488" naturetexte="DECRET" nortexte="PRMG9970616D" num="" numtexte="99-945" sens="source" typelien="CITATION">Décret n°99-945 du 16 novembre 1999 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000582428" datesignatexte="2000-06-26" id="JORFTEXT000000582428" naturetexte="DECRET" nortexte="EQUP0000216D" num="" numtexte="2000-572" sens="source" typelien="CITATION">Décret n°2000-572 du 26 juin 2000 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000208382" datesignatexte="2000-08-25" id="JORFTEXT000000208382" naturetexte="DECRET" nortexte="FPPA0000085D" num="" numtexte="2000-815" sens="source" typelien="CITATION">Décret n°2000-815 du 25 août 2000 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000391886" datesignatexte="2001-02-26" id="JORFTEXT000000391886" naturetexte="DECRET" nortexte="EQUP0000032D" num="" numtexte="2001-188" sens="source" typelien="CITATION">Décret n°2001-188 du 26 février 2001 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000589974" datesignatexte="2001-07-05" id="JORFTEXT000000589974" naturetexte="DECRET" nortexte="ATEG0190028D" num="" numtexte="2001-585" sens="source" typelien="CITATION">Décret n°2001-585 du 5 juillet 2001 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771277" datesignatexte="2001-07-05" id="JORFTEXT000000771277" naturetexte="DECRET" nortexte="ATEG0190029D" num="" numtexte="2001-586" sens="source" typelien="CITATION">Décret n°2001-586 du 5 juillet 2001 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000590403" datesignatexte="2002-04-29" id="JORFTEXT000000590403" naturetexte="DECRET" nortexte="PRMG0270289D" num="" numtexte="2002-634" sens="source" typelien="CITATION">Décret n°2002-634 du 29 avril 2002 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000247535" datesignatexte="2004-06-02" id="JORFTEXT000000247535" naturetexte="DECRET" nortexte="PRMG0470226D" num="" numtexte="2004-474" sens="source" typelien="CITATION">Décret n°2004-474 du 2 juin 2004 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000805668" datesignatexte="2005-04-21" id="JORFTEXT000000805668" naturetexte="DECRET" nortexte="EQUX0400208D" num="" numtexte="2005-367" sens="source" typelien="CITATION">Décret n°2005-367 du 21 avril 2005 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000444703" datesignatexte="2005-05-30" id="JORFTEXT000000444703" naturetexte="DECRET" nortexte="EQUP0500229D" num="" numtexte="2005-631" sens="source" typelien="CITATION">Décret n°2005-631 du 30 mai 2005 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000808468" datesignatexte="2005-05-30" id="JORFTEXT000000808468" naturetexte="DECRET" nortexte="EQUP0500230D" num="" numtexte="2005-632" sens="source" typelien="CITATION">Décret n°2005-632 du 30 mai 2005 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000275579" datesignatexte="2006-12-23" id="JORFTEXT000000275579" naturetexte="DECRET" nortexte="FPPA0600164D" num="" numtexte="2006-1761" sens="source" typelien="CITATION">Décret n°2006-1761 du 23 décembre 2006 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000825438" datesignatexte="2007-09-06" id="JORFTEXT000000825438" naturetexte="DECRET" nortexte="DEVL0751090D" num="" numtexte="2007-1315" sens="source" typelien="CITATION">Décret n°2007-1315 du 6 septembre 2007 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000469540" datesignatexte="2007-10-15" id="JORFTEXT000000469540" naturetexte="DECRET" nortexte="BCFF0758784D" num="" numtexte="2007-1470" sens="source" typelien="CITATION">Décret n°2007-1470 du 15 octobre 2007 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024683056" datesignatexte="2011-10-17" id="JORFTEXT000024683056" naturetexte="DECRET" nortexte="MFPF1113937D" num="" numtexte="2011-1317" sens="source" typelien="CITATION">Décret n°2011-1317  du 17 octobre 2011 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000025838383" datesignatexte="2012-05-09" id="JORFTEXT000025838383" naturetexte="DECRET" nortexte="MFPF1209447D" num="" numtexte="2012-762" sens="source" typelien="CITATION">Décret n°2012-762  du 9 mai 2012 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026385494" datesignatexte="2012-09-18" id="JORFTEXT000026385494" naturetexte="DECRET" nortexte="DEVK1207457D" num="" numtexte="2012-1064" sens="source" typelien="CITATION">Décret n°2012-1064 du 18 septembre 2012 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026385613" datesignatexte="2012-09-18" id="JORFTEXT000026385613" naturetexte="DECRET" nortexte="DEVK1221434D" num="" numtexte="2012-1065" sens="source" typelien="CITATION">Décret n°2012-1065  du 18 septembre 2012 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026426974" datesignatexte="2012-09-28" id="JORFTEXT000026426974" naturetexte="DECRET" nortexte="RDFF1220642D" num="" numtexte="2012-1098" sens="source" typelien="CITATION">Décret n°2012-1098  du 28 septembre 2012 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026855956" datesignatexte="2012-12-27" id="JORFTEXT000026855956" naturetexte="DECRET" nortexte="DEVK1238198D" num="" numtexte="2012-1491" sens="source" typelien="CITATION">Décret n°2012-1491  du 27 décembre 2012 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000028320224" datesignatexte="2013-12-12" id="JORFTEXT000028320224" naturetexte="DECRET" nortexte="TRAK1321942D" num="" numtexte="2013-1146" sens="source" typelien="CITATION">Décret n°2013-1146  du 12 décembre 2013 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000028320284" datesignatexte="2013-12-12" id="JORFTEXT000028320284" naturetexte="DECRET" nortexte="TRAK1321944D" num="" numtexte="2013-1147" sens="source" typelien="CITATION">Décret n°2013-1147  du 12 décembre 2013 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029707588" datesignatexte="2014-11-04" id="JORFTEXT000029707588" naturetexte="DECRET" nortexte="DEVK1415461D" num="" numtexte="2014-1324" sens="source" typelien="CITATION">DÉCRET n°2014-1324 du 4 novembre 2014 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000032036983" datesignatexte="2016-02-11" id="JORFTEXT000032036983" naturetexte="DECRET" nortexte="RDFF1519812D" num="" numtexte="2016-151" sens="source" typelien="CITATION">Décret n°2016-151 du 11 février 2016 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033936795" datesignatexte="2017-01-27" id="JORFTEXT000033936795" naturetexte="DECRET" nortexte="RDFF1633447D" num="" numtexte="2017-105" sens="source" typelien="CITATION">Décret n°2017-105 du 27 janvier 2017 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034640143" datesignatexte="2017-05-06" id="JORFTEXT000034640143" naturetexte="DECRET" nortexte="RDFF1702021D" num="" numtexte="2017-928" sens="source" typelien="CITATION">Décret n°2017-928 du 6 mai 2017 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034679669" datesignatexte="2017-05-10" id="JORFTEXT000034679669" naturetexte="DECRET" nortexte="RDFF1708072D" num="" numtexte="2017-1052" sens="source" typelien="CITATION">Décret n°2017-1052 du 10 mai 2017 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034679712" datesignatexte="2017-05-10" id="JORFTEXT000034679712" naturetexte="DECRET" nortexte="RDFF1708078D" num="" numtexte="2017-1053" sens="source" typelien="CITATION">Décret n°2017-1053 du 10 mai 2017 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGITEXT000023086525" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des transports (V)</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>La ministre de la transition écologique et solidaire,<br/>Vu le code des transports, notamment ses articles L. 4311-1-1 et suivants, L. 4312-3 et R. 4311-1 et suivants ;<br/>Vu la loi n° 83-634 du 13 juillet 1983 modifiée portants droits et obligations des fonctionnaires, notamment son article 13, ensemble la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat ;<br/>Vu le décret n° 70-606 du 2 juillet 1970 modifié portant statut particulier du corps des dessinateurs de l'équipement ;<br/>Vu le décret n° 71-990 du 13 décembre 1971 modifié relatif aux emplois de chef de service intérieur des administrations et établissements publics de l'Etat ;<br/>Vu le décret n° 75-888 du 23 septembre 1975 modifié portant dispositions applicables aux emplois d'agent principal des services techniques ;<br/>Vu le décret n° 78-399 du 20 mars 1978 modifié relatif, pour les départements d'outre-mer, à la prise en charge des frais de voyage de congés bonifiés accordés aux magistrats et fonctionnaires civils de l'Etat ;<br/>Vu le décret n° 82-447 du 28 mai 1982 modifié relatif à l'exercice du droit syndical dans la fonction publique ;<br/>Vu le décret n° 82-624 du 20 juillet 1982 modifié fixant les modalités d'application pour les fonctionnaires de l'ordonnance n° 82-296 du 31 mars 1982 relative à l'exercice des fonctions à temps partiel ;<br/>Vu le décret n° 85-986 du 16 septembre 1985 modifié relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de mise à disposition et de cessation définitive de fonctions ;<br/>Vu le décret n° 86-1046 du 15 septembre 1986 modifié relatif au statut particulier du corps des experts techniques des services techniques du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports ;<br/>Vu le décret n° 93-752 du 29 mars 1993 modifié relatif au statut particulier des professeurs techniques de l'enseignement maritime ;<br/>Vu le décret n° 94-874 du 7 octobre 1994 modifié fixant les dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics ;<br/>Vu le décret n° 94-1020 du 23 novembre 1994 modifié fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat ;<br/>Vu le décret n° 98-188 du 19 mars 1998 modifié fixant les dispositions statutaires applicables aux corps de chargés d'études documentaires ;<br/>Vu le décret n° 99-945 du 16 novembre 1999 modifié portant statut particulier du corps des administrateurs civils ;<br/>Vu le décret n° 2000-572 du 26 juin 2000 modifié portant statut particulier du corps des syndics des gens de mer ;<br/>Vu le décret n° 2000-815 du 25 août 2000 modifié relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat et dans la magistrature ;<br/>Vu le décret n° 2001-188 du 26 février 2001 modifié relatif au statut particulier du corps des officiers de port ;<br/>Vu le décret n° 2001-585 du 5 juillet 2001 modifié portant statut particulier du corps des agents techniques de l'environnement ;<br/>Vu le décret n° 2001-586 du 5 juillet 2001 modifié portant statut particulier du corps des techniciens de l'environnement ;<br/>Vu le décret n° 2002-634 du 29 avril 2002 modifié portant création du compte épargne-temps dans la fonction publique de l'Etat et dans la magistrature ;<br/>Vu le décret n° 2004-474 du 2 juin 2004 modifié portant statut du corps des architectes et urbanistes de l'Etat ;<br/>Vu le décret n° 2005-367 du 21 avril 2005 modifié relatif au statut particulier du corps des inspecteurs généraux et inspecteurs de l'administration du développement durable ;<br/>Vu le décret n° 2005-631 du 30 mai 2005 modifié portant statut particulier du corps des ingénieurs des travaux publics de l'Etat ;<br/>Vu le décret n° 2005-632 du 30 mai 2005 modifié relatif aux conditions de nomination et d'avancement dans les emplois d'ingénieur en chef des travaux publics de l'Etat du premier groupe et du deuxième groupe ;<br/>Vu le décret n° 2006-1761 du 23 décembre 2006 modifié relatif aux dispositions statutaires communes applicables aux corps d'adjoints techniques des administrations de l'Etat ;<br/>Vu le décret n° 2007-1315 du 6 septembre 2007 modifié relatif à l'emploi de conseiller d'administration de l'écologie, du développement et de l'aménagement durables ;<br/>Vu le décret n° 2007-1470 du 15 octobre 2007 modifié relatif à la formation professionnelle tout au long de la vie des fonctionnaires de l'Etat ;<br/>Vu le décret n° 2011-1317 du 17 octobre 2011 modifié portant statut particulier du corps interministériel des attachés d'administration de l'Etat ;<br/>Vu le décret n° 2012-762 du 9 mai 2012 modifié portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat ;<br/>Vu le décret n° 2012-1064 du 18 septembre 2012 modifié portant statut particulier du corps des techniciens supérieurs du développement durable ;<br/>Vu le décret n° 2012-1065 du 18 septembre 2012 modifié portant statut particulier du corps des secrétaires d'administration et de contrôle du développement durable ;<br/>Vu le décret n° 2012-1098 du 28 septembre 2012 modifié portant statut particulier du corps interministériel des assistants de service social des administrations de l'Etat ;<br/>Vu le décret n° 2012-1491 du 27 décembre 2012 modifié portant délégation de pouvoirs en matière de recrutement et de gestion des personnels relevant du ministre chargé des transports affectés à Voies navigables de France ;<br/>Vu le décret n° 2013-1146 du 12 décembre 2013 modifié portant statut particulier du corps des officiers de port adjoints ;<br/>Vu le décret n° 2013-1147 du 12 décembre 2013 modifié relatif à l'emploi de responsable de capitainerie ;<br/>Vu le décret n° 2014-1324 du 4 novembre 2014 modifié portant statuts particuliers du corps des chargés de recherche du développement durable et du corps des directeurs de recherche du développement durable ;<br/>Vu le décret n° 2016-151 du 11 février 2016 modifié relatif aux conditions et modalités de mise en œuvre du télétravail dans la fonction publique et la magistrature ;<br/>Vu le décret n° 2017-105 du 27 janvier 2017 relatif à l'exercice d'activités privées par des agents publics et certains agents contractuels de droit privé ayant cessé leurs fonctions, aux cumuls d'activités et à la commission de déontologie de la fonction publique ;<br/>Vu le décret n° 2017-928 du 6 mai 2017 modifié relatif à la mise en œuvre du compte personnel d'activité dans la fonction publique et à la formation professionnelle tout au long de la vie ;<br/>Vu le décret n° 2017-1052 du 10 mai 2017 modifié portant statut particulier du corps interministériel des conseillers techniques de service social des administrations de l'Etat ;<br/>Vu le décret n° 2017-1053 du 10 mai 2017 modifié relatif à l'emploi d'inspecteur technique de l'action sociale des administrations de l'Etat ;<br/>Vu l'avis du comité technique ministériel du ministère de la transition écologique et solidaire et du ministère de la cohésion des territoires en date du 21 février 2019 ;<br/>Vu l'avis du comité technique unique de l'établissement public Voies navigables de France en date du 18 octobre 2018,<br/>Arrête :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 26 décembre 2019.</p>
+</div>
+<div align="left">
+<p>Elisabeth Borne</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

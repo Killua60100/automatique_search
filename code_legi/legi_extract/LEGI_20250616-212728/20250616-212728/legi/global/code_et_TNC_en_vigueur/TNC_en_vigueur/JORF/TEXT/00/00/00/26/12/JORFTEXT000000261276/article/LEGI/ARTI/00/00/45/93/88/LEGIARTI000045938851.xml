@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000045938851</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/45/93/88/LEGIARTI000045938851.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2022-06-19</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000261276" date_publi="2005-07-28" date_signature="2005-07-27" ministere="Premier ministre" nature="DECRET" nor="PRMX0500111D" num="2005-850" num_parution_jo="0174">
+<TITRE_TXT c_titre_court="Décret n°2005-850 du 27 juillet 2005" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000261276">Décret n° 2005-850 du 27 juillet 2005  relatif aux délégations de signature des membres du Gouvernement</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°2005-850 du 27 juillet 2005" debut="2005-10-01" fin="2999-01-01" id_txt="LEGITEXT000006052069">Décret n°2005-850 du 27 juillet 2005 relatif aux délégations de signature des membres du Gouvernement.</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-10-01" etat="MODIFIE" fin="2013-09-12" id="LEGIARTI000006243218" num="3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-09-12" etat="MODIFIE" fin="2022-06-19" id="LEGIARTI000027943334" num="3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2022-06-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045938851" num="3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000002067034" num="3" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les personnes mentionnées aux 1° et 3° de l'article 1er peuvent donner délégation pour signer tous actes relatifs aux affaires pour lesquelles elles ont elles-mêmes reçu délégation :</p>
+<p>1° Aux magistrats, aux fonctionnaires de catégorie A et aux agents contractuels chargés de fonctions d'un niveau équivalent, qui n'en disposent pas au titre de l'article 1er ;</p>
+<p>2° Aux officiers ainsi qu'aux membres du corps du contrôle général des armées, qui n'en disposent pas au titre de l'article 1er.</p>
+<p>Elles peuvent en outre donner délégation aux fonctionnaires de catégories B et C, aux agents contractuels chargés de fonctions d'un niveau équivalent et aux sous-officiers placés sous leur autorité, pour signer, dans les mêmes affaires, toutes pièces justificatives relatives aux dépenses et aux opérations de régularisation, notamment tous documents comptables relatifs à l'engagement, à la liquidation et à l'ordonnancement de la dépense et tous ordres de recettes.</p>
+<p>Les personnes mentionnées au 1° de l'article 1er, lorsqu'elles exercent également les fonctions de haut fonctionnaire prévues à l'article R. 1143-1 du code de la défense, peuvent donner délégation aux agents mentionnés aux 1° et 2° du présent article pour signer tous actes relatifs aux affaires pour lesquelles elles ont elles-mêmes reçu délégation au titre de ces fonctions.</p>
+<p>La délégation prévue au présent article entre en vigueur le lendemain de la publication au Journal officiel de la République française ou à compter de l'enregistrement au recueil spécial mentionné à l'article L. 861-1 du code de la sécurité intérieure, lorsqu'il est fait application de cet article, de l'arrêté désignant le ou les titulaires de la délégation et précisant les matières qui en font l'objet. Elle peut être abrogée à tout moment par un acte contraire. Elle prend fin en même temps que les fonctions de celui qui l'a donnée.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000261276" datesignatexte="2005-07-27" id="LEGIARTI000045938845" naturetexte="DECRET" nortexte="PRMX0500111D" num="4" numtexte="2005-850" sens="cible" typelien="CITATION">Décret n°2005-850 du 27 juillet 2005 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045930472" datesignatexte="2022-06-17" id="LEGIARTI000045934072" naturetexte="DECRET" nortexte="ARMD2208875D" num="27" numtexte="2022-901" sens="cible" typelien="MODIFIE">Décret n°2022-901 du 17 juin 2022 - art. 27</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006574190" naturetexte="CODE" nortexte="" num="R1143-1" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. R1143-1</LIEN>
+</LIENS>
+</ARTICLE>

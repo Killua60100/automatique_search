@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000033219252</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/33/21/92/LEGIARTI000033219252.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>13</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2016-10-09</DATE_DEBUT>
+<DATE_FIN>2017-01-22</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000886460" date_publi="1978-01-07" date_signature="1978-01-06" ministere="" nature="LOI" nor="" num="78-17" num_parution_jo="">
+<TITRE_TXT c_titre_court="LOI n° 78-17 du 6 janvier 1978" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000886460">LOI n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 78-17 du 6 janvier 1978" debut="1978-01-07" fin="2999-01-01" id_txt="LEGITEXT000006068624">Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-08-07" fin="2019-06-01" id="LEGISCTA000006095899">Chapitre III : La Commission nationale de l'informatique et des libertés.</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528081" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-08-07" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006528082" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-05-14" etat="MODIFIE" fin="2010-06-30" id="LEGIARTI000020628151" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-06-30" etat="MODIFIE" fin="2011-03-31" id="LEGIARTI000022405524" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-31" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000023784565" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-10-13" id="LEGIARTI000024039840" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-10-13" etat="MODIFIE" fin="2015-08-03" id="LEGIARTI000028060089" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-08-03" etat="MODIFIE" fin="2016-10-09" id="LEGIARTI000030963908" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-10-09" etat="MODIFIE" fin="2017-01-22" id="LEGIARTI000033219252" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-01-22" etat="MODIFIE" fin="2018-05-25" id="LEGIARTI000033912452" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-05-25" etat="MODIFIE" fin="2018-08-06" id="LEGIARTI000037090048" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-08-06" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000037290650" num="13" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822907" num="13" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I. - La Commission nationale de l'informatique et des libertés est composée de dix-huit membres : </p>
+<p>1° Deux députés et deux sénateurs, désignés respectivement par l'Assemblée nationale et par le Sénat de manière à assurer une représentation pluraliste ; </p>
+<p>2° Deux membres du Conseil économique, social et environnemental, élus par cette assemblée ; </p>
+<p>3° Deux membres ou anciens membres du Conseil d'Etat, d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale du Conseil d'Etat ; </p>
+<p>4° Deux membres ou anciens membres de la Cour de cassation, d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale de la Cour de cassation ; </p>
+<p>5° Deux membres ou anciens membres de la Cour des comptes, d'un grade au moins égal à celui de conseiller maître, élus par l'assemblée générale de la Cour des comptes ; </p>
+<p>6° Trois personnalités qualifiées pour leur connaissance du numérique ou des questions touchant aux libertés individuelles, nommées par décret ; </p>
+<p>7° Deux personnalités qualifiées pour leur connaissance du numérique, désignées respectivement par le Président de l'Assemblée nationale et par le Président du Sénat ;</p>
+<p>8° Le président de la Commission d'accès aux documents administratifs, ou son représentant. </p>
+<p>Elle comprend en outre, avec voix consultative, le Défenseur des droits ou son représentant. </p>
+<p>Les deux membres désignés ou élus par une même autorité en application des 1° à 5° sont une femme et un homme. Les trois membres mentionnés au 6° comprennent au moins une femme et un homme.</p>
+<p>Les deux membres mentionnés au 7° sont une femme et un homme. Pour l'application de cette règle, le membre succédant à une femme est un homme et celui succédant à un homme, une femme. Toutefois, le nouveau membre désigné est de même sexe que celui qu'il remplace, soit en cas d'application du deuxième alinéa du II, soit en cas de renouvellement du mandat de l'autre membre mentionné au 7°</p>
+<p>La commission élit en son sein un président et deux vice-présidents, dont un vice-président délégué. Ils composent le bureau. </p>
+<p>La fonction de président de la commission est incompatible avec toute activité professionnelle, tout autre emploi public et toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur des communications électroniques ou de l'informatique (1). </p>
+<p>La durée du mandat de président est de cinq ans (1). </p>
+<p>Le président de la commission reçoit un traitement égal à celui afférent à la seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle (1). </p>
+<p>La formation restreinte de la commission est composée d'un président et de cinq autres membres élus par la commission en son sein. Les membres du bureau ne sont pas éligibles à la formation restreinte. </p>
+<p>En cas de partage égal des voix, celle du président est prépondérante. </p>
+<p>II. - Le mandat des membres de la commission est de cinq ans ; il est renouvelable une fois, sous réserve des dixième et onzième alinéas du I. </p>
+<p>Le membre de la commission qui cesse d'exercer ses fonctions en cours de mandat est remplacé, dans les mêmes conditions, pour la durée de son mandat restant à courir. </p>
+<p>Sauf démission, il ne peut être mis fin aux fonctions d'un membre qu'en cas d'empêchement constaté par la commission dans les conditions qu'elle définit. </p>
+<p>La commission établit un règlement intérieur. Ce règlement fixe les règles relatives à l'organisation et au fonctionnement de la commission. Il précise notamment les règles relatives aux délibérations, à l'instruction des dossiers et à leur présentation devant la commission, ainsi que les modalités de mise en œuvre de la procédure de labellisation prévue au c du 3° de l'article 11.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000516823" datesignatexte="1978-07-17" id="LEGIARTI000006530877" naturetexte="DECRET" nortexte="" num="18" numtexte="78-774" sens="cible" typelien="CITATION">Décret n°78-774 du 17 juillet 1978 - art. 18 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000516823" datesignatexte="1978-07-17" id="LEGIARTI000006530912" naturetexte="DECRET" nortexte="" num="26" numtexte="78-774" sens="cible" typelien="CITATION">Décret n°78-774 du 17 juillet 1978 - art. 26 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000801164" datesignatexte="2004-06-21" id="LEGIARTI000051742339" naturetexte="LOI" nortexte="ECOX0200175L" num="6-1" numtexte="2004-575" sens="cible" typelien="CITATION">Loi n° 2004-575 du 21 juin 2004 - art. 6-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000441676" datesignatexte="2004-08-06" id="LEGIARTI000006529416" naturetexte="LOI" nortexte="JUSX0100026L" num="22" numtexte="2004-801" sens="cible" typelien="CITATION">Loi n°2004-801 du 6 août 2004 - art. 22 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000241445" datesignatexte="2005-10-20" id="LEGIARTI000036759768" naturetexte="DECRET" nortexte="JUSC0520586D" num="1-1" numtexte="2005-1309" sens="cible" typelien="CITATION">Décret n°2005-1309 du 20 octobre 2005 - art. 1-1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000241445" datesignatexte="2005-10-20" id="LEGIARTI000025082753" naturetexte="DECRET" nortexte="JUSC0520586D" num="70" numtexte="2005-1309" sens="cible" typelien="CITATION">Décret n°2005-1309 du 20 octobre 2005 - art. 70 (Ab)</LIEN>
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000033202746" datesignatexte="2016-10-07" id="LEGIARTI000033205164" naturetexte="LOI" nortexte="ECFI1524250L" num="25" numtexte="2016-1321" sens="cible" typelien="MODIFIE">LOI n°2016-1321 du 7 octobre 2016 - art. 25</LIEN>
+<LIEN cidtexte="JORFTEXT000036757777" datesignatexte="2018-03-30" id="LEGIARTI000038607883" naturetexte="DECRET" nortexte="JUSC1802676D" num="2" numtexte="2018-232" sens="cible" typelien="CITATION">Décret n°2018-232 du 30 mars 2018 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000036757777" datesignatexte="2018-03-30" id="LEGIARTI000036759427" naturetexte="DECRET" nortexte="JUSC1802676D" num="3" numtexte="2018-232" sens="cible" typelien="CITATION">Décret n°2018-232 du 30 mars 2018 - art. 3 (M)</LIEN>
+
+</LIENS>
+</ARTICLE>

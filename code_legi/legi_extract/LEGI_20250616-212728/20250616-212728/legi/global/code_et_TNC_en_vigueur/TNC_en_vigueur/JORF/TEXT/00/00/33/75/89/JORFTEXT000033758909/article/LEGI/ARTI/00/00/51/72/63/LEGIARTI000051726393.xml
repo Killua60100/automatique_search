@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051726393</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/72/63/LEGIARTI000051726393.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>14-5</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-14</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000033758909" date_publi="2016-12-31" date_signature="2016-12-30" ministere="Ministère de l'intérieur" nature="DECRET" nor="INTE1631234D" num="2016-2003" num_parution_jo="0304">
+<TITRE_TXT c_titre_court="Décret n°2016-2003 du 30 décembre 2016" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000033758909">Décret n° 2016-2003 du 30 décembre 2016 relatif à l'emploi de directeur départemental et directeur départemental adjoint des services d'incendie et de secours</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°2016-2003 du 30 décembre 2016" debut="2025-06-14" fin="2999-01-01" id_txt="LEGITEXT000051728600">Décret n° 2016-2003 du 30 décembre 2016 relatif à l'emploi de directeur départemental, directeur départemental adjoint et sous-directeur des services d'incendie et de secours</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°2016-2003 du 30 décembre 2016" debut="2017-01-01" fin="2025-06-14" id_txt="LEGITEXT000033792609">Décret n° 2016-2003 du 30 décembre 2016 relatif à l'emploi de directeur départemental et directeur départemental adjoint des services d'incendie et de secours</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2025-06-14" fin="2999-01-01" id="LEGISCTA000051726008">Titre II : Emplois de sous-directeurs des services d'incendie et de secours</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-06-14" fin="2999-01-01" id="LEGISCTA000051726010">Chapitre Ier : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051726393" num="14-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les emplois de sous-directeur des services d'incendie et de secours sont occupés par les colonels de sapeurs-pompiers professionnels, les lieutenants-colonels de sapeurs-pompiers professionnels justifiant de six ans de services effectifs dans un ou plusieurs emplois de chef de groupement, ainsi que, s'agissant de la sous-direction santé, les médecins hors classe et les médecins de classe exceptionnelle de sapeurs-pompiers professionnels justifiant de six ans de services effectifs dans un ou plusieurs services d'incendie.<br/>
+<br/>
+ Peuvent également être nommés dans ces emplois des fonctionnaires relevant de corps ou de cadres d'emplois de catégorie A de grade équivalents à ceux des sapeurs-pompiers professionnels mentionnés à l'alinéa précédent ou par des agents qui, n'ayant pas la qualité de fonctionnaire, remplissent les conditions générales d'accès à la fonction publique prévues aux articles L. 321-1 à L. 321-3 du code général de la fonction publique et ayant exercé des responsabilités d'un niveau équivalent.<br/>
+<br/>
+ Les agents nommés sous-directeurs, à l'exception des officiers du cadre d'emplois de conception et de direction des sapeurs-pompiers professionnels, reçoivent, dans l'année suivant cette nomination, la formation de professionnalisation de chef de groupement s'ils ne l'ont pas validée auparavant.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000044416551" datesignatexte="2999-01-01" id="LEGISCTA000044421572" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général de la fonction publique</LIEN>
+<LIEN cidtexte="JORFTEXT000051724908" datesignatexte="2025-06-11" id="LEGIARTI000051725575" naturetexte="DECRET" nortexte="INTE2229726D" num="4" numtexte="2025-523" sens="cible" typelien="CREE">Décret n°2025-523 du 11 juin 2025 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000051724908" datesignatexte="2025-06-11" id="LEGIARTI000051725579" naturetexte="DECRET" nortexte="INTE2229726D" num="6" numtexte="2025-523" sens="cible" typelien="CITATION">Décret n°2025-523 du 11 juin 2025 - art. 6 (V)</LIEN>
+</LIENS>
+</ARTICLE>

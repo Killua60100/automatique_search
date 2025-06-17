@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000047329997</ID>
+<TITRE_TA>Chapitre Ier : Concours de la voie générale</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2024-01-01" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000047330026" num="3" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741422" num="3" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000047329443" date_publi="2023-03-22" date_signature="2023-03-21" ministere="Première ministre" nature="ARRETE" nor="PRMG2306938A" num="" num_parution_jo="0069">
+<TITRE_TXT c_titre_court="Arrêté du 21 mars 2023" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000047329443">Arrêté du 21 mars 2023 fixant les modalités d'organisation, la nature, la durée, les coefficients et le programme des épreuves des concours d'entrée à l'Institut national du service public et les modalités d'organisation des concours d'accès aux cycles préparatoires au concours interne et au troisième concours</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 21 mars 2023" debut="2024-01-01" fin="2999-01-01" id_txt="LEGITEXT000047329993">Arrêté du 21 mars 2023 fixant les modalités d'organisation, la nature, la durée, les coefficients et le programme des épreuves des concours d'entrée à l'Institut national du service public et les modalités d'organisation des concours d'accès aux cycles préparatoires au concours interne et au troisième concours</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2024-01-01" fin="2999-01-01" id="LEGISCTA000047330004">Titre II : CONCOURS INTERNE D'ENTRÉE À L'INSTITUT NATIONAL DU SERVICE PUBLIC</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

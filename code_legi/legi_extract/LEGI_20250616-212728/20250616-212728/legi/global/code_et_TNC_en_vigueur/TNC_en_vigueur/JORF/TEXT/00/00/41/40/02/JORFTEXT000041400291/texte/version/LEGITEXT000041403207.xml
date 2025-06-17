@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000041403207</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/41/40/32/LEGITEXT000041403207.xml</URL>
+<NATURE>DECRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000041400291</CID>
+<NUM>2020-26</NUM>
+<NUM_PARUTION>0012</NUM_PARUTION>
+<NUM_SEQUENCE>36</NUM_SEQUENCE>
+<NOR>LOGL1935489D</NOR>
+<DATE_PUBLI>2020-01-15</DATE_PUBLI>
+<DATE_TEXTE>2020-01-14</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2025-05-25</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0012 du 15 janvier 2020</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Décret n°2020-26 du 14 janvier 2020</TITRE>
+<TITREFULL>Décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2020-01-16</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000880200" datesignatexte="1965-07-10" id="JORFTEXT000000880200" naturetexte="LOI" nortexte="" num="" numtexte="65-557" sens="source" typelien="CITATION">Loi n° 65-557 du 10 juillet 1965 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000889241" datesignatexte="1975-12-31" id="JORFTEXT000000889241" naturetexte="LOI" nortexte="" num="" numtexte="75-1334" sens="source" typelien="CITATION">Loi n° 75-1334 du 31 décembre 1975 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000886460" datesignatexte="1978-01-06" id="JORFTEXT000000886460" naturetexte="LOI" nortexte="" num="" numtexte="78-17" sens="source" typelien="CITATION">Loi n° 78-17 du 6 janvier 1978 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029257402" datesignatexte="2014-07-16" id="JORFTEXT000029257402" naturetexte="DECRET" nortexte="ETLL1411462D" num="" numtexte="2014-812" sens="source" typelien="CITATION">DÉCRET n°2014-812 du 16 juillet 2014 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000036964133" datesignatexte="2018-05-30" id="JORFTEXT000036964133" naturetexte="DECRET" nortexte="TERL1802835D" num="" numtexte="2018-416" sens="source" typelien="CITATION">Décret n°2018-416 du 30 mai 2018 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000039683923" datesignatexte="2019-12-28" id="JORFTEXT000039683923" naturetexte="LOI" nortexte="CPAX1925229L" num="" numtexte="2019-1479" sens="source" typelien="APPLICATION">LOI n° 2019-1479 du 28 décembre 2019</LIEN>
+<LIEN cidtexte="JORFTEXT000039683923" datesignatexte="2019-12-28" id="JORFTEXT000039683923" naturetexte="LOI" nortexte="CPAX1925229L" num="" numtexte="2019-1479" sens="source" typelien="CITATION">LOI n° 2019-1479 du 28 décembre 2019 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000039683923" datesignatexte="2019-12-28" id="JORFARTI000039683948" naturetexte="LOI" nortexte="CPAX1925229L" num="15" numtexte="2019-1479" sens="source" typelien="CITATION">LOI n° 2019-1479 du 28 décembre 2019 - art. 15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGITEXT000006069577" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général des impôts, CGI. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000006303331" naturetexte="CODE" nortexte="" num="200 quater" numtexte="" sens="source" typelien="CITATION">Code général des impôts, CGI. - art. 200 quater (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000020025258" naturetexte="CODE" nortexte="" num="244 quater U" numtexte="" sens="source" typelien="CITATION">Code général des impôts, CGI. - art. 244 quater U (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070721" datesignatexte="2999-01-01" id="LEGITEXT000006070721" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code civil (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGITEXT000006073984" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des assurances (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGITEXT000006074096" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la construction et de l'habitation. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGITEXT000023983208" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'énergie (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000031366350" datesignatexte="2999-01-01" id="LEGITEXT000031366350" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des relations entre le public et l'administration (V)</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Le Premier ministre,<br/>Sur le rapport de la ministre de la transition écologique et solidaire et de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales,<br/>Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;<br/>Vu le code des assurances, notamment ses articles L. 125-1 et L. 122-7 ;<br/>Vu le code civil, notamment son article 1231-6 ;<br/>Vu le code de la construction et de l'habitation, notamment ses articles L. 301-1, L. 313-3, L. 321-1 et suivants, R. 138-2, R. 321-11, R. 321-12, R. 372-1 et D. 372-19 ;<br/>Vu le code de l'énergie, notamment ses articles L. 221-2 et suivants ;<br/>Vu le code général des impôts, notamment ses articles 200 quater et l'article 46 AX de son annexe 3 ;<br/>Vu le code des relations entre le public et l'administration, notamment les chapitres Ier et II du titre Ier du livre IV ;<br/>Vu la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis ;<br/>Vu la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance ;<br/>Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;<br/>Vu la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020, notamment son article 15 ;<br/>Vu le décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts ;<br/>Vu le décret n° 2018-416 du 30 mai 2018 relatif aux conditions de qualification des auditeurs réalisant l'audit énergétique éligible au crédit d'impôt sur le revenu pour la transition énergétique prévues au dernier alinéa du 2 de l'article 200 quater du code général des impôts ;<br/>Vu l'avis du Conseil national de l'habitat en date du 18 décembre 2019 ;<br/>Vu la saisine du conseil départemental de la Guadeloupe en date du 16 décembre 2019 ;<br/>Vu la saisine du conseil régional de la Guadeloupe en date du 16 décembre 2019 ;<br/>Vu la saisine du conseil départemental de La Réunion en date du 16 décembre 2019 ;<br/>Vu la saisine de l'assemblée de Martinique en date du 16 décembre 2019 ;<br/>Vu la saisine de l'assemblée de Guyane en date du 17 décembre 2019 ;<br/>Vu la saisine du conseil régional de La Réunion en date du 17 décembre 2019 ;<br/>Vu la saisine du conseil départemental de Mayotte en date du 23 décembre 2019,<br/>Décrète :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 14 janvier 2020.</p>
+</div>
+<div align="left">
+<p>Edouard Philippe</p>
+<p>Par le Premier ministre :</p>
+</div>
+<div align="left">
+<p>Le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement,</p>
+<p>Julien Denormandie</p>
+</div>
+<div align="left">
+<p>La ministre de la transition écologique et solidaire,</p>
+<p>Elisabeth Borne</p>
+</div>
+<div align="left">
+<p>Le ministre de l'économie et des finances,</p>
+<p>Bruno Le Maire</p>
+</div>
+<div align="left">
+<p>Le ministre de l'action et des comptes publics,</p>
+<p>Gérald Darmanin</p>
+</div>
+<div align="left">
+<p>La ministre de la cohésion des territoires et des relations avec les collectivités territoriales,</p>
+<p>Jacqueline Gourault</p>
+</div>
+<div align="left">
+<p>La ministre des outre-mer,</p>
+<p>Annick Girardin</p>
+</div>
+<div align="left">
+<p>La secrétaire d'Etat auprès de la ministre de la transition écologique et solidaire,</p>
+<p>Emmanuelle Wargon</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000042548556</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/42/54/85/LEGIARTI000042548556.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>42</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2020-11-22</DATE_DEBUT>
+<DATE_FIN>2022-02-27</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000511476" date_publi="1971-12-03" date_signature="1971-11-26" ministere="" nature="DECRET" nor="" num="71-941" num_parution_jo="">
+<TITRE_TXT c_titre_court="Décret n° 71-941 du 26 novembre 1971" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000511476">Décret n° 71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°71-941 du 26 novembre 1971" debut="1971-12-03" fin="2999-01-01" id_txt="LEGITEXT000006061875">Décret n°71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2006-02-01" fin="2999-01-01" id="LEGISCTA000006093909">Titre X : Dispositions finales</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-02-01" etat="MODIFIE" fin="2016-05-26" id="LEGIARTI000006490452" num="42" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-05-26" etat="MODIFIE" fin="2020-11-22" id="LEGIARTI000032586815" num="42" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-11-22" etat="MODIFIE" fin="2022-02-27" id="LEGIARTI000042548556" num="42" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE_DIFF">
+<LIEN_ART debut="2022-02-27" etat="ABROGE_DIFF" fin="2025-10-01" id="LEGIARTI000045268495" num="42" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741595" num="42" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les dispositions du présent décret dans leur rédaction résultant du décret n° 2020-1422 du 20 novembre 2020 sont applicables dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, à l'exception dans ces dernières des dispositions relatives à l'acte authentique sur support électronique.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000042544060" datesignatexte="2020-11-20" id="LEGIARTI000042546457" naturetexte="DECRET" nortexte="JUSC2025928D" num="1" numtexte="2020-1422" sens="cible" typelien="MODIFIE">Décret n°2020-1422 du 20 novembre 2020 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000042544060" datesignatexte="2020-11-20" id="JORFTEXT000042544060" naturetexte="DECRET" nortexte="JUSC2025928D" num="" numtexte="2020-1422" sens="source" typelien="CITATION">Décret n°2020-1422 du 20 novembre 2020</LIEN>
+
+</LIENS>
+</ARTICLE>

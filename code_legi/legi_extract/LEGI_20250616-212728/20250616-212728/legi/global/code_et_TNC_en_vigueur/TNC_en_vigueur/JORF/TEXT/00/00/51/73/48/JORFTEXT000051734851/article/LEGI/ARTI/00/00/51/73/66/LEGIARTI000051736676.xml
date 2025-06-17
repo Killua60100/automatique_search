@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051736676</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/66/LEGIARTI000051736676.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>31</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>PARTIELLEMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000051734851" date_publi="2025-06-14" date_signature="2025-06-13" ministere="" nature="LOI" nor="JUSX2430702L" num="2025-532" num_parution_jo="0137">
+<TITRE_TXT c_titre_court="LOI n°2025-532 du 13 juin 2025" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000051734851">LOI n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2025-532 du 13 juin 2025" debut="2025-06-15" fin="2999-01-01" id_txt="LEGITEXT000051736616">LOI n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic (1)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051736623">Titre V : MESURES DE PROCÉDURE PÉNALE ET FACILITATION DE L'UTILISATION DES TECHNIQUES SPÉCIALES D'ENQUÊTE</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051736676" num="31" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000051734879" num="31" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I. - A modifié les dispositions suivantes :</p>
+<blockquote>- Code pénal
+<blockquote>
+ Art. 132-78,  Art. 221-5-3,  Art. 222-6-2,  Art. 224-5-1,  Art. 224-8-1,  Art. 225-4-9,  Art. 225-11-1,  Art. 312-6-1,  Art. 311-9-1,  Art. 324-6-1,  Art. 222-43,  Art. 422-2,  Art. 442-10,  Art. 414-4,  Art. 432-11-1,  Art. 435-6-1,  Art. 435-11-1,  Art. 450-2
+</blockquote>
+</blockquote>
+<p>A créé les dispositions suivantes :</p>
+<blockquote>- Code pénal
+<blockquote>
+ Art. 132-78-1
+</blockquote>
+</blockquote>
+<br/>
+<p>A créé les dispositions suivantes :</p>
+<blockquote>- Code pénal
+<blockquote>
+ Art. 222-67-1
+</blockquote>
+</blockquote>
+<br/>
+<br/>
+<p>II. - A modifié les dispositions suivantes :</p>
+<blockquote>- Code de la défense.
+<blockquote>
+ Art. L1333-13-10,  Art. L2339-13,  Art. L2342-76,  Art. L2341-6,  Art. L2353-9
+</blockquote>
+</blockquote>
+<p>
+<br/>
+III. - A modifié les dispositions suivantes :</p>
+<blockquote>- Code général des impôts, CGI.
+<blockquote>
+ Art. 1741
+</blockquote>
+</blockquote>
+<br/>
+<p>IV. - A créé les dispositions suivantes :</p>
+<blockquote>- Code monétaire et financier
+<blockquote>
+ Art. L465-3-7
+</blockquote>
+</blockquote>
+<p>V. - A modifié les dispositions suivantes :</p>
+<blockquote>- Code de procédure pénale
+<blockquote>
+ Sct. Titre XXI bis : Des collaborateurs de justice,  Art. 706-63-1,  Art. 706-63-2
+</blockquote>
+</blockquote>
+<p>A créé les dispositions suivantes :</p>
+<blockquote>- Code de procédure pénale
+<blockquote>
+ Art. 706-63-1-1,  Sct. Chapitre 1er : De l'octroi du statut de collaborateur de justice,  Art. 706-63-1-2,  Art. 706-63-1 A,  Art. 706-63-1 B,  Art. 706-63-1 C,  Art. 706-63-1 D,  Art. 706-63-1 E,  Art. 706-63-1 F,  Art. 706-63-1 G,  Art. 706-63-1 H,  Sct. Chapitre II : De la protection des collaborateurs de justice
+</blockquote>
+</blockquote>
+<div>
+<p>VI. - Dans un délai de cinq ans à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'évolution du statut de collaborateur de justice.</p>
+</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000051742509" naturetexte="CODE" nortexte="" num="1741" numtexte="" sens="source" typelien="MODIFIE">Code général des impôts, CGI. - art. 1741 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742458" naturetexte="CODE" nortexte="" num="132-78" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 132-78 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051738525" naturetexte="CODE" nortexte="" num="132-78-1" numtexte="" sens="source" typelien="CREE">Code pénal - art. 132-78-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742453" naturetexte="CODE" nortexte="" num="221-5-3" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 221-5-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742405" naturetexte="CODE" nortexte="" num="222-43" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 222-43 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742438" naturetexte="CODE" nortexte="" num="222-6-2" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 222-6-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051739087" naturetexte="CODE" nortexte="" num="222-67-1" numtexte="" sens="source" typelien="CREE">Code pénal - art. 222-67-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742448" naturetexte="CODE" nortexte="" num="224-5-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 224-5-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742443" naturetexte="CODE" nortexte="" num="224-8-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 224-8-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742428" naturetexte="CODE" nortexte="" num="225-11-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 225-11-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742433" naturetexte="CODE" nortexte="" num="225-4-9" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 225-4-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742414" naturetexte="CODE" nortexte="" num="311-9-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 311-9-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742421" naturetexte="CODE" nortexte="" num="312-6-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 312-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742376" naturetexte="CODE" nortexte="" num="324-6-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 324-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742379" naturetexte="CODE" nortexte="" num="414-4" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 414-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742399" naturetexte="CODE" nortexte="" num="422-2" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 422-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742371" naturetexte="CODE" nortexte="" num="432-11-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 432-11-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742361" naturetexte="CODE" nortexte="" num="435-11-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 435-11-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742366" naturetexte="CODE" nortexte="" num="435-6-1" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 435-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742391" naturetexte="CODE" nortexte="" num="442-10" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 442-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051741790" naturetexte="CODE" nortexte="" num="450-2" numtexte="" sens="source" typelien="MODIFIE">Code pénal - art. 450-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGISCTA000051739245" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CREE">Code de procédure pénale -  Chapitre 1er : De l'octroi du statut de collabo... (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGISCTA000051739263" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CREE">Code de procédure pénale -  Chapitre II : De la protection des collaborateu... (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGISCTA000051742551" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="MODIFIE">Code de procédure pénale -  Titre XXI bis : Des collaborateurs de justice (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742546" naturetexte="CODE" nortexte="" num="706-63-1" numtexte="" sens="source" typelien="MODIFIE">Code de procédure pénale - art. 706-63-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739247" naturetexte="CODE" nortexte="" num="706-63-1 A" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1 A (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739249" naturetexte="CODE" nortexte="" num="706-63-1 B" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1 B (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739251" naturetexte="CODE" nortexte="" num="706-63-1 C" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1 C (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739253" naturetexte="CODE" nortexte="" num="706-63-1 D" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1 D (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739255" naturetexte="CODE" nortexte="" num="706-63-1 E" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1 E (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739257" naturetexte="CODE" nortexte="" num="706-63-1 F" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1 F (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739259" naturetexte="CODE" nortexte="" num="706-63-1 G" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1 G (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739261" naturetexte="CODE" nortexte="" num="706-63-1 H" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1 H (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739288" naturetexte="CODE" nortexte="" num="706-63-1-1" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051739290" naturetexte="CODE" nortexte="" num="706-63-1-2" numtexte="" sens="source" typelien="CREE">Code de procédure pénale - art. 706-63-1-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742538" naturetexte="CODE" nortexte="" num="706-63-2" numtexte="" sens="source" typelien="MODIFIE">Code de procédure pénale - art. 706-63-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000051742502" naturetexte="CODE" nortexte="" num="L1333-13-10" numtexte="" sens="source" typelien="MODIFIE">Code de la défense. - art. L1333-13-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000051742496" naturetexte="CODE" nortexte="" num="L2339-13" numtexte="" sens="source" typelien="MODIFIE">Code de la défense. - art. L2339-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000051742481" naturetexte="CODE" nortexte="" num="L2341-6" numtexte="" sens="source" typelien="MODIFIE">Code de la défense. - art. L2341-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000051742488" naturetexte="CODE" nortexte="" num="L2342-76" numtexte="" sens="source" typelien="MODIFIE">Code de la défense. - art. L2342-76 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000051742469" naturetexte="CODE" nortexte="" num="L2353-9" numtexte="" sens="source" typelien="MODIFIE">Code de la défense. - art. L2353-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000051739191" naturetexte="CODE" nortexte="" num="L465-3-7" numtexte="" sens="source" typelien="CREE">Code monétaire et financier - art. L465-3-7 (V)</LIEN>
+</LIENS>
+</ARTICLE>

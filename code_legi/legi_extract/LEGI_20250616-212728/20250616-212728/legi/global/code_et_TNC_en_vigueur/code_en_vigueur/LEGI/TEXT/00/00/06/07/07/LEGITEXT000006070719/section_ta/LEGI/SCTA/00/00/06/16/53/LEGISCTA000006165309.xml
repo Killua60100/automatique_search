@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165309</ID>
+<TITRE_TA>Section 1 : De l'atteinte à la vie privée</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2020-08-01" id="LEGIARTI000006417929" num="226-1" origine="LEGI"/>
+<LIEN_ART debut="2020-08-01" etat="MODIFIE" fin="2024-02-21" id="LEGIARTI000042193566" num="226-1" origine="LEGI"/>
+<LIEN_ART debut="2024-02-21" etat="MODIFIE" fin="2024-03-23" id="LEGIARTI000049164422" num="226-1" origine="LEGI"/>
+<LIEN_ART debut="2024-03-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049312755" num="226-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417928" num="226-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417930" num="226-2" origine="LEGI"/>
+<LIEN_ART debut="2016-10-09" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033207318" num="226-2-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006417931" num="226-3" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2011-08-27" id="LEGIARTI000023713219" num="226-3" origine="LEGI"/>
+<LIEN_ART debut="2011-08-27" etat="MODIFIE" fin="2013-12-20" id="LEGIARTI000024506267" num="226-3" origine="LEGI"/>
+<LIEN_ART debut="2013-12-20" etat="MODIFIE" fin="2015-10-03" id="LEGIARTI000028345197" num="226-3" origine="LEGI"/>
+<LIEN_ART debut="2015-10-03" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000030939523" num="226-3" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000032654043" num="226-3" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2019-08-03" id="LEGIARTI000038311607" num="226-3" origine="LEGI"/>
+<LIEN_ART debut="2019-08-03" etat="MODIFIE" fin="2020-08-01" id="LEGIARTI000038891071" num="226-3" origine="LEGI"/>
+<LIEN_ART debut="2020-08-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042193578" num="226-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417932" num="226-4" origine="LEGI"/>
+<LIEN_ART debut="2018-08-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037288087" num="226-3-1" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2015-06-26" id="LEGIARTI000006417933" num="226-4" origine="LEGI"/>
+<LIEN_ART debut="2015-06-26" etat="MODIFIE" fin="2023-07-29" id="LEGIARTI000030776820" num="226-4" origine="LEGI"/>
+<LIEN_ART debut="2023-07-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047899987" num="226-4" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2020-08-01" id="LEGIARTI000023709201" num="226-4-1" origine="LEGI"/>
+<LIEN_ART debut="2020-08-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042193593" num="226-4-1" origine="LEGI"/>
+<LIEN_ART debut="2014-03-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028776961" num="226-4-2" origine="LEGI"/>
+<LIEN_ART debut="2023-07-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047898844" num="226-4-2-1" origine="LEGI"/>
+<LIEN_ART debut="2023-02-04" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047087825" num="226-4-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417934" num="226-5" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2016-10-09" id="LEGIARTI000006417935" num="226-6" origine="LEGI"/>
+<LIEN_ART debut="2016-10-09" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033219748" num="226-6" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006417936" num="226-7" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020630884" num="226-7" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149831">Chapitre VI : Des atteintes à la personnalité</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

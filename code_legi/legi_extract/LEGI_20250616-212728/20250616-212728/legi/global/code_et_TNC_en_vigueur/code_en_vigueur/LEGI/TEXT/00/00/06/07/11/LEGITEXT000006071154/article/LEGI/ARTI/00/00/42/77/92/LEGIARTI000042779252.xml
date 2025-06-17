@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000042779252</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/42/77/92/LEGIARTI000042779252.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-76</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2020-12-27</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151937">Chapitre Ier : Compétence des juridictions spécialisées</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2005-04-01" id="LEGIARTI000006577784" num="706-76" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-04-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000006577785" num="706-76" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="2017-01-01" etat="MODIFIE_MORT_NE" fin="2016-11-20" id="LEGIARTI000026939120" num="706-76" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000039279228" num="706-76" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2020-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042779252" num="706-76" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le procureur de la République, le juge d'instruction, la formation correctionnelle spécialisée du tribunal judiciaire et la cour d'assises visés à l'article 706-75 exercent, sur toute l'étendue du ressort fixé en application de cet article, une compétence concurrente à celle qui résulte de l'application des articles 43,52,382 et 706-42. </p>
+<p>La juridiction saisie demeure compétente, quelles que soient les incriminations retenues lors du règlement ou du jugement de l'affaire. Toutefois, si les faits constituent une contravention, le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de police compétent en application de l'article 522.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance n° 58-1296 du 23 décembre 1958</LIEN>
+<LIEN cidtexte="JORFTEXT000000376606" datesignatexte="1996-06-19" id="LEGIARTI000039280528" naturetexte="LOI" nortexte="INDX9500023L" num="10-1" numtexte="96-542" sens="cible" typelien="CITATION">Loi n° 96-542 du 19 juin 1996 - art. 10-1 (VD)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000042737977" datesignatexte="2020-12-24" id="LEGIARTI000042743873" naturetexte="LOI" nortexte="JUSX1933222L" num="12" numtexte="2020-1672" sens="cible" typelien="MODIFIE">LOI n°2020-1672 du 24 décembre 2020 - art. 12</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576386" naturetexte="CODE" nortexte="" num="382" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 382</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006574978" naturetexte="CODE" nortexte="" num="43" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 43</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575006" naturetexte="CODE" nortexte="" num="52" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 52</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576800" naturetexte="CODE" nortexte="" num="522" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 522 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577671" naturetexte="CODE" nortexte="" num="706-42" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-42</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577782" naturetexte="CODE" nortexte="" num="706-75" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-75</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039279221" naturetexte="CODE" nortexte="" num="706-77" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-77 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000031052025" naturetexte="CODE" nortexte="" num="706-79" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-79 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038312770" naturetexte="CODE" nortexte="" num="706-80" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-80 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051742598" naturetexte="CODE" nortexte="" num="67 bis" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 bis (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000041785539" naturetexte="CODE" nortexte="" num="67 ter A" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 ter A (V)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006183681</ID>
+<TITRE_TA>Sous-section 1 : Assiette des cotisations</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006193659" debut="2005-04-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006193659" niv="7" url="/LEGI/SCTA/00/00/06/19/36/LEGISCTA000006193659.xml">Paragraphe 1 : Cotisations assises sur les salaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006193660" debut="2005-04-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006193660" niv="7" url="/LEGI/SCTA/00/00/06/19/36/LEGISCTA000006193660.xml">Paragraphe 2 : Cotisations assises sur les avantages de retraite.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006193661" debut="2005-04-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006193661" niv="7" url="/LEGI/SCTA/00/00/06/19/36/LEGISCTA000006193661.xml">Paragraphe 3 : Cotisations assises sur les revenus de remplacement.</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1979-12-01" fin="2999-01-01" id="LEGISCTA000006098287">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-04-22" fin="2999-01-01" id="LEGISCTA000006121479">Livre VII : Dispositions sociales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-04-22" fin="2999-01-01" id="LEGISCTA000006138448">Titre IV : Protection sociale des personnes salariées des professions agricoles</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-04-22" fin="2999-01-01" id="LEGISCTA000006152681">Chapitre Ier : Cotisations et autres financements</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-04-22" fin="2999-01-01" id="LEGISCTA000006168609">Section 3 : Assurances sociales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

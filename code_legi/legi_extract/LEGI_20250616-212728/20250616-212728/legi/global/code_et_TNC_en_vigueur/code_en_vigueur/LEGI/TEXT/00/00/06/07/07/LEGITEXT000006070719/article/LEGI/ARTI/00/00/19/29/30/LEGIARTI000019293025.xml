@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000019293025</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/19/29/30/LEGIARTI000019293025.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>450-3</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2008-08-06</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2025-06-15" id="LEGISCTA000006136048">Titre V : De la participation à une association de malfaiteurs</TITRE_TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051741807">Titre V : De la participation à une association de malfaiteurs et du concours à une organisation criminelle</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2008-08-06" id="LEGIARTI000006418855" num="450-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2008-08-06" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000019293025" num="450-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741779" num="450-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les personnes physiques coupables de l'infraction prévue par l'article 450-1 encourent également les peines complémentaires suivantes : </p>
+<br/>
+<p>1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 ; </p>
+<br/>
+<p>2° L'interdiction, suivant les modalités prévues par l'article 131-27, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement ; </p>
+<br/>
+<p>3° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31. 
+</p>
+<br/>
+<p>Peuvent être également prononcées à l'encontre de ces personnes les autres peines complémentaires encourues pour les crimes et les délits que le groupement ou l'entente avait pour objet de préparer.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000019283050" datesignatexte="2008-08-04" id="LEGIARTI000019285083" naturetexte="LOI" nortexte="ECEX0808477L" num="70" numtexte="2008-776" sens="cible" typelien="MODIFIE">LOI n°2008-776
+ du 4 août 2008 - art. 70</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417290" naturetexte="CODE" nortexte="" num="131-26" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417291" naturetexte="CODE" nortexte="" num="131-27" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417303" naturetexte="CODE" nortexte="" num="131-31" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-31 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418849" naturetexte="CODE" nortexte="" num="450-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 450-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

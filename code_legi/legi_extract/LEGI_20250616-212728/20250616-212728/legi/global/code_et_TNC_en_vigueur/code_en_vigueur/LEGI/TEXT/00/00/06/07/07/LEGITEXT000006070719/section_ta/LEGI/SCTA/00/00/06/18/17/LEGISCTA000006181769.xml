@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006181769</ID>
+<TITRE_TA>Paragraphe 3 : Des autres atteintes à l'autorité de la justice pénale</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418692" num="434-38" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418693" num="434-38" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418694" num="434-39" origine="LEGI"/>
+<LIEN_ART debut="2019-04-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038382833" num="434-38-1" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418695" num="434-39" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006418697" num="434-40" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000024041424" num="434-40" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418696" num="434-40" origine="LEGI"/>
+<LIEN_ART debut="2003-06-13" etat="MODIFIE" fin="2004-10-01" id="LEGIARTI000006418701" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000024030060" num="434-40-1" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2003-06-13" id="LEGIARTI000006418700" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418699" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2009-10-30" id="LEGIARTI000006418703" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2009-10-30" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000021212166" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="MODIFIE" fin="2014-03-27" id="LEGIARTI000028312077" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2014-03-27" etat="MODIFIE" fin="2018-11-25" id="LEGIARTI000028808065" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2018-11-25" etat="MODIFIE" fin="2021-01-01" id="LEGIARTI000037671481" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2021-01-01" etat="MODIFIE" fin="2024-04-11" id="LEGIARTI000042343367" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2024-04-11" etat="MODIFIE" fin="2024-05-23" id="LEGIARTI000049398987" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2024-05-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049571549" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006418702" num="434-41" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418706" num="434-42" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418705" num="434-42" origine="LEGI"/>
+<LIEN_ART debut="1992-07-23" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006418704" num="434-42" origine="LEGI"/>
+<LIEN_ART debut="2015-10-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000031050350" num="434-42-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE_MORT_NE" fin="1992-08-01" id="LEGIARTI000006418707" num="434-43" origine="LEGI"/>
+<LIEN_ART debut="2001-06-13" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418708" num="434-43" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418709" num="434-43" origine="LEGI"/>
+<LIEN_ART debut="2016-12-11" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033563420" num="434-43-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006136046">Titre III : Des atteintes à l'autorité de l'Etat</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006149850">Chapitre IV : Des atteintes à l'action de justice</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006165380">Section 3 : Des atteintes à l'autorité de la justice</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

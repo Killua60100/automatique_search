@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051736920</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/69/LEGIARTI000051736920.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000051735014" date_publi="2025-06-14" date_signature="2025-06-03" ministere="Ministère du travail, de la santé, des solidarités et des familles" nature="ARRETE" nor="TSSD2515384A" num="" num_parution_jo="0137">
+<TITRE_TXT c_titre_court="Arrêté du 3 juin 2025" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000051735014">Arrêté du 3 juin 2025 relatif au titre professionnel de gestionnaire des opérations de transport routier de marchandises</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 3 juin 2025" debut="2025-06-15" fin="2999-01-01" id_txt="LEGITEXT000051736904">Arrêté du 3 juin 2025 relatif au titre professionnel de gestionnaire des opérations de transport routier de marchandises</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051736920" num="3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000051735029" num="3" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Le titre professionnel de gestionnaire des opérations de transport routier de marchandises est constitué des trois blocs de compétences suivants :<br/>1° Concevoir, organiser, mettre en œuvre et piloter des prestations de transport routier de marchandises jusqu'à la clôture des dossiers ;<br/>2° Piloter les trafics réguliers sous contrat de sous-traitance ;<br/>3° Optimiser l'ensemble des moyens liés à l'activité de transport.<br/>Ils sont sanctionnés par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 22 décembre 2015 susvisé.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000031733810" datesignatexte="2015-12-22" id="JORFTEXT000031733810" naturetexte="ARRETE" nortexte="ETSD1530457A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 22 décembre 2015</LIEN>
+</LIENS>
+</ARTICLE>

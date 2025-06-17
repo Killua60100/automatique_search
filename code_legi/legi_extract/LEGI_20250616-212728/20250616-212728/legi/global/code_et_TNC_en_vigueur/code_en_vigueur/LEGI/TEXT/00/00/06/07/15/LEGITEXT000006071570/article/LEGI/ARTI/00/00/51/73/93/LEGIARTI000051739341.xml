@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051739341</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/93/LEGIARTI000051739341.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>67 bis-7</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006099261">Titre II : Organisation et fonctionnement du service des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006122076">Chapitre IV : Pouvoirs des agents des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-12-20" fin="2016-06-05" id="LEGISCTA000006138848">Section 7 : Livraisons surveillées.</TITRE_TM>
+<TITRE_TM debut="2016-06-05" fin="2999-01-01" id="LEGISCTA000032654987">Section 7 : Procédures spéciales d'enquête douanière</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739341" num="67 bis-7" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Pour la mise en œuvre des procédures mentionnées aux articles 67 bis-5 et 67 bis-6, les agents des douanes habilités peuvent être autorisés à recourir au procès-verbal distinct prévu à l'article 706-104 du code de procédure pénale. Ce recours s'effectue selon les mêmes conditions, formes et procédures.<br/>
+<br/>
+ Est compétent le juge des libertés et de la détention du tribunal judiciaire dans le ressort duquel la mise en place de la technique est envisagée. En cas d'autorisation, l'emploi de la technique s'effectue sous son contrôle ; il est informé sans délai des actes accomplis en application de son autorisation et peut à tout moment interrompre l'utilisation de la technique.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736726" naturetexte="LOI" nortexte="JUSX2430702L" num="53" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 53</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742921" naturetexte="CODE" nortexte="" num="706-104" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-104 (V)</LIEN>
+</LIENS>
+</ARTICLE>

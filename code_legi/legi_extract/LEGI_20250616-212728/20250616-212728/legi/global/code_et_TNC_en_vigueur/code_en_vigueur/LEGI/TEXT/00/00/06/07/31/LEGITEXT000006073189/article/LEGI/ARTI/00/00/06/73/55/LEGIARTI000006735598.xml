@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006735598</ID>
+<ANCIEN_ID>SSAXXXXXXXX3X114D01AXXAK</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/73/55/LEGIARTI000006735598.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>D114-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2007-05-05</DATE_DEBUT>
+<DATE_FIN>2010-07-31</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073189" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité sociale." debut="1958-10-16" fin="2999-01-01" id_txt="LEGITEXT000006073189">Code de la sécurité sociale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006106031">Partie réglementaire - Décrets simples</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006126846">Livre I : Généralités - Dispositions communes à tout ou partie des régimes de base</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006141503">Titre I : Généralités</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006155758">Chapitre 4 : Commissions et conseils</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006172086">Section 3 : Commission des comptes de la sécurité sociale.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1985-12-21" etat="MODIFIE" fin="1987-06-25" id="LEGIARTI000006735588" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1987-06-25" etat="MODIFIE" fin="1987-07-11" id="LEGIARTI000006735589" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1987-07-11" etat="MODIFIE" fin="1991-01-29" id="LEGIARTI000006735590" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1991-01-29" etat="MODIFIE" fin="1993-03-30" id="LEGIARTI000006735591" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-03-30" etat="MODIFIE" fin="1993-12-12" id="LEGIARTI000006735592" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-12-12" etat="MODIFIE" fin="1994-04-22" id="LEGIARTI000006735593" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-04-22" etat="MODIFIE" fin="1996-09-22" id="LEGIARTI000006735594" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1996-09-22" etat="MODIFIE" fin="1997-09-03" id="LEGIARTI000006735595" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1997-09-03" etat="MODIFIE" fin="2004-11-04" id="LEGIARTI000006735596" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-11-04" etat="MODIFIE" fin="2007-05-05" id="LEGIARTI000006735597" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-05-05" etat="MODIFIE" fin="2010-07-31" id="LEGIARTI000006735598" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-07-31" etat="MODIFIE" fin="2010-11-14" id="LEGIARTI000022658867" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-11-14" etat="MODIFIE" fin="2019-02-01" id="LEGIARTI000023098943" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-02-01" etat="MODIFIE" fin="2020-05-25" id="LEGIARTI000038086651" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-05-25" etat="MODIFIE" fin="2022-07-04" id="LEGIARTI000041968091" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-07-04" etat="MODIFIE" fin="2023-09-22" id="LEGIARTI000046021962" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-09-22" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000048093224" num="D114-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051737881" num="D114-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>La commission des comptes de la sécurité sociale, placée sous la présidence du ministre chargé de la sécurité sociale, comprend, en outre : <br/>
+<br/>1° Quatre membres de l'Assemblée nationale et quatre membres du Sénat désignés respectivement par le président de l'Assemblée nationale et par le président du Sénat ; <br/>
+<br/>2° Un membre du Conseil économique et social désigné par le président du Conseil économique et social ; <br/>
+<br/>3° Un magistrat de la Cour des comptes désigné par le premier président de la Cour des comptes ; <br/>
+<br/>4° Douze représentants des organisations professionnelles syndicales et sociales désignés à raison de : <br/>
+<br/>a) Cinq par les organisations syndicales les plus représentatives des salariés ; <br/>
+<br/>b) Trois par le conseil national du patronat français ; <br/>
+<br/>c) Un par la confédération générale des petites et moyennes entreprises ; <br/>
+<br/>d) Un par la fédération nationale des syndicats d'exploitants agricoles ; <br/>
+<br/>e) Un par l'assemblée permanente des chambres de métiers et de l'artisanat ; <br/>
+<br/>f) Un par l'union nationale des associations familiales. <br/>
+<br/>5° a) Le président du conseil d'administration de l'Agence centrale des organismes de sécurité sociale ; <br/>
+<br/>b) Le président du conseil d'administration de la Caisse nationale de l'assurance maladie des travailleurs salariés ; <br/>
+<br/>c) Le président de la commission des accidents du travail et des maladies professionnelles prévue à l'article L. 221-4 ; <br/>
+<br/>d) Le président du conseil d'administration de la Caisse nationale d'assurance vieillesse des travailleurs salariés ; <br/>
+<br/>e) Le président du conseil d'administration de la Caisse nationale des allocations familiales ; <br/>
+<br/>f) Le président du conseil central d'administration de la mutualité sociale agricole ; <br/>
+<br/>g) Le président du conseil d'administration de la Caisse nationale d'assurance vieillesse des professions libérales ; <br/>
+<br/>h) Le président du conseil d'administration de la Caisse nationale du régime social des indépendants ; <br/>
+<br/>i) Le président du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales ; <br/>
+<br/>j) La commission comprend en outre un représentant des régimes autres que ceux énumérés ci-dessus, désigné après entente entre les présidents des caisses et institutions intéressés ou, à défaut, par le ministre chargé de la sécurité sociale ; <br/>
+<br/>k) Le président du conseil d'administration du Fonds de solidarité vieillesse ; <br/>
+<br/>l) Le président du conseil d'administration de l'Association des régimes de retraites complémentaires ; <br/>
+<br/>m) Le président du conseil d'administration de l'Association générale des institutions de retraites des cadres ; <br/>
+<br/>n) Un représentant désigné par la Fédération nationale de la mutualité française ; <br/>
+<br/>6° Le président du Centre national des professions de santé ainsi que cinq représentants des organisations professionnelles de médecins et trois représentants des établissements de soins désignés par le ministre chargé de la sécurité sociale ; <br/>
+<br/>7° Sept personnalités qualifiées désignées pour leur compétence particulière par le ministre chargé de la sécurité sociale.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000515912" datesignatexte="1979-03-22" id="LEGIARTI000006761801" naturetexte="DECRET" nortexte="" num="1" numtexte="79-237" sens="source" typelien="CONCORDANCE">Décret n°79-237 du 22 mars 1979 - art. 1 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000515912" datesignatexte="1979-03-22" id="LEGIARTI000006761802" naturetexte="DECRET" nortexte="" num="1" numtexte="79-237" sens="cible" typelien="CONCORDE">Décret n°79-237 du 22 mars 1979 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000507924" datesignatexte="1985-12-17" id="JORFTEXT000000507924" naturetexte="DECRET" nortexte="" num="" numtexte="85-1354" sens="source" typelien="CODIFICATION">Décret 85-1354 1985-12-17</LIEN>
+<LIEN cidtexte="JORFTEXT000000504096" datesignatexte="1991-01-23" id="LEGITEXT000006067505" naturetexte="DECRET" nortexte="SPSS9001240D" num="" numtexte="91-110" sens="cible" typelien="TXT_ASSOCIE">Décret n°91-110 du 23 janvier 1991</LIEN>
+<LIEN cidtexte="JORFTEXT000000727216" datesignatexte="1993-03-29" id="LEGITEXT000006082025" naturetexte="DECRET" nortexte="SPSS9203167D" num="" numtexte="93-764" sens="cible" typelien="TXT_ASSOCIE">Décret n°93-764 du 29 mars 1993</LIEN>
+<LIEN cidtexte="JORFTEXT000000882341" datesignatexte="1993-12-10" id="LEGITEXT000006067911" naturetexte="DECRET" nortexte="SPSS9303050D" num="" numtexte="93-1295" sens="cible" typelien="TXT_ASSOCIE">Décret n°93-1295 du 10 décembre 1993</LIEN>
+<LIEN cidtexte="JORFTEXT000000363829" datesignatexte="1994-04-14" id="LEGITEXT000005615661" naturetexte="DECRET" nortexte="SPSS9400711D" num="" numtexte="94-305" sens="cible" typelien="TXT_ASSOCIE">Décret n°94-305 du 14 avril 1994</LIEN>
+<LIEN cidtexte="JORFTEXT000000348356" datesignatexte="1994-04-19" id="LEGIARTI000027505496" naturetexte="ARRETE" nortexte="SPSC9401292A" num="Annexe" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 avril 1994 - art. Annexe (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000566834" datesignatexte="1997-09-01" id="LEGITEXT000005624160" naturetexte="DECRET" nortexte="MESS9722221D" num="" numtexte="97-812" sens="cible" typelien="TXT_SOURCE">Décret n°97-812 du 1 septembre 1997</LIEN>
+<LIEN cidtexte="JORFTEXT000000461512" datesignatexte="2007-05-04" id="LEGIARTI000006263782" naturetexte="DECRET" nortexte="SANS0721468D" num="5" numtexte="2007-709" sens="source" typelien="MODIFICATION">Décret n°2007-709 du 4 mai 2007 - art. 5 () JORF 5 mai 2007</LIEN>
+<LIEN cidtexte="JORFTEXT000051735005" datesignatexte="2025-06-12" id="LEGITEXT000051736963" naturetexte="DECRET" nortexte="TSSS2513635D" num="" numtexte="2025-535" sens="cible" typelien="CITATION">Décret n°2025-535 du 12 juin 2025 (V)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000046356467" naturetexte="CODE" nortexte="" num="D114-4-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D114-4-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006742272" naturetexte="CODE" nortexte="" num="L221-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L221-4 (V)</LIEN>
+</LIENS>
+</ARTICLE>

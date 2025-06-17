@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000005629989</ID>
+<ANCIEN_ID>UTFAH</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/05/62/99/LEGITEXT000005629989.xml</URL>
+<NATURE>ORDONNANCE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000000218883</CID>
+<NUM>2000-930</NUM>
+<NUM_PARUTION/>
+<NUM_SEQUENCE>0</NUM_SEQUENCE>
+<NOR>EQUX0000053R</NOR>
+<DATE_PUBLI>2000-09-24</DATE_PUBLI>
+<DATE_TEXTE>2000-09-22</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2001-06-01</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI>0</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>0</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Ordonnance n° 2000-930 du 22 septembre 2000</TITRE>
+<TITREFULL>Ordonnance n° 2000-930 du 22 septembre 2000 relative à la partie Législative du code de la route.</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2001-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000218883" datesignatexte="2000-09-22" id="LEGIARTI000006879576" naturetexte="ORDONNANCE" nortexte="EQUX0000053R" num="6" numtexte="2000-930" sens="source" typelien="SPEC_APPLI">Ordonnance 2000-930 2000-09-22 art. 6</LIEN>
+<LIEN cidtexte="JORFTEXT000000603464" datesignatexte="2003-06-12" id="JORFTEXT000000603464" naturetexte="LOI" nortexte="EQUX0200012L" num="" numtexte="2003-495" sens="source" typelien="CODIFICATION">Loi 2003-495 2003-06-12 art. 38 JORF 13 juin 2003 (ratification)</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<br/>   Le Président de la République,<br/>
+<br/>   Sur le rapport du Premier ministre et du ministre de l'équipement, des transports et du logement,<br/>
+<br/>   Vu la Constitution, notamment son article 38 ;<br/>
+<br/>   Vu la loi n° 99-1071 du 16 décembre 1999 portant habilitation du Gouvernement à procéder, par ordonnances, à l'adoption de la partie Législative de certains codes ;<br/>
+<br/>   Vu le code général des collectivités territoriales ;<br/>
+<br/>   Vu le code de la voirie routière ;<br/>
+<br/>   Vu l'avis du groupe interministériel permanent de la sécurité routière en date du 14 janvier 2000 ;<br/>
+<br/>   Vu l'avis de la Commission supérieure de codification en date du 1er mars 2000 ;<br/>
+<br/>   Le Conseil d'Etat entendu ;<br/>
+<br/>   Le conseil des ministres entendu,<br/>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>Jacques Chirac<br/>
+<br/>            Par le Président de la République :<br/>
+ Le Premier ministre,<br/>
+ Lionel Jospin<br/>
+ Le ministre de l'équipement, des transports et du logement,<br/>
+ Jean-Claude Gayssot<br/>
+ Le ministre de l'intérieur,<br/>
+ Daniel Vaillant<br/>
+ Le secrétaire d'Etat à l'outre-mer,<br/>
+ Christian Paul<br/>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

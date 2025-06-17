@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006372697</ID>
+<ANCIEN_ID>MSHHKXXXXXX012AAXXXXXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/37/26/LEGIARTI000006372697.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>12</NUM>
+
+<ETAT>ABROGE</ETAT>
+
+<DATE_DEBUT>1998-06-07</DATE_DEBUT>
+<DATE_FIN>2017-07-13</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000525014" date_publi="1990-09-26" date_signature="1990-09-25" ministere="MINISTERE DE L'INTERIEUR" nature="DECRET" nor="INTE9000277D" num="90-850" num_parution_jo="0223">
+<TITRE_TXT c_titre_court="Décret n°90-850 du 25 septembre 1990" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000525014">Décret  no 90-850 du 25 septembre 1990 portant dispositions communes à    l'ensemble des sapeurs-pompiers professionnels</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°90-850 du 25 septembre 1990" debut="1990-09-26" fin="2999-01-01" id_txt="LEGITEXT000006076555">Décret n°90-850 du 25 septembre 1990 portant dispositions communes à l'ensemble des sapeurs-pompiers professionnels</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1998-06-07" fin="2999-01-01" id="LEGISCTA000006086674">CHAPITRE IV : Honneurs et récompenses.</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1990-09-26" etat="MODIFIE" fin="1998-06-07" id="LEGIARTI000006372696" num="12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1998-06-07" etat="ABROGE" fin="2017-07-13" id="LEGIARTI000006372697" num="12" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045657108" num="12" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La médaille d'honneur des sapeurs-pompiers récompense les sapeurs-pompiers professionnels qui ont constamment fait preuve de dévouement dans l'exercice de leurs fonctions.<br/>
+<br/>   La médaille d'honneur des sapeurs-pompiers comprend la médaille d'ancienneté et la médaille avec rosette pour services exceptionnels.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000312664" datesignatexte="1988-05-06" id="JORFTEXT000000312664" naturetexte="DECRET" nortexte="INTE8800170D" num="" numtexte="88-623" sens="source" typelien="TXT_SOURCE">Décret 88-623 1988-05-06</LIEN>
+<LIEN cidtexte="JORFTEXT000000335719" datesignatexte="1989-09-18" id="LEGIARTI000045658172" naturetexte="DECRET" nortexte="INTB8900275D" num="2" numtexte="89-677" sens="cible" typelien="CITATION">Décret n°89-677 du 18 septembre 1989 - art. 2 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000389967" datesignatexte="1998-06-05" id="LEGIARTI000006378518" naturetexte="DECRET" nortexte="INTE9800121D" num="2" numtexte="98-442" sens="source" typelien="MODIFICATION">Décret n°98-442 du 5 juin 1998 - art. 2 ()</LIEN>
+<LIEN cidtexte="JORFTEXT000027517141" datesignatexte="2013-05-17" id="LEGIARTI000027520131" naturetexte="DECRET" nortexte="INTE1301138D" num="54" numtexte="2013-412" sens="cible" typelien="CITATION">Décret n°2013-412
+ du 17 mai 2013 - art. 54 (VT)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000033758808" datesignatexte="2016-12-30" id="LEGIARTI000051728588" naturetexte="DECRET" nortexte="INTE1631233D" num="6" numtexte="2016-2002" sens="cible" typelien="CITATION">Décret n°2016-2002 du 30 décembre 2016 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000035168192" datesignatexte="2017-07-10" id="LEGIARTI000035169720" naturetexte="DECRET" nortexte="INTE1718428D" num="12" numtexte="2017-1155" sens="cible" typelien="CITATION">Décret n°2017-1155 du 10 juillet 2017 - art. 12</LIEN>
+<LIEN cidtexte="JORFTEXT000035168192" datesignatexte="2017-07-10" id="LEGIARTI000035169720" naturetexte="DECRET" nortexte="INTE1718428D" num="12" numtexte="2017-1155" sens="cible" typelien="ABROGE">Décret n°2017-1155 du 10 juillet 2017 - art. 12</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595025" naturetexte="DECRET" nortexte="INTE2132249D" num="10" numtexte="2022-557" sens="cible" typelien="CITATION">Décret n°2022-557 du 14 avril 2022 - art. 10</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595027" naturetexte="DECRET" nortexte="INTE2132249D" num="11" numtexte="2022-557" sens="cible" typelien="CITATION">Décret n°2022-557 du 14 avril 2022 - art. 11</LIEN>
+
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595023" naturetexte="DECRET" nortexte="INTE2132249D" num="9" numtexte="2022-557" sens="cible" typelien="CITATION">Décret n°2022-557 du 14 avril 2022 - art. 9</LIEN>
+
+<LIEN cidtexte="JORFTEXT000046090131" datesignatexte="2022-07-15" id="LEGIARTI000050314407" naturetexte="ARRETE" nortexte="IOME2216939A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 15 juillet 2022 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050308919" datesignatexte="2024-10-03" id="LEGITEXT000050311223" naturetexte="ARRETE" nortexte="INTE2410782A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 3 octobre 2024 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000029656808" naturetexte="CODE" nortexte="" num="R723-57" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R723-57 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

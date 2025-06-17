@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTELR>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000027806720</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/struct/LEGI/TEXT/00/00/27/80/67/LEGITEXT000027806720.xml</URL>
+<NATURE>LOI</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000027805521</CID>
+<NUM>2013-711</NUM>
+<NUM_PARUTION>0181</NUM_PARUTION>
+<NUM_SEQUENCE>4</NUM_SEQUENCE>
+<NOR>JUSX1300230L</NOR>
+<DATE_PUBLI>2013-08-06</DATE_PUBLI>
+<DATE_TEXTE>2013-08-05</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2013-08-07</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0181 du 6 août 2013</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI>13338</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>13353</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+</META_SPEC>
+</META>
+<VERSIONS>
+<VERSION etat="">
+<LIEN_TXT debut="2999-01-01" fin="2999-01-01" id="JORFTEXT000027805521" num="2013-711"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_TXT debut="2013-08-07" fin="2999-01-01" id="LEGITEXT000027806720" num="2013-711"/>
+</VERSION>
+</VERSIONS>
+<STRUCT>
+<LIEN_SECTION_TA cid="JORFSCTA000027805522" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806722" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806722.xml">Chapitre Ier : Dispositions portant transposition de la directive 2011/36/UE du Parlement européen et du Conseil du 5 avril 2011 concernant la prévention de la traite des êtres humains et la lutte contre ce phénomène ainsi que la protection des victimes et remplaçant la décision-cadre 2002/629/JAI du Conseil</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805523" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806723" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806723.xml">Chapitre II : Dispositions relatives à la réduction en esclavage  et à l'exploitation de personnes réduites en esclavage</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805524" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806724" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806724.xml">Chapitre III : Dispositions portant transposition de la directive 2010/64/UE du Parlement européen et du Conseil du 20 octobre 2010 relative au droit à l'interprétation et à la traduction dans le cadre des procédures pénales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805525" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806725" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806725.xml">Chapitre IV : Dispositions portant transposition de la directive 2011/93/UE du Parlement européen et du Conseil du 13 décembre 2011 relative à la lutte contre les abus sexuels et l'exploitation sexuelle des enfants, ainsi que la pédopornographie et remplaçant la décision-cadre 2004/68/JAI du Conseil</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805526" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806726" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806726.xml">Chapitre V : Dispositions portant transposition de la décision-cadre 2009/299/JAI du Conseil du 26 février 2009 portant modification des décisions-cadres 2002/584/JAI, 2005/214/JAI, 2006/783/JAI, 2008/909/JAI et 2008/947/JAI, renforçant les droits procéduraux des personnes et favorisant l'application du principe de reconnaissance mutuelle aux décisions rendues en l'absence de la personne concernée lors du procès</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805527" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806727" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806727.xml">Chapitre VI : Dispositions relatives à l'application de la décision 2009/426/JAI du Conseil du 16 décembre 2008 sur le renforcement d'Eurojust et modifiant la décision 2002/187/JAI instituant Eurojust afin de renforcer la lutte contre les formes graves de criminalité</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805528" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806728" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806728.xml">Chapitre VII : Dispositions portant transposition de la décision-cadre 2008/909/JAI du Conseil du 27 novembre 2008 concernant l'application du principe de reconnaissance mutuelle aux jugements en matière pénale prononçant des peines ou des mesures privatives de liberté aux fins de leur exécution dans l'Union européenne</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805529" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806729" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806729.xml">Chapitre VIII : Dispositions portant adaptation du droit pénal au protocole additionnel aux conventions de Genève du 12 août 1949 relatif à l'adoption d'un signe distinctif additionnel (protocole III), adopté à Genève le 8 décembre 2005</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805530" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806730" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806730.xml">Chapitre IX : Dispositions portant adaptation de la législation française à la résolution 1966 (2010) du Conseil de sécurité des Nations unies du 22 décembre 2010 instituant un mécanisme international chargé d'exercer les fonctions résiduelles des tribunaux pénaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805531" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806731" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806731.xml">Chapitre X : Dispositions portant adaptation du droit pénal et de la procédure pénale à la convention internationale pour la protection de toutes les personnes contre les disparitions forcées, adoptée à New York le 20 décembre 2006</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805532" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806732" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806732.xml">Chapitre XI : Dispositions portant adaptation de la législation française à l'accord entre l'Union européenne et la République d'Islande et le Royaume de Norvège relatif à la procédure de remise entre les Etats membres de l'Union européenne et l'Islande et la Norvège, signé le 28 juin 2006, et aux arrêts de la Cour de justice de l'Union européenne en date du 5 septembre 2012 et du 30 mai 2013</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805533" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806733" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806733.xml">Chapitre XII : Dispositions portant adaptation de la législation française à la convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique, signée à Istanbul le 11 mai 2011</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805534" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806734" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806734.xml">Chapitre XIII : Dispositions abrogeant le délit d'offense au chef de l'Etat afin d'adapter la législation française à l'arrêt de la Cour européenne des droits de l'homme du 14 mars 2013</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000027805535" debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000027806735" niv="1" url="/LEGI/SCTA/00/00/27/80/67/LEGISCTA000027806735.xml">Chapitre XIV : Dispositions diverses et transitoires</LIEN_SECTION_TA>
+</STRUCT>
+
+</TEXTELR>

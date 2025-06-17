@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006151890</ID>
+<TITRE_TA>Chapitre III : De la composition de la cour d'assises</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000006576048" num="240" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044569353" num="240" origine="LEGI"/>
+<LIEN_ART debut="1986-02-01" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000006576050" num="241" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044569343" num="241" origine="LEGI"/>
+<LIEN_ART debut="1967-07-13" etat="MODIFIE" fin="2016-11-20" id="LEGIARTI000006576051" num="242" origine="LEGI"/>
+<LIEN_ART debut="2016-11-20" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000033459356" num="242" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000039279484" num="242" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044569359" num="242" origine="LEGI"/>
+<LIEN_ART debut="2026-01-05" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051740337" num="242-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006167459" debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006167459" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167459.xml">Section 1 : De la cour</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167459" debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044569496" niv="5" url="/LEGI/SCTA/00/00/44/56/94/LEGISCTA000044569496.xml">Section 1 : De la cour</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167460" debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006167460" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167460.xml">Section 2 : Du jury</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167460" debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044569490" niv="5" url="/LEGI/SCTA/00/00/44/56/94/LEGISCTA000044569490.xml">Section 2 : Du jury</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121325">Livre II : Des juridictions de jugement</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2023-01-01" id="LEGISCTA000006138092">Titre Ier : De la cour d'assises</TITRE_TM>
+<TITRE_TM debut="2023-01-01" fin="2999-01-01" id="LEGISCTA000044568358">Titre Ier : De la cour d'assises et de la cour criminelle départementale</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

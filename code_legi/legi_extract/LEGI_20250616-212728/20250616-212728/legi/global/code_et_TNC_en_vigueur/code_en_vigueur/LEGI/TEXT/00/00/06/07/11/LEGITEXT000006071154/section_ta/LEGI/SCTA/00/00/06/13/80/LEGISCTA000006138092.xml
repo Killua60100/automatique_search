@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006138092</ID>
+<TITRE_TA>Titre Ier : De la cour d'assises</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000044551090" debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044551094" niv="4" url="/LEGI/SCTA/00/00/44/55/10/LEGISCTA000044551094.xml">Sous-titre Ier :  De la cour d'assises</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000044551570" debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000044551587" niv="4" url="/LEGI/SCTA/00/00/44/55/15/LEGISCTA000044551587.xml">Sous-titre II : De la cour criminelle départementale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151888" debut="1972-07-09" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006151888" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151888.xml">Chapitre Ier : De la compétence de la cour d'assises</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151889" debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006151889" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151889.xml">Chapitre II : De la tenue des assises</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151890" debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006151890" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151890.xml">Chapitre III : De la composition de la cour d'assises</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151891" debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006151891" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151891.xml">Chapitre IV : De la procédure préparatoire aux sessions d'assises</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151892" debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006151892" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151892.xml">Chapitre V : De l'ouverture des sessions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151893" debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006151893" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151893.xml">Chapitre VI : Des débats</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151894" debut="1959-03-02" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006151894" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151894.xml">Chapitre VII : Du jugement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151895" debut="2004-10-01" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006151895" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151895.xml">Chapitre VIII : Du défaut en matière criminelle</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151896" debut="2001-01-01" etat="ABROGE" fin="2004-10-01" id="LEGISCTA000006151896" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151896.xml">Chapitre VIII : De l'appel des décisions rendues par la cour d'assises en premier ressort</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006151897" debut="2001-01-01" etat="MODIFIE" fin="2023-01-01" id="LEGISCTA000006151897" niv="4" url="/LEGI/SCTA/00/00/06/15/18/LEGISCTA000006151897.xml">Chapitre IX : De l'appel des décisions rendues par la cour d'assises en premier ressort</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121325">Livre II : Des juridictions de jugement</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

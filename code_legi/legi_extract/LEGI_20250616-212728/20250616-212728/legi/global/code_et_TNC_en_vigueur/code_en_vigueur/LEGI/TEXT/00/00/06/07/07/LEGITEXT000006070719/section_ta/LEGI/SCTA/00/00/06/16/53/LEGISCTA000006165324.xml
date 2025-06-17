@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165324</ID>
+<TITRE_TA>Section 1 : Du vol simple et des vols aggravés</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418127" num="311-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418128" num="311-2" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418131" num="311-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418130" num="311-3" origine="LEGI"/>
+<LIEN_ART debut="2022-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045070197" num="311-3-1" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2010-03-04" id="LEGIARTI000006418134" num="311-4" origine="LEGI"/>
+<LIEN_ART debut="2010-03-04" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000021926094" num="311-4" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2012-08-08" id="LEGIARTI000023717677" num="311-4" origine="LEGI"/>
+<LIEN_ART debut="2012-08-08" etat="MODIFIE" fin="2017-01-29" id="LEGIARTI000026268245" num="311-4" origine="LEGI"/>
+<LIEN_ART debut="2017-01-29" etat="MODIFIE" fin="2020-07-05" id="LEGIARTI000033975274" num="311-4" origine="LEGI"/>
+<LIEN_ART debut="2020-07-05" etat="MODIFIE" fin="2021-12-02" id="LEGIARTI000042084056" num="311-4" origine="LEGI"/>
+<LIEN_ART debut="2021-12-02" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044394144" num="311-4" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418132" num="311-4" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006418133" num="311-4" origine="LEGI"/>
+<LIEN_ART debut="2002-09-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418135" num="311-4-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418136" num="311-5" origine="LEGI"/>
+<LIEN_ART debut="2008-07-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019203069" num="311-4-2" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006418137" num="311-5" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000023717688" num="311-5" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418138" num="311-6" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418139" num="311-6" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418140" num="311-7" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418141" num="311-7" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418143" num="311-8" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418142" num="311-8" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418144" num="311-9" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418145" num="311-9" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006418146" num="311-9-1" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742414" num="311-9-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418147" num="311-10" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418148" num="311-10" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006418150" num="311-11" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117598">Livre III : Des crimes et délits contre les biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006136042">Titre Ier : Des appropriations frauduleuses</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149833">Chapitre Ier : Du vol</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

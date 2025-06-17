@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051742921</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/29/LEGIARTI000051742921.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-104</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006167525">Section 7 : Des mesures conservatoires</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006577820" num="706-104" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742921" num="706-104" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Lorsque, dans une enquête ou une instruction relative à l'une des infractions entrant dans le champ d'application des articles 706-73 et 706-73-1, la divulgation des informations relatives à la mise en œuvre d'une technique spéciale d'enquête mentionnée aux sections 5 et 6 du présent chapitre est de nature à mettre gravement en danger la vie ou l'intégrité physique d'une personne, des membres de sa famille ou de ses proches, le juge des libertés et de la détention, saisi à tout moment par requête motivée du procureur de la République ou du juge d'instruction, peut, par décision motivée, autoriser que n'apparaissent pas dans le dossier de la procédure : <br/>
+<br/>1° Les informations relatives à la date, à l'heure et au lieu de la mise en place des dispositifs techniques d'enquête mentionnés aux mêmes sections 5 et 6 ; <br/>
+<br/>2° Les informations permettant d'identifier une personne ayant concouru à l'installation ou au retrait du dispositif technique mentionné au présent chapitre. <br/>
+<br/>La requête précise les raisons impérieuses qui justifient que ces informations ne soient pas versées au dossier de la procédure. Elle comporte toute indication permettant d'apprécier le respect des principes de proportionnalité et de subsidiarité. <br/>
+<br/>II.-La décision du juge des libertés et de la détention est jointe au dossier de la procédure. Les informations mentionnées aux 1° et 2° du I sont inscrites dans un procès-verbal, qui est versé dans un dossier distinct du dossier de la procédure, dans lequel figure également la requête prévue au premier alinéa du même I. Ces informations sont inscrites sur un registre coté et paraphé, qui est ouvert à cet effet au tribunal judiciaire. <br/>
+<br/>III.-Au cours de l'enquête ou de l'instruction, le dossier distinct est accessible à tout moment au procureur de la République ou au juge d'instruction et au juge des libertés et de la détention. Il est également accessible au président de la chambre de l'instruction ou à ladite chambre dans le cadre de sa saisine. <br/>
+<br/>La divulgation des indications y figurant est passible des peines prévues à l'article 413-13 du code pénal.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance n° 58-1296 du 23 décembre 1958</LIEN>
+
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736700" naturetexte="LOI" nortexte="JUSX2430702L" num="40" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 40 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000023710887" naturetexte="CODE" nortexte="" num="413-13" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 413-13</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000051739341" naturetexte="CODE" nortexte="" num="67 bis-7" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 67 bis-7 (V)</LIEN>
+</LIENS>
+</ARTICLE>

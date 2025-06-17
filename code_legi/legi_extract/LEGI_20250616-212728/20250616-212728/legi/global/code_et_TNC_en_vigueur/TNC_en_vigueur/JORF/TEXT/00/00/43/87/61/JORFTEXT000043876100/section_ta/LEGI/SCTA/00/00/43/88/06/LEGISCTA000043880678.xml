@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000043880678</ID>
+<TITRE_TA>Chapitre II : Dispositions relatives au renseignement</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880698" num="9" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880700" num="10" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880720" num="11" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880722" num="12" origine="LEGI"/>
+<LIEN_ART debut="2021-07-31" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000043880702" num="13" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740990" num="13" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880704" num="14" origine="LEGI"/>
+<LIEN_ART debut="2021-07-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043880724" num="15" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880706" num="16" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880708" num="17" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880710" num="18" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880726" num="19" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880712" num="20" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880714" num="21" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880716" num="22" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000043880718" num="23" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000043876100" date_publi="2021-07-31" date_signature="2021-07-30" ministere="" nature="LOI" nor="INTD2107675L" num="2021-998" num_parution_jo="0176">
+<TITRE_TXT c_titre_court="LOI n°2021-998 du 30 juillet 2021" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000043876100">LOI n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2021-998 du 30 juillet 2021" debut="2021-07-31" fin="2999-01-01" id_txt="LEGITEXT000043880676">LOI n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement (1)</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

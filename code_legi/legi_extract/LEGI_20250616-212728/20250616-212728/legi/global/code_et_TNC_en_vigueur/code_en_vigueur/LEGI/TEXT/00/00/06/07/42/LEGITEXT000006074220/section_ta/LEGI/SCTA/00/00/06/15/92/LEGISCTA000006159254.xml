@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006159254</ID>
+<TITRE_TA>Chapitre V : Dispositions pénales</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176526" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006176526" niv="5" url="/LEGI/SCTA/00/00/06/17/65/LEGISCTA000006176526.xml">Section 1 : Constatation des infractions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006176527" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006176527" niv="5" url="/LEGI/SCTA/00/00/06/17/65/LEGISCTA000006176527.xml">Section 2 : Sanctions</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074220" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'environnement" debut="2000-09-21" fin="2999-01-01" id_txt="LEGITEXT000006074220">Code de l'environnement</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006108630">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-14" id="LEGISCTA000006129025">Livre IV : Faune et flore</TITRE_TM>
+<TITRE_TM debut="2010-07-14" fin="2999-01-01" id="LEGISCTA000022495757">Livre IV : Patrimoine naturel</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-14" id="LEGISCTA000006143745">Titre Ier : Protection de la faune et de la flore</TITRE_TM>
+<TITRE_TM debut="2010-07-14" fin="2999-01-01" id="LEGISCTA000022495755">Titre Ier : Protection du patrimoine naturel</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

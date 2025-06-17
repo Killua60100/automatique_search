@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000025629633</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/25/62/96/LEGIARTI000025629633.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L2339-14</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2012-05-01</DATE_DEBUT>
+<DATE_FIN>2016-06-05</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071307" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la défense." debut="2004-12-21" fin="2999-01-01" id_txt="LEGITEXT000006071307">Code de la défense</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006096399">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006120656">PARTIE 2 : RÉGIMES JURIDIQUES DE DÉFENSE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006137708">LIVRE III : RÉGIMES JURIDIQUES DE DÉFENSE D'APPLICATION PERMANENTE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2009-08-01" id="LEGISCTA000006151497">TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS SOUMIS À AUTORISATION</TITRE_TM>
+<TITRE_TM debut="2009-08-01" fin="2999-01-01" id="LEGISCTA000020933083">TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2016-07-22" id="LEGISCTA000006166942">Chapitre IX : Dispositions pénales</TITRE_TM>
+<TITRE_TM debut="2016-07-22" fin="2999-01-01" id="LEGISCTA000032920492">Chapitre IX : Contrôle administratif et dispositions pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-03-16" fin="2999-01-01" id="LEGISCTA000023709546">Section 8 : De la prolifération des vecteurs d'armes de destruction massive.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2012-05-01" id="LEGIARTI000023709548" num="L2339-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000025629633" num="L2339-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2016-06-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032654569" num="L2339-14" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les infractions définies au premier alinéa du I de l'article L. 2339-2, à l'article L. 2339-4 et au premier alinéa de l'article L. 2339-10 du présent code, ainsi qu'au premier alinéa des articles L. 317-4 et L. 317-7 et au 1° de l'article L. 317-8 du code de la sécurité intérieure, sont punies de quinze ans de réclusion criminelle et un million et demi d'euros d'amende lorsqu'elles concernent des missiles, fusées ou autres systèmes sans pilote capables de conduire à leur cible des armes nucléaires telles que définies au III de l'article L. 1333-13-4, chimiques ou biologiques et spécialement conçus à cet usage. </p>
+<p>Ces faits sont punis de vingt ans de réclusion criminelle et de trois millions d'euros d'amende lorsqu'ils sont commis en bande organisée.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000025498645" datesignatexte="2012-03-12" id="LEGIARTI000025501164" naturetexte="ORDONNANCE" nortexte="IOCD1129997R" num="6" numtexte="2012-351" sens="cible" typelien="MODIFIE">Ordonnance n°2012-351
+ du 12 mars 2012 - art. 6</LIEN>
+
+<LIEN cidtexte="JORFTEXT000032282279" datesignatexte="2016-03-22" id="LEGIARTI000032283874" naturetexte="LOI" nortexte="INTX1524877L" num="9" numtexte="2016-339" sens="cible" typelien="CITATION">LOI n°2016-339 du 22 mars 2016 - art. 9</LIEN>
+<LIEN cidtexte="JORFTEXT000032627231" datesignatexte="2016-06-03" id="LEGIARTI000032631247" naturetexte="LOI" nortexte="JUSD1532276L" num="47" numtexte="2016-731" sens="cible" typelien="CITATION">LOI n°2016-731 du 3 juin 2016 - art. 47</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709304" naturetexte="CODE" nortexte="" num="L1333-13-4" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-13-4</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540001" naturetexte="CODE" nortexte="" num="L2339-10" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2339-10</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709550" naturetexte="CODE" nortexte="" num="L2339-15" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2339-15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709558" naturetexte="CODE" nortexte="" num="L2339-18" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2339-18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539990" naturetexte="CODE" nortexte="" num="L2339-2" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2339-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539992" naturetexte="CODE" nortexte="" num="L2339-4" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2339-4</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741892" naturetexte="CODE" nortexte="" num="706-167" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-167 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038311907" naturetexte="CODE" nortexte="" num="78-2-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 78-2-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032751714" naturetexte="CODE" nortexte="" num="421-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 421-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505668" naturetexte="CODE" nortexte="" num="L317-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L317-4</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505676" naturetexte="CODE" nortexte="" num="L317-7" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L317-7</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505679" naturetexte="CODE" nortexte="" num="L317-8" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L317-8</LIEN>
+</LIENS>
+</ARTICLE>

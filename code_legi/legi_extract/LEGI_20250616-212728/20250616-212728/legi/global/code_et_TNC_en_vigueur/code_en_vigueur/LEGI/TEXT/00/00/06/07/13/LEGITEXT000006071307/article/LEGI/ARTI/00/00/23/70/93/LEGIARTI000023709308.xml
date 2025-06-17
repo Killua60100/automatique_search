@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023709308</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/70/93/LEGIARTI000023709308.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L1333-13-6</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-03-16</DATE_DEBUT>
+<DATE_FIN>2014-07-12</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071307" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la défense." debut="2004-12-21" fin="2999-01-01" id_txt="LEGITEXT000006071307">Code de la défense</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006096399">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006120655">PARTIE 1 : PRINCIPES GÉNÉRAUX DE LA DÉFENSE.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006137702">LIVRE III : MISE EN ŒUVRE DE LA DÉFENSE NON MILITAIRE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006151475">TITRE III : DÉFENSE ÉCONOMIQUE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006166901">Chapitre III : Matières et installations nucléaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2014-07-12" id="LEGISCTA000006182573">Section 2 : Dispositions pénales</TITRE_TM>
+<TITRE_TM debut="2014-07-12" fin="2999-01-01" id="LEGISCTA000029227530">Section 2 : Installations et activités nucléaires intéressant la défense</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2014-07-12" id="LEGISCTA000006193159">Sous-section 2 : Sanctions pénales.</TITRE_TM>
+<TITRE_TM debut="2014-07-12" fin="2999-01-01" id="LEGISCTA000029227525">Sous-section 2 : Dispositions applicables aux installations et activités nucléaires intéressant la défense</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2014-07-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000029227554" num="L1333-13-6" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023709308" num="L1333-13-6" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>Le fait de provoquer, d'encourager ou d'inciter quiconque de quelque manière que ce soit à commettre les infractions prévues aux articles L. 1333-13-3 à L. 1333-13-5, lorsque ce fait a été suivi d'effet, est puni des peines prévues pour ces infractions. <br/>
+<br/>Lorsque les faits mentionnés au premier alinéa du présent article ne sont pas suivis d'effet en raison de circonstances indépendantes de la volonté de leur auteur, la peine est de sept ans d'emprisonnement et de 100 000 € d'amende.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000023707202" datesignatexte="2011-03-14" id="LEGIARTI000023708685" naturetexte="LOI" nortexte="DEFD0905829L" num="2" numtexte="2011-266" sens="cible" typelien="CREE">LOI n°2011-266
+ du 14 mars 2011 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000051742502" naturetexte="CODE" nortexte="" num="L1333-13-10" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000029227540" naturetexte="CODE" nortexte="" num="L1333-13-11" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709302" naturetexte="CODE" nortexte="" num="L1333-13-3" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-13-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000030665895" naturetexte="CODE" nortexte="" num="L1333-13-8" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000029227549" naturetexte="CODE" nortexte="" num="L1333-13-9" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741892" naturetexte="CODE" nortexte="" num="706-167" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-167 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032751714" naturetexte="CODE" nortexte="" num="421-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 421-1 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000006071194</ID>
+<ANCIEN_ID>PPCAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/06/07/11/LEGITEXT000006071194.xml</URL>
+<NATURE>CONSTITUTION</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000000571356</CID>
+<NUM/>
+<NUM_PARUTION/>
+<NUM_SEQUENCE>0</NUM_SEQUENCE>
+<NOR/>
+<DATE_PUBLI>1958-10-05</DATE_PUBLI>
+<DATE_TEXTE>1958-10-04</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2024-03-10</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI>0</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>0</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Constitution du 4 octobre 1958</TITRE>
+<TITREFULL>Constitution du 4 octobre 1958 </TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>1958-10-05</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="SPEC_APPLI">Constitution 1946-10-27 préambule</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="SPEC_APPLI">Déclaration des droits de l'homme et du citoyen 1789-08-26</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>Le Gouvernement de la République, conformément à la loi constitutionnelle du 3 juin 1958, a proposé, Le Peuple français a adopté, Le Président de la République promulgue la loi constitutionnelle dont la teneur suit :<br/>
+<br/>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<p>Le Président de la République : RENE COTY </p>
+<p>Le Président du Conseil des ministres, CHARLES DE GAULLE </p>
+<p>Le Ministre d'Etat, GUY MOLLET </p>
+<p>Le Ministre d'Etat, PIERRE PFLIMLIN </p>
+<p>Le Ministre d'Etat, FELIX HOUPHOUET-BOIGNY </p>
+<p>Le Ministre d'Etat, LOUIS JACQUINOT </p>
+<p>Le Ministre délégué à la Présidence du Conseil, ANDRE MALRAUX </p>
+<p>Le Garde des Sceaux, Ministre de la Justice, MICHEL DEBRE </p>
+<p>Le Ministre des Affaires étrangères, MAURICE COUVE DE MURVILLE </p>
+<p>Le Ministre de l'Intérieur, EMILE PELLETIER </p>
+<p>Le Ministre des Armées, PIERRE GUILLAUMAT </p>
+<p>Le Ministre des Finances et des Affaires économiques, ANTOINE PINAY.</p>
+<br/>
+<br/>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

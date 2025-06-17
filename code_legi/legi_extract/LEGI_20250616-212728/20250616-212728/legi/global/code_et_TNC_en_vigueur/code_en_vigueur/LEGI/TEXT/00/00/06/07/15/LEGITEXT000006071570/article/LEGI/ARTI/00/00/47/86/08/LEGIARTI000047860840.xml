@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000047860840</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/47/86/08/LEGIARTI000047860840.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>67 bis-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2023-07-20</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006099261">Titre II : Organisation et fonctionnement du service des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006122076">Chapitre IV : Pouvoirs des agents des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-12-20" fin="2016-06-05" id="LEGISCTA000006138848">Section 7 : Livraisons surveillées.</TITRE_TM>
+<TITRE_TM debut="2016-06-05" fin="2999-01-01" id="LEGISCTA000032654987">Section 7 : Procédures spéciales d'enquête douanière</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2013-01-01" id="LEGIARTI000023719010" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-01-01" etat="MODIFIE" fin="2014-03-13" id="LEGIARTI000026949115" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-03-13" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000028717037" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000032654772" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-07-20" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000047860840" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742569" num="67 bis-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Sans préjudice des dispositions de l'article 67 bis, et aux seules fins de constater les délits mentionnés aux articles 414,414-2 et 459, d'en identifier les auteurs et complices ainsi que ceux qui y ont participé comme intéressés au sens de l'article 399 et d'effectuer les saisies prévues par le présent code, les agents des douanes habilités par le ministre chargé des douanes dans les conditions fixées par décret peuvent, sur l'ensemble du territoire national, avec l'autorisation du procureur de la République et sans être pénalement responsables de ces actes : </p>
+<p>1° Acquérir des marchandises en infraction au titre des délits mentionnés au premier alinéa du présent article, y compris les espèces de la faune et de la flore sauvages inscrites aux annexes du règlement CE n° 338/97 du Conseil du 9 décembre 1996 relatif à la protection des espèces de faune et flore sauvages par le contrôle de leur commerce, ainsi que les produits et les parties de ces spécimens ; </p>
+<p>2° En vue de l'acquisition des marchandises mentionnées au 1° du présent article, mettre à la disposition des personnes se livrant à ces infractions des moyens de caractère juridique ou financier ainsi que des moyens de transport, de dépôt, d'hébergement, de conservation et de télécommunication ; </p>
+<p>3° Lorsque l'infraction est commise en ayant recours à un moyen de communication électronique, faire usage d'une identité d'emprunt en vue de l'acquisition des marchandises mentionnées au 1° du présent article. Dans ce cadre, les agents des douanes habilités peuvent également : </p>
+<p>a) Participer sous un pseudonyme à des échanges électroniques ; </p>
+<p>b) Etre en contact par le moyen mentionné au a avec les personnes susceptibles d'être les auteurs de ces infractions ; </p>
+<p>c) Extraire, acquérir ou conserver par ce moyen les éléments de preuve et les données sur les personnes susceptibles d'être les auteurs de ces infractions ainsi que sur les comptes bancaires utilisés ; </p>
+<p>d) Extraire, transmettre en réponse à une demande expresse, acquérir ou conserver des contenus illicites, dans des conditions fixées par décret. </p>
+<p>L'exonération de responsabilité prévue au premier alinéa du présent article est également applicable, pour les actes commis à seule fin de procéder à l'opération d'acquisition des marchandises mentionnées au 1° du présent article, aux personnes requises par les agents des douanes pour permettre la réalisation de cette opération. </p>
+<p>A peine de nullité, l'autorisation du procureur de la République, qui peut être donnée par tout moyen, est mentionnée ou versée au dossier de la procédure et les actes autorisés ne peuvent constituer une incitation à commettre une infraction. </p>
+<p>La révélation de l'identité d'emprunt des agents des douanes ayant effectué l'acquisition est passible des peines prévues au V de l'article 67 bis du présent code.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000033691761" datesignatexte="2016-12-23" id="LEGIARTI000033716671" naturetexte="DECRET" nortexte="ECFD1628331D" num="1" numtexte="2016-1845" sens="cible" typelien="CITATION">Décret n°2016-1845 du 23 décembre 2016 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033691761" datesignatexte="2016-12-23" id="LEGIARTI000033716674" naturetexte="DECRET" nortexte="ECFD1628331D" num="2" numtexte="2016-1845" sens="cible" typelien="CITATION">Décret n°2016-1845 du 23 décembre 2016 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033691761" datesignatexte="2016-12-23" id="LEGIARTI000033716676" naturetexte="DECRET" nortexte="ECFD1628331D" num="3" numtexte="2016-1845" sens="cible" typelien="CITATION">Décret n°2016-1845 du 23 décembre 2016 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033691761" datesignatexte="2016-12-23" id="LEGIARTI000033716678" naturetexte="DECRET" nortexte="ECFD1628331D" num="4" numtexte="2016-1845" sens="cible" typelien="CITATION">Décret n°2016-1845 du 23 décembre 2016 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000047858021" datesignatexte="2023-07-18" id="LEGIARTI000047858873" naturetexte="LOI" nortexte="ECOD2306819L" num="26" numtexte="2023-610" sens="cible" typelien="MODIFIE">LOI n°2023-610 du 18 juillet 2023 - art. 26</LIEN>
+<LIEN cidtexte="JORFTEXT000049330452" datesignatexte="2024-03-27" id="LEGITEXT000049332095" naturetexte="DECRET" nortexte="ECOD2401547D" num="" numtexte="2024-271" sens="cible" typelien="CITATION">Décret n°2024-271 du 27 mars 2024 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047861203" naturetexte="CODE" nortexte="" num="399" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 399 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615940" naturetexte="CODE" nortexte="" num="414" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 414</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000039112532" naturetexte="CODE" nortexte="" num="414-2" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 414-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006616090" naturetexte="CODE" nortexte="" num="459" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 459</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047861413" naturetexte="CODE" nortexte="" num="67 bis" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 67 bis (M)</LIEN>
+</LIENS>
+</ARTICLE>

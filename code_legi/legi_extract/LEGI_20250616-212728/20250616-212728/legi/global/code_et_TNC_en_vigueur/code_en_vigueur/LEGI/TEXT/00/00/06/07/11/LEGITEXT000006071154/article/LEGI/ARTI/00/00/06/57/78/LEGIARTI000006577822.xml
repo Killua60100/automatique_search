@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006577822</ID>
+<ANCIEN_ID>PXXXXXXXXXX0706L106AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/78/LEGIARTI000006577822.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-106</NUM>
+
+<ETAT>ABROGE</ETAT>
+
+<DATE_DEBUT>2004-10-01</DATE_DEBUT>
+<DATE_FIN>2014-06-02</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006167526">Section 8 : Dispositions communes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2004-10-01" etat="ABROGE" fin="2014-06-02" id="LEGIARTI000006577822" num="706-106" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000037114558" num="706-106" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742649" num="706-106" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Lorsque, au cours de l'enquête, il a été fait application des dispositions des articles 706-80 à 706-95, la personne qui est déférée devant le procureur de la République en application des dispositions de l'article 393 a droit à la désignation d'un avocat. Celui-ci peut consulter sur le champ le dossier et communiquer librement avec elle, conformément aux dispositions des deuxième et troisième alinéas de l'article 393. La personne comparaît alors en présence de son avocat devant le procureur de la République qui, après avoir entendu ses déclarations et les observations de son avocat, soit procède comme il est dit aux articles 394 à 396, soit requiert l'ouverture d'une information.<br/>
+<br/>   Si le procureur de la République saisit le tribunal correctionnel selon la procédure de comparution immédiate, les dispositions du deuxième alinéa de l'article 397-1 permettant au prévenu de demander le renvoi de l'affaire à une audience qui devra avoir lieu dans un délai qui ne peut être inférieur à deux mois sans être supérieur à quatre mois sont applicables, quelle que soit la peine encourue.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance 58-1296 1958-12-23</LIEN>
+<LIEN cidtexte="JORFTEXT000000249995" datesignatexte="2004-03-09" id="LEGIARTI000006494266" naturetexte="LOI" nortexte="JUSX0300028L" num="1" numtexte="2004-204" sens="source" typelien="CREATION">Loi n°2004-204 du 9 mars 2004 - art. 1 () JORF 10 mars 2004 en vigueur le 1er octobre 2004</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000028989964" datesignatexte="2014-05-27" id="LEGIARTI000028990941" naturetexte="LOI" nortexte="JUSX1330493L" num="8" numtexte="2014-535" sens="cible" typelien="ABROGE">LOI n°2014-535
+ du 27 mai 2014 - art. 8</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577529" naturetexte="CODE" nortexte="" num="706-1-3" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 706-1-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGITEXT000006071154" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576414" naturetexte="CODE" nortexte="" num="393" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 393</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576449" naturetexte="CODE" nortexte="" num="397-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 397-1</LIEN>
+</LIENS>
+</ARTICLE>

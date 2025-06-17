@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006178270</ID>
+<TITRE_TA>Chapitre IV : Dispositions pénales.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006904833" num="L8224-1" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000006904834" num="L8224-2" origine="LEGI"/>
+<LIEN_ART debut="2014-07-12" etat="MODIFIE" fin="2014-12-25" id="LEGIARTI000029236664" num="L8224-2" origine="LEGI"/>
+<LIEN_ART debut="2014-12-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000029963089" num="L8224-2" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2008-08-06" id="LEGIARTI000006904835" num="L8224-3" origine="LEGI"/>
+<LIEN_ART debut="2008-08-06" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000019294110" num="L8224-3" origine="LEGI"/>
+<LIEN_ART debut="2014-07-12" etat="MODIFIE" fin="2015-08-08" id="LEGIARTI000029236620" num="L8224-3" origine="LEGI"/>
+<LIEN_ART debut="2015-08-08" etat="MODIFIE" fin="2018-09-07" id="LEGIARTI000031013838" num="L8224-3" origine="LEGI"/>
+<LIEN_ART debut="2018-09-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037389057" num="L8224-3" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006904836" num="L8224-4" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000006904837" num="L8224-5" origine="LEGI"/>
+<LIEN_ART debut="2014-07-12" etat="MODIFIE" fin="2018-09-07" id="LEGIARTI000029236604" num="L8224-5" origine="LEGI"/>
+<LIEN_ART debut="2018-09-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037389041" num="L8224-5" origine="LEGI"/>
+<LIEN_ART debut="2011-06-18" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000024196234" num="L8224-5-1" origine="LEGI"/>
+<LIEN_ART debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006904838" num="L8224-6" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006112874">Partie législative  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006132351">Huitième partie : Contrôle de l'application de la législation du travail </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006145431">Livre II : Lutte contre le travail illégal</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006160848">Titre II : Travail dissimulé </TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

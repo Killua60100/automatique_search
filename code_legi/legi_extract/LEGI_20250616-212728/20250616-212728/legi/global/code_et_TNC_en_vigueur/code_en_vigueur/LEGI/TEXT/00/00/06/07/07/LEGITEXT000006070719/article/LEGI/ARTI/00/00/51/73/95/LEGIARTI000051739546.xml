@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051739546</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/95/LEGIARTI000051739546.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>222-37-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2023-04-01" id="LEGISCTA000006165284">Section 4 : Du trafic de stupéfiants</TITRE_TM>
+<TITRE_TM debut="2023-04-01" fin="2999-01-01" id="LEGISCTA000047052744">Section 7 : Du trafic de stupéfiants</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739546" num="222-37-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsque les infractions prévues aux articles 222-35 à 222-37 sont commises par un majeur agissant avec l'aide ou l'assistance, directe ou indirecte, d'un mineur pour le transport, la détention, l'offre, la cession, l'acquisition ou la vente de stupéfiants, les peines privatives de liberté encourues sont portées à : </p>
+<p>1° Quinze ans de réclusion criminelle lorsque l'infraction est punie de dix ans d'emprisonnement ; </p>
+<p>2° Trente ans de réclusion criminelle lorsque l'infraction est punie de vingt ans de réclusion criminelle ; </p>
+<p>3° La réclusion criminelle à perpétuité lorsque l'infraction est punie de trente ans de réclusion criminelle. </p>
+<p>L'aide ou l'assistance d'un mineur peut être caractérisée par tout acte de sollicitation, d'incitation ou d'organisation ayant pour effet d'intégrer un mineur dans un réseau de trafic de stupéfiants, que cette participation soit volontaire ou contrainte.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736660" naturetexte="LOI" nortexte="JUSX2430702L" num="23" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 23</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417716" naturetexte="CODE" nortexte="" num="222-35" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 222-35</LIEN>
+</LIENS>
+</ARTICLE>

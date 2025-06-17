@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006903525</ID>
+<ANCIEN_ID>AKEAPXXXXXX066AFXXXXXXAD</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/90/35/LEGIARTI000006903525.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>66-5</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2004-02-12</DATE_DEBUT>
+<DATE_FIN>2009-02-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000508793" date_publi="1972-01-05" date_signature="1971-12-31" ministere="" nature="LOI" nor="" num="71-1130" num_parution_jo="">
+<TITRE_TXT c_titre_court="Loi n° 71-1130 du 31 décembre 1971" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000508793">Loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 71-1130 du 31 décembre 1971" debut="1972-09-16" fin="2999-01-01" id_txt="LEGITEXT000006068396">Loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1992-01-01" fin="2999-01-01" id="LEGISCTA000006112891">Titre II : Réglementation de la consultation en matière juridique et de la rédaction d'actes sous seing privé</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-01-01" fin="2999-01-01" id="LEGISCTA000006132345">Chapitre II : Dispositions diverses.</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1992-01-01" etat="MODIFIE" fin="1993-01-05" id="LEGIARTI000006903522" num="66-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-01-05" etat="MODIFIE" fin="1997-04-08" id="LEGIARTI000006903523" num="66-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1997-04-08" etat="MODIFIE" fin="2004-02-12" id="LEGIARTI000006903524" num="66-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-02-12" etat="MODIFIE" fin="2009-02-01" id="LEGIARTI000006903525" num="66-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-02-01" etat="MODIFIE" fin="2011-03-30" id="LEGIARTI000020192999" num="66-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2011-03-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000023780802" num="66-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   En toutes matières, que ce soit dans le domaine du conseil ou dans celui de la défense, les consultations adressées par un avocat à son client ou destinées à celui-ci, les correspondances échangées entre le client et son avocat, entre l'avocat et ses confrères à l'exception pour ces dernières de celles portant la mention "officielle", les notes d'entretien et, plus généralement, toutes les pièces du dossier sont couvertes par le secret professionnel.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000508793" datesignatexte="1971-12-31" id="LEGIARTI000023781006" naturetexte="LOI" nortexte="" num="81" numtexte="71-1130" sens="cible" typelien="CITATION">Loi n°71-1130 du 31 décembre 1971 - art. 81 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000433988" datesignatexte="2004-02-11" id="LEGIARTI000006910490" naturetexte="LOI" nortexte="JUSX0200190L" num="34" numtexte="2004-130" sens="source" typelien="MODIFICATION">Loi n°2004-130 du 11 février 2004 - art. 34 () JORF 12 février 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000000423967" datesignatexte="2004-12-30" id="LEGIARTI000006451555" naturetexte="LOI" nortexte="SOCX0400130L" num="10" numtexte="2004-1486" sens="cible" typelien="CITATION">Loi n°2004-1486 du 30 décembre 2004 - art. 10 (VT)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000022453925" datesignatexte="2010-07-09" id="LEGIARTI000022455608" naturetexte="LOI" nortexte="JUSX0912931L" num="4" numtexte="2010-768" sens="cible" typelien="CITATION">LOI n°2010-768
+ du 9 juillet 2010 - art. 4</LIEN>
+
+
+
+
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000031932457" naturetexte="CODE" nortexte="" num="L141-1" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L141-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047052901" naturetexte="CODE" nortexte="" num="100-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 100-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044568203" naturetexte="CODE" nortexte="" num="56-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 56-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000028288147" naturetexte="CODE" nortexte="" num="695-9-51" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 695-9-51 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740331" naturetexte="CODE" nortexte="" num="706-100" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-100 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740538" naturetexte="CODE" nortexte="" num="706-160" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-160 (V)</LIEN>
+</LIENS>
+</ARTICLE>

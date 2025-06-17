@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006167037</ID>
+<TITRE_TA>Section 3 : Fédérations délégataires</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2006-05-25" etat="MODIFIE" fin="2021-08-26" id="LEGIARTI000006547545" num="L131-14" origine="LEGI"/>
+<LIEN_ART debut="2021-08-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043982791" num="L131-14" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="MODIFIE" fin="2015-11-29" id="LEGIARTI000006547546" num="L131-15" origine="LEGI"/>
+<LIEN_ART debut="2015-11-29" etat="MODIFIE" fin="2017-03-03" id="LEGIARTI000031548840" num="L131-15" origine="LEGI"/>
+<LIEN_ART debut="2017-03-03" etat="MODIFIE" fin="2022-03-04" id="LEGIARTI000034117221" num="L131-15" origine="LEGI"/>
+<LIEN_ART debut="2022-03-04" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045293899" num="L131-15" origine="LEGI"/>
+<LIEN_ART debut="2017-03-03" etat="MODIFIE" fin="2022-03-04" id="LEGIARTI000034113260" num="L131-15-1" origine="LEGI"/>
+<LIEN_ART debut="2022-03-04" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045293925" num="L131-15-1" origine="LEGI"/>
+<LIEN_ART debut="2021-08-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043971673" num="L131-15-2" origine="LEGI"/>
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045290333" num="L131-15-3" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="MODIFIE" fin="2012-02-03" id="LEGIARTI000006547547" num="L131-16" origine="LEGI"/>
+<LIEN_ART debut="2012-02-03" etat="MODIFIE" fin="2013-03-30" id="LEGIARTI000025276053" num="L131-16" origine="LEGI"/>
+<LIEN_ART debut="2013-03-30" etat="MODIFIE" fin="2017-03-03" id="LEGIARTI000027259698" num="L131-16" origine="LEGI"/>
+<LIEN_ART debut="2017-03-03" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000034116991" num="L131-16" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000034132828" num="L131-16" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182938" num="L131-16" origine="LEGI"/>
+<LIEN_ART debut="2012-02-03" etat="MODIFIE" fin="2015-11-29" id="LEGIARTI000025272136" num="L131-16-1" origine="LEGI"/>
+<LIEN_ART debut="2015-11-29" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000031549024" num="L131-16-1" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000034117006" num="L131-16-1" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182933" num="L131-16-1" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006547548" num="L131-17" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006547549" num="L131-18" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="MODIFIE" fin="2010-06-11" id="LEGIARTI000006547550" num="L131-19" origine="LEGI"/>
+<LIEN_ART debut="2010-06-11" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000022326733" num="L131-19" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006547551" num="L131-20" origine="LEGI"/>
+<LIEN_ART debut="2006-05-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006547552" num="L131-21" origine="LEGI"/>
+<LIEN_ART debut="2015-11-29" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000031537718" num="L131-22" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071318" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du sport." debut="2006-02-01" fin="2999-01-01" id_txt="LEGITEXT000006071318">Code du sport</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2006-02-01" fin="2999-01-01" id="LEGISCTA000006096664">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-25" fin="2999-01-01" id="LEGISCTA000006120753">LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-25" fin="2999-01-01" id="LEGISCTA000006137768">TITRE III : FÉDÉRATIONS SPORTIVES ET LIGUES PROFESSIONNELLES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2006-05-25" fin="2999-01-01" id="LEGISCTA000006151560">Chapitre Ier : Fédérations sportives</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023710057</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/71/00/LEGIARTI000023710057.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-167</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-03-16</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-03-16" fin="2999-01-01" id="LEGISCTA000023710055">TITRE XXXII : DE LA PROCÉDURE APPLICABLE AUX INFRACTIONS RELATIVES À LA PROLIFÉRATION D'ARMES DE DESTRUCTION MASSIVE ET DE LEURS VECTEURS</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000023710057" num="706-167" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741892" num="706-167" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La procédure applicable à l'enquête, à la poursuite, à l'instruction et au jugement des crimes et des délits suivants ainsi que des infractions connexes est celle prévue par le présent code, sous réserve des dispositions du présent titre : </p>
+<p>1° Les infractions relatives aux matières et aux armes nucléaires et aux biens connexes aux matières nucléaires prévues par les 1° et 2° du I de l'article L. 1333-9 et les articles L. 1333-11, L. 1333-13-1 à L. 1333-13-6 et L. 1333-14 du code de la défense ; </p>
+<p>2° Les infractions relatives aux armes biologiques ou à base de toxines prévues par les articles L. 2341-1, L. 2341-2, L. 2341-4 et L. 2341-5 du même code ; </p>
+<p>3° Les infractions relatives aux armes et produits chimiques prévues par les articles L. 2342-57 à L. 2342-61 du même code ; </p>
+<p>4° Les infractions relatives à la prolifération des vecteurs d'armes de destruction massive prévues par les articles L. 2339-14 à L. 2339-16 du même code ; </p>
+<p>5° Les délits de contrebande, d'importation ou d'exportation prévus aux deuxième et dernier alinéas de l'article 414 du code des douanes, lorsqu'ils portent sur des biens à double usage, civil et militaire ; </p>
+<p>6° Les infractions de livraison d'informations à une puissance étrangère prévues par les articles 411-6 à 411-8 du code pénal lorsque ces infractions sont en relation avec l'une des infractions mentionnées aux 1° à 5° du présent article ; </p>
+<p>7° Le délit de participation à une association de malfaiteurs prévu par l'article 450-1 du code pénal lorsqu'il a pour objet de préparer l'une des infractions susvisées. </p>
+<p>Le présent titre est également applicable à la poursuite, à l'instruction et au jugement des infractions susvisées commises à l'étranger lorsque la loi française est applicable en vertu de la section 2 du chapitre III du titre Ier du livre Ier du code pénal.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000023707202" datesignatexte="2011-03-14" id="LEGIARTI000023708699" naturetexte="LOI" nortexte="DEFD0905829L" num="16" numtexte="2011-266" sens="cible" typelien="CREE">LOI n°2011-266
+ du 14 mars 2011 - art. 16</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418354" naturetexte="CODE" nortexte="" num="411-6" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 411-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418358" naturetexte="CODE" nortexte="" num="411-8" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 411-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418849" naturetexte="CODE" nortexte="" num="450-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 450-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043409351" naturetexte="CODE" nortexte="" num="7" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039279097" naturetexte="CODE" nortexte="" num="706-168" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-168 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039279092" naturetexte="CODE" nortexte="" num="706-169" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-169 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038312899" naturetexte="CODE" nortexte="" num="706-170" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-170 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023710085" naturetexte="CODE" nortexte="" num="706-175" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-175 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049050984" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531911" naturetexte="CODE" nortexte="" num="8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023710478" naturetexte="CODE" nortexte="" num="866-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 866-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023710523" naturetexte="CODE" nortexte="" num="900-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 900-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023710581" naturetexte="CODE" nortexte="" num="934-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 934-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000034099845" naturetexte="CODE" nortexte="" num="133-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 133-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000034099836" naturetexte="CODE" nortexte="" num="133-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 133-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539719" naturetexte="CODE" nortexte="" num="L1333-11" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709298" naturetexte="CODE" nortexte="" num="L1333-13-1" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-13-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709308" naturetexte="CODE" nortexte="" num="L1333-13-6" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-13-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539723" naturetexte="CODE" nortexte="" num="L1333-14" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539716" naturetexte="CODE" nortexte="" num="L1333-9" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709548" naturetexte="CODE" nortexte="" num="L2339-14" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2339-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709552" naturetexte="CODE" nortexte="" num="L2339-16" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2339-16 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540008" naturetexte="CODE" nortexte="" num="L2341-1" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2341-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540009" naturetexte="CODE" nortexte="" num="L2341-2" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2341-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540011" naturetexte="CODE" nortexte="" num="L2341-4" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2341-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540012" naturetexte="CODE" nortexte="" num="L2341-5" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2341-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540080" naturetexte="CODE" nortexte="" num="L2342-57" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2342-57 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540084" naturetexte="CODE" nortexte="" num="L2342-61" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2342-61 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615940" naturetexte="CODE" nortexte="" num="414" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 414</LIEN>
+</LIENS>
+</ARTICLE>

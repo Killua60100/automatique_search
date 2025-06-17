@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006841942</ID>
+<ANCIEN_ID>UFAXXXXXXXX2X325R038XXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/84/19/LEGIARTI000006841942.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>R325-38</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2005-09-13</DATE_DEBUT>
+<DATE_FIN>2016-12-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006108688">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006129091">Livre III : Le véhicule.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006143856">Titre II : Dispositions administratives. </TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006159589">Chapitre V : Immobilisation et mise en fourrière</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006177105">Section 3 : Fourrière</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006189107">Sous-section 1 : Dispositions générales.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2005-09-13" id="LEGIARTI000006841941" num="R325-38" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-09-13" etat="MODIFIE" fin="2016-12-01" id="LEGIARTI000006841942" num="R325-38" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-12-01" etat="MODIFIE" fin="2021-04-01" id="LEGIARTI000033174586" num="R325-38" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-04-01" etat="MODIFIE" fin="2024-04-01" id="LEGIARTI000042039334" num="R325-38" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-04-01" etat="MODIFIE" fin="2025-06-16" id="LEGIARTI000048547714" num="R325-38" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740207" num="R325-38" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>I.-Chaque prescription de mise en fourrière prend fin par une décision de mainlevée. <br/>
+<br/>II.-Cette décision émane de l'autorité qui a prescrit la mise en fourrière ou de l'officier de police judiciaire chargé d'exécuter cette mesure. <br/>
+<br/>III.-Lorsque l'autorité qualifiée pour prononcer la mainlevée est saisie en ce sens par le procureur de la République ou le préfet, comme il est prévu à l'article R. 325-27, elle est tenue de donner immédiatement mainlevée. <br/>
+<br/>IV.-L'autorité qualifiée pour prononcer la mainlevée est tenue de le faire, de restituer le certificat d'immatriculation du véhicule s'il a été retiré et de délivrer une autorisation définitive de sortie de fourrière : <br/>
+<br/>1° Sur simple demande du propriétaire ou du conducteur si elle concerne un véhicule classé dans la première catégorie visée à l'article R. 325-30 ; <br/>
+<br/>2° S'il s'agit d'un véhicule classé dans la deuxième ou la troisième catégorie, sur demande du propriétaire ou du conducteur, accompagnée selon le cas : <br/>
+<br/>a) De la facture détaillée du réparateur certifiant l'exécution des travaux reconnus indispensables par l'expert ; <br/>
+<br/>b) Ou du récépissé délivré par un centre de contrôle technique agréé, postérieur à la date de mise en fourrière. <br/>
+<br/>V.-Les dispositions du IV ci-dessus ne s'appliquent pas aux véhicules volés retrouvés en fourrière ainsi qu'aux véhicules dont le propriétaire et l'assureur demeurent inconnus ou introuvables malgré les recherches effectuées, pour lesquels la mainlevée ne peut être prononcée qu'après accord préalable exprès des services de police ou de gendarmerie compétents.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000578193" datesignatexte="2001-03-22" id="JORFTEXT000000578193" naturetexte="DECRET" nortexte="EQUS0100055D" num="" numtexte="2001-251" sens="source" typelien="CODIFICATION">Décret 2001-251 2001-03-22 JORF 25 mars 2001</LIEN>
+<LIEN cidtexte="JORFTEXT000000238967" datesignatexte="2005-09-06" id="LEGIARTI000006244911" naturetexte="DECRET" nortexte="INTD0500246D" num="16" numtexte="2005-1148" sens="source" typelien="MODIFICATION">Décret n°2005-1148 du 6 septembre 2005 - art. 16 () JORF 13 septembre 2005</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006876237" naturetexte="CODE" nortexte="" num="R293" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R293 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006876259" naturetexte="CODE" nortexte="" num="R293-1" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. R293-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGITEXT000006074228" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code de la route R293, R293-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841904" naturetexte="CODE" nortexte="" num="R325-17" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-17 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841921" naturetexte="CODE" nortexte="" num="R325-27" numtexte="" sens="source" typelien="CITATION">Code de la route. - art. R325-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841928" naturetexte="CODE" nortexte="" num="R325-30" numtexte="" sens="source" typelien="CITATION">Code de la route. - art. R325-30 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033174582" naturetexte="CODE" nortexte="" num="R325-39" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-39 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000033174578" naturetexte="CODE" nortexte="" num="R325-40" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-40 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042039340" naturetexte="CODE" nortexte="" num="R325-41" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-41 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006132345</ID>
+<TITRE_TA>Chapitre II : Dispositions diverses.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1992-01-01" etat="MODIFIE" fin="2014-03-19" id="LEGIARTI000006903514" num="66-4" origine="LEGI"/>
+<LIEN_ART debut="2014-03-19" etat="MODIFIE" fin="2015-08-08" id="LEGIARTI000028748887" num="66-4" origine="LEGI"/>
+<LIEN_ART debut="2015-08-08" etat="MODIFIE" fin="2016-07-01" id="LEGIARTI000031012227" num="66-4" origine="LEGI"/>
+<LIEN_ART debut="2016-07-01" etat="MODIFIE" fin="2016-11-20" id="LEGIARTI000033065503" num="66-4" origine="LEGI"/>
+<LIEN_ART debut="2016-11-20" etat="MODIFIE" fin="2016-12-24" id="LEGIARTI000033458682" num="66-4" origine="LEGI"/>
+<LIEN_ART debut="2016-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033678987" num="66-4" origine="LEGI"/>
+<LIEN_ART debut="1992-01-01" etat="MODIFIE" fin="1993-01-05" id="LEGIARTI000006903522" num="66-5" origine="LEGI"/>
+<LIEN_ART debut="1997-04-08" etat="MODIFIE" fin="2004-02-12" id="LEGIARTI000006903524" num="66-5" origine="LEGI"/>
+<LIEN_ART debut="2004-02-12" etat="MODIFIE" fin="2009-02-01" id="LEGIARTI000006903525" num="66-5" origine="LEGI"/>
+<LIEN_ART debut="2009-02-01" etat="MODIFIE" fin="2011-03-30" id="LEGIARTI000020192999" num="66-5" origine="LEGI"/>
+<LIEN_ART debut="2011-03-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000023780802" num="66-5" origine="LEGI"/>
+<LIEN_ART debut="1993-01-05" etat="MODIFIE" fin="1997-04-08" id="LEGIARTI000006903523" num="66-5" origine="LEGI"/>
+<LIEN_ART debut="1992-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006903533" num="66-6" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000508793" date_publi="1972-01-05" date_signature="1971-12-31" ministere="" nature="LOI" nor="" num="71-1130" num_parution_jo="">
+<TITRE_TXT c_titre_court="Loi n° 71-1130 du 31 décembre 1971" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000508793">Loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 71-1130 du 31 décembre 1971" debut="1972-09-16" fin="2999-01-01" id_txt="LEGITEXT000006068396">Loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1992-01-01" fin="2999-01-01" id="LEGISCTA000006112891">Titre II : Réglementation de la consultation en matière juridique et de la rédaction d'actes sous seing privé</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

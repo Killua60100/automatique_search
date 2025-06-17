@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000044376071</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/44/37/60/LEGIARTI000044376071.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>322-8</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2021-11-27</DATE_DEBUT>
+<DATE_FIN>2024-03-23</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117598">Livre III : Des crimes et délits contre les biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136043">Titre II : Des autres atteintes aux biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149838">Chapitre II : Des destructions, dégradations et détériorations</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165342">Section 2 : Des destructions, dégradations et détériorations dangereuses pour les personnes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418286" num="322-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2003-02-04" id="LEGIARTI000006418287" num="322-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-02-04" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006418288" num="322-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2017-01-29" id="LEGIARTI000006418289" num="322-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-01-29" etat="MODIFIE" fin="2017-03-02" id="LEGIARTI000033975261" num="322-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-03-02" etat="MODIFIE" fin="2021-11-27" id="LEGIARTI000034114897" num="322-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-11-27" etat="MODIFIE" fin="2024-03-23" id="LEGIARTI000044376071" num="322-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-03-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049312725" num="322-8" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion criminelle et de 150 000 euros d'amende :</p>
+<p>1° Lorsqu'elle est commise en bande organisée ;</p>
+<p>2° Lorsqu'elle a entraîné pour autrui une incapacité totale de travail pendant plus de huit jours ;</p>
+<p>3° Lorsqu'elle est commise en raison de la qualité de magistrat, de militaire de la gendarmerie nationale, de fonctionnaire de la police nationale, des douanes ou de l'administration pénitentiaire ou de toute autre personne dépositaire de l'autorité publique, ou de sapeur-pompier ou de marin-pompier, de la personne propriétaire ou utilisatrice du bien.</p>
+<p>Lorsqu'il s'agit de l'incendie de bois, forêts, landes, maquis, plantations ou reboisements d'autrui, les peines sont portées à trente ans de réclusion criminelle et à 200 000 euros d'amende.</p>
+<p>Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le présent article.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000359433" datesignatexte="1992-07-22" id="JORFTEXT000000359433" naturetexte="LOI" nortexte="JUSX8900011L" num="" numtexte="92-685" sens="source" typelien="CODIFICATION">Loi n°92-685 du 22 juillet 1992</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000044367862" datesignatexte="2021-11-25" id="LEGIARTI000044368572" naturetexte="LOI" nortexte="INTX2113731L" num="55" numtexte="2021-1520" sens="cible" typelien="MODIFIE">LOI n°2021-1520 du 25 novembre 2021 - art. 55</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575087" naturetexte="CODE" nortexte="" num="63-4" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 63-4 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418279" naturetexte="CODE" nortexte="" num="322-6" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 322-6</LIEN>
+</LIENS>
+</ARTICLE>

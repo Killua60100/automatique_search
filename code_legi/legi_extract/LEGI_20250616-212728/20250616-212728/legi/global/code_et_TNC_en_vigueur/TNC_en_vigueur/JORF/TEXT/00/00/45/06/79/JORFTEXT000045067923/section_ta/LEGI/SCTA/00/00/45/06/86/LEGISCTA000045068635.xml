@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000045068635</ID>
+<TITRE_TA>Titre IER : DISPOSITIONS LIMITANT L'IRRESPONSABILITÉ PÉNALE EN CAS DE TROUBLE MENTAL RÉSULTANT D'UNE INTOXICATION VOLONTAIRE AUX SUBSTANCES PSYCHOACTIVES</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000045068707" num="1" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000045068691" num="2" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000045068689" num="3" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000045068693" num="4" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000045068641" num="5" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000045068643" num="6" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000045068645" num="7" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000045068647" num="8" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000045068695" num="9" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000045067923" date_publi="2022-01-25" date_signature="2022-01-24" ministere="" nature="LOI" nor="JUSX2116059L" num="2022-52" num_parution_jo="0020">
+<TITRE_TXT c_titre_court="LOI n°2022-52 du 24 janvier 2022" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000045067923">LOI n° 2022-52 du 24 janvier 2022 relative à la responsabilité pénale et à la sécurité intérieure (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2022-52 du 24 janvier 2022" debut="2022-01-26" fin="2999-01-01" id_txt="LEGITEXT000045068634">LOI n° 2022-52 du 24 janvier 2022 relative à la responsabilité pénale et à la sécurité intérieure (1)</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

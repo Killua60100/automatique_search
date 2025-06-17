@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006494266</ID>
+<ANCIEN_ID>PJEFPXXXXXX001AAXXXXXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/49/42/LEGIARTI000006494266.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000249995" date_publi="2004-03-10" date_signature="2004-03-09" ministere="" nature="LOI" nor="JUSX0300028L" num="2004-204" num_parution_jo="0059">
+<TITRE_TXT c_titre_court="LOI n° 2004-204 du 9 mars 2004" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000249995">LOI n° 2004-204 du 9 mars 2004 portant adaptation de la justice aux évolutions de la criminalité (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 2004-204 du 9 mars 2004" debut="2004-03-10" fin="2999-01-01" id_txt="LEGITEXT000005765479">Loi n° 2004-204 du 9 mars 2004 portant adaptation de la justice aux évolutions de la criminalité (1).</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2999-01-01" id="LEGISCTA000006094171">TITRE Ier : DISPOSITIONS RELATIVES A LA LUTTE CONTRE LES FORMES NOUVELLES DE DELINQUANCE ET DE CRIMINALITE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="LEGISCTA000006119571">CHAPITRE Ier : Dispositions concernant la lutte contre la délinquance et la criminalité organisées</TITRE_TM>
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="LEGISCTA000006136948">Section 1 : Dispositions relatives à la procédure particulière applicable à la délinquance et à la criminalité organisées.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000006494266" num="1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>a modifié les dispositions suivantes<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577816" naturetexte="CODE" nortexte="" num="706-100" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-100 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577817" naturetexte="CODE" nortexte="" num="706-101" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-101 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577818" naturetexte="CODE" nortexte="" num="706-102" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-102 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577819" naturetexte="CODE" nortexte="" num="706-103" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-103 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577820" naturetexte="CODE" nortexte="" num="706-104" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-104 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577821" naturetexte="CODE" nortexte="" num="706-105" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-105 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577822" naturetexte="CODE" nortexte="" num="706-106" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-106 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-73 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577781" naturetexte="CODE" nortexte="" num="706-74" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-74 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577782" naturetexte="CODE" nortexte="" num="706-75" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-75 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577784" naturetexte="CODE" nortexte="" num="706-76" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-76 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577787" naturetexte="CODE" nortexte="" num="706-77" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-77 (AbD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577789" naturetexte="CODE" nortexte="" num="706-78" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-78 (AbD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577791" naturetexte="CODE" nortexte="" num="706-79" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-79 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577793" naturetexte="CODE" nortexte="" num="706-80" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-80 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577794" naturetexte="CODE" nortexte="" num="706-81" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-81 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577795" naturetexte="CODE" nortexte="" num="706-82" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-82 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577796" naturetexte="CODE" nortexte="" num="706-83" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-83 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577797" naturetexte="CODE" nortexte="" num="706-84" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-84 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577798" naturetexte="CODE" nortexte="" num="706-85" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-85 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577799" naturetexte="CODE" nortexte="" num="706-86" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-86 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577800" naturetexte="CODE" nortexte="" num="706-87" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-87 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577801" naturetexte="CODE" nortexte="" num="706-88" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-88 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577803" naturetexte="CODE" nortexte="" num="706-89" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-89 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577804" naturetexte="CODE" nortexte="" num="706-90" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-90 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577805" naturetexte="CODE" nortexte="" num="706-91" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-91 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577806" naturetexte="CODE" nortexte="" num="706-92" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-92 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577808" naturetexte="CODE" nortexte="" num="706-93" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-93 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577809" naturetexte="CODE" nortexte="" num="706-94" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-94 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577810" naturetexte="CODE" nortexte="" num="706-95" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-95 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577811" naturetexte="CODE" nortexte="" num="706-96" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-96 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577813" naturetexte="CODE" nortexte="" num="706-97" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-97 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577814" naturetexte="CODE" nortexte="" num="706-98" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-98 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577815" naturetexte="CODE" nortexte="" num="706-99" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-99 (V)</LIEN>
+</LIENS>
+</ARTICLE>

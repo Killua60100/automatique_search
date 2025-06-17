@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000048902095</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/48/90/20/LEGIARTI000048902095.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4 bis</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2023-12-29</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000029460644" date_publi="2014-09-16" date_signature="2014-09-04" ministere="Ministère de l'écologie, du développement durable et de l'énergie" nature="ARRETE" nor="DEVR1414899A" num="" num_parution_jo="0214">
+<TITRE_TXT c_titre_court="ARRÊTÉ du 4 septembre 2014" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000029460644">Arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur</TITRE_TXT>
+<TITRE_TXT c_titre_court="ARRÊTÉ du 4 septembre 2014" debut="2015-01-01" fin="2999-01-01" id_txt="LEGITEXT000029461709">Arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-12-29" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000048902095" num="4 bis" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739472" num="4 bis" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Par dérogation aux dispositions du présent arrêté, dans le cas où le bénéficiaire est une personne physique propriétaire occupant ou bailleur d'un logement occupé à titre de résidence principale, ou une personne physique titulaire d'un droit réel immobilier conférant l'usage d'un logement occupé à titre de résidence principale, pour ce logement, et où le rôle actif et incitatif mentionné à l'article R. 221-22 du code de l'énergie est assuré par l'agence mentionnée à l'article L. 321-1 du code de la construction et de l'habitation :</p>
+<p> - le contenu du cadre contribution mentionné à l'annexe 8 est défini par cette agence ;</p>
+<p> - l'attestation sur l'honneur mentionnée à l'annexe 7 est remplacée par une attestation sur l'honneur définie par cette agence.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000048680133" datesignatexte="2023-12-19" id="LEGIARTI000048902007" naturetexte="ARRETE" nortexte="ENER2334670A" num="1" numtexte="" sens="cible" typelien="CREE">Arrêté du 19 décembre 2023 - art. 1</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000006824923" naturetexte="CODE" nortexte="" num="L321-1" numtexte="" sens="source" typelien="CITATION">Code de la construction et de l'habitation. - art. L321-1</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000031748003" naturetexte="CODE" nortexte="" num="R221-22" numtexte="" sens="source" typelien="CITATION">Code de l'énergie - art. R221-22</LIEN>
+</LIENS>
+</ARTICLE>

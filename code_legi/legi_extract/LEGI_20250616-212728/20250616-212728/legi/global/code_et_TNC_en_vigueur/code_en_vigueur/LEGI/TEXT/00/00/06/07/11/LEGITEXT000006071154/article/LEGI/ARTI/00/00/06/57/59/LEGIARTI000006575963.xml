@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575963</ID>
+<ANCIEN_ID>PXXXXXXXXXX0224L000AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/59/LEGIARTI000006575963.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>224</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1978-07-29</DATE_DEBUT>
+<DATE_FIN>2001-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2001-01-01" id="LEGISCTA000006151885">Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1978-07-29" fin="2001-01-01" id="LEGISCTA000006167456">Section 3 : Du contrôle de l'activité des officiers et agents de police judiciaire</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1978-07-29" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575963" num="224" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575964" num="224" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La chambre d'accusation exerce un contrôle sur l'activité des fonctionnaires civils et des militaires, officiers et agents de police judiciaire, pris en cette qualité.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000704937" datesignatexte="1978-07-28" id="JORFTEXT000000704937" naturetexte="LOI" nortexte="" num="" numtexte="78-788" sens="source" typelien="MODIFICATION">Loi 78-788 1978-07-28 art. 6 et 7 JORF 29 juillet 1978</LIEN>
+<LIEN cidtexte="JORFTEXT000000692485" datesignatexte="1983-06-27" id="LEGIARTI000006492348" naturetexte="LOI" nortexte="" num="18" numtexte="83-520" sens="cible" typelien="CITATION">Loi n°83-520 du 27 juin 1983 - art. 18 (V)</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006514912" naturetexte="CODE" nortexte="" num="D44" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. D44 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006514914" naturetexte="CODE" nortexte="" num="D45" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. D45 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006514917" naturetexte="CODE" nortexte="" num="D46" numtexte="" sens="cible" typelien="TXT_SOURCE">CODE DE PROCEDURE PENALE - art. D46 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875286" naturetexte="CODE" nortexte="" num="L23-1" numtexte="" sens="cible" typelien="CITATION">Code de la route - art. L23-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000026500615" naturetexte="CODE" nortexte="" num="L130-3" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L130-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000020957197" naturetexte="CODE" nortexte="" num="13" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032642014" naturetexte="CODE" nortexte="" num="229-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 229-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742218" naturetexte="CODE" nortexte="" num="28-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047859217" naturetexte="CODE" nortexte="" num="28-1-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048838748" naturetexte="CODE" nortexte="" num="28-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042751075" naturetexte="CODE" nortexte="" num="28-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038582034" naturetexte="CODE" nortexte="" num="D44" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D44 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000021626898" naturetexte="CODE" nortexte="" num="R15-33-14" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R15-33-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000022671271" naturetexte="CODE" nortexte="" num="R15-33-29-13" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R15-33-29-13 (V)</LIEN>
+</LIENS>
+</ARTICLE>

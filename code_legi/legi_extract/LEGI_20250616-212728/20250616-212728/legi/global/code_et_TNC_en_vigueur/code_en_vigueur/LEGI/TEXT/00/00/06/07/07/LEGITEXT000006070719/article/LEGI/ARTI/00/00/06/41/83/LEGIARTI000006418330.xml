@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006418330</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X324L01AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/83/LEGIARTI000006418330.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>324-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1996-05-14</DATE_DEBUT>
+<DATE_FIN>2002-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117598">Livre III : Des crimes et délits contre les biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136043">Titre II : Des autres atteintes aux biens</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-05-14" fin="2999-01-01" id="LEGISCTA000006149840">Chapitre IV : Du blanchiment</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-05-14" fin="2999-01-01" id="LEGISCTA000006165345">Section 1 : Du blanchiment simple et du blanchiment aggravé</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1996-05-14" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006418330" num="324-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006418331" num="324-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743092" num="324-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le blanchiment est le fait de faciliter, par tout moyen, la justification mensongère de l'origine des biens ou des revenus de l'auteur d'un crime ou d'un délit ayant procuré à celui-ci un profit direct ou indirect.<br/>
+<br/>   Constitue également un blanchiment le fait d'apporter un concours à une opération de placement, de dissimulation ou de conversion du produit direct ou indirect d'un crime ou d'un délit.<br/>
+<br/>   Le blanchiment est puni de cinq ans d'emprisonnement et de 2 500 000 F d'amende.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000320194" datesignatexte="1983-07-12" id="LEGIARTI000023713366" naturetexte="LOI" nortexte="" num="12" numtexte="83-629" sens="cible" typelien="CITATION">Loi n° 83-629 du 12 juillet 1983 - art. 12 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000320194" datesignatexte="1983-07-12" id="LEGIARTI000023713376" naturetexte="LOI" nortexte="" num="26" numtexte="83-629" sens="cible" typelien="CITATION">Loi n° 83-629 du 12 juillet 1983 - art. 26 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000359433" datesignatexte="1992-07-22" id="JORFTEXT000000359433" naturetexte="LOI" nortexte="JUSX8900011L" num="" numtexte="92-685" sens="source" typelien="CODIFICATION">Loi 92-685 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000558559" datesignatexte="1996-05-13" id="LEGIARTI000006492688" naturetexte="LOI" nortexte="JUSX9400059L" num="1" numtexte="96-392" sens="source" typelien="CREATION">Loi n°96-392 du 13 mai 1996 - art. 1 () JORF 14 mai 1996</LIEN>
+<LIEN cidtexte="JORFTEXT000000396628" datesignatexte="1999-09-08" id="LEGIARTI000006739978" naturetexte="DECRET" nortexte="ECOT9914031D" num="2" numtexte="99-776" sens="cible" typelien="CITATION">Décret n°99-776 du 8 septembre 1999 - art. 2 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000221912" datesignatexte="2001-12-11" id="LEGIARTI000006712761" naturetexte="LOI" nortexte="ECOX0100063L" num="17" numtexte="2001-1168" sens="cible" typelien="CITATION">Loi n°2001-1168 du 11 décembre 2001 - art. 17 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000418526" datesignatexte="2003-03-07" id="LEGIARTI000006637530" naturetexte="DECRET" nortexte="ECOT0237030D" num="7" numtexte="2003-196" sens="cible" typelien="CITATION">Décret n°2003-196 du 7 mars 2003 - art. 7 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000438720" datesignatexte="2004-06-17" id="LEGIARTI000029336766" naturetexte="ORDONNANCE" nortexte="ECOX0400035R" num="4" numtexte="2004-559" sens="cible" typelien="CITATION">Ordonnance n° 2004-559 du 17 juin 2004 - art. 4 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000629820" datesignatexte="2005-06-06" id="LEGIARTI000024247674" naturetexte="ORDONNANCE" nortexte="ECOX0500022R" num="7" numtexte="2005-649" sens="cible" typelien="CITATION">Ordonnance n° 2005-649 du 6 juin 2005 - art. 7 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000629820" datesignatexte="2005-06-06" id="LEGIARTI000031086665" naturetexte="ORDONNANCE" nortexte="ECOX0500022R" num="8" numtexte="2005-649" sens="cible" typelien="CITATION">Ordonnance n° 2005-649 du 6 juin 2005 - art. 8 (VD)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000024611766" datesignatexte="2011-09-28" id="LEGIARTI000024612915" naturetexte="ARRETE" nortexte="DEVT1125141A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 septembre 2011 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024611766" datesignatexte="2011-09-28" id="LEGIARTI000045278826" naturetexte="ARRETE" nortexte="DEVT1125141A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 septembre 2011 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024772876" datesignatexte="2011-11-02" id="LEGIARTI000031882318" naturetexte="ARRETE" nortexte="TRAT1128150A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 novembre 2011 - art. 3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000024772876" datesignatexte="2011-11-02" id="LEGIARTI000024774282" naturetexte="ARRETE" nortexte="TRAT1128150A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 novembre 2011 - art. 4 (Ab)</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000030920376" datesignatexte="2015-07-23" id="LEGIARTI000037389545" naturetexte="ORDONNANCE" nortexte="EINM1506103R" num="45" numtexte="2015-899" sens="cible" typelien="CITATION">ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000031045937" datesignatexte="2015-08-17" id="LEGIARTI000031047629" naturetexte="LOI" nortexte="JUSX1403244L" num="11" numtexte="2015-993" sens="cible" typelien="CITATION">LOI n°2015-993 du 17 août 2015 - art. 11</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000031939947" datesignatexte="2016-01-29" id="LEGIARTI000037389227" naturetexte="ORDONNANCE" nortexte="EINM1527673R" num="39" numtexte="2016-65" sens="cible" typelien="CITATION">Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VT)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000039727443" datesignatexte="2019-12-31" id="LEGIARTI000041403854" naturetexte="DECRET" nortexte="ECOT1932857D" num="1" numtexte="2019-1590" sens="cible" typelien="CITATION">Décret n°2019-1590 du 31 décembre 2019 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000044041426" datesignatexte="2021-09-09" id="LEGIARTI000044042646" naturetexte="ARRETE" nortexte="ECOT2126851A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 9 septembre 2021 - art. (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000046150481" datesignatexte="2022-08-05" id="LEGIARTI000046154992" naturetexte="ARRETE" nortexte="ECOT2222069A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 5 août 2022 - art. 2 (V)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577635" naturetexte="CODE" nortexte="" num="706-30" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 706-30 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000047293161" naturetexte="CODE" nortexte="" num="L2141-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L2141-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000047293128" naturetexte="CODE" nortexte="" num="L2341-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L2341-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000047293065" naturetexte="CODE" nortexte="" num="L3123-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L3123-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000025450337" naturetexte="CODE" nortexte="" num="L2336-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2336-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049294196" naturetexte="CODE" nortexte="" num="L312-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L312-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043540642" naturetexte="CODE" nortexte="" num="L612-16" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L612-16 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043540607" naturetexte="CODE" nortexte="" num="L622-14" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L622-14 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000047555577" naturetexte="CODE" nortexte="" num="L625-9" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L625-9 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033975162" naturetexte="CODE" nortexte="" num="2-17" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-17 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000033460406" naturetexte="CODE" nortexte="" num="2-23" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 2-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742218" naturetexte="CODE" nortexte="" num="28-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531736" naturetexte="CODE" nortexte="" num="704" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 704 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742096" naturetexte="CODE" nortexte="" num="706-55" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-55 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000050053975" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000006797499" naturetexte="CODE" nortexte="" num="L322-2" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. L322-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024197762" naturetexte="CODE" nortexte="" num="L1414-4" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L1414-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000049531775" naturetexte="CODE" nortexte="" num="1378 octies" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1378 octies (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006640510" naturetexte="CODE" nortexte="" num="D313-27" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. D313-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000037294481" naturetexte="CODE" nortexte="" num="L312-4-1" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L312-4-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000041577908" naturetexte="CODE" nortexte="" num="L561-22" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L561-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658504" naturetexte="CODE" nortexte="" num="L562-8" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658644" naturetexte="CODE" nortexte="" num="L564-2" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L564-2 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658733" naturetexte="CODE" nortexte="" num="L565-2" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L565-2 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000006658805" naturetexte="CODE" nortexte="" num="L566-2" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L566-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000041461651" naturetexte="CODE" nortexte="" num="R151-10" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R151-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000037678762" naturetexte="CODE" nortexte="" num="R153-10" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R153-10 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051740488" naturetexte="CODE" nortexte="" num="324-1-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 324-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418334" naturetexte="CODE" nortexte="" num="324-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 324-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418335" naturetexte="CODE" nortexte="" num="324-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 324-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049778831" naturetexte="CODE" nortexte="" num="324-7" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 324-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418340" naturetexte="CODE" nortexte="" num="324-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 324-8 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000028312050" naturetexte="CODE" nortexte="" num="324-9" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 324-9 (V)</LIEN>
+</LIENS>
+</ARTICLE>

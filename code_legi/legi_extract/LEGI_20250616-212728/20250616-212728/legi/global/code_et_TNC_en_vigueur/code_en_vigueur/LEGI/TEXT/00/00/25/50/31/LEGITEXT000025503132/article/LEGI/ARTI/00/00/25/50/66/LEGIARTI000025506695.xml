@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000025506695</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/25/50/66/LEGIARTI000025506695.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L723-5</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2012-05-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507275">LIVRE VII : SÉCURITÉ CIVILE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507268">TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507257">Chapitre III : Sapeurs-pompiers</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507246">Section 3 : Sapeurs-pompiers volontaires</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2012-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000025506695" num="L723-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>L'activité de sapeur-pompier volontaire, qui repose sur le volontariat et le bénévolat, n'est pas exercée à titre professionnel mais dans des conditions qui lui sont propres.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000742398" datesignatexte="1996-05-03" id="LEGIARTI000024385640" naturetexte="LOI" nortexte="INTX9400179L" num="1" numtexte="96-370" sens="source" typelien="CONCORDANCE">Loi n° 96-370 du 3 mai 1996 - art. 1 al 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000025498645" datesignatexte="2012-03-12" id="JORFSCTA000025498822" naturetexte="ORDONNANCE" nortexte="IOCD1129997R" num="" numtexte="2012-351" sens="source" typelien="CREATION">Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000051729056" naturetexte="CODE" nortexte="" num="R1424-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R1424-1 (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe</LIEN>
+</LIENS>
+</ARTICLE>

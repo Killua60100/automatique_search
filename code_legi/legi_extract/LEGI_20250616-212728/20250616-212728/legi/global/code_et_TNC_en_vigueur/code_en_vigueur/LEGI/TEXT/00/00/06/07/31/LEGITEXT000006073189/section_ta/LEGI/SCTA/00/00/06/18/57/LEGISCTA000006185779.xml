@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006185779</ID>
+<TITRE_TA>Sous-section 4 : Allègement général des cotisations patronales.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2025-04-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051434570" num="D241-6" origine="LEGI"/>
+<LIEN_ART debut="2007-09-25" etat="MODIFIE" fin="2010-05-08" id="LEGIARTI000006736091" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2010-05-08" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000022266686" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="MODIFIE" fin="2012-01-01" id="LEGIARTI000023414721" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2012-01-01" etat="MODIFIE" fin="2012-05-07" id="LEGIARTI000025103779" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2012-05-07" etat="MODIFIE" fin="2012-09-24" id="LEGIARTI000025830576" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2012-09-24" etat="MODIFIE" fin="2015-01-01" id="LEGIARTI000026406997" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2015-01-01" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000030067233" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000031792862" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000033516215" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2018-01-01" id="LEGIARTI000033771970" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2018-01-01" etat="MODIFIE" fin="2018-09-30" id="LEGIARTI000036467568" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2018-09-30" etat="MODIFIE" fin="2019-01-01" id="LEGIARTI000037456364" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2019-01-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000038043333" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2020-02-27" id="LEGIARTI000041460935" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2020-02-27" etat="MODIFIE" fin="2020-12-30" id="LEGIARTI000041639738" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2020-12-30" etat="MODIFIE" fin="2022-01-01" id="LEGIARTI000042869486" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2022-01-01" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000044944431" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="MODIFIE" fin="2023-08-24" id="LEGIARTI000046843821" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2023-08-24" etat="MODIFIE" fin="2023-12-31" id="LEGIARTI000047987478" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2023-12-31" etat="MODIFIE" fin="2025-04-07" id="LEGIARTI000048852497" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2025-04-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051434526" num="D241-7" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="ABROGE" fin="2012-05-07" id="LEGIARTI000023414716" num="D241-8" origine="LEGI"/>
+<LIEN_ART debut="2012-09-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000026406992" num="D241-8" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="ABROGE" fin="2012-05-07" id="LEGIARTI000023414712" num="D241-9" origine="LEGI"/>
+<LIEN_ART debut="2012-09-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000026406988" num="D241-9" origine="LEGI"/>
+<LIEN_ART debut="2007-09-25" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000006736103" num="D241-10" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="MODIFIE" fin="2015-01-01" id="LEGIARTI000023414708" num="D241-10" origine="LEGI"/>
+<LIEN_ART debut="2015-01-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000030067255" num="D241-10" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033606427" num="D241-10" origine="LEGI"/>
+<LIEN_ART debut="2007-09-25" etat="MODIFIE" fin="2012-01-01" id="LEGIARTI000006736109" num="D241-11" origine="LEGI"/>
+<LIEN_ART debut="2012-01-01" etat="MODIFIE" fin="2015-01-01" id="LEGIARTI000025103785" num="D241-11" origine="LEGI"/>
+<LIEN_ART debut="2015-01-01" etat="MODIFIE" fin="2023-08-24" id="LEGIARTI000030067265" num="D241-11" origine="LEGI"/>
+<LIEN_ART debut="2023-08-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047987509" num="D241-11" origine="LEGI"/>
+<LIEN_ART debut="2023-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048852491" num="D241-12" origine="LEGI"/>
+<LIEN_ART debut="2007-09-25" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000006735824" num="D241-13" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="ABROGE" fin="2012-09-01" id="LEGIARTI000023414701" num="D241-13" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073189" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité sociale." debut="1958-10-16" fin="2999-01-01" id_txt="LEGITEXT000006073189">Code de la sécurité sociale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006106031">Partie réglementaire - Décrets simples</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006126849">Livre II : Organisation du régime général - Action sanitaire et sociale des caisses</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006141518">Titre IV : Ressources</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006155796">Chapitre 1er : Généralités</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006172138">Section 4 : Dispositions communes.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

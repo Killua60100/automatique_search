@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006141518</ID>
+<TITRE_TA>Titre IV : Ressources</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155796" debut="1985-12-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006155796" niv="4" url="/LEGI/SCTA/00/00/06/15/57/LEGISCTA000006155796.xml">Chapitre 1er : Généralités</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155797" debut="1985-12-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006155797" niv="4" url="/LEGI/SCTA/00/00/06/15/57/LEGISCTA000006155797.xml">Chapitre 2 : Assiette, taux et calcul des cotisations</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155798" debut="1985-12-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006155798" niv="4" url="/LEGI/SCTA/00/00/06/15/57/LEGISCTA000006155798.xml">Chapitre 3 : Recouvrement - Sûretés - Prescription - Contrôle</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000028048223" debut="1985-12-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000028048223" niv="4" url="/LEGI/SCTA/00/00/28/04/82/LEGISCTA000028048223.xml">Chapitre 4 : Contentieux et pénalités</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155800" debut="1985-12-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006155800" niv="4" url="/LEGI/SCTA/00/00/06/15/58/LEGISCTA000006155800.xml">Chapitre 5 : Ressources autres que les cotisations</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000028048224" debut="1985-12-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000028048224" niv="4" url="/LEGI/SCTA/00/00/28/04/82/LEGISCTA000028048224.xml">Chapitre 6 : Dispositions communes</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073189" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité sociale." debut="1958-10-16" fin="2999-01-01" id_txt="LEGITEXT000006073189">Code de la sécurité sociale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006106031">Partie réglementaire - Décrets simples</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006126849">Livre II : Organisation du régime général - Action sanitaire et sociale des caisses</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

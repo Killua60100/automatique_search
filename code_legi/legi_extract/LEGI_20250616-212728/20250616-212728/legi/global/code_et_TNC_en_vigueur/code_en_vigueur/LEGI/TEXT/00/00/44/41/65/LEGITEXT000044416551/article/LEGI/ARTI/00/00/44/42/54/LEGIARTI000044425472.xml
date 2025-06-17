@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000044425472</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/44/42/54/LEGIARTI000044425472.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L523-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2022-03-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000044416551" date_publi="2021-12-06" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général de la fonction publique" debut="2022-03-01" fin="2999-01-01" id_txt="LEGITEXT000044416551">Code général de la fonction publique</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2022-03-01" fin="2999-01-01" id="LEGISCTA000044428011">PARTIE LÉGISLATIVE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-03-01" fin="2999-01-01" id="LEGISCTA000044425830">Livre V : CARRIÈRE ET PARCOURS PROFESSIONNEL</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-03-01" fin="2999-01-01" id="LEGISCTA000044425584">Titre II : APPRÉCIATION DE LA VALEUR PROFESSIONNELLE, PROMOTION INTERNE ET AVANCEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-03-01" fin="2999-01-01" id="LEGISCTA000044425476">Chapitre III : Promotion interne</TITRE_TM>
+<TM>
+<TITRE_TM debut="2022-03-01" fin="2999-01-01" id="LEGISCTA000044425474">Section 1 : Dispositions communes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2022-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044425472" num="L523-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Afin de favoriser la promotion interne, les statuts particuliers fixent, outre l'accès par concours interne, une proportion de postes qui peuvent être proposés aux fonctionnaires ou aux agents des organisations internationales intergouvernementales pour une nomination suivant l'une des modalités ci-après :<br/>1° Examen professionnel, donnant lieu à l'établissement d'une liste d'aptitude dans les fonctions publiques territoriale et hospitalière ;<br/>2° Liste d'aptitude établie par appréciation de la valeur professionnelle et des acquis de l'expérience professionnelle des candidats. Sans renoncer à son pouvoir d'appréciation, l'autorité chargée d'établir la liste d'aptitude tient compte des lignes directrices de gestion prévues au chapitre III du titre Ier du livre IV.<br/>Les statuts particuliers peuvent prévoir l'application de ces deux modalités, sous réserve qu'elles bénéficient à des candidats placés dans des situations différentes.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000501099" datesignatexte="1984-01-11" id="LEGIARTI000038922896" naturetexte="LOI" nortexte="" num="26" numtexte="84-16" sens="source" typelien="CONCORDANCE">Loi n° 84-16 du 11 janvier 1984 - art. 26 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000320434" datesignatexte="1984-01-26" id="LEGIARTI000038922886" naturetexte="LOI" nortexte="" num="39" numtexte="84-53" sens="source" typelien="CONCORDANCE">Loi n° 84-53 du 26 janvier 1984 - art. 39 (VT), al. 1 à 4</LIEN>
+<LIEN cidtexte="JORFTEXT000000512459" datesignatexte="1986-01-09" id="LEGIARTI000038922858" naturetexte="LOI" nortexte="" num="35" numtexte="86-33" sens="source" typelien="CONCORDANCE">Loi n° 86-33 du 9 janvier 1986 - art. 35 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000718718" datesignatexte="1991-03-20" id="LEGIARTI000050931526" naturetexte="DECRET" nortexte="INTB9100078D" num="14" numtexte="91-298" sens="cible" typelien="CITATION">Décret n°91-298 du 20 mars 1991 - art. 14 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000526698" datesignatexte="1991-05-14" id="LEGIARTI000046833250" naturetexte="DECRET" nortexte="MCCB9100224D" num="55" numtexte="91-486" sens="cible" typelien="CITATION">Décret n°91-486 du 14 mai 1991 - art. 55 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000366828" datesignatexte="1994-10-07" id="LEGIARTI000051562288" naturetexte="DECRET" nortexte="FPPA9400088D" num="1" numtexte="94-874" sens="cible" typelien="CITATION">Décret n°94-874 du 7 octobre 1994 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000366828" datesignatexte="1994-10-07" id="LEGIARTI000051562279" naturetexte="DECRET" nortexte="FPPA9400088D" num="3" numtexte="94-874" sens="cible" typelien="CITATION">Décret n°94-874 du 7 octobre 1994 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000366828" datesignatexte="1994-10-07" id="LEGIARTI000051552741" naturetexte="DECRET" nortexte="FPPA9400088D" num="3 bis" numtexte="94-874" sens="cible" typelien="CITATION">Décret n°94-874 du 7 octobre 1994 - art. 3 bis (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000366828" datesignatexte="1994-10-07" id="LEGIARTI000051552752" naturetexte="DECRET" nortexte="FPPA9400088D" num="4 bis" numtexte="94-874" sens="cible" typelien="CITATION">Décret n°94-874 du 7 octobre 1994 - art. 4 bis (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000201358" datesignatexte="1997-05-12" id="LEGIARTI000051562560" naturetexte="DECRET" nortexte="TASH9720453D" num="1" numtexte="97-487" sens="cible" typelien="CITATION">Décret n°97-487 du 12 mai 1997 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000201358" datesignatexte="1997-05-12" id="LEGIARTI000051553097" naturetexte="DECRET" nortexte="TASH9720453D" num="4-1" numtexte="97-487" sens="cible" typelien="CITATION">Décret n°97-487 du 12 mai 1997 - art. 4-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000201358" datesignatexte="1997-05-12" id="LEGIARTI000051562405" naturetexte="DECRET" nortexte="TASH9720453D" num="5" numtexte="97-487" sens="cible" typelien="CITATION">Décret n°97-487 du 12 mai 1997 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000018886193" datesignatexte="2008-05-29" id="LEGIARTI000050332398" naturetexte="DECRET" nortexte="IOCB0800611D" num="16" numtexte="2008-512" sens="cible" typelien="CITATION">Décret n°2008-512 du 29 mai 2008 - art. 16 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000018886193" datesignatexte="2008-05-29" id="LEGIARTI000050007741" naturetexte="DECRET" nortexte="IOCB0800611D" num="6" numtexte="2008-512" sens="cible" typelien="CITATION">Décret n°2008-512 du 29 mai 2008 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000023896613" datesignatexte="2011-04-21" id="LEGIARTI000047172237" naturetexte="DECRET" nortexte="COTB1029775D" num="6" numtexte="2011-444" sens="cible" typelien="CITATION">Décret n°2011-444 du 21 avril 2011 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026236871" datesignatexte="2012-07-30" id="LEGIARTI000050007831" naturetexte="DECRET" nortexte="INTB1205793D" num="7" numtexte="2012-924" sens="cible" typelien="CITATION">Décret n°2012-924
+ du 30 juillet 2012 - art. 7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026236871" datesignatexte="2012-07-30" id="LEGIARTI000050007828" naturetexte="DECRET" nortexte="INTB1205793D" num="8" numtexte="2012-924" sens="cible" typelien="CITATION">Décret n°2012-924
+ du 30 juillet 2012 - art. 8 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033758808" datesignatexte="2016-12-30" id="LEGIARTI000045657577" naturetexte="DECRET" nortexte="INTE1631233D" num="4" numtexte="2016-2002" sens="cible" typelien="CITATION">Décret n°2016-2002 du 30 décembre 2016 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000044411525" datesignatexte="2021-11-24" id="LEGIARTI000044415266" naturetexte="ORDONNANCE" nortexte="TFPF2121004R" num="" numtexte="2021-1574" sens="source" typelien="CODIFICATION">Ordonnance n°2021-1574 du 24 novembre 2021 - art.</LIEN>
+<LIEN cidtexte="JORFTEXT000044411525" datesignatexte="2021-11-24" id="LEGIARTI000044415266" naturetexte="ORDONNANCE" nortexte="TFPF2121004R" num="" numtexte="2021-1574" sens="cible" typelien="CREE">Ordonnance n°2021-1574 du 24 novembre 2021 - art.</LIEN>
+<LIEN cidtexte="LEGITEXT000044416551" datesignatexte="2999-01-01" id="LEGIARTI000044427126" naturetexte="CODE" nortexte="" num="L264-2" numtexte="" sens="cible" typelien="CITATION">Code général de la fonction publique - art. L264-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044416551" datesignatexte="2999-01-01" id="LEGIARTI000051732412" naturetexte="CODE" nortexte="" num="L452-24" numtexte="" sens="cible" typelien="CITATION">Code général de la fonction publique - art. L452-24 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000046677256" datesignatexte="2022-12-01" id="LEGIARTI000046679717" naturetexte="DECRET" nortexte="IOME2209812D" num="1" numtexte="2022-1507" sens="cible" typelien="CITATION">Décret n°2022-1507 du 1er décembre 2022 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000046752900" datesignatexte="2022-12-16" id="LEGIARTI000046755060" naturetexte="DECRET" nortexte="IOMB2228653D" num="1" numtexte="2022-1580" sens="cible" typelien="CITATION">Décret n°2022-1580 du 16 décembre 2022 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000046807273" datesignatexte="2022-12-26" id="LEGIARTI000046814552" naturetexte="DECRET" nortexte="SPRH2233900D" num="17" numtexte="2022-1658" sens="cible" typelien="CITATION">Décret n°2022-1658 du 26 décembre 2022 - art. 17</LIEN>
+<LIEN cidtexte="JORFTEXT000046807273" datesignatexte="2022-12-26" id="LEGIARTI000046814554" naturetexte="DECRET" nortexte="SPRH2233900D" num="18" numtexte="2022-1658" sens="cible" typelien="CITATION">Décret n°2022-1658 du 26 décembre 2022 - art. 18</LIEN>
+<LIEN cidtexte="JORFTEXT000046829665" datesignatexte="2022-12-23" id="LEGIARTI000046831522" naturetexte="DECRET" nortexte="MICB2230446D" num="7" numtexte="2022-1692" sens="cible" typelien="CITATION">Décret n°2022-1692 du 23 décembre 2022 - art. 7</LIEN>
+<LIEN cidtexte="JORFTEXT000047140735" datesignatexte="2023-02-15" id="LEGIARTI000047142188" naturetexte="DECRET" nortexte="IOMB2225829D" num="3" numtexte="2023-95" sens="cible" typelien="CITATION">Décret n°2023-95 du 15 février 2023 - art. 3</LIEN>
+
+<LIEN cidtexte="JORFTEXT000048678756" datesignatexte="2023-12-26" id="LEGIARTI000048703449" naturetexte="DECRET" nortexte="IOMB2325735D" num="1" numtexte="2023-1272" sens="cible" typelien="CITATION">Décret n°2023-1272 du 26 décembre 2023 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000048678756" datesignatexte="2023-12-26" id="LEGIARTI000048703453" naturetexte="DECRET" nortexte="IOMB2325735D" num="3" numtexte="2023-1272" sens="cible" typelien="CITATION">Décret n°2023-1272 du 26 décembre 2023 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000048734585" datesignatexte="2023-12-30" id="LEGIARTI000048776076" naturetexte="LOI" nortexte="TFPX2314930L" num="2" numtexte="2023-1380" sens="cible" typelien="CITATION">LOI n°2023-1380 du 30 décembre 2023 - art. 2</LIEN>
+
+<LIEN cidtexte="JORFTEXT000050001262" datesignatexte="2024-07-16" id="LEGITEXT000050004299" naturetexte="DECRET" nortexte="IOMB2412016D" num="" numtexte="2024-826" sens="cible" typelien="CITATION">Décret n°2024-826 du 16 juillet 2024 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050001262" datesignatexte="2024-07-16" id="LEGIARTI000050004331" naturetexte="DECRET" nortexte="IOMB2412016D" num="1" numtexte="2024-826" sens="cible" typelien="CITATION">Décret n°2024-826 du 16 juillet 2024 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050001262" datesignatexte="2024-07-16" id="LEGIARTI000050004349" naturetexte="DECRET" nortexte="IOMB2412016D" num="11" numtexte="2024-826" sens="cible" typelien="CITATION">Décret n°2024-826 du 16 juillet 2024 - art. 11</LIEN>
+<LIEN cidtexte="JORFTEXT000050001262" datesignatexte="2024-07-16" id="LEGIARTI000050004351" naturetexte="DECRET" nortexte="IOMB2412016D" num="12" numtexte="2024-826" sens="cible" typelien="CITATION">Décret n°2024-826 du 16 juillet 2024 - art. 12</LIEN>
+<LIEN cidtexte="JORFTEXT000050330050" datesignatexte="2024-10-08" id="LEGIARTI000050331295" naturetexte="DECRET" nortexte="PTDB2404860D" num="1" numtexte="2024-907" sens="cible" typelien="CITATION">Décret n°2024-907 du 8 octobre 2024 - art. 1</LIEN>
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000051661881" datesignatexte="2025-05-26" id="LEGITEXT000051663545" naturetexte="DECRET" nortexte="MICB2503424D" num="" numtexte="2025-459" sens="cible" typelien="CITATION">Décret n°2025-459 du 26 mai 2025 (V)</LIEN>
+</LIENS>
+</ARTICLE>

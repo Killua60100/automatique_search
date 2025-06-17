@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006095898</ID>
+<TITRE_TA>Chapitre II : Conditions de licéité des traitements de données à caractère personnel</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006120410" debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000006120410" niv="2" url="/LEGI/SCTA/00/00/06/12/04/LEGISCTA000006120410.xml">Section 1 : Dispositions générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006120411" debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGISCTA000006120411" niv="2" url="/LEGI/SCTA/00/00/06/12/04/LEGISCTA000006120411.xml">Section 2 : Dispositions propres à certaines catégories de données</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006120410" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037822946" niv="2" url="/LEGI/SCTA/00/00/37/82/29/LEGISCTA000037822946.xml">Section 1 : Organisation et missions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006120411" debut="2019-06-01" etat="MODIFIE" fin="2024-02-17" id="LEGISCTA000037822944" niv="2" url="/LEGI/SCTA/00/00/37/82/29/LEGISCTA000037822944.xml">Section 2 : Contrôle de la mise en œuvre des traitements</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006120411" debut="2024-02-17" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000049578565" niv="2" url="/LEGI/SCTA/00/00/49/57/85/LEGISCTA000049578565.xml">Section 2 : Pouvoirs d'enquête</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037804143" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037822964" niv="2" url="/LEGI/SCTA/00/00/37/82/29/LEGISCTA000037822964.xml">Section 3 : Mesures correctrices et sanctions </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000037804223" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037822783" niv="2" url="/LEGI/SCTA/00/00/37/82/27/LEGISCTA000037822783.xml">Section 4 : Coopération</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000886460" date_publi="1978-01-07" date_signature="1978-01-06" ministere="" nature="LOI" nor="" num="78-17" num_parution_jo="">
+<TITRE_TXT c_titre_court="LOI n° 78-17 du 6 janvier 1978" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000886460">LOI n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 78-17 du 6 janvier 1978" debut="1978-01-07" fin="2999-01-01" id_txt="LEGITEXT000006068624">Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006143852</ID>
+<TITRE_TA>Titre II : Permis de conduire.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159562" debut="2001-06-01" etat="MODIFIE" fin="2016-04-29" id="LEGISCTA000006159562" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159562.xml">Chapitre Ier : Délivrance et catégories.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159562" debut="2016-04-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032468260" niv="4" url="/LEGI/SCTA/00/00/32/46/82/LEGISCTA000032468260.xml">Chapitre Ier : Vérification d'aptitude, délivrance et catégories</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159563" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159563" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159563.xml">Chapitre II : Reconnaissance et équivalences.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159564" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159564" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159564.xml">Chapitre III : Permis à points.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159565" debut="2001-06-01" etat="ABROGE" fin="2003-07-12" id="LEGISCTA000006159565" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159565.xml">Chapitre IV : Interdiction de délivrance, rétention, suspension et annulation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159616" debut="2003-07-12" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159616" niv="4" url="/LEGI/SCTA/00/00/06/15/96/LEGISCTA000006159616.xml">Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159566" debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159566" niv="4" url="/LEGI/SCTA/00/00/06/15/95/LEGISCTA000006159566.xml">Chapitre V : Enregistrement et communication des informations relatives au permis de conduire.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000026203154" debut="2012-09-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000026204404" niv="4" url="/LEGI/SCTA/00/00/26/20/44/LEGISCTA000026204404.xml">Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000050457361" debut="2025-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000050469353" niv="4" url="/LEGI/SCTA/00/00/50/46/93/LEGISCTA000050469353.xml">Chapitre VII : Permis de conduire international</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006108688">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006129090">Livre II : Le conducteur.</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

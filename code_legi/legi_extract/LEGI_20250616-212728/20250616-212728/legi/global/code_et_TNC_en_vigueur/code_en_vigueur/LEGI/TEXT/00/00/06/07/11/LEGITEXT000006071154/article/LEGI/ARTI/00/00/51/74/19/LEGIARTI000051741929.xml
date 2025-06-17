@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051741929</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/19/LEGIARTI000051741929.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-74</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2015-08-19" id="LEGIARTI000006577781" num="706-74" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-08-19" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000031052232" num="706-74" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741929" num="706-74" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsque la loi le prévoit, les dispositions du présent titre sont également applicables :</p>
+<p>1° Aux crimes et délits commis en bande organisée, autres que ceux relevant des articles 706-73 et 706-73-1 ;</p>
+<p>2° Aux crimes ou aux délits d'association de malfaiteurs prévus aux deuxième et troisième alinéas de l'article 450-1 du code pénal autres que ceux relevant du 15° de l'article 706-73 ou du 4° de l'article 706-73-1 du présent code.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance n° 58-1296 du 23 décembre 1958</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736750" naturetexte="LOI" nortexte="JUSX2430702L" num="18" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 18</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418849" naturetexte="CODE" nortexte="" num="450-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 450-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051743106" naturetexte="CODE" nortexte="" num="230-22" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000031052010" naturetexte="CODE" nortexte="" num="706-103" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-103 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000031050748" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039279250" naturetexte="CODE" nortexte="" num="706-75" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-75 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048441982" naturetexte="CODE" nortexte="" num="706-75-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-75-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023716964" naturetexte="CODE" nortexte="" num="706-75-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-75-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740362" naturetexte="CODE" nortexte="" num="706-75-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-75-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740364" naturetexte="CODE" nortexte="" num="706-75-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-75-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039279221" naturetexte="CODE" nortexte="" num="706-77" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-77 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000031052025" naturetexte="CODE" nortexte="" num="706-79" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-79 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039279216" naturetexte="CODE" nortexte="" num="706-80" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-80 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039278934" naturetexte="CODE" nortexte="" num="706-80-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-80-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742657" naturetexte="CODE" nortexte="" num="706-80-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-80-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000031052001" naturetexte="CODE" nortexte="" num="721-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 721-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045077489" naturetexte="CODE" nortexte="" num="D47-12-7" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D47-12-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039346883" naturetexte="CODE" nortexte="" num="D47-13" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D47-13 (T)</LIEN>
+</LIENS>
+</ARTICLE>

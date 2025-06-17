@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051742625</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/26/LEGIARTI000051742625.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-81</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2019-06-01" id="LEGISCTA000006138138">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées</TITRE_TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000038311675">Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006151938">Chapitre II : Procédure</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-10-01" fin="2999-01-01" id="LEGISCTA000006167520">Section 2 : De l'infiltration</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2015-08-19" id="LEGIARTI000006577794" num="706-81" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-08-19" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000031052159" num="706-81" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742625" num="706-81" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsque les nécessités de l'enquête ou de l'instruction concernant l'un des crimes ou délits entrant dans le champ d'application des articles 706-73 et 706-73-1 le justifient, le procureur de la République ou, après avis de ce magistrat, le juge d'instruction saisi peuvent autoriser qu'il soit procédé, sous leur contrôle respectif, à une opération d'infiltration dans les conditions prévues par la présente section.</p>
+<p>L'infiltration consiste, pour un officier ou un agent de police judiciaire spécialement habilité dans des conditions fixées par décret et agissant sous la responsabilité d'un officier de police judiciaire chargé de coordonner l'opération, à surveiller des personnes suspectées de commettre un crime ou un délit en se faisant passer, auprès de ces personnes, comme un de leurs coauteurs, complices ou receleurs ou comme une victime, un tiers mandaté par cette dernière ou toute personne intéressée à la commission de l'infraction. L'officier ou l'agent de police judiciaire est à cette fin autorisé à faire usage d'une identité d'emprunt, y compris en faisant usage d'un dispositif permettant d'altérer ou de transformer sa voix ou son apparence physique, et à commettre si nécessaire les actes mentionnés à l'article 706-82. A peine de nullité, ces actes ne peuvent constituer une incitation ayant déterminé la commission d'infractions. Ne constituent pas une incitation à commettre une infraction les actes qui contribuent à la poursuite d'une infraction déjà préparée ou débutée au moment où l'autorisation mentionnée au présent article a été accordée par le magistrat compétent, y compris en cas de réitération ou d'aggravation de l'infraction initiale.</p>
+<p>L'infiltration fait l'objet d'un rapport rédigé par l'officier de police judiciaire ayant coordonné l'opération, qui comprend les éléments strictement nécessaires à la constatation des infractions et ne mettant pas en danger la sécurité de l'agent infiltré et des personnes requises au sens de l'article 706-82.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFTEXT000000339261" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1296" sens="source" typelien="CODIFICATION">Ordonnance n° 58-1296 du 23 décembre 1958</LIEN>
+
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736688" naturetexte="LOI" nortexte="JUSX2430702L" num="37" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 37</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736704" naturetexte="LOI" nortexte="JUSX2430702L" num="42" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 42</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736706" naturetexte="LOI" nortexte="JUSX2430702L" num="43" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 43</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736708" naturetexte="LOI" nortexte="JUSX2430702L" num="44" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 44</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039279355" naturetexte="CODE" nortexte="" num="694-7" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 694-7 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577305" naturetexte="CODE" nortexte="" num="694-8" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 694-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577308" naturetexte="CODE" nortexte="" num="695-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 695-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742649" naturetexte="CODE" nortexte="" num="706-106" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-106 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742666" naturetexte="CODE" nortexte="" num="706-32" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-32 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577776" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000031050748" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-73-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577795" naturetexte="CODE" nortexte="" num="706-82" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 706-82</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577796" naturetexte="CODE" nortexte="" num="706-83" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-83 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577798" naturetexte="CODE" nortexte="" num="706-85" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-85 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742618" naturetexte="CODE" nortexte="" num="706-86" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-86 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047770697" naturetexte="CODE" nortexte="" num="D15-1-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D15-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006514829" naturetexte="CODE" nortexte="" num="D15-1-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D15-1-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

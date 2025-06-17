@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051740972</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/09/LEGIARTI000051740972.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L822-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030934655">LIVRE VIII : DU RENSEIGNEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935044">TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935064">Chapitre II : Des renseignements collectés</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-10-03" etat="MODIFIE" fin="2017-10-31" id="LEGIARTI000030935068" num="L822-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-10-31" etat="MODIFIE" fin="2021-07-31" id="LEGIARTI000035937583" num="L822-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-07-31" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000043887433" num="L822-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740972" num="L822-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément au II de l'article 13 de la loi n° 2021-998 du 30 juillet 2021, les dispositions issues du I sont applicables jusqu'au 31 décembre 2028. Le Gouvernement adresse au Parlement un rapport d'évaluation sur l'application de ces dispositions au plus tard six mois avant cette échéance.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">I.-Les renseignements collectés par la mise en œuvre d'une technique de recueil de renseignement autorisée en application du chapitre Ier du présent titre sont détruits à l'issue d'une durée de : </p>
+<p>1° Trente jours à compter de leur recueil pour les correspondances interceptées en application des articles L. 852-1, L. 852-2 et L. 852-3 ; </p>
+<p>2° Cent vingt jours à compter de leur recueil pour les adresses complètes de ressources sur internet recueillies par la mise en œuvre de la technique prévue à l'article L. 851-2 et pour les renseignements collectés par la mise en œuvre des techniques mentionnées au chapitre III du titre V du présent livre, à l'exception des informations ou documents mentionnés à l'article L. 851-1 ; </p>
+<p>3° Quatre ans à compter de leur recueil pour les informations ou documents mentionnés à l'article L. 851-1. </p>
+<p>Pour ceux des renseignements qui sont chiffrés, le délai court à compter de leur déchiffrement. Ils ne peuvent être conservés plus de six ans à compter de leur recueil. </p>
+<p>Dans une mesure strictement nécessaire aux besoins de l'analyse technique et à l'exclusion de toute utilisation pour la surveillance des personnes concernées, les renseignements collectés qui contiennent des éléments de cyberattaque ou qui sont chiffrés, ainsi que les renseignements déchiffrés associés à ces derniers, peuvent être conservés au-delà des durées mentionnées au présent I. </p>
+<p>II.-Par dérogation au I, les renseignements qui concernent une requête dont le Conseil d'Etat a été saisi ne peuvent être détruits. A l'expiration des délais prévus au même I, ils sont conservés pour les seuls besoins de la procédure devant le Conseil d'Etat. </p>
+<p>III.-Aux seules fins de recherche et de développement en matière de capacités techniques de recueil et d'exploitation des renseignements et à l'exclusion de toute utilisation pour la surveillance des personnes concernées, les services spécialisés de renseignement mentionnés à l'article L. 811-2 peuvent conserver au delà des durées prévues au présent article les renseignements mentionnés au I du présent article. Cette conservation est opérée dans la mesure strictement nécessaire à l'acquisition des connaissances suffisantes pour développer, améliorer et valider les capacités techniques de recueil et d'exploitation. <br/>
+<br/>Les renseignements mentionnés au premier alinéa du présent III sont conservés de manière à n'être accessibles, dans les locaux des services mentionnés au même premier alinéa, qu'aux seuls agents des services mentionnés audit premier alinéa spécialement habilités à cet effet et exclusivement affectés à cette mission, dans des conditions ne faisant plus apparaître les motifs et les finalités pour lesquels ils ont été collectés et ne permettant pas de rechercher l'identité des personnes concernées. Ils sont également accessibles, dans les mêmes conditions, aux agents du service du ministère de la défense mentionné à l'article L. 2371-2 du code de la défense spécialement habilités à cet effet. <br/>
+<br/>Les paramètres techniques applicables à chaque programme de recherche afin de garantir le respect des conditions prévues aux deux premiers alinéas du présent III ainsi que toute évolution substantielle de ces paramètres sont soumis à une autorisation préalable du Premier ministre, délivrée après avis de la Commission nationale de contrôle des techniques de renseignement. <br/>
+<br/>Les renseignements mentionnés au premier alinéa du présent III sont détruits dès que leur conservation n'est plus indispensable à la validation de capacités techniques de recueil et d'exploitation mentionnées au même premier alinéa, et au plus tard cinq ans après leur recueil. <br/>
+<br/>La Commission nationale de contrôle des techniques de renseignement veille à ce que la mise en œuvre des programmes de recherche respecte les conditions prévues au présent III. Elle peut adresser au Premier ministre, à tout moment, une recommandation tendant à la suspension ou à l'interruption d'un programme de recherche dont elle estime qu'il ne respecte plus ces conditions.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000043876100" datesignatexte="2021-07-30" id="LEGIARTI000051740990" naturetexte="LOI" nortexte="INTD2107675L" num="13" numtexte="2021-998" sens="cible" typelien="MODIFIE">LOI n°2021-998 du 30 juillet 2021 - art. 13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000035936621" naturetexte="CODE" nortexte="" num="L2371-2" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L2371-2</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935038" naturetexte="CODE" nortexte="" num="L811-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L811-2</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043880878" naturetexte="CODE" nortexte="" num="L822-2-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L822-2-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887415" naturetexte="CODE" nortexte="" num="L822-4" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L822-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000043887405" naturetexte="CODE" nortexte="" num="L833-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L833-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935595" naturetexte="CODE" nortexte="" num="L851-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L851-1</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030935642" naturetexte="CODE" nortexte="" num="L851-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L851-2</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000030939237" naturetexte="CODE" nortexte="" num="L851-6" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L851-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000032925430" naturetexte="CODE" nortexte="" num="L852-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L852-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000035936329" naturetexte="CODE" nortexte="" num="L852-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L852-2</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051740953" naturetexte="CODE" nortexte="" num="L852-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L852-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000031550362" naturetexte="CODE" nortexte="" num="L854-8" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L854-8 (V)</LIEN>
+</LIENS>
+</ARTICLE>

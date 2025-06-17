@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000022446858</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/22/44/68/LEGIARTI000022446858.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2010-07-07</DATE_DEBUT>
+<DATE_FIN>2019-08-08</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000320434" date_publi="1984-01-27" date_signature="1984-01-26" ministere="" nature="LOI" nor="" num="84-53" num_parution_jo="">
+<TITRE_TXT c_titre_court="LOI n° 84-53 du 26 janvier 1984" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000320434">LOI n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale </TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 84-53 du 26 janvier 1984" debut="1984-01-27" fin="2222-02-22" id_txt="LEGITEXT000006068842">Loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale (1).</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1984-01-27" fin="2999-01-01" id="LEGISCTA000006086312">Chapitre I : Dispositions générales.</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-04" etat="MODIFIE" fin="2007-02-21" id="LEGIARTI000006366568" num="7-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-02-21" etat="MODIFIE" fin="2009-08-07" id="LEGIARTI000006366569" num="7-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-08-07" etat="MODIFIE" fin="2010-07-07" id="LEGIARTI000020960363" num="7-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-07-07" etat="MODIFIE" fin="2019-08-08" id="LEGIARTI000022446858" num="7-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-08-08" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000038922264" num="7-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044462629" num="7-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="2222-02-22" etat="MODIFIE_MORT_NE" fin="2021-12-06" id="LEGIARTI000038933175" num="7-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les règles relatives à la définition, à la durée et à l'aménagement du temps de travail des agents des collectivités territoriales et des établissements publics mentionnés au premier alinéa de l'article 2 sont fixées par la collectivité ou l'établissement, dans les limites applicables aux agents de l'Etat, en tenant compte de la spécificité des missions exercées par ces collectivités ou établissements.</p>
+<p>Un décret en Conseil d'Etat détermine les conditions d'application du premier alinéa. Ce décret prévoit les conditions dans lesquelles la collectivité ou l'établissement peut, par délibération, proposer une compensation financière à ses agents, d'un montant identique à celle dont peuvent bénéficier les agents de l'Etat, en contrepartie des jours inscrits à leur compte épargne-temps. </p>
+<p>Les régimes de travail mis en place antérieurement à l'entrée en vigueur de la loi n° 2001-2 du 3 janvier 2001 relative à la résorption de l'emploi précaire et à la modernisation du recrutement dans la fonction publique ainsi qu'au temps de travail dans la fonction publique territoriale peuvent être maintenus en application par décision expresse de l'organe délibérant de la collectivité ou de l'établissement prise après avis du comité technique, sauf s'ils comportent des dispositions contraires aux garanties minimales applicables en matière de durée et d'aménagement du temps de travail.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000221753" datesignatexte="2001-01-03" id="JORFTEXT000000221753" naturetexte="LOI" nortexte="FPPX0000145L" num="" numtexte="2001-2" sens="source" typelien="CITATION">Loi n°2001-2 du 3 janvier 2001</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGITEXT000005631213" naturetexte="DECRET" nortexte="FPPA0110004D" num="" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379388" naturetexte="DECRET" nortexte="FPPA0110004D" num="1" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379398" naturetexte="DECRET" nortexte="FPPA0110004D" num="10" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 10 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379399" naturetexte="DECRET" nortexte="FPPA0110004D" num="11" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 11 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379400" naturetexte="DECRET" nortexte="FPPA0110004D" num="12" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 12 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379389" naturetexte="DECRET" nortexte="FPPA0110004D" num="2" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379390" naturetexte="DECRET" nortexte="FPPA0110004D" num="3" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379391" naturetexte="DECRET" nortexte="FPPA0110004D" num="4" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379392" naturetexte="DECRET" nortexte="FPPA0110004D" num="5" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379393" naturetexte="DECRET" nortexte="FPPA0110004D" num="6" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379394" naturetexte="DECRET" nortexte="FPPA0110004D" num="7" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379396" naturetexte="DECRET" nortexte="FPPA0110004D" num="8" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 8 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379397" naturetexte="DECRET" nortexte="FPPA0110004D" num="9" numtexte="2001-623" sens="cible" typelien="TXT_SOURCE">Décret n°2001-623 du 12 juillet 2001 - art. 9 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000446192" datesignatexte="2004-08-26" id="LEGIARTI000022264981" naturetexte="DECRET" nortexte="FPPA0410011D" num="1" numtexte="2004-878" sens="cible" typelien="CITATION">Décret n°2004-878 du 26 août 2004 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000446192" datesignatexte="2004-08-26" id="LEGIARTI000022264988" naturetexte="DECRET" nortexte="FPPA0410011D" num="3-1" numtexte="2004-878" sens="cible" typelien="CITATION">Décret n°2004-878 du 26 août 2004 - art. 3-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000446192" datesignatexte="2004-08-26" id="LEGIARTI000038020138" naturetexte="DECRET" nortexte="FPPA0410011D" num="4" numtexte="2004-878" sens="cible" typelien="CITATION">Décret n°2004-878 du 26 août 2004 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000446192" datesignatexte="2004-08-26" id="LEGIARTI000038020145" naturetexte="DECRET" nortexte="FPPA0410011D" num="5" numtexte="2004-878" sens="cible" typelien="CITATION">Décret n°2004-878 du 26 août 2004 - art. 5 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000019349977" datesignatexte="2008-08-20" id="LEGITEXT000019350482" naturetexte="DECRET" nortexte="IOCB0807213D" num="" numtexte="2008-797" sens="cible" typelien="CITATION">Décret n°2008-797
+ du 20 août 2008 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000022436528" datesignatexte="2010-07-05" id="LEGIARTI000022441027" naturetexte="LOI" nortexte="BCFF0902558L" num="19" numtexte="2010-751" sens="cible" typelien="MODIFIE">LOI n°2010-751 du 5 juillet 2010 - art. 19</LIEN>
+<LIEN cidtexte="JORFTEXT000028347028" datesignatexte="2013-12-18" id="LEGITEXT000028348557" naturetexte="DECRET" nortexte="INTE1318531D" num="" numtexte="2013-1186" sens="cible" typelien="CITATION">Décret n°2013-1186
+ du 18 décembre 2013 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030645224" datesignatexte="2015-05-28" id="LEGITEXT000037483789" naturetexte="DECRET" nortexte="RDFF1508591D" num="" numtexte="2015-580" sens="cible" typelien="CITATION">Décret n°2015-580 du 28 mai 2015 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000031690520" datesignatexte="2015-12-23" id="LEGIARTI000031694075" naturetexte="DECRET" nortexte="OMES1529726D" num="1" numtexte="2015-1754" sens="cible" typelien="CITATION">Décret n°2015-1754 du 23 décembre 2015 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000031690520" datesignatexte="2015-12-23" id="LEGIARTI000031694083" naturetexte="DECRET" nortexte="OMES1529726D" num="5" numtexte="2015-1754" sens="cible" typelien="CITATION">Décret n°2015-1754 du 23 décembre 2015 - art. 5</LIEN>
+<LIEN cidtexte="JORFTEXT000032036983" datesignatexte="2016-02-11" id="LEGITEXT000032038718" naturetexte="DECRET" nortexte="RDFF1519812D" num="" numtexte="2016-151" sens="cible" typelien="CITATION">Décret n°2016-151 du 11 février 2016 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000038168767" datesignatexte="2019-02-25" id="LEGITEXT000038170014" naturetexte="DECRET" nortexte="CPAF1902106D" num="" numtexte="2019-133" sens="cible" typelien="CITATION">Décret n°2019-133 du 25 février 2019 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000043492190" datesignatexte="2021-05-10" id="LEGITEXT000043493254" naturetexte="DECRET" nortexte="TERB2035564D" num="" numtexte="2021-571" sens="cible" typelien="CITATION">Décret n°2021-571 du 10 mai 2021 (VT)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000048011480" datesignatexte="2023-08-30" id="LEGIARTI000048027161" naturetexte="ARRETE" nortexte="TFPF2314927A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 30 août 2023 - art. (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000048011480" datesignatexte="2023-08-30" id="LEGIARTI000048027439" naturetexte="ARRETE" nortexte="TFPF2314927A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 30 août 2023 - art. (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049766846" datesignatexte="2024-06-21" id="LEGITEXT000049772602" naturetexte="DECRET" nortexte="IOME2409622D" num="" numtexte="2024-574" sens="cible" typelien="CITATION">Décret n°2024-574 du 21 juin 2024 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049797662" datesignatexte="2024-06-26" id="LEGITEXT000049799554" naturetexte="DECRET" nortexte="IOMB2323730D" num="" numtexte="2024-614" sens="cible" typelien="CITATION">Décret n°2024-614 du 26 juin 2024 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000051517324" naturetexte="CODE" nortexte="" num="D2573-8" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D2573-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397706" naturetexte="CODE" nortexte="" num="D4134-25" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D4134-25 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397713" naturetexte="CODE" nortexte="" num="D4134-29" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D4134-29 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006396887" naturetexte="CODE" nortexte="" num="R2123-6" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397981" naturetexte="CODE" nortexte="" num="R4135-5" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R4135-5 (V)</LIEN>
+</LIENS>
+</ARTICLE>

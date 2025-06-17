@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006091596</ID>
+<TITRE_TA>Chapitre IV : De la commission d'avancement.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1958-12-23" etat="MODIFIE" fin="1992-02-29" id="LEGIARTI000006451816" num="34" origine="LEGI"/>
+<LIEN_ART debut="1994-02-08" etat="MODIFIE" fin="2016-08-12" id="LEGIARTI000006451818" num="34" origine="LEGI"/>
+<LIEN_ART debut="2016-08-12" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000033041090" num="34" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048434761" num="34" origine="LEGI"/>
+<LIEN_ART debut="1992-02-29" etat="MODIFIE" fin="1994-02-08" id="LEGIARTI000006451817" num="34" origine="LEGI"/>
+<LIEN_ART debut="2007-03-06" etat="MODIFIE" fin="2010-07-24" id="LEGIARTI000006451821" num="35" origine="LEGI"/>
+<LIEN_ART debut="2010-07-24" etat="MODIFIE" fin="2016-08-12" id="LEGIARTI000022510664" num="35" origine="LEGI"/>
+<LIEN_ART debut="2016-08-12" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000033041407" num="35" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048434755" num="35" origine="LEGI"/>
+<LIEN_ART debut="1980-10-30" etat="MODIFIE" fin="1992-02-29" id="LEGIARTI000006451819" num="35" origine="LEGI"/>
+<LIEN_ART debut="1992-02-29" etat="MODIFIE" fin="2007-03-06" id="LEGIARTI000006451820" num="35" origine="LEGI"/>
+<LIEN_ART debut="1994-02-08" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000006451824" num="35-1" origine="LEGI"/>
+<LIEN_ART debut="1970-07-19" etat="MODIFIE" fin="1992-02-29" id="LEGIARTI000006451822" num="35-1" origine="LEGI"/>
+<LIEN_ART debut="1992-02-29" etat="MODIFIE" fin="1994-02-08" id="LEGIARTI000006451823" num="35-1" origine="LEGI"/>
+<LIEN_ART debut="1992-02-29" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000006451825" num="35-2" origine="LEGI"/>
+<LIEN_ART debut="1992-02-29" etat="PERIME" fin="2002-01-01" id="LEGIARTI000006451827" num="36" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2016-08-12" id="LEGIARTI000006451828" num="36" origine="LEGI"/>
+<LIEN_ART debut="2016-08-12" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000033041085" num="36" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048434753" num="36" origine="LEGI"/>
+<LIEN_ART debut="1970-07-19" etat="MODIFIE" fin="1992-02-29" id="LEGIARTI000006451826" num="36" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048434751" num="37" origine="LEGI"/>
+<LIEN_ART debut="2024-12-31" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000048434559" num="40" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048434749" num="38" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048434747" num="38-1" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="MODIFIE_MORT_NE" fin="2025-06-15" id="LEGIARTI000048434745" num="38-2" origine="LEGI"/>
+<LIEN_ART debut="2026-01-05" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051737629" num="38-2" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048432316" num="38-3" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048434743" num="39" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048432341" num="39-1" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048432345" num="39-2" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048438877" num="40" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000339259" date_publi="1958-12-23" date_signature="1958-12-22" ministere="" nature="ORDONNANCE" nor="" num="58-1270" num_parution_jo="">
+<TITRE_TXT c_titre_court="Ordonnance n° 58-1270 du 22 décembre 1958" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000339259">Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature</TITRE_TXT>
+<TITRE_TXT c_titre_court="Ordonnance n° 58-1270 du 22 décembre 1958" debut="1958-12-23" fin="2999-01-01" id_txt="LEGITEXT000006069212">Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

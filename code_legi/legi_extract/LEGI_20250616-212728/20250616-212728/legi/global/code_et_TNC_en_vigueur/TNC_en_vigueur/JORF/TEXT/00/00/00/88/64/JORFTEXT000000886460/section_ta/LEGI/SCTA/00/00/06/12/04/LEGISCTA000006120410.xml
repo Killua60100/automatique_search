@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006120410</ID>
+<TITRE_TA>Section 1 : Dispositions générales</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2004-08-07" etat="MODIFIE" fin="2016-01-28" id="LEGIARTI000006528069" num="6" origine="LEGI"/>
+<LIEN_ART debut="2016-01-28" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000031932124" num="6" origine="LEGI"/>
+<LIEN_ART debut="2004-08-07" etat="MODIFIE" fin="2018-05-25" id="LEGIARTI000006528071" num="7" origine="LEGI"/>
+<LIEN_ART debut="2018-05-25" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000037090390" num="7" origine="LEGI"/>
+<LIEN_ART debut="2018-06-22" etat="ABROGE" fin="2019-06-01" id="LEGIARTI000037087837" num="7-1" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2024-02-17" id="LEGIARTI000037822923" num="8" origine="LEGI"/>
+<LIEN_ART debut="2024-02-17" etat="MODIFIE" fin="2024-05-23" id="LEGIARTI000049578567" num="8" origine="LEGI"/>
+<LIEN_ART debut="2024-05-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049579211" num="8" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000037822913" num="9" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038923323" num="9" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000037822932" num="10" origine="LEGI"/>
+<LIEN_ART debut="2022-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045072448" num="10" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822890" num="11" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037823139" num="12" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822907" num="13" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037823137" num="14" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822878" num="15" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2024-05-23" id="LEGIARTI000037822904" num="16" origine="LEGI"/>
+<LIEN_ART debut="2024-05-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049571930" num="16" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822899" num="17" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822901" num="18" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000886460" date_publi="1978-01-07" date_signature="1978-01-06" ministere="" nature="LOI" nor="" num="78-17" num_parution_jo="">
+<TITRE_TXT c_titre_court="LOI n° 78-17 du 6 janvier 1978" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000886460">LOI n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 78-17 du 6 janvier 1978" debut="1978-01-07" fin="2999-01-01" id_txt="LEGITEXT000006068624">Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-08-07" fin="2019-06-01" id="LEGISCTA000006095898">Chapitre II : Conditions de licéité des traitements de données à caractère personnel</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

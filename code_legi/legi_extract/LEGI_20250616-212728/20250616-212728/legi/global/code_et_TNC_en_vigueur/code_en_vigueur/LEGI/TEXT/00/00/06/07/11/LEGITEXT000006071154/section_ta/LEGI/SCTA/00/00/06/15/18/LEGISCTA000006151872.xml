@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006151872</ID>
+<TITRE_TA>Chapitre Ier : De la police judiciaire</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167411" debut="1958-04-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006167411" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167411.xml">Section 1 : Dispositions générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167412" debut="1958-04-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006167412" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167412.xml">Section 2 : Des officiers de police judiciaire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167413" debut="1986-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006167413" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167413.xml">Section 3 : Des agents de police judiciaire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000047049306" debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000047049306" niv="5" url="/LEGI/SCTA/00/00/47/04/93/LEGISCTA000047049306.xml">Section 4 : Des assistants d'enquête</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167414" debut="1958-04-08" etat="MODIFIE" fin="2023-01-26" id="LEGISCTA000006167414" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167414.xml">Section 4 : Des fonctionnaires et agents chargés de certaines fonctions de police judiciaire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167414" debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000047053003" niv="5" url="/LEGI/SCTA/00/00/47/05/30/LEGISCTA000047053003.xml">Section 5 : Des fonctionnaires et agents chargés de certaines fonctions de police judiciaire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167415" debut="1971-10-01" etat="ABROGE" fin="1994-03-01" id="LEGISCTA000006167415" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167415.xml">Section 5 : Des pouvoirs des préfets en matière de police judiciaire</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006138088">Titre Ier : Des autorités chargées de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753873">Titre Ier : Des autorités chargées  de la conduite de la politique pénale, de l'action publique et de l'instruction</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

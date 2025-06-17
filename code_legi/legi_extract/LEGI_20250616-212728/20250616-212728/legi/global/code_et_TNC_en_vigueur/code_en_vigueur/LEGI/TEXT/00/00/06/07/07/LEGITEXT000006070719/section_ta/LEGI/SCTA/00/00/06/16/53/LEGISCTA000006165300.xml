@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165300</ID>
+<TITRE_TA>Section 2 : Du proxénétisme et des infractions assimilées.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417851" num="225-5" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417852" num="225-5" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2001-11-16" id="LEGIARTI000006417850" num="225-5" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417854" num="225-6" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417858" num="225-7" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1998-06-18" id="LEGIARTI000006417856" num="225-7" origine="LEGI"/>
+<LIEN_ART debut="1998-06-18" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417857" num="225-7" origine="LEGI"/>
+<LIEN_ART debut="2002-03-05" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417860" num="225-7-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417862" num="225-8" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417863" num="225-8" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417865" num="225-9" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417866" num="225-9" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2002-01-01" id="LEGIARTI000006417868" num="225-10" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417869" num="225-10" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417871" num="225-11" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417873" num="225-12" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149830">Chapitre V : Des atteintes à la dignité de la personne</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

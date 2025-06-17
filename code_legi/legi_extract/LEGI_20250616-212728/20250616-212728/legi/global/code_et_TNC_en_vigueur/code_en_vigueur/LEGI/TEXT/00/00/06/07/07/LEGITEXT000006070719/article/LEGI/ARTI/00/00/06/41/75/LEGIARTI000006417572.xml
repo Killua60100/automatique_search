@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417572</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X221L04AXXAH</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/75/LEGIARTI000006417572.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>221-4</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2006-04-05</DATE_DEBUT>
+<DATE_FIN>2010-03-04</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149826">Chapitre Ier : Des atteintes à la vie de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165276">Section 1 : Des atteintes volontaires à la vie</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE_MORT_NE" fin="1994-02-02" id="LEGIARTI000006417565" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-23" id="LEGIARTI000006417566" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1996-07-23" etat="MODIFIE" fin="1999-06-19" id="LEGIARTI000006417567" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1999-06-19" etat="MODIFIE" fin="2003-02-04" id="LEGIARTI000006417568" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-02-04" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417569" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006417570" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2006-04-05" id="LEGIARTI000006417571" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-04-05" etat="MODIFIE" fin="2010-03-04" id="LEGIARTI000006417572" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-03-04" etat="MODIFIE" fin="2010-07-11" id="LEGIARTI000021926151" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-07-11" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000022469914" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2012-05-01" id="LEGIARTI000023713254" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2012-08-08" id="LEGIARTI000028537086" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-08-08" etat="MODIFIE" fin="2017-01-29" id="LEGIARTI000026268286" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-01-29" etat="MODIFIE" fin="2021-11-27" id="LEGIARTI000033975336" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-11-27" etat="MODIFIE" fin="2021-12-24" id="LEGIARTI000044376112" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-12-24" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000044569703" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-01-26" etat="MODIFIE" fin="2024-05-12" id="LEGIARTI000045071040" num="221-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531896" num="221-4" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le meurtre est puni de la réclusion criminelle à perpétuité lorsqu'il est commis :<br/>
+<br/>   1° Sur un mineur de quinze ans ;<br/>
+<br/>   2° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;<br/>
+<br/>   3° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;<br/>
+<br/>   4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;<br/>
+<br/>   4° bis Sur le conjoint, les ascendants et les descendants en ligne directe des personnes mentionnées au 4° ou sur toute autre personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes ;<br/>
+<br/>   4° ter Sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute autre personne chargée d'une mission de service public ainsi que sur un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;<br/>
+<br/>   5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;<br/>
+<br/>   6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race ou une religion déterminée ;<br/>
+<br/>   7° A raison de l'orientation sexuelle de la victime ;<br/>
+<br/>   8° Par plusieurs personnes agissant en bande organisée.<br/>
+<br/>   9° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité.<br/>
+<br/>   Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie, la cour d'assises peut, par décision spéciale, soit porter la période de sûreté jusqu'à trente ans, soit, si elle prononce la réclusion criminelle à perpétuité, décider qu'aucune des mesures énumérées à l'article 132-23 ne pourra être accordée au condamné ; en cas de commutation de la peine, et sauf si le décret de grâce en dispose autrement, la période de sûreté est alors égale à la durée de la peine résultant de la mesure de grâce.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000540288" datesignatexte="1992-07-22" id="JORFTEXT000000540288" naturetexte="LOI" nortexte="JUSX8900010L" num="" numtexte="92-684" sens="source" typelien="CODIFICATION">Loi 92-684 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000422042" datesignatexte="2006-04-04" id="LEGIARTI000006250467" naturetexte="LOI" nortexte="JUSX0508260L" num="10" numtexte="2006-399" sens="source" typelien="MODIFICATION">Loi n°2006-399 du 4 avril 2006 - art. 10 () JORF 5 avril 2006</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000041539424" datesignatexte="2020-02-06" id="LEGIARTI000041540910" naturetexte="DECRET" nortexte="JUSD1932069D" num="4" numtexte="2020-91" sens="cible" typelien="CITATION">Décret n°2020-91 du 6 février 2020 - art. 4</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577960" naturetexte="CODE" nortexte="" num="720-4" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 720-4 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000021958550" naturetexte="CODE" nortexte="" num="706-53-13" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-53-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032654195" naturetexte="CODE" nortexte="" num="720-3" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 720-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000046017748" naturetexte="CODE" nortexte="" num="721-1-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 721-1-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045580949" naturetexte="CODE" nortexte="" num="D45-1-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D45-1-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043999532" naturetexte="CODE" nortexte="" num="D45-2-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D45-2-1 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000042179017" naturetexte="CODE" nortexte="" num="L1632-2" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1632-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000042173340" naturetexte="CODE" nortexte="" num="L1634-2" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1634-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000006547608" naturetexte="CODE" nortexte="" num="L223-2" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. L223-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027809358" naturetexte="CODE" nortexte="" num="221-11-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-11-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000022469917" naturetexte="CODE" nortexte="" num="221-5-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-5-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGITEXT000006070719" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code pénal 132-23, 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000006824275" naturetexte="CODE" nortexte="" num="L127-1" numtexte="" sens="source" typelien="CITATION">Code de la construction et de l'habitation. - art. L127-1 (M)</LIEN>
+</LIENS>
+</ARTICLE>

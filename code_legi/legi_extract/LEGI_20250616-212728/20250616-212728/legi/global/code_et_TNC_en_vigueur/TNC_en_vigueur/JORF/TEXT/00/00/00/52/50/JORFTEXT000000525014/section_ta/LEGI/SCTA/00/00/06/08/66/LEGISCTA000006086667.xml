@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006086667</ID>
+<TITRE_TA>CHAPITRE II : Régime indemnitaire.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1998-06-07" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006372673" num="6-1" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045657073" num="6-1" origine="LEGI"/>
+<LIEN_ART debut="1998-06-07" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006372674" num="6-2" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2023-07-01" id="LEGIARTI000045657069" num="6-2" origine="LEGI"/>
+<LIEN_ART debut="2023-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047777217" num="6-2" origine="LEGI"/>
+<LIEN_ART debut="1998-06-07" etat="MODIFIE" fin="2020-07-26" id="LEGIARTI000006372675" num="6-3" origine="LEGI"/>
+<LIEN_ART debut="2020-07-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042155025" num="6-3" origine="LEGI"/>
+<LIEN_ART debut="1998-06-07" etat="MODIFIE" fin="2012-05-01" id="LEGIARTI000006372676" num="6-4" origine="LEGI"/>
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000025732320" num="6-4" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045657067" num="6-4" origine="LEGI"/>
+<LIEN_ART debut="1998-06-07" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006372677" num="6-5" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2025-06-14" id="LEGIARTI000045657061" num="6-5" origine="LEGI"/>
+<LIEN_ART debut="2025-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051728577" num="6-5" origine="LEGI"/>
+<LIEN_ART debut="1998-06-07" etat="MODIFIE" fin="2007-06-14" id="LEGIARTI000006372678" num="6-6" origine="LEGI"/>
+<LIEN_ART debut="2007-06-14" etat="MODIFIE" fin="2016-02-01" id="LEGIARTI000006372679" num="6-6" origine="LEGI"/>
+<LIEN_ART debut="2016-02-01" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000031961682" num="6-6" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000034034175" num="6-6" origine="LEGI"/>
+<LIEN_ART debut="1998-06-07" etat="MODIFIE" fin="2003-10-24" id="LEGIARTI000006372680" num="6-7" origine="LEGI"/>
+<LIEN_ART debut="2003-10-24" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006372681" num="6-7" origine="LEGI"/>
+<LIEN_ART debut="2022-04-17" etat="MODIFIE" fin="2023-07-01" id="LEGIARTI000045657051" num="6-7" origine="LEGI"/>
+<LIEN_ART debut="2023-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047777224" num="6-7" origine="LEGI"/>
+<LIEN_ART debut="1998-06-07" etat="ABROGE" fin="2012-05-01" id="LEGIARTI000006372682" num="6-8" origine="LEGI"/>
+<LIEN_ART debut="2023-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047777220" num="6-8" origine="LEGI"/>
+<LIEN_ART debut="2023-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047775858" num="6-9" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000525014" date_publi="1990-09-26" date_signature="1990-09-25" ministere="MINISTERE DE L'INTERIEUR" nature="DECRET" nor="INTE9000277D" num="90-850" num_parution_jo="0223">
+<TITRE_TXT c_titre_court="Décret n°90-850 du 25 septembre 1990" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000525014">Décret  no 90-850 du 25 septembre 1990 portant dispositions communes à    l'ensemble des sapeurs-pompiers professionnels</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°90-850 du 25 septembre 1990" debut="1990-09-26" fin="2999-01-01" id_txt="LEGITEXT000006076555">Décret n°90-850 du 25 septembre 1990 portant dispositions communes à l'ensemble des sapeurs-pompiers professionnels</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

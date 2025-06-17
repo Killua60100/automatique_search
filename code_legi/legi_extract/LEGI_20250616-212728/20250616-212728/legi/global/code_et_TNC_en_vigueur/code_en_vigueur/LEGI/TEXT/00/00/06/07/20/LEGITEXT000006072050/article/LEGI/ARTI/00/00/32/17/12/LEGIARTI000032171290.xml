@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000032171290</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/32/17/12/LEGIARTI000032171290.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L8256-2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2016-03-09</DATE_DEBUT>
+<DATE_FIN>2024-01-28</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006112874">Partie législative  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006132351">Huitième partie : Contrôle de l'application de la législation du travail </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006145431">Livre II : Lutte contre le travail illégal</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2016-03-09" id="LEGISCTA000006160851">Titre V : Emploi d'étrangers sans titre de travail</TITRE_TM>
+<TITRE_TM debut="2016-03-09" fin="2999-01-01" id="LEGISCTA000032171355">Titre V : Emploi d'étrangers non autorisés à travailler</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006178283">Chapitre VI : Dispositions pénales.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2011-06-18" id="LEGIARTI000006904869" num="L8256-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-06-18" etat="MODIFIE" fin="2011-09-30" id="LEGIARTI000024288620" num="L8256-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-09-30" etat="MODIFIE" fin="2016-03-09" id="LEGIARTI000024197703" num="L8256-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-03-09" etat="MODIFIE" fin="2024-01-28" id="LEGIARTI000032171290" num="L8256-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-01-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049049561" num="L8256-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<br/>
+<br/>
+<br/>
+<p>
+<br clear="none"/>
+</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le fait pour toute personne, directement ou par personne interposée, d'embaucher, de conserver à son service ou d'employer pour quelque durée que ce soit un étranger non muni du titre l'autorisant à exercer une activité salariée en France, en méconnaissance des dispositions du premier alinéa de l'article L. 8251-1, est puni d'un emprisonnement de cinq ans et d'une amende de 15 000 euros. </p>
+<p>Le fait de recourir sciemment, directement ou indirectement, aux services d'un employeur d'un étranger non autorisé à travailler est puni des mêmes peines. </p>
+<p>Ces peines sont portées à un emprisonnement de dix ans et une amende de 100 000 euros lorsque l'infraction est commise en bande organisée. </p>
+<p>Le premier alinéa n'est pas applicable à l'employeur qui, sur la base d'un titre frauduleux ou présenté frauduleusement par un étranger salarié, a procédé sans intention de participer à la fraude et sans connaissance de celle-ci à la déclaration auprès des organismes de sécurité sociale prévue à l'article L. 1221-10, à la déclaration unique d'embauche et à la vérification auprès des administrations territorialement compétentes du titre autorisant cet étranger à exercer une activité salariée en France. </p>
+<p>L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000465978" datesignatexte="2007-03-12" id="JORFTEXT000000465978" naturetexte="ORDONNANCE" nortexte="SOCX0700017R" num="" numtexte="2007-329" sens="source" typelien="CODIFICATION">Ordonnance n°2007-329 du 12 mars 2007</LIEN>
+
+<LIEN cidtexte="JORFTEXT000031045937" datesignatexte="2015-08-17" id="LEGIARTI000031047629" naturetexte="LOI" nortexte="JUSX1403244L" num="11" numtexte="2015-993" sens="cible" typelien="CITATION">LOI n°2015-993 du 17 août 2015 - art. 11</LIEN>
+<LIEN cidtexte="JORFTEXT000032164264" datesignatexte="2016-03-07" id="LEGIARTI000032165615" naturetexte="LOI" nortexte="INTX1412529L" num="18" numtexte="2016-274" sens="cible" typelien="MODIFIE">LOI n°2016-274 du 7 mars 2016 - art. 18</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000037994165" naturetexte="CODE" nortexte="" num="L626-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L626-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000036877865" naturetexte="CODE" nortexte="" num="R311-11-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. R311-11-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000038189508" naturetexte="CODE" nortexte="" num="R311-15" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000037411327" naturetexte="CODE" nortexte="" num="R212-4" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R212-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000029236668" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741942" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006900849" naturetexte="CODE" nortexte="" num="L1221-10" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1221-10</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006649019" naturetexte="CODE" nortexte="" num="L364-3" numtexte="" sens="cible" typelien="CONCORDE">Code du travail - art. L364-3 (AbD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006649013" naturetexte="CODE" nortexte="" num="L364-3" numtexte="" sens="source" typelien="CONCORDANCE">Code du travail - art. L364-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006904851" naturetexte="CODE" nortexte="" num="L8251-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L8251-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000049049574" naturetexte="CODE" nortexte="" num="L8254-2-2" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8254-2-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000031013825" naturetexte="CODE" nortexte="" num="L8256-3" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8256-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006904871" naturetexte="CODE" nortexte="" num="L8256-4" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8256-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006904872" naturetexte="CODE" nortexte="" num="L8256-5" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8256-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006904873" naturetexte="CODE" nortexte="" num="L8256-6" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8256-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000024197823" naturetexte="CODE" nortexte="" num="L8256-8" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8256-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000049050064" naturetexte="CODE" nortexte="" num="L8323-3" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L8323-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000031355882" naturetexte="CODE" nortexte="" num="R8211-2" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. R8211-2 (V)</LIEN>
+
+</LIENS>
+</ARTICLE>

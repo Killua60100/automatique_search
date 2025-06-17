@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006141599</ID>
+<TITRE_TA>Dispositions communes à tout ou partie des régimes de base</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155986" debut="1985-12-21" etat="ABROGE" fin="2003-12-19" id="LEGISCTA000006155986" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155986.xml">Titre 1 : Généralités</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155987" debut="1985-12-21" etat="ABROGE" fin="1999-07-28" id="LEGISCTA000006155987" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155987.xml">Titre 2 : Administration, fonctionnement et personnel des organismes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155988" debut="1985-12-21" etat="ABROGE" fin="2004-01-01" id="LEGISCTA000006155988" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155988.xml">Titre 3 : Dispositions communes relatives au financement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155989" debut="1985-12-21" etat="ABROGE" fin="1996-04-25" id="LEGISCTA000006155989" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155989.xml">Titre 4 : Expertise médicale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155990" debut="1985-12-21" etat="ABROGE" fin="2004-01-01" id="LEGISCTA000006155990" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155990.xml">Titre 4 : Expertise médicale - Contentieux - Pénalités</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155991" debut="1985-12-21" etat="ABROGE" fin="1994-07-27" id="LEGISCTA000006155991" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155991.xml">Titre 5 : Contrôle de l'administration</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006156297" debut="1994-07-27" etat="ABROGE" fin="2004-01-01" id="LEGISCTA000006156297" niv="4" url="/LEGI/SCTA/00/00/06/15/62/LEGISCTA000006156297.xml">Titre 5 : Contrôles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155993" debut="1985-12-21" etat="ABROGE" fin="2004-01-01" id="LEGISCTA000006155993" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155993.xml">Titre 6 : Dispositions relatives aux prestations et aux soins - Contrôle médical - Tutelle aux prestations sociales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155992" debut="1985-12-21" etat="ABROGE" fin="1998-01-01" id="LEGISCTA000006155992" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155992.xml">Titre 6 : Dispositions relatives aux prestations et aux soins</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155994" debut="1985-12-21" etat="ABROGE" fin="2004-01-01" id="LEGISCTA000006155994" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155994.xml">Titre 7 : Coordination entre les régimes - Prise en charge de certaines dépenses par les régimes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155995" debut="1985-12-21" etat="ABROGE" fin="1996-12-29" id="LEGISCTA000006155995" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155995.xml">Titre 7 : Coordination entre les régimes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155996" debut="1985-12-21" etat="ABROGE" fin="1998-04-16" id="LEGISCTA000006155996" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155996.xml">Titre 8 : Dispositions diverses</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006155997" debut="1990-01-25" etat="ABROGE" fin="2000-01-01" id="LEGISCTA000006155997" niv="4" url="/LEGI/SCTA/00/00/06/15/59/LEGISCTA000006155997.xml">Titre 8 : Dispositions diverses - Dispositions d'application</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073189" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité sociale." debut="1958-10-16" fin="2999-01-01" id_txt="LEGITEXT000006073189">Code de la sécurité sociale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006106050">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2004-01-01" id="LEGISCTA000006126884">Livre 1 : Généralités</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

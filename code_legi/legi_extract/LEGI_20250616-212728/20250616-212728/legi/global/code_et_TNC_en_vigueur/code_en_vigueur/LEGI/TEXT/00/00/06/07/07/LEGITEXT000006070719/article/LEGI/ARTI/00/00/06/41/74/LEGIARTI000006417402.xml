@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006417402</ID>
+<ANCIEN_ID>PCAXXXXXXXX1X132L23AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/41/74/LEGIARTI000006417402.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>132-23</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2005-12-13</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117596">Livre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136038">Titre III : Des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149820">Chapitre II : Du régime des peines</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006165266">Section 1 : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-12-13" fin="2999-01-01" id="LEGISCTA000006181776">Sous-section 5 : De la période de sûreté</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006417401" num="132-23" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2005-12-13" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417402" num="132-23" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   En cas de condamnation à une peine privative de liberté, non assortie du sursis, dont la durée est égale ou supérieure à dix ans, prononcée pour les infractions spécialement prévues par la loi, le condamné ne peut bénéficier, pendant une période de sûreté, des dispositions concernant la suspension ou le fractionnement de la peine, le placement à l'extérieur, les permissions de sortir, la semi-liberté et la libération conditionnelle.<br/>
+<br/>   La durée de la période de sûreté est de la moitié de la peine ou, s'il s'agit d'une condamnation à la réclusion criminelle à perpétuité, de dix-huit ans. La cour d'assises ou le tribunal peut toutefois, par décision spéciale, soit porter ces durées jusqu'aux deux tiers de la peine ou, s'il s'agit d'une condamnation à la réclusion criminelle à perpétuité, jusqu'à vingt-deux ans, soit décider de réduire ces durées.<br/>
+<br/>   Dans les autres cas, lorsqu'elle prononce une peine privative de liberté d'une durée supérieure à cinq ans, non assortie du sursis, la juridiction peut fixer une période de sûreté pendant laquelle le condamné ne peut bénéficier d'aucune des modalités d'exécution de la peine mentionnée au premier alinéa. La durée de cette période de sûreté ne peut excéder les deux tiers de la peine prononcée ou vingt-deux ans en cas de condamnation à la réclusion criminelle à perpétuité.<br/>
+<br/>   Les réductions de peines accordées pendant la période de sûreté ne seront imputées que sur la partie de la peine excédant cette durée.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000517521" datesignatexte="1945-02-02" id="LEGIARTI000033460065" naturetexte="ORDONNANCE" nortexte="" num="20-2" numtexte="45-174" sens="cible" typelien="CITATION">Ordonnance n° 45-174 du 2 février 1945 - art. 20-2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000359434" datesignatexte="1992-07-22" id="JORFTEXT000000359434" naturetexte="LOI" nortexte="JUSX8900136L" num="" numtexte="92-683" sens="source" typelien="CODIFICATION">Loi 92-683 1992-07-22</LIEN>
+<LIEN cidtexte="JORFTEXT000000740628" datesignatexte="1998-06-17" id="LEGIARTI000006488272" naturetexte="LOI" nortexte="ECOX9600160L" num="58" numtexte="98-467" sens="cible" typelien="CITATION">Loi n°98-467 du 17 juin 1998 - art. 58 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000740628" datesignatexte="1998-06-17" id="LEGIARTI000006488274" naturetexte="LOI" nortexte="ECOX9600160L" num="59" numtexte="98-467" sens="cible" typelien="CITATION">Loi n°98-467 du 17 juin 1998 - art. 59 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000740628" datesignatexte="1998-06-17" id="LEGIARTI000006488276" naturetexte="LOI" nortexte="ECOX9600160L" num="60" numtexte="98-467" sens="cible" typelien="CITATION">Loi n°98-467 du 17 juin 1998 - art. 60 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000740628" datesignatexte="1998-06-17" id="LEGIARTI000006488278" naturetexte="LOI" nortexte="ECOX9600160L" num="61" numtexte="98-467" sens="cible" typelien="CITATION">Loi n°98-467 du 17 juin 1998 - art. 61 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000786845" datesignatexte="2005-12-12" id="LEGIARTI000006494566" naturetexte="LOI" nortexte="JUSX0407878L" num="3" numtexte="2005-1549" sens="source" typelien="MODIFICATION">Loi n°2005-1549 du 12 décembre 2005 - art. 3 () JORF 13 décembre 2005</LIEN>
+
+
+
+
+
+
+
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039087991" naturetexte="CODE" nortexte="" num="L121-5" numtexte="" sens="cible" typelien="CITATION">Code de la justice pénale des mineurs - art. L121-5 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000041539424" datesignatexte="2020-02-06" id="LEGIARTI000041540910" naturetexte="DECRET" nortexte="JUSD1932069D" num="4" numtexte="2020-91" sens="cible" typelien="CITATION">Décret n°2020-91 du 6 février 2020 - art. 4</LIEN>
+
+<LIEN cidtexte="JORFTEXT000043990496" datesignatexte="2021-08-30" id="LEGIARTI000043991108" naturetexte="DECRET" nortexte="JUSD2121249D" num="4" numtexte="2021-1130" sens="cible" typelien="CITATION">Décret n°2021-1130 du 30 août 2021 - art. 4</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000029227540" naturetexte="CODE" nortexte="" num="L1333-13-11" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1333-13-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000023709477" naturetexte="CODE" nortexte="" num="L2341-6-2" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2341-6-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540080" naturetexte="CODE" nortexte="" num="L2342-57" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2342-57 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540081" naturetexte="CODE" nortexte="" num="L2342-58" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2342-58 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000028345243" naturetexte="CODE" nortexte="" num="L2342-59" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2342-59 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000028345261" naturetexte="CODE" nortexte="" num="L2342-60" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2342-60 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044568254" naturetexte="CODE" nortexte="" num="362" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 362 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577954" naturetexte="CODE" nortexte="" num="720-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 720-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577961" naturetexte="CODE" nortexte="" num="720-4" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 720-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032654138" naturetexte="CODE" nortexte="" num="720-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 720-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044569584" naturetexte="CODE" nortexte="" num="729" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 729 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044569574" naturetexte="CODE" nortexte="" num="729-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 729-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045580949" naturetexte="CODE" nortexte="" num="D45-1-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D45-1-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043999532" naturetexte="CODE" nortexte="" num="D45-2-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D45-2-1 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000047861278" naturetexte="CODE" nortexte="" num="1791 ter" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1791 ter (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417533" naturetexte="CODE" nortexte="" num="211-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 211-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811403" naturetexte="CODE" nortexte="" num="212-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 212-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417537" naturetexte="CODE" nortexte="" num="212-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 212-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417539" naturetexte="CODE" nortexte="" num="212-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 212-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417555" naturetexte="CODE" nortexte="" num="214-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 214-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417556" naturetexte="CODE" nortexte="" num="214-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 214-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027809193" naturetexte="CODE" nortexte="" num="221-12" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417562" naturetexte="CODE" nortexte="" num="221-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000024041189" naturetexte="CODE" nortexte="" num="221-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531896" naturetexte="CODE" nortexte="" num="221-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417573" naturetexte="CODE" nortexte="" num="221-5" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 221-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417593" naturetexte="CODE" nortexte="" num="222-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531845" naturetexte="CODE" nortexte="" num="222-10" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531829" naturetexte="CODE" nortexte="" num="222-12" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531806" naturetexte="CODE" nortexte="" num="222-14" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043540877" naturetexte="CODE" nortexte="" num="222-14-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-14-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049312685" naturetexte="CODE" nortexte="" num="222-14-5" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-14-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417651" naturetexte="CODE" nortexte="" num="222-15" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417594" naturetexte="CODE" nortexte="" num="222-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409284" naturetexte="CODE" nortexte="" num="222-25" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-25 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000043409292" naturetexte="CODE" nortexte="" num="222-26" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531887" naturetexte="CODE" nortexte="" num="222-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417715" naturetexte="CODE" nortexte="" num="222-34" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-34 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417718" naturetexte="CODE" nortexte="" num="222-35" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-35 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000021342971" naturetexte="CODE" nortexte="" num="222-36" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-36 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417724" naturetexte="CODE" nortexte="" num="222-37" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-37 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051742295" naturetexte="CODE" nortexte="" num="222-38" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-38 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417732" naturetexte="CODE" nortexte="" num="222-39" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-39 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417734" naturetexte="CODE" nortexte="" num="222-39-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-39-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531871" naturetexte="CODE" nortexte="" num="222-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417604" naturetexte="CODE" nortexte="" num="222-5" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417605" naturetexte="CODE" nortexte="" num="222-6" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531858" naturetexte="CODE" nortexte="" num="222-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811104" naturetexte="CODE" nortexte="" num="224-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027807070" naturetexte="CODE" nortexte="" num="224-1 A" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-1 A (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027807085" naturetexte="CODE" nortexte="" num="224-1 B" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-1 B (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027807093" naturetexte="CODE" nortexte="" num="224-1 C" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-1 C (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811099" naturetexte="CODE" nortexte="" num="224-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811093" naturetexte="CODE" nortexte="" num="224-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811087" naturetexte="CODE" nortexte="" num="224-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811082" naturetexte="CODE" nortexte="" num="224-5" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000027811073" naturetexte="CODE" nortexte="" num="224-5-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-5-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417819" naturetexte="CODE" nortexte="" num="224-6" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000023376435" naturetexte="CODE" nortexte="" num="224-6-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417820" naturetexte="CODE" nortexte="" num="224-7" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 224-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417870" naturetexte="CODE" nortexte="" num="225-10" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 225-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000024041202" naturetexte="CODE" nortexte="" num="225-7" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 225-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417864" naturetexte="CODE" nortexte="" num="225-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 225-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417867" naturetexte="CODE" nortexte="" num="225-9" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 225-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418148" naturetexte="CODE" nortexte="" num="311-10" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 311-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418139" naturetexte="CODE" nortexte="" num="311-6" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 311-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418141" naturetexte="CODE" nortexte="" num="311-7" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 311-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418143" naturetexte="CODE" nortexte="" num="311-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 311-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418145" naturetexte="CODE" nortexte="" num="311-9" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 311-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418165" naturetexte="CODE" nortexte="" num="312-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 312-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418167" naturetexte="CODE" nortexte="" num="312-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 312-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418169" naturetexte="CODE" nortexte="" num="312-5" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 312-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418171" naturetexte="CODE" nortexte="" num="312-6" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 312-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418174" naturetexte="CODE" nortexte="" num="312-7" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 312-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418294" naturetexte="CODE" nortexte="" num="322-10" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 322-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049312725" naturetexte="CODE" nortexte="" num="322-8" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 322-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418292" naturetexte="CODE" nortexte="" num="322-9" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 322-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418346" naturetexte="CODE" nortexte="" num="411-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 411-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418369" naturetexte="CODE" nortexte="" num="412-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 412-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418436" naturetexte="CODE" nortexte="" num="421-3" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 421-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418439" naturetexte="CODE" nortexte="" num="421-4" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 421-4 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032654155" naturetexte="CODE" nortexte="" num="421-5" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 421-5 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032654141" naturetexte="CODE" nortexte="" num="421-6" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 421-6 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032632973" naturetexte="CODE" nortexte="" num="421-7" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 421-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418774" naturetexte="CODE" nortexte="" num="442-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 442-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418778" naturetexte="CODE" nortexte="" num="442-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 442-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000022686504" naturetexte="CODE" nortexte="" num="462-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 462-2 (V)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006736093</ID>
+<ANCIEN_ID>SSAXXXXXXXX3X241D08AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/73/60/LEGIARTI000006736093.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>D241-8</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1996-09-22</DATE_DEBUT>
+<DATE_FIN>2003-06-12</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073189" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité sociale." debut="1958-10-16" fin="2999-01-01" id_txt="LEGITEXT000006073189">Code de la sécurité sociale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006106031">Partie réglementaire - Décrets simples</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006126849">Livre II : Organisation du régime général - Action sanitaire et sociale des caisses</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006141518">Titre IV : Ressources</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006155796">Chapitre 1er : Généralités</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006172138">Section 4 : Dispositions communes.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1995-08-26" etat="MODIFIE" fin="1996-09-22" id="LEGIARTI000006736092" num="D241-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1996-09-22" etat="MODIFIE" fin="2003-06-12" id="LEGIARTI000006736093" num="D241-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-06-12" etat="MODIFIE" fin="2005-02-06" id="LEGIARTI000006736094" num="D241-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2005-02-06" etat="ABROGE" fin="2007-09-25" id="LEGIARTI000006736095" num="D241-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2011-01-01" etat="ABROGE" fin="2012-05-07" id="LEGIARTI000023414716" num="D241-8" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2012-09-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000026406992" num="D241-8" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>   En application du deuxième alinéa de l'article L. 241-13, le montant maximal de la réduction visée à l'article D. 241-7 est égal au produit de 169 fois la valeur du salaire minimum de croissance applicable à la rémunération versée par 0,182.</p>
+<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000507924" datesignatexte="1985-12-17" id="JORFTEXT000000507924" naturetexte="DECRET" nortexte="" num="" numtexte="85-1354" sens="source" typelien="CODIFICATION">Décret 85-1354 1985-12-17</LIEN>
+<LIEN cidtexte="JORFTEXT000000196061" datesignatexte="1996-09-20" id="LEGIARTI000006771487" naturetexte="DECRET" nortexte="TASS9622941D" num="1" numtexte="96-835" sens="source" typelien="MODIFICATION">Décret n°96-835 du 20 septembre 1996 - art. 1 () JORF 22 septembre 1996</LIEN>
+<LIEN cidtexte="JORFTEXT000000201359" datesignatexte="1997-05-12" id="LEGIARTI000006771904" naturetexte="DECRET" nortexte="TASS9721207D" num="4" numtexte="97-488" sens="cible" typelien="CITATION">Décret n°97-488 du 12 mai 1997 - art. 4 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000201359" datesignatexte="1997-05-12" id="LEGIARTI000006771906" naturetexte="DECRET" nortexte="TASS9721207D" num="5" numtexte="97-488" sens="cible" typelien="CITATION">Décret n°97-488 du 12 mai 1997 - art. 5 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000787738" datesignatexte="2003-06-11" id="LEGIARTI000006780973" naturetexte="DECRET" nortexte="SOCS0321332D" num="3" numtexte="2003-487" sens="cible" typelien="CITATION">Décret n°2003-487 du 11 juin 2003 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000023336753" datesignatexte="2010-12-31" id="LEGIARTI000023388505" naturetexte="DECRET" nortexte="ETSS1033310D" num="2" numtexte="2010-1779" sens="cible" typelien="CITATION">Décret n°2010-1779 du 31 décembre 2010 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006736102" naturetexte="CODE" nortexte="" num="D241-10" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D241-10 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006735819" naturetexte="CODE" nortexte="" num="D241-12" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D241-12 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006735823" naturetexte="CODE" nortexte="" num="D241-13" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D241-13 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000047987492" naturetexte="CODE" nortexte="" num="D241-5-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D241-5-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006735813" naturetexte="CODE" nortexte="" num="D241-5-7" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D241-5-7 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006736085" naturetexte="CODE" nortexte="" num="D241-7" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. D241-7 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006736098" naturetexte="CODE" nortexte="" num="D241-9" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D241-9 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000047987523" naturetexte="CODE" nortexte="" num="D752-7" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D752-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006742355" naturetexte="CODE" nortexte="" num="L241-13" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L241-13 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006742355" naturetexte="CODE" nortexte="" num="L241-13" numtexte="" sens="source" typelien="TXT_SOURCE">Code de la sécurité sociale. - art. L241-13 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006645604" naturetexte="CODE" nortexte="" num="D981-3" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. D981-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006597717" naturetexte="CODE" nortexte="" num="D741-61-3" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D741-61-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006597725" naturetexte="CODE" nortexte="" num="D741-63-3" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D741-63-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006597735" naturetexte="CODE" nortexte="" num="D741-70-6" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D741-70-6 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000051738091" naturetexte="CODE" nortexte="" num="D741-60" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D741-60 (V)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000037822755</ID>
+<TITRE_TA>Chapitre Ier : Principes et définitions</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2016-10-09" id="LEGIARTI000006528059" num="1" origine="LEGI"/>
+<LIEN_ART debut="2016-10-09" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000033219641" num="1" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822962" num="1" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528060" num="2" origine="LEGI"/>
+<LIEN_ART debut="2004-08-07" etat="MODIFIE" fin="2018-05-25" id="LEGIARTI000006528061" num="2" origine="LEGI"/>
+<LIEN_ART debut="2018-05-25" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000037090135" num="2" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822959" num="2" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528062" num="3" origine="LEGI"/>
+<LIEN_ART debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000006528063" num="3" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2024-05-23" id="LEGIARTI000037822955" num="3" origine="LEGI"/>
+<LIEN_ART debut="2024-05-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049579434" num="3" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528064" num="4" origine="LEGI"/>
+<LIEN_ART debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000006528065" num="4" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822953" num="4" origine="LEGI"/>
+<LIEN_ART debut="1978-07-23" etat="MODIFIE" fin="2004-08-07" id="LEGIARTI000006528066" num="5" origine="LEGI"/>
+<LIEN_ART debut="2004-08-07" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000006528067" num="5" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822950" num="5" origine="LEGI"/>
+<LIEN_ART debut="2018-05-25" etat="ABROGE" fin="2019-06-01" id="LEGIARTI000037088068" num="5-1" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822942" num="6" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037822938" num="7" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000886460" date_publi="1978-01-07" date_signature="1978-01-06" ministere="" nature="LOI" nor="" num="78-17" num_parution_jo="">
+<TITRE_TXT c_titre_court="LOI n° 78-17 du 6 janvier 1978" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000886460">LOI n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 78-17 du 6 janvier 1978" debut="1978-01-07" fin="2999-01-01" id_txt="LEGITEXT000006068624">Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2019-06-01" fin="2999-01-01" id="LEGISCTA000037817103">Titre Ier : Dispositions communes</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

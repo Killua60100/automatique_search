@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006121418</ID>
+<TITRE_TA>Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138320" debut="2005-02-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138320" niv="3" url="/LEGI/SCTA/00/00/06/13/83/LEGISCTA000006138320.xml">Titre Préliminaire : Dispositions communes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138321" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138321" niv="3" url="/LEGI/SCTA/00/00/06/13/83/LEGISCTA000006138321.xml">Titre Ier : La garde et la circulation des animaux et des produits animaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138322" debut="2000-09-21" etat="MODIFIE" fin="2011-07-24" id="LEGISCTA000006138322" niv="3" url="/LEGI/SCTA/00/00/06/13/83/LEGISCTA000006138322.xml">Titre II : La lutte contre les maladies des animaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138322" debut="2011-07-24" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000024396682" niv="3" url="/LEGI/SCTA/00/00/24/39/66/LEGISCTA000024396682.xml">Titre II : Mesures de prévention, surveillance et lutte contre les dangers zoosanitaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138323" debut="2000-09-21" etat="MODIFIE" fin="2010-07-29" id="LEGISCTA000006138323" niv="3" url="/LEGI/SCTA/00/00/06/13/83/LEGISCTA000006138323.xml">Titre III : Le contrôle sanitaire des animaux et aliments</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138323" debut="2010-07-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000022657336" niv="3" url="/LEGI/SCTA/00/00/22/65/73/LEGISCTA000022657336.xml">Titre III : Qualité nutritionnelle et sécurité sanitaire des aliments</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138382" debut="2000-09-21" etat="MODIFIE" fin="2015-08-03" id="LEGISCTA000006138382" niv="3" url="/LEGI/SCTA/00/00/06/13/83/LEGISCTA000006138382.xml">Titre IV : L'exercice de la médecine et de la chirurgie des animaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138382" debut="2015-08-03" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000030966014" niv="3" url="/LEGI/SCTA/00/00/30/96/60/LEGISCTA000030966014.xml">Titre IV :  L'exercice de la profession de vétérinaire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138324" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006138324" niv="3" url="/LEGI/SCTA/00/00/06/13/83/LEGISCTA000006138324.xml">Titre V : La protection des végétaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138325" debut="2000-09-21" etat="ABROGE" fin="2010-07-01" id="LEGISCTA000006138325" niv="3" url="/LEGI/SCTA/00/00/06/13/83/LEGISCTA000006138325.xml">Titre VI : L'agence française de sécurité sanitaire des aliments</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138326" debut="2000-09-21" etat="MODIFIE" fin="2008-06-22" id="LEGISCTA000006138326" niv="3" url="/LEGI/SCTA/00/00/06/13/83/LEGISCTA000006138326.xml">Titre VII : Dispositions particulières aux départements d'outre-mer ainsi qu'à Mayotte et Saint-Pierre-et-Miquelon</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138326" debut="2008-06-22" etat="MODIFIE" fin="2016-07-01" id="LEGISCTA000019065757" niv="3" url="/LEGI/SCTA/00/00/19/06/57/LEGISCTA000019065757.xml">Titre VII : Dispositions particulières aux départements d'outre-mer ainsi qu'à Mayotte, à Saint-Pierre-et-Miquelon, à la Polynésie française, à la Nouvelle-Calédonie et aux îles Wallis et Futuna.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006138326" debut="2016-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032359936" niv="3" url="/LEGI/SCTA/00/00/32/35/99/LEGISCTA000032359936.xml">Titre VII : Dispositions relatives à l'outre-mer</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023718276</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/71/82/LEGIARTI000023718276.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L325-1-2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-03-16</DATE_DEBUT>
+<DATE_FIN>2016-11-20</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006108686">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006129086">Livre 3 : Le véhicule</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006143841">Titre 2 : Dispositions administratives</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006159535">Chapitre 5 : Immobilisation et mise en fourrière.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2016-11-20" id="LEGIARTI000023718276" num="L325-1-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-11-20" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000033460149" num="L325-1-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2019-12-27" id="LEGIARTI000038312411" num="L325-1-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-12-27" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000039785465" num="L325-1-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-01-26" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000045071419" num="L325-1-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742280" num="L325-1-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Dès lors qu'est constatée une infraction pour laquelle une peine de confiscation obligatoire du véhicule est encourue, le représentant de l'Etat dans le département où cette infraction a été commise peut faire procéder à titre provisoire à l'immobilisation et à la mise en fourrière du véhicule dont l'auteur s'est servi pour commettre l'infraction. Il en informe immédiatement, par tout moyen, le procureur de la République. </p>
+<p>
+<br/>
+<br/>Lorsque l'immobilisation ou la mise en fourrière prévue à l'article L. 325-1-1 n'est pas autorisée par le procureur de la République dans un délai de sept jours suivant la décision du représentant de l'Etat prise en application du premier alinéa, le véhicule est restitué à son propriétaire. En cas de mesures successives, le délai n'est pas prorogé. </p>
+<p>
+<br/>
+<br/>Lorsqu'une peine d'immobilisation ou de confiscation du véhicule est prononcée par la juridiction, les règles relatives aux frais d'enlèvement et de garde en fourrière prévues à l'article L. 325-1-1 s'appliquent. </p>
+<p>
+<br/>
+<br/>Lorsque l'auteur de l'infraction visée au premier alinéa du présent article n'est pas le propriétaire du véhicule, l'immobilisation ou la mise en fourrière est levée dès qu'un conducteur qualifié proposé par l'auteur de l'infraction ou par le titulaire du certificat d'immatriculation du véhicule peut en assurer la conduite. Les frais d'enlèvement et de garde en fourrière sont à la charge du propriétaire. </p>
+<p>
+<br/>
+<br/>Les frais d'enlèvement et de garde du véhicule immobilisé et mis en fourrière pendant une durée maximale de sept jours en application du présent article ne constituent pas des frais de justice relevant de l'article 800 du code de procédure pénale.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000023707312" datesignatexte="2011-03-14" id="LEGIARTI000023708935" naturetexte="LOI" nortexte="IOCX0903274L" num="84" numtexte="2011-267" sens="cible" typelien="CREE">LOI n°2011-267
+ du 14 mars 2011 - art. 84</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006578388" naturetexte="CODE" nortexte="" num="800" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 800</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000038312418" naturetexte="CODE" nortexte="" num="L121-5" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L121-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841138" naturetexte="CODE" nortexte="" num="L325-1-1" numtexte="" sens="source" typelien="CITATION">Code de la route. - art. L325-1-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000043540496" naturetexte="CODE" nortexte="" num="L325-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L325-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000047009343" naturetexte="CODE" nortexte="" num="L344-1-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L344-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000025111479" naturetexte="CODE" nortexte="" num="R325-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000029007451" naturetexte="CODE" nortexte="" num="R325-1-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042039273" naturetexte="CODE" nortexte="" num="R325-22" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-22 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000025111493" naturetexte="CODE" nortexte="" num="R325-27" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R325-27 (V)</LIEN>
+</LIENS>
+</ARTICLE>

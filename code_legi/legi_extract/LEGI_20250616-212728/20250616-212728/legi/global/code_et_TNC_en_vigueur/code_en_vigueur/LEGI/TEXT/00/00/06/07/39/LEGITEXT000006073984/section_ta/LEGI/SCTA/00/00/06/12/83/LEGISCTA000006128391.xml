@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006128391</ID>
+<TITRE_TA>Livre Ier : Le contrat</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2005-12-16" etat="MODIFIE" fin="2008-01-01" id="LEGIARTI000006791829" num="L100-1" origine="LEGI"/>
+<LIEN_ART debut="2008-01-01" etat="MODIFIE" fin="2008-07-17" id="LEGIARTI000017868378" num="L100-1" origine="LEGI"/>
+<LIEN_ART debut="2008-07-17" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000019202657" num="L100-1" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000030437933" num="L100-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006142659" debut="1976-07-21" etat="MODIFIE" fin="2012-07-01" id="LEGISCTA000006142659" niv="3" url="/LEGI/SCTA/00/00/06/14/26/LEGISCTA000006142659.xml">Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142659" debut="2012-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000024376809" niv="3" url="/LEGI/SCTA/00/00/24/37/68/LEGISCTA000024376809.xml">Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142679" debut="1976-07-21" etat="MODIFIE" fin="2012-07-01" id="LEGISCTA000006142679" niv="3" url="/LEGI/SCTA/00/00/06/14/26/LEGISCTA000006142679.xml">Titre II : Règles relatives aux assurances de dommages non maritimes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142679" debut="2012-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000024376800" niv="3" url="/LEGI/SCTA/00/00/24/37/68/LEGISCTA000024376800.xml">Titre II : Règles relatives aux assurances de dommages</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142709" debut="1976-07-21" etat="ABROGE" fin="1992-07-17" id="LEGISCTA000006142709" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142709.xml">Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142719" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006142719" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142719.xml">Titre III : Règles relatives aux assurances de personnes et aux opérations de capitalisation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142726" debut="1981-01-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006142726" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142726.xml">Titre IV : Les assurances de groupe</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142739" debut="1976-07-21" etat="ABROGE" fin="1992-07-17" id="LEGISCTA000006142739" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142739.xml">Titre V : Le contrat de capitalisation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142743" debut="1976-07-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006142743" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142743.xml">Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142746" debut="1976-07-21" etat="ABROGE" fin="1992-07-17" id="LEGISCTA000006142746" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142746.xml">Titre VII : Le contrat d'assurance maritime</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142749" debut="1992-07-17" etat="MODIFIE" fin="2012-07-01" id="LEGISCTA000006142749" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142749.xml">Titre VII : Le contrat d'assurance maritime et d'assurance fluviale et lacustre</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142749" debut="2012-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000024376811" niv="3" url="/LEGI/SCTA/00/00/24/37/68/LEGISCTA000024376811.xml">Titre VII : Les contrats d'assurance maritime, aérienne et aéronautique, fluviale et lacustre, sur marchandises transportées par tous modes et de responsabilité civile spatiale</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142776" debut="1994-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006142776" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142776.xml">Titre VIII : Loi applicable aux contrats d'assurance pour les risques situés sur le territoire d'un ou plusieurs Etats parties à l'accord sur l'Espace économique européen et pour les engagements qui y sont pris</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142775" debut="1993-05-20" etat="ABROGE" fin="1994-07-01" id="LEGISCTA000006142775" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142775.xml">Titre VIII : Loi applicable aux contrats d'assurance pour les risques situés sur le territoire d'un ou plusieurs Etats membres des communautés européennes et pour les engagements qui y sont pris</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142778" debut="1990-07-01" etat="ABROGE" fin="1993-05-20" id="LEGISCTA000006142778" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142778.xml">Titre VIII : Loi applicable aux contrats d'assurance de dommages pour les risques situés sur le territoire d'un ou plusieurs Etats membres des communautés européennes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142783" debut="1991-05-07" etat="ABROGE" fin="2005-12-16" id="LEGISCTA000006142783" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142783.xml">Titre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142790" debut="2005-12-16" etat="MODIFIE" fin="2012-07-01" id="LEGISCTA000006142790" niv="3" url="/LEGI/SCTA/00/00/06/14/27/LEGISCTA000006142790.xml">Titre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle et dispositions applicables à Mayotte et dans les îles Wallis et Futuna</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006142790" debut="2012-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000024376946" niv="3" url="/LEGI/SCTA/00/00/24/37/69/LEGISCTA000024376946.xml">Titre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle et dispositions applicables à Mayotte, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073984" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des assurances" debut="1976-07-11" fin="2999-01-01" id_txt="LEGITEXT000006073984">Code des assurances</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1976-07-16" fin="2999-01-01" id="LEGISCTA000006107964">Partie législative</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

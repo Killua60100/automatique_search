@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165285</ID>
+<TITRE_TA>Section 5 : Peines complémentaires applicables aux personnes physiques</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2003-06-13" id="LEGIARTI000006417744" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2008-08-06" id="LEGIARTI000006417746" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="2008-08-06" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000019293120" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2012-03-08" id="LEGIARTI000023718237" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="2012-03-08" etat="MODIFIE" fin="2014-08-06" id="LEGIARTI000025450420" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="2014-08-06" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000029345355" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2020-03-24" id="LEGIARTI000032654515" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="2020-03-24" etat="MODIFIE" fin="2023-04-01" id="LEGIARTI000038313186" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="2023-04-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047052756" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="2003-06-13" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006417745" num="222-44" origine="LEGI"/>
+<LIEN_ART debut="1992-07-23" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006417747" num="222-45" origine="LEGI"/>
+<LIEN_ART debut="1998-06-18" etat="MODIFIE" fin="2004-10-01" id="LEGIARTI000006417749" num="222-45" origine="LEGI"/>
+<LIEN_ART debut="2023-11-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047242875" num="222-44-1" origine="LEGI"/>
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006417750" num="222-45" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739948" num="222-44-2" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1998-06-18" id="LEGIARTI000006417748" num="222-45" origine="LEGI"/>
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2020-03-24" id="LEGIARTI000006417751" num="222-45" origine="LEGI"/>
+<LIEN_ART debut="2020-03-24" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000038313177" num="222-45" origine="LEGI"/>
+<LIEN_ART debut="2022-01-26" etat="MODIFIE" fin="2023-04-01" id="LEGIARTI000045071098" num="222-45" origine="LEGI"/>
+<LIEN_ART debut="2023-04-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047052779" num="222-45" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417752" num="222-46" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2006-04-05" id="LEGIARTI000006417753" num="222-47" origine="LEGI"/>
+<LIEN_ART debut="2006-04-05" etat="MODIFIE" fin="2013-08-07" id="LEGIARTI000006417754" num="222-47" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="MODIFIE" fin="2019-04-12" id="LEGIARTI000027813118" num="222-47" origine="LEGI"/>
+<LIEN_ART debut="2019-04-12" etat="MODIFIE" fin="2024-03-23" id="LEGIARTI000038382722" num="222-47" origine="LEGI"/>
+<LIEN_ART debut="2024-03-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049312656" num="222-47" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1998-05-12" id="LEGIARTI000006417756" num="222-48" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE_MORT_NE" fin="1993-08-29" id="LEGIARTI000006417755" num="222-48" origine="LEGI"/>
+<LIEN_ART debut="2003-11-27" etat="MODIFIE" fin="2018-09-12" id="LEGIARTI000006417758" num="222-48" origine="LEGI"/>
+<LIEN_ART debut="2018-09-12" etat="ABROGE" fin="2024-01-28" id="LEGIARTI000037398862" num="222-48" origine="LEGI"/>
+<LIEN_ART debut="1998-05-12" etat="MODIFIE" fin="2003-11-27" id="LEGIARTI000006417757" num="222-48" origine="LEGI"/>
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006417760" num="222-48-1" origine="LEGI"/>
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2010-07-11" id="LEGIARTI000006417761" num="222-48-1" origine="LEGI"/>
+<LIEN_ART debut="2010-07-11" etat="MODIFIE" fin="2020-03-24" id="LEGIARTI000022469758" num="222-48-1" origine="LEGI"/>
+<LIEN_ART debut="2020-03-24" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000042342613" num="222-48-1" origine="LEGI"/>
+<LIEN_ART debut="2022-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045071081" num="222-48-1" origine="LEGI"/>
+<LIEN_ART debut="1998-06-18" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006417759" num="222-48-1" origine="LEGI"/>
+<LIEN_ART debut="2014-08-06" etat="MODIFIE" fin="2016-03-16" id="LEGIARTI000029334406" num="222-48-2" origine="LEGI"/>
+<LIEN_ART debut="2016-03-16" etat="MODIFIE" fin="2019-12-30" id="LEGIARTI000032207598" num="222-48-2" origine="LEGI"/>
+<LIEN_ART debut="2019-12-30" etat="MODIFIE" fin="2023-04-01" id="LEGIARTI000039778239" num="222-48-2" origine="LEGI"/>
+<LIEN_ART debut="2023-04-01" etat="ABROGE" fin="2024-03-20" id="LEGIARTI000047052784" num="222-48-2" origine="LEGI"/>
+<LIEN_ART debut="2020-12-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042670005" num="222-48-3" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043405342" num="222-48-4" origine="LEGI"/>
+<LIEN_ART debut="2023-04-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047049138" num="222-48-5" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

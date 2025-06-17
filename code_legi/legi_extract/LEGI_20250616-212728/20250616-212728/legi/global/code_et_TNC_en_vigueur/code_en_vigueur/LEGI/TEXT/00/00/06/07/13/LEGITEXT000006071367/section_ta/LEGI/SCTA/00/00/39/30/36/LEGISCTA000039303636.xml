@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000039303636</ID>
+<TITRE_TA>Sous-section 2 : Certifications officielles, contrôles officiels et autres activités officielles </TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2019-12-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039329473" num="L251-14" origine="LEGI"/>
+<LIEN_ART debut="2019-12-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039329469" num="L251-17" origine="LEGI"/>
+<LIEN_ART debut="2019-12-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039329464" num="L251-17-1" origine="LEGI"/>
+<LIEN_ART debut="2019-12-14" etat="ABROGE" fin="2020-12-31" id="LEGIARTI000039329459" num="L251-17-2" origine="LEGI"/>
+<LIEN_ART debut="2019-12-14" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000039329455" num="L251-18" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047861458" num="L251-18" origine="LEGI"/>
+<LIEN_ART debut="2019-12-14" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000039329448" num="L251-18-1" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047861451" num="L251-18-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006138324">Titre V : La protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006152215">Chapitre Ier : La surveillance biologique du territoire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2019-12-14" id="LEGISCTA000006167717">Section 2 : Les mesures de protection contre les organismes nuisibles.</TITRE_TM>
+<TITRE_TM debut="2019-12-14" fin="2999-01-01" id="LEGISCTA000039329367">Section 2 : Les mesures de protection contre les organismes nuisibles aux végétaux</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

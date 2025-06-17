@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165276</ID>
+<TITRE_TA>Section 1 : Des atteintes volontaires à la vie</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417561" num="221-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417562" num="221-2" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE_MORT_NE" fin="1994-02-02" id="LEGIARTI000006417563" num="221-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006417564" num="221-3" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000023713250" num="221-3" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000024041189" num="221-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1996-07-23" id="LEGIARTI000006417566" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE_MORT_NE" fin="1994-02-02" id="LEGIARTI000006417565" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2006-04-05" id="LEGIARTI000006417571" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="1999-06-19" etat="MODIFIE" fin="2003-02-04" id="LEGIARTI000006417568" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="1996-07-23" etat="MODIFIE" fin="1999-06-19" id="LEGIARTI000006417567" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2003-02-04" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417569" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2006-04-05" etat="MODIFIE" fin="2010-03-04" id="LEGIARTI000006417572" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2010-03-04" etat="MODIFIE" fin="2010-07-11" id="LEGIARTI000021926151" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2010-07-11" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000022469914" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2012-05-01" id="LEGIARTI000023713254" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2012-08-08" etat="MODIFIE" fin="2017-01-29" id="LEGIARTI000026268286" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2012-08-08" id="LEGIARTI000028537086" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2017-01-29" etat="MODIFIE" fin="2021-11-27" id="LEGIARTI000033975336" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2021-11-27" etat="MODIFIE" fin="2021-12-24" id="LEGIARTI000044376112" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2021-12-24" etat="MODIFIE" fin="2022-01-26" id="LEGIARTI000044569703" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2022-01-26" etat="MODIFIE" fin="2024-05-12" id="LEGIARTI000045071040" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2024-05-12" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049531896" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006417570" num="221-4" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417573" num="221-5" origine="LEGI"/>
+<LIEN_ART debut="2001-06-13" etat="TRANSFERE" fin="2004-03-10" id="LEGIARTI000006417574" num="221-5-1" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2020-08-01" id="LEGIARTI000006417575" num="221-5-1" origine="LEGI"/>
+<LIEN_ART debut="2020-08-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042193617" num="221-5-1" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006417576" num="221-5-2" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020631002" num="221-5-2" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006417577" num="221-5-3" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742453" num="221-5-3" origine="LEGI"/>
+<LIEN_ART debut="2010-07-11" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000022469917" num="221-5-4" origine="LEGI"/>
+<LIEN_ART debut="2014-08-06" etat="MODIFIE" fin="2016-03-16" id="LEGIARTI000029334375" num="221-5-5" origine="LEGI"/>
+<LIEN_ART debut="2016-03-16" etat="MODIFIE" fin="2019-12-30" id="LEGIARTI000032207605" num="221-5-5" origine="LEGI"/>
+<LIEN_ART debut="2019-12-30" etat="ABROGE" fin="2024-03-20" id="LEGIARTI000039778246" num="221-5-5" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149826">Chapitre Ier : Des atteintes à la vie de la personne</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

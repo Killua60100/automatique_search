@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006167518</ID>
+<TITRE_TA>Section 2 : Procédure</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1999-11-11" id="LEGIARTI000006577479" num="698" origine="LEGI"/>
+<LIEN_ART debut="1999-11-11" etat="MODIFIE" fin="2012-01-01" id="LEGIARTI000006577480" num="698" origine="LEGI"/>
+<LIEN_ART debut="2012-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000024970987" num="698" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE_MORT_NE" fin="2016-11-20" id="LEGIARTI000028526061" num="698" origine="LEGI"/>
+<LIEN_ART debut="1983-01-01" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006577450" num="698-1" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2011-12-15" id="LEGIARTI000006577451" num="698-1" origine="LEGI"/>
+<LIEN_ART debut="2011-12-15" etat="MODIFIE" fin="2023-08-03" id="LEGIARTI000024967067" num="698-1" origine="LEGI"/>
+<LIEN_ART debut="2023-08-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047921083" num="698-1" origine="LEGI"/>
+<LIEN_ART debut="1983-01-01" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006577452" num="698-2" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1999-11-11" id="LEGIARTI000006577453" num="698-2" origine="LEGI"/>
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2013-12-20" id="LEGIARTI000006577454" num="698-2" origine="LEGI"/>
+<LIEN_ART debut="2013-12-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028345285" num="698-2" origine="LEGI"/>
+<LIEN_ART debut="1983-01-01" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006577455" num="698-3" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577456" num="698-3" origine="LEGI"/>
+<LIEN_ART debut="1983-01-01" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006577457" num="698-4" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577458" num="698-4" origine="LEGI"/>
+<LIEN_ART debut="1983-01-01" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006577459" num="698-5" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE_MORT_NE" fin="1993-03-01" id="LEGIARTI000006577460" num="698-5" origine="LEGI"/>
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="1999-11-11" id="LEGIARTI000006577461" num="698-5" origine="LEGI"/>
+<LIEN_ART debut="1999-11-11" etat="MODIFIE" fin="2012-01-01" id="LEGIARTI000006577462" num="698-5" origine="LEGI"/>
+<LIEN_ART debut="2012-01-01" etat="MODIFIE" fin="2013-12-20" id="LEGIARTI000024970982" num="698-5" origine="LEGI"/>
+<LIEN_ART debut="2013-12-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028345304" num="698-5" origine="LEGI"/>
+<LIEN_ART debut="1983-01-01" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006577463" num="698-6" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006577464" num="698-6" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="MODIFIE_MORT_NE" fin="2000-12-31" id="LEGIARTI000006577465" num="698-6" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2012-01-01" id="LEGIARTI000006577466" num="698-6" origine="LEGI"/>
+<LIEN_ART debut="2012-01-01" etat="MODIFIE" fin="2017-03-02" id="LEGIARTI000024970968" num="698-6" origine="LEGI"/>
+<LIEN_ART debut="2017-03-02" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000034114821" num="698-6" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2021-12-24" id="LEGIARTI000038312595" num="698-6" origine="LEGI"/>
+<LIEN_ART debut="2021-12-24" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000044569795" num="698-6" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048442025" num="698-6" origine="LEGI"/>
+<LIEN_ART debut="1983-01-01" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006577467" num="698-7" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006577468" num="698-7" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577469" num="698-7" origine="LEGI"/>
+<LIEN_ART debut="1983-01-01" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006577470" num="698-8" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577471" num="698-8" origine="LEGI"/>
+<LIEN_ART debut="1999-11-11" etat="MODIFIE" fin="2012-01-01" id="LEGIARTI000006577482" num="698-9" origine="LEGI"/>
+<LIEN_ART debut="2012-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000024970964" num="698-9" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-09-01" fin="2012-01-01" id="LEGISCTA000006138117">Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation</TITRE_TM>
+<TITRE_TM debut="2012-01-01" fin="2999-01-01" id="LEGISCTA000024971000">Titre XI : Des infractions en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation</TITRE_TM>
+<TM>
+<TITRE_TM debut="1993-03-01" fin="2012-01-01" id="LEGISCTA000006151929">Chapitre Ier : De la poursuite, de l'instruction et du jugement des crimes et délits en matière militaire en temps de paix</TITRE_TM>
+<TITRE_TM debut="2012-01-01" fin="2999-01-01" id="LEGISCTA000024971002">Chapitre Ier : De la poursuite, de l'instruction et du jugement des infractions en matière militaire en temps de paix</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

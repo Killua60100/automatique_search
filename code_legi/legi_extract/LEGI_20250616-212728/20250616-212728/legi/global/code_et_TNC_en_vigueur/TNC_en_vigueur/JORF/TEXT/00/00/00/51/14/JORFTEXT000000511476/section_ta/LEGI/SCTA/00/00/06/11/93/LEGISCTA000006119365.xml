@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006119365</ID>
+<TITRE_TA>Chapitre III : Actes établis sur support électronique</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2006-02-01" etat="ABROGE_DIFF" fin="2025-10-01" id="LEGIARTI000006490132" num="16" origine="LEGI"/>
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741593" num="16" origine="LEGI"/>
+<LIEN_ART debut="2006-02-01" etat="MODIFIE" fin="2016-10-01" id="LEGIARTI000006490145" num="17" origine="LEGI"/>
+<LIEN_ART debut="2016-10-01" etat="MODIFIE" fin="2017-10-01" id="LEGIARTI000033202065" num="17" origine="LEGI"/>
+<LIEN_ART debut="2017-10-01" etat="MODIFIE" fin="2020-11-22" id="LEGIARTI000035680254" num="17" origine="LEGI"/>
+<LIEN_ART debut="2020-11-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042548585" num="17" origine="LEGI"/>
+<LIEN_ART debut="2006-02-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006490157" num="18" origine="LEGI"/>
+<LIEN_ART debut="2006-02-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006490167" num="19" origine="LEGI"/>
+<LIEN_ART debut="2006-02-01" etat="MODIFIE" fin="2020-11-22" id="LEGIARTI000006490180" num="20" origine="LEGI"/>
+<LIEN_ART debut="2020-11-22" etat="MODIFIE" fin="2022-02-27" id="LEGIARTI000042548580" num="20" origine="LEGI"/>
+<LIEN_ART debut="2022-02-27" etat="ABROGE_DIFF" fin="2025-10-01" id="LEGIARTI000045268481" num="20" origine="LEGI"/>
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741591" num="20" origine="LEGI"/>
+<LIEN_ART debut="2020-11-22" etat="ABROGE_DIFF" fin="2025-10-01" id="LEGIARTI000042546520" num="20-1" origine="LEGI"/>
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741589" num="20-1" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000511476" date_publi="1971-12-03" date_signature="1971-11-26" ministere="" nature="DECRET" nor="" num="71-941" num_parution_jo="">
+<TITRE_TXT c_titre_court="Décret n° 71-941 du 26 novembre 1971" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000511476">Décret n° 71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°71-941 du 26 novembre 1971" debut="1971-12-03" fin="2999-01-01" id_txt="LEGITEXT000006061875">Décret n°71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2006-02-01" fin="2999-01-01" id="LEGISCTA000006093913">Titre III : Etablissement de l'acte notarié</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

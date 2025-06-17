@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575249</ID>
+<ANCIEN_ID>PXXXXXXXXXX0100L003AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/52/LEGIARTI000006575249.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>100-3</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1991-10-01</DATE_DEBUT>
+<DATE_FIN>2016-06-05</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151881">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-10-01" fin="2999-01-01" id="LEGISCTA000006167423">Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-10-01" fin="2016-06-05" id="LEGISCTA000006182887">Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications</TITRE_TM>
+<TITRE_TM debut="2016-06-05" fin="2999-01-01" id="LEGISCTA000032655289">Sous-section 2 : Des interceptions de correspondances émises par la voie des communications électroniques </TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1991-10-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006575249" num="100-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2023-01-26" id="LEGIARTI000032655276" num="100-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047053163" num="100-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le juge d'instruction ou l'officier de police judiciaire commis par lui peut requérir tout agent qualifié d'un service ou organisme placé sous l'autorité ou la tutelle du ministre chargé des télécommunications ou tout agent qualifié d'un exploitant de réseau ou fournisseur de services de télécommunications autorisé, en vue de procéder à l'installation d'un dispositif d'interception.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000173519" datesignatexte="1991-07-10" id="LEGIARTI000006421094" naturetexte="LOI" nortexte="JUSX9100068L" num="2" numtexte="91-646" sens="source" typelien="CREATION">Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991</LIEN>
+<LIEN cidtexte="JORFTEXT000000346854" datesignatexte="1992-10-12" id="LEGIARTI000006421853" naturetexte="ORDONNANCE" nortexte="DOMX9200166R" num="2" numtexte="92-1145" sens="cible" typelien="CITATION">Ordonnance no 92-1145 du 12 octobre 1992 portant e - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000177892" datesignatexte="1993-01-28" id="LEGIARTI000028307643" naturetexte="DECRET" nortexte="PTTR9300016D" num="1" numtexte="93-119" sens="cible" typelien="CITATION">Décret n°93-119 du 28 janvier 1993 - art. 1 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000177892" datesignatexte="1993-01-28" id="LEGIARTI000028307654" naturetexte="DECRET" nortexte="PTTR9300016D" num="2" numtexte="93-119" sens="cible" typelien="CITATION">Décret n°93-119 du 28 janvier 1993 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000177892" datesignatexte="1993-01-28" id="LEGIARTI000028307662" naturetexte="DECRET" nortexte="PTTR9300016D" num="3" numtexte="93-119" sens="cible" typelien="CITATION">Décret n°93-119 du 28 janvier 1993 - art. 3 (VD)</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000044568177" naturetexte="CODE" nortexte="" num="706-95" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-95 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742929" naturetexte="CODE" nortexte="" num="706-95-20" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-95-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000042779783" naturetexte="CODE" nortexte="" num="74-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 74-2 (M)</LIEN>
+</LIENS>
+</ARTICLE>

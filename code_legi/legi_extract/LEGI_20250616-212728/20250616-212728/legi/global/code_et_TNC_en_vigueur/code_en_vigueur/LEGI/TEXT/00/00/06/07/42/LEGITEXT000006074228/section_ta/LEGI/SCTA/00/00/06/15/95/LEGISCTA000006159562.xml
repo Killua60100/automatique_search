@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006159562</ID>
+<TITRE_TA>Chapitre Ier : Délivrance et catégories.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032465034" debut="2016-04-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032465034" niv="5" url="/LEGI/SCTA/00/00/32/46/50/LEGISCTA000032465034.xml">Section 1 : Dispositions générales </LIEN_SECTION_TA>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2003-07-12" id="LEGIARTI000006841360" num="R221-1" origine="LEGI"/>
+<LIEN_ART debut="2003-07-12" etat="MODIFIE" fin="2005-04-06" id="LEGIARTI000006841361" num="R221-1" origine="LEGI"/>
+<LIEN_ART debut="2005-04-06" etat="MODIFIE" fin="2013-01-19" id="LEGIARTI000006841362" num="R221-1" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000024777436" num="R221-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000032465086" debut="2016-04-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032465086" niv="5" url="/LEGI/SCTA/00/00/32/46/50/LEGISCTA000032465086.xml">Section 2 : Organisation des épreuves par l'autorité administrative </LIEN_SECTION_TA>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000006841363" num="R*221-2" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000032465094" debut="2016-04-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032465094" niv="5" url="/LEGI/SCTA/00/00/32/46/50/LEGISCTA000032465094.xml">Section 3 : Organisation des épreuves par les organismes agréés </LIEN_SECTION_TA>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000024775746" num="D221-3" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000032465124" debut="2016-04-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032465124" niv="5" url="/LEGI/SCTA/00/00/32/46/51/LEGISCTA000032465124.xml">Section 4 : Catégories de permis </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032465126" debut="2016-04-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032465126" niv="5" url="/LEGI/SCTA/00/00/32/46/51/LEGISCTA000032465126.xml">Section 5 : Vérification d'aptitude </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000032465128" debut="2016-04-29" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032465128" niv="5" url="/LEGI/SCTA/00/00/32/46/51/LEGISCTA000032465128.xml">Section 6 : Dérogations à l'obligation d'être titulaire du permis de conduire et conditions de délivrance </LIEN_SECTION_TA>
+<LIEN_ART debut="2001-06-01" etat="TRANSFERE" fin="2013-01-19" id="LEGIARTI000006841364" num="R221-3" origine="LEGI"/>
+<LIEN_ART debut="2006-01-19" etat="ABROGE" fin="2016-04-29" id="LEGIARTI000006841394" num="D221-3-1" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2006-12-29" id="LEGIARTI000006841365" num="R221-4" origine="LEGI"/>
+<LIEN_ART debut="2006-12-29" etat="MODIFIE" fin="2008-01-01" id="LEGIARTI000006841366" num="R221-4" origine="LEGI"/>
+<LIEN_ART debut="2008-01-01" etat="MODIFIE" fin="2013-01-18" id="LEGIARTI000006841367" num="R221-4" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE" fin="2014-11-02" id="LEGIARTI000024777447" num="R221-4" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE_MORT_NE" fin="2013-01-18" id="LEGIARTI000026975733" num="R221-4" origine="LEGI"/>
+<LIEN_ART debut="2014-11-02" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000029685677" num="R221-4" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2002-05-02" id="LEGIARTI000006841368" num="R221-5" origine="LEGI"/>
+<LIEN_ART debut="2002-05-02" etat="MODIFIE" fin="2006-12-29" id="LEGIARTI000006841369" num="R221-5" origine="LEGI"/>
+<LIEN_ART debut="2006-12-29" etat="MODIFIE" fin="2013-01-19" id="LEGIARTI000006841370" num="R221-5" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000024777450" num="R221-5" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2009-12-21" id="LEGIARTI000006841371" num="R221-6" origine="LEGI"/>
+<LIEN_ART debut="2009-12-21" etat="MODIFIE" fin="2013-01-19" id="LEGIARTI000021500581" num="R221-6" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000024777455" num="R221-6" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2010-11-17" id="LEGIARTI000006841372" num="R221-7" origine="LEGI"/>
+<LIEN_ART debut="2010-11-17" etat="MODIFIE" fin="2013-01-18" id="LEGIARTI000023095878" num="R221-7" origine="LEGI"/>
+<LIEN_ART debut="2013-01-18" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000024777457" num="R221-7" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE_MORT_NE" fin="2013-01-18" id="LEGIARTI000026975725" num="R221-7" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2005-04-06" id="LEGIARTI000006841373" num="R221-8" origine="LEGI"/>
+<LIEN_ART debut="2005-04-06" etat="MODIFIE" fin="2006-12-31" id="LEGIARTI000006841374" num="R221-8" origine="LEGI"/>
+<LIEN_ART debut="2006-12-31" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000006841375" num="R221-8" origine="LEGI"/>
+<LIEN_ART debut="2011-01-01" etat="MODIFIE" fin="2012-01-05" id="LEGIARTI000023095881" num="R221-8" origine="LEGI"/>
+<LIEN_ART debut="2013-01-18" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000024777460" num="R221-8" origine="LEGI"/>
+<LIEN_ART debut="2012-01-05" etat="MODIFIE" fin="2013-01-18" id="LEGIARTI000025111454" num="R221-8" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE_MORT_NE" fin="2013-01-18" id="LEGIARTI000026975738" num="R221-8" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2013-01-19" id="LEGIARTI000006841376" num="R221-9" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000024777465" num="R221-9" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2005-04-06" id="LEGIARTI000006841377" num="R221-10" origine="LEGI"/>
+<LIEN_ART debut="2005-04-06" etat="MODIFIE" fin="2010-01-01" id="LEGIARTI000006841378" num="R221-10" origine="LEGI"/>
+<LIEN_ART debut="2010-01-01" etat="MODIFIE" fin="2011-04-01" id="LEGIARTI000021549186" num="R221-10" origine="LEGI"/>
+<LIEN_ART debut="2011-04-01" etat="MODIFIE" fin="2012-09-01" id="LEGIARTI000022931311" num="R221-10" origine="LEGI"/>
+<LIEN_ART debut="2012-09-01" etat="MODIFIE" fin="2013-01-19" id="LEGIARTI000026204447" num="R221-10" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE" fin="2015-01-01" id="LEGIARTI000026204501" num="R221-10" origine="LEGI"/>
+<LIEN_ART debut="2015-01-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000030066468" num="R221-10" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2005-04-06" id="LEGIARTI000006841379" num="R221-11" origine="LEGI"/>
+<LIEN_ART debut="2005-04-06" etat="MODIFIE" fin="2006-01-15" id="LEGIARTI000006841380" num="R221-11" origine="LEGI"/>
+<LIEN_ART debut="2006-01-15" etat="MODIFIE" fin="2011-04-01" id="LEGIARTI000006841381" num="R221-11" origine="LEGI"/>
+<LIEN_ART debut="2011-04-01" etat="MODIFIE" fin="2012-09-01" id="LEGIARTI000022931315" num="R221-11" origine="LEGI"/>
+<LIEN_ART debut="2012-09-01" etat="MODIFIE" fin="2013-01-19" id="LEGIARTI000026204443" num="R221-11" origine="LEGI"/>
+<LIEN_ART debut="2013-01-19" etat="MODIFIE" fin="2014-11-02" id="LEGIARTI000026204521" num="R221-11" origine="LEGI"/>
+<LIEN_ART debut="2014-11-02" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000029685704" num="R221-11" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000006841382" num="R221-12" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2003-04-01" id="LEGIARTI000006841383" num="R221-13" origine="LEGI"/>
+<LIEN_ART debut="2003-04-01" etat="MODIFIE" fin="2012-09-01" id="LEGIARTI000006841384" num="R221-13" origine="LEGI"/>
+<LIEN_ART debut="2012-09-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000026204438" num="R221-13" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2012-09-01" id="LEGIARTI000006841385" num="R221-14" origine="LEGI"/>
+<LIEN_ART debut="2012-09-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000026204434" num="R221-14" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000006841386" num="R221-15" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000006841387" num="R221-16" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000006841388" num="R221-17" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000006841389" num="R221-18" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2012-09-01" id="LEGIARTI000006841390" num="R221-19" origine="LEGI"/>
+<LIEN_ART debut="2012-09-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000026204430" num="R221-19" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2005-04-06" id="LEGIARTI000006841391" num="R221-20" origine="LEGI"/>
+<LIEN_ART debut="2005-04-06" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000006841392" num="R221-20" origine="LEGI"/>
+<LIEN_ART debut="2001-06-01" etat="MODIFIE" fin="2016-04-29" id="LEGIARTI000006841393" num="R221-21" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-05-27" fin="2999-01-01" id="LEGISCTA000006108688">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006129090">Livre II : Le conducteur.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006143852">Titre II : Permis de conduire.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

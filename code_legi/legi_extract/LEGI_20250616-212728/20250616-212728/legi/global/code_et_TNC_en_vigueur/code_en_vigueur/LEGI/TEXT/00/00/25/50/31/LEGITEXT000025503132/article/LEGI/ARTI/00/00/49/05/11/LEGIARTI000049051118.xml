@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049051118</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/05/11/LEGIARTI000049051118.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L232-5</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2024-01-28</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508388">LIVRE II : ORDRE ET SÉCURITÉ PUBLICS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508292">TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508287">Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2024-01-28" id="LEGIARTI000025505275" num="L232-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-01-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049051118" num="L232-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Est puni d'une amende d'un montant maximum de 50 000 euros pour chaque voyage le fait pour une entreprise de transport aérien, maritime ou ferroviaire de transmettre aux services du ministère de l'intérieur des données inexploitables en raison du non-respect du format requis fixé par décret en Conseil d'Etat ou incomplètes ou manifestement fausses ou de ne pas transmettre les données mentionnées à l'article L. 232-4 à ces mêmes services. </p>
+<p>Le manquement est constaté par un procès-verbal établi par un fonctionnaire appartenant à l'un des corps dont la liste est définie par décret en Conseil d'Etat. Copie du procès-verbal est remise à l'entreprise de transport intéressée. Le manquement ainsi relevé donne lieu à une amende prononcée par l'autorité administrative compétente. L'amende est prononcée pour chaque voyage ayant donné lieu au manquement. Son montant est versé au Trésor public par l'entreprise de transport. </p>
+<p>L'entreprise de transport a accès au dossier. Elle est mise à même de présenter ses observations écrites dans un délai d'un mois sur le projet de sanction. La décision de l'autorité administrative est susceptible d'un recours de pleine juridiction. </p>
+<p>L'autorité administrative ne peut infliger d'amende à raison de faits remontant à plus d'un an.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000454124" datesignatexte="2006-01-23" id="LEGIARTI000025512517" naturetexte="LOI" nortexte="INTX0500242L" num="" numtexte="2006-64" sens="source" typelien="CONCORDANCE">Loi n° 2006-64 du 23 janvier 2006 - art. 7 V, v. 2.1 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000029953824" datesignatexte="2014-12-22" id="LEGIARTI000029992145" naturetexte="DECRET" nortexte="FCPD1428045D" num="4" numtexte="2014-1566" sens="cible" typelien="CITATION">DÉCRET n°2014-1566 du 22 décembre 2014 - art. 4 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000045726405" datesignatexte="2022-04-29" id="LEGIARTI000045729166" naturetexte="DECRET" nortexte="INTC2135821D" num="4" numtexte="2022-752" sens="cible" typelien="CITATION">Décret n°2022-752 du 29 avril 2022 - art. 4 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000049040245" datesignatexte="2024-01-26" id="LEGIARTI000049043066" naturetexte="LOI" nortexte="IOMV2236472L" num="57" numtexte="2024-42" sens="cible" typelien="MODIFIE">LOI n°2024-42 du 26 janvier 2024 - art. 57</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505273" naturetexte="CODE" nortexte="" num="L232-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L232-4</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049051107" naturetexte="CODE" nortexte="" num="L232-7" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L232-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000049051098" naturetexte="CODE" nortexte="" num="L232-7-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L232-7-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000029755327" naturetexte="CODE" nortexte="" num="L232-8" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L232-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051739426" naturetexte="CODE" nortexte="" num="L232-9" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L232-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000028285188" naturetexte="CODE" nortexte="" num="R232-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R232-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000028285190" naturetexte="CODE" nortexte="" num="R232-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R232-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000028285192" naturetexte="CODE" nortexte="" num="R232-4" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R232-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000028285194" naturetexte="CODE" nortexte="" num="R232-5" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R232-5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000045730835" naturetexte="CODE" nortexte="" num="R232-5-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R232-5-1 (VD)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe</LIEN>
+</LIENS>
+</ARTICLE>

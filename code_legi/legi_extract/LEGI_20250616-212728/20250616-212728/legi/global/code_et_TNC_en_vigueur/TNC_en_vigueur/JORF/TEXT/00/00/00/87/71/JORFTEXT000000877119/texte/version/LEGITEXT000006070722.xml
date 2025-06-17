@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000006070722</ID>
+<ANCIEN_ID>PCEAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/06/07/07/LEGITEXT000006070722.xml</URL>
+<NATURE>LOI</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000000877119</CID>
+<NUM/>
+<NUM_PARUTION/>
+<NUM_SEQUENCE>0</NUM_SEQUENCE>
+<NOR/>
+<DATE_PUBLI>1881-07-30</DATE_PUBLI>
+<DATE_TEXTE>1881-07-29</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2025-06-01</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI>0</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>0</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Loi du 29 juillet 1881</TITRE>
+<TITREFULL>Loi du 29 juillet 1881 sur la liberté de la presse</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>1881-07-29</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">LOI 1881-07-29 Bulletin LOIS N° 637 p. 125</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU/>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<p>Fait à Paris, le 29 juillet 1881.</p>
+<p>Par le Président de la République :</p>
+<p>Jules Grévy</p>
+<p>Le président du Conseil, ministre de l'instruction publique et des beaux-arts,</p>
+<p>Jules Ferry</p>
+<p>Le ministre de l'intérieur et des cultes,</p>
+<p>Constans  </p>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

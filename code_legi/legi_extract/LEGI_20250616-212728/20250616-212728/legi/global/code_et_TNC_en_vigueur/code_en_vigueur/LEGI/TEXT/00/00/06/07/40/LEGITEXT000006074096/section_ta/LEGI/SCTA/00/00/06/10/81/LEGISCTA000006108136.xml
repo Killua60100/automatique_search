@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006108136</ID>
+<TITRE_TA>Partie législative</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006128678" debut="1978-06-08" etat="MODIFIE" fin="2021-07-01" id="LEGISCTA000006128678" niv="2" url="/LEGI/SCTA/00/00/06/12/86/LEGISCTA000006128678.xml">Livre Ier : Dispositions générales.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006128678" debut="2021-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000041587692" niv="2" url="/LEGI/SCTA/00/00/41/58/76/LEGISCTA000041587692.xml">Livre Ier : Construction, entretien et rénovation des bâtiments</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006128681" debut="1978-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006128681" niv="2" url="/LEGI/SCTA/00/00/06/12/86/LEGISCTA000006128681.xml">Livre II : Statut des constructeurs.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006128683" debut="1978-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006128683" niv="2" url="/LEGI/SCTA/00/00/06/12/86/LEGISCTA000006128683.xml">Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006128689" debut="1978-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006128689" niv="2" url="/LEGI/SCTA/00/00/06/12/86/LEGISCTA000006128689.xml">Livre IV : Habitations à loyer modéré.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006128692" debut="1978-06-08" etat="MODIFIE" fin="2014-03-27" id="LEGISCTA000006128692" niv="2" url="/LEGI/SCTA/00/00/06/12/86/LEGISCTA000006128692.xml">Livre V : Bâtiments menaçant ruine ou insalubres.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006128692" debut="2014-03-27" etat="MODIFIE" fin="2021-01-01" id="LEGISCTA000028808088" niv="2" url="/LEGI/SCTA/00/00/28/80/80/LEGISCTA000028808088.xml">Livre V : Habitat indigne.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006128692" debut="2021-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000042342704" niv="2" url="/LEGI/SCTA/00/00/42/34/27/LEGISCTA000042342704.xml">Livre V : Lutte contre l'habitat indigne</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006128694" debut="1978-06-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006128694" niv="2" url="/LEGI/SCTA/00/00/06/12/86/LEGISCTA000006128694.xml">Livre VI : Mesures tendant à remédier à des difficultés exceptionnelles de logement.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000028777989" debut="2014-03-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000028779385" niv="2" url="/LEGI/SCTA/00/00/28/77/93/LEGISCTA000028779385.xml">Livre VII : Immeubles relevant du statut de la copropriété</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000038814412" debut="2019-09-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000038815034" niv="2" url="/LEGI/SCTA/00/00/38/81/50/LEGISCTA000038815034.xml">Livre VIII : AIDES PERSONNELLES AU LOGEMENT</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074096" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la construction et de l'habitation." debut="1977-03-10" fin="2999-01-01" id_txt="LEGITEXT000006074096">Code de la construction et de l'habitation</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

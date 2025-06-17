@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575534</ID>
+<ANCIEN_ID>PXXXXXXXXXX0115L000AXXAD</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/55/LEGIARTI000006575534.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>115</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2004-10-01</DATE_DEBUT>
+<DATE_FIN>2024-09-30</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151881">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006167425">Section 5 : Des interrogatoires et confrontations</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1958-04-08" etat="MODIFIE" fin="1993-03-01" id="LEGIARTI000006575531" num="115" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="2000-06-16" id="LEGIARTI000006575532" num="115" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-06-16" etat="MODIFIE" fin="2004-10-01" id="LEGIARTI000006575533" num="115" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2024-09-30" id="LEGIARTI000006575534" num="115" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-09-30" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000048441847" num="115" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743088" num="115" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les parties peuvent à tout moment de l'information faire connaître au juge d'instruction le nom de l'avocat choisi par elles ; si elles désignent plusieurs avocats, elles doivent faire connaître celui d'entre eux auquel seront adressées les convocations et notifications ; à défaut de ce choix, celles-ci seront adressées à l'avocat premier choisi.<br/>
+<br/>   Sauf lorsqu'il s'agit de la première désignation d'un avocat par une partie ou lorsque la désignation intervient au cours d'un interrogatoire ou d'une audition, le choix effectué par les parties en application de l'alinéa précédent doit faire l'objet d'une déclaration au greffier du juge d'instruction. La déclaration doit être constatée et datée par le greffier qui la signe ainsi que la partie concernée. Si celle-ci ne peut signer, il en est fait mention par le greffier. Lorsque la partie ne réside pas dans le ressort de la juridiction compétente, la déclaration au greffier peut être faite par lettre recommandée avec demande d'avis de réception.<br/>
+<br/>   Lorsque la personne mise en examen est détenue, le choix effectué par elle en application du premier alinéa peut également faire l'objet d'une déclaration auprès du chef de l'établissement pénitentiaire. Cette déclaration est constatée et datée par le chef de l'établissement qui la signe ainsi que la personne détenue. Si celle-ci ne peut signer, il en est fait mention par le chef de l'établissement. Ce document est adressé sans délai, en original ou en copie et par tout moyen, au greffier du juge d'instruction. La désignation de l'avocat prend effet à compter de la réception du document par le greffier.<br/>
+<br/>   Lorsque la personne mise en examen est détenue, le choix peut également résulter d'un courrier désignant un avocat pour assurer sa défense. La déclaration prévue au deuxième alinéa doit alors être faite par l'avocat désigné ; celui-ci remet au greffier une copie, complète ou partielle, du courrier qui lui a été adressé, et qui est annexée par le greffier à la déclaration. La personne mise en examen doit confirmer son choix dans les quinze jours selon l'une des modalités prévues aux deuxième et troisième alinéas. Pendant ce délai, la désignation est tenue pour effective.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000249995" datesignatexte="2004-03-09" id="LEGIARTI000006494393" naturetexte="LOI" nortexte="JUSX0300028L" num="117" numtexte="2004-204" sens="source" typelien="MODIFICATION">Loi n°2004-204 du 9 mars 2004 - art. 117 () JORF 10 mars 2004 en vigueur le 1er octobre 2004</LIEN>
+<LIEN cidtexte="LEGITEXT000045476241" datesignatexte="2999-01-01" id="LEGIARTI000045480196" naturetexte="CODE" nortexte="" num="L313-1" numtexte="" sens="cible" typelien="CITATION">Code pénitentiaire - art. L313-1 (V)</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575516" naturetexte="CODE" nortexte="" num="104" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 104 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045098555" naturetexte="CODE" nortexte="" num="D32-1-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D32-1-2 (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale annexe</LIEN>
+</LIENS>
+</ARTICLE>

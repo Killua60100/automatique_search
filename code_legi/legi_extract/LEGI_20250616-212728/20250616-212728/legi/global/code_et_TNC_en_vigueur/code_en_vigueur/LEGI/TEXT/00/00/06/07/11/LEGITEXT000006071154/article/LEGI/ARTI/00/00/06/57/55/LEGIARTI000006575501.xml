@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575501</ID>
+<ANCIEN_ID>PXXXXXXXXXX0099L000AXXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/55/LEGIARTI000006575501.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>99</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1991-10-01</DATE_DEBUT>
+<DATE_FIN>1993-03-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1957-12-31" fin="1997-03-31" id="LEGISCTA000006151882">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-10-01" fin="1995-02-09" id="LEGISCTA000006167438">Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-10-01" fin="1994-03-01" id="LEGISCTA000006182925">Sous-section 1 : Des transports, des perquisitions et des saisies</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1986-02-01" etat="MODIFIE" fin="1991-10-01" id="LEGIARTI000006575500" num="99" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1991-10-01" etat="MODIFIE" fin="1993-03-01" id="LEGIARTI000006575501" num="99" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575502" num="99" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000006575503" num="99" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000032688609" num="99" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE_MORT_NE">
+<LIEN_ART debut="2017-01-01" etat="MODIFIE_MORT_NE" fin="2016-06-05" id="LEGIARTI000031348482" num="99" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000032655384" num="99" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2024-06-26" id="LEGIARTI000038312192" num="99" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-06-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049778595" num="99" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>   Au cours de l'information, le juge d'instruction est compétent pour décider de la restitution des objets placés sous main de justice.<br/>
+    Il statue, par ordonnance motivée, soit sur réquisitions du procureur de la République, soit, après avis de ce dernier, d'office ou sur requête de l'inculpé, de la partie civile ou de toute autre personne qui prétend avoir droit sur l'objet.<br/>
+    Il peut également, avec l'accord du procureur de la République, décider d'office de restituer ou de faire restituer à la victime de l'infraction les objets placés sous main de justice dont la propriété n'est pas contestée.<br/>
+    Il n'y a pas lieu à restitution lorsque celle-ci est de nature à faire obstacle à la manifestation de la vérité ou à la sauvegarde des droits des parties ou lorsqu'elle présente un danger pour les personnes ou les biens. Elle peut être refusée lorsque la confiscation de l'objet est prévue par la loi.<br/>
+   L'ordonnance du juge d'instruction mentionnée au deuxième alinéa du présent article est notifiée soit au requérant en cas de rejet de la demande, soit au ministère public et à toute autre partie intéressée en cas de décision de restitution. Elle peut être déférée à la chambre d'accusation, sur simple requête déposée au greffe du tribunal, dans le délai et selon les modalités prévus par le quatrième alinéa de l'article 186. Ce délai est suspensif.<br/>
+    Le tiers peut, au même titre que les parties, être entendu par la chambre d'accusation en ses observations, mais il ne peut prétendre à la mise à sa disposition de la procédure.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000888573" datesignatexte="1951-06-07" id="LEGIARTI000019203009" naturetexte="LOI" nortexte="" num="6" numtexte="51-711" sens="cible" typelien="CITATION">Loi n°51-711 du 7 juin 1951 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000888573" datesignatexte="1951-06-07" id="LEGIARTI000006528427" naturetexte="LOI" nortexte="" num="7 bis" numtexte="51-711" sens="cible" typelien="CITATION">Loi n°51-711 du 7 juin 1951 - art. 7 bis (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000878231" datesignatexte="1985-12-30" id="JORFTEXT000000878231" naturetexte="LOI" nortexte="" num="" numtexte="85-1407" sens="source" typelien="SPEC_APPLI">Loi 85-1407 1985-12-30 art. 94</LIEN>
+<LIEN cidtexte="JORFTEXT000000173519" datesignatexte="1991-07-10" id="LEGIARTI000006421094" naturetexte="LOI" nortexte="JUSX9100068L" num="2" numtexte="91-646" sens="source" typelien="MODIFICATION">Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991</LIEN>
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000044592401" datesignatexte="2021-12-28" id="LEGIARTI000044822952" naturetexte="DECRET" nortexte="AGRG2130815D" num="2" numtexte="2021-1858" sens="cible" typelien="CITATION">Décret n°2021-1858 du 28 décembre 2021 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000045476241" datesignatexte="2999-01-01" id="LEGIARTI000045480214" naturetexte="CODE" nortexte="" num="L311-3" numtexte="" sens="cible" typelien="CITATION">Code pénitentiaire - art. L311-3 (V)</LIEN>
+
+
+
+<LIEN cidtexte="LEGITEXT000006070884" datesignatexte="2999-01-01" id="LEGIARTI000006434076" naturetexte="CODE" nortexte="" num="113" numtexte="" sens="cible" typelien="CITATION">Code de justice militaire - art. 113 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049778563" naturetexte="CODE" nortexte="" num="177" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 177 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575827" naturetexte="CODE" nortexte="" num="183" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 183 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000045071247" naturetexte="CODE" nortexte="" num="186" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 186 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051743080" naturetexte="CODE" nortexte="" num="197" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 197 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575940" naturetexte="CODE" nortexte="" num="217" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 217 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032655905" naturetexte="CODE" nortexte="" num="706-152" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-152 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049778586" naturetexte="CODE" nortexte="" num="99-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 99-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740498" naturetexte="CODE" nortexte="" num="99-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 99-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038548015" naturetexte="CODE" nortexte="" num="D43-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D43-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043991347" naturetexte="CODE" nortexte="" num="D43-6" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D43-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000047522679" naturetexte="CODE" nortexte="" num="D591" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D591 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGITEXT000006071154" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale 186 al. 4</LIEN>
+<LIEN cidtexte="LEGITEXT000006071366" datesignatexte="2999-01-01" id="LEGIARTI000006579678" naturetexte="CODE" nortexte="" num="213-7" numtexte="" sens="cible" typelien="CITATION">Code rural ancien - art. 213-7 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044823605" naturetexte="CODE" nortexte="" num="R205-10" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R205-10 (V)</LIEN>
+</LIENS>
+</ARTICLE>

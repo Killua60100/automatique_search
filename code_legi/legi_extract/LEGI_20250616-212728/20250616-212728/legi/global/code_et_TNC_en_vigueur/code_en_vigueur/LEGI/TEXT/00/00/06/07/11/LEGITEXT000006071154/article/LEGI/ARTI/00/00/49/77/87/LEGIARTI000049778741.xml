@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049778741</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/77/87/LEGIARTI000049778741.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>707-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2024-06-26</DATE_DEBUT>
+<DATE_FIN>2024-09-30</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121331">Livre V : Des procédures d'exécution</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006138142">Titre Ier : De l'exécution des sentences pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006151940">Chapitre Ier : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-01-01" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006577867" num="707-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2010-05-01" id="LEGIARTI000006577868" num="707-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-05-01" etat="MODIFIE" fin="2011-02-04" id="LEGIARTI000022178630" num="707-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-02-04" etat="MODIFIE" fin="2012-03-29" id="LEGIARTI000022470168" num="707-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-03-29" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000025585923" num="707-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2024-06-26" id="LEGIARTI000032655868" num="707-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-06-26" etat="MODIFIE" fin="2024-09-30" id="LEGIARTI000049778741" num="707-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-09-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049779241" num="707-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le ministère public et les parties poursuivent l'exécution de la sentence chacun en ce qui le concerne.</p>
+<p>Néanmoins, les poursuites pour le recouvrement des amendes et l'exécution des confiscations en valeur sont faites au nom du procureur de la République par le comptable public compétent ou, dans les cas où la confiscation en valeur s'exécute sur des biens préalablement saisis, par l'Agence de gestion et de recouvrement des avoirs saisis et confisqués.</p>
+<p>L'exécution des autres confiscations est réalisée au nom du procureur de la République par l'Agence de gestion et de recouvrement des avoirs saisis et confisqués lorsqu'elles portent sur des biens meubles ou immeubles mentionnés aux 1° et 2° de l'article 706-160, même s'ils ne lui ont pas été préalablement confiés. L'agence est également compétente pour la gestion des biens non restitués en application du deuxième alinéa de l'article 41-4 et pour la mise en œuvre du dernier alinéa du même article 41-4. Sauf cas d'affectation, l'Agence de gestion et de recouvrement des avoirs saisis et confisqués procède à la vente de ces biens, s'il y a lieu, aux formalités de publication et, dans tous les cas, jusqu'à leur vente, aux actes d'administration nécessaires à leur conservation et à leur valorisation.</p>
+<p>Le paiement du montant de l'amende doit toujours être recherché. Toutefois, le défaut total ou partiel du paiement de ce montant peut entraîner l'incarcération du condamné selon les conditions prévues par la loi.</p>
+<p>La prescription de la peine est interrompue par les actes ou décisions du ministère public, des juridictions de l'application des peines et, pour les peines d'amende ou de confiscation relevant de leur compétence, du Trésor ou de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués, qui tendent à son exécution.</p>
+<p>Le procureur de la République poursuit également l'exécution des sanctions pécuniaires prononcées par les autorités compétentes des Etats membres de l'Union européenne, conformément aux dispositions de la décision-cadre 2005/214/JAI du Conseil, du 24 février 2005, concernant l'application du principe de reconnaissance mutuelle aux sanctions pécuniaires, selon des modalités fixées par décret. Ce décret précise également les modalités d'application à ces sanctions des articles 707-2 et 749 à 762 du présent code, ainsi que les règles applicables à la transmission pour mise à exécution dans un Etat membre de l'Union européenne des sanctions pécuniaires prononcées par les autorités françaises.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="JORFTEXT000049775573" datesignatexte="2024-06-24" id="LEGIARTI000049776342" naturetexte="LOI" nortexte="ECOX2331114L" num="8" numtexte="2024-582" sens="cible" typelien="CITATION">LOI n°2024-582 du 24 juin 2024 - art. 8 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049775573" datesignatexte="2024-06-24" id="LEGIARTI000049776342" naturetexte="LOI" nortexte="ECOX2331114L" num="8" numtexte="2024-582" sens="cible" typelien="MODIFIE">LOI n°2024-582 du 24 juin 2024 - art. 8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577842" naturetexte="CODE" nortexte="" num="707" numtexte="" sens="cible" typelien="CONCORDE">CODE DE PROCEDURE PENALE - art. 707 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577842" naturetexte="CODE" nortexte="" num="707" numtexte="" sens="source" typelien="CONCORDANCE">CODE DE PROCEDURE PENALE - art. 707 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740538" naturetexte="CODE" nortexte="" num="706-160" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-160 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049778768" naturetexte="CODE" nortexte="" num="706-164" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-164 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577869" naturetexte="CODE" nortexte="" num="707-2" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 707-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006578218" naturetexte="CODE" nortexte="" num="749" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 749</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006515004" naturetexte="CODE" nortexte="" num="D48-12" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D48-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006515011" naturetexte="CODE" nortexte="" num="D48-18" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D48-18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006514998" naturetexte="CODE" nortexte="" num="D48-6" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D48-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000046855572" naturetexte="CODE" nortexte="" num="345-0 bis" numtexte="" sens="cible" typelien="CITATION">Code des douanes - art. 345-0 bis (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025244092" datesignatexte="2999-01-01" id="LEGIARTI000026127969" naturetexte="CODE" nortexte="" num="R162-1" numtexte="" sens="cible" typelien="CITATION">Code forestier (nouveau) - art. R162-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000034098688" naturetexte="CODE" nortexte="" num="133-4-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 133-4-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

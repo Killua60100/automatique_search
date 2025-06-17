@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006615833</ID>
+<ANCIEN_ID>RDAXXXXXXXX4X343AAAAXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/61/58/LEGIARTI000006615833.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>343</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1960-12-24</DATE_DEBUT>
+<DATE_FIN>2000-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2003-01-01" id="LEGISCTA000006099275">Titre XII : Contentieux</TITRE_TM>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2002-12-31" id="LEGISCTA000006122126">Chapitre II : Poursuites</TITRE_TM>
+<TM>
+<TITRE_TM debut="1960-12-24" fin="2000-01-01" id="LEGISCTA000006138903">Section 1 : Dispositions générales.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1960-12-24" etat="MODIFIE" fin="2000-01-01" id="LEGIARTI000006615833" num="343" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-12-31" etat="MODIFIE" fin="2004-10-01" id="LEGIARTI000006615834" num="343" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-10-01" etat="MODIFIE" fin="2011-01-01" id="LEGIARTI000006615835" num="343" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2011-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000023412161" num="343" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   1. L'action pour l'application des peines est exercée par le ministère public.<br/>
+<br/>   2. L'action pour l'application des sanctions fiscales est exercée par l'administration des douanes ; le ministère public peut l'exercer accessoirement à l'action publique.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000313949" datesignatexte="1960-12-23" id="JORFTEXT000000313949" naturetexte="LOI" nortexte="" num="" numtexte="60-1384" sens="source" typelien="MODIFICATION">Loi 60-1384 1960-12-23 art. 96 JORF 24 décembre 1960</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742218" naturetexte="CODE" nortexte="" num="28-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 28-1 (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Décret 48-1985 1948-12-08</LIEN>
+</LIENS>
+</ARTICLE>

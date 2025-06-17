@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006465887</ID>
+<ANCIEN_ID>PGAXXXXXXXX1X039L03AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/46/58/LEGIARTI000006465887.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L39-3</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1990-12-30</DATE_DEBUT>
+<DATE_FIN>1994-03-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070987" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des postes et des communications électroniques" debut="1962-03-14" fin="2999-01-01" id_txt="LEGITEXT000006070987">Code des postes et des communications électroniques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1962-03-14" fin="2999-01-01" id="LEGISCTA000006092423">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="2004-07-10" id="LEGISCTA000006118604">LIVRE II : Les télécommunications</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="2004-07-10" id="LEGISCTA000006136628">TITRE Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="1996-07-27" id="LEGISCTA000006150655">CHAPITRE III : Dispositions pénales.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006465887" num="L39-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1994-03-01" etat="ABROGE" fin="1996-07-27" id="LEGIARTI000006465888" num="L39-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2004-07-10" id="LEGIARTI000006465889" num="L39-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE_DIFF">
+<LIEN_ART debut="2004-07-10" etat="ABROGE_DIFF" fin="2026-06-13" id="LEGIARTI000006465890" num="L39-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2026-06-13" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741273" num="L39-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Sera puni d'une amende de 1 000 F à 250 000 F quiconque aura effectué ou fait effectuer une publicité interdite en application du quatrième alinéa de l'article L. 34-9. Le maximum de l'amende pourra être porté à 50 p. 100 du montant des dépenses consacrées à la publicité illégale. Le tribunal pourra ordonner la cessation de la publicité interdite aux frais du condamné.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des postes et télécommunications L34-9</LIEN>
+<LIEN cidtexte="JORFTEXT000000533747" datesignatexte="1990-12-29" id="LEGIARTI000006421041" naturetexte="LOI" nortexte="PTTX9000123L" num="1" numtexte="90-1170" sens="source" typelien="CREATION">Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990</LIEN>
+<LIEN cidtexte="LEGITEXT000006070762" datesignatexte="1962-03-12" id="LEGITEXT000006070762" naturetexte="DECRET" nortexte="" num="" numtexte="62-273" sens="source" typelien="CODIFICATION">Décret 62-273 1962-03-12</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000038889160" naturetexte="CODE" nortexte="" num="L39-10" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L39-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006465928" naturetexte="CODE" nortexte="" num="L39-3-1" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L39-3-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

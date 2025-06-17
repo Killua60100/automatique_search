@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000037817103</ID>
+<TITRE_TA>Titre Ier : Dispositions communes</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095881" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037822755" niv="2" url="/LEGI/SCTA/00/00/37/82/27/LEGISCTA000037822755.xml">Chapitre Ier : Principes et définitions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095898" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037822948" niv="2" url="/LEGI/SCTA/00/00/37/82/29/LEGISCTA000037822948.xml">Chapitre II : La Commission nationale de l'informatique et des libertés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095899" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037822911" niv="2" url="/LEGI/SCTA/00/00/37/82/29/LEGISCTA000037822911.xml">Chapitre III : Dispositions particulières relatives au numéro d'inscription des personnes au répertoire national d'identification des personnes physiques</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095900" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037822751" niv="2" url="/LEGI/SCTA/00/00/37/82/27/LEGISCTA000037822751.xml">Chapitre IV : Formalités préalables à la mise en oeuvre des traitements.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095901" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037822753" niv="2" url="/LEGI/SCTA/00/00/37/82/27/LEGISCTA000037822753.xml">Chapitre V : Obligations incombant aux responsables de traitements et droits des personnes</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006095902" debut="2019-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000037822803" niv="2" url="/LEGI/SCTA/00/00/37/82/28/LEGISCTA000037822803.xml">Chapitre VI : Dispositions pénales</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000886460" date_publi="1978-01-07" date_signature="1978-01-06" ministere="" nature="LOI" nor="" num="78-17" num_parution_jo="">
+<TITRE_TXT c_titre_court="LOI n° 78-17 du 6 janvier 1978" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000886460">LOI n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 78-17 du 6 janvier 1978" debut="1978-01-07" fin="2999-01-01" id_txt="LEGITEXT000006068624">Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

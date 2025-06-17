@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006841193</ID>
+<ANCIEN_ID>UFAXXXXXXXX1X330L01AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/84/11/LEGIARTI000006841193.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L330-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2001-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074228" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la route." debut="2001-05-27" fin="2999-01-01" id_txt="LEGITEXT000006074228">Code de la route</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006108686">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006129086">Livre 3 : Le véhicule</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-06-01" fin="2999-01-01" id="LEGISCTA000006143842">Titre 3 : Enregistrement et communication des informations relatives à la circulation des véhicules.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2001-06-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006841193" num="L330-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Il est procédé, dans les services de l'Etat et sous l'autorité et le contrôle du ministre de l'intérieur, à l'enregistrement de toutes informations concernant les pièces administratives exigées pour la circulation des véhicules ou affectant la disponibilité de ceux-ci. <br/>
+<br/>Ces informations peuvent faire l'objet de traitements automatisés, soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000886460" datesignatexte="1978-01-06" id="JORFTEXT000000886460" naturetexte="LOI" nortexte="" num="" numtexte="78-17" sens="source" typelien="CITATION">Loi n° 78-17 du 6 janvier 1978 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000218883" datesignatexte="2000-09-22" id="JORFTEXT000000218883" naturetexte="ORDONNANCE" nortexte="EQUX0000053R" num="" numtexte="2000-930" sens="source" typelien="CODIFICATION">Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000</LIEN>
+<LIEN cidtexte="JORFTEXT000000603464" datesignatexte="2003-06-12" id="JORFTEXT000000603464" naturetexte="LOI" nortexte="EQUX0200012L" num="" numtexte="2003-495" sens="source" typelien="CODIFICATION">Loi 2003-495 2003-06-12 art. 38 JORF 13 juin 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000020283692" datesignatexte="2009-02-10" id="LEGITEXT000020285356" naturetexte="ARRETE" nortexte="IOCA0902128A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 10 février 2009 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000037240545" datesignatexte="2018-07-20" id="LEGIARTI000037241483" naturetexte="DECRET" nortexte="INTS1805978D" num="2" numtexte="2018-644" sens="cible" typelien="CITATION">Décret n°2018-644 du 20 juillet 2018 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000047140961" datesignatexte="2023-02-14" id="LEGITEXT000047142569" naturetexte="DECRET" nortexte="JUSC2233486D" num="" numtexte="2023-97" sens="cible" typelien="CITATION">Décret n°2023-97 du 14 février 2023 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000047140961" datesignatexte="2023-02-14" id="LEGIARTI000047142608" naturetexte="DECRET" nortexte="JUSC2233486D" num="1" numtexte="2023-97" sens="cible" typelien="CITATION">Décret n°2023-97 du 14 février 2023 - art. 1 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000049486714" datesignatexte="2024-04-19" id="LEGITEXT000049488659" naturetexte="ARRETE" nortexte="TRET2319607A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 avril 2024 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049486714" datesignatexte="2024-04-19" id="LEGIARTI000049488689" naturetexte="ARRETE" nortexte="TRET2319607A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 avril 2024 - art. 3 (V)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875355" naturetexte="CODE" nortexte="" num="L30" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. L30 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074947" datesignatexte="2999-01-01" id="LEGIARTI000006875357" naturetexte="CODE" nortexte="" num="L31" numtexte="" sens="cible" typelien="CONCORDE">Code de la route - art. L31 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGITEXT000006074228" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code de la route L30 (al. 1 et 3), L31</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000039688586" naturetexte="CODE" nortexte="" num="L130-9-2" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L130-9-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000006841204" naturetexte="CODE" nortexte="" num="L330-6" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L330-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000037825635" naturetexte="CODE" nortexte="" num="L330-7" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L330-7 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000020541452" naturetexte="CODE" nortexte="" num="L330-8" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L330-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000035433309" naturetexte="CODE" nortexte="" num="R330-1" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R330-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000042724826" naturetexte="CODE" nortexte="" num="R330-11" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R330-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000006803554" naturetexte="CODE" nortexte="" num="L451-4" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. L451-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000037241637" naturetexte="CODE" nortexte="" num="R451-3" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. R451-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000048547711" naturetexte="CODE" nortexte="" num="R451-5" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. R451-5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070299" datesignatexte="2999-01-01" id="LEGIARTI000049919751" naturetexte="CODE" nortexte="" num="L2323-7-1" numtexte="" sens="cible" typelien="CITATION">Code général de la propriété des personnes publ... - art. L2323-7-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000049919622" naturetexte="CODE" nortexte="" num="L2333-87" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L2333-87 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000051740714" naturetexte="CODE" nortexte="" num="L562-8" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045236487" naturetexte="CODE" nortexte="" num="L773-43" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L773-43 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045236705" naturetexte="CODE" nortexte="" num="L774-43" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L774-43 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000050054148" naturetexte="CODE" nortexte="" num="L775-37" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L775-37 (V)</LIEN>
+</LIENS>
+</ARTICLE>

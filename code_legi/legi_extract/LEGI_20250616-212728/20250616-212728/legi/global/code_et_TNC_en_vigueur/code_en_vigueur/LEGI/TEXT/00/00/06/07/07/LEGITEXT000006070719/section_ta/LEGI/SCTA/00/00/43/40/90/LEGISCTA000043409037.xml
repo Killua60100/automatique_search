@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000043409037</ID>
+<TITRE_TA>Section 3 : Du viol, de l'inceste et des autres agressions sexuelles</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1998-06-18" id="LEGIARTI000006417675" num="222-22" origine="LEGI"/>
+<LIEN_ART debut="1998-06-18" etat="MODIFIE" fin="2006-04-05" id="LEGIARTI000006417676" num="222-22" origine="LEGI"/>
+<LIEN_ART debut="2006-04-05" etat="MODIFIE" fin="2010-07-11" id="LEGIARTI000006417677" num="222-22" origine="LEGI"/>
+<LIEN_ART debut="2010-07-11" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000022469961" num="222-22" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409030" num="222-22" origine="LEGI"/>
+<LIEN_ART debut="2010-02-10" etat="MODIFIE" fin="2018-08-06" id="LEGIARTI000021796921" num="222-22-1" origine="LEGI"/>
+<LIEN_ART debut="2018-08-06" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000037289542" num="222-22-1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409058" num="222-22-1" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000027807141" num="222-22-2" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409255" num="222-22-2" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043405007" num="222-22-3" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006181753" debut="1994-03-01" etat="MODIFIE" fin="2021-04-23" id="LEGISCTA000006181753" niv="6" url="/LEGI/SCTA/00/00/06/18/17/LEGISCTA000006181753.xml">Paragraphe 1 : Du viol</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006181753" debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000043409028" niv="6" url="/LEGI/SCTA/00/00/43/40/90/LEGISCTA000043409028.xml">Paragraphe 1 : Du viol et du viol incestueux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006181754" debut="1994-03-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006181754" niv="6" url="/LEGI/SCTA/00/00/06/18/17/LEGISCTA000006181754.xml">Paragraphe 2 : Des autres agressions sexuelles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006181755" debut="1994-03-01" etat="MODIFIE" fin="2010-02-10" id="LEGISCTA000006181755" niv="6" url="/LEGI/SCTA/00/00/06/18/17/LEGISCTA000006181755.xml">Paragraphe 3 : Du harcèlement sexuel.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006181755" debut="2010-02-10" etat="MODIFIE" fin="2018-08-06" id="LEGISCTA000021796919" niv="6" url="/LEGI/SCTA/00/00/21/79/69/LEGISCTA000021796919.xml">Paragraphe 3 : De l'inceste commis sur les mineurs</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006181755" debut="2018-08-06" etat="MODIFIE" fin="2021-04-23" id="LEGISCTA000037289532" niv="6" url="/LEGI/SCTA/00/00/37/28/95/LEGISCTA000037289532.xml">Paragraphe 3 : De l'inceste</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006181755" debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000043409022" niv="6" url="/LEGI/SCTA/00/00/43/40/90/LEGISCTA000043409022.xml">Paragraphe 3 : Dispositions communes aux viols et aux agressions sexuelles en cas d'inceste</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021796051" debut="2010-02-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021796946" niv="6" url="/LEGI/SCTA/00/00/21/79/69/LEGISCTA000021796946.xml">Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021796078" debut="2010-02-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021796940" niv="6" url="/LEGI/SCTA/00/00/21/79/69/LEGISCTA000021796940.xml">Paragraphe 5 : Responsabilité pénale des personnes morales</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

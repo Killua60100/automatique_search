@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165299</ID>
+<TITRE_TA>Section 1 bis : De la traite des êtres humains</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2007-11-21" id="LEGIARTI000006417840" num="225-4-1" origine="LEGI"/>
+<LIEN_ART debut="2007-11-21" etat="MODIFIE" fin="2013-08-07" id="LEGIARTI000006417841" num="225-4-1" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027811040" num="225-4-1" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006417842" num="225-4-2" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-08-07" id="LEGIARTI000024041206" num="225-4-2" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027811036" num="225-4-2" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417843" num="225-4-3" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417844" num="225-4-4" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417845" num="225-4-5" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006417846" num="225-4-6" origine="LEGI"/>
+<LIEN_ART debut="2009-05-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020630921" num="225-4-6" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006417847" num="225-4-7" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="ABROGE" fin="2006-01-24" id="LEGIARTI000006417848" num="225-4-8" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027811030" num="225-4-8" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000006417849" num="225-4-9" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742433" num="225-4-9" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006149830">Chapitre V : Des atteintes à la dignité de la personne</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

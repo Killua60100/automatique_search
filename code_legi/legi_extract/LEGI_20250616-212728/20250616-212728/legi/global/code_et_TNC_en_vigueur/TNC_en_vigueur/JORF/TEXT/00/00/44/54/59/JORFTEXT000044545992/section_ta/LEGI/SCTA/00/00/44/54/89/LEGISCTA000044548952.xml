@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000044548952</ID>
+<TITRE_TA>Chapitre V : Dispositions diverses</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2021-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044549031" num="14" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000044549033" num="15" origine="LEGI"/>
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000044549035" num="16" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000044545992" date_publi="2021-12-23" date_signature="2021-12-22" ministere="" nature="LOI" nor="JUSX2107763L" num="2021-1729" num_parution_jo="0298">
+<TITRE_TXT c_titre_court="LOI n°2021-1729 du 22 décembre 2021" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000044545992">LOI n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2021-1729 du 22 décembre 2021" debut="2021-12-24" fin="2999-01-01" id_txt="LEGITEXT000044548947">LOI n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire (1)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2021-12-24" fin="2999-01-01" id="LEGISCTA000044548961">Titre II : DISPOSITIONS AMÉLIORANT LE DÉROULEMENT DES PROCÉDURES PÉNALES</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

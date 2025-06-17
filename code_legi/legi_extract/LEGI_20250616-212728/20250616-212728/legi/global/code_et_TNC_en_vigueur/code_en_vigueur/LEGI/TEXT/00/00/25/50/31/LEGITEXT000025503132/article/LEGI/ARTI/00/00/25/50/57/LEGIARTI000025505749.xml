@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000025505749</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/25/50/57/LEGIARTI000025505749.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L324-4</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2012-05-01</DATE_DEBUT>
+<DATE_FIN>2020-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508079">LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2020-01-01" id="LEGISCTA000025507989">TITRE II : JEUX DE HASARD, CASINOS, LOTERIES</TITRE_TM>
+<TITRE_TM debut="2020-01-01" fin="2999-01-01" id="LEGISCTA000039182522">TITRE II : JEUX D'ARGENT ET DE HASARD, CASINOS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025507959">Chapitre IV : Dispositions pénales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2020-01-01" id="LEGISCTA000025507957">Section 1 : Jeux de hasard et casinos</TITRE_TM>
+<TITRE_TM debut="2020-01-01" fin="2999-01-01" id="LEGISCTA000039182749">Section 1 : Dispositions communes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000025505749" num="L324-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039182705" num="L324-4" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies à la présente section, à l'exception de celle définie au deuxième alinéa de l'article L. 324-1, encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines suivantes : <br/>1° Les peines mentionnées aux 1°, 4°, 8° et 9° de l'article 131-39 du code pénal ; <br/>2° L'interdiction, pour une durée de cinq ans au plus, de solliciter l'agrément prévu à l'article 21 de la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne ainsi que l'autorisation prévue à l'article L. 321-1 et, le cas échéant, le retrait d'un tel agrément ou autorisation si la personne morale en est titulaire au moment du jugement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000504703" datesignatexte="1983-07-12" id="LEGIARTI000022211731" naturetexte="LOI" nortexte="" num="4" numtexte="83-628" sens="source" typelien="CONCORDANCE">Loi n° 83-628 du 12 juillet 1983 - art. 4 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000022204510" datesignatexte="2010-05-12" id="JORFARTI000022204556" naturetexte="LOI" nortexte="BCFX0904879L" num="21" numtexte="2010-476" sens="source" typelien="CITATION">LOI n° 2010-476 du 12 mai 2010 - art. 21</LIEN>
+<LIEN cidtexte="JORFTEXT000025498645" datesignatexte="2012-03-12" id="JORFSCTA000025498822" naturetexte="ORDONNANCE" nortexte="IOCD1129997R" num="" numtexte="2012-351" sens="source" typelien="CREATION">Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417202" naturetexte="CODE" nortexte="" num="121-2" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 121-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417333" naturetexte="CODE" nortexte="" num="131-38" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-38</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417335" naturetexte="CODE" nortexte="" num="131-39" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-39</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000048568625" naturetexte="CODE" nortexte="" num="L321-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L321-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000044192098" naturetexte="CODE" nortexte="" num="L321-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L321-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039182552" naturetexte="CODE" nortexte="" num="L321-5" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L321-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039182585" naturetexte="CODE" nortexte="" num="L322-6" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L322-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505740" naturetexte="CODE" nortexte="" num="L324-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L324-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039170470" naturetexte="CODE" nortexte="" num="L324-15" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L324-15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000036648360" naturetexte="CODE" nortexte="" num="L344-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L344-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039183456" naturetexte="CODE" nortexte="" num="L344-4" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L344-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000036648372" naturetexte="CODE" nortexte="" num="L345-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L345-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000039183402" naturetexte="CODE" nortexte="" num="L346-2" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L346-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049531736" naturetexte="CODE" nortexte="" num="704" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 704 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741942" naturetexte="CODE" nortexte="" num="706-73-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73-1 (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe</LIEN>
+</LIENS>
+</ARTICLE>

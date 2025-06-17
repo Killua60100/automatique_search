@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006575882</ID>
+<ANCIEN_ID>PXXXXXXXXXX0198L000AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/57/58/LEGIARTI000006575882.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>198</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1959-03-02</DATE_DEBUT>
+<DATE_FIN>1993-03-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2001-01-01" id="LEGISCTA000006151885">Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2001-01-01" id="LEGISCTA000006167453">Section 1 : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1959-03-02" etat="MODIFIE" fin="1993-03-01" id="LEGIARTI000006575882" num="198" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-03-01" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006575883" num="198" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2021-12-24" id="LEGIARTI000006575884" num="198" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2021-12-24" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000044569917" num="198" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743075" num="198" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les parties et leurs conseils sont admis jusqu'au jour de l'audience à produire des mémoires qu'ils communiquent au ministère public et aux autres parties. <br/>
+<br/>   Ces mémoires sont déposés au greffe de la chambre d'accusation et visés par le greffier avec l'indication du jour et de l'heure du dépôt.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000692469" datesignatexte="1957-12-31" id="JORFTEXT000000692469" naturetexte="LOI" nortexte="" num="" numtexte="57-1426" sens="source" typelien="CODIFICATION">Loi 57-1426 1957-12-31</LIEN>
+<LIEN cidtexte="JORFTEXT000000886583" datesignatexte="1958-12-22" id="JORFTEXT000000886583" naturetexte="ORDONNANCE" nortexte="" num="" numtexte="58-1273" sens="source" typelien="SPEC_APPLI">Ordonnance 58-1273 1958-12-22 art. 18</LIEN>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="LEGIARTI000006275777" naturetexte="ORDONNANCE" nortexte="" num="1" numtexte="58-1296" sens="source" typelien="MODIFICATION">Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959</LIEN>
+<LIEN cidtexte="JORFTEXT000000339261" datesignatexte="1958-12-23" id="JORFARTI000001696911" naturetexte="ORDONNANCE" nortexte="" num="10" numtexte="58-1296" sens="source" typelien="SPEC_APPLI">Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575688" naturetexte="CODE" nortexte="" num="145-1" numtexte="" sens="cible" typelien="CITATION">CODE DE PROCEDURE PENALE - art. 145-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000048441794" naturetexte="CODE" nortexte="" num="145-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 145-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006576006" naturetexte="CODE" nortexte="" num="209" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 209 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000043999585" naturetexte="CODE" nortexte="" num="D592" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. D592 (V)</LIEN>
+</LIENS>
+</ARTICLE>

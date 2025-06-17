@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006583169</ID>
+<ANCIEN_ID>RAAXXXXXXXX1X251L003XXAB</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/58/31/LEGIARTI000006583169.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L251-3</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2003-12-13</DATE_DEBUT>
+<DATE_FIN>2011-07-24</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071367" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code rural et de la pêche maritime" debut="2010-05-08" fin="2999-01-01" id_txt="LEGITEXT000022197698">Code rural et de la pêche maritime</TITRE_TXT>
+<TITRE_TXT c_titre_court="Code rural" debut="1979-12-01" fin="2010-05-08" id_txt="LEGITEXT000006071367">Code rural (nouveau)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1982-12-01" fin="2999-01-01" id="LEGISCTA000006098262">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2010-07-29" id="LEGISCTA000006121418">Livre II : Santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TITRE_TM debut="2010-07-29" fin="2999-01-01" id="LEGISCTA000022657339">Livre II : Alimentation, santé publique vétérinaire et protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006138324">Titre V : La protection des végétaux</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006152215">Chapitre Ier : La surveillance biologique du territoire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2019-12-14" id="LEGISCTA000006167717">Section 2 : Les mesures de protection contre les organismes nuisibles.</TITRE_TM>
+<TITRE_TM debut="2019-12-14" fin="2999-01-01" id="LEGISCTA000039329367">Section 2 : Les mesures de protection contre les organismes nuisibles aux végétaux</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2003-12-13" id="LEGIARTI000006583168" num="L251-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-12-13" etat="MODIFIE" fin="2011-07-24" id="LEGIARTI000006583169" num="L251-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-07-24" etat="MODIFIE" fin="2019-12-14" id="LEGIARTI000024396763" num="L251-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-12-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039329360" num="L251-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le ministre chargé de l'agriculture dresse la liste des organismes nuisibles contre lesquels la lutte est organisée dans les conditions qu'il fixe. Sont considérés comme des organismes nuisibles tous les ennemis des végétaux ou des produits végétaux, qu'ils appartiennent au règne animal ou végétal ou se présentent sous forme de virus, mycoplasmes ou autres agents pathogènes.<br/>
+<br/>   Cette liste est établie par arrêté après avis d'un comité consultatif de la protection des végétaux, dont la composition est fixée par arrêté.<br/>
+<br/>   Elle comprend :<br/>
+<br/>   1° Les organismes nuisibles contre lesquels la lutte est obligatoire en tous lieux de façon permanente ;<br/>
+<br/>   2° Les organismes nuisibles dont la pullulation peut présenter, à certains moments, un danger rendant nécessaires, dans un périmètre déterminé, des mesures particulières de défense.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000752257" datesignatexte="1997-12-19" id="LEGIARTI000050726142" naturetexte="DECRET" nortexte="EQUX9700145D" num="Annexe" numtexte="97-1198" sens="cible" typelien="CITATION">Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000422094" datesignatexte="2003-07-02" id="JORFTEXT000000422094" naturetexte="LOI" nortexte="FPPX0300014L" num="" numtexte="2003-591" sens="source" typelien="CODIFICATION">Loi 2003-591 2003-07-02 art. 31</LIEN>
+<LIEN cidtexte="JORFTEXT000000798916" datesignatexte="2003-12-11" id="LEGIARTI000006226197" naturetexte="ORDONNANCE" nortexte="AGRX0300158R" num="1" numtexte="2003-1187" sens="source" typelien="MODIFICATION">Ordonnance n°2003-1187 du 11 décembre 2003 - art. 1 () JORF 13 décembre 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000000279102" datesignatexte="2007-04-06" id="LEGIARTI000022388497" naturetexte="ARRETE" nortexte="AGRG0753551A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 6 avril 2007 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000019375783" datesignatexte="2008-07-31" id="LEGIARTI000022405209" naturetexte="ARRETE" nortexte="AGRG0819229A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 31 juillet 2008 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000019994822" datesignatexte="2008-12-22" id="LEGITEXT000020032298" naturetexte="ARRETE" nortexte="AGRG0831033A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 22 décembre 2008 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000025688480" datesignatexte="2012-04-12" id="LEGIARTI000025698385" naturetexte="ARRETE" nortexte="AGRT1209218A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 12 avril 2012 - art. 2 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000034455279" datesignatexte="2017-04-21" id="LEGIARTI000034457200" naturetexte="DECRET" nortexte="DEVL1704715D" num="1" numtexte="2017-595" sens="cible" typelien="CITATION">Décret n°2017-595 du 21 avril 2017 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000034603791" datesignatexte="2017-05-04" id="LEGIARTI000045074752" naturetexte="ARRETE" nortexte="AGRG1632554A" num="14-2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 mai 2017 - art. 14-2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034603791" datesignatexte="2017-05-04" id="LEGIARTI000043056136" naturetexte="ARRETE" nortexte="AGRG1632554A" num="14-4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 mai 2017 - art. 14-4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000038712163" datesignatexte="2019-06-25" id="LEGITEXT000038714093" naturetexte="ARRETE" nortexte="AGRG1917773A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 25 juin 2019 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000039686039" datesignatexte="2019-12-27" id="LEGIARTI000039800268" naturetexte="ARRETE" nortexte="AGRG1937165A" num="8" numtexte="" sens="cible" typelien="CITATION">Arrêté du 27 décembre 2019 - art. 8</LIEN>
+<LIEN cidtexte="JORFTEXT000041814759" datesignatexte="2020-04-16" id="LEGIARTI000041815932" naturetexte="ARRETE" nortexte="AGRG2009874A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 16 avril 2020 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000043023130" datesignatexte="2021-01-15" id="LEGIARTI000043054955" naturetexte="ARRETE" nortexte="TREL2020679A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 15 janvier 2021 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000045358762" datesignatexte="2022-03-11" id="LEGITEXT000045360813" naturetexte="ARRETE" nortexte="AGRG2136410A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 11 mars 2022 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045358752" datesignatexte="2022-03-11" id="LEGIARTI000045360360" naturetexte="ARRETE" nortexte="AGRG2135065A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 11 mars 2022 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051540292" datesignatexte="2025-04-28" id="LEGITEXT000051548126" naturetexte="ARRETE" nortexte="AGRG2512685A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 avril 2025 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051582401" datesignatexte="2025-05-09" id="LEGITEXT000051584598" naturetexte="ARRETE" nortexte="AGRG2513514A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 9 mai 2025 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000025267807" naturetexte="CODE" nortexte="" num="R411-36" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. R*411-36 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000034479452" naturetexte="CODE" nortexte="" num="R411-34" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. R411-34 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000006588411" naturetexte="CODE" nortexte="" num="D251-1" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D251-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000046864671" naturetexte="CODE" nortexte="" num="D614-54" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D614-54 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000046864551" naturetexte="CODE" nortexte="" num="D614-6" numtexte="" sens="cible" typelien="CITATION">Code rural - art. D614-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000024373556" naturetexte="CODE" nortexte="" num="L253-8" numtexte="" sens="cible" typelien="CITATION">Code rural - art. L253-8 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000017868828" naturetexte="CODE" nortexte="" num="L272-4" numtexte="" sens="cible" typelien="CITATION">Code rural - art. L272-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000018047910" naturetexte="CODE" nortexte="" num="L632-3" numtexte="" sens="cible" typelien="CITATION">Code rural - art. L632-3 (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code rural L951-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039503475" naturetexte="CODE" nortexte="" num="D200-2" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D200-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000035416870" naturetexte="CODE" nortexte="" num="D251-1-1" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D251-1-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000026121628" naturetexte="CODE" nortexte="" num="D251-2" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D251-2 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044233233" naturetexte="CODE" nortexte="" num="L201-1" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L201-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044233170" naturetexte="CODE" nortexte="" num="L201-14" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L201-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044233217" naturetexte="CODE" nortexte="" num="L201-4" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L201-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000044233198" naturetexte="CODE" nortexte="" num="L201-7" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L201-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000024396722" naturetexte="CODE" nortexte="" num="L251-12" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-12 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039329473" naturetexte="CODE" nortexte="" num="L251-14" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-14 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000051737486" naturetexte="CODE" nortexte="" num="L251-20" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000032359922" naturetexte="CODE" nortexte="" num="L251-4" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-4 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000030680067" naturetexte="CODE" nortexte="" num="L251-7" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000029595110" naturetexte="CODE" nortexte="" num="L251-8" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-8 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039329399" naturetexte="CODE" nortexte="" num="L251-9" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L251-9 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000022200525" naturetexte="CODE" nortexte="" num="L252-4" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L252-4 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000034243994" naturetexte="CODE" nortexte="" num="L253-7" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L253-7 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039304134" naturetexte="CODE" nortexte="" num="L254-6-2" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L254-6-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039329636" naturetexte="CODE" nortexte="" num="L271-7" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L271-7 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000024025992" naturetexte="CODE" nortexte="" num="L272-2" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. L272-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000039503561" naturetexte="CODE" nortexte="" num="R251-9" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R251-9 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000036457111" naturetexte="CODE" nortexte="" num="R661-43" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. R661-43 (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance 2000-550 2000-06-22</LIEN>
+</LIENS>
+</ARTICLE>

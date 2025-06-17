@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000027619790</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/27/61/97/LEGITEXT000027619790.xml</URL>
+<NATURE>ORDONNANCE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000027617519</CID>
+<NUM>2013-544</NUM>
+<NUM_PARUTION>0148</NUM_PARUTION>
+<NUM_SEQUENCE>9</NUM_SEQUENCE>
+<NOR>EFIT1309910R</NOR>
+<DATE_PUBLI>2013-06-28</DATE_PUBLI>
+<DATE_TEXTE>2013-06-27</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2014-01-04</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0148 du 28 juin 2013</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI>10682</PAGE_DEB_PUBLI>
+<PAGE_FIN_PUBLI>10696</PAGE_FIN_PUBLI>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Ordonnance n°2013-544
+ du 27 juin 2013</TITRE>
+<TITREFULL>Ordonnance n° 2013-544 du 27 juin 2013 relative aux établissements de crédit et aux sociétés de financement</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2014-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000888671" datesignatexte="1952-03-24" id="JORFTEXT000000888671" naturetexte="LOI" nortexte="" num="" numtexte="52-332" sens="source" typelien="CITATION">Loi n° 52-332 du 24 mars 1952 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000684031" datesignatexte="1961-07-29" id="JORFTEXT000000684031" naturetexte="LOI" nortexte="" num="" numtexte="61-814" sens="source" typelien="CITATION">Loi n° 61-814 du 29 juillet 1961 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000880200" datesignatexte="1965-07-10" id="JORFTEXT000000880200" naturetexte="LOI" nortexte="" num="" numtexte="65-557" sens="source" typelien="CITATION">Loi n° 65-557 du 10 juillet 1965 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000512228" datesignatexte="1970-01-02" id="JORFTEXT000000512228" naturetexte="LOI" nortexte="" num="" numtexte="70-9" sens="source" typelien="CITATION">Loi n° 70-9 du 2 janvier 1970 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000508793" datesignatexte="1971-12-31" id="JORFTEXT000000508793" naturetexte="LOI" nortexte="" num="" numtexte="71-1130" sens="source" typelien="CITATION">Loi n° 71-1130 du 31 décembre 1971 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000886346" datesignatexte="1978-01-02" id="JORFTEXT000000886346" naturetexte="LOI" nortexte="" num="" numtexte="78-1" sens="source" typelien="CITATION">Loi n° 78-1 du 2 janvier 1978 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000878050" datesignatexte="1984-07-12" id="JORFTEXT000000878050" naturetexte="LOI" nortexte="" num="" numtexte="84-595" sens="source" typelien="CITATION">Loi n° 84-595 du 12 juillet 1984 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000317307" datesignatexte="1986-01-06" id="JORFTEXT000000317307" naturetexte="LOI" nortexte="" num="" numtexte="86-18" sens="source" typelien="CITATION">Loi n° 86-18 du 6 janvier 1986 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000874247" datesignatexte="1986-12-23" id="JORFTEXT000000874247" naturetexte="LOI" nortexte="" num="" numtexte="86-1290" sens="source" typelien="CITATION">Loi n° 86-1290 du 23 décembre 1986 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000508818" datesignatexte="1987-07-16" id="JORFTEXT000000508818" naturetexte="LOI" nortexte="SERX8700099L" num="" numtexte="87-549" sens="source" typelien="CITATION">Loi n° 87-549 du 16 juillet 1987 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000563529" datesignatexte="1996-12-30" id="JORFTEXT000000563529" naturetexte="LOI" nortexte="LOGX9600119L" num="" numtexte="96-1237" sens="source" typelien="CITATION">Loi n° 96-1237 du 30 décembre 1996 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000393606" datesignatexte="1999-03-19" id="JORFTEXT000000393606" naturetexte="LOI" nortexte="INTX9800159L" num="" numtexte="99-209" sens="source" typelien="CITATION">Loi organique n° 99-209 du 19 mars 1999 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000221337" datesignatexte="2001-01-17" id="JORFTEXT000000221337" naturetexte="LOI" nortexte="MCCX9900003L" num="" numtexte="2001-44" sens="source" typelien="CITATION">Loi n° 2001-44 du 17 janvier 2001 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000429346" datesignatexte="2003-12-30" id="JORFTEXT000000429346" naturetexte="LOI" nortexte="ECOX0300167L" num="" numtexte="2003-1312" sens="source" typelien="CITATION">Loi n° 2003-1312 du 30 décembre 2003 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000435515" datesignatexte="2004-02-27" id="JORFTEXT000000435515" naturetexte="LOI" nortexte="DOMX0300085L" num="" numtexte="2004-192" sens="source" typelien="CITATION">Loi organique n° 2004-192 du 27 février 2004 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000789373" datesignatexte="2004-12-30" id="JORFTEXT000000789373" naturetexte="LOI" nortexte="ECOX0400222L" num="" numtexte="2004-1484" sens="source" typelien="CITATION">Loi n° 2004-1484 du 30 décembre 2004 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000806166" datesignatexte="2005-01-18" id="JORFTEXT000000806166" naturetexte="LOI" nortexte="SOCX0400145L" num="" numtexte="2005-32" sens="source" typelien="CITATION">Loi n° 2005-32 du 18 janvier 2005 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000813882" datesignatexte="2005-12-30" id="JORFTEXT000000813882" naturetexte="LOI" nortexte="ECOX0500273L" num="" numtexte="2005-1720" sens="source" typelien="CITATION">Loi n° 2005-1720 du 30 décembre 2005 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000817095" datesignatexte="2006-12-21" id="JORFTEXT000000817095" naturetexte="LOI" nortexte="SANX0600163L" num="" numtexte="2006-1640" sens="source" typelien="CITATION">Loi n° 2006-1640 du 21 décembre 2006 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000020215123" datesignatexte="2009-02-04" id="JORFTEXT000020215123" naturetexte="LOI" nortexte="BCFX0829886L" num="" numtexte="2009-122" sens="source" typelien="CITATION">LOI n° 2009-122 du 4 février 2009 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000023310845" datesignatexte="2010-12-28" id="JORFTEXT000023310845" naturetexte="LOI" nortexte="BCRX1020489L" num="" numtexte="2010-1645" sens="source" typelien="CITATION">LOI n° 2010-1645 du 28 décembre 2010 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000025044460" datesignatexte="2011-12-28" id="JORFTEXT000025044460" naturetexte="LOI" nortexte="BCRX1125684L" num="" numtexte="2011-1977" sens="source" typelien="CITATION">LOI n°2011-1977 du 28 décembre 2011 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026871127" datesignatexte="2012-12-31" id="JORFTEXT000026871127" naturetexte="LOI" nortexte="EFIX1235147L" num="" numtexte="2012-1559" sens="source" typelien="CITATION">LOI n°2012-1559 du 31 décembre 2012 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000028424785" datesignatexte="2014-01-02" id="LEGIARTI000028426535" naturetexte="LOI" nortexte="EFIX1320236L" num="18" numtexte="2014-1" sens="source" typelien="RATIFICATION">LOI n°2014-1&#13;
+ du 2 janvier 2014 - art. 18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGITEXT000005634379" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de commerce (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGITEXT000006069565" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la consommation (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGITEXT000006069577" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général des impôts, CGI. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGITEXT000006069583" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Livre des procédures fiscales (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGITEXT000006070633" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070721" datesignatexte="2999-01-01" id="LEGITEXT000006070721" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code civil (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGITEXT000006072026" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code monétaire et financier (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGITEXT000006072050" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGITEXT000006072665" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la santé publique (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGITEXT000006073189" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGITEXT000006073984" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des assurances (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074067" datesignatexte="2999-01-01" id="LEGITEXT000006074067" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la mutualité (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074073" datesignatexte="2999-01-01" id="LEGITEXT000006074073" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du tourisme. (V)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">code de la construction et de l'habitation</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">code des communes de la Nouvelle-Calédonie</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">code rural</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/> Le Président de la République,<br/> Sur le rapport du Premier ministre et du ministre de l'économie et des finances,<br/> Vu la Constitution, notamment son article 38 ;<br/> Vu la directive 2006/48/CE du Parlement européen et du Conseil du 14 juin 2006 concernant l'accès à l'activité des établissements de crédit et son exercice ;<br/> Vu la loi organique n° 99-209 du 19 mars 1999 modifiée relative à la Nouvelle-Calédonie ;<br/> Vu la loi organique n° 2004-192 du 27 février 2004 modifiée portant statut d'autonomie de la Polynésie française ;<br/> Vu le code des assurances ;<br/> Vu le code du cinéma et de l'image animée ;<br/> Vu le code civil ;<br/> Vu le code de commerce ;<br/> Vu le code des communes de la Nouvelle-Calédonie ;<br/> Vu le code de la consommation ;<br/> Vu le code de la construction et de l'habitation ;<br/> Vu le code général des collectivités territoriales ;<br/> Vu le code général des impôts ;<br/> Vu le code monétaire et financier ;<br/> Vu le code de la mutualité ;<br/> Vu le livre des procédures fiscales ;<br/> Vu le code rural et de la pêche maritime ;<br/> Vu le code de la sécurité sociale ;<br/> Vu le code de la santé publique ;<br/> Vu le code du tourisme ;<br/> Vu le code du travail ;<br/> Vu la loi n° 52-332 du 24 mars 1952 modifiée relative aux entreprises de crédit différé ;<br/> Vu la loi n° 61-814 du 29 juillet 1961 modifiée conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer ;<br/> Vu la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis ;<br/> Vu la loi n° 70-9 du 2 janvier 1970 modifiée réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce ;<br/> Vu la loi n° 71-1130 du 31 décembre 1971 modifiée portant réforme de certaines professions judiciaires et juridiques ;<br/> Vu la loi n° 78-1 du 2 janvier 1978 modifiée relative à l'indemnisation des Français rapatriés d'outre-mer dépossédés de leurs biens ;<br/> Vu la loi n° 84-595 du 12 juillet 1984 modifiée définissant la location-accession à la propriété immobilière ;<br/> Vu la loi n° 86-18 du 6 janvier 1986 modifiée relative aux sociétés d'attribution d'immeubles en jouissance à temps partagé ;<br/> Vu la loi n° 86-1290 du 23 décembre 1986 modifiée tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière ;<br/> Vu la loi n° 87-549 du 16 juillet 1987 modifiée relative au règlement de l'indemnisation des rapatriés ;<br/> Vu la loi n° 96-1237 du 30 décembre 1996 modifiée relative à l'Union d'économie sociale du logement ;<br/> Vu la loi n° 2001-44 du 17 janvier 2001 modifiée relative à l'archéologie préventive ;<br/> Vu la loi n° 2003-1312 du 30 décembre 2003 modifiée de finances rectificative pour 2003 ;<br/> Vu la loi n° 2004-1484 du 30 décembre 2004 modifiée de finances pour 2005 ;<br/> Vu la loi n° 2005-32 du 18 janvier 2005 modifiée de programmation pour la cohésion sociale ;<br/> Vu la loi n° 2005-1720 du 30 décembre 2005 modifiée de finances rectificative pour 2005 ;<br/> Vu la loi n° 2006-1640 du 21 décembre 2006 modifiée de financement de la sécurité sociale pour 2007 ;<br/> Vu la loi n° 2009-122 du 4 février 2009 modifiée de finances rectificative pour 2009 ;<br/> Vu la loi n° 2010-1645 du 28 décembre 2010 de programmation des finances publiques pour les années 2011 à 2014 ;<br/> Vu la loi n° 2011-1977 du 28 décembre 2011 modifiée de finances pour 2012 ;<br/> Vu la loi n° 2012-1559 du 31 décembre 2012 relative à la création de la Banque publique d'investissement, notamment son article 19 ;<br/> Vu l'avis de la Banque centrale européenne en date du 24 mai 2013 ;<br/> Vu la saisine de l'assemblée de la Polynésie française en date du 21 mai 2013 ;<br/> Vu la saisine de l'assemblée territoriale des îles Wallis et Futuna en date du 22 mai 2013 ;<br/> Vu l'avis du congrès de la Nouvelle-Calédonie en date du 13 juin 2013 ;<br/> Vu l'avis du comité consultatif de la législation et de la réglementation financières en date du 24 avril 2013 ;<br/> Vu l'avis du Conseil supérieur de la mutualité en date du 13 juin 2013 ;<br/> Le Conseil d'Etat (section des finances) entendu ;<br/> Le conseil des ministres entendu,<br/> Ordonne :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p> Fait le 27 juin 2013.</p>
+</div>
+<div align="center">
+<p>François Hollande  </p>
+</div>
+<div align="left">
+<p>   Par le Président de la République :</p>
+</div>
+<div align="center">
+<p>Le Premier ministre,</p>
+<p>Jean-Marc Ayrault</p>
+<p>Le ministre de l'économie et des finances,</p>
+<p>Pierre Moscovici</p>
+<p>La garde des sceaux,</p>
+<p>ministre de la justice,</p>
+<p>Christiane Taubira</p>
+<p>Le ministre des outre-mer,</p>
+<p>Victorin Lurel</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU>L'ordonnance n° 2013-544 du 27 juin 2013 est ratifiée par l'article 18 I de la loi n° 2014-1 du 2 janvier 2014. </CONTENU>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006157597</ID>
+<TITRE_TA>Chapitre Ier : Dispositions générales.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2000-12-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006797039" num="L241-1" origine="LEGI"/>
+<LIEN_ART debut="2000-12-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006797040" num="L241-2" origine="LEGI"/>
+<LIEN_ART debut="2000-12-23" etat="MODIFIE" fin="2005-02-12" id="LEGIARTI000006797041" num="L241-3" origine="LEGI"/>
+<LIEN_ART debut="2005-02-12" etat="MODIFIE" fin="2005-05-14" id="LEGIARTI000006797042" num="L241-3" origine="LEGI"/>
+<LIEN_ART debut="2005-05-14" etat="MODIFIE" fin="2015-12-30" id="LEGIARTI000006797043" num="L241-3" origine="LEGI"/>
+<LIEN_ART debut="2015-12-30" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000031727809" num="L241-3" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000033975697" num="L241-3" origine="LEGI"/>
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045293413" num="L241-3" origine="LEGI"/>
+<LIEN_ART debut="2005-02-12" etat="ABROGE" fin="2017-01-01" id="LEGIARTI000006797045" num="L241-3-1" origine="LEGI"/>
+<LIEN_ART debut="2002-01-18" etat="MODIFIE" fin="2005-02-12" id="LEGIARTI000006797044" num="L241-3-1" origine="LEGI"/>
+<LIEN_ART debut="2005-02-12" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006797047" num="L241-3-2" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2015-05-18" id="LEGIARTI000024025838" num="L241-3-2" origine="LEGI"/>
+<LIEN_ART debut="2015-05-18" etat="MODIFIE" fin="2015-12-30" id="LEGIARTI000030372341" num="L241-3-2" origine="LEGI"/>
+<LIEN_ART debut="2015-12-30" etat="ABROGE" fin="2017-01-01" id="LEGIARTI000031727805" num="L241-3-2" origine="LEGI"/>
+<LIEN_ART debut="2002-01-18" etat="MODIFIE" fin="2005-02-12" id="LEGIARTI000006797046" num="L241-3-2" origine="LEGI"/>
+<LIEN_ART debut="2000-12-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006797048" num="L241-4" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074069" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'action sociale et des familles" debut="2000-12-23" fin="2999-01-01" id_txt="LEGITEXT000006074069">Code de l'action sociale et des familles</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-12-23" fin="2999-01-01" id="LEGISCTA000006107980">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-12-23" fin="2999-01-01" id="LEGISCTA000006128458">Livre II : Différentes formes d'aide et d'action sociales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-12-23" fin="2999-01-01" id="LEGISCTA000006142839">Titre IV : Personnes handicapées</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

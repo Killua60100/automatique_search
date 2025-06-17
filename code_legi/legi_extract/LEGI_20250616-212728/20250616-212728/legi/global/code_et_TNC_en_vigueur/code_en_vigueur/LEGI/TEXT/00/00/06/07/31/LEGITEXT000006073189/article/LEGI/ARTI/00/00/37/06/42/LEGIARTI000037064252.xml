@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000037064252</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/37/06/42/LEGIARTI000037064252.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L182-4</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2018-06-14</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073189" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité sociale." debut="1958-10-16" fin="2999-01-01" id_txt="LEGITEXT000006073189">Code de la sécurité sociale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006106050">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006126885">Livre I : Généralités - Dispositions communes à tout ou partie des régimes de base</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-04-25" fin="2999-01-01" id="LEGISCTA000006141607">Titre VIII : Dispositions diverses - Dispositions d'application</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-08-17" fin="2999-01-01" id="LEGISCTA000006156038">Chapitre 2 bis : Union nationale des caisses d'assurance maladie - Union nationale des organismes d'assurance maladie complémentaire - Union nationale des professionnels de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-08-17" fin="2999-01-01" id="LEGISCTA000006172910">Section 3 : Union nationale des professionnels de santé</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1993-01-01" etat="ABROGE" fin="2000-01-01" id="LEGIARTI000006740975" num="L182-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-08-17" etat="MODIFIE" fin="2005-12-20" id="LEGIARTI000006740976" num="L182-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-12-20" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000006740977" num="L182-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2018-06-14" id="LEGIARTI000032181983" num="L182-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2018-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037064252" num="L182-4" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>L'Union nationale des professionnels de santé regroupe des représentants de l'ensemble des professions de santé libérales mentionnées au titre VI du présent livre. Sa composition, qui prend en compte les effectifs des professions concernées, est fixée par décret en Conseil d'Etat. </p>
+<p>L'Union nationale des professionnels de santé émet des avis sur les propositions de décisions de l'Union nationale des caisses d'assurance maladie prises en application des articles L. 160-13, L. 160-14 et L. 160-15, à l'exception de la décision mentionnée au troisième alinéa du I de l'article L. 160-13. </p>
+<p>L'Union nationale des professionnels de santé examine annuellement un programme annuel de concertation avec l'Union nationale des caisses d'assurance maladie et l'Union nationale des organismes d'assurance maladie complémentaire. </p>
+<p>L'Union nationale des professionnels de santé reçoit une contribution à son fonctionnement de la Caisse nationale de l'assurance maladie. Le montant de cette contribution est défini par l'accord mentionné à l'article L. 162-1-13 ou, à défaut, par arrêté du ministre chargé de la sécurité sociale.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="JORFTEXT000020592092" datesignatexte="2009-04-29" id="LEGIARTI000020594439" naturetexte="ARRETE" nortexte="SASS0909227A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 29 avril 2009 - art. 1 (V)</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000037051001" datesignatexte="2018-06-12" id="LEGIARTI000037051658" naturetexte="ORDONNANCE" nortexte="SSAS1810700R" num="9" numtexte="2018-470" sens="cible" typelien="MODIFIE">Ordonnance n°2018-470 du 12 juin 2018 - art. 9</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000051737881" naturetexte="CODE" nortexte="" num="D114-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D114-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000031670012" naturetexte="CODE" nortexte="" num="L160-13" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L160-13</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000031670469" naturetexte="CODE" nortexte="" num="L160-14" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L160-14</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000031670111" naturetexte="CODE" nortexte="" num="L160-15" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L160-15</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006741323" naturetexte="CODE" nortexte="" num="L162-1-13" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L162-1-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000033714831" naturetexte="CODE" nortexte="" num="L221-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L221-1 (M)</LIEN>
+</LIENS>
+</ARTICLE>

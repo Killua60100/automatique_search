@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006167427</ID>
+<TITRE_TA>Section 7 : Du contrôle judiciaire et de la détention provisoire</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1993-09-02" etat="MODIFIE" fin="2000-06-16" id="LEGIARTI000006575605" num="137" origine="LEGI"/>
+<LIEN_ART debut="2000-06-16" etat="MODIFIE" fin="2009-11-26" id="LEGIARTI000006575606" num="137" origine="LEGI"/>
+<LIEN_ART debut="2009-11-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021331521" num="137" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="MODIFIE_MORT_NE" fin="2000-12-31" id="LEGIARTI000006575609" num="137-1" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2007-07-01" id="LEGIARTI000006575611" num="137-1" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE_MORT_NE" fin="2016-11-20" id="LEGIARTI000006575613" num="137-1" origine="LEGI"/>
+<LIEN_ART debut="2017-09-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033551641" num="137-1" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006575610" num="137-1" origine="LEGI"/>
+<LIEN_ART debut="2007-07-01" etat="MODIFIE" fin="2017-09-01" id="LEGIARTI000006575612" num="137-1" origine="LEGI"/>
+<LIEN_ART debut="2006-06-09" etat="MODIFIE" fin="2017-09-01" id="LEGIARTI000006575310" num="137-1-1" origine="LEGI"/>
+<LIEN_ART debut="2017-09-01" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000033459363" num="137-1-1" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2024-06-23" id="LEGIARTI000039279496" num="137-1-1" origine="LEGI"/>
+<LIEN_ART debut="2025-12-31" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000048442067" num="137-1-1" origine="LEGI"/>
+<LIEN_ART debut="2024-06-23" etat="ABROGE_DIFF" fin="2025-12-31" id="LEGIARTI000048447162" num="137-1-1" origine="LEGI"/>
+<LIEN_ART debut="2017-01-01" etat="MODIFIE_MORT_NE" fin="2016-11-20" id="LEGIARTI000006575312" num="137-2" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575311" num="137-2" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2019-06-01" id="LEGIARTI000006575313" num="137-3" origine="LEGI"/>
+<LIEN_ART debut="2019-06-01" etat="MODIFIE" fin="2021-12-24" id="LEGIARTI000038312144" num="137-3" origine="LEGI"/>
+<LIEN_ART debut="2021-12-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000044568233" num="137-3" origine="LEGI"/>
+<LIEN_ART debut="2007-07-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575317" num="137-4" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2007-07-01" id="LEGIARTI000006575316" num="137-4" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2002-09-10" id="LEGIARTI000006575314" num="137-4" origine="LEGI"/>
+<LIEN_ART debut="2002-09-10" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006575315" num="137-4" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="ABROGE" fin="2002-09-10" id="LEGIARTI000006575318" num="137-5" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006182889" debut="1971-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006182889" niv="6" url="/LEGI/SCTA/00/00/06/18/28/LEGISCTA000006182889.xml">Sous-section 1 : Du contrôle judiciaire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000021330868" debut="2009-11-26" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021331515" niv="6" url="/LEGI/SCTA/00/00/21/33/15/LEGISCTA000021331515.xml">Sous-section 2 : De l'assignation à résidence avec surveillance électronique</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006182890" debut="1993-03-01" etat="MODIFIE" fin="2009-11-26" id="LEGISCTA000006182890" niv="6" url="/LEGI/SCTA/00/00/06/18/28/LEGISCTA000006182890.xml">Sous-section 2 : De la détention provisoire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006182890" debut="2009-11-26" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021331519" niv="6" url="/LEGI/SCTA/00/00/21/33/15/LEGISCTA000021331519.xml">Sous-section 3 : De la détention provisoire</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006182924" debut="2000-12-31" etat="MODIFIE" fin="2009-11-26" id="LEGISCTA000006182924" niv="6" url="/LEGI/SCTA/00/00/06/18/29/LEGISCTA000006182924.xml">Sous-section 3 : De la réparation à raison d'une détention</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006182924" debut="2009-11-26" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021331517" niv="6" url="/LEGI/SCTA/00/00/21/33/15/LEGISCTA000021331517.xml">Sous-section 4 : De la réparation à raison d'une détention</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006182891" debut="1971-01-01" etat="ABROGE" fin="2001-12-16" id="LEGISCTA000006182891" niv="6" url="/LEGI/SCTA/00/00/06/18/28/LEGISCTA000006182891.xml">Sous-section 3 : De l'indemnisation à raison d'une détention provisoire</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151881">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

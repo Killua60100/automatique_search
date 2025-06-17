@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000020196772</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/20/19/67/LEGIARTI000020196772.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L562-11</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2009-02-01</DATE_DEBUT>
+<DATE_FIN>2017-07-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006123943">Livre V : Les prestataires de services</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-03-07" fin="2017-12-30" id="LEGISCTA000006140135">Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes et les loteries, jeux et paris prohibés</TITRE_TM>
+<TITRE_TM debut="2017-12-30" fin="2999-01-01" id="LEGISCTA000036365190">Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes, les loteries, jeux et paris prohibés et l'évasion et la fraude fiscales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-03-07" fin="2009-02-01" id="LEGISCTA000006154831">Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.</TITRE_TM>
+<TITRE_TM debut="2009-02-01" fin="2017-07-01" id="LEGISCTA000020196819">Chapitre II : Obligations relatives au gel des avoirs</TITRE_TM>
+<TITRE_TM debut="2017-07-01" fin="2999-01-01" id="LEGISCTA000033476000">Chapitre II : Dispositions relatives au gel des avoirs et à l'interdiction de mise à disposition</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-02-01" fin="2017-07-01" id="LEGISCTA000020196806">Section 3 : Dispositions communes</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-02-01" etat="MODIFIE" fin="2017-07-01" id="LEGIARTI000020196772" num="L562-11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-07-01" etat="MODIFIE" fin="2020-11-06" id="LEGIARTI000033475935" num="L562-11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-11-06" etat="MODIFIE" fin="2022-02-26" id="LEGIARTI000042498816" num="L562-11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-02-26" etat="MODIFIE" fin="2024-07-27" id="LEGIARTI000045250656" num="L562-11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-07-27" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000050053860" num="L562-11" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740680" num="L562-11" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent chapitre, notamment les conditions dans lesquelles les personnes mentionnées à l'article L. 561-2 sont tenues d'appliquer les mesures de gel ou d'interdiction de mouvement ou de transfert des fonds, instruments financiers et ressources économiques.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000574489" datesignatexte="2000-12-14" id="LEGITEXT000005630278" naturetexte="ORDONNANCE" nortexte="ECOX0000098R" num="" numtexte="2000-1223" sens="source" typelien="CODIFICATION">Ordonnance n° 2000-1223 du 14 décembre 2000 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000020176088" datesignatexte="2009-01-30" id="LEGIARTI000020178286" naturetexte="ORDONNANCE" nortexte="ECET0828284R" num="3" numtexte="2009-104" sens="cible" typelien="CREE">Ordonnance n°2009-104
+ du 30 janvier 2009 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000042992976" datesignatexte="2021-01-06" id="LEGIARTI000043053353" naturetexte="ARRETE" nortexte="ECOT2100415A" num="12" numtexte="" sens="cible" typelien="CITATION">Arrêté du 6 janvier 2021 - art. 12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000020179037" naturetexte="CODE" nortexte="" num="L561-2" numtexte="" sens="source" typelien="CITATION">Code monétaire et financier - art. L561-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000044570494" naturetexte="CODE" nortexte="" num="L745-13" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L745-13 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000044570419" naturetexte="CODE" nortexte="" num="L755-13" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L755-13 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045236487" naturetexte="CODE" nortexte="" num="L773-43" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L773-43 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000045236705" naturetexte="CODE" nortexte="" num="L774-43" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L774-43 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000050054148" naturetexte="CODE" nortexte="" num="L775-37" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L775-37 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000043333010" naturetexte="CODE" nortexte="" num="R562-3" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R562-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000043333001" naturetexte="CODE" nortexte="" num="R562-6" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R562-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000036798511" naturetexte="CODE" nortexte="" num="R562-8" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R562-8 (V)</LIEN>
+</LIENS>
+</ARTICLE>

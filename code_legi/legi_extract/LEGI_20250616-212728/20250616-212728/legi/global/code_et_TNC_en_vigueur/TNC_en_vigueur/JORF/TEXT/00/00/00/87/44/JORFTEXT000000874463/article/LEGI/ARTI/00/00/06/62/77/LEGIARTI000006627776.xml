@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006627776</ID>
+<ANCIEN_ID>RIEAHXXXXXX006ABXXXXXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/62/77/LEGIARTI000006627776.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6-1</NUM>
+
+<ETAT>ABROGE</ETAT>
+
+<DATE_DEBUT>2004-03-10</DATE_DEBUT>
+<DATE_FIN>2004-12-21</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000874463" date_publi="1970-07-05" date_signature="1970-07-03" ministere="" nature="LOI" nor="" num="70-575" num_parution_jo="">
+<TITRE_TXT c_titre_court="Loi n°70-575 du 3 juillet 1970" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000874463">Loi n°70-575 du 3 juillet 1970 portant réforme du régime des poudres et substances explosives </TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 70-575 du 3 juillet 1970" debut="1970-07-05" fin="2999-01-01" id_txt="LEGITEXT000006068370">Loi n° 70-575 du 3 juillet 1970 portant réforme du régime des poudres et substances explosives</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2004-03-10" etat="ABROGE" fin="2004-12-21" id="LEGIARTI000006627776" num="6-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues à l'article 6 est réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser les agissements incriminés et d'identifier, le cas échéant, les autres auteurs ou complices.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000874463" datesignatexte="1970-07-03" id="LEGIARTI000006627772" naturetexte="LOI" nortexte="" num="6" numtexte="70-575" sens="source" typelien="CITATION">Loi n°70-575 du 3 juillet 1970 - art. 6 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000875452" datesignatexte="1970-09-23" id="LEGIARTI000019151811" naturetexte="DECRET" nortexte="" num="1" numtexte="70-876" sens="cible" typelien="CITATION">Décret n°70-876  du 23 septembre 1970  - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000249995" datesignatexte="2004-03-09" id="LEGIARTI000006494278" naturetexte="LOI" nortexte="JUSX0300028L" num="12" numtexte="2004-204" sens="source" typelien="CREATION">Loi n°2004-204 du 9 mars 2004 - art. 12 () JORF 10 mars 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000000238564" datesignatexte="2004-12-20" id="LEGIARTI000006236766" naturetexte="ORDONNANCE" nortexte="DEFX0400190R" num="5" numtexte="2004-1374" sens="source" typelien="ABROGATION">Ordonnance n°2004-1374 du 20 décembre 2004 - art. 5 (V) JORF 21 décembre 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000000238564" datesignatexte="2004-12-20" id="LEGIARTI000006236766" naturetexte="ORDONNANCE" nortexte="DEFX0400190R" num="5" numtexte="2004-1374" sens="cible" typelien="CITATION">Ordonnance n°2004-1374 du 20 décembre 2004 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000021354235" datesignatexte="2009-11-23" id="LEGIARTI000021355069" naturetexte="DECRET" nortexte="DEFD0903184D" num="3" numtexte="2009-1440" sens="cible" typelien="CITATION">Décret n°2009-1440
+ du 23 novembre 2009 - art. 3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540146" naturetexte="CODE" nortexte="" num="L2353-9" numtexte="" sens="cible" typelien="CONCORDANCE">Code de la défense. - art. L2353-9 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006540145" naturetexte="CODE" nortexte="" num="L2353-9" numtexte="" sens="source" typelien="CONCORDE">Code de la défense. - art. L2353-9 (M)</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006143741</ID>
+<TITRE_TA>Titre III : Parcs et réserves</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159239" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159239" niv="4" url="/LEGI/SCTA/00/00/06/15/92/LEGISCTA000006159239.xml">Chapitre Ier : Parcs nationaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159240" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159240" niv="4" url="/LEGI/SCTA/00/00/06/15/92/LEGISCTA000006159240.xml">Chapitre II : Réserves naturelles</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159241" debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006159241" niv="4" url="/LEGI/SCTA/00/00/06/15/92/LEGISCTA000006159241.xml">Chapitre III : Parcs naturels régionaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159242" debut="2006-04-15" etat="MODIFIE" fin="2017-01-01" id="LEGISCTA000006159242" niv="4" url="/LEGI/SCTA/00/00/06/15/92/LEGISCTA000006159242.xml">Chapitre IV : Agence des aires marines protégées et parcs naturels marins</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006159242" debut="2017-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033033910" niv="4" url="/LEGI/SCTA/00/00/33/03/39/LEGISCTA000033033910.xml">Chapitre IV : Aires marines protégées</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000019067363" debut="2008-06-27" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000019077257" niv="4" url="/LEGI/SCTA/00/00/19/07/72/LEGISCTA000019077257.xml">Chapitre V : Dispositions communes aux parcs nationaux et aux parcs naturels régionaux</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000033025687" debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033025690" niv="4" url="/LEGI/SCTA/00/00/33/02/56/LEGISCTA000033025690.xml">Chapitre VI : Réserves de biosphère et zones humides d'importance internationale</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074220" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'environnement" debut="2000-09-21" fin="2999-01-01" id_txt="LEGITEXT000006074220">Code de l'environnement</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006108630">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006129024">Livre III : Espaces naturels</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

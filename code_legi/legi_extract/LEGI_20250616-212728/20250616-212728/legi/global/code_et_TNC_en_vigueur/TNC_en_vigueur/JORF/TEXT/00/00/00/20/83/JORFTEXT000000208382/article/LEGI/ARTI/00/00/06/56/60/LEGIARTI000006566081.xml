@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006566081</ID>
+<ANCIEN_ID>PUHCOXXXXXX001AAXXXXXXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/56/60/LEGIARTI000006566081.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2006-06-29</DATE_DEBUT>
+<DATE_FIN>2011-11-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000208382" date_publi="2000-08-29" date_signature="2000-08-25" ministere="MINISTERE DE LA FONCTION PUBLIQUE ET DE LA REFORME DE L'ETAT" nature="DECRET" nor="FPPA0000085D" num="2000-815" num_parution_jo="0199">
+<TITRE_TXT c_titre_court="Décret n° 2000-815 du 25 août 2000" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000208382">Décret n° 2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°2000-815 du 25 août 2000" debut="2006-06-29" fin="2999-01-01" id_txt="LEGITEXT000005629863">Décret n°2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat et dans la magistrature.</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°2000-815 du 25 août 2000" debut="2002-01-01" fin="2006-06-29" id_txt="LEGITEXT000005629862">Décret n°2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat et dans la magistrature.</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-01-01" etat="MODIFIE" fin="2005-01-01" id="LEGIARTI000006566079" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-01-01" etat="MODIFIE" fin="2006-06-29" id="LEGIARTI000006566080" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2006-06-29" etat="MODIFIE" fin="2011-11-01" id="LEGIARTI000006566081" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-11-01" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000023953048" num="1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042560142" num="1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La durée du travail effectif est fixée à trente-cinq heures par semaine dans les services et établissements publics administratifs de l'Etat ainsi que dans les établissements publics locaux d'enseignement.<br/>
+<br/>   Le décompte du temps de travail est réalisé sur la base d'une durée annuelle de travail effectif de 1 607 heures maximum, sans préjudice des heures supplémentaires susceptibles d'être effectuées.<br/>
+<br/>   Cette durée annuelle peut être réduite, par arrêté du ministre intéressé, du ministre chargé de la fonction publique et du ministre chargé du budget, pris après avis du comité technique paritaire ministériel, et le cas échéant du comité d'hygiène et de sécurité, pour tenir compte des sujétions liées à la nature des missions et à la définition des cycles de travail qui en résultent, et notamment en cas de travail de nuit, de travail le dimanche, de travail en horaires décalés, de travail en équipes, de modulation importante du cycle de travail, ou de travaux pénibles ou dangereux.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000699367" datesignatexte="1984-02-13" id="LEGIARTI000006485091" naturetexte="DECRET" nortexte="" num="2" numtexte="84-105" sens="cible" typelien="CITATION">Décret n°84-105 du 13 février 1984 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000699956" datesignatexte="1986-01-17" id="LEGIARTI000050931381" naturetexte="DECRET" nortexte="" num="34" numtexte="86-83" sens="cible" typelien="CITATION">Décret n°86-83 du 17 janvier 1986 - art. 34 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000699956" datesignatexte="1986-01-17" id="LEGIARTI000028769979" naturetexte="DECRET" nortexte="" num="40-1" numtexte="86-83" sens="cible" typelien="CITATION">Décret n°86-83 du 17 janvier 1986 - art. 40-1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000528358" datesignatexte="1993-03-19" id="LEGIARTI000039661895" naturetexte="DECRET" nortexte="MENF9304670D" num="6" numtexte="93-412" sens="cible" typelien="CITATION">Décret n°93-412 du 19 mars 1993 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000208382" datesignatexte="2000-08-25" id="LEGIARTI000042560147" naturetexte="DECRET" nortexte="FPPA0000085D" num="4" numtexte="2000-815" sens="cible" typelien="CITATION">Décret n°2000-815 du 25 août 2000 - art. 4 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000006379399" naturetexte="DECRET" nortexte="FPPA0110004D" num="11" numtexte="2001-623" sens="cible" typelien="CITATION">Décret n°2001-623 du 12 juillet 2001 - art. 11 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000771308" datesignatexte="2001-07-12" id="LEGIARTI000043498477" naturetexte="DECRET" nortexte="FPPA0110004D" num="2" numtexte="2001-623" sens="cible" typelien="CITATION">Décret n°2001-623 du 12 juillet 2001 - art. 2 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000394515" datesignatexte="2001-09-12" id="LEGIARTI000021029190" naturetexte="ARRETE" nortexte="EQUA0101035A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 12 septembre 2001 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000214191" datesignatexte="2001-09-12" id="LEGIARTI000019654640" naturetexte="ARRETE" nortexte="EQUA0101034A" num="5" numtexte="" sens="cible" typelien="CITATION">Arrêté du 12 septembre 2001 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000775571" datesignatexte="2002-01-08" id="LEGIARTI000019702362" naturetexte="ARRETE" nortexte="MJSK0170212A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 janvier 2002 - art. 4 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000776163" datesignatexte="2002-01-15" id="LEGIARTI000006207501" naturetexte="DECRET" nortexte="RECF0100351D" num="3" numtexte="2002-69" sens="cible" typelien="CITATION">Décret n°2002-69 du 15 janvier 2002 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000398450" datesignatexte="2002-01-08" id="LEGIARTI000019425135" naturetexte="ARRETE" nortexte="EQUP0101914A" num="9" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 janvier 2002 - art. 9 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000226328" datesignatexte="2002-02-08" id="LEGIARTI000019594820" naturetexte="ARRETE" nortexte="ECOP0100527A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 février 2002 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000775576" datesignatexte="2002-02-08" id="LEGIARTI000006208051" naturetexte="DECRET" nortexte="ECOP0100525D" num="3" numtexte="2002-155" sens="cible" typelien="CITATION">Décret n°2002-155 du 8 février 2002 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000412417" datesignatexte="2002-05-03" id="LEGIARTI000019593098" naturetexte="ARRETE" nortexte="EQUP0200577A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 3 mai 2002 - art. 1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000412417" datesignatexte="2002-05-03" id="LEGIARTI000019593006" naturetexte="ARRETE" nortexte="EQUP0200577A" num="9" numtexte="" sens="cible" typelien="CITATION">Arrêté du 3 mai 2002 - art. 9 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000229473" datesignatexte="2002-05-03" id="LEGIARTI000043874267" naturetexte="DECRET" nortexte="MCCB0200327D" num="1" numtexte="2002-856" sens="cible" typelien="CITATION">Décret n°2002-856 du 3 mai 2002 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000599196" datesignatexte="2002-10-03" id="LEGIARTI000019591165" naturetexte="ARRETE" nortexte="EQUU0200973A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 3 octobre 2002 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000599196" datesignatexte="2002-10-03" id="LEGIARTI000019591166" naturetexte="ARRETE" nortexte="EQUU0200973A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 3 octobre 2002 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000411295" datesignatexte="2002-11-19" id="LEGIARTI000019593988" naturetexte="ARRETE" nortexte="EQUA0200434A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 novembre 2002 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000411295" datesignatexte="2002-11-19" id="LEGIARTI000019594052" naturetexte="ARRETE" nortexte="EQUA0200434A" num="6" numtexte="" sens="cible" typelien="CITATION">Arrêté du 19 novembre 2002 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000417442" datesignatexte="2003-01-14" id="LEGIARTI000019678388" naturetexte="ARRETE" nortexte="ECOP0300023A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 14 janvier 2003 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000602742" datesignatexte="2003-04-29" id="LEGIARTI000006218847" naturetexte="DECRET" nortexte="INTC0300055D" num="1" numtexte="2003-402" sens="cible" typelien="CITATION">Décret n°2003-402 du 29 avril 2003 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000412591" datesignatexte="2003-06-06" id="LEGIARTI000018576599" naturetexte="DECRET" nortexte="MENF0301099D" num="2" numtexte="2003-484" sens="cible" typelien="CITATION">Décret n°2003-484 du 6 juin 2003 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000239561" datesignatexte="2003-07-02" id="LEGIARTI000006220907" naturetexte="ARRETE" nortexte="EQUI0200467A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 juillet 2003 - art. 1 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000239561" datesignatexte="2003-07-02" id="LEGIARTI000006473992" naturetexte="ARRETE" nortexte="EQUI0200467A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 2 juillet 2003 - art. 4 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000431278" datesignatexte="2003-10-13" id="LEGIARTI000006226555" naturetexte="ARRETE" nortexte="EQUI0301297A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 13 octobre 2003 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000611945" datesignatexte="2003-12-26" id="LEGIARTI000029134991" naturetexte="DECRET" nortexte="FPPA0300175D" num="8" numtexte="2003-1306" sens="cible" typelien="CITATION">Décret n°2003-1306 du 26 décembre 2003 - art. 8 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000440905" datesignatexte="2004-10-05" id="LEGIARTI000047633211" naturetexte="DECRET" nortexte="ECOB0460009D" num="4" numtexte="2004-1056" sens="cible" typelien="CITATION">Décret n°2004-1056 du 5 octobre 2004 - art. 4 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000258249" datesignatexte="2004-11-26" id="LEGIARTI000006236454" naturetexte="DECRET" nortexte="FPPA0400099D" num="3" numtexte="2004-1307" sens="cible" typelien="CITATION">Décret n°2004-1307 du 26 novembre 2004 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000425700" datesignatexte="2006-06-27" id="LEGIARTI000006252390" naturetexte="DECRET" nortexte="JUSB0610318D" num="1" numtexte="2006-744" sens="source" typelien="MODIFICATION">Décret n°2006-744 du 27 juin 2006 - art. 1 () JORF 29 juin 2006</LIEN>
+<LIEN cidtexte="JORFTEXT000000464577" datesignatexte="2007-10-10" id="LEGIARTI000006268767" naturetexte="DECRET" nortexte="BCFP0764371D" num="3" numtexte="2007-1456" sens="cible" typelien="CITATION">Décret n°2007-1456 du 10 octobre 2007 - art. 3 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000021719831" datesignatexte="2010-01-20" id="LEGIARTI000021722063" naturetexte="DECRET" nortexte="JUSA0919164D" num="3" numtexte="2010-74" sens="cible" typelien="CITATION">Décret n°2010-74 du 20 janvier 2010 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000021989695" datesignatexte="2010-02-23" id="LEGIARTI000021991756" naturetexte="ARRETE" nortexte="DEVK1002121A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 23 février 2010 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000021989768" datesignatexte="2010-02-23" id="LEGIARTI000021991816" naturetexte="ARRETE" nortexte="DEVK1002124A" num="9" numtexte="" sens="cible" typelien="CITATION">Arrêté du 23 février 2010 - art. 9 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024080271" datesignatexte="2011-05-27" id="LEGIARTI000024082439" naturetexte="ARRETE" nortexte="PRMX1110564A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 27 mai 2011 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000024080271" datesignatexte="2011-05-27" id="LEGIARTI000024082424" naturetexte="ARRETE" nortexte="PRMX1110564A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 27 mai 2011 - art. 4 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000028658595" datesignatexte="2014-02-20" id="LEGITEXT000028659810" naturetexte="ARRETE" nortexte="INTC1404226A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 20 février 2014 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029147713" datesignatexte="2014-06-27" id="LEGIARTI000029165041" naturetexte="DECRET" nortexte="MENH1400612D" num="7" numtexte="2014-724" sens="cible" typelien="CITATION">DÉCRET n°2014-724 du 27 juin 2014 - art. 7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029405577" datesignatexte="2014-08-22" id="LEGIARTI000029407074" naturetexte="ARRETE" nortexte="DEVD1400262A" num="1" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 22 août 2014 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029948275" datesignatexte="2014-12-11" id="LEGIARTI000029950512" naturetexte="ARRETE" nortexte="MAEA1422840A" num="1" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 11 décembre 2014 - art. 1 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000031690520" datesignatexte="2015-12-23" id="LEGIARTI000031694075" naturetexte="DECRET" nortexte="OMES1529726D" num="1" numtexte="2015-1754" sens="cible" typelien="CITATION">Décret n°2015-1754 du 23 décembre 2015 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000031690520" datesignatexte="2015-12-23" id="LEGIARTI000031694083" naturetexte="DECRET" nortexte="OMES1529726D" num="5" numtexte="2015-1754" sens="cible" typelien="CITATION">Décret n°2015-1754 du 23 décembre 2015 - art. 5</LIEN>
+<LIEN cidtexte="JORFTEXT000032616243" datesignatexte="2016-05-30" id="LEGIARTI000049624857" naturetexte="ARRETE" nortexte="JUST1604927A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 30 mai 2016 - art. 2 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000033617053" datesignatexte="2016-12-08" id="LEGIARTI000033620718" naturetexte="ARRETE" nortexte="ETSR1636435A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 décembre 2016 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033759613" datesignatexte="2016-12-30" id="LEGIARTI000033841236" naturetexte="DECRET" nortexte="VJSR1636571D" num="2" numtexte="2016-2014" sens="cible" typelien="CITATION">Décret n°2016-2014 du 30 décembre 2016 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034675899" datesignatexte="2017-05-09" id="LEGIARTI000034776617" naturetexte="ARRETE" nortexte="MENH1710981A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 9 mai 2017 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000036012635" datesignatexte="2017-11-08" id="LEGIARTI000036016886" naturetexte="ARRETE" nortexte="MTRF1730347A" num="7" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 novembre 2017 - art. 7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000037218385" datesignatexte="2018-07-17" id="LEGIARTI000037219102" naturetexte="DECRET" nortexte="MENH1801934D" num="3" numtexte="2018-632" sens="cible" typelien="CITATION">Décret n°2018-632 du 17 juillet 2018 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000037324777" datesignatexte="2018-08-03" id="LEGIARTI000037328607" naturetexte="ARRETE" nortexte="TRAT1821932A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 3 août 2018 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000039079589" datesignatexte="2019-09-05" id="LEGITEXT000039082313" naturetexte="ARRETE" nortexte="INTC1921011A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 5 septembre 2019 (VD)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000043872124" datesignatexte="2021-07-28" id="LEGIARTI000043872733" naturetexte="DECRET" nortexte="MICB2118705D" num="2" numtexte="2021-995" sens="cible" typelien="CITATION">Décret n°2021-995 du 28 juillet 2021 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000043872393" datesignatexte="2021-07-28" id="LEGIARTI000043872705" naturetexte="DECRET" nortexte="TFPF2112604D" num="2" numtexte="2021-997" sens="cible" typelien="CITATION">Décret n°2021-997 du 28 juillet 2021 - art. 2</LIEN>
+
+<LIEN cidtexte="JORFTEXT000049393414" datesignatexte="2024-04-04" id="LEGITEXT000049396075" naturetexte="ARRETE" nortexte="TREK2332579A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 avril 2024 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049393414" datesignatexte="2024-04-04" id="LEGIARTI000049396091" naturetexte="ARRETE" nortexte="TREK2332579A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 avril 2024 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049621266" datesignatexte="2024-05-24" id="LEGIARTI000049623435" naturetexte="ARRETE" nortexte="JUST2413128A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 24 mai 2024 - art. 1</LIEN>
+
+<LIEN cidtexte="JORFTEXT000049925987" datesignatexte="2024-07-08" id="LEGIARTI000049945119" naturetexte="ARRETE" nortexte="TREA2417775A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 juillet 2024 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049925987" datesignatexte="2024-07-08" id="LEGIARTI000049945151" naturetexte="ARRETE" nortexte="TREA2417775A" num="32" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 juillet 2024 - art. 32 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049925987" datesignatexte="2024-07-08" id="LEGIARTI000049945209" naturetexte="ARRETE" nortexte="TREA2417775A" num="38" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 juillet 2024 - art. 38 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000049926143" datesignatexte="2024-07-08" id="LEGIARTI000049944263" naturetexte="ARRETE" nortexte="TREA2418023A" num="4" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 juillet 2024 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000050871060" datesignatexte="2024-12-30" id="LEGITEXT000050927689" naturetexte="ARRETE" nortexte="JUST2435380A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 30 décembre 2024 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051522856" datesignatexte="2025-04-16" id="LEGIARTI000051525142" naturetexte="ARRETE" nortexte="TECK2509740A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 16 avril 2025 - art. 2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071190" datesignatexte="2999-01-01" id="LEGIARTI000048771320" naturetexte="CODE" nortexte="" num="D412-3" numtexte="" sens="cible" typelien="CITATION">Code de la recherche - art. D412-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000051517324" naturetexte="CODE" nortexte="" num="D2573-8" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D2573-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397706" naturetexte="CODE" nortexte="" num="D4134-25" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D4134-25 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397709" naturetexte="CODE" nortexte="" num="D4134-28" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D4134-28 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397713" naturetexte="CODE" nortexte="" num="D4134-29" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D4134-29 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000031694706" naturetexte="CODE" nortexte="" num="D7124-30" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D7124-30 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000031695168" naturetexte="CODE" nortexte="" num="D7226-30" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D7226-30 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000046512886" naturetexte="CODE" nortexte="" num="D7226-33" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D7226-33 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006396896" naturetexte="CODE" nortexte="" num="R2123-10" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006396887" naturetexte="CODE" nortexte="" num="R2123-6" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006397981" naturetexte="CODE" nortexte="" num="R4135-5" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R4135-5 (V)</LIEN>
+</LIENS>
+</ARTICLE>

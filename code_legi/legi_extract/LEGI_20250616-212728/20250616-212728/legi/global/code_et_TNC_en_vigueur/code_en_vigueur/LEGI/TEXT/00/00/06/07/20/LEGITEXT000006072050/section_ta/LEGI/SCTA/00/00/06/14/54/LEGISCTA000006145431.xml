@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006145431</ID>
+<TITRE_TA>Livre II : Lutte contre le travail illégal</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006160847" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006160847" niv="4" url="/LEGI/SCTA/00/00/06/16/08/LEGISCTA000006160847.xml">Titre Ier : Définition</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006160848" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006160848" niv="4" url="/LEGI/SCTA/00/00/06/16/08/LEGISCTA000006160848.xml">Titre II : Travail dissimulé </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006160849" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006160849" niv="4" url="/LEGI/SCTA/00/00/06/16/08/LEGISCTA000006160849.xml">Titre III : Marchandage</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006160850" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006160850" niv="4" url="/LEGI/SCTA/00/00/06/16/08/LEGISCTA000006160850.xml">Titre IV : Prêt illicite de main-d'œuvre </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006160851" debut="2008-05-01" etat="MODIFIE" fin="2016-03-09" id="LEGISCTA000006160851" niv="4" url="/LEGI/SCTA/00/00/06/16/08/LEGISCTA000006160851.xml">Titre V : Emploi d'étrangers sans titre de travail</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006160851" debut="2016-03-09" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000032171355" niv="4" url="/LEGI/SCTA/00/00/32/17/13/LEGISCTA000032171355.xml">Titre V : Emploi d'étrangers non autorisés à travailler</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006160852" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006160852" niv="4" url="/LEGI/SCTA/00/00/06/16/08/LEGISCTA000006160852.xml">Titre VI : Cumuls irréguliers d'emplois</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006160853" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006160853" niv="4" url="/LEGI/SCTA/00/00/06/16/08/LEGISCTA000006160853.xml">Titre VII : Contrôle du travail illégal </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000029232664" debut="2014-07-12" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000029232664" niv="4" url="/LEGI/SCTA/00/00/29/23/26/LEGISCTA000029232664.xml">Titre VIII : Vigilance du donneur d'ordre en matière d'application de la législation du travail  </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000030996936" debut="2015-08-08" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000030996936" niv="4" url="/LEGI/SCTA/00/00/30/99/69/LEGISCTA000030996936.xml">Titre IX : Déclaration et carte d'identification professionnelle des salariés du bâtiment et des travaux publics  
+</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006112874">Partie législative  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006132351">Huitième partie : Contrôle de l'application de la législation du travail </TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

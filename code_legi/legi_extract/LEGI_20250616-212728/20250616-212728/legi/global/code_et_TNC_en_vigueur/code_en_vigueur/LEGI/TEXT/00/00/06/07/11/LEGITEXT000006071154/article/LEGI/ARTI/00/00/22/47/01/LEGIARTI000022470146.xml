@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000022470146</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/22/47/01/LEGIARTI000022470146.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>706-159</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2011-02-04</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-02-04" fin="2999-01-01" id="LEGISCTA000022470150">Titre XXX : De l'agence de gestion et de recouvrement des avoirs saisis et confisqués.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-02-04" fin="2999-01-01" id="LEGISCTA000022470148">Chapitre Ier : Des missions de l'agence &#13;
+&#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2011-02-04" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000022470146" num="706-159" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Loi n° 2010-768 du 9 juillet 2010 article 17 : Les dispositions relatives à l'Agence de gestion et de recouvrement des avoirs saisis et confisqués entrent en vigueur à compter de la publication du décret en Conseil d'État prévu à l'article 706-165 du code de procédure pénale (Décret n° 2011-134 du 1er février 2011).</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>L'Agence de gestion et de recouvrement des avoirs saisis et confisqués est un établissement public de l'Etat à caractère administratif placé sous la tutelle conjointe du ministre de la justice et du ministre chargé du budget. </CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000022453925" datesignatexte="2010-07-09" id="LEGIARTI000022455608" naturetexte="LOI" nortexte="JUSX0912931L" num="4" numtexte="2010-768" sens="cible" typelien="CREE">LOI n°2010-768
+ du 9 juillet 2010 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000028278976" datesignatexte="2013-12-06" id="LEGIARTI000028280679" naturetexte="LOI" nortexte="JUSX1310649L" num="24" numtexte="2013-1117" sens="cible" typelien="CITATION">LOI n° 2013-1117 du 6 décembre 2013 - art. 24 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000039683923" datesignatexte="2019-12-28" id="LEGIARTI000048838834" naturetexte="LOI" nortexte="CPAX1925229L" num="92" numtexte="2019-1479" sens="cible" typelien="CITATION">LOI n° 2019-1479 du 28 décembre 2019 - art. 92 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045757446" datesignatexte="2022-05-04" id="LEGIARTI000045761242" naturetexte="DECRET" nortexte="ECOE2207365D" num="1" numtexte="2022-783" sens="cible" typelien="CITATION">Décret n°2022-783 du 4 mai 2022 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000049775573" datesignatexte="2024-06-24" id="LEGIARTI000049776340" naturetexte="LOI" nortexte="ECOX2331114L" num="7" numtexte="2024-582" sens="cible" typelien="CITATION">LOI n°2024-582 du 24 juin 2024 - art. 7</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740505" naturetexte="CODE" nortexte="" num="41-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 41-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049778726" naturetexte="CODE" nortexte="" num="131-21" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-21 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000049635570" naturetexte="CODE" nortexte="" num="L166 FA" numtexte="" sens="cible" typelien="CITATION">Livre des procédures fiscales - art. L166 FA (V)</LIEN>
+</LIENS>
+</ARTICLE>

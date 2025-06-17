@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006494278</ID>
+<ANCIEN_ID>PJEFPXXXXXX012AAXXXXXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/49/42/LEGIARTI000006494278.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>12</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000249995" date_publi="2004-03-10" date_signature="2004-03-09" ministere="" nature="LOI" nor="JUSX0300028L" num="2004-204" num_parution_jo="0059">
+<TITRE_TXT c_titre_court="LOI n° 2004-204 du 9 mars 2004" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000249995">LOI n° 2004-204 du 9 mars 2004 portant adaptation de la justice aux évolutions de la criminalité (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 2004-204 du 9 mars 2004" debut="2004-03-10" fin="2999-01-01" id_txt="LEGITEXT000005765479">Loi n° 2004-204 du 9 mars 2004 portant adaptation de la justice aux évolutions de la criminalité (1).</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-03-10" fin="2999-01-01" id="LEGISCTA000006094171">TITRE Ier : DISPOSITIONS RELATIVES A LA LUTTE CONTRE LES FORMES NOUVELLES DE DELINQUANCE ET DE CRIMINALITE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="LEGISCTA000006119571">CHAPITRE Ier : Dispositions concernant la lutte contre la délinquance et la criminalité organisées</TITRE_TM>
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="LEGISCTA000006136949">Section 2 : Dispositions relatives à la répression de la délinquance et de la criminalité organisées.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000006494278" num="12" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>a modifié les dispositions suivantes<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000874463" datesignatexte="1970-07-03" id="LEGIARTI000006627776" naturetexte="LOI" nortexte="" num="6-1" numtexte="70-575" sens="cible" typelien="CREATION">Loi n°70-575 du 3 juillet 1970 - art. 6-1 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000322306" datesignatexte="1972-06-09" id="LEGIARTI000006628015" naturetexte="LOI" nortexte="" num="4-1" numtexte="72-467" sens="cible" typelien="CREATION">Loi n°72-467 du 9 juin 1972 - art. 4-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577759" naturetexte="CODE" nortexte="" num="706-63-1" numtexte="" sens="cible" typelien="CREATION">CODE DE PROCEDURE PENALE - art. 706-63-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417490" naturetexte="CODE" nortexte="" num="132-71" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 132-71 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417492" naturetexte="CODE" nortexte="" num="132-72" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 132-72 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417494" naturetexte="CODE" nortexte="" num="132-73" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 132-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417496" naturetexte="CODE" nortexte="" num="132-74" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 132-74 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417499" naturetexte="CODE" nortexte="" num="132-75" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 132-75 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417501" naturetexte="CODE" nortexte="" num="132-76" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 132-76 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417503" naturetexte="CODE" nortexte="" num="132-77" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 132-77 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417505" naturetexte="CODE" nortexte="" num="132-78" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 132-78 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417577" naturetexte="CODE" nortexte="" num="221-5-3" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 221-5-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417739" naturetexte="CODE" nortexte="" num="222-43" numtexte="" sens="cible" typelien="MODIFICATION">Code pénal - art. 222-43 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417740" naturetexte="CODE" nortexte="" num="222-43-1" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 222-43-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417607" naturetexte="CODE" nortexte="" num="222-6-2" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 222-6-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417817" naturetexte="CODE" nortexte="" num="224-5-1" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 224-5-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417824" naturetexte="CODE" nortexte="" num="224-8-1" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 224-8-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417876" naturetexte="CODE" nortexte="" num="225-11-1" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 225-11-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417849" naturetexte="CODE" nortexte="" num="225-4-9" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 225-4-9 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418146" naturetexte="CODE" nortexte="" num="311-9-1" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 311-9-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418172" naturetexte="CODE" nortexte="" num="312-6-1" numtexte="" sens="cible" typelien="CREATION">Code pénal - art. 312-6-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071834" datesignatexte="1939-04-18" id="LEGIARTI000006630939" naturetexte="DECRET" nortexte="" num="35-1" numtexte="" sens="cible" typelien="CREATION">Décret n°1939-04-18 du 18 avril 1939 - art. 35-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071791" datesignatexte="1871-06-19" id="LEGIARTI000006627604" naturetexte="LOI" nortexte="" num="3-1" numtexte="" sens="cible" typelien="CREATION">Loi n°1871-06-19 du 19 juin 1871 - art. 3-1 (Ab)</LIEN>
+</LIENS>
+</ARTICLE>

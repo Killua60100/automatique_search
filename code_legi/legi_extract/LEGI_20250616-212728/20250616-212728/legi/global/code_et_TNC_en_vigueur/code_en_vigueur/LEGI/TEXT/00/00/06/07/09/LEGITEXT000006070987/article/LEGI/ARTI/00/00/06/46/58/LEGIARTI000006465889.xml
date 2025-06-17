@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006465889</ID>
+<ANCIEN_ID>PGAXXXXXXXX1X039L03AXXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/46/58/LEGIARTI000006465889.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L39-3</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2001-11-16</DATE_DEBUT>
+<DATE_FIN>2004-07-10</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070987" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des postes et des communications électroniques" debut="1962-03-14" fin="2999-01-01" id_txt="LEGITEXT000006070987">Code des postes et des communications électroniques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1962-03-14" fin="2999-01-01" id="LEGISCTA000006092423">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="2004-07-10" id="LEGISCTA000006118604">LIVRE II : Les télécommunications</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="2004-07-10" id="LEGISCTA000006136628">TITRE Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2004-07-10" id="LEGISCTA000006150656">CHAPITRE V : Dispositions pénales.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1994-03-01" id="LEGIARTI000006465887" num="L39-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1994-03-01" etat="ABROGE" fin="1996-07-27" id="LEGIARTI000006465888" num="L39-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2001-11-16" etat="MODIFIE" fin="2004-07-10" id="LEGIARTI000006465889" num="L39-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE_DIFF">
+<LIEN_ART debut="2004-07-10" etat="ABROGE_DIFF" fin="2026-06-13" id="LEGIARTI000006465890" num="L39-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2026-06-13" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741273" num="L39-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   I. - Est puni d'un an d'emprisonnement et de 75000 euros d'amende le fait pour un opérateur de télécommunications ou ses agents :<br/>
+<br/>   1° De ne pas procéder aux opérations tendant à effacer ou à rendre anonymes les données relatives aux communications dans les cas où ces opérations sont prescrites par la loi ;<br/>
+<br/>   2° De ne pas procéder à la conservation des données techniques dans les conditions où cette conservation est exigée par la loi.<br/>
+<br/>   Les personnes physiques coupables de ces infractions encourent également l'interdiction, pour une durée de cinq ans au plus, d'exercer l'activité professionnelle à l'occasion de laquelle l'infraction a été commise.<br/>
+<br/>   II. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies au I.<br/>
+<br/>   Les peines encourues par les personnes morales sont :<br/>
+<br/>   1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;<br/>
+<br/>   2° La peine mentionnée au 2° de l'article 131-9 du code pénal, pour une durée de cinq ans au plus ;<br/>
+<br/>   3° La peine mentionnée au 9° de l'article 131-39 du code pénal.<br/>
+<br/>   L'interdiction mentionnée au 2° de l'article 131-9 du code pénal porte sur l'activité professionnelle dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000222052" datesignatexte="2001-11-15" id="LEGIARTI000006529323" naturetexte="LOI" nortexte="INTX0100032L" num="29" numtexte="2001-1062" sens="source" typelien="MODIFICATION">Loi n°2001-1062 du 15 novembre 2001 - art. 29 () JORF 16 novembre 2001</LIEN>
+<LIEN cidtexte="JORFTEXT000000222052" datesignatexte="2001-11-15" id="LEGIARTI000006529370" naturetexte="LOI" nortexte="INTX0100032L" num="71" numtexte="2001-1062" sens="source" typelien="SPEC_APPLI">Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417202" naturetexte="CODE" nortexte="" num="121-2" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 121-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417333" naturetexte="CODE" nortexte="" num="131-38" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-38 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417335" naturetexte="CODE" nortexte="" num="131-39" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-39 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417245" naturetexte="CODE" nortexte="" num="131-9" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-9 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070762" datesignatexte="1962-03-12" id="LEGITEXT000006070762" naturetexte="DECRET" nortexte="" num="" numtexte="62-273" sens="source" typelien="CODIFICATION">Décret 62-273 1962-03-12</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000038889160" naturetexte="CODE" nortexte="" num="L39-10" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L39-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000006465928" naturetexte="CODE" nortexte="" num="L39-3-1" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L39-3-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

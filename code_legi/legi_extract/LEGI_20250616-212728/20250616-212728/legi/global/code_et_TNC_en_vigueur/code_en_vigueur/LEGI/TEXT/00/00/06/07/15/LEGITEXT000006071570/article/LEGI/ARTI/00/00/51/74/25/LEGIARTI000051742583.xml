@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051742583</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/25/LEGIARTI000051742583.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>67 bis-1 A</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071570" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des douanes" debut="1949-01-01" fin="2999-01-01" id_txt="LEGITEXT000006071570">Code des douanes</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006099261">Titre II : Organisation et fonctionnement du service des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1949-01-01" fin="2999-01-01" id="LEGISCTA000006122076">Chapitre IV : Pouvoirs des agents des douanes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1991-12-20" fin="2016-06-05" id="LEGISCTA000006138848">Section 7 : Livraisons surveillées.</TITRE_TM>
+<TITRE_TM debut="2016-06-05" fin="2999-01-01" id="LEGISCTA000032654987">Section 7 : Procédures spéciales d'enquête douanière</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2020-12-27" id="LEGIARTI000032642012" num="67 bis-1 A" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-12-27" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000042780012" num="67 bis-1 A" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742583" num="67 bis-1 A" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>Dans le but de constater les délits mentionnés aux articles 414, 414-2, 415 et 459 et, lorsque ceux-ci sont commis par un moyen de communication électronique, d'en rassembler les preuves et d'en rechercher les auteurs, les complices ainsi que ceux qui y ont participé comme intéressés au sens de l'article 399, les agents des douanes habilités par le ministre chargé des douanes dans des conditions fixées par décret peuvent, après information du procureur de la République et sauf opposition de ce magistrat, procéder aux actes suivants sans être pénalement responsables :</p>
+<p>1° Participer sous un pseudonyme aux échanges électroniques, y compris en faisant usage d'un dispositif permettant d'altérer ou de transformer leur voix ou leur apparence physique ;</p>
+<p>2° Etre en contact par le moyen mentionné au 1° du présent article avec les personnes susceptibles d'être les auteurs, les complices ou les intéressés à la fraude de ces infractions ;</p>
+<p>3° Extraire, acquérir ou conserver par ce moyen les éléments de preuve et les données sur les personnes susceptibles d'être les auteurs, les complices ou les intéressés à la fraude de ces infractions.</p>
+<p>Si les nécessités de l'enquête douanière l'exigent, les agents des douanes habilités peuvent faire usage d'une identité d'emprunt. La révélation de l'identité de ces agents est passible des peines prévues au V de l'article 67 bis.</p>
+<p>A peine de nullité, ces actes ne peuvent constituer une incitation ayant déterminé la commission de ces infractions. Ne constituent pas une incitation à commettre une infraction les actes qui contribuent à la poursuite d'une infraction déjà préparée ou débutée au moment de l'information du procureur de la République, y compris en cas de réitération ou d'aggravation de l'infraction initiale.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000443545" datesignatexte="2004-09-15" id="LEGIARTI000049334357" naturetexte="DECRET" nortexte="ECOD0450006D" num="1" numtexte="2004-976" sens="cible" typelien="CITATION">Décret n°2004-976 du 15 septembre 2004 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736688" naturetexte="LOI" nortexte="JUSX2430702L" num="37" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 37</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736704" naturetexte="LOI" nortexte="JUSX2430702L" num="42" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 42</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736706" naturetexte="LOI" nortexte="JUSX2430702L" num="43" numtexte="2025-532" sens="cible" typelien="MODIFIE">LOI n°2025-532 du 13 juin 2025 - art. 43</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006616024" naturetexte="CODE" nortexte="" num="399" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 399</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615940" naturetexte="CODE" nortexte="" num="414" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 414</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615945" naturetexte="CODE" nortexte="" num="415" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 415</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006616090" naturetexte="CODE" nortexte="" num="459" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 459</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000006615436" naturetexte="CODE" nortexte="" num="67 bis" numtexte="" sens="source" typelien="CITATION">Code des douanes - art. 67 bis</LIEN>
+</LIENS>
+</ARTICLE>

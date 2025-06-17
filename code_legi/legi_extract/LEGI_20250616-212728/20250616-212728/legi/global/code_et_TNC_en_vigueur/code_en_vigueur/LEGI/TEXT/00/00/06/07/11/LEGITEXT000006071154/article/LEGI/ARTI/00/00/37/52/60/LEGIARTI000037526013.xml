@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000037526013</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/37/52/60/LEGIARTI000037526013.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>230-20</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2018-10-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-11-16" fin="2999-01-01" id="LEGISCTA000006138091">Titre IV : Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-03-16" fin="2999-01-01" id="LEGISCTA000023710126">Chapitre III : Des logiciels de rapprochement judiciaire &#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000023710128" num="230-20" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-12-08" etat="MODIFIE" fin="2018-10-25" id="LEGIARTI000028312125" num="230-20" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2018-10-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037526013" num="230-20" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Afin de faciliter le rassemblement des preuves des infractions et l'identification de leurs auteurs, les services de la police nationale et de la gendarmerie nationale chargés d'une mission de police judiciaire ainsi que le service placé sous l'autorité du ministre chargé du budget chargé d'effectuer des enquêtes judiciaires peuvent mettre en œuvre, sous le contrôle de l'autorité judiciaire, des logiciels destinés à faciliter l'exploitation et le rapprochement d'informations sur les modes opératoires réunies par ces services au cours :</p>
+<p>1° Des enquêtes préliminaires, des enquêtes de flagrance ou des investigations exécutées sur commission rogatoire ;</p>
+<p>2° Des procédures de recherche des causes de la mort ou d'une disparition prévues par les articles 74 et 74-1.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="JORFTEXT000025822946" datesignatexte="2012-05-07" id="LEGIARTI000025879043" naturetexte="DECRET" nortexte="IOCD1206343D" num="2" numtexte="2012-687" sens="cible" typelien="CITATION">Décret n°2012-687 du 7 mai 2012 - art. 2 (V)</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000037518803" datesignatexte="2018-10-23" id="LEGIARTI000037520266" naturetexte="LOI" nortexte="CPAE1805937L" num="2" numtexte="2018-898" sens="cible" typelien="MODIFIE">LOI n°2018-898 du 23 octobre 2018 - art. 2</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023710130" naturetexte="CODE" nortexte="" num="230-21" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-21 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051743106" naturetexte="CODE" nortexte="" num="230-22" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000028312120" naturetexte="CODE" nortexte="" num="230-25" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-25 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023710140" naturetexte="CODE" nortexte="" num="230-26" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 230-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006575114" naturetexte="CODE" nortexte="" num="74" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 74</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000025833638" naturetexte="CODE" nortexte="" num="R40-40" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-40 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000025833654" naturetexte="CODE" nortexte="" num="R40-41" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R40-41 (V)</LIEN>
+</LIENS>
+</ARTICLE>

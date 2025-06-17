@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051739332</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/93/LEGIARTI000051739332.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L562-2-2</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072026" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code monétaire et financier" debut="2001-01-01" fin="2999-01-01" id_txt="LEGITEXT000006072026">Code monétaire et financier</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006101336">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-01-01" fin="2999-01-01" id="LEGISCTA000006123943">Livre V : Les prestataires de services</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-03-07" fin="2017-12-30" id="LEGISCTA000006140135">Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes et les loteries, jeux et paris prohibés</TITRE_TM>
+<TITRE_TM debut="2017-12-30" fin="2999-01-01" id="LEGISCTA000036365190">Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes, les loteries, jeux et paris prohibés et l'évasion et la fraude fiscales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-03-07" fin="2009-02-01" id="LEGISCTA000006154831">Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.</TITRE_TM>
+<TITRE_TM debut="2009-02-01" fin="2017-07-01" id="LEGISCTA000020196819">Chapitre II : Obligations relatives au gel des avoirs</TITRE_TM>
+<TITRE_TM debut="2017-07-01" fin="2999-01-01" id="LEGISCTA000033476000">Chapitre II : Dispositions relatives au gel des avoirs et à l'interdiction de mise à disposition</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739332" num="L562-2-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le ministre chargé de l'économie et le ministre de l'intérieur peuvent décider conjointement, après information du procureur de la République anti-criminalité organisée, pour une durée de six mois renouvelable sept fois, le gel des fonds et des ressources économiques :</p>
+<p> 1° Qui appartiennent à ou sont possédés, détenus ou contrôlés par des personnes physiques ou morales ou toute autre entité qui commettent, tentent de commettre, facilitent ou financent un trafic de stupéfiants ou y participent et qui présentent une menace d'une particulière gravité pour la sécurité et l'ordre publics en raison de leur rôle dans ce trafic et de son ampleur ;</p>
+<p> 2° Qui appartiennent à ou sont possédés, détenus ou contrôlés par des personnes morales ou toute autre entité elles-mêmes détenues ou contrôlées par les personnes mentionnées au 1° ou agissant sciemment pour le compte ou sur instructions de celles-ci.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736648" naturetexte="LOI" nortexte="JUSX2430702L" num="12" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 12</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000051740680" naturetexte="CODE" nortexte="" num="L562-11" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L562-11 (V)</LIEN>
+</LIENS>
+</ARTICLE>

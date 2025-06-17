@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000039088463</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/39/08/84/LEGIARTI000039088463.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L522-1</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2021-09-30</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000039086952" date_publi="2019-09-14" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la justice pénale des mineurs" debut="2021-09-30" fin="2999-01-01" id_txt="LEGITEXT000039086952">Code de la justice pénale des mineurs</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2021-09-30" fin="2999-01-01" id="LEGISCTA000039094134">Partie législative </TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-09-30" fin="2999-01-01" id="LEGISCTA000039088355">LIVRE V : DU JUGEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-09-30" fin="2999-01-01" id="LEGISCTA000039088391">TITRE II : DE LA PROCÉDURE DE JUGEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2021-09-30" fin="2999-01-01" id="LEGISCTA000039088461">Chapitre II : Du jugement devant la cour d'assises des mineurs</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2021-09-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039088463" num="L522-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Après l'interrogatoire des accusés, le président de la cour d'assises des mineurs peut, à tout moment, ordonner que l'accusé mineur se retire pendant tout ou partie de la suite des débats. <br/>Concernant l'accusé mineur, le président pose, à peine de nullité, les deux questions suivantes : <br/>1° Y a-t-il lieu d'appliquer à l'accusé une condamnation pénale ? <br/>2° Y a-t-il lieu d'exclure l'accusé du bénéfice de l'atténuation de peine prévue aux articles L. 121-5 et L. 121-6 ?</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000517521" datesignatexte="1945-02-02" id="LEGIARTI000033460068" naturetexte="ORDONNANCE" nortexte="" num="20" numtexte="45-174" sens="source" typelien="CONCORDANCE">Ordonnance n° 45-174 du 2 février 1945 - art. 20, alinéas 9 à 13 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000039085102" datesignatexte="2019-09-11" id="LEGIARTI000039086619" naturetexte="ORDONNANCE" nortexte="JUSX1919677R" num="" numtexte="2019-950" sens="source" typelien="CODIFICATION">Ordonnance n° 2019-950 du 11 septembre 2019 - art.</LIEN>
+<LIEN cidtexte="JORFTEXT000039085102" datesignatexte="2019-09-11" id="LEGIARTI000039086619" naturetexte="ORDONNANCE" nortexte="JUSX1919677R" num="" numtexte="2019-950" sens="cible" typelien="CREE">Ordonnance n° 2019-950 du 11 septembre 2019 - art.</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039087991" naturetexte="CODE" nortexte="" num="L121-5" numtexte="" sens="source" typelien="CITATION">Code de la justice pénale des mineurs - art. L121-5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039087993" naturetexte="CODE" nortexte="" num="L121-6" numtexte="" sens="source" typelien="CITATION">Code de la justice pénale des mineurs - art. L121-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740337" naturetexte="CODE" nortexte="" num="242-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 242-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000039099454" naturetexte="CODE" nortexte="" num="706-25" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-25 (V)</LIEN>
+</LIENS>
+</ARTICLE>

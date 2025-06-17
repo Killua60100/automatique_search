@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000021331517</ID>
+<TITRE_TA>Sous-section 4 : De la réparation à raison d'une détention</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2006-06-09" id="LEGIARTI000006575718" num="149" origine="LEGI"/>
+<LIEN_ART debut="2006-06-09" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000022147989" num="149" origine="LEGI"/>
+<LIEN_ART debut="2000-12-31" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006575717" num="149" origine="LEGI"/>
+<LIEN_ART debut="2000-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575722" num="149-1" origine="LEGI"/>
+<LIEN_ART debut="2000-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575353" num="149-2" origine="LEGI"/>
+<LIEN_ART debut="2000-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575355" num="149-3" origine="LEGI"/>
+<LIEN_ART debut="2000-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575357" num="149-4" origine="LEGI"/>
+<LIEN_ART debut="2000-12-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006575359" num="150" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151881">Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TM>
+<TM>
+<TITRE_TM debut="1971-01-01" fin="2009-11-26" id="LEGISCTA000006167427">Section 7 : Du contrôle judiciaire et de la détention provisoire</TITRE_TM>
+<TITRE_TM debut="2009-11-26" fin="2999-01-01" id="LEGISCTA000021331523">Section 7 : Du contrôle judiciaire, de l'assignation à résidence et de la détention provisoire</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

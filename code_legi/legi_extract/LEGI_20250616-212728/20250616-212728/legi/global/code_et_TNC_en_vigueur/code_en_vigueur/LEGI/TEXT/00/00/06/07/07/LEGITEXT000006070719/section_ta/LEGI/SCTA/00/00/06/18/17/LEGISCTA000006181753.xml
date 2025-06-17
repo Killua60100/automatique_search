@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006181753</ID>
+<TITRE_TA>Paragraphe 1 : Du viol</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2018-08-06" id="LEGIARTI000006417678" num="222-23" origine="LEGI"/>
+<LIEN_ART debut="2018-08-06" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000037289535" num="222-23" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409305" num="222-23" origine="LEGI"/>
+<LIEN_ART debut="2006-04-05" etat="MODIFIE" fin="2007-03-07" id="LEGIARTI000006417683" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043405016" num="222-23-1" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043405018" num="222-23-2" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043405020" num="222-23-3" origine="LEGI"/>
+<LIEN_ART debut="2007-03-07" etat="MODIFIE" fin="2010-02-10" id="LEGIARTI000006417684" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2010-02-10" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000021796971" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2012-08-08" id="LEGIARTI000024041213" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2012-08-08" etat="MODIFIE" fin="2016-04-15" id="LEGIARTI000026268256" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2016-04-15" etat="MODIFIE" fin="2017-01-29" id="LEGIARTI000032400611" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2017-01-29" etat="MODIFIE" fin="2018-08-06" id="LEGIARTI000033975290" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2018-08-06" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000037289570" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409300" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2005-12-13" etat="MODIFIE" fin="2006-04-05" id="LEGIARTI000006417682" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="1998-06-18" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006417680" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="MODIFIE" fin="2005-12-13" id="LEGIARTI000006417681" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="1998-06-18" id="LEGIARTI000006417679" num="222-24" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000006417686" num="222-25" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409284" num="222-25" origine="LEGI"/>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000006417687" num="222-26" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409292" num="222-26" origine="LEGI"/>
+<LIEN_ART debut="2020-08-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042182581" num="222-26-1" origine="LEGI"/>
+<LIEN_ART debut="2022-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045069136" num="222-26-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2021-04-23" id="LEGISCTA000006165281">Section 3 : Des agressions sexuelles</TITRE_TM>
+<TITRE_TM debut="2021-04-23" fin="2999-01-01" id="LEGISCTA000043409037">Section 3 : Du viol, de l'inceste et des autres agressions sexuelles</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

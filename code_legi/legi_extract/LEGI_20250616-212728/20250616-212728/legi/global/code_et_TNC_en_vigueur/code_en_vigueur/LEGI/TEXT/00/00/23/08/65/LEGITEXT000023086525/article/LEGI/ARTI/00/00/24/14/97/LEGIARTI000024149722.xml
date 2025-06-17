@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000024149722</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/24/14/97/LEGIARTI000024149722.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L5242-23</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-06-11</DATE_DEBUT>
+<DATE_FIN>2019-12-27</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000023086525" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des transports" debut="2010-12-01" fin="2999-01-01" id_txt="LEGITEXT000023086525">Code des transports</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2010-12-01" fin="2999-01-01" id="LEGISCTA000023706480">PARTIE LÉGISLATIVE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-12-01" fin="2999-01-01" id="LEGISCTA000023081942">CINQUIÈME PARTIE : TRANSPORT ET NAVIGATION MARITIMES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-12-01" fin="2999-01-01" id="LEGISCTA000023081237">LIVRE II : LA NAVIGATION MARITIME</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-12-01" fin="2999-01-01" id="LEGISCTA000023081120">TITRE IV : SÉCURITÉ ET PRÉVENTION DE LA POLLUTION</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-12-01" fin="2999-01-01" id="LEGISCTA000023081022">Chapitre II : Sécurité de la navigation</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-06-11" fin="2019-12-27" id="LEGISCTA000024149716">Section 5 : Dommages aux installations de signalisation maritime ou d'aide à la navigation&#13;
+&#13;
+&#13;
+</TITRE_TM>
+<TITRE_TM debut="2019-12-27" fin="2999-01-01" id="LEGISCTA000039786102">Section 5 : Signalisation maritime</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-06-11" etat="MODIFIE" fin="2019-12-27" id="LEGIARTI000024149722" num="L5242-23" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-12-27" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039786105" num="L5242-23" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>Sans préjudice de l'obligation de réparation du dommage causé, le fait de détruire, déplacer, abattre ou dégrader une installation de signalisation maritime ou d'aide à la navigation située en dehors des limites administratives d'un port et jusqu'à la limite des eaux sous juridiction française, ou de porter atteinte au bon fonctionnement d'une telle installation, est puni de trois ans d'emprisonnement et de 45 000 € d'amende.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000024147591" datesignatexte="2011-06-09" id="LEGIARTI000024148727" naturetexte="ORDONNANCE" nortexte="DEVX1108164R" num="5" numtexte="2011-635" sens="cible" typelien="CREE">Ordonnance n°2011-635
+ du 9 juin 2011 - art. 5</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742186" naturetexte="CODE" nortexte="" num="689-5" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 689-5 (V)</LIEN>
+</LIENS>
+</ARTICLE>

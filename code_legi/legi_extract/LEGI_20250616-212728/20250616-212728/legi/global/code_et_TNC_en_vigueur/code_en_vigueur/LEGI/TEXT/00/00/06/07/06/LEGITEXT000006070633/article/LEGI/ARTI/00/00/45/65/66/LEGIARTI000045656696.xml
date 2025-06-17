@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000045656696</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/45/65/66/LEGIARTI000045656696.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>R1424-54</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2022-04-17</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070633" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code général des collectivités territoriales" debut="1996-02-24" fin="2999-01-01" id_txt="LEGITEXT000006070633">Code général des collectivités territoriales</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006088021">Partie réglementaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006116641">PREMIERE PARTIE : DISPOSITIONS GÉNÉRALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006135522">LIVRE IV : SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006149362">TITRE II : DISPOSITIONS PROPRES À CERTAINS SERVICES PUBLICS LOCAUX</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006164907">CHAPITRE IV : Services d'incendie et de secours</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-04-09" fin="2999-01-01" id="LEGISCTA000006181370">Section 4 : Dispositions diverses et transitoires</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-04-09" etat="MODIFIE" fin="2022-04-17" id="LEGIARTI000006394942" num="R1424-54" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2022-04-17" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045656696" num="R1424-54" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Un arrêté conjoint du ministre chargé de la sécurité civile et du ministre chargé de la fonction publique définit les conditions générales d'organisation et d'évaluation des formations des sapeurs-pompiers professionnels et volontaires. Les contenus et modalités d'évaluation de ces formations sont définis dans des référentiels nationaux approuvés par décision du ministre chargé de la sécurité civile.<br/>
+<br/>
+ L'arrêté mentionné au premier alinéa fixe également les dispositions applicables aux organismes de formation pouvant les dispenser ainsi que leurs modalités d'agrément ou d'habilitation.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000525014" datesignatexte="1990-09-25" id="LEGIARTI000051728577" naturetexte="DECRET" nortexte="INTE9000277D" num="6-5" numtexte="90-850" sens="cible" typelien="CITATION">Décret n°90-850 du 25 septembre 1990 - art. 6-5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000525014" datesignatexte="1990-09-25" id="LEGIARTI000045657047" naturetexte="DECRET" nortexte="INTE9000277D" num="7" numtexte="90-850" sens="cible" typelien="CITATION">Décret n°90-850 du 25 septembre 1990 - art. 7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000569559" datesignatexte="1997-12-26" id="LEGIARTI000006378345" naturetexte="DECRET" nortexte="INTE9700370D" num="54" numtexte="97-1225" sens="source" typelien="CONCORDANCE">Décret n°97-1225 du 26 décembre 1997 - art. 54 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000399814" datesignatexte="2000-04-07" id="JORFTEXT000000399814" naturetexte="DECRET" nortexte="INTX0004021D" num="" numtexte="2000-318" sens="source" typelien="CODIFICATION">Décret n° 2000-318 du 7 avril 2000</LIEN>
+<LIEN cidtexte="JORFTEXT000000250134" datesignatexte="2004-06-07" id="LEGIARTI000050929877" naturetexte="DECRET" nortexte="INTE0400142D" num="20" numtexte="2004-502" sens="cible" typelien="CITATION">Décret n°2004-502 du 7 juin 2004 - art. 20 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000025713964" datesignatexte="2012-04-20" id="LEGIARTI000045657296" naturetexte="DECRET" nortexte="IOCE1205258D" num="3" numtexte="2012-522" sens="cible" typelien="CITATION">Décret n°2012-522
+ du 20 avril 2012 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000038988216" datesignatexte="2019-08-22" id="LEGIARTI000046742190" naturetexte="ARRETE" nortexte="INTE1915304A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 22 août 2019 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595007" naturetexte="DECRET" nortexte="INTE2132249D" num="1" numtexte="2022-557" sens="cible" typelien="MODIFIE">Décret n°2022-557 du 14 avril 2022 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595031" naturetexte="DECRET" nortexte="INTE2132249D" num="13" numtexte="2022-557" sens="cible" typelien="CITATION">Décret n°2022-557 du 14 avril 2022 - art. 13</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595009" naturetexte="DECRET" nortexte="INTE2132249D" num="2" numtexte="2022-557" sens="cible" typelien="CITATION">Décret n°2022-557 du 14 avril 2022 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595013" naturetexte="DECRET" nortexte="INTE2132249D" num="4" numtexte="2022-557" sens="cible" typelien="CITATION">Décret n°2022-557 du 14 avril 2022 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595015" naturetexte="DECRET" nortexte="INTE2132249D" num="5" numtexte="2022-557" sens="cible" typelien="CITATION">Décret n°2022-557 du 14 avril 2022 - art. 5</LIEN>
+<LIEN cidtexte="JORFTEXT000045590826" datesignatexte="2022-04-14" id="LEGIARTI000045595017" naturetexte="DECRET" nortexte="INTE2132249D" num="6" numtexte="2022-557" sens="cible" typelien="CITATION">Décret n°2022-557 du 14 avril 2022 - art. 6</LIEN>
+<LIEN cidtexte="JORFTEXT000046737873" datesignatexte="2022-12-07" id="LEGIARTI000046739236" naturetexte="ARRETE" nortexte="IOME2230281A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 7 décembre 2022 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000046737854" datesignatexte="2022-12-07" id="LEGIARTI000046738975" naturetexte="ARRETE" nortexte="IOME2210805A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 7 décembre 2022 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000046737854" datesignatexte="2022-12-07" id="LEGIARTI000046738977" naturetexte="ARRETE" nortexte="IOME2210805A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 7 décembre 2022 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000047213735" datesignatexte="2023-02-22" id="LEGIARTI000047214615" naturetexte="DECRET" nortexte="IOME2230496D" num="1" numtexte="2023-124" sens="cible" typelien="CITATION">Décret n°2023-124 du 22 février 2023 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000049767225" datesignatexte="2024-06-21" id="LEGIARTI000049769582" naturetexte="DECRET" nortexte="ARMD2410759D" num="6" numtexte="2024-579" sens="cible" typelien="CITATION">Décret n°2024-579 du 21 juin 2024 - art. 6</LIEN>
+
+<LIEN cidtexte="JORFTEXT000050871077" datesignatexte="2024-12-30" id="LEGIARTI000050919522" naturetexte="DECRET" nortexte="INTE2426500D" num="8" numtexte="2024-1232" sens="cible" typelien="CITATION">Décret n°2024-1232 du 30 décembre 2024 - art. 8</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000051463291" naturetexte="CODE" nortexte="" num="R722-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R722-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000050718083" naturetexte="CODE" nortexte="" num="R723-12-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R723-12-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000050723520" naturetexte="CODE" nortexte="" num="R723-86" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R723-86 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000050723507" naturetexte="CODE" nortexte="" num="R723-87" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R723-87 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000047214928" naturetexte="CODE" nortexte="" num="R723-95" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. R723-95 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006389352" naturetexte="CODE" nortexte="" num="L1424-13" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales - art. L1424-13</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006394897" naturetexte="CODE" nortexte="" num="R1424-24" numtexte="" sens="source" typelien="CITATION">Code général des collectivités territoriales - art. R1424-24</LIEN>
+</LIENS>
+</ARTICLE>

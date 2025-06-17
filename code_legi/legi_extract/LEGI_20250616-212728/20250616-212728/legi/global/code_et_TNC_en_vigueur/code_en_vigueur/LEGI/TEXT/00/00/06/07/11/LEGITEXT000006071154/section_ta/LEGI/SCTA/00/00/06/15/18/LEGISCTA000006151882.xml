@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006151882</ID>
+<TITRE_TA>Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167435" debut="1985-01-01" etat="ABROGE" fin="1997-03-31" id="LEGISCTA000006167435" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167435.xml">Section 1 : Dispositions générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167436" debut="1958-04-08" etat="ABROGE" fin="1993-09-02" id="LEGISCTA000006167436" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167436.xml">Section 2 : De la constitution de la partie civile et de ses effets</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167437" debut="1958-04-08" etat="ABROGE" fin="1991-10-01" id="LEGISCTA000006167437" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167437.xml">Section 3 : Des transports, perquisitions et saisies</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167438" debut="1991-10-01" etat="ABROGE" fin="1995-02-09" id="LEGISCTA000006167438" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167438.xml">Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167439" debut="1960-06-08" etat="ABROGE" fin="1994-03-01" id="LEGISCTA000006167439" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167439.xml">Section 4 : Des auditions de témoins</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167440" debut="1958-04-08" etat="ABROGE" fin="1997-03-31" id="LEGISCTA000006167440" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167440.xml">Section 5 : Des interrogatoires et confrontations</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167442" debut="1993-03-01" etat="ABROGE" fin="1994-01-01" id="LEGISCTA000006167442" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167442.xml">Section 7 : Des mandats et de leur exécution</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167443" debut="1971-01-01" etat="ABROGE" fin="1997-03-31" id="LEGISCTA000006167443" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167443.xml">Section 7 : Du contrôle judiciaire et de la détention provisoire</LIEN_SECTION_TA>
+<LIEN_ART debut="1971-01-01" etat="ABROGE" fin="1986-02-01" id="LEGIARTI000006575435" num="141" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006167444" debut="1958-04-08" etat="ABROGE" fin="1995-01-24" id="LEGISCTA000006167444" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167444.xml">Section 8 : Des commissions rogatoires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006167448" debut="1989-09-01" etat="ABROGE" fin="1997-03-31" id="LEGISCTA000006167448" niv="5" url="/LEGI/SCTA/00/00/06/16/74/LEGISCTA000006167448.xml">Section 12 : De l'appel des ordonnances du juge d'instruction</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006138090">Titre III : Des juridictions d'instruction</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

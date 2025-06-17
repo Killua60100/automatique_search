@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000049569048</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/49/56/90/LEGIARTI000049569048.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6-2-2</NUM>
+
+<ETAT>ABROGE</ETAT>
+
+<DATE_DEBUT>2024-05-23</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000801164" date_publi="2004-06-22" date_signature="2004-06-21" ministere="" nature="LOI" nor="ECOX0200175L" num="2004-575" num_parution_jo="0143">
+<TITRE_TXT c_titre_court="LOI n° 2004-575 du 21 juin 2004" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000801164">LOI n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 2004-575 du 21 juin 2004" debut="2004-06-22" fin="2999-01-01" id_txt="LEGITEXT000005789847">Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (1).</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-06-22" fin="2999-01-01" id="LEGISCTA000006089778">TITRE Ier : DE LA LIBERTÉ DE COMMUNICATION EN LIGNE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-06-22" fin="2024-05-23" id="LEGISCTA000006117685">CHAPITRE II : Les prestataires techniques.</TITRE_TM>
+<TITRE_TM debut="2024-05-23" fin="2999-01-01" id="LEGISCTA000049577606">CHAPITRE II : Les fournisseurs de services intermédiaire</TITRE_TM>
+<TM>
+<TITRE_TM debut="2024-02-17" fin="2999-01-01" id="LEGISCTA000049568861">Section 2 : Dispositions relatives à la lutte contre les contenus terroristes et pédopornographiques</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2024-05-23" etat="ABROGE" fin="2025-06-15" id="LEGIARTI000049569048" num="6-2-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Sans préjudice des articles L. 521-1 et L. 521-2 du code de justice administrative, les fournisseurs de services d'hébergement et les fournisseurs de contenus concernés par une demande, faite en application de l'article 6-1 de la présente loi, de retrait d'une image ou d'une représentation de mineurs présentant un caractère pornographique relevant de l'article 227-23 du code pénal ainsi que la personnalité qualifiée mentionnée à l'article 6-1 de la présente loi peuvent demander au président du tribunal administratif ou au magistrat délégué par celui-ci l'annulation de cette demande, dans un délai de quarante-huit heures à compter soit de sa réception, soit, s'agissant du fournisseur de contenus, du moment où il est informé par le fournisseur de services d'hébergement du retrait du contenu.</p>
+<p> II.-Il est statué sur la légalité de l'injonction de retrait dans un délai de soixante-douze heures à compter de la saisine. L'audience est publique.</p>
+<p> III.-Les jugements rendus en application du I du présent article sur la légalité de la décision sont susceptibles d'appel dans un délai de dix jours à compter de leur notification. Dans ce cas, la juridiction d'appel statue dans un délai d'un mois à compter de sa saisine.</p>
+<p> IV.-Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000049563368" datesignatexte="2024-05-21" id="LEGIARTI000049565872" naturetexte="LOI" nortexte="ECOI2309270L" num="4" numtexte="2024-449" sens="cible" typelien="CREE">LOI n°2024-449 du 21 mai 2024 - art. 4</LIEN>
+
+
+<LIEN cidtexte="JORFTEXT000051194570" datesignatexte="2025-02-18" id="LEGITEXT000051195644" naturetexte="DECRET" nortexte="INTD2418610D" num="" numtexte="2025-146" sens="cible" typelien="CITATION">Décret n°2025-146 du 18 février 2025 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736692" naturetexte="LOI" nortexte="JUSX2430702L" num="28" numtexte="2025-532" sens="cible" typelien="ABROGE">LOI n°2025-532 du 13 juin 2025 - art. 28</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418087" naturetexte="CODE" nortexte="" num="227-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 227-23</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000006449326" naturetexte="CODE" nortexte="" num="L521-1" numtexte="" sens="source" typelien="CITATION">Code de justice administrative - art. L521-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000006449327" naturetexte="CODE" nortexte="" num="L521-2" numtexte="" sens="source" typelien="CITATION">Code de justice administrative - art. L521-2</LIEN>
+</LIENS>
+</ARTICLE>

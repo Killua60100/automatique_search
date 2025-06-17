@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000031942700</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/31/94/27/LEGITEXT000031942700.xml</URL>
+<NATURE>ORDONNANCE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000031939452</CID>
+<NUM>2016-56</NUM>
+<NUM_PARUTION>0025</NUM_PARUTION>
+<NUM_SEQUENCE>19</NUM_SEQUENCE>
+<NOR>JUSC1527240R</NOR>
+<DATE_PUBLI>2016-01-30</DATE_PUBLI>
+<DATE_TEXTE>2016-01-29</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2016-04-01</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0025 du 30 janvier 2016</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Ordonnance n°2016-56 du 29 janvier 2016</TITRE>
+<TITREFULL>Ordonnance n° 2016-56 du 29 janvier 2016 relative au gage des stocks</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2016-04-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000030978561" datesignatexte="2015-08-06" id="JORFTEXT000030978561" naturetexte="LOI" nortexte="EINX1426821L" num="" numtexte="2015-990" sens="source" typelien="CITATION">LOI n°2015-990 du 6 août 2015 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033418805" datesignatexte="2016-11-18" id="LEGIARTI000033423954" naturetexte="LOI" nortexte="JUSX1515639L" num="107" numtexte="2016-1547" sens="source" typelien="RATIFICATION">LOI n°2016-1547 du 18 novembre 2016 - art. 107 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGITEXT000005634379" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de commerce (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070721" datesignatexte="2999-01-01" id="LEGITEXT000006070721" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code civil (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGITEXT000006070933" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de justice administrative (V)</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Le Président de la République,<br/>Sur le rapport du Premier ministre,<br/>Vu la Constitution, notamment son article 38 ;<br/>Vu le code civil, notamment ses articles 2333 et suivants ;<br/>Vu le code de commerce, notamment ses articles L. 527-1 à L. 527-11 ;<br/>Vu le code de justice administrative, notamment son article R. 123-20 ;<br/>Vu la loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques, habilitant le Gouvernement à rapprocher le régime applicable au gage des stocks du régime de droit commun du gage, notamment le 1° de son article 240 ;<br/>Vu l'avis du comité consultatif de la législation et de la réglementation financières en date du 11 décembre 2015 ;<br/>Le Conseil d'Etat (section de l'intérieur) entendu ;<br/>Le conseil des ministres entendu,<br/>Ordonne :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 29 janvier 2016.</p>
+</div>
+<div align="left">
+<p>François Hollande</p>
+<p>Par le Président de la République :</p>
+</div>
+<div align="left">
+<p>Le Premier ministre,</p>
+<p>Manuel Valls</p>
+</div>
+<div align="left">
+<p>Le garde des sceaux, ministre de la justice,</p>
+<p>Jean-Jacques Urvoas</p>
+</div>
+<div align="left">
+<p>Le ministre des finances et des comptes publics,</p>
+<p>Michel Sapin</p>
+</div>
+<div align="left">
+<p>Le ministre de l'économie, de l'industrie et du numérique,</p>
+<p>Emmanuel Macron</p>
+</div>
+<div align="left">
+<p>La ministre des outre-mer,</p>
+<p>George Pau-Langevin</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU>
+<p> L'Ordonnance n° 2016-56 du 29 janvier 2016 est ratifiée par l'article 107 de la loi n° 2016-1547 du 18 novembre 2016</p>
+</CONTENU>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

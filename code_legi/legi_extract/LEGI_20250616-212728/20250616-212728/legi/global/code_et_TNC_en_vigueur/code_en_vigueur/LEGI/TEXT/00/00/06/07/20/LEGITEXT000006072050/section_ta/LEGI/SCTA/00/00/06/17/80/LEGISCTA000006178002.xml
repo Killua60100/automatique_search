@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006178002</ID>
+<TITRE_TA>Chapitre Ier : Durée du travail</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006189629" debut="2008-05-01" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006189629" niv="6" url="/LEGI/SCTA/00/00/06/18/96/LEGISCTA000006189629.xml">Section 1 : Travail effectif, astreintes et équivalences</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006189630" debut="2008-05-01" etat="MODIFIE" fin="2016-08-10" id="LEGISCTA000006189630" niv="6" url="/LEGI/SCTA/00/00/06/18/96/LEGISCTA000006189630.xml">Section 2 : Durée légale et heures supplémentaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006189630" debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033020451" niv="6" url="/LEGI/SCTA/00/00/33/02/04/LEGISCTA000033020451.xml">Section 2 : Durées maximales de travail</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006189631" debut="2008-05-01" etat="MODIFIE" fin="2016-08-10" id="LEGISCTA000006189631" niv="6" url="/LEGI/SCTA/00/00/06/18/96/LEGISCTA000006189631.xml">Section 3 : Durées maximales de travail</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006189631" debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033020381" niv="6" url="/LEGI/SCTA/00/00/33/02/03/LEGISCTA000033020381.xml">Section 3 : Durée légale et heures supplémentaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006189632" debut="2008-05-01" etat="MODIFIE" fin="2016-08-10" id="LEGISCTA000006189632" niv="6" url="/LEGI/SCTA/00/00/06/18/96/LEGISCTA000006189632.xml">Section 4 : Conventions de forfait</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006189632" debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033020324" niv="6" url="/LEGI/SCTA/00/00/33/02/03/LEGISCTA000033020324.xml">Section 4 : Aménagement du temps de travail sur une période supérieure à la semaine, horaires individualisés et récupération des heures perdues</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006189633" debut="2008-05-01" etat="MODIFIE" fin="2016-08-10" id="LEGISCTA000006189633" niv="6" url="/LEGI/SCTA/00/00/06/18/96/LEGISCTA000006189633.xml">Section 5 : Dispositions d'application.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006189633" debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033020230" niv="6" url="/LEGI/SCTA/00/00/33/02/02/LEGISCTA000033020230.xml">Section 5 : Conventions de forfait</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000033003394" debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000033003400" niv="6" url="/LEGI/SCTA/00/00/33/00/34/LEGISCTA000033003400.xml">Section 6 : Dispositions d'application</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006112874">Partie législative  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006132332">Troisième partie : Durée du travail, salaire, intéressement, participation et épargne salariale    </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006145403">Livre Ier : Durée du travail, repos et congés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006160754">Titre II : Durée du travail, répartition et aménagement des horaires</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000021796946</ID>
+<TITRE_TA>Paragraphe 4 : De l'exhibition sexuelle et du harcèlement sexuel</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2010-02-10" etat="MODIFIE" fin="2021-04-23" id="LEGIARTI000021796944" num="222-32" origine="LEGI"/>
+<LIEN_ART debut="2021-04-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043409377" num="222-32" origine="LEGI"/>
+<LIEN_ART debut="2010-02-10" etat="ABROGE" fin="2012-05-05" id="LEGIARTI000021796942" num="222-33" origine="LEGI"/>
+<LIEN_ART debut="2012-08-08" etat="MODIFIE" fin="2018-08-06" id="LEGIARTI000026268200" num="222-33" origine="LEGI"/>
+<LIEN_ART debut="2018-08-06" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037289662" num="222-33" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2021-04-23" id="LEGISCTA000006165281">Section 3 : Des agressions sexuelles</TITRE_TM>
+<TITRE_TM debut="2021-04-23" fin="2999-01-01" id="LEGISCTA000043409037">Section 3 : Du viol, de l'inceste et des autres agressions sexuelles</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006151920</ID>
+<TITRE_TA>Chapitre Ier : De la compétence des juridictions françaises</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1999-06-24" etat="MODIFIE" fin="2009-12-10" id="LEGIARTI000006577251" num="689" origine="LEGI"/>
+<LIEN_ART debut="2009-12-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021486423" num="689" origine="LEGI"/>
+<LIEN_ART debut="1999-06-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577254" num="689-1" origine="LEGI"/>
+<LIEN_ART debut="1999-06-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577257" num="689-2" origine="LEGI"/>
+<LIEN_ART debut="1999-06-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577260" num="689-3" origine="LEGI"/>
+<LIEN_ART debut="1999-06-24" etat="MODIFIE" fin="2004-12-22" id="LEGIARTI000006577263" num="689-4" origine="LEGI"/>
+<LIEN_ART debut="2004-12-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021078006" num="689-4" origine="LEGI"/>
+<LIEN_ART debut="1999-06-24" etat="MODIFIE" fin="2010-12-01" id="LEGIARTI000006577266" num="689-5" origine="LEGI"/>
+<LIEN_ART debut="2010-12-01" etat="MODIFIE" fin="2018-07-15" id="LEGIARTI000030153611" num="689-5" origine="LEGI"/>
+<LIEN_ART debut="2018-07-15" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000037201015" num="689-5" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051742186" num="689-5" origine="LEGI"/>
+<LIEN_ART debut="1999-06-24" etat="MODIFIE" fin="2018-07-15" id="LEGIARTI000006577287" num="689-6" origine="LEGI"/>
+<LIEN_ART debut="2018-07-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037201004" num="689-6" origine="LEGI"/>
+<LIEN_ART debut="1999-06-24" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577289" num="689-7" origine="LEGI"/>
+<LIEN_ART debut="2007-11-14" etat="MODIFIE" fin="2019-09-20" id="LEGIARTI000006577291" num="689-8" origine="LEGI"/>
+<LIEN_ART debut="2019-09-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039113320" num="689-8" origine="LEGI"/>
+<LIEN_ART debut="2000-07-01" etat="MODIFIE" fin="2007-11-14" id="LEGIARTI000006577290" num="689-8" origine="LEGI"/>
+<LIEN_ART debut="2000-06-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577292" num="689-9" origine="LEGI"/>
+<LIEN_ART debut="2001-11-16" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006577293" num="689-10" origine="LEGI"/>
+<LIEN_ART debut="2010-08-11" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000022686516" num="689-11" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000038312592" num="689-11" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2023-11-22" id="LEGIARTI000038358433" num="689-11" origine="LEGI"/>
+<LIEN_ART debut="2023-11-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048442165" num="689-11" origine="LEGI"/>
+<LIEN_ART debut="2009-12-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000021486420" num="689-12" origine="LEGI"/>
+<LIEN_ART debut="2013-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000027809234" num="689-13" origine="LEGI"/>
+<LIEN_ART debut="2018-07-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037198314" num="689-14" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121328">Livre IV : De quelques procédures particulières</TITRE_TM>
+<TM>
+<TITRE_TM debut="1999-06-24" fin="2999-01-01" id="LEGISCTA000006138114">Titre IX : Des infractions commises hors du territoire de la République</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023710132</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/71/01/LEGIARTI000023710132.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>230-22</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-03-16</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="2001-11-16" fin="2999-01-01" id="LEGISCTA000006138091">Titre IV : Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2011-03-16" fin="2999-01-01" id="LEGISCTA000023710126">Chapitre III : Des logiciels de rapprochement judiciaire &#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000023710132" num="230-22" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051743106" num="230-22" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les données à caractère personnel éventuellement révélées par l'exploitation des enquêtes et investigations mentionnées au 1° de l'article 230-20 sont effacées à la clôture de l'enquête et, en tout état de cause, à l'expiration d'un délai de trois ans. </p>
+<p>Les données à caractère personnel éventuellement révélées par l'exploitation des enquêtes mentionnées au 2° du même article sont effacées dès que l'enquête a permis de retrouver la personne disparue ou d'écarter toute suspicion de crime ou délit.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000023707312" datesignatexte="2011-03-14" id="LEGIARTI000023708959" naturetexte="LOI" nortexte="IOCX0903274L" num="14" numtexte="2011-267" sens="cible" typelien="CREE">LOI n°2011-267
+ du 14 mars 2011 - art. 14</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023710128" naturetexte="CODE" nortexte="" num="230-20" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 230-20</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000049403697" naturetexte="CODE" nortexte="" num="R92" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R92 (V)</LIEN>
+</LIENS>
+</ARTICLE>

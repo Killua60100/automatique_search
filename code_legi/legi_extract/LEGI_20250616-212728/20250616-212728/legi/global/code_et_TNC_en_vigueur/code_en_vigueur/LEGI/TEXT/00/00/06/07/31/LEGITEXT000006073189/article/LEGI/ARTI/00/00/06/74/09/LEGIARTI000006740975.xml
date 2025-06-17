@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006740975</ID>
+<ANCIEN_ID>SSAXXXXXXXX1X182L04AXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/74/09/LEGIARTI000006740975.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L182-4</NUM>
+
+<ETAT>ABROGE</ETAT>
+
+<DATE_DEBUT>1993-01-01</DATE_DEBUT>
+<DATE_FIN>2000-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006073189" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité sociale." debut="1958-10-16" fin="2999-01-01" id_txt="LEGITEXT000006073189">Code de la sécurité sociale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2999-01-01" id="LEGISCTA000006106050">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2004-01-01" id="LEGISCTA000006126884">Livre 1 : Généralités</TITRE_TM>
+<TM>
+<TITRE_TM debut="1985-12-21" fin="2004-01-01" id="LEGISCTA000006141599">Dispositions communes à tout ou partie des régimes de base</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-01-25" fin="2000-01-01" id="LEGISCTA000006155997">Titre 8 : Dispositions diverses - Dispositions d'application</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-01-25" fin="2000-01-01" id="LEGISCTA000006172457">Chapitre 2 : Dispositions relatives aux bénéficiaires de l'aide médicale</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1993-01-01" etat="ABROGE" fin="2000-01-01" id="LEGIARTI000006740975" num="L182-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-08-17" etat="MODIFIE" fin="2005-12-20" id="LEGIARTI000006740976" num="L182-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-12-20" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000006740977" num="L182-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2018-06-14" id="LEGIARTI000032181983" num="L182-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2018-06-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000037064252" num="L182-4" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Pour les prestations prises en charge de plein droit par l'aide médicale, par application du barème fixé par voie réglementaire prévu par l'article 187-1 du code de la famille et de l'aide sociale ou des dispositions de l'article 187-2 dudit code, une convention conclue entre, d'une part, l'Etat et, d'autre part, la Caisse nationale d'assurance maladie des travailleurs salariés, la Caisse centrale de secours mutuels agricoles et la Caisse nationale de l'assurance maladie-maternité des travailleurs non salariés des professions non agricoles peut préciser les conditions dans lesquelles les organismes d'assurance maladie exercent au nom de l'Etat les compétences dévolues à celui-ci, en matière d'aide médicale, en vertu des dispositions du titre III bis du code de la famille et de l'aide sociale.<br/>
+<br/>   Cette convention détermine les modalités de versement de frais de gestion aux organismes d'assurance maladie.<br/>
+<br/>   Des organismes chargés d'assurer la gestion de l'aide médicale pour l'ensemble des régimes peuvent être désignés par les directeurs des organismes signataires des conventions.<br/>
+<br/>   La convention mentionnée au premier alinéa prévoit les conditions dans lesquelles les directeurs des organismes d'assurance maladie exercent les attributions dévolues au représentant de l'Etat pour l'application des articles 189-6 et 189-7 du code de la famille et de l'aide sociale.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000866621" datesignatexte="1985-12-17" id="JORFTEXT000000866621" naturetexte="DECRET" nortexte="" num="" numtexte="85-1353" sens="source" typelien="CODIFICATION">Décret 85-1353 1985-12-17</LIEN>
+<LIEN cidtexte="JORFTEXT000000358413" datesignatexte="1992-07-29" id="LEGIARTI000006757650" naturetexte="LOI" nortexte="SPSX9200084L" num="18" numtexte="92-722" sens="source" typelien="CREATION">Loi n°92-722 du 29 juillet 1992 - art. 18 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993</LIEN>
+<LIEN cidtexte="JORFTEXT000000198392" datesignatexte="1999-07-27" id="LEGIARTI000006758134" naturetexte="LOI" nortexte="MESX9900011L" num="33" numtexte="99-641" sens="source" typelien="ABROGATION">Loi n°99-641 du 27 juillet 1999 - art. 33 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000</LIEN>
+
+<LIEN cidtexte="JORFTEXT000020592092" datesignatexte="2009-04-29" id="LEGIARTI000020594439" naturetexte="ARRETE" nortexte="SASS0909227A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 29 avril 2009 - art. 1 (V)</LIEN>
+
+
+
+
+
+
+<LIEN cidtexte="LEGITEXT000006072637" datesignatexte="2999-01-01" id="LEGIARTI000006681454" naturetexte="CODE" nortexte="" num="187-1" numtexte="" sens="source" typelien="CITATION">Code de la famille et de l'aide sociale. - art. 187-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072637" datesignatexte="2999-01-01" id="LEGIARTI000006681457" naturetexte="CODE" nortexte="" num="187-2" numtexte="" sens="source" typelien="CITATION">Code de la famille et de l'aide sociale. - art. 187-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072637" datesignatexte="2999-01-01" id="LEGIARTI000006681470" naturetexte="CODE" nortexte="" num="189-6" numtexte="" sens="source" typelien="CITATION">Code de la famille et de l'aide sociale. - art. 189-6 (P)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072637" datesignatexte="2999-01-01" id="LEGIARTI000006681471" naturetexte="CODE" nortexte="" num="189-7" numtexte="" sens="source" typelien="CITATION">Code de la famille et de l'aide sociale. - art. 189-7 (P)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000051737881" naturetexte="CODE" nortexte="" num="D114-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D114-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000033714831" naturetexte="CODE" nortexte="" num="L221-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L221-1 (M)</LIEN>
+</LIENS>
+</ARTICLE>

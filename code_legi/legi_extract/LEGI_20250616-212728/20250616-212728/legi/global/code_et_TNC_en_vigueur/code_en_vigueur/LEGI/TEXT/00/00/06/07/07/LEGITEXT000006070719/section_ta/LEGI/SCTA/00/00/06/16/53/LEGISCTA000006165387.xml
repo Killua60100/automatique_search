@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165387</ID>
+<TITRE_TA>Section 1 : De la corruption passive et active des personnes n'exerçant pas une fonction publique</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2007-11-14" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006418843" num="445-1" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000024041379" num="445-1" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028311918" num="445-1" origine="LEGI"/>
+<LIEN_ART debut="2005-07-06" etat="MODIFIE" fin="2007-11-14" id="LEGIARTI000006418842" num="445-1" origine="LEGI"/>
+<LIEN_ART debut="2012-02-03" etat="MODIFIE" fin="2017-03-03" id="LEGIARTI000025272153" num="445-1-1" origine="LEGI"/>
+<LIEN_ART debut="2017-03-03" etat="MODIFIE" fin="2018-03-28" id="LEGIARTI000034117015" num="445-1-1" origine="LEGI"/>
+<LIEN_ART debut="2018-03-28" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000036744144" num="445-1-1" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039183231" num="445-1-1" origine="LEGI"/>
+<LIEN_ART debut="2005-07-06" etat="MODIFIE" fin="2007-11-14" id="LEGIARTI000006418844" num="445-2" origine="LEGI"/>
+<LIEN_ART debut="2007-11-14" etat="MODIFIE" fin="2011-05-19" id="LEGIARTI000006418845" num="445-2" origine="LEGI"/>
+<LIEN_ART debut="2011-05-19" etat="MODIFIE" fin="2013-12-08" id="LEGIARTI000024041376" num="445-2" origine="LEGI"/>
+<LIEN_ART debut="2013-12-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000028311915" num="445-2" origine="LEGI"/>
+<LIEN_ART debut="2012-02-03" etat="MODIFIE" fin="2017-03-03" id="LEGIARTI000025272161" num="445-2-1" origine="LEGI"/>
+<LIEN_ART debut="2017-03-03" etat="MODIFIE" fin="2018-03-28" id="LEGIARTI000034117010" num="445-2-1" origine="LEGI"/>
+<LIEN_ART debut="2018-03-28" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000036744138" num="445-2-1" origine="LEGI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039183228" num="445-2-1" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051739736" num="445-2-2" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006136047">Titre IV : Des atteintes à la confiance publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-07-06" fin="2999-01-01" id="LEGISCTA000006149858">Chapitre V : De la corruption des personnes n'exerçant pas une fonction publique</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

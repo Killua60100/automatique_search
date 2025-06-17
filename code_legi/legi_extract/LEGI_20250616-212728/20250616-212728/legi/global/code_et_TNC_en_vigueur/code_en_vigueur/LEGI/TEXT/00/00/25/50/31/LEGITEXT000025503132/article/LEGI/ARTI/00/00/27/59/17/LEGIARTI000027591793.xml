@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000027591793</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/27/59/17/LEGIARTI000027591793.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L317-2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2013-09-06</DATE_DEBUT>
+<DATE_FIN>2019-06-21</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508079">LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508077">TITRE Ier : ARMES ET MUNITIONS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2013-09-06" id="LEGISCTA000025508010">Chapitre VII : Dispositions pénales</TITRE_TM>
+<TITRE_TM debut="2013-09-06" fin="2999-01-01" id="LEGISCTA000027591806">Chapitre VII : Dispositions pénales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2013-09-06" id="LEGIARTI000025505662" num="L317-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-09-06" etat="MODIFIE" fin="2019-06-21" id="LEGIARTI000027591793" num="L317-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2019-06-21" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038666631" num="L317-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende : </p>
+<br/>
+<p>1° Le fait de contrevenir aux dispositions des articles L. 312-5 et L. 317-1 ; </p>
+<br/>
+<p>2° Le fait de vendre ou d'acheter des matériels de guerre, des armes, des munitions ou leurs éléments en méconnaissance des dispositions des articles L. 313-4 et L. 313-5 ; </p>
+<br/>
+<p>3° Le fait de céder ou de vendre des matériels de guerre, des armes, des munitions ou leurs éléments constitutifs à un mineur, hors les cas où cette vente est autorisée dans les conditions fixées par décret en Conseil d'Etat.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000025498645" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe</LIEN>
+<LIEN cidtexte="JORFTEXT000027587228" datesignatexte="2013-06-20" id="LEGIARTI000027588156" naturetexte="ORDONNANCE" nortexte="INTD1308534R" num="1" numtexte="2013-518" sens="cible" typelien="MODIFIE">Ordonnance n°2013-518
+ du 20 juin 2013 - art. 1</LIEN>
+
+<LIEN cidtexte="JORFTEXT000045406621" datesignatexte="2022-03-23" id="LEGITEXT000045407578" naturetexte="DECRET" nortexte="INTD2132000D" num="" numtexte="2022-417" sens="cible" typelien="CITATION">Décret n°2022-417 du 23 mars 2022 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000025509030" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code de la défense. - art. L2339-3 I, v. 2.1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000027591609" naturetexte="CODE" nortexte="" num="L312-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L312-3 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505583" naturetexte="CODE" nortexte="" num="L312-5" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L312-5</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505630" naturetexte="CODE" nortexte="" num="L313-4" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L313-4</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505660" naturetexte="CODE" nortexte="" num="L317-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité intérieure - art. L317-1</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000027590426" naturetexte="CODE" nortexte="" num="L317-2-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L317-2-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000025505664" naturetexte="CODE" nortexte="" num="L317-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L317-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032654721" naturetexte="CODE" nortexte="" num="321-6-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 321-6-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

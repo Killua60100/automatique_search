@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006490130</ID>
+<ANCIEN_ID>ACHDPXXXXXX016AAXXXXXXAA</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/49/01/LEGIARTI000006490130.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>16</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>1971-12-03</DATE_DEBUT>
+<DATE_FIN>1999-12-24</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000511476" date_publi="1971-12-03" date_signature="1971-11-26" ministere="" nature="DECRET" nor="" num="71-941" num_parution_jo="">
+<TITRE_TXT c_titre_court="Décret n° 71-941 du 26 novembre 1971" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000511476">Décret n° 71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°71-941 du 26 novembre 1971" debut="1971-12-03" fin="2999-01-01" id_txt="LEGITEXT000006061875">Décret n°71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1971-12-03" etat="MODIFIE" fin="1999-12-24" id="LEGIARTI000006490130" num="16" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1999-12-24" etat="MODIFIE" fin="2006-02-01" id="LEGIARTI000006490131" num="16" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE_DIFF">
+<LIEN_ART debut="2006-02-01" etat="ABROGE_DIFF" fin="2025-10-01" id="LEGIARTI000006490132" num="16" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741593" num="16" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les grosses et expéditions qui ne sont pas établies conformément aux dispositions de l'article précédent ne peuvent donner lieu à la perception d'aucun émolument. Leur coût est, le cas échéant, écarté d'office de la taxe, les frais de timbre restant à la charge de celui qui a établi la grosse ou l'expédition irrégulière.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000511476" datesignatexte="1971-11-26" id="LEGIARTI000006490120" naturetexte="DECRET" nortexte="" num="15" numtexte="71-941" sens="source" typelien="CITATION">Décret n°71-941 du 26 novembre 1971 - art. 15 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000511476" datesignatexte="1971-11-26" id="LEGIARTI000045268481" naturetexte="DECRET" nortexte="" num="20" numtexte="71-941" sens="cible" typelien="CITATION">Décret n°71-941 du 26 novembre 1971 - art. 20 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000511476" datesignatexte="1971-11-26" id="LEGIARTI000006490226" naturetexte="DECRET" nortexte="" num="25" numtexte="71-941" sens="source" typelien="SPEC_APPLI">Décret n°71-941 du 26 novembre 1971 - art. 25 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000511476" datesignatexte="1971-11-26" id="LEGIARTI000006490235" naturetexte="DECRET" nortexte="" num="26" numtexte="71-941" sens="source" typelien="SPEC_APPLI">Décret n°71-941 du 26 novembre 1971 - art. 26 (M)</LIEN>
+</LIENS>
+</ARTICLE>

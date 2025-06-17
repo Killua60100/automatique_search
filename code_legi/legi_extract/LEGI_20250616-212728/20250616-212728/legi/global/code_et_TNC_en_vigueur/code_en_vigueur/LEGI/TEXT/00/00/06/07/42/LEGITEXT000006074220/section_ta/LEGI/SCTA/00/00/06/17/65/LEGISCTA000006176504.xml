@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006176504</ID>
+<TITRE_TA>Section 1 : Création et dispositions générales</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2006-04-15" etat="MODIFIE" fin="2016-08-10" id="LEGIARTI000006833522" num="L331-1" origine="LEGI"/>
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033035766" num="L331-1" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2006-04-15" id="LEGIARTI000006833521" num="L331-1" origine="LEGI"/>
+<LIEN_ART debut="2006-04-15" etat="MODIFIE" fin="2010-07-14" id="LEGIARTI000006833524" num="L331-2" origine="LEGI"/>
+<LIEN_ART debut="2010-07-14" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000022482565" num="L331-2" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2006-04-15" id="LEGIARTI000006833523" num="L331-2" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2006-04-15" id="LEGIARTI000006833525" num="L331-3" origine="LEGI"/>
+<LIEN_ART debut="2006-04-15" etat="MODIFIE" fin="2010-07-14" id="LEGIARTI000006833526" num="L331-3" origine="LEGI"/>
+<LIEN_ART debut="2010-07-14" etat="MODIFIE" fin="2014-03-27" id="LEGIARTI000022494063" num="L331-3" origine="LEGI"/>
+<LIEN_ART debut="2014-03-27" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000028810195" num="L331-3" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2016-08-10" id="LEGIARTI000031219165" num="L331-3" origine="LEGI"/>
+<LIEN_ART debut="2016-08-10" etat="MODIFIE" fin="2021-04-01" id="LEGIARTI000033035403" num="L331-3" origine="LEGI"/>
+<LIEN_ART debut="2021-04-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042017273" num="L331-3" origine="LEGI"/>
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033030812" num="L331-3-1" origine="LEGI"/>
+<LIEN_ART debut="2016-08-10" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033030814" num="L331-3-2" origine="LEGI"/>
+<LIEN_ART debut="2006-04-15" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000006833528" num="L331-4" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="MODIFIE" fin="2016-08-06" id="LEGIARTI000031219756" num="L331-4" origine="LEGI"/>
+<LIEN_ART debut="2016-08-06" etat="MODIFIE" fin="2017-03-01" id="LEGIARTI000032973439" num="L331-4" origine="LEGI"/>
+<LIEN_ART debut="2017-03-01" etat="MODIFIE" fin="2020-01-08" id="LEGIARTI000033933080" num="L331-4" origine="LEGI"/>
+<LIEN_ART debut="2020-01-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000041454367" num="L331-4" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2006-04-15" id="LEGIARTI000006833527" num="L331-4" origine="LEGI"/>
+<LIEN_ART debut="2006-04-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006833529" num="L331-4-1" origine="LEGI"/>
+<LIEN_ART debut="2006-04-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006833530" num="L331-4-2" origine="LEGI"/>
+<LIEN_ART debut="2006-04-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006833532" num="L331-5" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2006-04-15" id="LEGIARTI000006833531" num="L331-5" origine="LEGI"/>
+<LIEN_ART debut="2006-04-15" etat="MODIFIE" fin="2016-01-01" id="LEGIARTI000006833534" num="L331-6" origine="LEGI"/>
+<LIEN_ART debut="2016-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000031219723" num="L331-6" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="MODIFIE" fin="2006-04-15" id="LEGIARTI000006833533" num="L331-6" origine="LEGI"/>
+<LIEN_ART debut="2006-04-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006833535" num="L331-6-1" origine="LEGI"/>
+<LIEN_ART debut="2000-09-21" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006833536" num="L331-7" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074220" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'environnement" debut="2000-09-21" fin="2999-01-01" id_txt="LEGITEXT000006074220">Code de l'environnement</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006108630">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006129024">Livre III : Espaces naturels</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006143741">Titre III : Parcs et réserves</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-09-21" fin="2999-01-01" id="LEGISCTA000006159239">Chapitre Ier : Parcs nationaux</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

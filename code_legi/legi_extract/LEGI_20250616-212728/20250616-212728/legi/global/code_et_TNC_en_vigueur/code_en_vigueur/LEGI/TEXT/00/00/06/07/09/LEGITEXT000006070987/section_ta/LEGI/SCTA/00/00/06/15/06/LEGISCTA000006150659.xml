@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006150659</ID>
+<TITRE_TA>Chapitre II : Régime juridique.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165902" debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165902" niv="5" url="/LEGI/SCTA/00/00/06/16/59/LEGISCTA000006165902.xml">Section 1 : Réseaux et services.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165936" debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165936" niv="5" url="/LEGI/SCTA/00/00/06/16/59/LEGISCTA000006165936.xml">Section 2 : Annuaires et services de renseignements.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165910" debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165910" niv="5" url="/LEGI/SCTA/00/00/06/16/59/LEGISCTA000006165910.xml">Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165903" debut="2004-06-22" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165903" niv="5" url="/LEGI/SCTA/00/00/06/16/59/LEGISCTA000006165903.xml">Section 4 : Interconnexion et accès au réseau.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165904" debut="2004-07-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165904" niv="5" url="/LEGI/SCTA/00/00/06/16/59/LEGISCTA000006165904.xml">Section 5 : Equipements radioélectriques et terminaux.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165899" debut="1996-07-27" etat="ABROGE" fin="2004-07-10" id="LEGISCTA000006165899" niv="5" url="/LEGI/SCTA/00/00/06/16/58/LEGISCTA000006165899.xml">SECTION 6 : Numérotation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165899" debut="2007-12-19" etat="MODIFIE" fin="2009-12-19" id="LEGISCTA000017731890" niv="5" url="/LEGI/SCTA/00/00/17/73/18/LEGISCTA000017731890.xml">Section 6 : Dispositions particulières aux prestations d'itinérance intranationale.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165899" debut="2009-12-19" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000021493617" niv="5" url="/LEGI/SCTA/00/00/21/49/36/LEGISCTA000021493617.xml">Section 6 : Dispositions particulières aux prestations d'itinérance ultramarine.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000038867140" debut="2019-08-03" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000038867140" niv="5" url="/LEGI/SCTA/00/00/38/86/71/LEGISCTA000038867140.xml">Section 7 : Régime d'autorisation préalable de l'exploitation des équipements de réseaux radioélectriques</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000043538612" debut="2021-05-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000043538612" niv="5" url="/LEGI/SCTA/00/00/43/53/86/LEGISCTA000043538612.xml">Section 8 : Changement de fournisseur de service d'accès à l'Internet </LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000047048317" debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000047048317" niv="5" url="/LEGI/SCTA/00/00/47/04/83/LEGISCTA000047048317.xml">Section 9 : Dispositions particulières au réseau de communications électroniques des services de secours et de sécurité</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070987" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des postes et des communications électroniques" debut="1962-03-14" fin="2999-01-01" id_txt="LEGITEXT000006070987">Code des postes et des communications électroniques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1962-03-14" fin="2999-01-01" id="LEGISCTA000006092423">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-27" fin="2999-01-01" id="LEGISCTA000006118605">LIVRE II : Les communications électroniques</TITRE_TM>
+<TM>
+<TITRE_TM debut="1996-07-27" fin="2999-01-01" id="LEGISCTA000006136631">TITRE Ier : Dispositions générales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

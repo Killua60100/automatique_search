@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006527582</ID>
+<ANCIEN_ID>PPCACXXXXXX073AAXXXXXXAC</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527582.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>73</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2003-03-29</DATE_DEBUT>
+<DATE_FIN>2008-07-25</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000571356" date_publi="1958-10-05" date_signature="1958-10-04" ministere="" nature="CONSTITUTION" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Constitution du 4 octobre 1958" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000571356">Constitution du 4 octobre 1958</TITRE_TXT>
+<TITRE_TXT c_titre_court="Constitution du 4 octobre 1958" debut="1958-10-05" fin="2999-01-01" id_txt="LEGITEXT000006071194">Constitution du 4 octobre 1958 </TITRE_TXT>
+<TM>
+<TITRE_TM debut="1993-07-28" fin="2999-01-01" id="LEGISCTA000006095833">Titre XII : Des collectivités territoriales</TITRE_TM>
+<TITRE_TM debut="1958-10-05" fin="1993-07-28" id="LEGISCTA000042419445">Titre XI : Des collectivités territoriales</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1958-10-05" etat="MODIFIE" fin="1993-07-28" id="LEGIARTI000006527580" num="73" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1993-07-28" etat="MODIFIE" fin="2003-03-29" id="LEGIARTI000006527581" num="73" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2003-03-29" etat="MODIFIE" fin="2008-07-25" id="LEGIARTI000006527582" num="73" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2008-07-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000019241099" num="73" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Dans les départements et les régions d'outre-mer, les lois et règlements sont applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux caractéristiques et contraintes particulières de ces collectivités.<br/>
+<br/>   Ces adaptations peuvent être décidées par ces collectivités dans les matières où s'exercent leurs compétences et si elles y ont été habilitées par la loi.<br/>
+<br/>   Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les collectivités régies par le présent article peuvent être habilitées par la loi à fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre limité de matières pouvant relever du domaine de la loi.<br/>
+<br/>   Ces règles ne peuvent porter sur la nationalité, les droits civiques, les garanties des libertés publiques, l'état et la capacité des personnes, l'organisation de la justice, le droit pénal, la procédure pénale, la politique étrangère, la défense, la sécurité et l'ordre publics, la monnaie, le crédit et les changes, ainsi que le droit électoral. Cette énumération pourra être précisée et complétée par une loi organique.<br/>
+<br/>   La disposition prévue aux deux précédents alinéas n'est pas applicable au département et à la région de La Réunion.<br/>
+<br/>   Les habilitations prévues aux deuxième et troisième alinéas sont décidées, à la demande de la collectivité concernée, dans les conditions et sous les réserves prévues par une loi organique. Elles ne peuvent intervenir lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti.<br/>
+<br/>   La création par la loi d'une collectivité se substituant à un département et une région d'outre-mer ou l'institution d'une assemblée délibérante unique pour ces deux collectivités ne peut intervenir sans qu'ait été recueilli, selon les formes prévues au second alinéa de l'article 72-4, le consentement des électeurs inscrits dans le ressort de ces collectivités.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000571356" datesignatexte="1958-10-04" id="LEGIARTI000006527596" naturetexte="CONSTITUTION" nortexte="" num="72-4" numtexte="" sens="cible" typelien="CITATION">Constitution du 4 octobre 1958 - art. 72-4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000571356" datesignatexte="1958-10-04" id="LEGIARTI000006527587" naturetexte="CONSTITUTION" nortexte="" num="74" numtexte="" sens="cible" typelien="CITATION">Constitution du 4 octobre 1958 - art. 74 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000571356" datesignatexte="1958-10-04" id="LEGIARTI000019241095" naturetexte="CONSTITUTION" nortexte="" num="72-3" numtexte="" sens="cible" typelien="CITATION">Constitution du 4 octobre 1958 - art. 72-3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000339361" datesignatexte="1958-12-29" id="LEGIARTI000042999553" naturetexte="ORDONNANCE" nortexte="" num="7" numtexte="58-1360" sens="cible" typelien="CITATION">Ordonnance n°58-1360 du 29 décembre 1958 - art. 7 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000501099" datesignatexte="1984-01-11" id="LEGIARTI000043633423" naturetexte="LOI" nortexte="" num="10" numtexte="84-16" sens="cible" typelien="CITATION">Loi n° 84-16 du 11 janvier 1984 - art. 10 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000501099" datesignatexte="1984-01-11" id="LEGIARTI000034110639" naturetexte="LOI" nortexte="" num="60" numtexte="84-16" sens="cible" typelien="CITATION">Loi n° 84-16 du 11 janvier 1984 - art. 60 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000337498" datesignatexte="1984-07-04" id="LEGIARTI000022658554" naturetexte="DECRET" nortexte="" num="11" numtexte="84-558" sens="cible" typelien="CITATION">Décret n°84-558 du 4 juillet 1984 - art. 11 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000000321646" datesignatexte="1988-03-11" id="LEGIARTI000036432501" naturetexte="LOI" nortexte="INTX8800003L" num="9" numtexte="88-227" sens="cible" typelien="CITATION">Loi n° 88-227 du 11 mars 1988 - art. 9 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000321646" datesignatexte="1988-03-11" id="LEGIARTI000023245328" naturetexte="LOI" nortexte="INTX8800003L" num="8" numtexte="88-227" sens="cible" typelien="CITATION">Loi n°88-227 du 11 mars 1988 - art. 8 (MMN)</LIEN>
+<LIEN cidtexte="JORFTEXT000000321646" datesignatexte="1988-03-11" id="LEGIARTI000023245314" naturetexte="LOI" nortexte="INTX8800003L" num="9-1" numtexte="88-227" sens="cible" typelien="CITATION">Loi n°88-227 du 11 mars 1988 - art. 9-1 (MMN)</LIEN>
+<LIEN cidtexte="JORFTEXT000000321646" datesignatexte="1988-03-11" id="LEGIARTI000023245319" naturetexte="LOI" nortexte="INTX8800003L" num="9-1-A" numtexte="88-227" sens="cible" typelien="CITATION">Loi n°88-227 du 11 mars 1988 - art. 9-1-A (MMN)</LIEN>
+<LIEN cidtexte="JORFTEXT000000409831" datesignatexte="2002-02-07" id="LEGIARTI000034109930" naturetexte="ORDONNANCE" nortexte="INTX0100166R" num="7" numtexte="2002-149" sens="cible" typelien="CITATION">Ordonnance n° 2002-149 du 7 février 2002 - art. 7 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000601882" datesignatexte="2003-03-28" id="LEGIARTI000006276206" naturetexte="LOI" nortexte="JUSX0200146L" num="9" numtexte="2003-276" sens="cible" typelien="MODIFIE">Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 9</LIEN>
+<LIEN cidtexte="JORFTEXT000000435515" datesignatexte="2004-02-27" id="LEGIARTI000038741680" naturetexte="LOI" nortexte="DOMX0300085L" num="111" numtexte="2004-192" sens="cible" typelien="CITATION">Loi organique n° 2004-192 du 27 février 2004 - art. 111 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000017754909" datesignatexte="2007-12-21" id="LEGIARTI000049999641" naturetexte="ARRETE" nortexte="DEVO0770380A" num="8" numtexte="" sens="cible" typelien="CITATION">Arrêté du 21 décembre 2007 - art. 8 (V)</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000020521873" datesignatexte="2009-04-15" id="LEGIARTI000022405347" naturetexte="LOI_ORGANIQUE" nortexte="PRMX0827219L" num="8" numtexte="2009-403" sens="cible" typelien="CITATION">LOI organique n°2009-403
+ du 15 avril 2009 - art. 8 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000020671201" datesignatexte="2009-05-27" id="LEGIARTI000020672251" naturetexte="LOI" nortexte="IOCX0810789L" num="11" numtexte="2009-594" sens="cible" typelien="CITATION">LOI n°2009-594 du 27 mai 2009 - art. 11 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000020671201" datesignatexte="2009-05-27" id="LEGIARTI000034110515" naturetexte="LOI" nortexte="IOCX0810789L" num="24" numtexte="2009-594" sens="cible" typelien="CITATION">LOI n°2009-594 du 27 mai 2009 - art. 24 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000020671201" datesignatexte="2009-05-27" id="LEGIARTI000020672219" naturetexte="LOI" nortexte="IOCX0810789L" num="68" numtexte="2009-594" sens="cible" typelien="CITATION">LOI n°2009-594
+ du 27 mai 2009 - art. 68 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000020671201" datesignatexte="2009-05-27" id="LEGIARTI000020672221" naturetexte="LOI" nortexte="IOCX0810789L" num="69" numtexte="2009-594" sens="cible" typelien="CITATION">LOI n°2009-594
+ du 27 mai 2009 - art. 69 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000020949548" datesignatexte="2009-08-03" id="LEGIARTI000020950596" naturetexte="LOI" nortexte="DEVX0811607L" num="1" numtexte="2009-967" sens="cible" typelien="CITATION">LOI n°2009-967
+ du 3 août 2009 - art. 1 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000021288022" datesignatexte="2009-11-17" id="LEGITEXT000021288973" naturetexte="DECRET" nortexte="PREX0923347D" num="" numtexte="2009-1405" sens="cible" typelien="CITATION">Décret n°2009-1405
+ du 17 novembre 2009 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000021288022" datesignatexte="2009-11-17" id="LEGIARTI000021288978" naturetexte="DECRET" nortexte="PREX0923347D" num="2" numtexte="2009-1405" sens="cible" typelien="CITATION">Décret n°2009-1405
+ du 17 novembre 2009 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000021288029" datesignatexte="2009-11-17" id="LEGITEXT000021288980" naturetexte="DECRET" nortexte="PREX0923346D" num="" numtexte="2009-1406" sens="cible" typelien="CITATION">Décret n°2009-1406
+ du 17 novembre 2009 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000021288029" datesignatexte="2009-11-17" id="LEGIARTI000021288985" naturetexte="DECRET" nortexte="PREX0923346D" num="2" numtexte="2009-1406" sens="cible" typelien="CITATION">Décret n°2009-1406
+ du 17 novembre 2009 - art. 2 (V)</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000023174577" datesignatexte="2010-12-07" id="LEGIARTI000023176289" naturetexte="LOI" nortexte="IOCX1014249L" num="30" numtexte="2010-1487" sens="cible" typelien="CITATION">LOI n°2010-1487
+ du 7 décembre 2010 - art. 30 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000025915984" datesignatexte="2012-05-24" id="LEGIARTI000025916377" naturetexte="DECRET" nortexte="OMEX1223392D" num="1" numtexte="2012-781" sens="cible" typelien="CITATION">Décret n°2012-781
+ du 24 mai 2012 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026657458" datesignatexte="2012-11-20" id="LEGIARTI000026658410" naturetexte="LOI" nortexte="OMEX1230288L" num="22" numtexte="2012-1270" sens="cible" typelien="CITATION">LOI n°2012-1270
+ du 20 novembre 2012 - art. 22 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026657458" datesignatexte="2012-11-20" id="LEGIARTI000038725906" naturetexte="LOI" nortexte="OMEX1230288L" num="24" numtexte="2012-1270" sens="cible" typelien="CITATION">LOI n°2012-1270
+ du 20 novembre 2012 - art. 24 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026657458" datesignatexte="2012-11-20" id="LEGIARTI000028699400" naturetexte="LOI" nortexte="OMEX1230288L" num="27" numtexte="2012-1270" sens="cible" typelien="CITATION">LOI n°2012-1270
+ du 20 novembre 2012 - art. 27 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000026657458" datesignatexte="2012-11-20" id="LEGIARTI000026658420" naturetexte="LOI" nortexte="OMEX1230288L" num="4" numtexte="2012-1270" sens="cible" typelien="CITATION">LOI n°2012-1270
+ du 20 novembre 2012 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000027356994" datesignatexte="2013-04-18" id="LEGIARTI000045038263" naturetexte="ARRETE" nortexte="BUDE1310293A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 18 avril 2013 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000027498283" datesignatexte="2013-06-03" id="LEGIARTI000027498830" naturetexte="LOI" nortexte="AFSX1308310L" num="3" numtexte="2013-453" sens="cible" typelien="CITATION">LOI n°2013-453
+ du 3 juin 2013 - art. 3 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000027498283" datesignatexte="2013-06-03" id="LEGIARTI000029596202" naturetexte="LOI" nortexte="AFSX1308310L" num="4" numtexte="2013-453" sens="cible" typelien="CITATION">LOI n°2013-453
+ du 3 juin 2013 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000028814381" datesignatexte="2014-03-31" id="LEGIARTI000028815657" naturetexte="DECRET" nortexte="PRMX1405415D" num="2" numtexte="2014-394" sens="cible" typelien="CITATION">Décret n°2014-394
+ du 31 mars 2014 - art. 2 (VT)</LIEN>
+<LIEN cidtexte="JORFTEXT000029313296" datesignatexte="2014-07-31" id="LEGIARTI000042654642" naturetexte="LOI" nortexte="ERNX1315311L" num="6" numtexte="2014-856" sens="cible" typelien="CITATION">LOI n°2014-856 du 31 juillet 2014 - art. 6 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029313296" datesignatexte="2014-07-31" id="LEGIARTI000032374661" naturetexte="LOI" nortexte="ERNX1315311L" num="96" numtexte="2014-856" sens="cible" typelien="CITATION">LOI n°2014-856 du 31 juillet 2014 - art. 96 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029573022" datesignatexte="2014-10-13" id="LEGIARTI000029575265" naturetexte="LOI" nortexte="AGRX1324417L" num="88" numtexte="2014-1170" sens="cible" typelien="CITATION">LOI n° 2014-1170 du 13 octobre 2014 - art. 88 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029879206" datesignatexte="2014-12-09" id="LEGIARTI000029879973" naturetexte="DECRET" nortexte="INTA1417631D" num="4" numtexte="2014-1479" sens="cible" typelien="CITATION">DÉCRET n°2014-1479 du 9 décembre 2014 - art. 4 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000029884810" datesignatexte="2014-12-11" id="LEGIARTI000038631090" naturetexte="DECRET" nortexte="INTX1424293D" num="8" numtexte="2014-1488" sens="cible" typelien="CITATION">DÉCRET n°2014-1488 du 11 décembre 2014 - art. 8 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030491605" datesignatexte="2015-04-16" id="LEGIARTI000030493666" naturetexte="DECRET" nortexte="AGRT1425572D" num="1" numtexte="2015-445" sens="cible" typelien="CITATION">DÉCRET n°2015-445 du 16 avril 2015 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000030513614" datesignatexte="2015-04-21" id="LEGIARTI000030515039" naturetexte="DECRET" nortexte="INTA1503276D" num="2" numtexte="2015-456" sens="cible" typelien="CITATION">DÉCRET n°2015-456 du 21 avril 2015 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000031912641" datesignatexte="2016-01-26" id="LEGIARTI000034109984" naturetexte="LOI" nortexte="AFSX1418355L" num="223" numtexte="2016-41" sens="cible" typelien="CITATION">LOI n° 2016-41 du 26 janvier 2016 - art. 223 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000032854341" datesignatexte="2016-07-07" id="LEGIARTI000032855914" naturetexte="LOI" nortexte="MCCB1511777L" num="96" numtexte="2016-925" sens="cible" typelien="CITATION">LOI n° 2016-925 du 7 juillet 2016 - art. 96 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033692110" datesignatexte="2016-12-23" id="LEGIARTI000033698009" naturetexte="DECRET" nortexte="JUSC1629880D" num="52" numtexte="2016-1851" sens="cible" typelien="CITATION">Décret n°2016-1851 du 23 décembre 2016 - art. 52 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033736337" datesignatexte="2016-12-28" id="LEGIARTI000033840089" naturetexte="DECRET" nortexte="INTC1621315D" num="5" numtexte="2016-1958" sens="cible" typelien="CITATION">Décret n°2016-1958 du 28 décembre 2016 - art. 5 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105399" naturetexte="LOI" nortexte="OMEX1617132L" num="1" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105619" naturetexte="LOI" nortexte="OMEX1617132L" num="119" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 119 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105673" naturetexte="LOI" nortexte="OMEX1617132L" num="146" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 146 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105457" naturetexte="LOI" nortexte="OMEX1617132L" num="36" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 36 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105415" naturetexte="LOI" nortexte="OMEX1617132L" num="37" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 37 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105417" naturetexte="LOI" nortexte="OMEX1617132L" num="42" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 42 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105485" naturetexte="LOI" nortexte="OMEX1617132L" num="55" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 55 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105495" naturetexte="LOI" nortexte="OMEX1617132L" num="56" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 56 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105513" naturetexte="LOI" nortexte="OMEX1617132L" num="73" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 73 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000034105553" naturetexte="LOI" nortexte="OMEX1617132L" num="88" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n° 2017-256 du 28 février 2017 - art. 88 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034103762" datesignatexte="2017-02-28" id="LEGIARTI000042654215" naturetexte="LOI" nortexte="OMEX1617132L" num="7" numtexte="2017-256" sens="cible" typelien="CITATION">LOI n°2017-256 du 28 février 2017 - art. 7 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000037367660" datesignatexte="2018-09-05" id="LEGIARTI000037368708" naturetexte="LOI" nortexte="MTRX1808061L" num="13" numtexte="2018-771" sens="cible" typelien="CITATION">LOI n° 2018-771 du 5 septembre 2018 - art. 13 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000037367660" datesignatexte="2018-09-05" id="LEGIARTI000042674327" naturetexte="LOI" nortexte="MTRX1808061L" num="28" numtexte="2018-771" sens="cible" typelien="CITATION">LOI n°2018-771 du 5 septembre 2018 - art. 28 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000041400376" datesignatexte="2020-01-14" id="LEGIARTI000041403296" naturetexte="ARRETE" nortexte="LOGL1935578A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 14 janvier 2020 - art. 1 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000042748211" datesignatexte="2020-12-28" id="LEGIARTI000049248960" naturetexte="DECRET" nortexte="JUST2022778D" num="149" numtexte="2020-1717" sens="cible" typelien="CITATION">Décret n°2020-1717 du 28 décembre 2020 - art. 149 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000043927356" datesignatexte="2021-08-10" id="LEGIARTI000043927627" naturetexte="DECRET" nortexte="MICE2118421D" num="1" numtexte="2021-1067" sens="cible" typelien="CITATION">Décret n°2021-1067 du 10 août 2021 - art. 1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044416551" datesignatexte="2999-01-01" id="LEGIARTI000044427993" naturetexte="CODE" nortexte="" num="L8" numtexte="" sens="cible" typelien="CITATION">Code général de la fonction publique - art. L8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000049803686" naturetexte="CODE" nortexte="" num="A161-17" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. A161-17 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000049803688" naturetexte="CODE" nortexte="" num="A161-18" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. A161-18 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000049803694" naturetexte="CODE" nortexte="" num="A161-20" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. A161-20 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000051350554" naturetexte="CODE" nortexte="" num="A422-14" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. A422-14 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000044604229" naturetexte="CODE" nortexte="" num="L112-1" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L112-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000044604227" naturetexte="CODE" nortexte="" num="L112-2" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L112-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000044604127" naturetexte="CODE" nortexte="" num="L152-4" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L152-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000044603867" naturetexte="CODE" nortexte="" num="L312-10" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L312-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000046196752" naturetexte="CODE" nortexte="" num="L312-107" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L312-107 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000044603779" naturetexte="CODE" nortexte="" num="L312-38" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L312-38 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000046869446" naturetexte="CODE" nortexte="" num="L312-39" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L312-39 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000044603395" naturetexte="CODE" nortexte="" num="L314-22" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L314-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000046196733" naturetexte="CODE" nortexte="" num="L314-26" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L314-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000044603033" naturetexte="CODE" nortexte="" num="L421-103" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L421-103 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000044603309" naturetexte="CODE" nortexte="" num="L421-5" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L421-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000048626309" naturetexte="CODE" nortexte="" num="L454-10" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L454-10 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000045197395" datesignatexte="2022-02-21" id="LEGIARTI000046194492" naturetexte="LOI" nortexte="TERB2105196L" num="76" numtexte="2022-217" sens="cible" typelien="CITATION">LOI n°2022-217 du 21 février 2022 - art. 76 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051734927" datesignatexte="2025-06-13" id="LEGIARTI000051736819" naturetexte="LOI" nortexte="MOMX2508274L" num="1" numtexte="2025-534" sens="cible" typelien="CITATION">LOI n°2025-534 du 13 juin 2025 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000051734927" datesignatexte="2025-06-13" id="LEGIARTI000051736820" naturetexte="LOI" nortexte="MOMX2508274L" num="2" numtexte="2025-534" sens="cible" typelien="CITATION">LOI n°2025-534 du 13 juin 2025 - art. 2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000026658561" naturetexte="CODE" nortexte="" num="L410-3" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L410-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000026658988" naturetexte="CODE" nortexte="" num="L410-4" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L410-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000034184862" naturetexte="CODE" nortexte="" num="L410-5" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L410-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000042624157" naturetexte="CODE" nortexte="" num="L420-2-1" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L420-2-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000044259057" naturetexte="CODE" nortexte="" num="L462-1" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L462-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000042624066" naturetexte="CODE" nortexte="" num="L752-27" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L752-27 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000034110493" naturetexte="CODE" nortexte="" num="L752-6-1" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L752-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000031323700" naturetexte="CODE" nortexte="" num="L910-1 A" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L910-1 A (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000031323695" naturetexte="CODE" nortexte="" num="L910-1 C" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. L910-1 C (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000005634379" datesignatexte="2999-01-01" id="LEGIARTI000032518275" naturetexte="CODE" nortexte="" num="R711-1" numtexte="" sens="cible" typelien="CITATION">Code de commerce - art. R711-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000050990123" naturetexte="CODE" nortexte="" num="L311-8" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. L311-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000031394946" naturetexte="CODE" nortexte="" num="R777-1-7" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. R777-1-7 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070933" datesignatexte="2999-01-01" id="LEGIARTI000031395305" naturetexte="CODE" nortexte="" num="R777-3-4" numtexte="" sens="cible" typelien="CITATION">Code de justice administrative - art. R777-3-4 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000045137518" naturetexte="CODE" nortexte="" num="L221-2-2" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L221-2-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000049999491" naturetexte="CODE" nortexte="" num="R591-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. R591-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000038845970" naturetexte="CODE" nortexte="" num="L131-8" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L131-8 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000034110584" naturetexte="CODE" nortexte="" num="L541-10" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. L541-10 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000043732578" naturetexte="CODE" nortexte="" num="R543-227-2" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. R543-227-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074075" datesignatexte="2999-01-01" id="LEGIARTI000048249018" naturetexte="CODE" nortexte="" num="L300-6" numtexte="" sens="cible" typelien="CITATION">Code de l'urbanisme - art. L300-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074075" datesignatexte="2999-01-01" id="LEGIARTI000039376702" naturetexte="CODE" nortexte="" num="L350-5" numtexte="" sens="cible" typelien="CITATION">Code de l'urbanisme - art. L350-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071191" datesignatexte="2999-01-01" id="LEGIARTI000027747782" naturetexte="CODE" nortexte="" num="L123-7" numtexte="" sens="cible" typelien="CITATION">Code de l'éducation - art. L123-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000050696617" naturetexte="CODE" nortexte="" num="D251-1-5" numtexte="" sens="cible" typelien="CITATION">Code de l'énergie - art. D251-1-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000047717642" naturetexte="CODE" nortexte="" num="L100-4" numtexte="" sens="cible" typelien="CITATION">Code de l'énergie - art. L100-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000029107525" naturetexte="CODE" nortexte="" num="L671-2" numtexte="" sens="cible" typelien="CITATION">Code de l'énergie - art. L671-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000037701019" datesignatexte="2999-01-01" id="LEGIARTI000037703370" naturetexte="CODE" nortexte="" num="L1400-1" numtexte="" sens="cible" typelien="CITATION">Code de la commande publique - art. L1400-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000031008960" naturetexte="CODE" nortexte="" num="L113-3" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L113-3 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000034131262" naturetexte="CODE" nortexte="" num="L141-1" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L141-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000032224618" naturetexte="CODE" nortexte="" num="L651-1" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L651-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000034130004" naturetexte="CODE" nortexte="" num="L652-1" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L652-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000034130373" naturetexte="CODE" nortexte="" num="L771-12" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. L771-12 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069565" datesignatexte="2999-01-01" id="LEGIARTI000044983959" naturetexte="CODE" nortexte="" num="R542-1" numtexte="" sens="cible" typelien="CITATION">Code de la consommation - art. R542-1 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000046589581" naturetexte="CODE" nortexte="" num="D312-15" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. D312-15 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000046589590" naturetexte="CODE" nortexte="" num="D312-16" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. D312-16 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000041570545" naturetexte="CODE" nortexte="" num="L325-14" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. L325-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000031927512" naturetexte="CODE" nortexte="" num="L1411-10" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L1411-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000045213708" naturetexte="CODE" nortexte="" num="L1434-2" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L1434-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000027498849" naturetexte="CODE" nortexte="" num="L3232-5" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L3232-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000027498851" naturetexte="CODE" nortexte="" num="L3232-6" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L3232-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000034106301" naturetexte="CODE" nortexte="" num="L3232-7-1" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L3232-7-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000043972639" naturetexte="CODE" nortexte="" num="R6111-50" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L6111-50 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000051284890" naturetexte="CODE" nortexte="" num="L6312-5" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. L6312-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000047945609" naturetexte="CODE" nortexte="" num="R1331-26" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. R1331-26 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000047945334" naturetexte="CODE" nortexte="" num="R1331-29" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. R1331-29 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000047945336" naturetexte="CODE" nortexte="" num="R1331-30" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. R1331-30 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000047945340" naturetexte="CODE" nortexte="" num="R1331-32" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. R1331-32 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000047945412" naturetexte="CODE" nortexte="" num="R1331-59" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. R1331-59 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000047945414" naturetexte="CODE" nortexte="" num="R1331-60" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. R1331-60 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000044375292" naturetexte="CODE" nortexte="" num="L731-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L731-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000051285420" naturetexte="CODE" nortexte="" num="L223-11" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L223-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000048697753" naturetexte="CODE" nortexte="" num="L815-13" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L815-13 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000030437933" naturetexte="CODE" nortexte="" num="L100-1" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. L100-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000030437930" naturetexte="CODE" nortexte="" num="L200-1" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. L200-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000030437920" naturetexte="CODE" nortexte="" num="L300-1" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. L300-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000019202648" naturetexte="CODE" nortexte="" num="L400-1" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. L400-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073984" datesignatexte="2999-01-01" id="LEGIARTI000019202646" naturetexte="CODE" nortexte="" num="L500-1" numtexte="" sens="cible" typelien="CITATION">Code des assurances - art. L500-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070302" datesignatexte="2999-01-01" id="LEGIARTI000047453644" naturetexte="CODE" nortexte="" num="L5" numtexte="" sens="cible" typelien="CITATION">Code des pensions civiles et militaires de retr... - art. L5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074068" datesignatexte="2999-01-01" id="LEGIARTI000034414877" naturetexte="CODE" nortexte="" num="R151-12-1" numtexte="" sens="cible" typelien="CITATION">Code des pensions militaires d'invalidité et de... - art. R151-12-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074068" datesignatexte="2999-01-01" id="LEGIARTI000034417740" naturetexte="CODE" nortexte="" num="R151-13" numtexte="" sens="cible" typelien="CITATION">Code des pensions militaires d'invalidité et de... - art. R151-13 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074068" datesignatexte="2999-01-01" id="LEGIARTI000034414910" naturetexte="CODE" nortexte="" num="R151-14-2" numtexte="" sens="cible" typelien="CITATION">Code des pensions militaires d'invalidité et de... - art. R151-14-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000034110356" naturetexte="CODE" nortexte="" num="L1" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070987" datesignatexte="2999-01-01" id="LEGIARTI000039247779" naturetexte="CODE" nortexte="" num="L34-8-6" numtexte="" sens="cible" typelien="CITATION">Code des postes et des communications électroni... - art. L34-8-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000031366350" datesignatexte="2999-01-01" id="LEGIARTI000031367906" naturetexte="CODE" nortexte="" num="L511-1" numtexte="" sens="cible" typelien="CITATION">Code des relations entre le public et l'adminis... - art. L511-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000048325322" naturetexte="CODE" nortexte="" num="R6713-1" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R6713-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000048325368" naturetexte="CODE" nortexte="" num="R6723-2" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R6723-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000048325426" naturetexte="CODE" nortexte="" num="R6733-5" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R6733-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000048325454" naturetexte="CODE" nortexte="" num="R6742-3" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R6742-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000048325512" naturetexte="CODE" nortexte="" num="R6753-5" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R6753-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000048325582" naturetexte="CODE" nortexte="" num="R6763-5" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R6763-5 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000051526472" naturetexte="CODE" nortexte="" num="R6783-5" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R6783-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000020908868" datesignatexte="2999-01-01" id="LEGIARTI000048568714" naturetexte="CODE" nortexte="" num="L213-11" numtexte="" sens="cible" typelien="CITATION">Code du cinéma et de l'image animée - art. L213-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000020908868" datesignatexte="2999-01-01" id="LEGIARTI000034018547" naturetexte="CODE" nortexte="" num="R211-11" numtexte="" sens="cible" typelien="CITATION">Code du cinéma et de l'image animée - art. R211-11 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000038872784" naturetexte="CODE" nortexte="" num="L112-12" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. L112-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000045293840" naturetexte="CODE" nortexte="" num="L112-14" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. L112-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000038872790" naturetexte="CODE" nortexte="" num="L112-15" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. L112-15 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071318" datesignatexte="2999-01-01" id="LEGIARTI000045290739" naturetexte="CODE" nortexte="" num="L131-13-1" numtexte="" sens="cible" typelien="CITATION">Code du sport. - art. L131-13-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000035902384" naturetexte="CODE" nortexte="" num="L1225-46" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L1225-46 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000037388753" naturetexte="CODE" nortexte="" num="L323-8-6-1" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L323-8-6-1 (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000035902555" naturetexte="CODE" nortexte="" num="L5522-21" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L5522-21 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000042604678" naturetexte="CODE" nortexte="" num="L6123-11" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L6123-11 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000045215252" naturetexte="CODE" nortexte="" num="L1111-9-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L1111-9-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024407604" naturetexte="CODE" nortexte="" num="L1451-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L1451-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000046873945" naturetexte="CODE" nortexte="" num="L2334-42" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L2334-42 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024413511" naturetexte="CODE" nortexte="" num="L4433-4-7" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L4433-4-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024405350" naturetexte="CODE" nortexte="" num="L7111-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L7111-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024405638" naturetexte="CODE" nortexte="" num="L7211-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L7211-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000023179869" naturetexte="CODE" nortexte="" num="LO1114-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO1114-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000027439847" naturetexte="CODE" nortexte="" num="LO3445-9" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO3445-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024518323" naturetexte="CODE" nortexte="" num="LO3511-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO3511-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024412201" naturetexte="CODE" nortexte="" num="LO4435-9" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO4435-9 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024405826" naturetexte="CODE" nortexte="" num="LO7311-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO7311-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000024405903" naturetexte="CODE" nortexte="" num="LO7312-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO7312-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000049484450" naturetexte="CODE" nortexte="" num="R2335-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2335-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000044991402" naturetexte="CODE" nortexte="" num="232" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 232 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071785" datesignatexte="2999-01-01" id="LEGIARTI000034110597" naturetexte="CODE" nortexte="" num="68-19" numtexte="" sens="cible" typelien="CITATION">Code minier - art. 68-19 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000033679883" naturetexte="CODE" nortexte="" num="L711-22" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L711-22 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000029723742" naturetexte="CODE" nortexte="" num="R532-20" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. R532-20 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000051370524" naturetexte="CODE" nortexte="" num="L611-1-1" numtexte="" sens="cible" typelien="CITATION">Code rural - art. L611-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000031492144" naturetexte="CODE" nortexte="" num="LO493" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. LO493 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000027439870" naturetexte="CODE" nortexte="" num="LO520" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. LO520 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070239" datesignatexte="2999-01-01" id="LEGIARTI000027439866" naturetexte="CODE" nortexte="" num="LO548" numtexte="" sens="cible" typelien="CITATION">Code électoral - art. LO548 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006389051" naturetexte="CODE" nortexte="" num="LO1112-6" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO1112-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000027439843" naturetexte="CODE" nortexte="" num="LO3445-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO3445-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000020960266" naturetexte="CODE" nortexte="" num="LO3446-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO3446-1 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006392758" naturetexte="CODE" nortexte="" num="LO4435-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO4435-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000006393573" naturetexte="CODE" nortexte="" num="LO6111-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. LO6111-2 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072026" datesignatexte="2999-01-01" id="LEGIARTI000033518534" naturetexte="CODE" nortexte="" num="L713-5" numtexte="" sens="cible" typelien="CITATION">Code monétaire et financier - art. L713-5 (VT)</LIEN>
+</LIENS>
+</ARTICLE>

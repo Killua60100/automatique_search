@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000041851761</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/41/85/17/LEGITEXT000041851761.xml</URL>
+<NATURE>DECRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000041849871</CID>
+<NUM>2020-523</NUM>
+<NUM_PARUTION>0111</NUM_PARUTION>
+<NUM_SEQUENCE>36</NUM_SEQUENCE>
+<NOR>CPAF2001927D</NOR>
+<DATE_PUBLI>2020-05-06</DATE_PUBLI>
+<DATE_TEXTE>2020-05-04</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2025-02-01</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0111 du 6 mai 2020</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Décret n°2020-523 du 4 mai 2020</TITRE>
+<TITREFULL>Décret n° 2020-523 du 4 mai 2020 relatif à la portabilité des équipements contribuant à l'adaptation du poste de travail et aux dérogations aux règles normales des concours, des procédures de recrutement et des examens en faveur des agents publics et des candidats en situation de handicap</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2020-05-07</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000504704" datesignatexte="1983-07-13" id="JORFTEXT000000504704" naturetexte="LOI" nortexte="" num="" numtexte="83-634" sens="source" typelien="CITATION">Loi n° 83-634 du 13 juillet 1983 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000501099" datesignatexte="1984-01-11" id="JORFTEXT000000501099" naturetexte="LOI" nortexte="" num="" numtexte="84-16" sens="source" typelien="CITATION">Loi n° 84-16 du 11 janvier 1984 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000501099" datesignatexte="1984-01-11" id="LEGIARTI000006450559" naturetexte="LOI" nortexte="" num="27" numtexte="84-16" sens="source" typelien="CITATION">Loi n° 84-16 du 11 janvier 1984 - art. 27 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000320434" datesignatexte="1984-01-26" id="LEGIARTI000006366684" naturetexte="LOI" nortexte="" num="27" numtexte="84-53" sens="source" typelien="CITATION">Loi n° 84-53 du 26 janvier 1984 - art. 27 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000320434" datesignatexte="1984-01-26" id="LEGIARTI000006366739" naturetexte="LOI" nortexte="" num="38" numtexte="84-53" sens="source" typelien="CITATION">Loi n° 84-53 du 26 janvier 1984 - art. 38 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000512459" datesignatexte="1986-01-09" id="JORFTEXT000000512459" naturetexte="LOI" nortexte="" num="" numtexte="86-33" sens="source" typelien="CITATION">Loi n° 86-33 du 9 janvier 1986 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000512459" datesignatexte="1986-01-09" id="LEGIARTI000006695834" naturetexte="LOI" nortexte="" num="27" numtexte="86-33" sens="source" typelien="CITATION">Loi n° 86-33 du 9 janvier 1986 - art. 27 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000884830" datesignatexte="1986-03-14" id="JORFTEXT000000884830" naturetexte="DECRET" nortexte="" num="" numtexte="86-442" sens="source" typelien="CITATION">Décret n°86-442 du 14 mars 1986 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000371950" datesignatexte="1995-08-25" id="JORFTEXT000000371950" naturetexte="DECRET" nortexte="PRMG9570441D" num="" numtexte="95-979" sens="source" typelien="CITATION">Décret n°95-979 du 25 août 1995 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000562718" datesignatexte="1996-12-10" id="JORFTEXT000000562718" naturetexte="DECRET" nortexte="FPPA9610032D" num="" numtexte="96-1087" sens="source" typelien="CITATION">Décret n°96-1087 du 10 décembre 1996 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000000746674" datesignatexte="1997-02-25" id="JORFTEXT000000746674" naturetexte="DECRET" nortexte="TASH9624401D" num="" numtexte="97-185" sens="source" typelien="CITATION">Décret n°97-185 du 25 février 1997 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000027666449" datesignatexte="2013-07-05" id="JORFTEXT000027666449" naturetexte="DECRET" nortexte="INTB1305601D" num="" numtexte="2013-593" sens="source" typelien="CITATION">Décret n°2013-593 du 5 juillet 2013 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000038889182" datesignatexte="2019-08-06" id="JORFARTI000038889280" naturetexte="LOI" nortexte="CPAF1832065L" num="92" numtexte="2019-828" sens="source" typelien="CITATION">LOI n°2019-828 du 6 août 2019 - art. 92</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Le Premier ministre,<br/>Sur le rapport du ministre de l'action et des comptes publics,<br/>Vu la loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires, notamment son article 6 sexies, ensemble la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat, notamment son article 27, la loi n° 84-53 du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique territoriale, notamment son article 35, et la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière, notamment son article 27 ;<br/>Vu le décret n° 86-442 du 14 mars 1986 modifié relatif à la désignation des médecins agréés, à l'organisation des comités médicaux et des commissions de réforme, aux conditions d'aptitude physique pour l'admission aux emplois publics et au régime de congés de maladie des fonctionnaires ;<br/>Vu le décret n° 95-979 du 25 août 1995 modifié relatif au recrutement des travailleurs handicapés dans la fonction publique pris pour l'application de l'article 27 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ;<br/>Vu le décret n° 96-1087 du 10 décembre 1996 modifié relatif au recrutement des travailleurs handicapés dans la fonction publique pris pour l'application de l'article 38 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale ;<br/>Vu le décret n° 97-185 du 25 février 1997 modifié relatif au recrutement des travailleurs handicapés dans la fonction publique hospitalière pris pour l'application de l'article 27 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière ;<br/>Vu le décret n° 2013-593 du 5 juillet 2013 modifié relatif aux conditions générales de recrutement et d'avancement de grade et portant dispositions statutaires diverses applicables aux fonctionnaires de la fonction publique territoriale ;<br/>Vu l'avis du Conseil national consultatif des personnes handicapées du 21 janvier 2020 ;<br/>Vu l'avis du Conseil commun de la fonction publique du 30 janvier 2020 ;<br/>Vu l'avis du Conseil national de l'évaluation des normes du 6 février 2020 ;<br/>Le Conseil d'Etat (section de l'administration) entendu,<br/>Décrète :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 4 mai 2020.</p>
+</div>
+<div align="left">
+<p>Edouard Philippe</p>
+<p>Par le Premier ministre :</p>
+</div>
+<div align="left">
+<p>Le ministre de l'action et des comptes publics,</p>
+<p>Gérald Darmanin</p>
+</div>
+<div align="left">
+<p>Le ministre des solidarités et de la santé,</p>
+<p>Olivier Véran</p>
+</div>
+<div align="left">
+<p>La ministre de la cohésion des territoires et des relations avec les collectivités territoriales,</p>
+<p>Jacqueline Gourault</p>
+</div>
+<div align="left">
+<p>Le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé des collectivités territoriales,</p>
+<p>Sébastien Lecornu</p>
+</div>
+<div align="left">
+<p>Le secrétaire d'Etat auprès du ministre de l'action et des comptes publics,</p>
+<p>Olivier Dussopt</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

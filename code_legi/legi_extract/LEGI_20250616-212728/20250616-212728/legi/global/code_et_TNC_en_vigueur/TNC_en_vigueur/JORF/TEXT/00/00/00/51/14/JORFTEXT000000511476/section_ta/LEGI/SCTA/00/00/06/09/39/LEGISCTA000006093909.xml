@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006093909</ID>
+<TITRE_TA>Titre X : Dispositions finales</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2006-02-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006490440" num="41" origine="LEGI"/>
+<LIEN_ART debut="2006-02-01" etat="MODIFIE" fin="2016-05-26" id="LEGIARTI000006490452" num="42" origine="LEGI"/>
+<LIEN_ART debut="2016-05-26" etat="MODIFIE" fin="2020-11-22" id="LEGIARTI000032586815" num="42" origine="LEGI"/>
+<LIEN_ART debut="2020-11-22" etat="MODIFIE" fin="2022-02-27" id="LEGIARTI000042548556" num="42" origine="LEGI"/>
+<LIEN_ART debut="2022-02-27" etat="ABROGE_DIFF" fin="2025-10-01" id="LEGIARTI000045268495" num="42" origine="LEGI"/>
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051741595" num="42" origine="LEGI"/>
+<LIEN_ART debut="2006-02-01" etat="MODIFIE" fin="2017-05-05" id="LEGIARTI000006490468" num="43" origine="LEGI"/>
+<LIEN_ART debut="2017-05-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000034585405" num="43" origine="LEGI"/>
+<LIEN_ART debut="2006-02-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006490476" num="44" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000511476" date_publi="1971-12-03" date_signature="1971-11-26" ministere="" nature="DECRET" nor="" num="71-941" num_parution_jo="">
+<TITRE_TXT c_titre_court="Décret n° 71-941 du 26 novembre 1971" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000511476">Décret n° 71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+<TITRE_TXT c_titre_court="Décret n°71-941 du 26 novembre 1971" debut="1971-12-03" fin="2999-01-01" id_txt="LEGITEXT000006061875">Décret n°71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

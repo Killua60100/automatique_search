@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000030935082</ID>
+<TITRE_TA>Chapitre II : Règles de déontologie et de fonctionnement &#13;
+</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2015-10-03" etat="ABROGE" fin="2017-01-22" id="LEGIARTI000030935084" num="L832-1" origine="LEGI"/>
+<LIEN_ART debut="2015-10-03" etat="MODIFIE" fin="2017-01-22" id="LEGIARTI000030935086" num="L832-2" origine="LEGI"/>
+<LIEN_ART debut="2017-01-22" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000033912415" num="L832-2" origine="LEGI"/>
+<LIEN_ART debut="2015-10-03" etat="MODIFIE" fin="2017-01-22" id="LEGIARTI000030935088" num="L832-3" origine="LEGI"/>
+<LIEN_ART debut="2017-01-22" etat="MODIFIE" fin="2021-07-31" id="LEGIARTI000033912408" num="L832-3" origine="LEGI"/>
+<LIEN_ART debut="2021-07-31" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000043887660" num="L832-3" origine="LEGI"/>
+<LIEN_ART debut="2015-10-03" etat="ABROGE" fin="2017-01-22" id="LEGIARTI000030935090" num="L832-4" origine="LEGI"/>
+<LIEN_ART debut="2015-10-03" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000030935092" num="L832-5" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030934655">LIVRE VIII : DU RENSEIGNEMENT</TITRE_TM>
+<TM>
+<TITRE_TM debut="2015-10-03" fin="2999-01-01" id="LEGISCTA000030935074">TITRE III : DE LA COMMISSION NATIONALE DE CONTRÔLE DES TECHNIQUES DE RENSEIGNEMENT &#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

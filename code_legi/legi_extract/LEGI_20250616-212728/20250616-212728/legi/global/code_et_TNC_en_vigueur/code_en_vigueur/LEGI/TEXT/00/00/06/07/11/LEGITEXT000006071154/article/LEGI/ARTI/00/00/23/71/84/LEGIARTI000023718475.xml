@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000023718475</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/23/71/84/LEGIARTI000023718475.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>41-5</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2011-03-16</DATE_DEBUT>
+<DATE_FIN>2015-02-18</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006138088">Titre Ier : Des autorités chargées de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753873">Titre Ier : Des autorités chargées  de la conduite de la politique pénale, de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151873">Chapitre II : Du ministère public</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006167418">Section 3 : Des attributions du procureur de la République</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-10-30" etat="MODIFIE" fin="2011-02-04" id="LEGIARTI000006574976" num="41-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-02-04" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000022470162" num="41-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2015-02-18" id="LEGIARTI000023718475" num="41-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-02-18" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000030254282" num="41-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2016-06-05" etat="MODIFIE" fin="2018-10-25" id="LEGIARTI000032655841" num="41-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-10-25" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000037526024" num="41-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2020-12-31" id="LEGIARTI000038846032" num="41-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-12-31" etat="MODIFIE" fin="2024-06-26" id="LEGIARTI000042915825" num="41-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2024-06-26" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000049778610" num="41-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740505" num="41-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Lorsqu'au cours de l'enquête la restitution des biens meubles saisis et dont la conservation n'est plus nécessaire à la manifestation de la vérité s'avère impossible, soit parce que le propriétaire ne peut être identifié, soit parce que le propriétaire ne réclame pas l'objet dans un délai de deux mois à compter d'une mise en demeure adressée à son dernier domicile connu, le juge des libertés et de la détention peut, sur requête du procureur de la République et sous réserve des droits des tiers, autoriser la destruction de ces biens ou leur remise à l'Agence de gestion et de recouvrement des avoirs saisis et confisqués aux fins d'aliénation.</p>
+<p>Le juge des libertés et de la détention peut également autoriser la remise à l'Agence de gestion et de recouvrement des avoirs saisis et confisqués, en vue de leur aliénation, des biens meubles saisis dont la conservation en nature n'est plus nécessaire à la manifestation de la vérité et dont la confiscation est prévue par la loi, lorsque le maintien de la saisie serait de nature à diminuer la valeur du bien. S'il est procédé à la vente du bien, le produit de celle-ci est consigné. En cas de classement sans suite, de non-lieu ou de relaxe, ou lorsque la peine de confiscation n'est pas prononcée, ce produit est restitué au propriétaire des objets s'il en fait la demande.</p>
+<p>Les ordonnances prises en application des deux premiers alinéas sont motivées et notifiées au ministère public et, s'ils sont connus, au propriétaire ainsi qu'aux tiers ayant des droits sur le bien, qui peuvent la déférer à la chambre de l'instruction par déclaration au greffe du tribunal dans les dix jours qui suivent la notification de la décision. Cet appel est suspensif. Le propriétaire et les tiers peuvent être entendus par la chambre de l'instruction. Les tiers ne peuvent toutefois pas prétendre à la mise à disposition de la procédure.</p>
+<p>Lorsque le maintien de la saisie serait de nature à diminuer la valeur du bien, le juge des libertés et de la détention peut également ordonner, sous réserve des droits des tiers, de remettre au service des domaines, en vue de leur affectation à titre gratuit par l'autorité administrative et après que leur valeur a été expertisée, à des services de police, des unités de gendarmerie ou des services de l'administration des douanes qui effectuent des missions de police judiciaire, des biens meubles placés sous main de justice appartenant aux personnes poursuivies dont la conservation n'est plus nécessaire à la manifestation de la vérité et dont la confiscation est prévue par la loi. En cas de classement sans suite, de non-lieu, de relaxe ou d'acquittement, ou lorsque la peine de confiscation n'est pas prononcée, le propriétaire qui en fait la demande obtient la restitution du bien, assortie s'il y a lieu d'une indemnité compensant la perte de valeur qui a pu résulter de l'usage du bien. </p>
+<p>Un décret en Conseil d'Etat détermine les modalités d'application du présent article.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000038452887" naturetexte="LOI" nortexte="DEFX9400020L" num="11" numtexte="94-589" sens="cible" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 11 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000713756" datesignatexte="1994-07-15" id="LEGIARTI000031532617" naturetexte="LOI" nortexte="DEFX9400020L" num="16 bis" numtexte="94-589" sens="cible" typelien="CITATION">Loi n°94-589 du 15 juillet 1994 - art. 16 bis (Ab)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000023707312" datesignatexte="2011-03-14" id="LEGIARTI000023708955" naturetexte="LOI" nortexte="IOCX0903274L" num="98" numtexte="2011-267" sens="cible" typelien="MODIFIE">LOI n°2011-267
+ du 14 mars 2011 - art. 98</LIEN>
+<LIEN cidtexte="JORFTEXT000025060669" datesignatexte="2011-12-30" id="LEGITEXT000025097396" naturetexte="DECRET" nortexte="BCRE1133419D" num="" numtexte="2011-2078" sens="cible" typelien="CITATION">Décret n°2011-2078
+ du 30 décembre 2011 (V)</LIEN>
+
+
+
+<LIEN cidtexte="LEGITEXT000045476241" datesignatexte="2999-01-01" id="LEGIARTI000045480360" naturetexte="CODE" nortexte="" num="L223-2" numtexte="" sens="cible" typelien="CITATION">Code pénitentiaire - art. L223-2 (V)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000022470116" naturetexte="CODE" nortexte="" num="706-144" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-144 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000022470114" naturetexte="CODE" nortexte="" num="706-145" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-145 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051740538" naturetexte="CODE" nortexte="" num="706-160" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-160 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000038313998" naturetexte="CODE" nortexte="" num="727-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 727-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000020586676" naturetexte="CODE" nortexte="" num="R15-33-66-1" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R15-33-66-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000023509933" naturetexte="CODE" nortexte="" num="R54-9" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. R54-9 (V)</LIEN>
+</LIENS>
+</ARTICLE>

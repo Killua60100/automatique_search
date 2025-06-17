@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000047858929</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/47/85/89/LEGIARTI000047858929.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+
+<ETAT/>
+
+<DATE_DEBUT>2999-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>ENTIEREMENT_MODIF</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000047858021" date_publi="2023-07-19" date_signature="2023-07-18" ministere="" nature="LOI" nor="ECOD2306819L" num="2023-610" num_parution_jo="0165">
+<TITRE_TXT c_titre_court="LOI n°2023-610 du 18 juillet 2023" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000047858021">LOI n° 2023-610 du 18 juillet 2023 visant à donner à la douane les moyens de faire face aux nouvelles menaces (1)</TITRE_TXT>
+<TITRE_TXT c_titre_court="LOI n°2023-610 du 18 juillet 2023" debut="2023-07-20" fin="2999-01-01" id_txt="LEGITEXT000047858849">LOI n° 2023-610 du 18 juillet 2023 visant à donner à la douane les moyens de faire face aux nouvelles menaces (1)</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2023-07-20" fin="2999-01-01" id="LEGISCTA000047858853">Titre Ier : MAINTENIR LA SURVEILLANCE DOUANIÈRE SUR L'ENSEMBLE DU TERRITOIRE</TITRE_TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="LEGIARTI000047858929" num="2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000047858027" num="2" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>A modifié les dispositions suivantes :<blockquote>- Code rural et de la pêche maritime<blockquote>
+  Art. L236-6,   Art. L251-18,   Art. L251-18-1
+</blockquote>
+</blockquote>
+<blockquote>- Code du patrimoine<blockquote>
+  Art. L112-24
+</blockquote>
+</blockquote>
+<blockquote>- Livre des procédures fiscales<blockquote>
+  Art. L80 J
+</blockquote>
+</blockquote>
+<blockquote>- Code des douanes<blockquote>
+  Art. 65 B,   Art. 67 bis
+</blockquote>
+</blockquote>
+<br/>
+<br/>A modifié les dispositions suivantes :<blockquote>- Code des douanes<blockquote>
+  Art. 60
+</blockquote>
+</blockquote>
+<br/>
+<br/>A créé les dispositions suivantes :<blockquote>- Code des douanes<blockquote>
+  Art. 60-1,   Art. 60-2,   Art. 60-3,   Art. 60-4,   Art. 60-5,   Art. 60-6,   Art. 60-7,   Art. 60-8,   Art. 60-9,   Art. 60-10
+</blockquote>
+</blockquote>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006069583" datesignatexte="2999-01-01" id="LEGIARTI000047861437" naturetexte="CODE" nortexte="" num="L80 J" numtexte="" sens="source" typelien="MODIFIE">Livre des procédures fiscales - art. L80 J (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000047861461" naturetexte="CODE" nortexte="" num="L236-6" numtexte="" sens="source" typelien="MODIFIE">Code rural et de la pêche maritime - art. L236-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000047861458" naturetexte="CODE" nortexte="" num="L251-18" numtexte="" sens="source" typelien="MODIFIE">Code rural et de la pêche maritime - art. L251-18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000047861451" naturetexte="CODE" nortexte="" num="L251-18-1" numtexte="" sens="source" typelien="MODIFIE">Code rural et de la pêche maritime - art. L251-18-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047861397" naturetexte="CODE" nortexte="" num="60" numtexte="" sens="source" typelien="MODIFIE">Code des douanes - art. 60 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859031" naturetexte="CODE" nortexte="" num="60-1" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859049" naturetexte="CODE" nortexte="" num="60-10" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859033" naturetexte="CODE" nortexte="" num="60-2" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859035" naturetexte="CODE" nortexte="" num="60-3" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859037" naturetexte="CODE" nortexte="" num="60-4" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859039" naturetexte="CODE" nortexte="" num="60-5" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859041" naturetexte="CODE" nortexte="" num="60-6" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859043" naturetexte="CODE" nortexte="" num="60-7" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-7 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859045" naturetexte="CODE" nortexte="" num="60-8" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-8 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047859047" naturetexte="CODE" nortexte="" num="60-9" numtexte="" sens="source" typelien="CREE">Code des douanes - art. 60-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047861429" naturetexte="CODE" nortexte="" num="65 B" numtexte="" sens="source" typelien="MODIFIE">Code des douanes - art. 65 B (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071570" datesignatexte="2999-01-01" id="LEGIARTI000047861413" naturetexte="CODE" nortexte="" num="67 bis" numtexte="" sens="source" typelien="MODIFIE">Code des douanes - art. 67 bis (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074236" datesignatexte="2999-01-01" id="LEGIARTI000047861449" naturetexte="CODE" nortexte="" num="L112-24" numtexte="" sens="source" typelien="MODIFIE">Code du patrimoine - art. L112-24 (V)</LIEN>
+</LIENS>
+</ARTICLE>

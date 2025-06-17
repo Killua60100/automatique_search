@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000031727809</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/31/72/78/LEGIARTI000031727809.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L241-3</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2015-12-30</DATE_DEBUT>
+<DATE_FIN>2017-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006074069" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de l'action sociale et des familles" debut="2000-12-23" fin="2999-01-01" id_txt="LEGITEXT000006074069">Code de l'action sociale et des familles</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2000-12-23" fin="2999-01-01" id="LEGISCTA000006107980">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-12-23" fin="2999-01-01" id="LEGISCTA000006128458">Livre II : Différentes formes d'aide et d'action sociales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-12-23" fin="2999-01-01" id="LEGISCTA000006142839">Titre IV : Personnes handicapées</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-12-23" fin="2999-01-01" id="LEGISCTA000006157597">Chapitre Ier : Dispositions générales.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2000-12-23" etat="MODIFIE" fin="2005-02-12" id="LEGIARTI000006797041" num="L241-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-02-12" etat="MODIFIE" fin="2005-05-14" id="LEGIARTI000006797042" num="L241-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2005-05-14" etat="MODIFIE" fin="2015-12-30" id="LEGIARTI000006797043" num="L241-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-12-30" etat="MODIFIE" fin="2017-01-01" id="LEGIARTI000031727809" num="L241-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-01-01" etat="MODIFIE" fin="2023-01-01" id="LEGIARTI000033975697" num="L241-3" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000045293413" num="L241-3" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Une carte d'invalidité est délivrée à titre définitif ou pour une durée déterminée par la commission mentionnée à l'article L. 146-9 à toute personne dont le taux d'incapacité permanente est au moins de 80 %, apprécié suivant des référentiels définis par voie réglementaire, ou qui a été classée en 3e catégorie de la pension d'invalidité de la sécurité sociale. Cette carte permet notamment d'obtenir une priorité d'accès aux places assises dans les transports en commun, dans les espaces et salles d'attente ainsi que dans les établissements et les manifestations accueillant du public, tant pour son titulaire que pour la personne qui l'accompagne dans ses déplacements. Elle permet également d'obtenir une priorité dans les files d'attente. Cette disposition doit être rappelée par un affichage clair et visible dans les lieux dans lesquels ce droit s'exerce. </p>
+<p>Lorsque le demandeur est bénéficiaire de l'allocation mentionnée à l'article L. 232-1 et classé dans les groupes 1 ou 2 de la grille nationale prévue à l'article L. 232-2, la carte est délivrée à titre définitif dans les conditions prévues au dernier alinéa de l'article L. 146-4. </p>
+<br/>
+<p>Les dispositions du présent article sont applicables aux Français établis hors de France.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000699956" datesignatexte="1986-01-17" id="LEGIARTI000006486610" naturetexte="DECRET" nortexte="" num="42-4" numtexte="86-83" sens="cible" typelien="CITATION">Décret n°86-83 du 17 janvier 1986 - art. 42-4 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000687467" datesignatexte="1987-07-30" id="LEGIARTI000033220273" naturetexte="LOI" nortexte="ASEX8700089L" num="88" numtexte="87-588" sens="cible" typelien="CITATION">Loi n° 87-588 du 30 juillet 1987 - art. 88 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000000294318" datesignatexte="1987-07-29" id="LEGIARTI000038053731" naturetexte="ARRETE" nortexte="EQUC8700526A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 29 juillet 1987 - art. 2 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000000871608" datesignatexte="1988-02-15" id="LEGIARTI000021367624" naturetexte="DECRET" nortexte="INTB8800027D" num="32-4" numtexte="88-145" sens="cible" typelien="CITATION">Décret n°88-145 du 15 février 1988 - art. 32-4 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000885437" datesignatexte="1989-06-20" id="LEGIARTI000018653016" naturetexte="DECRET" nortexte="AGRE8900827D" num="30-3" numtexte="89-406" sens="cible" typelien="CITATION">Décret n°89-406 du 20 juin 1989 - art. 30-3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000343794" datesignatexte="1991-02-06" id="LEGIARTI000021710969" naturetexte="DECRET" nortexte="SANH9002461D" num="38-3" numtexte="91-155" sens="cible" typelien="CITATION">Décret n°91-155 du 6 février 1991 - art. 38-3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000721124" datesignatexte="1991-12-19" id="LEGIARTI000033830252" naturetexte="DECRET" nortexte="JUSC9120745D" num="4" numtexte="91-1266" sens="cible" typelien="CITATION">Décret n°91-1266 du 19 décembre 1991 - art. 4 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000174902" datesignatexte="1991-12-30" id="LEGIARTI000027604908" naturetexte="DECRET" nortexte="JUSC9121053D" num="17-4" numtexte="91-1369" sens="cible" typelien="CITATION">Décret n°91-1369 du 30 décembre 1991 - art. 17-4 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000174902" datesignatexte="1991-12-30" id="LEGIARTI000033830470" naturetexte="DECRET" nortexte="JUSC9121053D" num="7-3" numtexte="91-1369" sens="cible" typelien="CITATION">Décret n°91-1369 du 30 décembre 1991 - art. 7-3 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000000402347" datesignatexte="2999-01-01" id="JORFTEXT000000402347" naturetexte="RAPPORT" nortexte="MESX0000083P" num="" numtexte="" sens="source" typelien="CODIFICATION">Rapport au Président de la République relatif à l'ordonnance n° 2000-1249 du 21 décembre 2000 </LIEN>
+<LIEN cidtexte="JORFTEXT000000215460" datesignatexte="2002-01-02" id="JORFTEXT000000215460" naturetexte="LOI" nortexte="MESX0000158L" num="" numtexte="2002-2" sens="source" typelien="CODIFICATION">Loi n°2002-2 du 2 janvier 2002</LIEN>
+<LIEN cidtexte="JORFTEXT000017641654" datesignatexte="2007-12-11" id="LEGITEXT000017646142" naturetexte="DECRET" nortexte="JUSJ0768412D" num="" numtexte="2007-1738" sens="cible" typelien="CITATION">Décret n°2007-1738
+ du 11 décembre 2007 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000019103570" datesignatexte="2008-06-30" id="LEGIARTI000023732844" naturetexte="DECRET" nortexte="MTSS0813151D" num="7" numtexte="2008-637" sens="cible" typelien="CITATION">Décret n°2008-637
+ du 30 juin 2008 - art. 7 (VD)</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000030987304" datesignatexte="2015-07-24" id="LEGIARTI000051569345" naturetexte="ARRETE" nortexte="AFSS1518266A" num="1" numtexte="" sens="cible" typelien="CITATION">ARRÊTÉ du 24 juillet 2015 - art. 1 (V)</LIEN>
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000031700731" datesignatexte="2015-12-28" id="LEGIARTI000031706418" naturetexte="LOI" nortexte="AFSX1404296L" num="44" numtexte="2015-1776" sens="cible" typelien="MODIFIE">LOI n°2015-1776 du 28 décembre 2015 - art. 44</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000033691828" datesignatexte="2016-12-23" id="LEGITEXT000033695045" naturetexte="DECRET" nortexte="AFSA1619582D" num="" numtexte="2016-1847" sens="cible" typelien="CITATION">Décret n°2016-1847 du 23 décembre 2016 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033691882" datesignatexte="2016-12-23" id="LEGITEXT000033696785" naturetexte="DECRET" nortexte="AFSA1629022D" num="" numtexte="2016-1849" sens="cible" typelien="CITATION">Décret n°2016-1849 du 23 décembre 2016 (V)</LIEN>
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000033691882" datesignatexte="2016-12-23" id="LEGIARTI000033696820" naturetexte="DECRET" nortexte="AFSA1629022D" num="8" numtexte="2016-1849" sens="cible" typelien="CITATION">Décret n°2016-1849 du 23 décembre 2016 - art. 8 (V)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000033735874" datesignatexte="2016-12-28" id="LEGIARTI000049988069" naturetexte="ARRETE" nortexte="AFSA1632658A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 décembre 2016 - art. 2 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000033735874" datesignatexte="2016-12-28" id="LEGIARTI000049988072" naturetexte="ARRETE" nortexte="AFSA1632658A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 décembre 2016 - art. 3 (VD)</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000033793799" datesignatexte="2017-01-03" id="LEGIARTI000033837908" naturetexte="ARRETE" nortexte="AFSA1632777A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 3 janvier 2017 - art. 1 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000034485459" datesignatexte="2017-04-20" id="LEGITEXT000034485890" naturetexte="ARRETE" nortexte="LHAL1704269A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 20 avril 2017 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000034485459" datesignatexte="2017-04-20" id="LEGIARTI000034485946" naturetexte="ARRETE" nortexte="LHAL1704269A" num="3" numtexte="" sens="cible" typelien="CITATION">Arrêté du 20 avril 2017 - art. 3 (VD)</LIEN>
+<LIEN cidtexte="JORFTEXT000034633951" datesignatexte="2017-05-09" id="LEGIARTI000034689835" naturetexte="DECRET" nortexte="AFSA1637486D" num="1" numtexte="2017-879" sens="cible" typelien="CITATION">Décret n°2017-879 du 9 mai 2017 - art. 1</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000037885188" datesignatexte="2018-12-28" id="LEGIARTI000038015998" naturetexte="ARRETE" nortexte="LOGL1832656A" num="2" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 décembre 2018 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000038159270" datesignatexte="2019-02-15" id="LEGITEXT000038162956" naturetexte="ARRETE" nortexte="PRMS1835387A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 15 février 2019 (V)</LIEN>
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000038702393" datesignatexte="2019-06-28" id="LEGIARTI000038705777" naturetexte="DECRET" nortexte="TRER1900480D" num="1" numtexte="2019-663" sens="cible" typelien="CITATION">Décret n°2019-663 du 28 juin 2019 - art. 1</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000039384651" datesignatexte="2019-11-15" id="LEGIARTI000039387291" naturetexte="DECRET" nortexte="LOGL1904988D" num="1" numtexte="2019-1183" sens="cible" typelien="CITATION">Décret n°2019-1183 du 15 novembre 2019 - art. 1</LIEN>
+
+
+
+<LIEN cidtexte="JORFTEXT000041513786" datesignatexte="2020-01-03" id="LEGIARTI000041521944" naturetexte="ARRETE" nortexte="MICB1935020A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 3 janvier 2020 - art. (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000041755763" datesignatexte="2020-03-25" id="LEGIARTI000041878656" naturetexte="ORDONNANCE" nortexte="SSAA2008161R" num="2" numtexte="2020-312" sens="cible" typelien="CITATION">Ordonnance n°2020-312 du 25 mars 2020 - art. 2 (V)</LIEN>
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000043231840" datesignatexte="2021-03-09" id="LEGIARTI000043232715" naturetexte="DECRET" nortexte="TERB2014570D" num="3" numtexte="2021-258" sens="cible" typelien="CITATION">Décret n°2021-258 du 9 mars 2021 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000043231840" datesignatexte="2021-03-09" id="LEGIARTI000043232717" naturetexte="DECRET" nortexte="TERB2014570D" num="4" numtexte="2021-258" sens="cible" typelien="CITATION">Décret n°2021-258 du 9 mars 2021 - art. 4</LIEN>
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000043985065" datesignatexte="2021-08-27" id="LEGIARTI000048677633" naturetexte="DECRET" nortexte="TRAK2121851D" num="7-1" numtexte="2021-1124" sens="cible" typelien="CITATION">Décret n°2021-1124 du 27 août 2021 - art. 7-1 (VD)</LIEN>
+
+
+
+
+
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000046196687" naturetexte="CODE" nortexte="" num="L421-69" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L421-69 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000044595989" datesignatexte="2999-01-01" id="LEGIARTI000046196683" naturetexte="CODE" nortexte="" num="L421-80" numtexte="" sens="cible" typelien="CITATION">Code des impositions sur les biens et services - art. L421-80 (V)</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000046496544" datesignatexte="2022-10-25" id="LEGIARTI000046498164" naturetexte="ARRETE" nortexte="IOMO2214273A" num="7" numtexte="" sens="cible" typelien="CITATION">Arrêté du 25 octobre 2022 - art. 7</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000048669506" datesignatexte="2023-12-26" id="LEGIARTI000048677126" naturetexte="DECRET" nortexte="TRET2311844D" num="1" numtexte="2023-1260" sens="cible" typelien="CITATION">Décret n°2023-1260 du 26 décembre 2023 - art. 1</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000049894871" datesignatexte="2024-07-07" id="LEGIARTI000049897569" naturetexte="ARRETE" nortexte="TSSS2418523A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 7 juillet 2024 - art. 1 (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000049964216" datesignatexte="2024-07-08" id="LEGITEXT000049977509" naturetexte="ARRETE" nortexte="TSSA2416321A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 8 juillet 2024 (V)</LIEN>
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000051244562" datesignatexte="2025-02-24" id="LEGIARTI000051245577" naturetexte="LOI" nortexte="MOMX2434906L" num="32" numtexte="2025-176" sens="cible" typelien="CITATION">LOI n°2025-176 du 24 février 2025 - art. 32 (V)</LIEN>
+
+
+
+
+
+
+<LIEN cidtexte="LEGITEXT000006072637" datesignatexte="2999-01-01" id="LEGITEXT000006072637" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code de la famille et de l'aide sociale 169, 173 al. 1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072637" datesignatexte="2999-01-01" id="LEGIARTI000006681370" naturetexte="CODE" nortexte="" num="169" numtexte="" sens="source" typelien="CONCORDANCE">Code de la famille et de l'aide sociale. - art. 169 (M)</LIEN>
+
+
+
+<LIEN cidtexte="LEGITEXT000006069569" datesignatexte="2999-01-01" id="LEGIARTI000006295246" naturetexte="CODE" nortexte="" num="74 B bis" numtexte="" sens="cible" typelien="CITATION">CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 74 B bis (Ab)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000047819215" naturetexte="CODE" nortexte="" num="Annexe 2-3" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. Annexe 2-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033706203" naturetexte="CODE" nortexte="" num="Annexe 2-9" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. Annexe 2-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033704802" naturetexte="CODE" nortexte="" num="D241-18" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. D241-18 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033704816" naturetexte="CODE" nortexte="" num="D241-18-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. D241-18-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033704981" naturetexte="CODE" nortexte="" num="D241-19" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. D241-19 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033705062" naturetexte="CODE" nortexte="" num="D241-19-5" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. D241-19-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033706282" naturetexte="CODE" nortexte="" num="D245-24-2" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. D245-24-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033220258" naturetexte="CODE" nortexte="" num="L146-3" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L146-3 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000031727775" naturetexte="CODE" nortexte="" num="L146-4" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L146-4 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006796672" naturetexte="CODE" nortexte="" num="L146-9" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L146-9 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006796960" naturetexte="CODE" nortexte="" num="L232-1" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L232-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006796962" naturetexte="CODE" nortexte="" num="L232-2" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L232-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006797046" naturetexte="CODE" nortexte="" num="L241-3-2" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L241-3-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000050505394" naturetexte="CODE" nortexte="" num="L241-6" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L241-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006797064" naturetexte="CODE" nortexte="" num="L242-5" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L242-5 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006797080" naturetexte="CODE" nortexte="" num="L243-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L243-1 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000036919802" naturetexte="CODE" nortexte="" num="L542-4" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L542-4 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000019414121" naturetexte="CODE" nortexte="" num="L545-3" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. L545-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033706918" naturetexte="CODE" nortexte="" num="R146-38" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R146-38 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033706897" naturetexte="CODE" nortexte="" num="R146-42" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R146-42 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000047819220" naturetexte="CODE" nortexte="" num="R232-24-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R232-24-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000032137095" naturetexte="CODE" nortexte="" num="R232-28-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R232-28-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000034696255" naturetexte="CODE" nortexte="" num="R232-45" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R232-45 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033706463" naturetexte="CODE" nortexte="" num="R241-12" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033697088" naturetexte="CODE" nortexte="" num="R241-12-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-12-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000032138810" naturetexte="CODE" nortexte="" num="R241-13" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-13 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000032138800" naturetexte="CODE" nortexte="" num="R241-14" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-14 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006905708" naturetexte="CODE" nortexte="" num="R241-15" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-15 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006905709" naturetexte="CODE" nortexte="" num="R241-16" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-16 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033706349" naturetexte="CODE" nortexte="" num="R241-20" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-20 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033706325" naturetexte="CODE" nortexte="" num="R241-21" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-21 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033706315" naturetexte="CODE" nortexte="" num="R241-22" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000033706310" naturetexte="CODE" nortexte="" num="R241-23" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000047961863" naturetexte="CODE" nortexte="" num="R241-28" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-28 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006905690" naturetexte="CODE" nortexte="" num="R241-3" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R241-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000034698761" naturetexte="CODE" nortexte="" num="R247-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R247-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000043588433" naturetexte="CODE" nortexte="" num="R247-2" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R247-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000049794910" naturetexte="CODE" nortexte="" num="R247-5" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R247-5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000029809486" naturetexte="CODE" nortexte="" num="R545-3" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R545-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074220" datesignatexte="2999-01-01" id="LEGIARTI000049795010" naturetexte="CODE" nortexte="" num="R543-219" numtexte="" sens="cible" typelien="CITATION">Code de l'environnement - art. R543-219 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000023983208" datesignatexte="2999-01-01" id="LEGIARTI000049133352" naturetexte="CODE" nortexte="" num="D251-1-4" numtexte="" sens="cible" typelien="CITATION">Code de l'énergie - art. D251-1-4 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000049362843" naturetexte="CODE" nortexte="" num="D31-10-6" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. D31-10-6 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000048826429" naturetexte="CODE" nortexte="" num="L31-10-3" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. L31-10-3 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000039041260" naturetexte="CODE" nortexte="" num="R111-18-11" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. R111-18-11 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000043819291" naturetexte="CODE" nortexte="" num="R163-4" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. R163-4 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000033706527" naturetexte="CODE" nortexte="" num="R200-1" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. R200-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000033706510" naturetexte="CODE" nortexte="" num="R31-10-6" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. R31-10-6 (T)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000049794986" naturetexte="CODE" nortexte="" num="R318-7" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. R318-7 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000049794960" naturetexte="CODE" nortexte="" num="R443-12-2" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. R443-12-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000049794966" naturetexte="CODE" nortexte="" num="R443-2" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. R443-2 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074096" datesignatexte="2999-01-01" id="LEGIARTI000047985814" naturetexte="CODE" nortexte="" num="R822-6" numtexte="" sens="cible" typelien="CITATION">Code de la construction et de l'habitation. - art. R822-6 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072637" datesignatexte="2999-01-01" id="LEGIARTI000006681371" naturetexte="CODE" nortexte="" num="169" numtexte="" sens="cible" typelien="CONCORDE">Code de la famille et de l'aide sociale. - art. 169 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072637" datesignatexte="2999-01-01" id="LEGIARTI000006681377" naturetexte="CODE" nortexte="" num="173" numtexte="" sens="cible" typelien="CONCORDE">Code de la famille et de l'aide sociale. - art. 173 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074228" datesignatexte="2999-01-01" id="LEGIARTI000047794500" naturetexte="CODE" nortexte="" num="R417-11" numtexte="" sens="cible" typelien="CITATION">Code de la route. - art. R417-11 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000047380544" naturetexte="CODE" nortexte="" num="D1172-1-1" numtexte="" sens="cible" typelien="CITATION">Code de la santé publique - art. D1172-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000023397579" naturetexte="CODE" nortexte="" num="D351-1-6" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D351-1-6 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000033706572" naturetexte="CODE" nortexte="" num="D542-11" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D542-11 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000033706565" naturetexte="CODE" nortexte="" num="D755-15" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D755-15 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000051288452" naturetexte="CODE" nortexte="" num="L142-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L142-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000033975707" naturetexte="CODE" nortexte="" num="L143-1" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L143-1 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000033706580" naturetexte="CODE" nortexte="" num="R831-7" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. R831-7 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070302" datesignatexte="2999-01-01" id="LEGIARTI000006362575" naturetexte="CODE" nortexte="" num="D21-1" numtexte="" sens="cible" typelien="CITATION">Code des pensions civiles et militaires de retrait - art. D21-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000039784157" naturetexte="CODE" nortexte="" num="L1111-5" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1111-5 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000033220309" naturetexte="CODE" nortexte="" num="L1112-8" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L1112-8 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000033706598" naturetexte="CODE" nortexte="" num="R4241-69" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. R4241-69 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071335" datesignatexte="2999-01-01" id="LEGIARTI000033706592" naturetexte="CODE" nortexte="" num="R*112-6" numtexte="" sens="cible" typelien="CITATION">Code du service national - art. R*112-6 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006648649" naturetexte="CODE" nortexte="" num="L323-3" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L323-3 (AbD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000033220318" naturetexte="CODE" nortexte="" num="L5212-13" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L5212-13 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072052" datesignatexte="2999-01-01" id="LEGIARTI000033220327" naturetexte="CODE" nortexte="" num="L328-18" numtexte="" sens="cible" typelien="CITATION">Code du travail applicable à Mayotte. - art. L328-18 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072052" datesignatexte="2999-01-01" id="LEGIARTI000025954956" naturetexte="CODE" nortexte="" num="L328-2" numtexte="" sens="cible" typelien="CITATION">Code du travail applicable à Mayotte. - art. L328-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000051517324" naturetexte="CODE" nortexte="" num="D2573-8" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D2573-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043232948" naturetexte="CODE" nortexte="" num="D5211-4-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D5211-4-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043976727" naturetexte="CODE" nortexte="" num="L2213-2" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. L2213-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043233671" naturetexte="CODE" nortexte="" num="R2123-22-3" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-22-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043233656" naturetexte="CODE" nortexte="" num="R3123-22" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R3123-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043233641" naturetexte="CODE" nortexte="" num="R4135-22" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R4135-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043233698" naturetexte="CODE" nortexte="" num="R7125-28" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R7125-28 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043233687" naturetexte="CODE" nortexte="" num="R7227-28" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R7227-28 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000041781635" naturetexte="CODE" nortexte="" num="1011 bis" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1011 bis (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000033220358" naturetexte="CODE" nortexte="" num="1011 ter" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1011 ter (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000043056303" naturetexte="CODE" nortexte="" num="1012 ter" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1012 ter (MMN)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000033220348" naturetexte="CODE" nortexte="" num="1411" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 1411 (VT)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000051202598" naturetexte="CODE" nortexte="" num="150 U" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 150 U (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000049641827" naturetexte="CODE" nortexte="" num="168" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 168 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000046860994" naturetexte="CODE" nortexte="" num="195" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 195 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000033220369" naturetexte="CODE" nortexte="" num="196 A bis" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 196 A bis (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069577" datesignatexte="2999-01-01" id="LEGIARTI000033220279" naturetexte="CODE" nortexte="" num="244 quater J" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, CGI. - art. 244 quater J (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069569" datesignatexte="2999-01-01" id="LEGIARTI000028976250" naturetexte="CODE" nortexte="" num="74-0 A" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, annexe 2, CGIAN2. - art. 74-0 A (Ab)</LIEN>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LIENS>
+</ARTICLE>

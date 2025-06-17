@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000020958061</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/20/95/80/LEGIARTI000020958061.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>15-1</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2009-08-07</DATE_DEBUT>
+<DATE_FIN>2016-06-05</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000000369046" date_publi="1995-01-24" date_signature="1995-01-21" ministere="" nature="LOI" nor="INTX9400063L" num="95-73" num_parution_jo="0020">
+<TITRE_TXT c_titre_court="Loi n° 95-73 du 21 janvier 1995" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000000369046">LOI n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité</TITRE_TXT>
+<TITRE_TXT c_titre_court="Loi n° 95-73 du 21 janvier 1995" debut="1995-01-24" fin="2999-01-01" id_txt="LEGITEXT000005617582">Loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1995-01-24" fin="2999-01-01" id="LEGISCTA000006095877">TITRE II : La mise en oeuvre des orientations</TITRE_TM>
+<TM>
+<TITRE_TM debut="1995-01-24" fin="2999-01-01" id="LEGISCTA000006120402">CHAPITRE II : Dispositions relatives à la prévention de l'insécurité.</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2009-08-07" id="LEGIARTI000006527963" num="15-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-08-07" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000020958061" num="15-1" origine="LEGI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2016-06-05" etat="ABROGE" fin="2025-06-15" id="LEGIARTI000032654945" num="15-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les services de police et de gendarmerie peuvent rétribuer toute personne étrangère aux administrations publiques qui leur a fourni des renseignements ayant amené directement soit la découverte de crimes ou de délits, soit l'identification des auteurs de crimes ou de délits. </p>
+<p>Les modalités de la rétribution de ces personnes sont déterminées par arrêté conjoint du ministre de la justice, du ministre de l'intérieur     et du ministre des finances.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000458015" datesignatexte="2006-01-20" id="LEGIARTI000033058827" naturetexte="ARRETE" nortexte="INTC0600073A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 20 janvier 2006 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000020954146" datesignatexte="2009-08-03" id="LEGIARTI000020955370" naturetexte="LOI" nortexte="IOCX0814116L" num="17" numtexte="2009-971" sens="cible" typelien="MODIFIE">LOI n°2009-971
+ du 3 août 2009 - art. 17</LIEN>
+<LIEN cidtexte="JORFTEXT000028637577" datesignatexte="2014-02-20" id="LEGITEXT000028650245" naturetexte="ARRETE" nortexte="INTC1403306A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 20 février 2014 (Ab)</LIEN>
+<LIEN cidtexte="JORFTEXT000032627231" datesignatexte="2016-06-03" id="LEGIARTI000032631231" naturetexte="LOI" nortexte="JUSD1532276L" num="37" numtexte="2016-731" sens="cible" typelien="CITATION">LOI n°2016-731 du 3 juin 2016 - art. 37</LIEN>
+<LIEN cidtexte="JORFTEXT000033052536" datesignatexte="2016-08-16" id="LEGITEXT000033053431" naturetexte="ARRETE" nortexte="FCPD1618003A" num="" numtexte="" sens="cible" typelien="CITATION">Arrêté du 16 août 2016 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000033052536" datesignatexte="2016-08-16" id="LEGIARTI000033053442" naturetexte="ARRETE" nortexte="FCPD1618003A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 16 août 2016 - art. 1</LIEN>
+</LIENS>
+</ARTICLE>

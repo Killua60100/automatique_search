@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTELR>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000035014344</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/struct/LEGI/TEXT/00/00/35/01/43/LEGITEXT000035014344.xml</URL>
+<NATURE>ORDONNANCE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000035013490</CID>
+<NUM>2017-1107</NUM>
+<NUM_PARUTION>0149</NUM_PARUTION>
+<NUM_SEQUENCE>16</NUM_SEQUENCE>
+<NOR>ECOT1706653R</NOR>
+<DATE_PUBLI>2017-06-27</DATE_PUBLI>
+<DATE_TEXTE>2017-06-22</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2017-06-28</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0149 du 27 juin 2017</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+</META_SPEC>
+</META>
+<VERSIONS>
+<VERSION etat="">
+<LIEN_TXT debut="2999-01-01" fin="2999-01-01" id="JORFTEXT000035013490" num="2017-1107"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_TXT debut="2017-06-28" fin="2999-01-01" id="LEGITEXT000035014344" num="2017-1107"/>
+</VERSION>
+</VERSIONS>
+<STRUCT>
+<LIEN_SECTION_TA cid="JORFSCTA000035013491" debut="2017-06-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000035014345" niv="1" url="/LEGI/SCTA/00/00/35/01/43/LEGISCTA000035014345.xml">Chapitre Ier : Transposition de la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE, adaptation du code monétaire et financier au règlement (UE) n° 600/2014 du Parlement européen et du conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) n° 648/2012 et modification de la définition des prestataires de services d'investissement au sein du code monétaire et financier</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000035013492" debut="2017-06-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000035014346" niv="1" url="/LEGI/SCTA/00/00/35/01/43/LEGISCTA000035014346.xml">Chapitre II : Modification de la définition des prestataires de services d'investissement dans divers autres textes législatifs</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000035013493" debut="2017-06-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000035014347" niv="1" url="/LEGI/SCTA/00/00/35/01/43/LEGISCTA000035014347.xml">Chapitre III : Dispositions relatives à l'outre-mer</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="JORFSCTA000035013494" debut="2017-06-28" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000035014348" niv="1" url="/LEGI/SCTA/00/00/35/01/43/LEGISCTA000035014348.xml">Chapitre IV : Dispositions diverses et finales</LIEN_SECTION_TA>
+</STRUCT>
+
+</TEXTELR>

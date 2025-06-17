@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000027591765</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/27/59/17/LEGIARTI000027591765.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L317-7</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2013-09-06</DATE_DEBUT>
+<DATE_FIN>2016-06-05</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000025503132" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la sécurité intérieure" debut="2012-05-01" fin="2999-01-01" id_txt="LEGITEXT000025503132">Code de la sécurité intérieure</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000028275902">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508079">LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2999-01-01" id="LEGISCTA000025508077">TITRE Ier : ARMES ET MUNITIONS</TITRE_TM>
+<TM>
+<TITRE_TM debut="2012-05-01" fin="2013-09-06" id="LEGISCTA000025508010">Chapitre VII : Dispositions pénales</TITRE_TM>
+<TITRE_TM debut="2013-09-06" fin="2999-01-01" id="LEGISCTA000027591806">Chapitre VII : Dispositions pénales</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2012-05-01" etat="MODIFIE" fin="2013-09-06" id="LEGIARTI000025505676" num="L317-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2013-09-06" etat="MODIFIE" fin="2016-06-05" id="LEGIARTI000027591765" num="L317-7" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2016-06-05" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000032654622" num="L317-7" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La détention d'un dépôt d'armes ou de munitions des catégories A, B, ainsi que des armes de la catégorie D figurant sur une liste fixée par un décret en Conseil d'Etat, est punie de cinq ans d'emprisonnement et de 3 750 € d'amende. </p>
+<br/>
+<p> Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende lorsque l'infraction est commise en bande organisée. </p>
+<br/>
+<p> La peine est portée à dix ans d'emprisonnement et la peine complémentaire d'interdiction de séjour peut être prononcée suivant les modalités prévues par l'article 131-31 du code pénal lorsque le coupable a antérieurement été condamné à l'emprisonnement ou à une peine plus grave pour crime ou délit. </p>
+<br/>
+<p> Le tribunal ordonne, en outre, la confiscation des armes ou des munitions. </p>
+<br/>
+<p> Ces dispositions ne sont pas applicables, dans la mesure où ils exercent leur industrie ou leur commerce, aux fabricants et aux vendeurs régulièrement autorisés.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000025498645" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CODIFICATION">Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe</LIEN>
+<LIEN cidtexte="JORFTEXT000027587228" datesignatexte="2013-06-20" id="LEGIARTI000027588156" naturetexte="ORDONNANCE" nortexte="INTD1308534R" num="1" numtexte="2013-518" sens="cible" typelien="MODIFIE">Ordonnance n°2013-518
+ du 20 juin 2013 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000032282279" datesignatexte="2016-03-22" id="LEGIARTI000032283874" naturetexte="LOI" nortexte="INTX1524877L" num="9" numtexte="2016-339" sens="cible" typelien="CITATION">LOI n°2016-339 du 22 mars 2016 - art. 9</LIEN>
+
+<LIEN cidtexte="JORFTEXT000032728685" datesignatexte="2016-06-20" id="LEGIARTI000032730831" naturetexte="LOI" nortexte="DEVX1600975L" num="72" numtexte="2016-816" sens="cible" typelien="CITATION">LOI n°2016-816 du 20 juin 2016 - art. 72</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417303" naturetexte="CODE" nortexte="" num="131-31" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-31</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539998" naturetexte="CODE" nortexte="" num="L2339-8" numtexte="" sens="source" typelien="CONCORDANCE">Code de la défense. - art. L2339-8 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000032654569" naturetexte="CODE" nortexte="" num="L2339-14" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L2339-14 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000025503132" datesignatexte="2999-01-01" id="LEGIARTI000027591747" naturetexte="CODE" nortexte="" num="L317-11" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité intérieure - art. L317-11 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051742011" naturetexte="CODE" nortexte="" num="706-73" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-73 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000032285894" naturetexte="CODE" nortexte="" num="78-2-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 78-2-2 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000023086525" datesignatexte="2999-01-01" id="LEGIARTI000039278855" naturetexte="CODE" nortexte="" num="L5211-3-1" numtexte="" sens="cible" typelien="CITATION">Code des transports - art. L5211-3-1 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000032751714" naturetexte="CODE" nortexte="" num="421-1" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 421-1 (VD)</LIEN>
+</LIENS>
+</ARTICLE>

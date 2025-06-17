@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051736987</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/73/69/LEGIARTI000051736987.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+
+<ETAT>VIGUEUR</ETAT>
+
+<DATE_DEBUT>2025-06-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="JORFTEXT000051735099" date_publi="2025-06-14" date_signature="2025-06-06" ministere="Ministère de l'économie, des finances et de la souveraineté industrielle et numérique" nature="ARRETE" nor="ECOB2514454A" num="" num_parution_jo="0137">
+<TITRE_TXT c_titre_court="Arrêté du 6 juin 2025" debut="2999-01-01" fin="2999-01-01" id_txt="JORFTEXT000051735099">Arrêté du 6 juin 2025 portant suspension partielle du contrôle budgétaire a priori au ministère de l'Europe et des affaires étrangères, en application de l'article 106 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique</TITRE_TXT>
+<TITRE_TXT c_titre_court="Arrêté du 6 juin 2025" debut="2025-06-15" fin="2999-01-01" id_txt="LEGITEXT000051736983">Arrêté du 6 juin 2025 portant suspension partielle du contrôle budgétaire a priori au ministère de l'Europe et des affaires étrangères, en application de l'article 106 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique</TITRE_TXT>
+</TEXTE>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051736987" num="4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="">
+<LIEN_ART debut="2999-01-01" etat="" fin="2999-01-01" id="JORFARTI000051735103" num="4" origine="JORF"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Le présent arrêté sera publié au Journal officiel de la République française.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS/>
+</ARTICLE>

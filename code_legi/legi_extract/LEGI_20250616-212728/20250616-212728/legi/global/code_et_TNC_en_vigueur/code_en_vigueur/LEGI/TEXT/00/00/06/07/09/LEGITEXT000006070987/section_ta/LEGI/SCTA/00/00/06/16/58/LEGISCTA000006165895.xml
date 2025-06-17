@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006165895</ID>
+<TITRE_TA>SECTION 2 : Services de télécommunication.</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465405" num="L34" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465770" num="L34-1" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465775" num="L34-2" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465779" num="L34-3" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465782" num="L34-4" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465785" num="L34-5" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465788" num="L34-6" origine="LEGI"/>
+<LIEN_ART debut="1990-12-30" etat="MODIFIE" fin="1996-07-27" id="LEGIARTI000006465791" num="L34-7" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070987" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code des postes et des communications électroniques" debut="1962-03-14" fin="2999-01-01" id_txt="LEGITEXT000006070987">Code des postes et des communications électroniques</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1962-03-14" fin="2999-01-01" id="LEGISCTA000006092423">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="2004-07-10" id="LEGISCTA000006118604">LIVRE II : Les télécommunications</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="2004-07-10" id="LEGISCTA000006136628">TITRE Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-12-30" fin="2004-07-10" id="LEGISCTA000006150652">CHAPITRE II : Régime juridique</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

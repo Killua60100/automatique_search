@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000020630709</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/20/63/07/LEGIARTI000020630709.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>450-4</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2009-05-14</DATE_DEBUT>
+<DATE_FIN>2025-06-15</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006117602">Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2025-06-15" id="LEGISCTA000006136048">Titre V : De la participation à une association de malfaiteurs</TITRE_TM>
+<TITRE_TM debut="2025-06-15" fin="2999-01-01" id="LEGISCTA000051741807">Titre V : De la participation à une association de malfaiteurs et du concours à une organisation criminelle</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1998-06-18" etat="MODIFIE" fin="2009-05-14" id="LEGIARTI000006418856" num="450-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-05-14" etat="MODIFIE" fin="2025-06-15" id="LEGIARTI000020630709" num="450-4" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051741768" num="450-4" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction définie à l'article 450-1 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues par l'article 131-39.
+</p>
+<p>L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000020604162" datesignatexte="2009-05-12" id="LEGIARTI000020606638" naturetexte="LOI" nortexte="BCFX0824886L" num="124" numtexte="2009-526" sens="cible" typelien="MODIFIE">LOI n°2009-526
+ du 12 mai 2009 - art. 124</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417202" naturetexte="CODE" nortexte="" num="121-2" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 121-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417333" naturetexte="CODE" nortexte="" num="131-38" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-38 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417335" naturetexte="CODE" nortexte="" num="131-39" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 131-39 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006418849" naturetexte="CODE" nortexte="" num="450-1" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 450-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

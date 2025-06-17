@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000045069569</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/45/06/95/LEGIARTI000045069569.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>222-14-5</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2022-01-26</DATE_DEBUT>
+<DATE_FIN>2024-03-23</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117597">Livre II : Des crimes et délits contre les personnes</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136041">Titre II : Des atteintes à la personne humaine</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006149827">Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006165279">Section 1 : Des atteintes volontaires à l'intégrité de la personne</TITRE_TM>
+<TM>
+<TITRE_TM debut="1994-03-01" fin="2999-01-01" id="LEGISCTA000006181751">Paragraphe 2 : Des violences</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-01-26" etat="MODIFIE" fin="2024-03-23" id="LEGIARTI000045069569" num="222-14-5" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-03-23" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000049312685" num="222-14-5" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>I.-Lorsqu'elles sont commises sur un militaire de la gendarmerie nationale, un militaire déployé sur le territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la défense, un fonctionnaire de la police nationale, un agent de police municipale, un garde champêtre, un agent des douanes, un sapeur-pompier professionnel ou volontaire ou un agent de l'administration pénitentiaire dans l'exercice ou du fait de ses fonctions et lorsque la qualité de la victime est apparente ou connue de l'auteur, les violences prévues à la présente section sont punies : <br/>
+<br/>1° De sept ans d'emprisonnement et de 100 000 euros d'amende, si elles ont entraîné une incapacité totale de travail pendant plus de huit jours ; <br/>
+<br/>2° De cinq ans d'emprisonnement et de 75 000 euros d'amende, si elles ont entraîné une incapacité de travail inférieure ou égale à huit jours ou si elles n'ont pas entraîné d'incapacité de travail. <br/>
+<br/>Lorsque les faits sont accompagnés d'une des circonstances aggravantes prévues aux 8° à 15° de l'article 222-12, les peines prévues au 1° du présent I sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende et celles prévues au 2° sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende. <br/>
+<br/>Lorsque les faits sont accompagnés d'au moins deux des circonstances aggravantes prévues aux 8° à 15° de l'article 222-12, les peines prévues au 2° du présent I sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende. <br/>
+<br/>II.-Sont également punies des peines prévues aux quatre derniers alinéas du I les violences commises : <br/>
+<br/>1° En raison des fonctions exercées par les personnes mentionnées au premier alinéa du même I, sur leur conjoint, sur leurs ascendants ou leurs descendants en ligne directe ou sur toute autre personne vivant habituellement à leur domicile ; <br/>
+<br/>2° Dans l'exercice ou du fait de ses fonctions sous l'autorité des personnes mentionnées au premier alinéa dudit I, sur une personne affectée dans les services de police nationale ou de gendarmerie nationale, de police municipale ou de l'administration pénitentiaire et dont la qualité est apparente ou connue de l'auteur. <br/>
+<br/>III.-Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au présent article lorsque la peine encourue est égale ou supérieure à dix ans d'emprisonnement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000045067923" datesignatexte="2022-01-24" id="LEGIARTI000045068649" naturetexte="LOI" nortexte="JUSX2116059L" num="10" numtexte="2022-52" sens="cible" typelien="CREE">LOI n°2022-52 du 24 janvier 2022 - art. 10</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000049043201" naturetexte="CODE" nortexte="" num="L432-1-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L432-1-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070158" datesignatexte="2999-01-01" id="LEGIARTI000049043253" naturetexte="CODE" nortexte="" num="L432-6-1" numtexte="" sens="cible" typelien="CITATION">Code de l'entrée et du séjour des étrangers et ... - art. L432-6-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000046017748" naturetexte="CODE" nortexte="" num="721-1-2" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 721-1-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000051741809" naturetexte="CODE" nortexte="" num="131-26-2" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 131-26-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000006417401" naturetexte="CODE" nortexte="" num="132-23" numtexte="" sens="source" typelien="CITATION">Code pénal - art. 132-23 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531829" naturetexte="CODE" nortexte="" num="222-12" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-12 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049531818" naturetexte="CODE" nortexte="" num="222-13" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070719" datesignatexte="2999-01-01" id="LEGIARTI000049312656" naturetexte="CODE" nortexte="" num="222-47" numtexte="" sens="cible" typelien="CITATION">Code pénal - art. 222-47 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539675" naturetexte="CODE" nortexte="" num="L1321-1" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1321-1 (V)</LIEN>
+</LIENS>
+</ARTICLE>

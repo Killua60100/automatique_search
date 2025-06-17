@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000006539724</ID>
+<ANCIEN_ID>PQAXXXXXXXX5X1333L01XX4B</ANCIEN_ID>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/06/53/97/LEGIARTI000006539724.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L1333-14</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2007-03-06</DATE_DEBUT>
+<DATE_FIN>2011-03-16</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071307" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de la défense." debut="2004-12-21" fin="2999-01-01" id_txt="LEGITEXT000006071307">Code de la défense</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006096399">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006120655">PARTIE 1 : PRINCIPES GÉNÉRAUX DE LA DÉFENSE.</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006137702">LIVRE III : MISE EN ŒUVRE DE LA DÉFENSE NON MILITAIRE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006151475">TITRE III : DÉFENSE ÉCONOMIQUE</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2999-01-01" id="LEGISCTA000006166901">Chapitre III : Matières et installations nucléaires</TITRE_TM>
+<TM>
+<TITRE_TM debut="2004-12-21" fin="2014-07-12" id="LEGISCTA000006182573">Section 2 : Dispositions pénales</TITRE_TM>
+<TITRE_TM debut="2014-07-12" fin="2999-01-01" id="LEGISCTA000029227530">Section 2 : Installations et activités nucléaires intéressant la défense</TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-03-06" fin="2014-07-12" id="LEGISCTA000006193189">Sous-section 3 : Matières nucléaires intéressant la dissuasion.</TITRE_TM>
+<TITRE_TM debut="2014-07-12" fin="2018-07-15" id="LEGISCTA000029227519">Sous-section 3 : Dispositions applicables aux équipements et installations situés dans le périmètre d'une installation nucléaire intéressant la défense</TITRE_TM>
+<TITRE_TM debut="2018-07-15" fin="2999-01-01" id="LEGISCTA000037201380">Sous-section 3 : Dispositions applicables aux équipements et installations situés dans le périmètre d'une installation et activité nucléaire intéressant la défense</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-12-21" etat="MODIFIE" fin="2007-03-06" id="LEGIARTI000006539723" num="L1333-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-03-06" etat="MODIFIE" fin="2011-03-16" id="LEGIARTI000006539724" num="L1333-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2014-07-12" etat="MODIFIE" fin="2015-06-04" id="LEGIARTI000029227532" num="L1333-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2011-03-16" etat="MODIFIE" fin="2014-07-12" id="LEGIARTI000023712684" num="L1333-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-06-04" etat="MODIFIE" fin="2015-07-30" id="LEGIARTI000030665881" num="L1333-14" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2015-07-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000030949378" num="L1333-14" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Seules les dispositions des articles L. 1333-9 et L. 1333-10 sont applicables aux matières nucléaires affectées aux moyens nécessaires à la mise en oeuvre de la politique de dissuasion ou détenues dans les installations nucléaires intéressant la défense.<br/>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000886937" datesignatexte="1980-07-25" id="JORFARTI000001883101" naturetexte="LOI" nortexte="" num="11" numtexte="80-572" sens="source" typelien="CONCORDANCE">Loi n°80-572 du 25 juillet 1980 - art. 11, v. init.</LIEN>
+<LIEN cidtexte="JORFTEXT000000238564" datesignatexte="2004-12-20" id="JORFTEXT000000238564" naturetexte="ORDONNANCE" nortexte="DEFX0400190R" num="" numtexte="2004-1374" sens="source" typelien="CODIFICATION">Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004</LIEN>
+<LIEN cidtexte="JORFTEXT000000419821" datesignatexte="2005-12-12" id="JORFARTI000001076340" naturetexte="LOI" nortexte="DEFX0500016L" num="1" numtexte="2005-1550" sens="source" typelien="CODIFICATION">Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.</LIEN>
+<LIEN cidtexte="JORFTEXT000000646872" datesignatexte="2007-03-05" id="LEGIARTI000006260953" naturetexte="LOI" nortexte="DEFX0600120L" num="3" numtexte="2007-289" sens="cible" typelien="MODIFIE">Loi n°2007-289 du 5 mars 2007 - art. 3</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539718" naturetexte="CODE" nortexte="" num="L1333-10" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-10 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006539716" naturetexte="CODE" nortexte="" num="L1333-9" numtexte="" sens="source" typelien="CITATION">Code de la défense. - art. L1333-9 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000029960425" naturetexte="CODE" nortexte="" num="L1411-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1411-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000047920910" naturetexte="CODE" nortexte="" num="L1411-7-2" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. L1411-7-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071307" datesignatexte="2999-01-01" id="LEGIARTI000006574373" naturetexte="CODE" nortexte="" num="R1333-1" numtexte="" sens="cible" typelien="CITATION">Code de la défense. - art. R1333-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000051741892" naturetexte="CODE" nortexte="" num="706-167" numtexte="" sens="cible" typelien="CITATION">Code de procédure pénale - art. 706-167 (V)</LIEN>
+</LIENS>
+</ARTICLE>

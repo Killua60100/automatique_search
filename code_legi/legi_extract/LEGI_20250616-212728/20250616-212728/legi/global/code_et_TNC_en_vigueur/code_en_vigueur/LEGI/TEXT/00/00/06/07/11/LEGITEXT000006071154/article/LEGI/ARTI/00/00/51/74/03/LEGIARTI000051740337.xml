@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000051740337</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/51/74/03/LEGIARTI000051740337.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>242-1</NUM>
+
+<ETAT>VIGUEUR_DIFF</ETAT>
+
+<DATE_DEBUT>2026-01-05</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2999-01-01" id="LEGISCTA000006121325">Livre II : Des juridictions de jugement</TITRE_TM>
+<TM>
+<TITRE_TM debut="1959-03-02" fin="2023-01-01" id="LEGISCTA000006138092">Titre Ier : De la cour d'assises</TITRE_TM>
+<TITRE_TM debut="2023-01-01" fin="2999-01-01" id="LEGISCTA000044568358">Titre Ier : De la cour d'assises et de la cour criminelle départementale</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-01-01" fin="2999-01-01" id="LEGISCTA000044551094">Sous-titre Ier :  De la cour d'assises</TITRE_TM>
+<TM>
+<TITRE_TM debut="2023-01-01" fin="2999-01-01" id="LEGISCTA000044569498">Chapitre III : De la composition de la cour d'assises</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="VIGUEUR_DIFF">
+<LIEN_ART debut="2026-01-05" etat="VIGUEUR_DIFF" fin="2999-01-01" id="LEGIARTI000051740337" num="242-1" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>Conformément au B du XII de l'article 64 de la loi n° 2025-532 du 13 juin 2025, ces dispositions entrent en vigueur le 5 janvier 2026.</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Sans préjudice du titre XVI du livre IV, pour le jugement des crimes commis en bande organisée et du crime d'association de malfaiteurs en vue de commettre de tels crimes, les règles relatives à la composition et au fonctionnement de la cour d'assises sont fixées à l'article 698-6. </p>
+<p>Pour le jugement des accusés mineurs âgés de seize ans au moins, les règles relatives à la composition et au fonctionnement de la cour d'assises des mineurs sont fixées au même article 698-6, deux des assesseurs étant désignés parmi les juges des enfants du ressort de la cour d'appel, dans les conditions prévues à l'article L. 231-10 du code de la justice pénale des mineurs. Les articles L. 513-2, L. 513-4 et L. 522-1 du même code sont également applicables.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039088067" naturetexte="CODE" nortexte="" num="L231-10" numtexte="" sens="source" typelien="CITATION">Code de la justice pénale des mineurs - art. L231-10</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039088385" naturetexte="CODE" nortexte="" num="L513-2" numtexte="" sens="source" typelien="CITATION">Code de la justice pénale des mineurs - art. L513-2</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039088389" naturetexte="CODE" nortexte="" num="L513-4" numtexte="" sens="source" typelien="CITATION">Code de la justice pénale des mineurs - art. L513-4</LIEN>
+<LIEN cidtexte="LEGITEXT000039086952" datesignatexte="2999-01-01" id="LEGIARTI000039088463" naturetexte="CODE" nortexte="" num="L522-1" numtexte="" sens="source" typelien="CITATION">Code de la justice pénale des mineurs - art. L522-1</LIEN>
+<LIEN cidtexte="JORFTEXT000051734851" datesignatexte="2025-06-13" id="LEGIARTI000051736674" naturetexte="LOI" nortexte="JUSX2430702L" num="30" numtexte="2025-532" sens="cible" typelien="CREE">LOI n°2025-532 du 13 juin 2025 - art. 30</LIEN>
+<LIEN cidtexte="LEGITEXT000006071154" datesignatexte="2999-01-01" id="LEGIARTI000006577463" naturetexte="CODE" nortexte="" num="698-6" numtexte="" sens="source" typelien="CITATION">Code de procédure pénale - art. 698-6</LIEN>
+</LIENS>
+</ARTICLE>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>LEGITEXT000051737587</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>texte/version/LEGI/TEXT/00/00/51/73/75/LEGITEXT000051737587.xml</URL>
+<NATURE>ARRETE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000051736273</CID>
+<NUM/>
+<NUM_PARUTION>0138</NUM_PARUTION>
+<NUM_SEQUENCE>14</NUM_SEQUENCE>
+<NOR>TSSD2515412A</NOR>
+<DATE_PUBLI>2025-06-15</DATE_PUBLI>
+<DATE_TEXTE>2025-05-27</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2025-06-16</DERNIERE_MODIFICATION>
+<VERSIONS_A_VENIR/>
+<ORIGINE_PUBLI>JORF n°0138 du 15 juin 2025</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Arrêté du 27 mai 2025</TITRE>
+<TITREFULL>Arrêté du 27 mai 2025 modifiant l'arrêté du 6 mars 2025 portant création du titre professionnel de développeur intégrateur en informatique industrielle</TITREFULL>
+
+<ETAT>VIGUEUR</ETAT>
+<DATE_DEBUT>2025-06-16</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<AUTORITE/>
+<MINISTERE/>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000051330345" datesignatexte="2025-03-06" id="JORFTEXT000051330345" naturetexte="ARRETE" nortexte="TSSD2506797A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 6 mars 2025</LIEN>
+</LIENS>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>La ministre du travail, de la santé, des solidarités et des familles,<br/>Vu l'arrêté du 6 mars 2025 portant création du titre professionnel de développeur intégrateur en informatique industrielle,<br/>Arrête :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 27 mai 2025.</p>
+</div>
+<div align="left">
+<p>Pour la ministre et par délégation :</p>
+<p>Le chef de la mission des politiques de certification professionnelle,</p>
+<p>R. Johais</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+<NOTA>
+<CONTENU/>
+</NOTA>
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+
+
+</TEXTE_VERSION>

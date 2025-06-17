@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>LEGIARTI000020039309</ID>
+<ANCIEN_ID/>
+<ORIGINE>LEGI</ORIGINE>
+<URL>article/LEGI/ARTI/00/00/20/03/93/LEGIARTI000020039309.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>L5213-2</NUM>
+
+<ETAT>MODIFIE</ETAT>
+
+<DATE_DEBUT>2008-12-29</DATE_DEBUT>
+<DATE_FIN>2020-01-01</DATE_FIN>
+
+
+
+<TYPE>AUTONOME</TYPE>
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006072050" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code du travail" debut="1973-01-03" fin="2999-01-01" id_txt="LEGITEXT000006072050">Code du travail</TITRE_TXT>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006112874">Partie législative  </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006132343">Cinquième partie : L'emploi</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006145416">Livre II : Dispositions applicables à certaines catégories de travailleurs </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006160806">Titre Ier : Travailleurs handicapés </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006178140">Chapitre III : Reconnaissance et orientation des travailleurs handicapés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-05-01" fin="2999-01-01" id="LEGISCTA000006189802">Section 1 : Reconnaissance de la qualité de travailleur handicapé.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2008-05-01" etat="MODIFIE" fin="2008-12-29" id="LEGIARTI000006903700" num="L5213-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2008-12-29" etat="MODIFIE" fin="2020-01-01" id="LEGIARTI000020039309" num="L5213-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2020-01-01" etat="MODIFIE" fin="2022-02-23" id="LEGIARTI000037388650" num="L5213-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2022-02-23" etat="MODIFIE" fin="2024-01-01" id="LEGIARTI000045212949" num="L5213-2" origine="LEGI"/>
+</VERSION>
+<VERSION etat="VIGUEUR">
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000048590305" num="L5213-2" origine="LEGI"/>
+</VERSION>
+</VERSIONS>
+<NOTA>
+<CONTENU>
+<p>
+<br clear="none"/>
+</p>
+</CONTENU>
+</NOTA>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La qualité de travailleur handicapé est reconnue par la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 241-5 du code de l'action sociale et des familles. Cette reconnaissance s'accompagne d'une orientation vers un établissement ou service d'aide par le travail, vers le marché du travail ou vers un centre de rééducation professionnelle.L'orientation vers un établissement ou service d'aide par le travail, vers le marché du travail ou vers un centre de rééducation professionnelle vaut reconnaissance de la qualité de travailleur handicapé.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000875958" datesignatexte="1973-10-02" id="LEGIARTI000030058856" naturetexte="DECRET" nortexte="" num="3 quater" numtexte="73-937" sens="cible" typelien="CITATION">Décret n°73-937 du 2 octobre 1973 - art. 3 quater (V)</LIEN>
+
+<LIEN cidtexte="JORFTEXT000019995721" datesignatexte="2008-12-27" id="LEGIARTI000020000318" naturetexte="LOI" nortexte="BCFX0821595L" num="182" numtexte="2008-1425" sens="cible" typelien="MODIFIE">LOI n°2008-1425 du 27 décembre 2008 - art. 182</LIEN>
+
+
+
+
+
+
+
+
+<LIEN cidtexte="JORFTEXT000030440533" datesignatexte="2015-04-03" id="LEGIARTI000030442961" naturetexte="DECRET" nortexte="AFSA1505170D" num="3" numtexte="2015-387" sens="cible" typelien="CITATION">DÉCRET n°2015-387 du 3 avril 2015 - art. 3 (V)</LIEN>
+
+
+
+
+<LIEN cidtexte="JORFTEXT000037367660" datesignatexte="2018-09-05" id="LEGIARTI000038952573" naturetexte="LOI" nortexte="MTRX1808061L" num="67" numtexte="2018-771" sens="cible" typelien="MODIFIE">LOI n°2018-771 du 5 septembre 2018 - art. 67 (M)</LIEN>
+<LIEN cidtexte="JORFTEXT000039696471" datesignatexte="2019-12-30" id="LEGIARTI000039800479" naturetexte="DECRET" nortexte="PRMS1911242D" num="2" numtexte="2019-1501" sens="cible" typelien="CITATION">Décret n°2019-1501 du 30 décembre 2019 - art. 2</LIEN>
+<LIEN cidtexte="JORFTEXT000041661927" datesignatexte="2020-02-28" id="LEGIARTI000045132686" naturetexte="ARRETE" nortexte="ESRS2001554A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 28 février 2020 - art. 1 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000043231840" datesignatexte="2021-03-09" id="LEGIARTI000043232715" naturetexte="DECRET" nortexte="TERB2014570D" num="3" numtexte="2021-258" sens="cible" typelien="CITATION">Décret n°2021-258 du 9 mars 2021 - art. 3</LIEN>
+<LIEN cidtexte="JORFTEXT000043231840" datesignatexte="2021-03-09" id="LEGIARTI000043232717" naturetexte="DECRET" nortexte="TERB2014570D" num="4" numtexte="2021-258" sens="cible" typelien="CITATION">Décret n°2021-258 du 9 mars 2021 - art. 4</LIEN>
+<LIEN cidtexte="JORFTEXT000045124742" datesignatexte="2022-02-04" id="LEGIARTI000045129354" naturetexte="ARRETE" nortexte="ESRS2202383A" num="1" numtexte="" sens="cible" typelien="CITATION">Arrêté du 4 février 2022 - art. 1</LIEN>
+<LIEN cidtexte="JORFTEXT000046733746" datesignatexte="2022-12-13" id="LEGIARTI000046734358" naturetexte="DECRET" nortexte="APHA2230772D" num="1" numtexte="2022-1561" sens="cible" typelien="CITATION">Décret n°2022-1561 du 13 décembre 2022 - art. 1</LIEN>
+
+
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000039800531" naturetexte="CODE" nortexte="" num="R146-25-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R146-25-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000046735175" naturetexte="CODE" nortexte="" num="R243-4-1" numtexte="" sens="cible" typelien="CITATION">Code de l'action sociale et des familles - art. R243-4-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000047634590" naturetexte="CODE" nortexte="" num="D351-1-5" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D351-1-5 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000023397579" naturetexte="CODE" nortexte="" num="D351-1-6" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. D351-1-6 (M)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000020039314" naturetexte="CODE" nortexte="" num="L821-7-3" numtexte="" sens="cible" typelien="CITATION">Code de la sécurité sociale. - art. L821-7-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000033730555" naturetexte="CODE" nortexte="" num="D5213-89" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. D5213-89 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000043463490" naturetexte="CODE" nortexte="" num="D6341-26" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. D6341-26 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000043461485" naturetexte="CODE" nortexte="" num="D6341-28-1" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. D6341-28-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006648674" naturetexte="CODE" nortexte="" num="L323-10" numtexte="" sens="cible" typelien="CONCORDE">Code du travail - art. L323-10 (AbD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000042195102" naturetexte="CODE" nortexte="" num="L5213-2-1" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L5213-2-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000048600658" naturetexte="CODE" nortexte="" num="L5312-1" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. L5312-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000020416900" naturetexte="CODE" nortexte="" num="R3332-21-1" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. R3332-21-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000046735337" naturetexte="CODE" nortexte="" num="R5213-1-2" numtexte="" sens="cible" typelien="CITATION">Code du travail - art. R5213-1-2 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGITEXT000006072050" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CONCORDANCE">Code du travail L323-10 alinéas 2 et 3</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000051517324" naturetexte="CODE" nortexte="" num="D2573-8" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D2573-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043232948" naturetexte="CODE" nortexte="" num="D5211-4-1" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. D5211-4-1 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043233671" naturetexte="CODE" nortexte="" num="R2123-22-3" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R2123-22-3 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043233656" naturetexte="CODE" nortexte="" num="R3123-22" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R3123-22 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043233698" naturetexte="CODE" nortexte="" num="R7125-28" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R7125-28 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006070633" datesignatexte="2999-01-01" id="LEGIARTI000043233687" naturetexte="CODE" nortexte="" num="R7227-28" numtexte="" sens="cible" typelien="CITATION">Code général des collectivités territoriales - art. R7227-28 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006069574" datesignatexte="2999-01-01" id="LEGIARTI000029043480" naturetexte="CODE" nortexte="" num="49 septies YJ" numtexte="" sens="cible" typelien="CITATION">Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (P)</LIEN>
+<LIEN cidtexte="LEGITEXT000006071367" datesignatexte="2999-01-01" id="LEGIARTI000047634611" naturetexte="CODE" nortexte="" num="D732-41" numtexte="" sens="cible" typelien="CITATION">Code rural et de la pêche maritime - art. D732-41 (VD)</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006796672" naturetexte="CODE" nortexte="" num="L146-9" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L146-9</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006797049" naturetexte="CODE" nortexte="" num="L241-5" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L241-5</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006797382" naturetexte="CODE" nortexte="" num="L312-1" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L312-1</LIEN>
+</LIENS>
+</ARTICLE>

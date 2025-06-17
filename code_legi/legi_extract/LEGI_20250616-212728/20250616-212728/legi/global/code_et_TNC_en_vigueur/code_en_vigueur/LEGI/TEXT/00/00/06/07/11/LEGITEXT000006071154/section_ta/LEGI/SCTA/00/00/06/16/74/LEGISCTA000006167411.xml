@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006167411</ID>
+<TITRE_TA>Section 1 : Dispositions générales</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1958-04-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006574849" num="12" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020957195" num="12-1" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2009-08-07" id="LEGIARTI000006574851" num="13" origine="LEGI"/>
+<LIEN_ART debut="2009-08-07" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000020957197" num="13" origine="LEGI"/>
+<LIEN_ART debut="1958-04-08" etat="MODIFIE" fin="2001-01-01" id="LEGIARTI000006574850" num="13" origine="LEGI"/>
+<LIEN_ART debut="1958-04-08" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006574852" num="14" origine="LEGI"/>
+<LIEN_ART debut="1978-07-29" etat="MODIFIE" fin="2023-01-26" id="LEGIARTI000006574853" num="15" origine="LEGI"/>
+<LIEN_ART debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047053005" num="15" origine="LEGI"/>
+<LIEN_ART debut="1994-02-02" etat="MODIFIE" fin="2003-03-19" id="LEGIARTI000006574854" num="15-1" origine="LEGI"/>
+<LIEN_ART debut="2003-03-19" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000006574855" num="15-1" origine="LEGI"/>
+<LIEN_ART debut="2000-06-16" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000006574857" num="15-2" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038311986" num="15-2" origine="LEGI"/>
+<LIEN_ART debut="2007-12-31" etat="MODIFIE" fin="2017-03-01" id="LEGIARTI000006574860" num="15-3" origine="LEGI"/>
+<LIEN_ART debut="2017-03-01" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000034099766" num="15-3" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038311441" num="15-3" origine="LEGI"/>
+<LIEN_ART debut="2004-03-10" etat="MODIFIE" fin="2007-12-31" id="LEGIARTI000006574859" num="15-3" origine="LEGI"/>
+<LIEN_ART debut="2001-01-01" etat="MODIFIE" fin="2004-03-10" id="LEGIARTI000006574858" num="15-3" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000038266491" num="15-3-1" origine="LEGI"/>
+<LIEN_ART debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047048413" num="15-3-1-1" origine="LEGI"/>
+<LIEN_ART debut="2019-12-30" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000039776502" num="15-3-2" origine="LEGI"/>
+<LIEN_ART debut="2023-11-28" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047242883" num="15-3-2-1" origine="LEGI"/>
+<LIEN_ART debut="2020-06-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000042035225" num="15-3-3" origine="LEGI"/>
+<LIEN_ART debut="2017-03-02" etat="MODIFIE" fin="2019-03-25" id="LEGIARTI000034108279" num="15-4" origine="LEGI"/>
+<LIEN_ART debut="2019-03-25" etat="MODIFIE" fin="2023-07-20" id="LEGIARTI000038311454" num="15-4" origine="LEGI"/>
+<LIEN_ART debut="2023-07-20" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047860960" num="15-4" origine="LEGI"/>
+<LIEN_ART debut="2023-01-26" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000047048788" num="15-5" origine="LEGI"/>
+<LIEN_ART debut="2025-06-15" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000051740793" num="15-6" origine="LEGI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006071154" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code de procédure pénale" debut="1958-04-08" fin="2999-01-01" id_txt="LEGITEXT000006071154">Code de procédure pénale</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006098229">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006121321">Livre Ier : De l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753875">Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2013-07-27" id="LEGISCTA000006138088">Titre Ier : Des autorités chargées de l'action publique et de l'instruction</TITRE_TM>
+<TITRE_TM debut="2013-07-27" fin="2999-01-01" id="LEGISCTA000027753873">Titre Ier : Des autorités chargées  de la conduite de la politique pénale, de l'action publique et de l'instruction</TITRE_TM>
+<TM>
+<TITRE_TM debut="1958-04-08" fin="2999-01-01" id="LEGISCTA000006151872">Chapitre Ier : De la police judiciaire</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>LEGISCTA000006149820</ID>
+<TITRE_TA>Chapitre II : Du régime des peines</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1994-03-01" etat="MODIFIE" fin="2014-10-01" id="LEGIARTI000006417356" num="132-1" origine="LEGI"/>
+<LIEN_ART debut="2014-10-01" etat="VIGUEUR" fin="2999-01-01" id="LEGIARTI000029370560" num="132-1" origine="LEGI"/>
+<LIEN_SECTION_TA cid="LEGISCTA000006165266" debut="1992-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165266" niv="5" url="/LEGI/SCTA/00/00/06/16/52/LEGISCTA000006165266.xml">Section 1 : Dispositions générales</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165267" debut="1992-07-23" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165267" niv="5" url="/LEGI/SCTA/00/00/06/16/52/LEGISCTA000006165267.xml">Section 2 : Des modes de personnalisation des peines</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165269" debut="2004-03-10" etat="VIGUEUR" fin="2999-01-01" id="LEGISCTA000006165269" niv="5" url="/LEGI/SCTA/00/00/06/16/52/LEGISCTA000006165269.xml">Section 3 : De la définition de certaines circonstances entraînant l'aggravation, la diminution ou l'exemption des peines</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="LEGISCTA000006165268" debut="1994-03-01" etat="ABROGE" fin="2004-03-10" id="LEGISCTA000006165268" niv="5" url="/LEGI/SCTA/00/00/06/16/52/LEGISCTA000006165268.xml">Section 3 : De la définition de certaines circonstances entraînant l'aggravation des peines.</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE autorite="" cid="LEGITEXT000006070719" date_publi="2999-01-01" date_signature="2999-01-01" ministere="" nature="CODE" nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Code pénal" debut="1990-09-01" fin="2999-01-01" id_txt="LEGITEXT000006070719">Code pénal</TITRE_TXT>
+<TM>
+<TITRE_TM debut="1990-09-01" fin="2999-01-01" id="LEGISCTA000006089684">Partie législative</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006117596">Livre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="1992-07-23" fin="2999-01-01" id="LEGISCTA000006136038">Titre III : Des peines</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+</CONTEXTE>
+</SECTION_TA>
