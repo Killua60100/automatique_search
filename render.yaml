@@ -1,9 +1,7 @@
 services:
-  - type: worker
-    name: automatique-search-worker
-    runtime: python
-    repo: https://github.com/TON_USER/TON_REPO
-    branch: master
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python app.py"
+  - type: web
+    name: automatique-search
+    env: python
     plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
