@@ -1,7 +1,9 @@
 services:
   - type: worker
-    name: recherche-legislative
-    env: python
+    name: automatique-search-worker
+    runtime: python
+    repo: https://github.com/TON_USER/TON_REPO
+    branch: master
     buildCommand: "pip install -r requirements.txt"
     startCommand: "python app.py"
-    autoDeploy: true
+    plan: free
