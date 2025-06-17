@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038102841</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/10/28/KALIARTI000038102841.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>21</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2018-07-28</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720861">Rupture du contrat de travail</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2002-11-28" id="KALIARTI000005842691" num="21" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2002-11-28" etat="REMPLACE" fin="2004-05-05" id="KALIARTI000005842692" num="21" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2004-05-05" etat="REMPLACE" fin="2014-04-05" id="KALIARTI000005842693" num="21" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2014-04-05" etat="REMPLACE" fin="2018-07-28" id="KALIARTI000029237413" num="21" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2018-07-28" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038102841" num="21" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Toute rupture du contrat de travail à durée indéterminée, quelle que soit la partie prenant l'initiative de cette rupture, devra se faire dans le respect des dispositions légales.</p>
+<p>a) Délai-congé en cas de démission.</p>
+<p>Dans le cas de résiliation de contrat de travail à l'initiative du salarié, la durée du délai-congé est fixée à :</p>
+<p>- 15 jours si le salarié a moins de 6 mois de présence ;</p>
+<p>- 1 mois s'il justifie d'une ancienneté supérieure à 6 mois ;</p>
+<p>- 3 mois s'il s'agit d'un cadre.</p>
+<p>Pendant cette durée, le démissionnaire pourra s'absenter deux heures par jour, non rémunérées, pour la recherche d'un emploi.</p>
+<p>b) Délai-congé en cas de congédiement.</p>
+<p>Dans le cas d'un licenciement pour motif autre que faute grave, le salarié a droit :</p>
+<p>- s'il justifie d'une ancienneté inférieure à 2 ans, à un délai-congé de 1 mois ;</p>
+<p>- s'il justifie d'une ancienneté supérieure à 2 ans, à un délai-congé de 2 mois.</p>
+<p>Pour les cadres, le délai de préavis est de trois mois.</p>
+<p>Pendant cette durée, le personnel bénéficiera de 2 heures payées par jour de travail pour la recherche d'un emploi. Les 2 heures journalières seront, sauf accord différent entre les parties, prises une fois au gré de l'employeur, une fois à celui du salarié ; par accord réciproque, l'ensemble des heures pourra être bloqué à la fin de la période de préavis.</p>
+<p>Dans l'un et l'autre cas, lorsque le salarié aura trouvé du travail, il devra en avertir son employeur. Le bénéfice des 2 heures journalières pourra alors être supprimé.</p>
+<p>c) Certificat de travail.</p>
+<p>À l'expiration de son contrat de travail, un certificat de travail sera remis au salarié ; le certificat de travail devra contenir exclusivement les mentions prévues par la loi, dont les suivantes :<br/>
+– la date d'entrée du salarié et celle de sa sortie ;<br/>
+– la nature de l'emploi ou des emplois successivement occupés et les périodes pendant lesquelles ces emplois ont été tenus.</p>
+<p>d) Indemnité de licenciement.</p>
+<p>Le salarié titulaire d'un contrat à durée indéterminée licencié alors qu'il compte 8 mois d'ancienneté ininterrompus au service du même employeur, a droit, sauf en cas de faute grave ou lourde, à une indemnité de licenciement, distincte du préavis, égale à :<br/>
+– 1/4 de mois de salaire par année d'ancienneté pour les années jusqu'à 10 ans ;<br/>
+– 1/3 de mois de salaire par année d'ancienneté pour les années à partir de 10 ans.</p>
+<p>En cas d'années incomplètes, l'indemnité de licenciement est calculée proportionnellement au nombre de mois complets.</p>
+<p>Le salaire à prendre en considération pour le calcul de l'indemnité de licenciement est, selon la formule la plus avantageuse pour le salarié :<br/>
+– soit la moyenne mensuelle des 12 derniers mois précédant le licenciement, ou lorsque la durée de service est inférieure à 12 mois, la moyenne mensuelle de la rémunération de l'ensemble des mois précédant le licenciement ;<br/>
+– soit le tiers des 3 derniers mois. Dans ce cas, toute prime ou gratification de caractère annuel ou exceptionnel, versée au salarié pendant cette période, n'est prise en compte que dans la limite d'un montant calculé à due proportion.</p>
+<p>L'indemnité de licenciement ne se cumule pas avec toute autre indemnité de même nature.</p>
+<p>e) Indemnité conventionnelle de départ à la retraite.</p>
+<p>Tout salarié justifiant d'au moins 2 années d'ancienneté ininterrompues au service du même employeur, quittant volontairement l'entreprise pour bénéficier d'une pension de vieillesse, a droit à une indemnité de départ à la retraite, sous réserve de respecter le délai-congé qui lui incombe.</p>
+<p>Le montant de l'indemnité de départ à la retraite est déterminé comme indiqué à l'annexe II.</p>
+<p>Le salaire à prendre en considération pour le calcul de l'indemnité de départ à la retraite est, selon la forme la plus avantageuse pour le salarié :</p>
+<p>- soit 1/12 de la rémunération des 12 derniers mois qui précèdent le terme du contrat de travail ;</p>
+<p>- soit 1/3 des 3 derniers mois, étant précisé dans ce cas que toute prime ou gratification de caractère annuel ou exceptionnel, versée au salarié pendant cette période, n'est prise en compte que dans la limite d'un montant calculé à due proportion.</p>
+<p>Pour le calcul de cette indemnité, le temps de présence s'entend des périodes de travail effectif au titre du contrat de travail en cours, auxquelles s'ajoutent les périodes légalement assimilées de plein droit à du travail effectif et rémunérées comme tel.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000029138655" datesignatexte="2014-02-10" id="KALIARTI000029138658" naturetexte="Avenant" nortexte="ASET1450411M" num="1er" numtexte="2014-1" sens="cible" typelien="CITATION">Indemnités de départ à la retraite - art. 1er (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000038014437" datesignatexte="2018-06-14" id="KALIARTI000038014449" naturetexte="Avenant" nortexte="ASET1850992M" num="3" numtexte="" sens="cible" typelien="MODIFIE">Révision de la convention (articles 19, 20, 21 ... - art. 3 (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000038014437" datesignatexte="2018-06-14" id="KALIARTI000038014451" naturetexte="Avenant" nortexte="ASET1850992M" num="4" numtexte="" sens="cible" typelien="MODIFIE">Révision de la convention (articles 19, 20, 21 ... - art. 4 (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000038014437" datesignatexte="2018-06-14" id="KALIARTI000038014452" naturetexte="Avenant" nortexte="ASET1850992M" num="5" numtexte="" sens="cible" typelien="MODIFIE">Révision de la convention (articles 19, 20, 21 ... - art. 5 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051352449</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/35/24/KALIARTI000051352449.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Maintien et intégration de certains salariés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051352444" date_publi="2025-03-19" date_signature="2024-12-18" nature="Accord" nor="ASET2550122M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Catégories objectives des bénéficiaires de garanties collectives de protection sociale complémentaire" debut="2025-01-01" fin="2999-01-01" id_txt="KALITEXT000051352444">Accord du 18 décembre 2024 relatif aux catégories objectives des bénéficiaires de garanties collectives de protection sociale complémentaire</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635944" date_publi="1989-07-06" etat="VIGUEUR_ETEN" nature="IDCC" num="1558" titre="Convention collective nationale relative aux conditions de travail du personnel des industries céramiques de France du 6 juillet 1989.&#10;" url="conteneur/KALI/CONT/00/00/05/63/59/KALICONT000005635944.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051352449" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Enfin, sous réserve que le présent accord soit agréé par la commission paritaire rattachée à l'association pour l'emploi des cadres (APEC), et en application des dispositions relatives à la protection sociale complémentaire du bulletin officiel de la sécurité sociale, et des dispositions de l'article R. 242-1-1 du code de la sécurité sociale les parties signataires souhaitent ouvrir la possibilité aux entreprises qui entrent dans le champ d'application du présent accord d'intégrer ou non les salariés suivants dans la catégorie des cadres pour le bénéfice des garanties de protection sociale complémentaire (frais de santé, prévoyance et retraite), au titre « d'assimilés-cadres » : « ex-articles 36 », relevant des catégories employés, techniciens et agents de maîtrise, dont l'emploi est classé entre le niveau D échelon 3 et le niveau E échelon 4. Les entreprises ayant obtenu des dérogations de la part de l'AGIRC, concernant le seuil de positionnement de ces « ex-articles 36 », pourront continuer à les appliquer.</p>
+<p align="left">Cette option devra être formalisée dans le cadre de l'acte de droit du travail formalisant les garanties collectives de protection sociale complémentaire (accord collectif d'entreprise ou DUE décision unilatérale employeur) conformément aux dispositions de l'article L. 911-1 du code de la sécurité sociale.</p>
+<p align="left">Les précisions du présent article ne font pas obstacle au recours, par les entreprises de la branche, aux autres critères énumérés à l'article R. 242-1-1 du code de la sécurité sociale pour définir les catégories de bénéficiaires de leurs régimes de protection sociale complémentaire, sous réserve, de respecter le formalisme y étant attaché.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745462" naturetexte="CODE" nortexte="" num="L911-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L911-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000025130555" naturetexte="CODE" nortexte="" num="R242-1-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. R242-1-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842688</ID>
+<ANCIEN_ID>KBKAAXXXXXX00018XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/26/KALIARTI000005842688.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>18 (1)</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720858">Maladie et accidents du travail  </TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1978-02-15" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005842688" num="18 (1)" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>1° Les absences résultant de maladie ou d'accident, extraprofessionnel, justifiées dans les 3 jours (sauf cas de force majeure) par certificat médical ne constituent pas une rupture du contrat de travail.</p>
+<p>Dans le cas où l'intéressé ne justifierait pas de son absence dans les 3 jours (sauf cas de force majeure) le contrat de travail pourra être rompu.</p>
+<p>Dans le cas où les absences imposeraient le remplacement provisoire de l'intéressé, le remplaçant, à son embauche, devra être informé du caractère provisoire de l'emploi. Pendant la durée du remplacement, il sera couvert par les dispositions de la présente convention. Le remplacement définif ne pourra intervenir avant 6 mois.</p>
+<p>L'employeur devra notifier à l'intéressé la nécessité dans laquelle il se trouve de le remplacer par lettre recommandée avec accusé de réception, en tenant compte du préavis prévu par la convention collective.</p>
+<p>Les absences occasionnées par une maladie professionnelle ou un accident de travail ou de trajet reconnu par la sécurité sociale n'entraîneront pas une rupture du contrat de travail pendant tout le temps où les indemnités journalières seront versées par la sécurité sociale.</p>
+<p>
+<font color="#808080" size="1">
+<i>(1) Article étendu sous réserve de l'application des articles L. 122-14 et suivants, L. 122-9, R. 122-1 du code du travail et de la loi n° 78-49 du 19 janvier 1978 (art. 7 de l'accord annexé) (arrêté du 20 novembre 1978, art. 1er).</i>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

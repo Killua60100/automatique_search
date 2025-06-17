@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051352461</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/35/24/KALIARTI000051352461.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051352444" date_publi="2025-03-19" date_signature="2024-12-18" nature="Accord" nor="ASET2550122M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Catégories objectives des bénéficiaires de garanties collectives de protection sociale complémentaire" debut="2025-01-01" fin="2999-01-01" id_txt="KALITEXT000051352444">Accord du 18 décembre 2024 relatif aux catégories objectives des bénéficiaires de garanties collectives de protection sociale complémentaire</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-01-01" fin="2999-01-01" id="KALISCTA000051352447">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635944" date_publi="1989-07-06" etat="VIGUEUR_ETEN" nature="IDCC" num="1558" titre="Convention collective nationale relative aux conditions de travail du personnel des industries céramiques de France du 6 juillet 1989.&#10;" url="conteneur/KALI/CONT/00/00/05/63/59/KALICONT000005635944.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051352461" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les entreprises entrant dans le champ d'application de la convention collective nationale des industries céramiques de France peuvent instituer des garanties collectives de protection sociale complémentaire (dont frais de santé, prévoyance, retraite) suivant les modalités prévues à l'article L. 911-1 du code de la sécurité sociale.</p>
+<p align="left">Pour rappel, l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres redéfinit les catégories objectives de salariés comme suit :<br/>
+– substitue « l'article 4 » de l'ANI de 1947 par « l'article 2.1 – Ingénieurs et cadres » ;<br/>
+– substitue « l'article 4 bis » de l'ANI de 1947 par « l'article 2.2 – Employés, techniciens et agents de maîtrise, assimilés aux ingénieurs et cadres ;<br/>
+– supprime « l'article 36 » de l'ANI de 1947 (ETAM bénéficiant d'une extension de régime).</p>
+<p align="left">Ainsi la catégorie dite des « assimilés cadres » a disparu, en laissant cependant, la possibilité aux entreprises de maintenir certains avantages cadres à destination d'une certaine population non-cadre.</p>
+<p align="left">Le financement patronal des régimes de protection sociale complémentaire peut être exonéré de cotisations de sécurité sociale à la condition notamment qu'ils présentent un caractère collectif, c'est-à-dire qu'ils couvrent l'ensemble des salariés de l'entreprise, ou une ou plusieurs catégories de salariés définies selon les critères listés par l'article R. 242-1-1 du code de la sécurité sociale modifié par le décret n° 2021-1002 du 30 juillet 2021.</p>
+<p align="left">Le 1° de cet article précise notamment que peuvent être intégrés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire certains salariés définis par accord interprofessionnel ou professionnel ou convention de branche, sous réserve que l'accord ou la convention soit agréé par la commission paritaire de l'APEC. C'est dans ce cadre que les partenaires sociaux de la branche ont convenu le présent accord.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000043877119" datesignatexte="2021-07-30" id="JORFTEXT000043877119" naturetexte="DECRET" nortexte="SSAS2115429D" num="" numtexte="2021-1002" sens="source" typelien="CITATION">Décret n°2021-1002 du 30 juillet 2021</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745462" naturetexte="CODE" nortexte="" num="L911-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L911-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000025130555" naturetexte="CODE" nortexte="" num="R242-1-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. R242-1-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

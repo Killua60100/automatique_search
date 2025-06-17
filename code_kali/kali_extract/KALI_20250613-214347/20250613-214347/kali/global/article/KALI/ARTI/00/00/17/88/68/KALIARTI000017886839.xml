@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017886839</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/88/68/KALIARTI000017886839.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>31.2</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000020752308">Interdiction de licenciement de la femme enceinte</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-09-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000017886839" num="31.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Conformément à l'article L. 122-25-2 du code du travail, aucun employeur ne peut résilier le contrat de travail d'une salariée lorsqu'elle est en état de grossesse médicalement constaté et pendant l'intégralité des périodes de suspension du contrat de travail auxquelles elle a droit, qu'elle use ou non de ce droit, ainsi que pendant les 4 semaines qui suivent l'expiration de ces périodes. <br/>Toutefois, il peut résilier le contrat s'il justifie d'une faute grave de l'intéressée n'ayant aucun rapport avec la grossesse ou de l'impossibilité où il se trouve, pour un motif étranger à la grossesse, à l'accouchement ou à l'adoption, de maintenir ledit contrat. <br/>En ce cas, la notification du licenciement ne peut prendre effet ou être signifiée pendant la période de suspension du contrat.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>en vigueur le 1er jour du mois suivant l'extension</CONDITION_DIFFERE>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000018772571" datesignatexte="2007-12-05" id="KALIARTI000018772574" naturetexte="Accord" nortexte="ASET0850089M" num="2" numtexte="" sens="cible" typelien="CITATION">relatif à la garantie annuelle territoriale de ... - art. 2 (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000018772571" datesignatexte="2007-12-05" id="KALIARTI000018772577" naturetexte="Accord" nortexte="ASET0850089M" num="4" numtexte="" sens="cible" typelien="CITATION">relatif à la garantie annuelle territoriale de ... - art. 4 (VNE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006646766" naturetexte="CODE" nortexte="" num="L122-25-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L122-25-2</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

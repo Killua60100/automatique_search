@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045110819</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/11/08/KALIARTI000045110819.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE>Garanties</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2022-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045110651" date_publi="2022-02-02" date_signature="2021-10-19" nature="Accord" nor="ASET2151102M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance collectif" debut="2022-01-01" fin="2999-01-01" id_txt="KALITEXT000045110651">Accord du 19 octobre 2021 relatif au régime de prévoyance collectif</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635594" date_publi="2005-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1483" titre="Convention collective nationale du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987, révisée par avenant du 17 juin 2004" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635594.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2022-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045110819" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les entreprises doivent garantir les salariés en matière de prévoyance en respectant les minima de couverture fixés ci-dessous.</p>
+<p align="left">Ces niveaux de couverture sont exposés ci-après et repris dans le cadre du contrat conclu avec les organismes assureurs recommandés :</p>
+<p align="center">1. Salariés cadres et agents de maîtrise (catégories A1 à D) tels que définis au I de l'accord du 12 octobre 2006 relatif aux classifications</p>
+<p align="left">(Tableau non reproduit, consultable en ligne sur le site www.legifrance.gouv.fr, rubrique « Publications officielles » « Bulletins officiels des conventions collectives ».)</p>
+<p align="left">
+ https://www.legifrance.gouv.fr/download/file/pdf/boc_20210048_0000_0014.pdf/BOCC
+</p>
+<p align="center">2. Salariés employés (catégories 1 à 8) tels que définis au II de l'accord du 12 octobre 2006 relatif aux classifications</p>
+<p align="left">(Tableau non reproduit, consultable en ligne sur le site www.legifrance.gouv.fr, rubrique « Publications officielles » « Bulletins officiels des conventions collectives ».)</p>
+<p align="left">
+ https://www.legifrance.gouv.fr/download/file/pdf/boc_20210048_0000_0014.pdf/BOCC
+</p>
+<p align="left">On entend par :<br/>
+– tranche 1 : partie du salaire annuel brut limitée au plafond annuel de la sécurité sociale ;<br/>
+– tranche 2 limitée à 4 plafonds annuels de la sécurité sociale : partie du salaire annuel brut comprise entre le plafond de la Sécurité sociale et quatre fois ce plafond.</p>
+<p align="left">Le PASS est le plafond annuel retenu pour le calcul des cotisations de sécurité sociale, visé à l'article à l'article L. 241-3 du code de la sécurité sociale. Il est fixé chaque année par arrêté.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006741897" naturetexte="CODE" nortexte="" num="L241-3" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L241-3</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

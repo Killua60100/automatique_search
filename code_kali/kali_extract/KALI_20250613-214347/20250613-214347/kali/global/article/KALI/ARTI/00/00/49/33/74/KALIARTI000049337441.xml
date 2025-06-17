@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000049337441</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/49/33/74/KALIARTI000049337441.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6.2</NUM>
+<TITRE>Garantie rente éducation</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000049337428" date_publi="2999-01-01" date_signature="2023-11-30" nature="Accord" nor="ASET2450071M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance harmonisé" debut="2024-01-01" fin="2999-01-01" id_txt="KALITEXT000049337428">Accord du 30 novembre 2023 relatif à la mise en place d'un régime de prévoyance harmonisé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000051160618" date_publi="2025-12-01" etat="VIGUEUR_NON_ETEN" nature="IDCC" num="3255" titre="Convention collective nationale des activités industrielles de boulangerie et pâtisserie et des professionnels de l'oeuf du 1er octobre 2024" url="conteneur/KALI/CONT/00/00/51/16/06/KALICONT000051160618.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000049337441" num="6.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Prestations</p>
+<p align="left">En cas de décès du salarié, chaque enfant à charge perçoit une rente dans les conditions suivantes :</p>
+<br/>
+
+<table border="1">
+<tbody>
+<tr>
+<td>Jusqu'au 16e anniversaire</td>
+<td align="center">8 % du salaire de référence</td>
+</tr>
+<tr>
+<td>Du 16e au 18e anniversaire</td>
+<td align="center">12 % du salaire de référence</td>
+</tr>
+<tr>
+<td>À compter du 18e anniversaire et tant que l'enfant répond à la définition d'enfant à charge mentionnée</td>
+<td align="center">16 % du salaire de référence</td>
+</tr>
+</tbody>
+</table>
+
+<p align="left">Si l'enfant est orphelin de père et de mère, la rente est doublée.</p>
+<p align="left">Seront ainsi concernés, les enfants, en fonction de leur âge, dans les conditions suivantes :<br/>
+– jusqu'à leur 18e anniversaire, sans condition ;<br/>
+– jusqu'à leur 26e anniversaire, et sous condition, soit :<br/>
+–– de poursuivre des études dans un établissement d'enseignement secondaire, supérieur ou professionnel ;<br/>
+–– d'être en apprentissage ;<br/>
+–– de poursuivre une formation professionnelle en alternance, dans le cadre d'un contrat d'aide à l'insertion professionnelle en alternance ;<br/>
+–– d'être préalablement à l'exercice d'un premier emploi rémunéré, inscrits auprès de Pôle Emploi comme demandeurs d'emploi, ou stagiaires de la formation professionnelle ;<br/>
+–– d'être employés dans un centre d'aide par le travail en tant que travailleurs handicapés.</p>
+<p align="left">Sont concernés par le présent dispositif, les enfants nés ou à naître du salarié, qu'ils soient légitimes, naturels, adoptifs, reconnus.</p>
+<p align="left">Par assimilation, sont considérés à charge, s'ils remplissent les conditions indiquées ci-dessus, les enfants à naître et nés viables et les enfants recueillis ; c'est-à-dire ceux de l'ex-conjoint éventuel, du conjoint du participant décédé, qui ont vécu au foyer jusqu'au moment du décès et si leur autre parent n'est pas tenu au versement d'une pension alimentaire.</p>
+<p align="center">Paiement de la rente</p>
+<p align="left">La rente est versée par trimestre et d'avance.</p>
+<p align="left">Elle prend effet à compter du premier jour du trimestre civil suivant le décès du salarié.</p>
+<p align="left">Le versement de la rente éducation cesse à la fin du trimestre civil au cours duquel l'enfant ne remplit plus les conditions d'attribution ou n'est plus à charge.</p>
+<p align="left">Lorsque l'enfant est mineur, elle est versée à son représentant légal. Lorsque l'enfant est majeur, elle lui est versée directement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

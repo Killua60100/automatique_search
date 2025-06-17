@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050962408</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/96/24/KALIARTI000050962408.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3.4</NUM>
+<TITRE>Documents à joindre à la demande de congé</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-11-18</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050962394" date_publi="2025-01-09" date_signature="2024-10-17" nature="Avenant" nor="ASET2450906M" num="26" num_parution_jo="">
+<TITRE_TXT c_titre_court="Congé de proche aidant" debut="2024-11-18" fin="2999-01-01" id_txt="KALITEXT000050962394">Avenant n° 26 du 17 octobre 2024 relatif au congé de proche aidant</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000027040696" date_publi="2012-03-21" etat="VIGUEUR_ETEN" nature="IDCC" num="3109" titre="Convention collective nationale des 5 branches industries alimentaires diverses du 21 mars 2012 " url="conteneur/KALI/CONT/00/00/27/04/06/KALICONT000027040696.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-11-18" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050962408" num="3.4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">À l'appui de sa demande de congé de proche aidant, le salarié doit joindre les documents suivants :<br/>
+– une déclaration sur l'honneur du lien familial du demandeur avec la personne aidée ou de l'aide apportée à une personne âgée ou handicapée avec laquelle il réside ou entretient des liens étroits et stables ;<br/>
+– une déclaration sur l'honneur du demandeur précisant qu'il n'a pas eu précédemment recours, au long de sa carrière, à un congé de proche aidant ou bien la durée pendant laquelle il a bénéficié de ce congé selon les exigences légales ;<br/>
+– lorsque la personne aidée est un enfant handicapé à la charge du demandeur, au sens de l'article L. 512-1 du code de la sécurité sociale, ou un adulte handicapé, une copie de la décision prise en application de la législation de sécurité sociale ou d'aide sociale subordonnée à la justification d'un taux d'incapacité permanente au moins égal à 80 % ;<br/>
+– lorsque la personne aidée souffre d'une perte d'autonomie, une copie de la décision d'attribution de l'allocation personnalisée d'autonomie mentionnée à l'article L. 232-2 du code de l'action sociale et des familles.</p>
+<p align="left">En outre, conformément aux dispositions légales, lorsque la personne aidée en bénéficie, une copie de la décision de l'une des prestations suivantes doit être transmise par le salarié proche aidant :<br/>
+– la majoration pour aide constante d'une tierce personne mentionnée à l'article L. 355-1 du code de la sécurité sociale ;<br/>
+– la prestation complémentaire pour recours à tierce personne mentionnée au troisième alinéa de l'article L. 434-2 du code de la sécurité sociale ;<br/>
+– la majoration spéciale pour assistance d'une tierce personne mentionnée à l'article L. 30 bis du code des pensions civiles et militaires de retraites et à l'article 34 du décret n° 2003-1306 du 26 décembre 2003 relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales ;<br/>
+– la majoration attribuée aux bénéficiaires du 3° de l'article D. 712-15 du code de la sécurité sociale et du 3° du V de l'article 6 du décret n° 60-58 du 11 janvier 1960 relatif au régime de sécurité sociale des agents permanents des départements, des communes et de leurs établissements publics n'ayant pas le caractère industriel ou commercial ;<br/>
+– la majoration mentionnée à l'article L. 133-1 du code des pensions militaires d'invalidité et des victimes de guerre.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000874302" datesignatexte="1960-01-11" id="LEGIARTI000006770665" naturetexte="DECRET" nortexte="" num="6" numtexte="60-58" sens="source" typelien="CITATION">Décret n°60-58 du 11 janvier 1960 - art. 6</LIEN>
+<LIEN cidtexte="JORFTEXT000000611945" datesignatexte="2003-12-26" id="LEGIARTI000006400902" naturetexte="DECRET" nortexte="FPPA0300175D" num="34" numtexte="2003-1306" sens="source" typelien="CITATION">Décret n°2003-1306 du 26 décembre 2003 - art. 34</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070302" datesignatexte="2999-01-01" id="LEGIARTI000025064062" naturetexte="CODE" nortexte="" num="L30 bis" numtexte="" sens="source" typelien="CITATION">Code des pensions civiles et militaires de retraite - art. L30 bis</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006738823" naturetexte="CODE" nortexte="" num="D712-15" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. D712-15</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006742685" naturetexte="CODE" nortexte="" num="L355-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L355-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006743051" naturetexte="CODE" nortexte="" num="L434-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L434-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006743273" naturetexte="CODE" nortexte="" num="L512-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L512-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006074068" datesignatexte="2999-01-01" id="LEGIARTI000031709425" naturetexte="CODE" nortexte="" num="L133-1" numtexte="" sens="source" typelien="CITATION">Code des pensions militaires d'invalidité et des victimes de la guerre. - art. L133-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006796962" naturetexte="CODE" nortexte="" num="L232-2" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L232-2</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

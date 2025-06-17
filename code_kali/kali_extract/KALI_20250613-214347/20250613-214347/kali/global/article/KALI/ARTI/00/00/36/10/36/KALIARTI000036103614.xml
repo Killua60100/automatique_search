@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000036103614</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/36/10/36/KALIARTI000036103614.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE>Réserve de couverture des anciens salariés</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-07-01</DATE_DEBUT>
+<DATE_FIN>2017-11-23</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000018043671" date_publi="2999-01-01" date_signature="2007-06-22" nature="Accord" nor="ASET0750840M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de soins de santé des anciens salariés" debut="2007-07-01" fin="2999-01-01" id_txt="KALITEXT000018043671">Accord du 22 juin 2007 relatif au régime frais de soins de santé des anciens salariés</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635184" date_publi="2019-07-01" etat="VIGUEUR_ETEN" nature="IDCC" num="176" titre="Convention collective nationale de l'industrie pharmaceutique du 6 avril 1956 mise à jour par accord du 11 avril 2019 - Etendue par arrêté du 2 avril 2021 JORF 13 juillet 2021" url="conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635184.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2018-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000036846255" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2007-07-01" etat="REMPLACE" fin="2013-09-25" id="KALIARTI000018043690" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-09-25" etat="REMPLACE" fin="2017-07-01" id="KALIARTI000028492961" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2017-07-01" etat="REMPLACE" fin="2017-11-23" id="KALIARTI000036103614" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">6.1. Alimentation de la réserve de couverture</p>
+<p>La réserve de couverture des anciens salariés est alimentée par :</p>
+<p>- la dotation annuelle prélevée sur le fonds collectif santé visé par l'accord collectif du 22 juin 2007 sur le régime de prévoyance des salariés, en fonction des adhésions nouvelles au présent régime des salariés bénéficiant du fonds collectif santé ;</p>
+<p>- les cotisations exceptionnelles demandées, le cas échéant, aux nouvelles entreprises adhérentes au régime de prévoyance des salariés en activité selon les modalités précisées par l'accord collectif du 22 juin 2007 pour permettre l'adhésion à titre dérogatoire de leurs anciens salariés dans les cas visés à l'article 1er ci-dessus ;</p>
+<p>- les produits financiers calculés selon les dispositions prévues dans le contrat passé avec l'organisme assureur.</p>
+<p align="center">6.2. Utilisation de la réserve de couverture</p>
+<p align="center">6.2.1. Anciens salariés bénéficiaires de la réserve de couverture</p>
+<p>Les bénéficiaires de la réserve de couverture des anciens salariés sont :</p>
+<p>- les bénéficiaires de la réserve de couverture au 31 décembre 2014 ;</p>
+<p>- pour les anciens salariés des entreprises qui à la date d'entrée en vigueur du présent accord, le 1er janvier 2015, ne participent pas au fonds collectif santé visé par l'accord collectif du 22 juin 2007 sur le régime de prévoyance des salariés, le bénéfice de la réserve de couverture est conditionné au paiement par l'entreprise d'une contribution annuelle au financement de la réserve de couverture, dont le montant est déterminé par le comité paritaire de gestion défini à l'article 7 ;</p>
+<p>- les salariés nés avant le 1er janvier 1953 et/ou leurs ayants droit, adhérant avant le terme de leur contrat de travail au régime de prévoyance des salariés prévu par l'accord du 22 juin 2007 et qui choisissent d'adhérer au régime des anciens salariés, lors de la liquidation de leur retraite ; pour les anciens salariés des entreprises qui à la date de signature du présent accord ne participent pas au fonds collectif santé visé par l'accord collectif du 22 juin 2007 sur le régime de prévoyance des salariés, le bénéfice de la réserve de couverture est conditionné au paiement par l'entreprise d'une contribution annuelle au financement de la réserve de couverture, dont le montant est déterminé par le comité paritaire de gestion défini à l'article 7 ;</p>
+<p>- les anciens salariés, dès lors qu'ils étaient salariés d'une entreprise cotisant au fonds collectif santé visé par l'accord collectif du 22 juin 2007 sur le régime de prévoyance des salariés, lors de la liquidation de leur retraite.</p>
+<p>En aucun cas, il ne peut être fait appel au régime des actifs si le montant de la réserve de couverture n'est pas suffisant pour financer tout ou partie de l'objectif de contribution visée ci-dessus. La cotisation prélevée sur la réserve de couverture des anciens salariés est nécessairement réduite ou supprimée si la réserve de couverture est insuffisante.</p>
+<p align="center">6.2.2. Montant de la cotisation prélevée sur la réserve de couverture : l'abondement</p>
+<p>Le montant de la cotisation prélevée sur la réserve de couverture est fixé chaque année selon les modalités suivantes :<br/>
+– le montant du financement est fonction du revenu de remplacement des adhérents retraités, il ne dépend pas de l'âge ni de l'année d'adhésion au régime des anciens salariés ;<br/>
+– le comité paritaire de gestion visé à l'article 7 du présent accord fixe le montant de l'abondement à prélever sur la réserve, sur proposition de l'organisme assureur en fonction de l'évolution des cotisations contractuelles définies au 5.2.1.1 ci-dessus, de la situation financière du régime des anciens salariés, du montant de la réserve de couverture des anciens salariés et en veillant au respect de l'équité intergénérations entre les adhérents.</p>
+<p>Le comité paritaire de gestion veillera à ce que le montant prélevé ne remette pas en cause la pérennité du dispositif.</p>
+<p>Le comité paritaire de gestion peut mandater un expert, notamment l'(es) actuaire(s), conseil(s) du régime de prévoyance des salariés, afin de présenter un rapport permettant de s'assurer que le principe d'équité intergénérations est respecté.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000036026404" datesignatexte="2017-07-06" id="KALIARTI000036026413" naturetexte="Avenant" nortexte="ASET1750872M" num="3" numtexte="" sens="cible" typelien="MODIFIE">Régime frais de soins de santé des anciens sala... - art. 3 (VNE)</LIEN>
+<LIEN cidtexte="JORFTEXT000042229174" datesignatexte="2020-07-30" id="JORFARTI000042229177" naturetexte="ARRETE" nortexte="MTRT2020525A" num="1" numtexte="" sens="source" typelien="EXTENSION">Arrêté du 30 juillet 2020 - art. 1, v. init.</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

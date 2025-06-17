@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050039956</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/03/99/KALIARTI000050039956.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>39</NUM>
+<TITRE>Dénonciation (1)</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2024-06-01" fin="2999-01-01" id="KALISCTA000050039954">Chapitre X Dispositions finales</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050039956" num="39" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">En application des articles L. 2261-9 et suivants du code du travail, les titres constituant la présente convention collective peuvent faire l'objet d'une dénonciation par la totalité ou l'une ou plusieurs de ses parties signataires. Dans ce cas, la dénonciation devra être faite par lettre recommandée avec avis de réception et ne prendra effet qu'à l'issue d'un préavis de 6 mois. </p>
+<p align="left">La dénonciation peut être totale ou partielle, mais toute dénonciation de l'annexe III vaut dénonciation du titre II « Personnels techniques » de la convention collective nationale de la production cinématographique. </p>
+<p align="left">La dénonciation du titre II « Personnels techniques » de la convention collective nationale de la production cinématographique vaut dénonciation de l'annexe III. </p>
+<p align="left">La dénonciation de l'article I. 1 du titre Ier, relatif au champ d'application, équivaut à la dénonciation totale des dispositions de la présente convention collective, en ce compris ses titres II à IV, annexes, avenants et accords complémentaires. </p>
+<p align="left">La dénonciation partielle peut viser l'intégralité des articles du titre Ier de la présente convention collective, à l'exception de l'article I. 1 relatif au champ d'application. </p>
+<p align="left">En cas de dénonciation partielle, les dispositions dénoncées cesseront de produire leur effet dans les conditions prévues ci-dessous. Les dispositions non dénoncées continueront à produire leur effet sans changement. </p>
+<p align="left">Une nouvelle négociation s'engage dans un délai de 3 mois suivant la notification de la dénonciation partielle ou totale. </p>
+<p align="left">En cas de dénonciation totale ou partielle et à défaut d'accord sur un nouveau texte à la date d'expiration des dispositions dénoncées : <br/>– si la dénonciation est le fait de la totalité des parties signataires de la présente convention collective représentant soit les employeurs, soit les salariés, les dispositions dénoncées continueront à produire leur effet pendant une période de 18 mois à compter de l'expiration du délai de préavis précité de 6 mois ; <br/>– si la dénonciation est le fait de certaines ou d'une seule des parties signataires de la présente convention collective, les dispositions dénoncées continueront à produire leur effet entre les autres parties à la présente convention collective ; en ce qui concerne les auteurs de la dénonciation, les dispositions dénoncées continueront à produire leur effet pendant une période de 18 mois à compter de l'expiration du délai de préavis précité de 6 mois. </p>
+<p>
+<font color="808080">
+<em>
+ (1) Article étendu sous réserve du respect des dispositions du dernier alinéa de l'article L. 2261-10 du code du travail. <br/>(Arrêté du 31 mars 2015-art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000050028370" datesignatexte="2024-05-17" id="KALIARTI000050028376" naturetexte="Avenant" nortexte="ASET2450545M" num="2" numtexte="" sens="cible" typelien="MODIFIE">Prévention et signalement des violences et harc... - art. 2 (VNE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901787" naturetexte="CODE" nortexte="" num="L2261-9" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-9</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051314756</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/31/47/KALIARTI000051314756.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Durée et date d'effet</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051314748" date_publi="2025-03-12" date_signature="2024-12-30" nature="Avenant" nor="ASET2550098M" num="6" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de santé" debut="2025-01-01" fin="2999-01-01" id_txt="KALITEXT000051314748">Avenant n° 6 du 30 décembre 2024 à l'accord du 3 juillet 2015 relatif au régime frais de santé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635252" date_publi="1993-06-02" etat="VIGUEUR_ETEN" nature="IDCC" num="1631" titre="Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993" url="conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635252.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051314756" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le présent avenant est conclu pour une durée indéterminée et entre en vigueur le 1er janvier 2025.</p>
+<p align="left">Il peut être modifié ou dénoncé conformément aux articles L. 2222-5, L. 2261-7 et L. 2261-8 du code du travail.</p>
+<p align="left">Conformément aux articles L. 2261-9 et suivants du code du travail, il pourra être dénoncé à tout moment à charge pour ses parties de respecter un préavis dont la durée est fixée à 3 mois.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGISCTA000006195688" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901667" naturetexte="CODE" nortexte="" num="L2222-5" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2222-5</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901785" naturetexte="CODE" nortexte="" num="L2261-7" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-7</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901786" naturetexte="CODE" nortexte="" num="L2261-8" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-8</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

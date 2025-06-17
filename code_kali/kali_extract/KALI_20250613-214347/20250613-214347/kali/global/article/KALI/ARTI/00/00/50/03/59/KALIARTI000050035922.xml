@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050035922</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/03/59/KALIARTI000050035922.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Engagement de mineurs dans la production de films publicitaires</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053374">Titre III Salariés de l'équipe artistique</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050035922" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les stipulations des articles 5 et 6 du présent accord ne s'appliquent pas à la participation de mineurs de moins de seize ans à un film publicitaire. En effet, les mannequins sont engagés par les agences de mannequins mentionnées aux articles L. 7123-11 et suivants du code du travail.</p>
+<p>
+<em>Les enfants mannequins sont régis par des dispositions spécifiques prévues aux articles L. 7124-1 et R. 7124-1 et suivants du code du travail, notamment en matière de durée maximales de travail quotidiennes et hebdomadaires (art. R. 7124-27 du code du travail).</em>
+ (1)
+</p>
+<p>
+<font color="808080">
+<em>
+ (1) L'alinéa 2 de l'article 7 est étendu sous réserve de l'application entière des dispositions des articles L. 7124-1 et R. 7124-1 et suivants du code du travail qui concernent l'ensemble des activités dérogatoires à l'âge minimum d'admission à l'emploi et non les seules conditions d'emploi d'enfants mannequins. <br/>
+(Arrêté du 24 septembre 2024 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000050028346" datesignatexte="2024-05-17" id="KALIARTI000050028352" naturetexte="Avenant" nortexte="ASET2450544M" num="3" numtexte="" sens="cible" typelien="CREE">Conditions d'emploi des mineurs (titre III de l... - art. 3 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

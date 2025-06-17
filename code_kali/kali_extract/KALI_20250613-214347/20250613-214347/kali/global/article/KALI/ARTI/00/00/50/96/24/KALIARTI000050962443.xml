@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050962443</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/96/24/KALIARTI000050962443.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-11-18</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050962394" date_publi="2025-01-09" date_signature="2024-10-17" nature="Avenant" nor="ASET2450906M" num="26" num_parution_jo="">
+<TITRE_TXT c_titre_court="Congé de proche aidant" debut="2024-11-18" fin="2999-01-01" id_txt="KALITEXT000050962394">Avenant n° 26 du 17 octobre 2024 relatif au congé de proche aidant</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2024-11-18" fin="2999-01-01" id="KALISCTA000050962438">Annexe</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000027040696" date_publi="2012-03-21" etat="VIGUEUR_ETEN" nature="IDCC" num="3109" titre="Convention collective nationale des 5 branches industries alimentaires diverses du 21 mars 2012 " url="conteneur/KALI/CONT/00/00/27/04/06/KALICONT000027040696.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-11-18" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050962443" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe<br/>
+Modèle de courrier de demande de congé de proche aidant</p>
+<p>À (lieu), le (date)<br/>
+Prénom Nom<br/>
+Adresse personnelle<br/>
+Fonction<br/>
+[Destinataire]<br/>
+Adresse du destinataire<br/>
+Commune, le (date)<br/>
+(Lettre recommandée avec AR ou remise en main propre contre décharge)<br/>
+Objet : demande de congé de proche aidant</p>
+<p>Madame/Monsieur (éventuellement le prénom, nom),</p>
+<p>Je vous informe de mon intention de prendre un congé de proche aidant afin d'accompagner mon [proche concerné : préciser le lien avec la personne concernée].</p>
+<p>Je souhaite bénéficier de ce congé à compter du [date], pour une durée de [durée envisagée].</p>
+<p>Je souhaite prendre mon congé [en continu/de manière fractionnée selon le calendrier prévisionnel ci-joint/sous forme de temps partiel à (quotité)].</p>
+<p>Vous trouverez ci-joint les justificatifs me permettant de bénéficier du congé de proche aidant.</p>
+<p>Je vous prie d'agréer l'expression de mes salutations distinguées.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

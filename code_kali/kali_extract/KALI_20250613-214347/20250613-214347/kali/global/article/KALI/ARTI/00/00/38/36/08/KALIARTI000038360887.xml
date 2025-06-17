@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038360887</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/36/08/KALIARTI000038360887.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2018-09-29</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2018-09-29" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038360887" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">NOTA : Dans l'ensemble des articles des titres suivants : titre I, titre II, titre III, titre IV et de tous les textes rattachés à la CCNPC, les locutions :</p>
+<p align="left">« les parties, les parties contractantes, les parties signataires, les partenaires sociaux »</p>
+<p align="left">sont remplacées en tant que de besoin par les locutions suivantes :</p>
+<p align="left">les « Organisations syndicales de salariés représentatives et les Organisations d'employeurs représentatives dans la branche de la CCNPC » ou les « partenaires sociaux représentatifs de la branche de la CCNPC ».</p>
+<p>(Article 2 de l'avenant du 12 septembre 2018 relatif à la mise en place de la CPPNI - BOCC 2018-48).</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000038326423" datesignatexte="2018-09-12" id="KALIARTI000038326429" naturetexte="Avenant" nortexte="ASET1851164M" num="2" numtexte="" sens="source" typelien="CITATION">Mise en place de la CPPNI - art. 2 (VNE)</LIEN>
+<LIEN cidtexte="JORFTEXT000041460363" datesignatexte="2020-01-15" id="JORFARTI000041460365" naturetexte="ARRETE" nortexte="MTRT2001436A" num="1" numtexte="" sens="source" typelien="EXTENSION">Arrêté du 15 janvier 2020 - art. 1, v. init.</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

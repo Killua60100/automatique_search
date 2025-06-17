@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053504</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053504.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>35</NUM>
+<TITRE>Révision</TITRE>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2024-06-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2024-06-01" id="KALISCTA000028053384">Chapitre IX Dispositions finales</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2013-08-01" etat="ABROGE" fin="2024-06-01" id="KALIARTI000028053504" num="35" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>En application des articles L. 2261-7 et L. 2261-8 du code du travail, chaque partie signataire ou adhérente pourra, à tout moment, demander la révision de tout ou partie des titres, avenants ou annexes de la présente convention collective.<br/>La ou les parties ayant pris l'initiative d'une demande de révision devront la notifier à chacun des autres signataires ou adhérents et à chacune des autres organisations syndicales représentatives de la branche qui ne serait ni signataire ni adhérente par lettre recommandée avec avis de réception, accompagnée des motifs de la révision envisagée et d'une proposition de nouvelle rédaction des dispositions dont la révision est demandée.<br/>Une première réunion doit avoir lieu dans les 3 mois suivant la notification.<br/>Une demande de révision peut être présentée par un ou plusieurs signataires et/ou adhérents. Dans le cas où elle n'est le fait que d'un seul signataire ou adhérent, celui-ci ne peut demander, seul, qu'une révision par an.<br/>Tant que la demande de révision n'a pas abouti à un nouvel accord, les dispositions en cours continuent de produire leur effet. La demande de révision est réputée caduque si aucun accord de révision n'est conclu dans les 6 mois suivant la notification.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="KALITEXT000035532821" datesignatexte="2016-04-18" id="KALIARTI000035532826" naturetexte="Avenant" nortexte="ASET1750570M" num="2" numtexte="" sens="cible" typelien="CITATION">Révision des salaires (annexe III du titre II) - art. 2 (VE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901785" naturetexte="CODE" nortexte="" num="L2261-7" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-7</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

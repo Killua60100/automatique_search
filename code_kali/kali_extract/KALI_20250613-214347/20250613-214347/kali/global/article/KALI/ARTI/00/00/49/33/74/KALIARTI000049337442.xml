@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000049337442</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/49/33/74/KALIARTI000049337442.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6.3</NUM>
+<TITRE>Garantie incapacité temporaire de travail</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000049337428" date_publi="2999-01-01" date_signature="2023-11-30" nature="Accord" nor="ASET2450071M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance harmonisé" debut="2024-01-01" fin="2999-01-01" id_txt="KALITEXT000049337428">Accord du 30 novembre 2023 relatif à la mise en place d'un régime de prévoyance harmonisé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000051160618" date_publi="2025-12-01" etat="VIGUEUR_NON_ETEN" nature="IDCC" num="3255" titre="Convention collective nationale des activités industrielles de boulangerie et pâtisserie et des professionnels de l'oeuf du 1er octobre 2024" url="conteneur/KALI/CONT/00/00/51/16/06/KALICONT000051160618.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000049337442" num="6.3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Il sera versé au salarié, après un an d'ancienneté dans l'entreprise, en arrêt de travail se poursuivant au-delà de la période de maintien de salaire assuré par l'employeur (selon les dispositions en vigueur en la matière dans la branche professionnelle, à la date de prise d'effet de l'avenant n° 22 du 17 novembre 2016), consécutif à une maladie ou à un accident, professionnel ou non, pris en charge par la sécurité sociale, des indemnités journalières complémentaires, visant à lui garantir de 72,5 % de la 365e partie du salaire de référence sous déduction des indemnités journalières brutes servies par la sécurité sociale.</p>
+<p align="left">Pour les salariés dont l'ancienneté est inférieure à un an (ne bénéficiant pas du maintien de salaire assuré par l'employeur en raison d'une ancienneté insuffisante), l'indemnisation intervient à compter du 91e jour d'arrêt de travail continu.</p>
+<p align="left">En cas d'épuisement des droits au maintien de salaire tels que définis dans la présente convention collective, l'indemnisation intervient après la période de franchise de la sécurité sociale.</p>
+<p align="left">En tout état de cause, le cumul des sommes reçues au titre de la sécurité sociale, du régime de prévoyance ainsi que de tout autre revenu, ne pourra conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité professionnelle.</p>
+<p align="left">Le service de la rente est maintenu sous réserve du versement de la rente d'invalidité de la sécurité sociale et au plus tard jusqu'à la liquidation de la pension vieillesse de la sécurité sociale ou du décès du salarié. En tout état de cause, le cumul des sommes reçues au titre de la sécurité sociale, du régime de prévoyance ainsi que de tout autre revenu (salaire à temps partiel, indemnités pôle emploi...) ne pourra conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité professionnelle.</p>
+<p align="left">Lorsque le régime de la sécurité sociale réduit ses prestations, les indemnités journalières complémentaires sont réduites à due concurrence.</p>
+<p align="left">Le service des indemnités journalières complémentaires cesse :<br/>
+– à la date de cessation de versement des indemnités journalières de la sécurité sociale ;<br/>
+– lors de la reprise du travail ;<br/>
+– au décès du salarié ;<br/>
+– lors de la mise en invalidité ;<br/>
+– à la date de liquidation de la pension vieillesse pour inaptitude au travail.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

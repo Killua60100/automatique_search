@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021261500</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/26/15/KALIARTI000021261500.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>8</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-12-30</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720848">Période d'essai</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2009-07-08" id="KALIARTI000005842666" num="8" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-12-30" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021261500" num="8" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>Le contrat de travail à durée indéterminée peut comporter une période d'essai dont la durée maximale est de : <br/>
+<br/>― 2 mois pour le personnel non cadre ; <br/>
+<br/>― 4 mois pour les cadres. <br/>
+<br/>La période d'essai permet à l'employeur d'évaluer les compétences du salarié dans son travail, notamment au regard de son expérience, et au salarié d'apprécier si les fonctions occupées lui conviennent. <br/>
+<br/>La période d'essai ne se présume pas. Elle doit expressément être stipulée dans la lettre d'engagement ou dans le contrat de travail. <br/>
+<br/>Lorsqu'il est mis fin à la période d'essai par l'employeur, soit pendant son déroulement, soit à son terme, le salarié est prévenu dans un délai qui ne peut être inférieur à : <br/>
+<br/>― 24 heures en deçà de 8 jours de présence ; <br/>
+<br/>― 48 heures entre 8 jours et 1 mois de présence ; <br/>
+<br/>― 2 semaines après 1 mois de présence ; <br/>
+<br/>― 1 mois après 3 mois de présence. <br/>
+<br/>La période d'essai ne peut être prolongée du fait de la durée du délai de prévenance. <br/>
+<br/>Lorsqu'il est mis fin à la période d'essai par le salarié, celui-ci respecte un délai de prévenance de 48 heures. Ce délai est ramené à 24 heures si la durée de présence du salarié dans l'entreprise est inférieure à 8 jours.</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021237299" datesignatexte="2009-07-08" id="KALIARTI000021237304" naturetexte="Avenant" nortexte="ASET0950878M" num="1" numtexte="" sens="cible" typelien="MODIFIE">Période d'essai - art. 1 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

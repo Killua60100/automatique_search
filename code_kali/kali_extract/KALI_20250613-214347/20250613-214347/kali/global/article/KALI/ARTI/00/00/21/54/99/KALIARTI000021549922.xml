@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021549922</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/54/99/KALIARTI000021549922.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+<TITRE>Organismes assureurs</TITRE>
+
+<ETAT>MODIFIE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2010-01-01</DATE_DEBUT>
+<DATE_FIN>2010-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000018043576" date_publi="2999-01-01" date_signature="2007-06-22" nature="Accord" nor="ASET0750839M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance des salariés" debut="2007-07-01" fin="2016-01-01" id_txt="KALITEXT000018043576">Accord du 22 juin 2007 relatif au régime de prévoyance des salariés</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2007-07-01" fin="2016-01-01" id="KALISCTA000018043579">Chapitre Ier : Dispositions générales</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635184" date_publi="2019-07-01" etat="VIGUEUR_ETEN" nature="IDCC" num="176" titre="Convention collective nationale de l'industrie pharmaceutique du 6 avril 1956 mise à jour par accord du 11 avril 2019 - Etendue par arrêté du 2 avril 2021 JORF 13 juillet 2021" url="conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635184.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2007-07-01" etat="MODIFIE" fin="2999-01-01" id="KALIARTI000018043602" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2010-01-01" etat="MODIFIE" fin="2010-01-01" id="KALIARTI000021549922" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2010-01-01" etat="ABROGE" fin="2016-01-01" id="KALIARTI000022781588" num="5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Eu égard aux objectifs de solidarité civile et de mutualisation des risques que le présent accord organise, la couverture des garanties définie dans le présent accord est confiée à un ou plusieurs organismes mentionnés à l'article 1er de la loi n° 89-1009 du 31 décembre 1989, désignés par les parties signataires du présent accord, pour l'ensemble des entreprises entrant dans le champ d'application de la convention collective de l'industrie pharmaceutique. <br/>
+<br/>Le régime professionnel de prévoyance est assuré, à compter du 1er janvier 2010, et pour une période de 5 ans au plus, par : <br/>
+<br/>― l'APGIS, institution de prévoyance, régie par l'article L. 931-1 du code de la sécurité sociale, pour les risques maladie-chirurgie-maternité ; <br/>
+<br/>― AXA France Vie, entreprise régie par le code des assurances, pour les risques décès-incapacité-invalidité. <br/>
+<br/>La gestion des prestations de l'ensemble des risques tant maladie-chirurgie-maternité que décès-incapacité-invalidité est confiée pour la même période de 5 ans, au plus, à l'APGIS. <br/>
+<br/>Le comité paritaire de gestion peut accepter que tout ou partie de la gestion assurée par l'organisme désigné soit déléguée à un tiers, sous réserve que cette délégation n'altère pas la qualité du suivi technique du régime et les informations destinées au comité en application des articles 4 et 7 du présent accord. <br/>
+<br/>Conformément à l'article L. 912-2 du code de la sécurité sociale, les parties signataires du présent accord décident de procéder à un réexamen des modalités d'organisation de la mutualisation des risques décès-incapacité-invalidité et maladie-chirurgie-maternité, tous les 5 ans au plus, à compter du 1er janvier 2010. <br/>
+<br/>En s'appuyant sur le rapport technique présenté par le (ou les) actuaire (s) conseil (s) auquel le comité paritaire de gestion fait appel pour l'assister, les parties signataires déterminent les conditions dans lesquelles un appel d'offres est organisé. <br/>
+<br/>Au regard des éléments fournis par les réponses à l'appel d'offres et des critères de sélection préalablement définis, les parties signataires du présent accord désignent le (ou les) assureur (s) et le (ou les) gestionnaires. <br/>
+<br/>En cas de changement d'assureur (s) et conformément à l'article L. 912-3 du code de la sécurité sociale, est organisée la poursuite de la revalorisation future des prestations en espèces résultant du décès, de l'incapacité de travail temporaire ou permanente ainsi que le maintien des garanties conventionnelles décès prévues pour les bénéficiaires de prestations en espèces d'incapacité permanente ou temporaire. <br/>
+<br/>La poursuite des revalorisations et le maintien des garanties visés à l'alinéa précédent sont décidés par le comité paritaire de gestion. </p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000020277636" datesignatexte="2008-12-08" id="KALIARTI000020277648" naturetexte="Accord" nortexte="ASET0950011M" num="" numtexte="" sens="cible" typelien="CITATION">relatif au régime de prévoyance  - art. (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000021509902" datesignatexte="2009-06-17" id="KALIARTI000021509906" naturetexte="Avenant" nortexte="ASET0951008M" num="1" numtexte="" sens="cible" typelien="MODIFIE">Désignation des organismes assureurs du régime ... - art. 1 (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000018043671" datesignatexte="2007-06-22" id="KALIARTI000050302298" naturetexte="Accord" nortexte="ASET0750840M" num="3" numtexte="" sens="cible" typelien="CITATION">Régime frais de soins de santé des anciens sala... - art. 3 (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000019819150</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/19/81/91/KALIARTI000019819150.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+<TITRE>Cotisation</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-03-01</DATE_DEBUT>
+<DATE_FIN>2011-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000019819141" date_publi="2999-01-01" date_signature="2008-09-03" nature="Avenant" nor="ASET0851091M" num="15" num_parution_jo="">
+<TITRE_TXT c_titre_court="Mise en place d'un régime de remboursements complémentaires de frais de soins de santé" debut="2009-03-01" fin="2999-01-01" id_txt="KALITEXT000019819141">Avenant n° 15 du 3 septembre 2008 relatif à la mise en place d'un régime de remboursements complémentaires de frais de soins de santé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635899" date_publi="1984-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1286" titre="Convention collective nationale des détaillants et détaillants-fabricants de la confiserie,  chocolaterie, biscuiterie du 1er janvier 1984.  Etendue par arrêté du 2 octobre 1984 JONC 12 octobre 1984.&#10;" url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635899.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2011-01-01" etat="REMPLACE" fin="2014-01-01" id="KALIARTI000024367718" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2014-01-01" etat="REMPLACE" fin="2022-01-01" id="KALIARTI000028500529" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2022-01-01" etat="REMPLACE" fin="2024-04-01" id="KALIARTI000046055902" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051371654" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-03-01" etat="REMPLACE" fin="2011-01-01" id="KALIARTI000019819150" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2024-04-01" etat="REMPLACE" fin="2025-01-01" id="KALIARTI000050322353" num="5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/> Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation sociale et fiscale en vigueur au moment de la conclusion du présent avenant. Les cotisations seront revues sans délai en cas de changement de ces textes.<br/> Les parties signataires pourront également convenir d'une révision des garanties en tout ou partie, à cette occasion.<br/> La cotisation du régime de remboursement complémentaire de frais de soins de santé est mensuelle et forfaitaire.<br/> Pour les années 2009 et 2010, la cotisation mensuelle sera appelée conformément au tableau ci-après :</p>
+<p align="right">
+<br/>(En euros.) </p>
+<div align="left">
+<div align="center">
+
+<table border="1">
+<tr>
+<th/>
+<th>SALARIÉ BÉNÉFICIAIRE</th>
+</tr>
+<tr>
+<td align="center">Régime général</td>
+<td align="center">34,00</td>
+</tr>
+<tr>
+<td align="center">Régime local Alsace-Moselle</td>
+<td align="center">19,70</td>
+</tr>
+</table>
+
+</div>
+<br/> A compter du 1er janvier 2011, sauf disposition contraire adoptée par la commission paritaire nationale et selon la dérive des dépenses de santé observée dans le présent régime, la cotisation sera exprimée en pourcentage du plafond mensuel de la sécurité sociale aux taux minima figurant dans le tableau ci-après :<div align="center">
+
+<table border="1">
+<tr>
+<th/>
+<th>SALARIÉ BÉNÉFICIAIRE</th>
+</tr>
+<tr>
+<td align="center">Régime général</td>
+<td align="center">1,17 % du PMSS</td>
+</tr>
+<tr>
+<td align="center">Régime local Alsace-Moselle</td>
+<td align="center">0,68 % du PMSS</td>
+</tr>
+</table>
+
+</div>
+<br/> Le taux de cotisation sera indexé au minimum sur le dernier indice connu de l'évolution des dépenses de santé communiqué par les caisses nationales d'assurance maladie sauf si les résultats du régime compensent l'évolution de cet indice.<br/> La contribution de l'employeur sera au minimum de 50 % de la cotisation.<br/> Les cotisations sont payables trimestriellement à terme échu. Elles doivent être versées à l'organisme assureur désigné à l'article 13 du présent avenant dans le premier mois de chaque trimestre civil pour le trimestre écoulé.<br/> Les cotisations sont dues pour la totalité du mois au cours duquel les garanties sont accordées. L'organisme assureur, en application de l'article L. 932-9 du code de la sécurité sociale, procédera, le cas échéant, au recouvrement des cotisations dues par l'entreprise en cas de non-paiement dans les délais.</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>Le présent avenant prendra effet le premier jour du mois suivant la publication de son arrêté d'extension au Journal officiel et au plus tôt le 1er juillet 2009.</CONDITION_DIFFERE>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

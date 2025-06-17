@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841334</ID>
+<ANCIEN_ID>KBCAAXXXXXX00017XAAXEXXB</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841334.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>17</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Avenant n° 2 du 4 septembre 1985 étendu par arrêté du 30 juin 1986 JONC 11 juillet 1986.</HISTORIQUE>
+<DATE_DEBUT>1985-09-04</DATE_DEBUT>
+<DATE_FIN>2005-02-03</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750735">Section 1 : Engagement</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750733">Régime des extras</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1983-06-30" etat="MODIFIE" fin="1985-09-04" id="KALIARTI000005841333" num="17" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1985-09-04" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841334" num="17" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841335" num="17" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   1. Tout employeur est tenu d'assurer, pour un même travail, ou pour un travail de valeur égale, l'égalité de rémunération entre les hommes et les femmes.<br/>
+<br/>   2. Maternité :<br/>
+<br/>   - L'interruption de travail, due à l'état de grossesse médicalement constaté, ne peut en aucun cas être la cause de la résiliation du contrat de travail.<br/>
+<br/>   Les femmes en état de grossesse pourront suspendre leur contrat de travail pendant une période de six semaines avant l'accouchement et de dix semaines après.<br/>
+<br/>   En cas de naissance d'un troisième enfant, ou à l'occasion de naissances multiples, la réglementation en vigueur s'appliquera.<br/>
+<br/>   La femme en état de grossesse pourra, en outre, suspendre son contrat de travail pendant douze semaines avant l'accouchement et seize semaines après l'accouchement sans que cette absence constitue une cause de rupture.    A partir du cinquième mois de grossesse, les femmes pourront bénéficier d'une baisse d'une demi heure de travail par jour, rémunérée, répartie au choix de l'interessée, et en accord avec l'employeur (soit en deux pauses de quinze minutes, soit en entrée retardée, soit en sortie anticipée).    La mère ou le père de famille, lorsqu'ils sont tous les deux salariés, auront droit à une autorisation d'absence  non rémunérée dans la limite de douze jours par an, pour soigner leur enfant âgé de moins de douze ans  sur présentation d'un certificat médical attestant la nécessité de la présence au chevet de l'enfant. <br/>
+<br/>   Les mères et les pères de famille ayant des enfants en âge de scolarité, et vivant au foyer, bénéficieront à leur demande et à l'occasion de la rentrée scolaire, d'une demi journée d'absence rémunérée.<br/>
+<br/>   Lorsque le couple travaille dans la même pâtisserie, ce congé sera pris par l'un ou par l'autre.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

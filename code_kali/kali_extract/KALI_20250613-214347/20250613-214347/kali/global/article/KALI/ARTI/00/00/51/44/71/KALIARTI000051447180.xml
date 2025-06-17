@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051447180</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/44/71/KALIARTI000051447180.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+
+<TITRE>Révision des taux de cotisation du régime</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-04-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051447175" date_publi="2025-04-10" date_signature="2025-01-21" nature="Avenant" nor="ASET2550209M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance" debut="2025-04-01" fin="2999-01-01" id_txt="KALITEXT000051447175">Avenant du 21 janvier 2025 à l'accord du 15 décembre 2014 relatif au régime de prévoyance</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635550" date_publi="2000-03-01" etat="VIGUEUR_ETEN" nature="IDCC" num="2098" titre="Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire du 13 août 1999" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635550.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-04-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051447180" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Compte tenu de ce qui précède, au regard en particulier des résultats du régime mutualisé sur la période 2019-2023 et de la position partagée entre les organismes assureurs recommandés et les partenaires sociaux, il est convenu de retenir un taux d'appel équivalent à 95 % du taux contractuel connu à date du présent avenant.</p>
+<p align="left">Pour mémoire, les taux contractuels en vigueur à la date du présent avenant sont les suivants :</p>
+<p align="left">« Pour les salariés non cadres qui ne relèvent pas de l'article 2.1 de l'ANI du 17 novembre 2017 ainsi que ceux n'ayant pas fait l'objet de l'agrément APEC :<br/>
+– 1,55 % de la tranche A et de la tranche B.</p>
+<p align="left">Pour les salariés cadres au sens de l'article 2.1 de l'ANI du 17 novembre 2017 ainsi que ceux ayant fait l'objet de l'agrément APEC :<br/>
+– 1,99 % de la tranche A, de la tranche B et de la tranche C. »</p>
+<p align="left">En application du taux d'appel ci-dessus convenu, les taux applicables à compter de la date d'entrée en vigueur du présent avenant sont les suivants :</p>
+<p align="left">« Pour les salariés non cadres qui ne relèvent pas de l'article 2.1 de l'ANI du 17 novembre 2017 ainsi que ceux n'ayant pas fait l'objet de l'agrément APEC :<br/>
+– 1,48 % de la tranche A et de la tranche B.</p>
+<p align="left">Pour les salariés cadres au sens de l'article 2.1 de l'ANI du 17 novembre 2017 ainsi que ceux ayant fait l'objet de l'agrément APEC :<br/>
+– 1,90 % de la tranche A, de la tranche B et de la tranche C. »</p>
+<p>
+<font color="808080">
+<em>
+ (1) L'article 2 est étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire étendu et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres étendu, qui a créé deux tranches de cotisations remplaçant les tranches A et B prévues par la convention collective nationale du 14 mars 1947.  <br/>(Arrêté du 16 mai 2025 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000030778532" datesignatexte="2014-12-15" id="KALIARTI000051476258" naturetexte="Accord" nortexte="ASET1550422M" num="6" numtexte="" sens="source" typelien="MODIFIE">Prévoyance - art. 6 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

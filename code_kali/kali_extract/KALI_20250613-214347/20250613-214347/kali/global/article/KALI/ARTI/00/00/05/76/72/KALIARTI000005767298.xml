@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767298</ID>
+<ANCIEN_ID>KGOAAXXXXXX00013XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/72/KALIARTI000005767298.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>13</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>PREAVIS</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>2008-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690414">Préavis et recherche d'emploi des contrats à durée indéterminée (ex-art. 12)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000018649420" num="13" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="2008-01-01" id="KALIARTI000005767298" num="13" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   A l'expiration de la période d'essai, en cas de rupture du contrat de travail, la durée du préavis, fonction de l'ancienneté continue de service, est définie comme suit, sauf cas de faute grave ou cas de force majeure.<br/>
+<br/>
+<br/>   MOINS DE 6 MOIS : Cadres (+) 3 mois.<br/>
+<br/>   6 MOIS A 2 ANS : 3 mois.<br/>
+<br/>   PLUS DE 2 ANS : 3 mois.<br/>
+<br/>
+<br/>   MOINS DE 6 MOIS : Maîtrise 1 mois.<br/>
+<br/>   6 MOIS A 2 ANS : 1 mois.<br/>
+<br/>   PLUS DE 2 ANS : 2 mois.<br/>
+<br/>
+<br/>   MOINS DE 6 MOIS : Employé 8 jours.<br/>
+<br/>   6 MOIS A 2 ANS : 1 mois.<br/>
+<br/>   PLUS DE 2 ANS : 1 mois (démission). 2 mois (licenciement).<br/>
+<br/> (+) Sauf stipulation contractuelle particulière.<br/>
+<br/>   En cas de licenciement, il est accordé aux salariés deux heures d'absence par journée de travail, pour rechercher un emploi, pendant le préavis.<br/>
+<br/>   Ces deux heures de recherche d'emploi doivent être prises en accord entre l'employeur et le salarié. Les parties pourront s'entendre pour bloquer tout ou partie de ces heures avant l'expiration du délai de préavis.<br/>
+<br/>   Ces absences pour recherche d'emploi pendant les périodes précitées ne donnent pas lieu à réduction de salaire.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

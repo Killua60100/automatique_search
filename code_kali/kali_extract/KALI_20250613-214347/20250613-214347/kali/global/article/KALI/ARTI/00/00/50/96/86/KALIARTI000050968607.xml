@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050968607</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/96/86/KALIARTI000050968607.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Date d'effet. Dépôt. Extension</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050968598" date_publi="2025-01-13" date_signature="2024-10-17" nature="Avenant" nor="ASET2450944M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Création de l'article 18 bis « Indemnisation des absences pour maladie ou accident » à la convention collective" debut="2025-01-01" fin="2999-01-01" id_txt="KALITEXT000050968598">Avenant du 17 octobre 2024 relatif à la création de l'article 18 bis « Indemnisation des absences pour maladie ou accident » à la convention collective</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050968607" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le présent avenant est conclu pour une durée indéterminée. </p>
+<p align="left">Sous réserve des dispositions législatives sur l'exercice du droit d'opposition dans les conditions définies par la loi, le présent avenant prend effet : <br/>– à compter du 1er janvier 2025 pour les entreprises adhérentes à une organisation patronale signataire du présent avenant ; <br/>– le 1er jour du mois civil suivant la publication au Journal officiel de l'arrêté ministériel d'extension du présent avenant pour les autres entreprises. </p>
+<p align="left">Le présent avenant sera, conformément aux dispositions du code du travail, notifié aux organisations syndicales représentatives <i>et au terme d'un délai de huit jours à compter de cette notification</i>  (1) et à défaut d'opposition, il sera procédé dans les meilleurs délais aux formalités légales en vue du dépôt, puis de l'extension du présent avenant.</p>
+<p>
+<font color="808080">
+<em>
+ (1)  les termes « et au terme d'un délai de huit jours à compter de cette notification » sont exclus de l'extension en tant qu'ils contreviennent aux dispositions de l'alinéa 2 de l'article L. 2232-6 du code du travail qui prévoient que l'opposition aux accords de branche est exprimée dans un délai de quinze jours à compter de la date de notification.  <br/>(Arrêté du 16 mai 2025 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

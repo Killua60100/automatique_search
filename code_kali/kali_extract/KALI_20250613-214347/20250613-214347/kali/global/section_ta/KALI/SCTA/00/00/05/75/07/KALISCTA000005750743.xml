@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005750743</ID>
+<TITRE_TA>Congés annuels</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841389" num="40" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-01-01" fin="2999-01-01" id="KALISCTA000005750745">Section 5 : Congés</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

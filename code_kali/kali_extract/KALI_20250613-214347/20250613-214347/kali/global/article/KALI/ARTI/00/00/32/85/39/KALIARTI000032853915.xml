@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000032853915</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/32/85/39/KALIARTI000032853915.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>58</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2016-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957185">Limite des garanties. ― Exclusions</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-10-27" etat="REMPLACE" fin="2016-01-01" id="KALIARTI000021957199" num="58" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2016-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000032853915" num="58" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Pendant la période de garantie, les exclusions et les limites de garantie ne s'appliquent pas lorsqu'elles ont pour effet d'empêcher les prises en charge minimales prévues par l'article R. 871-2 du code de la sécurité sociale. </p>
+<p>Ne donnent pas lieu à remboursement : </p>
+<p>― les frais de soins : </p>
+<p>― engagés avant la date d'effet de la garantie ou après la cessation de celle-ci. </p>
+<p>La date prise en considération est, dans tous les cas, celle figurant sur les décomptes de la sécurité sociale ; </p>
+<p>― déclarés après un délai de 2 ans suivant la date des soins pratiqués ; </p>
+<p>― engagés hors de France. </p>
+<p>Si la caisse de sécurité sociale à laquelle le salarié est affilié prend en charge les frais engagés hors de France, ceux-ci seront pris en charge par l'organisme assureur sur la base de remboursement utilisée par la sécurité sociale et selon les garanties prévues par le présent régime ; </p>
+<p>― non remboursés par les régimes de base de la sécurité sociale ; </p>
+<p>― ne figurant pas à la nomenclature générale des actes professionnels ou à la classification commune des actes médicaux, et même s'ils ont fait l'objet d'une notification de refus ou d'un remboursement nul par le régime de base, sauf pour les actes prévus expressément dans le tableau de garanties ; </p>
+<p>― engagés dans le cadre de la législation sur les pensions militaires ; </p>
+<p>― engagés au titre de l'hospitalisation dans les centres hospitaliers de long séjour ou dans les unités de long séjour relevant des centres hospitaliers, dans les sections de cure médicale des maisons de retraite, des logements foyers ou des hospices ; </p>
+<p>― les participations forfaitaires et les franchises restant à la charge du salarié prévues à l'article L. 322-2 du code de la sécurité sociale ; </p>
+<p>― la majoration de participation prévue aux arti-cles L. 162-5-3 du code de la sécurité sociale et L. 1111-15 du code de la santé publique ; </p>
+<p>― les dépassements d'honoraires sur les actes cliniques et techniques pris en application du 18° de l'article L. 162-5 du code de la sécurité sociale, à hauteur au moins du montant du dépassement autorisé sur les actes cliniques. </p>
+<p>Pour les frais conséquents à des actes soumis à entente préalable de la sécurité sociale, en l'absence de notification de refus à ces ententes préalables par les services de sécurité sociale, les règlements éventuels seront effectués après avis des praticiens-conseils de l'organisme assureur. </p>
+<p>Pour les frais conséquents à des actes dont la cotation n'est pas conforme à la nomenclature générale des actes professionnels ou à la classification commune des actes médicaux, le remboursement est limité à la cotation définie par cette nomenclature ou cette classification. </p>
+<p>Pour les frais conséquents à des actes dont les dépassements d'honoraires ne sont pas autorisés par les conventions nationales signées entre les régimes de base et les représentants des praticiens ou dans les cas où ces dépassements ne correspondent pas aux conditions conventionnelles, le remboursement est limité à la base de remboursement utilisée par la sécurité sociale. </p>
+<p>Pour les médicaments figurant dans un groupe générique prévu au code de la santé publique et ayant fait l'objet d'un remboursement par l'organisme de la sécurité sociale sur la base du tarif forfaitaire de responsabilité applicable à ce groupe de médicaments, le remboursement complémentaire effectué par l'organisme assureur se fera également sur la base du tarif forfaitaire de responsabilité applicable à ce groupe de médicaments. </p>
+<p>Pour les actes ou postes de garantie exprimés sous la forme d'un crédit annuel, le crédit annuel correspond au montant maximal d'indemnisation. Ces crédits annuels et ces forfaits sont exclusifs, pour les actes ou postes de garantie concernés, de toutes autres indemnisations de la part de l'organisme assureur. </p>
+<p>Afin de s'assurer du respect de ces principes, il pourra être demandé au salarié de fournir tout devis ou facture relatif, notamment, aux actes et frais dentaires ou d'optique envisagés. </p>
+<p>Qu'ils soient demandés par l'organisme assureur ou produits spontanément par le salarié, les devis feront l'objet d'un examen par un professionnel de santé dans le respect des règles déontologiques s'appliquant aux praticiens.L'organisme assureur peut également missionner tout professionnel de santé pour procéder à une expertise médicale de l'assuré. Dans un tel cas de figure les frais et honoraires liés à ces opérations d'expertise seront à la charge exclusive de l'organisme assureur. </p>
+<p>La prise en charge des frais inhérents à des séjours en établissement psychiatrique en secteur non conventionné est limitée à 90 jours par année civile et fait l'objet d'un règlement sur la base du remboursement utilisée par le régime de la sécurité sociale. Cette limite ne s'applique pas à la prise en charge du forfait journalier hospitalier facturé en établissement psychiatrique en secteur non conventionné. </p>
+<p>En l'absence de télétransmission par les organismes de base en cas de consultation d'un praticien du secteur non conventionné, le salarié doit transmettre à l'organisme assureur une facture détaillée établie par son médecin ; à défaut, l'indemnisation se fera sur la base de la garantie prévue pour les actes conventionnés.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000032849628" datesignatexte="2015-12-11" id="KALIARTI000032849639" naturetexte="Avenant" nortexte="ASET1650557M" num="3" numtexte="85" sens="cible" typelien="MODIFIE">Régime de frais de soins de santé - art. 3 (VNE)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006741277" naturetexte="CODE" nortexte="" num="L161-36-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L161-36-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006740743" naturetexte="CODE" nortexte="" num="L162-5-3" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L162-5-3</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

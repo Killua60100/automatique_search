@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053646</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/36/KALIARTI000028053646.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5.3</NUM>
+<TITRE>Obligation de logement sur place</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-13</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053374">Titre III Salariés de l'équipe artistique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053400">Sous-titre II Acteurs de complément</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053586">Chapitre V Défraiements et voyages</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053646" num="5.3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Pour tout lieu de travail établi à une distance supérieure à 50 kilomètres du lieu de référence tel que défini ci-après et lorsque les transports en commun ne permettent pas de parcourir cette distance dans un temps inférieur à 3 heures aller et retour, l'employeur doit organiser et prendre en charge le logement et la restauration sur place de l'acteur de complément lorsque celui-ci a travaillé une journée complète.<br/>Le lieu de référence correspond :<br/>– à la porte de Paris la plus proche du lieu de travail lorsque celui-ci se trouve en Ile-de-France mais en dehors de Paris ;<br/>– au lieu d'hébergement de la production lorsque le lieu de travail se trouve en région ou à l'étranger mais en dehors de la commune du lieu d'hébergement de la production.<br/>L'acteur de complément qui prendrait la décision de ne pas loger sur place le ferait sous son entière responsabilité et ne pourrait pas bénéficier des dispositions de la présente convention collective en matière de déplacement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

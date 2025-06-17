@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005690416</ID>
+<TITRE_TA>Travail des femmes, des jeunes et des apprentis (ex-art.  14)</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="1996-03-18" id="KALIARTI000005767300" num="15" origine="KALI"/>
+<LIEN_ART debut="1996-03-18" etat="REMPLACE" fin="1999-06-08" id="KALIARTI000005767301" num="15" origine="KALI"/>
+<LIEN_ART debut="1999-06-08" etat="REMPLACE" fin="2006-09-21" id="KALIARTI000005767302" num="15" origine="KALI"/>
+<LIEN_ART debut="2006-09-21" etat="REMPLACE" fin="2009-06-22" id="KALIARTI000005767303" num="15" origine="KALI"/>
+<LIEN_ART debut="2009-06-22" etat="REMPLACE" fin="2009-11-03" id="KALIARTI000021822356" num="15" origine="KALI"/>
+<LIEN_ART debut="2009-11-03" etat="REMPLACE" fin="2016-03-11" id="KALIARTI000022790197" num="15" origine="KALI"/>
+<LIEN_ART debut="2017-09-01" etat="REMPLACE" fin="2018-11-09" id="KALIARTI000035436741" num="15" origine="KALI"/>
+<LIEN_ART debut="2018-11-09" etat="REMPLACE" fin="2018-02-12" id="KALIARTI000038660105" num="15" origine="KALI"/>
+<LIEN_ART debut="2019-09-01" etat="REMPLACE" fin="2025-03-01" id="KALIARTI000038958756" num="15" origine="KALI"/>
+<LIEN_ART debut="2025-03-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051705066" num="15" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

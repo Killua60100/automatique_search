@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767283</ID>
+<ANCIEN_ID>KGOAAXXXXXX00002XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/72/KALIARTI000005767283.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690402">Entrée en vigueur, durée et dénonciation</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1984-02-17" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005767283" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La présente convention conclue pour une durée indéterminée entre en vigueur au jour de son extension nationale par arrêté ministériel et s'applique à partir de cette date. </p>
+<p>Elle peut être dénoncée globalement selon les dispositions prévues à l'article L. 132-8 du code du travail moyennant un préavis de 3 mois. La dénonciation globale par l'une des parties contractantes est portée à la connaissance des autres parties par lettre recommandée avec demande d'avis de réception. Le point de départ du préavis est la date de réception de la dénonciation. </p>
+<p>Les effets de la dénonciation sont ceux prévus à l'article L. 132-8 du code du travail (art. 4 de la loi n° 82-957 du 13 novembre 1982).</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+<LIEN cidtexte="KALITEXT000018216783" datesignatexte="2007-07-20" id="KALIARTI000018216807" naturetexte="Avenant" nortexte="ASET0751036M" num="7" numtexte="43" sens="cible" typelien="CITATION">Salaires et  classifications - art. 7 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000030682296" datesignatexte="2015-01-27" id="KALIARTI000030682315" naturetexte="Avenant" nortexte="ASET1550345M" num="8" numtexte="51" sens="cible" typelien="CITATION">Salaires, primes et rémunération des contrats d... - art. 8 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276514" datesignatexte="2011-11-09" id="KALIARTI000025276523" naturetexte="Avenant" nortexte="ASET1151552M" num="3" numtexte="48" sens="cible" typelien="CITATION">salaires minima au 1er janvier 2012 - art. 3 (VE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006647009" naturetexte="CODE" nortexte="" num="L132-8" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L132-8 (Ab)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

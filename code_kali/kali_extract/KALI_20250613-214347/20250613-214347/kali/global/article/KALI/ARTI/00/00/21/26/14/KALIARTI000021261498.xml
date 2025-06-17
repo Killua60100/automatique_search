@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021261498</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/26/14/KALIARTI000021261498.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CHAMP_APPLICATION</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-07-08</DATE_DEBUT>
+<DATE_FIN>2014-06-20</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720840">Champ d'application</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="1991-02-06" id="KALIARTI000005842649" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1992-02-06" etat="REMPLACE" fin="1997-12-15" id="KALIARTI000005842650" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1996-06-01" etat="MODIFIE" fin="1996-12-19" id="KALIARTI000005842651" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1996-12-19" etat="REMPLACE" fin="2009-07-08" id="KALIARTI000005842652" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-07-08" etat="REMPLACE" fin="2014-06-20" id="KALIARTI000021261498" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2014-06-20" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000029459572" num="1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>   La présente convention collective nationale et ses annexes (code NAF 86. 90B par référence à la nomenclature d'activités française entrée en vigueur le 1er janvier 2008) règle sur le territoire national, départements d'outre-mer, Saint-Barthelemy, Saint-Martin, Saint-Pierre-et-Miquelon compris, au sein des laboratoires d'analyses médicales extra-hospitaliers, les rapports de travail entre les employeurs et le personnel salarié.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021237293" datesignatexte="2009-07-08" id="KALIARTI000021237296" naturetexte="Avenant" nortexte="ASET0950879M" num="" numtexte="" sens="cible" typelien="MODIFIE">Champ d'application de la convention - art. (VNE)</LIEN>
+
+<LIEN cidtexte="KALITEXT000029439437" datesignatexte="2014-06-19" id="KALIARTI000029439441" naturetexte="Accord" nortexte="ASET1450861M" num="1er" numtexte="" sens="cible" typelien="CITATION">Temps partiel - art. 1er (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

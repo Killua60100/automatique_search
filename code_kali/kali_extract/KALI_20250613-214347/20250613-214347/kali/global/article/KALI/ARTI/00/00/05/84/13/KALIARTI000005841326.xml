@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841326</ID>
+<ANCIEN_ID>KBCAAXXXXXX00011XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841326.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1983-06-30</DATE_DEBUT>
+<DATE_FIN>2005-02-03</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720174">Chapitre II : Libertés, droits collectifs et individuels</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750731">Section 2 : Délégué du personnel</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005761295">Vote</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1983-06-30" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841326" num="20" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841327" num="11" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Au moment où il cesse de faire partie du personnel, il doit être remis à tout salarié, en mains propres, avec obligation d'émarger cette remise, ou à défaut, envoyé immédiatement à son domicile, par pli recommandé avec accusé de réception, un certificat de travail indiquant, à l'exclusion de toute autre mention :<br/>
+<br/>   - nom et adresse de l'établissement avec cachet de la maison ;<br/>
+<br/>   - nom et prénom de l'intéressé ;<br/>
+<br/>   - dates d'entrée et de sortie du salarié ;<br/>
+<br/>   - nature des coefficients du ou des emplois successifs occupés par lui ainsi que les périodes pendant lesquelles ces emplois ont été occupés.<br/>
+<br/>   Si le salarié en fait la demande, une attestation de préavis devra être mise à sa disposition dès le début de la période de préavis.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

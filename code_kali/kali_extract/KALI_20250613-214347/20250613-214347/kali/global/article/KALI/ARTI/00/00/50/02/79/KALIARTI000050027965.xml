@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050027965</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/02/79/KALIARTI000050027965.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5.3.2</NUM>
+<TITRE>Habilitation de l'organisme de formation et des évaluateurs</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050027943" date_publi="2024-07-18" date_signature="2024-05-22" nature="Accord" nor="ASET2450548M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="CQP et CQPI" debut="2025-07-01" fin="2999-01-01" id_txt="KALITEXT000050027943">Accord du 22 mai 2024 relatif aux CQP et aux CQPI</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027948">Chapitre 2 Certificats de qualification professionnelle (CQP)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635597" date_publi="1953-03-06" etat="VIGUEUR_ETEN" nature="IDCC" num="45" titre="Convention collective nationale du caoutchouc du 6 mars 1953. Étendue par arrêté du 29 mai 1969 JORF 18 juin 1969 " url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635597.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027965" num="5.3.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">A. Habilitation de l'organisme de formation</p>
+<p align="left">Tout organisme de formation doit être habilité expressément par la CPNEFP à délivrer cette formation.</p>
+<p align="left">La CPNEFP établit un cahier des charges de l 'habilitation et des conditions de renouvellement de l'organisme de formation. Cette habilitation est attribuée à l'organisme de formation pour une durée de 5 ans par décision de la CPNEFP.</p>
+<p align="center">B. Formation et habilitation des évaluateurs</p>
+<p align="left">Toute personne souhaitant devenir évaluateur de la branche du caoutchouc dans le cadre des CQP doit être habilitée suivant la procédure suivante :<br/>
+– constitution d'un dossier à envoyer à la CPNEFP (comprenant son CV, ou tout document permettant de vérifier que l'évaluateur a la connaissance du métier visé par le CQP) ;<br/>
+– réalisation d'une formation définie et dispensée par la branche du caoutchouc : cette formation s'effectue sur un jour et demi accolés (correspondant à 10 heures de formation) et comprenant :<br/>
+–– une formation théorique sur le dispositif CQP (principe, méthodes d'évaluation des compétences, outils, etc.) ;<br/>
+–– une formation pratique sur la mise en œuvre de l'évaluation, la formation de bilan et de retour d'expérience sur la pratique des entretiens d'évaluation des compétences.</p>
+<p align="left">À l'issue de cette formation, la CPNEFP valide ou invalide l'octroi de l'habilitation de l'évaluateur de branche.</p>
+<p align="left">Pour conserver le bénéfice de l'habilitation, l'évaluateur doit constituer un dossier de reconduction de cette habilitation tous les 5 ans précédé d'une formation de recyclage d'une demi-journée (correspondant à 3 heures de formation). Ce dossier est transmis au secrétariat de la branche de la CPNEFP. À l'issue de la formation de recyclage, la CPNEFP valide ou invalide la reconduction de l'habilitation.</p>
+<p align="left">En cas de dysfonctionnements avérés, l'habilitation de l'évaluateur peut être retirée par décision de la CPNEFP.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

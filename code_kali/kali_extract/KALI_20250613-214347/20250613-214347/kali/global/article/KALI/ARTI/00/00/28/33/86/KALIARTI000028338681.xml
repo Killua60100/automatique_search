@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028338681</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/33/86/KALIARTI000028338681.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2017-02-17</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="KALISCTA000028053375">ANNEXES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2020-04-11" id="KALISCTA000028059898">Annexe III : Techniciens de la production cinématographique - Intéressement aux recettes d'exploitation&#13;
+&#13;
+</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2020-04-11" id="KALISCTA000028338698">Grille des durées hebdomadaires de travail comprenant des durées d'équivalence</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2017-02-17" id="KALIARTI000028338681" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2017-02-17" etat="ABROGE" fin="2020-04-11" id="KALIARTI000034056355" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>En référence aux dispositions de l'article 30 de la présente convention, pour les périodes de tournage exclusivement et pour certaines catégories de fonctions ci-après fixées, le nombre d'heures hebdomadaires de travail effectif minimum garanti et rémunéré s'inscrit dans une durée d'équivalence fixée respectivement sur la base d'une semaine de travail en 5 jours et sur la base d'une semaine de travail en 6 jors, ainsi que défini ci-après : salaires minima garantis correspondant aux heures de travail effectif incluant les seules majorations définies à l'article 37, chapitre VI et ne sont pas exclusifs de l'application des autres majorations spécifiques fixées dans le présent accord.</p>
+<p>Le salaires minimum garanti est pour les salaires supérieurs à 750 €. Le montant est égal à 750 € augmenté de 30 % de la différence entre le salaire de référence et les 750 €.</p>
+<p>(voir textes salaires)</p>
+<br/>
+<br/>
+<br/>
+
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

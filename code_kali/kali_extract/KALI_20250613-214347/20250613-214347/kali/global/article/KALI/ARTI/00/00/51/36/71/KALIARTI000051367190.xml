@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051367190</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/36/71/KALIARTI000051367190.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+
+<TITRE>Modification de l'article 5 « Cotisation »</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051367186" date_publi="2999-01-01" date_signature="2024-10-23" nature="Avenant" nor="ASET2550145M" num="16" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de remboursement complémentaire de frais de soins de santé" debut="2025-01-01" fin="2999-01-01" id_txt="KALITEXT000051367186">Avenant n° 16 du 23 octobre 2024 à l'avenant n° 15 du 3 septembre 2008 relatif à la mise en place d'un régime de remboursement complémentaire de frais de soins de santé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635899" date_publi="1984-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1286" titre="Convention collective nationale des détaillants et détaillants-fabricants de la confiserie,  chocolaterie, biscuiterie du 1er janvier 1984.  Etendue par arrêté du 2 octobre 1984 JONC 12 octobre 1984.&#10;" url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635899.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051367190" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">« Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation sociale et fiscale en vigueur au moment de la conclusion du présent avenant. Les cotisations seront revues sans délai en cas de changement de ces textes.</p>
+<p align="left">Les parties signataires pourront également convenir d'une révision des garanties en tout ou partie à cette occasion.</p>
+<p align="left">La cotisation du régime “ remboursement complémentaire de frais de soins de santé ” est mensuelle et forfaitaire.</p>
+<p align="left">La cotisation mensuelle sera appelée conformément au tableau ci-après :</p>
+<p align="left"> </p>
+
+<table border="1">
+<tbody>
+<tr>
+<th> </th>
+<th>Régime de base salariés</th>
+</tr>
+<tr>
+<td>Régime général</td>
+<td align="center">1,48 % du PMSS [1]</td>
+</tr>
+<tr>
+<td>Régime Alsace-Moselle</td>
+<td align="center">0,85 % du PMSS [1]</td>
+</tr>
+<tr>
+<td colspan="2">[1] PMSS : plafond mensuel de la sécurité sociale.</td>
+</tr>
+</tbody>
+</table>
+
+<p align="left">Le taux de cotisation sera indexé au minimum sur le dernier indice connu de l'évolution des dépenses de santé, communiqué par les caisses nationales d'assurance maladie sauf si les résultats du régime compensent l'évolution de cet indice.</p>
+<p align="left">La contribution de l'employeur sera au minimum de 50 % de la cotisation.</p>
+<p align="left">Les cotisations sont payables trimestriellement à terme échu.</p>
+<p align="left">Les cotisations sont dues pour la totalité du mois au cours duquel les garanties sont accordées. L'organisme assureur en application de l'article L. 932-9 du code de la sécurité sociale, procédera, le cas échéant, au recouvrement des cotisations dues par l'entreprise en cas de non-paiement dans les délais. »</p>
+<p>
+<font color="808080">
+<em>
+ (1) L'article 1 de l'avenant est étendu sous réserve d'une part, s'agissant des mentions relatives au non-paiement des cotisations, du régime juridique applicable à l'organisme assureur librement choisi par l'employeur et, d'autre part, de l'article 1er de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques, relatif aux organismes habilités à mettre en œuvre une couverture collective de protection sociale.  <br/>(Arrêté du 16 mai 2025 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000019819141" datesignatexte="2008-09-03" id="KALIARTI000051371654" naturetexte="Avenant" nortexte="ASET0851091M" num="5" numtexte="15" sens="source" typelien="MODIFIE">Mise en place d'un régime de remboursements com... - art. 5 (VNE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745711" naturetexte="CODE" nortexte="" num="L932-9" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L932-9</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

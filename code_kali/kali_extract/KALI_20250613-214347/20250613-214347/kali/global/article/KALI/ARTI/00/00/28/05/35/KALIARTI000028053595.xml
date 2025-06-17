@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053595</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053595.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3.3</NUM>
+<TITRE>Répétitions et entraînements en dehors des périodes de tournage</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-13</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053374">Titre III Salariés de l'équipe artistique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053399">Sous-titre Ier Artistes-interprètes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053578">Chapitre III Conditions de travail</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053595" num="3.3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">
+<br/>3.3.1. Durée et rémunération</p>
+<p align="left">
+<br/>Toute répétition et toute séance de préparation pour l'interprétation du rôle (lecture, cours, entraînements, régime alimentaire...) visée par le présent sous-titre doit être décidée par l'employeur. Par ailleurs, les répétitions sont rémunérées et ne peuvent être inférieures au montant minimum du service de répétition prévu en annexe III.1.A du présent sous-titre.<br/>Elles ne peuvent dépasser deux fois 3 heures par jour pour les artistes chorégraphiques, lyriques et de cirque. Tout service de répétition commencé est dû.</p>
+<p align="center">
+<br/>3.3.2. Exclusions</p>
+<p align="left">
+<br/>Des stipulations particulières d'engagement et de rémunération faisant exception au présent article 3.3 peuvent être établies si le salaire de base perçu par l'artiste-interprète est égal ou supérieur à cinq fois le salaire minimum fixé à l'annexe III.1.A du présent sous-titre.<br/>Pour les films tels que définis à l'annexe III du titre II, des stipulations particulières d'engagement et de rémunération faisant exception au présent article 3.3 et définies en annexe III.1.D peuvent être établies si le salaire de base perçu par l'artiste-interprète est supérieur à cinq fois le salaire minimum fixé à l'annexe III.1.A du présent sous-titre.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

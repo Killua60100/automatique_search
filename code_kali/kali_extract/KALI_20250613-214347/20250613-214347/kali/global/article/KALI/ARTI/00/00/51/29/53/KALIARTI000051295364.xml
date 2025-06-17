@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051295364</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/29/53/KALIARTI000051295364.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-10-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051295352" date_publi="2025-03-05" date_signature="2024-09-11" nature="Avenant" nor="ASET2451044M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Collecte des contributions conventionnelles" debut="2025-10-01" fin="2999-01-01" id_txt="KALITEXT000051295352">Avenant du 11 septembre 2024 portant révision de diverses dispositions relatives à la collecte des contributions conventionnelles</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-10-01" fin="2999-01-01" id="KALISCTA000051295355">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051295364" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Dans le cadre des travaux de l'association de gestion du CCHSCT et du financement du paritarisme il est apparu nécessaire d'améliorer l'efficacité de la collecte des contributions conventionnelles tout en simplifiant les procédures qui y sont associées. </p>
+<p align="left">
+<i>Agépro Services, conventionnellement en charge de cette collecte pour le compte de l'association, a exposé sa proposition de passer par le flux de la déclaration sociale nominative (DSN) pour simplifier et améliorer l'efficacité et l'efficience de cette collecte.</i>  (1)
+</p>
+<p align="left">L'utilisation du flux de la DSN implique la modification de la périodicité de la collecte qui était jusqu'à lors trimestrielle et devient mensuelle, ainsi que ses modalités, lesquelles étaient jusqu'à présent déclaratives, pour devenir automatiques par l'entremise du paramétrage des logiciels de paie. </p>
+<p align="left">Le présent avenant a ainsi pour objet de réviser l'accord du 3 novembre 2015 relatif à l'aide au paritarisme et l'article 10 du titre Ier de la convention collective nationale de la production cinématographique et de films publicitaires, ainsi que d'intégrer en annexes le protocole d'accord collectif sur le CCHSCT du 17 décembre 2007 et ses avenants.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Alinéa étendu sous réserve qu'Agépro Services ne soit pas un organisme de prévoyance, la collecte des contributions au financement du paritarisme n'étant pas au nombre des missions définies par les articles L. 931-1 et L. 931-2 du code de la sécurité sociale.  <br/>(Arrêté du 15 mai 2025 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

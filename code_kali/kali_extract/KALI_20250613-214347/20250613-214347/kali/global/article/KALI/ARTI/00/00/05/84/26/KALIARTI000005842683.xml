@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842683</ID>
+<ANCIEN_ID>KBKAAXXXXXX00015XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/26/KALIARTI000005842683.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>15</NUM>
+<TITRE>Dispositions générales</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>1989-06-22</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720855">Bulletin de paie</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="1989-06-22" id="KALIARTI000005842683" num="15" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1989-06-22" etat="REMPLACE" fin="2014-06-20" id="KALIARTI000005842684" num="15" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2014-06-20" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000029459585" num="15" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Les bulletins de paie ou feuilles de paie remis aux salariés devront être rédigés conformément aux conditions légales et comporteront notamment : <br/>
+<br/>a) Le nom et l'adresse de l'employeur ou la raison sociale et l'adresse du laboratoire d'analyses médicales ; <br/>
+<br/>b) La période à laquelle la paie se rapporte ; <br/>
+<br/>c) Les nom, prénom et adresse du salarié ; <br/>
+<br/>d) La qualification professionnelle et l'emploi du salarié ; <br/>
+<br/>e) Le coefficient hiérarchique ; <br/>
+<br/>f) Le salaire minimum de la catégorie ; <br/>
+<br/>g) Le salaire mensuel, hebdomadaire ou horaire correspondant à la semaine normale de travail de quarante heures ; <br/>
+<br/>h) Le nombre d'heures supplémentaires effectuées éventuellement et la rémunération perçue à ce titre ; <br/>
+<br/>i) La prime d'ancienneté s'il y a lieu ; <br/>
+<br/>j) Toute prime ou complément de salaire attribué à quelque titre que ce soit ; <br/>
+<br/>k) Le montant de la rémunération brute totale ; <br/>
+<br/>l) Les retenues effectuées au titre de la sécurité sociale ou pour tout autre motif ; <br/>
+<br/>m) Le montant du salaire net réellement perçu ; <br/>
+<br/>n) Les acomptes ; <br/>
+<br/>o) La référence de l'organisme auquel l'employeur verse les cotisations de sécurité sociale ainsi que le numéro d'immatriculation sous lequel ces cotisations sont versées et le code APE du laboratoire ; <br/>
+<br/>p) La date de paiement de la rémunération ; <br/>
+<br/>q) La référence des organismes de retraite auxquels sont versées les cotisations. <br/>
+<br/>En cas de modification de l'article R. 143-2 du code du travail, le texte ci-dessus sera corrigé en conséquence.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006805826" naturetexte="CODE" nortexte="" num="R143-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. R143-2 (Ab)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

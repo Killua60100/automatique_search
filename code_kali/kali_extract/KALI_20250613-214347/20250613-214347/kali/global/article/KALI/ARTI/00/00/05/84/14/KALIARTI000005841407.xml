@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841407</ID>
+<ANCIEN_ID>KBCAAXXXXXX00041XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/14/KALIARTI000005841407.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>41</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Crée par Avenant n° 53 du 3 février 2005 art. 2 BO conventions collectives 2005-14 étendu par arrêté du 10 janvier 2007 JORF 23 janvier 2007.</HISTORIQUE>
+<DATE_DEBUT>2005-02-03</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-01-01" fin="2999-01-01" id="KALISCTA000005750745">Section 5 : Congés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-03" fin="2999-01-01" id="KALISCTA000005761317">Chèques vacances.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841407" num="41" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Dans les entreprises de moins de 49 salariés dépourvues de comité d'entreprise, l'employeur peut proposer à l'ensemble des salariés titulaires d'un contrat dont la durée prévisible est d'au moins 4 mois et dont le revenu est inférieur aux plafonds fixés par la loi, la souscription d'un contrat d'épargne permettant l'acquisition de " chèques vacances ", dans la limite d'un plafond qu'il fixera entre 8 % et 30 % d'un SMIC mensuel. II conclura à cette fin une convention avec l'Agence nationale des chèques vacances (ANCV).<br/>
+<br/>   Dans les entreprises de plus de 49 salariés, l'employeur peut les mettre en oeuvre dans les mêmes conditions, le cas échéant après consultation s'ils existent du comité d'entreprise ou, à défaut, des délégués du personnel.<br/>
+<br/>   Cette épargne sera abondée par l'employeur, à 60 % pour les employés et ouvriers et à 50 % pour les agents de maîtrise et cadres.<br/>
+<br/>   Le contrat d'épargne indiquera le montant épargné par le salarié et l'échéance des prélèvements, en 4 ou de 12 mensualités comprises entre 2 % et 20 % du SMIC apprécié sur une base mensuelle. Le contrat sera suspendu en cas d'absence du salarié pour une durée de plus de 1 mois, sauf accidents du travail, maladie professionnelle ou congé maternité. La rupture du contrat de travail entraînera le remboursement au salarié des sommes versées, majoré de l'abondement de l'employeur.<br/>
+<br/>   L'employeur peut clore les nouvelles souscriptions 1 an après l'ouverture du dispositif. A défaut, le dispositif est tacitement reconduit d'année en année.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

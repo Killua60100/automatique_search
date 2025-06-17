@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635691</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635691.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des activités industrielles de boulangerie et pâtisserie du 13 juillet 1993. Mise à jour par avenant n°10 du 11 octobre 2011</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1747</NUM>
+
+<DATE_PUBLI>1993-11-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU>
+  <p>Champ d'application fusionné avec celui de la convention collective nationale des centres immatriculés de conditionnement, de commercialisation et de transformation des œufs et des industries en produits d'œufs (IDCC 2075) par avenant n° 29 du 15 avril 2019.</p>
+</CONTENU>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005657284" titretxt="Convention collective nationale du 13 juillet 1993"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005657287" titretxt="ANNEXE I : Classifications"/>
+<LIEN_TXT idtxt="KALITEXT000005657289" titretxt="Annexe à l'annexe I "/>
+<LIEN_TXT idtxt="KALITEXT000005657291" titretxt="ANNEXE II : Ouvriers"/>
+<LIEN_TXT idtxt="KALITEXT000005657293" titretxt="ANNEXE III : Techniciens, agents de maîtrise, ingénieurs et cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005657295" titretxt="ANNEXE IV : Techniciens et agents de maîtrise"/>
+<LIEN_TXT idtxt="KALITEXT000005657297" titretxt="ANNEXE V : Ingénieurs et cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005657299" titretxt="ANNEXE VI : Employés"/>
+<LIEN_TXT idtxt="KALITEXT000005657282" titretxt="Accord sur la convention collective des activités industrielles de boulangerie et pâtisserie "/>
+<LIEN_TXT idtxt="KALITEXT000005657301" titretxt="Aménagement et à la réduction du temps de travail (version définitive réécrite dans le cadre de l'avenant n° 1)"/>
+<LIEN_TXT idtxt="KALITEXT000005657274" titretxt="Boulangers, pâtissiers de Guyane"/>
+<LIEN_TXT idtxt="KALITEXT000005657276" titretxt="Repos hebdomadaire (Vienne)"/>
+<LIEN_TXT idtxt="KALITEXT000005657278" titretxt="ARTT (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000005657280" titretxt="Systèmes d'indemnisation de la maladie et de la prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005657303" titretxt="Travail de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000005657305" titretxt="Cessation anticipée d'activité"/>
+<LIEN_TXT idtxt="KALITEXT000005657307" titretxt="Création d'une commission paritaire nationale de l'emploi et de la formation"/>
+<LIEN_TXT idtxt="KALITEXT000005657309" titretxt="Financement de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005657313" titretxt="Durée du travail et organisation des repos hebdomadaires (Vendée)"/>
+<LIEN_TXT idtxt="KALITEXT000005657315" titretxt="Durée du travail et organisation des repos hebdomadaire (Vendée)"/>
+<LIEN_TXT idtxt="KALITEXT000005657317" titretxt="Création et reconnaissance des CQP"/>
+<LIEN_TXT idtxt="KALITEXT000005657321" titretxt="Dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000005657323" titretxt="Actualisation de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000020216374" titretxt="Mise en place d'équipes de suppléance"/>
+<LIEN_TXT idtxt="KALITEXT000020216391" titretxt="Indemnités de frais professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000020216402" titretxt="Mise en place des astreintes"/>
+<LIEN_TXT idtxt="KALITEXT000021012384" titretxt="Désignation des organismes assureurs gestionnaires du régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000021012405" titretxt="Dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000022760006" titretxt="Nouvelle grille de classification "/>
+<LIEN_TXT idtxt="KALITEXT000023387579" titretxt="Classification du personnel employé"/>
+<LIEN_TXT idtxt="KALITEXT000024891188" titretxt="FGA CFDT"/>
+<LIEN_TXT idtxt="KALITEXT000025167812" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000025167826" titretxt="Mise à jour de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000028465361" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000028465813" titretxt="Portabilité des droits"/>
+<LIEN_TXT idtxt="KALITEXT000028755357" titretxt="Garantie incapacité de travail"/>
+<LIEN_TXT idtxt="KALITEXT000030056389" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000030482942" titretxt="Développement de l'accès aux CQP par la VAE et leur inscription au RNCP"/>
+<LIEN_TXT idtxt="KALITEXT000030590512" titretxt="Congés pour la conclusion d'un Pacs"/>
+<LIEN_TXT idtxt="KALITEXT000031254690" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000032426216" titretxt="Prévoyance et frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000034202382" titretxt="Régime des frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000034202391" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000038907459" titretxt="Régime des frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000039097267" titretxt="Regroupement des branches"/>
+<LIEN_TXT idtxt="KALITEXT000041875399" titretxt="Régime frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000041875413" titretxt="Régime prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000043104106" titretxt="Modification de l'article 34 « Congés exceptionnels pour événements familiaux »"/>
+<LIEN_TXT idtxt="KALITEXT000043925221" titretxt="Négociation collective dans les branches"/>
+<LIEN_TXT idtxt="KALITEXT000045203970" titretxt="Dialogue social, CPPNIC et CPNEFP"/>
+<LIEN_TXT idtxt="KALITEXT000046100091" titretxt="Harmonisation du rapprochement des conventions"/>
+<LIEN_TXT idtxt="KALITEXT000046565496" titretxt="Cotisation des salariés non cadres au 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000046565505" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000046565515" titretxt="Frais de soins de santé au 1er janvier 2021"/>
+<LIEN_TXT idtxt="KALITEXT000046100116" titretxt="Fonds de financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000049337381" titretxt="Régime de frais de santé harmonisé"/>
+<LIEN_TXT idtxt="KALITEXT000049337428" titretxt="Régime de prévoyance harmonisé"/>
+<LIEN_TXT idtxt="KALITEXT000049693824" titretxt="Harmonisation des dispositions des conventions collectives nationales"/>
+<LIEN_TXT idtxt="KALITEXT000049916566" titretxt="Classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000051537781" titretxt="Régime frais de santé harmonisé"/>
+<LIEN_TXT idtxt="KALITEXT000051537792" titretxt="Mise en place d'un régime de prévoyance harmonisé"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005657325" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657327" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657329" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657331" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657333" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657335" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657337" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657341" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657343" titretxt="Salaires (Guyane)"/>
+<LIEN_TXT idtxt="KALITEXT000005657339" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657345" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005657347" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657349" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657351" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005657353" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005657355" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005657357" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018563128" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020216366" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000021944505" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023454828" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000024629431" titretxt="Salaires minima"/>
+<LIEN_TXT idtxt="KALITEXT000026167278" titretxt="Salaires au 1er mars 2012 et au 1er septembre 2012"/>
+<LIEN_TXT idtxt="KALITEXT000027757119" titretxt="Salaires minimaux au 1er avril 2013"/>
+<LIEN_TXT idtxt="KALITEXT000031490511" titretxt="Salaires au 1er juillet 2015"/>
+<LIEN_TXT idtxt="KALITEXT000035532490" titretxt="Salaires au 1er avril 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037433405" titretxt="Salaires au 1er avril 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038894598" titretxt="Salaires au 1er avril 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042294920" titretxt="Salaires minima pour l'année 2020"/>
+<LIEN_TXT idtxt="KALITEXT000044085369" titretxt="Salaires au 1er avril 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045204069" titretxt="Salaires au 1er décembre 2021"/>
+<LIEN_TXT idtxt="KALITEXT000046100080" titretxt="Salaires minima au 1er mai 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046559463" titretxt="Salaires minima conventionnels 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046744491" titretxt="Salaires au 1er octobre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047747677" titretxt="Salaires minima conventionnels au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048157371" titretxt="Salaires minima conventionnels au 1er juin 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049508692" titretxt="Salaires minima au 1er février 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051537768" titretxt="Salaires minima conventionnels au 1er février 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005657359" titretxt="ARRETE du 10 février 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005657361" titretxt="ARRETE du 16 février 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005657363" titretxt="ARRETE du 4 août 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005657365" titretxt="ARRETE du 31 janvier 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005657367" titretxt="ARRETE du 21 août 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005657369" titretxt="ARRETE du 19 décembre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005657371" titretxt="ARRETE du 7 février 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005657373" titretxt="ARRETE du 9 avril 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005657375" titretxt="ARRETE du 3 février 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005657377" titretxt="ARRETE du 21 mai 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005657379" titretxt="ARRETE du 10 mai 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005657381" titretxt="ARRETE du 18 décembre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005657383" titretxt="ARRETE du 22 février 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005657385" titretxt="ARRETE du 21 février 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005657387" titretxt="Arrêté du 26 juin 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005657389" titretxt="Arrêté du 15 janvier 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005657391" titretxt="Arrêté du 21 février 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005657393" titretxt="ARRETE du 17 octobre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005657395" titretxt="ARRETE du 15 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005657397" titretxt="ARRETE du 10 mars 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005657399" titretxt="ARRETE du 28 mars 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005657401" titretxt="ARRETE du 9 juillet 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005657403" titretxt="ARRETE du 11 mars 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005657405" titretxt="ARRETE du 10 mai 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005657407" titretxt="ARRETE du 14 janvier 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005657409" titretxt="ARRETE du 7 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005657411" titretxt="ARRETE du 27 avril 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005657413" titretxt="ARRETE du 12 juin 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005657415" titretxt="ARRETE du 17 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005657417" titretxt="ARRETE du 26 décembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005657419" titretxt="ARRETE du 21 juin 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Activités industrielles de boulangerie et pâtisserie</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3102</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

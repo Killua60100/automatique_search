@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767346</ID>
+<ANCIEN_ID>KGOAAXXXXXX00037XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767346.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>37</NUM>
+<TITRE/>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>2018-11-09</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690442">Conciliation</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1984-02-17" etat="ABROGE" fin="2018-11-09" id="KALIARTI000005767346" num="37" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Il est institué une commission de conciliation composée de deux représentants par organisation syndicale et d'autant de membres des syndicats patronaux signataires.</p>
+<p>Tous les différends collectifs peuvent être soumis à la commission de conciliation.</p>
+<p>Le secrétariat de la commission est assuré par le service administratif du syndicat national des chaînes d'hôtels et restaurants, section restauration collective, où est fixé le siège de la commission (22, avenue de la Grande-Armée, à Paris).</p>
+<p>La commission de conciliation est saisie, par écrit, par la partie la plus diligente, qui doit exposer succinctement le différend ; elle doit se réunir dans un délai maximum de 15 jours à compter de la demande de conciliation.</p>
+<p>La commission prévoit elle-même les conditions de son fonctionnement. La commission formule à la majorité absolue des propositions de conciliation. Un procès-verbal de conciliation est rédigé et signé par les parties présentes et déposé au greffe du conseil de prud'hommes. Celui-ci produit un effet obligatoire et prend forme exécutoire.</p>
+<p>Si la commission ne parvient pas à formuler de proposition de conciliation, ou si les parties (ou l'une d'entre elles) refusent d'accepter les propositions formulées, il sera établi un procès-verbal motivé de non-conciliation signé par les membres de la commission.</p>
+<p>Le temps d'absence du ou des délégués conciliateurs appartenant à l'entreprise ou aux entreprises dans lesquelles est apparu le différend collectif nécessitant la conciliation sera considéré comme temps de travail et rémunéré normalement par l'entreprise.</p>
+<p>
+<font color="#808080">
+<em>(Article supprimé par l'avenant n° 56 du 9 novembre 2018 relatif à la création de la CPPNI, art. 1er - BOCC 2019-12)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+<LIEN cidtexte="KALITEXT000038632607" datesignatexte="2018-11-09" id="KALIARTI000038632611" naturetexte="Avenant" nortexte="ASET1950387M" num="1er" numtexte="56" sens="cible" typelien="ABROGE">Création de la CPPNI - art. 1er (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000038632607" datesignatexte="2018-11-09" id="KALIARTI000038632611" naturetexte="Avenant" nortexte="ASET1950387M" num="1er" numtexte="56" sens="source" typelien="CITATION">Création de la CPPNI - art. 1er (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

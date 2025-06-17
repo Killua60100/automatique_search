@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000019819170</ID>
+<TITRE_TA>Annexe</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2008-09-03" etat="REMPLACE" fin="2011-09-07" id="KALIARTI000019819172" num="" origine="KALI"/>
+<LIEN_ART debut="2011-10-01" etat="REMPLACE" fin="2011-10-01" id="KALIARTI000025786112" num="" origine="KALI"/>
+<LIEN_ART debut="2011-10-01" etat="REMPLACE" fin="2014-01-01" id="KALIARTI000026912508" num="" origine="KALI"/>
+<LIEN_ART debut="2014-01-01" etat="REMPLACE" fin="2015-04-01" id="KALIARTI000028500532" num="" origine="KALI"/>
+<LIEN_ART debut="2015-04-01" etat="REMPLACE" fin="2018-01-01" id="KALIARTI000031118542" num="" origine="KALI"/>
+<LIEN_ART debut="2017-07-01" etat="MODIFIE" fin="2018-07-01" id="KALIARTI000037813833" num="" origine="KALI"/>
+<LIEN_ART debut="2018-07-01" etat="MODIFIE" fin="2017-07-01" id="KALIARTI000038118563" num="" origine="KALI"/>
+<LIEN_ART debut="2017-07-01" etat="REMPLACE" fin="2018-07-01" id="KALIARTI000038193223" num="" origine="KALI"/>
+<LIEN_ART debut="2018-07-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000038193269" num="" origine="KALI"/>
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000041799875" num="" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000019819141" date_publi="2999-01-01" date_signature="2008-09-03" nature="Avenant" nor="ASET0851091M" num="15" num_parution_jo="">
+<TITRE_TXT c_titre_court="Mise en place d'un régime de remboursements complémentaires de frais de soins de santé" debut="2009-03-01" fin="2999-01-01" id_txt="KALITEXT000019819141">Avenant n° 15 du 3 septembre 2008 relatif à la mise en place d'un régime de remboursements complémentaires de frais de soins de santé</TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

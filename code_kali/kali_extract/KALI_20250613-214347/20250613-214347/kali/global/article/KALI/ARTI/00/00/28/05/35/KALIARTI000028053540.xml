@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053540</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053540.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>25</NUM>
+<TITRE>Durée hebdomadaire du travail</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053392">Chapitre VI Durée du travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053540" num="25" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">La durée hebdomadaire du travail, sous réserve des dispositions dérogatoires visées à l'article 24 relatives au tournage, est celle qui est définie par les dispositions légales.<br/>Dans l'attente de l'entrée en vigueur des dispositions dérogatoires, la durée hebdomadaire maximale moyenne du travail est portée à 46 heures sur 12 semaines consécutives au maximum, étant précisé que la durée hebdomadaire maximale est de 48 heures.<br/>Le travail est organisé sur la base d'une durée hebdomadaire minimale garantie de 39 heures comprenant 4 heures supplémentaires majorées de 25 %.<br/>La répartition du temps de travail doit réserver aux salariés 2 jours, soit 48 heures de repos consécutives comprenant le dimanche, sauf circonstances exceptionnelles imposées par le scénario (actualité, fête populaire, manifestation sportive, meeting, etc.) qui ne pourraient être tournées que le dimanche.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

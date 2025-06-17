@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841324</ID>
+<ANCIEN_ID>KBCAAXXXXXX00010XAAXEXXC</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841324.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>10</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Avenant n° 53 du 3 février 2005 art. 2 BO conventions collectives 2005-14 étendu par arrêté du 10 janvier 2007 JORF 23 janvier 2007.</HISTORIQUE>
+<DATE_DEBUT>2005-02-03</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720174">Chapitre II : Libertés, droits collectifs et individuels</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750731">Section 2 : Délégué du personnel</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005761294">Scrutin</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1983-06-30" etat="REMPLACE" fin="1993-10-27" id="KALIARTI000005841321" num="10" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1993-10-27" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841322" num="10" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841324" num="10" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le scrutin aura lieu pendant les heures de travail. Les salariés seront indemnisés du temps passé aux élections sur la base de leur temps de travail effectif.<br/>
+<br/>   Le chef d'entreprise a la charge d'organiser matériellement les élections et, en accord avec les organisations syndicales, d'assurer le respect du secret et de la liberté de vote (bulletins de vote, enveloppes opaques, urnes, isoloir, etc.).<br/>
+<br/>   Le bureau électoral est composé pour chaque collège de deux électeurs, le plus jeune et le plus ancien, présents à l'ouverture et acceptant d'y participer. La présidence appartient au plus ancien.<br/>
+<br/>   En vue d'assurer le caractère public du scrutin, chaque liste peut désigner un membre du personnel pour assister aux opérations de vote.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="MODIFICATION">Avenant n° 25 1993-04-20 en vigueur le 27 octobre 1993 étendu par arrêté du 15 octobre 1993 JORF 27 octobre 1993</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

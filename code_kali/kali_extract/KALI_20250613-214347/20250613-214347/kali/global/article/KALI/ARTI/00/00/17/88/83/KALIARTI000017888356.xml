@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017888356</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/88/83/KALIARTI000017888356.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>35.4</NUM>
+<TITRE/>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2015-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2015-01-01" id="KALISCTA000020752333">Plan de formation</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2008-09-01" etat="ABROGE" fin="2015-01-01" id="KALIARTI000017888356" num="35.4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>L'employeur est tenu d'assurer l'adaptation des salariés à leur poste de travail. Il doit veiller au maintien de leur capacité à occuper un emploi au regard notamment de l'évolution des emplois, des technologies et des organisations.<br/>Il peut proposer des formations entrant dans le cadre du plan de formation de l'entreprise.</p>
+<p>Actions entrant dans le plan de formation</p>
+<p>Trois types d'action peuvent composer le plan de formation :<br/>- les actions d'adaptation au poste de travail : elles constituent un temps de travail effectif et se déroulent pendant le temps de travail. Elles donnent lieu au maintien du salaire ;<br/>- les actions liées à l'évolution de l'emploi et au maintien de l'emploi : elles sont également mises en oeuvre pendant le temps de travail et donnent lieu à maintien de la rémunération. Le temps de formation peut dépasser la durée habituelle </p>
+<p>du travail du salarié si le salarié donne son accord écrit. Les dépassements ne sont pas imputables sur le contingent d'heures supplémentaires dans la limite d'un nombre global d'heures de formation hors temps de travail de 50 heures par année civile ;<br/>- les actions de développement des compétences : elles peuvent se dérouler pendant le temps de travail. Elles peuvent également avoir lieu en tout ou partie hors du temps de travail dans la limite de 80 heures par an et par salarié. Lorsqu'elles se déroulent hors temps de travail, un accord écrit est nécessaire entre employeur et salarié, étant précisé que le salarié peut dénoncer cet accord dans les 8 jours. Si la formation a lieu hors temps de travail, le salarié et l'employeur prennent des engagements mutuels : le salarié à suivre avec assiduité la formation et à satisfaire aux évaluations prévues, l'employeur à le faire accéder en priorité, dans le délai de 1 an à l'issue de la formation, aux fonctions disponibles correspondant aux connaissances acquises et à prendre en compte les efforts consentis par le salarié pour suivre une formation hors temps de travail.<br/>Les heures de formation hors temps de travail donnent lieu au versement de l'allocation de formation dans les conditions définies à l'article 35.2 pour le DIF. </p>
+<p>Frais de formation</p>
+<p>Les frais afférents aux formations entrant dans le cadre du plan de formation sont pris en charge dans les conditions définies par les instances paritaires chargées de la gestion des contributions perçues au titre de la formation professionnelle continue.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>en vigueur le 1er jour du mois suivant l'extension</CONDITION_DIFFERE>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000030482843" datesignatexte="2014-10-30" id="KALIARTI000030482855" naturetexte="Accord" nortexte="ASET1550092M" num="2" numtexte="" sens="source" typelien="ABROGATION">Formation professionnelle - art. 2 (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

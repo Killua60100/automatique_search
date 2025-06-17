@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000046989060</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/46/98/90/KALIARTI000046989060.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2022-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="KALISCTA000028053375">ANNEXES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-10-27" fin="2999-01-01" id="KALISCTA000033892823">Annexe IV.B : Emplois repères</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_NON_ETEN">
+<LIEN_ART debut="2022-09-01" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALIARTI000046989060" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2016-10-27" etat="VIGUEUR_ETEN" fin="2022-09-01" id="KALIARTI000033892821" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Cette liste est indicative.</p>
+<br/>
+<p align="right">(En euros.)</p>
+<br/>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Fonction</th>
+<th>Salaires minima mensuels<br/>
+			conventionnels de base</th>
+<th>Complément autonomie</th>
+<th>Complément technicité</th>
+<th>Complément responsabilité</th>
+<th>Salaires minima mensuels<br/>
+			conventionnels<br/>
+			Niveau avec compléments</th>
+</tr>
+<tr>
+<td align="center">Directeur général</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+</tr>
+<tr>
+<td align="center">Directeur administratif</td>
+<td align="center">2 671,38</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 911,80</td>
+</tr>
+<tr>
+<td align="center">Directeur financier</td>
+<td align="center">2 671,38</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 911,80</td>
+</tr>
+<tr>
+<td align="center">Contrôleur de gestion – Chef comptable</td>
+<td align="center">2 143,02</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 335,89</td>
+</tr>
+<tr>
+<td align="center">Chargé administratif</td>
+<td align="center">1 863,54</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 031,26</td>
+</tr>
+<tr>
+<td align="center">Comptable</td>
+<td align="center">1 863,54</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 031,26</td>
+</tr>
+<tr>
+<td align="center">Directeur juridique</td>
+<td align="center">2 671,38</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 911,80</td>
+</tr>
+<tr>
+<td align="center">Juriste</td>
+<td align="center">2 143,02</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 335,89</td>
+</tr>
+<tr>
+<td align="center">Assistant juridique</td>
+<td align="center">1 715,00</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td/>
+<td align="center">1 817,90</td>
+</tr>
+<tr>
+<td align="center">Directeur des ressources humaines</td>
+<td align="center">2 671,38</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 911,80</td>
+</tr>
+<tr>
+<td align="center">Assistant RH</td>
+<td align="center">1 715,00</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td/>
+<td align="center">1 817,90</td>
+</tr>
+<tr>
+<td align="center">Directeur des moyens généraux</td>
+<td align="center">2 671,38</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 911,80</td>
+</tr>
+<tr>
+<td align="center">Responsable informatique</td>
+<td align="center">2 143,02</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 335,89</td>
+</tr>
+<tr>
+<td align="center">Agent d'accueil</td>
+<td align="center">1 685,00</td>
+<td align="center">3 %</td>
+<td/>
+<td/>
+<td align="center">1 735,55</td>
+</tr>
+<tr>
+<td align="center">Standardiste</td>
+<td align="center">1 685,00</td>
+<td align="center">3 %</td>
+<td/>
+<td/>
+<td align="center">1 735,55</td>
+</tr>
+<tr>
+<td align="center">Coursier</td>
+<td align="center">1 685,00</td>
+<td align="center">3 %</td>
+<td/>
+<td/>
+<td align="center">1 735,55</td>
+</tr>
+<tr>
+<td align="center">Gardien</td>
+<td align="center">1 685,00</td>
+<td align="center">3 %</td>
+<td/>
+<td/>
+<td align="center">1 735,55</td>
+</tr>
+<tr>
+<td align="center">Directeur marketing</td>
+<td align="center">2 671,38</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 911,80</td>
+</tr>
+<tr>
+<td align="center">Assistant marketing</td>
+<td align="center">1 863,54</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 031,26</td>
+</tr>
+<tr>
+<td align="center">Producteur exécutif</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+</tr>
+<tr>
+<td align="center">Responsable du développement</td>
+<td align="center">2 143,02</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 335,89</td>
+</tr>
+<tr>
+<td align="center">Responsable de ligne éditoriale</td>
+<td align="center">2 143,02</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 335,89</td>
+</tr>
+<tr>
+<td align="center">Chargé des lignes éditoriales<br/>
+			du développement</td>
+<td align="center">1 863,54</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 031,26</td>
+</tr>
+<tr>
+<td align="center">Directeur des productions</td>
+<td align="center">2 671,38</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 911,80</td>
+</tr>
+<tr>
+<td align="center">Chargé des productions<br/>
+			et des post-productions</td>
+<td align="center">1 863,54</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 031,26</td>
+</tr>
+<tr>
+<td align="center">Assistant des productions</td>
+<td align="center">1 715,00</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td/>
+<td align="center">1 817,90</td>
+</tr>
+<tr>
+<td align="center">Secrétaire</td>
+<td align="center">1 715,00</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td/>
+<td align="center">1 817,90</td>
+</tr>
+<tr>
+<td align="center">Employé administratif</td>
+<td align="center">1 715,00</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td/>
+<td align="center">1 817,90</td>
+</tr>
+</tbody>
+</table>
+
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000046956066" datesignatexte="2022-07-19" id="KALIARTI000046956133" naturetexte="Avenant" nortexte="ASET2251316M" num="3" numtexte="" sens="cible" typelien="MODIFIE">Révision du titre IV de la convention collective - art. 3 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

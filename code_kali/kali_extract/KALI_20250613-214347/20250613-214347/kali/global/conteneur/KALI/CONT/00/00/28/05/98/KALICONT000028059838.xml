@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000028059838</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3097</NUM>
+
+<DATE_PUBLI>2013-08-01</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000028053370" titretxt="Convention collective nationale de la production cinématographique du 19 janvier 2012"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000028053648" titretxt="Ajout d'un titre III « Salariés de l'équipe artistique »"/>
+<LIEN_TXT idtxt="KALITEXT000028319313" titretxt="Modification de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000028465836" titretxt="Adhésion de l'AFPF, de l'APC, du SPI, de l'UPF à la convention"/>
+<LIEN_TXT idtxt="KALITEXT000031521855" titretxt="Adhésion de l'API à l'accord du 15 septembre 2015 relatif aux salaires du personnel technique"/>
+<LIEN_TXT idtxt="KALITEXT000032426281" titretxt="Révision du protocole d'accord collectif du 17 décembre 2007"/>
+<LIEN_TXT idtxt="KALITEXT000032426289" titretxt="Aide au paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000033136351" titretxt="CDD d'usage"/>
+<LIEN_TXT idtxt="KALITEXT000033860077" titretxt="Titre IV « Salariés permanents »"/>
+<LIEN_TXT idtxt="KALITEXT000033860165" titretxt="Adhésion de Sud culture à la convention"/>
+<LIEN_TXT idtxt="KALITEXT000038326423" titretxt="Mise en place de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000038184352" titretxt="Révision des salaires des artistes-interprètes"/>
+<LIEN_TXT idtxt="KALITEXT000038616270" titretxt="Développement de l'emploi durable"/>
+<LIEN_TXT idtxt="KALITEXT000038746365" titretxt="Annexe III du titre II de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000039116776" titretxt="Article 2 du titre II et salaires 2019"/>
+<LIEN_TXT idtxt="KALITEXT000041405312" titretxt="Définitions de fonctions des techniciens de la postproduction"/>
+<LIEN_TXT idtxt="KALITEXT000041698909" titretxt="Modification de l'annexe III.1 au sous-titre Ier du titre III de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000041698920" titretxt="Modification des titres Ier et II de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000044254006" titretxt="Activité partielle de longue durée (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000044253794" titretxt="Chef coiffeur cinéma (titre II de la convention)"/>
+<LIEN_TXT idtxt="KALITEXT000046044054" titretxt="Négociation sur la classification"/>
+<LIEN_TXT idtxt="KALITEXT000046044067" titretxt="Titre II de la convention collective relatif à la branche son"/>
+<LIEN_TXT idtxt="KALITEXT000046956066" titretxt="Révision du titre IV de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000049095288" titretxt="Revalorisation des salaires minima (titre III de la convention)"/>
+<LIEN_TXT idtxt="KALITEXT000049095317" titretxt="Création annexe III.2 (sous-titre II du titre III)"/>
+<LIEN_TXT idtxt="KALITEXT000050028370" titretxt="Prévention et signalement des violences et harcèlements sexistes et sexuels (VHSS)"/>
+<LIEN_TXT idtxt="KALITEXT000050028346" titretxt="Conditions d'emploi des mineurs (titre III de la convention)"/>
+<LIEN_TXT idtxt="KALITEXT000051295352" titretxt="Collecte des contributions conventionnelles"/>
+<LIEN_TXT idtxt="KALITEXT000051295370" titretxt="Révision de l'article 16 « Congés payés »"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000030440759" titretxt="Artistes-interprètes engagés sur un court métrage"/>
+<LIEN_TXT idtxt="KALITEXT000031521844" titretxt="Salaires du personnel technique (titre II)"/>
+<LIEN_TXT idtxt="KALITEXT000033017140" titretxt="Dispositions relatives à la branche costume (titre II de la convention)"/>
+<LIEN_TXT idtxt="KALITEXT000035532821" titretxt="Révision des salaires du personnel technique (annexe III du titre II)"/>
+<LIEN_TXT idtxt="KALITEXT000035993640" titretxt="Révision des salaires de l'équipe technique (titre II de la convention)"/>
+<LIEN_TXT idtxt="KALITEXT000039061545" titretxt="Salaires de l'équipe technique"/>
+<LIEN_TXT idtxt="KALITEXT000046044102" titretxt="Salaires minima garantis des artistes-interprètes"/>
+<LIEN_TXT idtxt="KALITEXT000046044080" titretxt="Salaires minima de l'équipe technique au 1er avril 2022"/>
+<LIEN_TXT idtxt="KALITEXT000049095260" titretxt="Salaires minima au 1er septembre 2023 (titres II et IV de la convention)"/>
+<LIEN_TXT idtxt="KALITEXT000050329461" titretxt="Salaires minima au 1er mars 2024 (titre II de la convention collective)"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Production cinématographique (19 janvier 2012)</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH/>
+
+
+</IDCC>

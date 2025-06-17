@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841336</ID>
+<ANCIEN_ID>KBCAAXXXXXX00020XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841336.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1983-06-30</DATE_DEBUT>
+<DATE_FIN>2005-02-03</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750738">Section 2 : Rupture du contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750734">Certificat de travail</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1983-06-30" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841336" num="20" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841337" num="20" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Lorsque le personnel est nourri ou logé par l'entreprise, les avantages en nature sont forfaitairement évalués selon les termes de l'arrêté du 9 janvier 1975 en matière de cotisations de sécurité sociale, comme suit :<br/> 1° Rémunération ne dépassant pas le plafond de la sécurité sociale.<br/>
+<br/>   Nourriture :<br/>
+<br/>   1 repas : minimum garanti x 1 ;<br/>
+<br/>   2 repas : minimum garanti x 2.<br/>
+<br/>   Logement :<br/>
+<br/>   Par semaine : minimum garanti x 5 ;<br/>
+<br/>   Par mois : minimum garanti x 20.<br/> 2° Rémunération dépassant le plafond de la sécurité sociale.<br/>
+<br/>   Nourriture :<br/>
+<br/>   1 repas : minimum garanti x 1,5 ;<br/>
+<br/>   2 repas : minimum garanti x 3.<br/>
+<br/>   Logement :<br/>
+<br/>   Par semaine et par pièce principale : minimum garanti x 5 ;<br/>
+<br/>   Par mois et par pièce principale : minimum garanti x 20.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

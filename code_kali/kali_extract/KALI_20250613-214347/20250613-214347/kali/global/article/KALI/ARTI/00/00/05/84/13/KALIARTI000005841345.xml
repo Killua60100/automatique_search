@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841345</ID>
+<ANCIEN_ID>KBCAAXXXXXX00018XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841345.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>18</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1983-06-30</DATE_DEBUT>
+<DATE_FIN>2005-02-03</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750735">Section 1 : Engagement</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005761300">Contrats de travail à temps partiel.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1983-06-30" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841345" num="18" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841346" num="18" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Tout salarié reçoit, avec son salaire, un bulletin de paie qui doit lui être remis, dans les conditions prévues par les lois et décrets en vigueur.<br/>
+<br/>   Ce bulletin devra obligatoirement comporter les mentions suivantes :<br/>
+<br/>   1° Le nom et l'adresse de l'employeur ;<br/>
+<br/>   2° L'organisme auquel l'employeur verse les cotisations de sécurité sociale et le numéro d'immatriculation attribué à l'employeur ainsi que le nom de l'organisme de retraite auquel l'employeur verse les cotisations ;<br/>
+<br/>   3° Les nom et prénom du travailleur, son emploi et son coefficient hiérarchique ;<br/>
+<br/>   4° La période et le nombre d'heures de travail auxquels se rapporte la rémunération versée, en mentionnant séparément, le cas échéant, les heures supplémentaires et leur taux de majoration ;<br/>
+<br/>   5° La nature et le montant des primes ;<br/>
+<br/>   6° Le montant de la rémunération brute ;<br/>
+<br/>   7° La nature et le montant des déductions ;<br/>
+<br/>   8° Le montant de la rémunération nette ;<br/>
+<br/>   9° La date de paiement ;<br/>
+<br/>   10° Le cas échéant, les avantages en nature sur la base déterminée par l'Urssaf.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

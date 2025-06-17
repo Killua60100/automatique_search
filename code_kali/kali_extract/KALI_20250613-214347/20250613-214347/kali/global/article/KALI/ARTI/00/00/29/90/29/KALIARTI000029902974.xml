@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000029902974</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/29/90/29/KALIARTI000029902974.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>69</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2014-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-04-07" fin="2999-01-01" id="KALISCTA000023178907">Comité paritaire de suivi</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2014-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000029902974" num="69" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2010-04-07" etat="REMPLACE" fin="2014-01-01" id="KALIARTI000023178905" num="69" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p align="left">Un comité paritaire de suivi est constitué sous forme d'association entre les représentants des organisations syndicales de salariés et d'employeurs représentatives au niveau national et signataires de l'avenant n° 67 du 27 octobre 2009 relatif à la mise en place d'un régime remboursement complémentaire de frais de soins de santé. Ce comité a pour vocation d'assurer le pilotage du régime au mieux des intérêts des salariés et entreprises de la branche dans les objectifs fixés par l'article 1er de l'avenant n° 67 précité. </p>
+<p>Ce comité fonctionnera grâce à une indemnité de 2 % des cotisations brutes du régime telles que mentionnées à l'article 62 du présent chapitre notamment pour : </p>
+<br/>– couvrir ses frais de fonctionnement (déplacements, salaires, secrétariat, édition) ; <br/>
+<br/>
+<p>– former et informer les négociateurs paritaires ; </p>
+<p>– financer les études et l'information nécessaires au fonctionnement du régime. </p>
+<p>Les modalités de fonctionnement de ce comité seront détaillées aux statuts de l'association susmentionnée.</p>
+<p>
+<font color="#808080">
+<i>
+<br/>
+</i>
+</font>
+</p>
+<p>
+<font color="808080" size="1">
+<i>
+<br/>
+</i>
+</font>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000029884148" datesignatexte="2013-10-17" id="KALIARTI000029884154" naturetexte="Avenant" nortexte="ASET1451149M" num="3" numtexte="80" sens="cible" typelien="MODIFIE">Régime de frais des soins de santé - art. 3 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021699491</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/69/94/KALIARTI000021699491.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>10</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>PERIODE_ESSAI</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000020751669">Embauche - Période d'essai</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021699491" num="10" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-09-01" etat="REMPLACE" fin="2009-07-01" id="KALIARTI000017854213" num="10" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>Les employeurs font connaître leurs offres d'emplois aux organismes habilités à les recevoir ou recourent à l'embauche directe. Ils sont tenus de respecter les formalités administratives d'embauche qui leur sont applicables, et notamment celles relatives à la surveillance médicale des salariés.</p>Dans les cas d'embauche à durée indéterminée, la période d'essai est obligatoire. <p>Sa durée est fixée comme suit : </p>
+<p>― ouvriers, employés : 1 mois ; </p>
+<p>― agents de maîtrise : 2 mois ; </p>
+<p>― cadres : 3 mois. </p>
+<p>Au terme de la période d'essai, l'engagement devient définitif. Le renouvellement de la période d'essai est possible une fois pour une durée au plus égale à la période initiale à condition d'être convenu par écrit au plus tard le jour de l'expiration de la période d'essai.</p>
+<p>Dans le cas d'une embauche à durée déterminée, la période d'essai est fonction de la durée initiale du contrat :</p>
+<p>-1 jour par semaine, dans la limite de 2 semaines pour un contrat de durée inférieure ou égale à 6 mois ;</p>
+<p>-1 mois pour un contrat de plus de 6 mois. </p>
+<p>Un exemplaire de la convention collective (y compris toutes ses annexes) est tenu à la disposition de l'intéressé et remis à sa demande. </p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021682523" datesignatexte="2009-07-07" id="KALIARTI000021682527" naturetexte="Avenant" nortexte="ASET0951053M" num="1" numtexte="6" sens="cible" typelien="CITATION">Période d'essai - art. 1 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000021682523" datesignatexte="2009-07-07" id="KALIARTI000021682527" naturetexte="Avenant" nortexte="ASET0951053M" num="1" numtexte="6" sens="cible" typelien="MODIFIE">Période d'essai - art. 1 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053542</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053542.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>27</NUM>
+<TITRE>Amplitude de la journée de travail</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053392">Chapitre VI Durée du travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053542" num="27" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Le total journalier concernant les heures de travail, les heures supplémentaires éventuelles, les durées de préparation préalable aux prises de vues et de rangement suivant les prises de vues pour certains techniciens, l'arrêt pour les repas, les pauses, les heures de transport entre le lieu de rendez-vous et le lieu de tournage ne devra pas excéder 13 heures.<br/>La durée de repos minimum devant s'écouler entre le retour au lieu de rendez-vous et la reprise du lendemain au lieu de rendez-vous ne pourra être inférieure à 11 heures.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

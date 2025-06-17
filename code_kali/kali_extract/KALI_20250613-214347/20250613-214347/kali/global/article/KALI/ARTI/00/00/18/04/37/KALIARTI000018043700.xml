@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000018043700</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/18/04/37/KALIARTI000018043700.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>8</NUM>
+<TITRE>Compte de résultats</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2007-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000018043671" date_publi="2999-01-01" date_signature="2007-06-22" nature="Accord" nor="ASET0750840M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de soins de santé des anciens salariés" debut="2007-07-01" fin="2999-01-01" id_txt="KALITEXT000018043671">Accord du 22 juin 2007 relatif au régime frais de soins de santé des anciens salariés</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635184" date_publi="2019-07-01" etat="VIGUEUR_ETEN" nature="IDCC" num="176" titre="Convention collective nationale de l'industrie pharmaceutique du 6 avril 1956 mise à jour par accord du 11 avril 2019 - Etendue par arrêté du 2 avril 2021 JORF 13 juillet 2021" url="conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635184.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2007-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000018043700" num="8" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">L'organisme assureur du présent régime maladie-chirurgie-maternité des anciens salariés établit chaque année un rapport sur les comptes de résultats. Le compte de résultats doit comporter :<br/>
+― le montant des cotisations brutes de réassurance, le montant des prestations payées brutes de réassurance, le montant des provisions techniques brutes de réassurance entre le 1er janvier et le 31 décembre de l'exercice considéré ;<br/>
+― la quote-part des produits financiers nets, des autres charges (chargements techniques et frais de gestion) des participations aux résultats, du résultat de la réassurance ;<br/>
+― l'évolution des provisions, fonds et réserves constitués pour faire face à l'évolution de la sinistralité et lisser l'évolution de la cotisation santé indépendamment de l'âge de l'assuré ;<br/>
+― le nombre des assurés, en distinguant les différentes catégories d'assurés, et notamment les retraités, les invalides, les anciens salariés sans emploi, leurs ayants droit et les ayants droit de salariés décédés, ainsi que les flux des populations couvertes appartenant à chaque catégorie.</p>
+<p align="left">Ce rapport sera remis pour information à l'organisation patronale et aux organisations syndicales représentatives dans la branche dans le mois suivant l'approbation des comptes par les représentants des anciens salariés au comité paritaire de gestion, et au plus tard le 31 juillet suivant la clôture de l'exercice considéré. Une synthèse des comptes de résultats du régime des anciens salariés sera présentée chaque année dans la lettre d'information du régime, mise à la disposition de l'ensemble des assurés du régime de prévoyance des salariés en activité et du présent régime frais soins de santé.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051694288</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/69/42/KALIARTI000051694288.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>8</NUM>
+<TITRE>Égalité femmes/hommes</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-03-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051694275" date_publi="2025-06-05" date_signature="2025-02-14" nature="Avenant" nor="ASET2550331M" num="68" num_parution_jo="">
+<TITRE_TXT c_titre_court="Minima conventionnels, prime d'intermittence et prime d'activité continue" debut="2025-03-01" fin="2999-01-01" id_txt="KALITEXT000051694275">Avenant n° 68 du 14 février 2025 relatif aux minima conventionnels, à la prime d'intermittence et à la prime d'activité continue</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-03-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051694288" num="8" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Il en résulte de manière générale que tout employeur doit assurer l'égalité des rémunérations entre tous les salariés placés dans une situation identique, tout particulièrement entre les hommes et les femmes, conformément aux dispositions des articles L. 3221-1 et suivants du code du travail.</p>
+<p align="left">Les organisations représentatives entendent rappeler l'importance qu'elles attachent au principe d'égalité professionnelle entre les femmes et les hommes et plus particulièrement à celui de l'égalité des rémunérations.</p>
+<p align="left">L'avenant n° 46, relatif à l'égalité professionnelle et salariale entre les femmes et les hommes, dans son article 6, rappelle que « l'employeur doit assurer pour un même travail, ou un travail de valeur égale, et à ancienneté égale, l'égalité salariale entre les femmes et les hommes ».</p>
+<p align="left">De même, l'avenant n° 47, relatif aux classifications des emplois et salaires, affirme dans son préambule la nécessité d'« assurer l'égalité professionnelle au travers de la formation et de la promotion ».</p>
+<p align="left">Sans préjudice des dispositions légales et règlementaires impératives en vigueur, les bilans et rapports de situation comparée doivent permettre d'identifier les points d'amélioration à apporter pour atteindre l'égalité professionnelle entre les femmes et les hommes dans la restauration collective, conformément aux dispositions conventionnelles, légales et règlementaires.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGISCTA000006178022" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

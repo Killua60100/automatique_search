@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017855831</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/85/58/KALIARTI000017855831.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>22</NUM>
+
+<TITRE> </TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000020752140">Travail de nuit</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-09-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000017855831" num="22" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>Le travail de nuit sera limité au minimum. Est considérée comme nuit la période s'étendant entre 21 heures et 6 heures du matin. Pour les jeunes de 18 ans, le travail de nuit est interdit, sauf dérogations accordées dans le cadre de l'article L. 213-7 du code du travail. 
+<br/>Chaque heure de travail de nuit donne lieu à une majoration de 25 % du salaire horaire de l'intéressé ou à un repos équivalent par accord des parties. <br/>En outre, des dispositions particulières seront prévues en faveur des « travailleurs de nuit » au sens de l'article L. 213-2 du code du travail, c'est-à-dire :<br/>-salarié effectuant 3 heures de travail de nuit au moins 2 fois par semaine ;<br/>-salarié effectuant 270 heures de travail de nuit sur une période quelconque de 12 mois.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Article étendu sous réserve de l'application des dispositions des articles L. 3122-32 (anciennement article L. 213-1) et L. 3122-40.  <br/>(Arrêté du 30 juillet 2008, art. 1er)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>en vigueur le 1er jour du mois suivant l'extension</CONDITION_DIFFERE>
+<LIENS>
+
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006647331" naturetexte="CODE" nortexte="" num="L213-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L213-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006647349" naturetexte="CODE" nortexte="" num="L213-7" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L213-7</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

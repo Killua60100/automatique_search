@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000023212296</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/23/21/22/KALIARTI000023212296.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20-3-K</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2010-04-26</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-04-26" fin="2999-01-01" id="KALISCTA000023212344">Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-04-26" fin="2999-01-01" id="KALISCTA000023212298">Comité paritaire de suivi et de gestion</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2010-04-26" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000023212296" num="20-3-K" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le suivi du présent régime par les partenaires sociaux est effectué par un comité paritaire de suivi et de gestion constitué sous forme d'association entre les représentants des organisations syndicales de salariés et d'employeurs représentatives <i>au niveau national</i>  (1) et signataires de l'avenant n° 8 à la convention collective nationale de la charcuterie de détail, du 1er décembre 1977 réécrite par avenant n° 113 du 4 avril 2007, relatif à la mise en place d'un régime remboursement complémentaire de frais de soins de santé. <br/>
+<br/>Ce comité a pour vocation d'assurer le pilotage du régime au mieux des intérêts des salariés et entreprises de la branche. <br/>
+<br/>Il fonctionnera grâce à une indemnité de 1 % de cotisations brutes prélevés sur le compte de résultat prévu par l'article 20-3-G notamment pour : <br/>
+<br/>– couvrir ses frais de fonctionnement (déplacements, salaires, secrétariat, édition) ; <br/>
+<br/>– former et informer les négociateurs paritaires ; <br/>
+<br/>– financer les études et l'information nécessaires au fonctionnement du régime. <br/>
+<br/>Les modalités de fonctionnement de ce comité seront détaillées aux statuts de l'association susmentionnée.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Termes « au niveau national » exclus de l'extension comme contrevenant au principe d'égalité tel qu'interprété par la jurisprudence de la Cour de cassation (Cass.soc. 29 mai 2001, Cegelec).  <br/>(Arrêté du 23 décembre 2010, art. 1er)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000023175851" datesignatexte="2010-04-26" id="KALIARTI000023175854" naturetexte="Avenant" nortexte="ASET1050993M" num="1er" numtexte="8" sens="cible" typelien="CREE">Frais de soins de santé - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

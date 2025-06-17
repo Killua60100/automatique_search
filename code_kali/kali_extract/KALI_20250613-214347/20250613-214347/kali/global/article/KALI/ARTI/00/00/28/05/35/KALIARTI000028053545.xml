@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053545</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053545.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>30</NUM>
+<TITRE>Equivalence</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053392">Chapitre VI Durée du travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053545" num="30" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Exclusivement pour la période de tournage, le nombre d'heures de travail garanti pour certains techniciens s'inscrit dans un décompte de durée de présence d'équivalence, consistant hebdomadairement en une durée d'heures de travail effectif et de temps d'inactivité qui n'est pas considéré comme une durée de travail effectif. Ce temps d'inactivité ne comprend pas les pauses repas et autres.<br/>Ces durées et la rémunération afférente sont fixées, pour ces catégories, dans les annexes I et II. Il est rappelé que pour les besoins de lisibilité de ces annexes, les minima garantis correspondent à 5 ou 6 jours de travail. Il est bien entendu que les rémunérations indiquées seront proratisées en fonction du nombre de jours concernés.<br/>Les heures supplémentaires de tournage qui seraient effectuées et qui amèneraient, le cas échéant, un dépassement de la durée du travail effectif préfixée s'ajoutent au total des heures de travail effectif et sont rémunérées conformément aux dispositions de la présente convention.<br/>Les durées d'équivalence ne s'appliquent pas pour les engagements inférieurs à 5 jours consécutifs.</p>
+<p>
+<font color="#808080">
+<em/>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

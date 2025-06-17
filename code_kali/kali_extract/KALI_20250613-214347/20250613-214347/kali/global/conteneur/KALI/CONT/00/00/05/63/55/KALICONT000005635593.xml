@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635593</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635593.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de la boucherie, boucherie-charcuterie, boucherie hippophagique, triperie, commerces de volailles et gibiers du 12 décembre 1978, actualisée par l'avenant n° 114 du 10 juillet 2006</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>992</NUM>
+
+<DATE_PUBLI>2006-07-10</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU>
+  <p>Champ d'application fusionné avec celui de la convention collective nationale de la poissonnerie (IDCC 1504) par accord du 18 septembre 2020.</p>
+</CONTENU>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005674098" titretxt="Convention collective nationale du 12 décembre 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005674094" titretxt="CONVENTION COLLECTIVE NATIONALE du 12 décembre 1978"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005674096" titretxt="Clauses générales, Accord paritaire"/>
+<LIEN_TXT idtxt="KALITEXT000005674100" titretxt="Annexe I : Classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000005674102" titretxt="Annexe I - Grille de classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000005674104" titretxt="Annexe I - Grille de classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000005674106" titretxt="Classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000005674108" titretxt="Annexe II - Grille des salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005674110" titretxt="Annexe III - Modèle de fiche d'embauche"/>
+<LIEN_TXT idtxt="KALITEXT000005674112" titretxt="Annexe III - Référentiels de formation des certificats de qualification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005674114" titretxt="Annexe IV - Modèle de bulletin de paie"/>
+<LIEN_TXT idtxt="KALITEXT000005674116" titretxt="Heures d'équivalences"/>
+<LIEN_TXT idtxt="KALITEXT000005674118" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005674120" titretxt="Durée du travail et congés payés"/>
+<LIEN_TXT idtxt="KALITEXT000005674122" titretxt="Formation "/>
+<LIEN_TXT idtxt="KALITEXT000005674124" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005674126" titretxt="ORGANISME PARITAIRE COLLECTEUR AGREE"/>
+<LIEN_TXT idtxt="KALITEXT000005674128" titretxt="DOTATIONS ALLOUEES AUX C.F.A."/>
+<LIEN_TXT idtxt="KALITEXT000005674130" titretxt="INSERTION DES JEUNES DANS LE MONDE DU TRAVAIL"/>
+<LIEN_TXT idtxt="KALITEXT000005674138" titretxt="CERTIFICAT DE QUALIFICATION PROFESSIONNELLE"/>
+<LIEN_TXT idtxt="KALITEXT000005674140" titretxt="MUTUALISATION ELARGIE DANS LE CADRE DU PLAN DE FORMATION"/>
+<LIEN_TXT idtxt="KALITEXT000005674143" titretxt="INSERTION DES JEUNES EN FIN D'APPRENTISSAGE"/>
+<LIEN_TXT idtxt="KALITEXT000005674145" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005674147" titretxt="FORMATION PROFESSIONNELLE"/>
+<LIEN_TXT idtxt="KALITEXT000005674149" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005674151" titretxt="CRÉATION D'UN CONTRAT DE QUALIFICATION VENDEUR, VENDEUSE 2é ÉCHELON"/>
+<LIEN_TXT idtxt="KALITEXT000005674153" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005674155" titretxt="Cotisation de la formation continue"/>
+<LIEN_TXT idtxt="KALITEXT000005674132" titretxt="Financement insertion des jeunes"/>
+<LIEN_TXT idtxt="KALITEXT000005674134" titretxt="Création d'une commission paritaire nationale pour l'emploi et la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005674136" titretxt="Aménagement du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005682951" titretxt="Développement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000005674157" titretxt="Certificats de qualification professionnelle (CQP)"/>
+<LIEN_TXT idtxt="KALITEXT000005674159" titretxt="Création du certificat de qualification professionnelle technicien boucher"/>
+<LIEN_TXT idtxt="KALITEXT000005674161" titretxt="Certificat de qualification professionnelle commercialisation au détail de produits carnés"/>
+<LIEN_TXT idtxt="KALITEXT000005674163" titretxt="Capital de temps de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005674165" titretxt="Contribution pour le dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000005674167" titretxt="Création d'un certificat de qualification professionnelle assistant de chef d'entreprise"/>
+<LIEN_TXT idtxt="KALITEXT000005674169" titretxt="Classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000005674171" titretxt="Modification des avenants n°s 57, 70 et 82"/>
+<LIEN_TXT idtxt="KALITEXT000005674173" titretxt="Dénomination des emplois dans le cadre des CQP"/>
+<LIEN_TXT idtxt="KALITEXT000005674175" titretxt="Référentiels de CQP"/>
+<LIEN_TXT idtxt="KALITEXT000005674177" titretxt="CQP &quot; technicien boucher &quot;"/>
+<LIEN_TXT idtxt="KALITEXT000005674179" titretxt="Heures supplémentaires"/>
+<LIEN_TXT idtxt="KALITEXT000005674181" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005674183" titretxt="Cotisation pour favoriser l'insertion des jeunes"/>
+<LIEN_TXT idtxt="KALITEXT000005674185" titretxt="Caisse de retraite complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000005674187" titretxt="Classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000005674189" titretxt="Adhésion de la fédération des commerces et des services UNSA à la convention collective nationale de la boucherie, boucherie-charcuterie et boucherie hippophagique"/>
+<LIEN_TXT idtxt="KALITEXT000005674191" titretxt="Professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000005674193" titretxt="Rente éducation"/>
+<LIEN_TXT idtxt="KALITEXT000005674195" titretxt="Compléments à la grille de classification."/>
+<LIEN_TXT idtxt="KALITEXT000005674197" titretxt="Mise en place d'une garantie de rente d'éducation"/>
+<LIEN_TXT idtxt="KALITEXT000005674199" titretxt="Mutualisation des risques"/>
+<LIEN_TXT idtxt="KALITEXT000005674201" titretxt="Création du certificat de qualification professionnelle &quot; repreneur, créateur et responsable d'entreprise &quot;"/>
+<LIEN_TXT idtxt="KALITEXT000005674203" titretxt="Classifications des emplois et salaires à compter du 1er février 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005674205" titretxt="Financement des CFA"/>
+<LIEN_TXT idtxt="KALITEXT000005674207" titretxt="Dispositifs de formation"/>
+<LIEN_TXT idtxt="KALITEXT000017579483" titretxt="Modifications de la grille classification "/>
+<LIEN_TXT idtxt="KALITEXT000018563122" titretxt="Rémunération des heures supplémentaires"/>
+<LIEN_TXT idtxt="KALITEXT000018773340" titretxt="Contingent annuel d'heures supplémentaires"/>
+<LIEN_TXT idtxt="KALITEXT000019152441" titretxt="CQP « Technicien boucher »"/>
+<LIEN_TXT idtxt="KALITEXT000019819130" titretxt="CQP « Vendeur qualifié »"/>
+<LIEN_TXT idtxt="KALITEXT000020277408" titretxt="Prévoyance obligatoire"/>
+<LIEN_TXT idtxt="KALITEXT000020549634" titretxt="Période d'essai et de préavis"/>
+<LIEN_TXT idtxt="KALITEXT000021881940" titretxt="Classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000022135341" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000022135350" titretxt="Classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000022671846" titretxt="Emploi des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000022822681" titretxt="Régime de prévoyance        "/>
+<LIEN_TXT idtxt="KALITEXT000023269841" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000023406698" titretxt="Financement de la formation"/>
+<LIEN_TXT idtxt="KALITEXT000023995651" titretxt="Garantie rente éducation"/>
+<LIEN_TXT idtxt="KALITEXT000024565776" titretxt="Financement des CQP"/>
+<LIEN_TXT idtxt="KALITEXT000024659907" titretxt="Modification du CQP « Tripier préparateur »"/>
+<LIEN_TXT idtxt="KALITEXT000024659917" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000024891163" titretxt="CQP « Tripier détaillant »"/>
+<LIEN_TXT idtxt="KALITEXT000025805072" titretxt="Forfaits annuels en jours"/>
+<LIEN_TXT idtxt="KALITEXT000026534347" titretxt="Modification de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000027609546" titretxt="Délivrance du CQP"/>
+<LIEN_TXT idtxt="KALITEXT000027609565" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000032063572" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000028572978" titretxt="CQP « Technicien boucher »"/>
+<LIEN_TXT idtxt="KALITEXT000029954424" titretxt="Dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000029954430" titretxt="Apprentissage et insertion professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000031091845" titretxt="Prévoyance frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000031127215" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000031127229" titretxt="Désignation de l'OPCA AGEFOS-PME"/>
+<LIEN_TXT idtxt="KALITEXT000032173466" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000032173492" titretxt="Financement de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000033501779" titretxt="CQP « Boucher hippophagique détaillant »"/>
+<LIEN_TXT idtxt="KALITEXT000033501795" titretxt="Classification de « boucher hippophagique préparateur qualifié »"/>
+<LIEN_TXT idtxt="KALITEXT000033501811" titretxt="Financement par l'OPCA des CQP"/>
+<LIEN_TXT idtxt="KALITEXT000034202365" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000035330660" titretxt="Modification de l'article 36 de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000036026197" titretxt="Modification de l'article 38 « Départ à la retraite et indemnité de départ à la retraite »"/>
+<LIEN_TXT idtxt="KALITEXT000037411827" titretxt="CQP « Charcutier préparateur qualifié »"/>
+<LIEN_TXT idtxt="KALITEXT000037411844" titretxt="Régime prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000037411875" titretxt="Qualification de « Charcutier préparateur qualifié »"/>
+<LIEN_TXT idtxt="KALITEXT000037953498" titretxt="CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000037482497" titretxt="Salaires conventionnels au 1er juin 2018 et prime de fin d'année (création art. 31 bis)"/>
+<LIEN_TXT idtxt="KALITEXT000037953531" titretxt="Dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000039108910" titretxt="OPCO des entreprises de proximité"/>
+<LIEN_TXT idtxt="KALITEXT000039399496" titretxt="Rapprochement des conventions"/>
+<LIEN_TXT idtxt="KALITEXT000039399469" titretxt="CQP « Technicien boucher »"/>
+<LIEN_TXT idtxt="KALITEXT000039399452" titretxt="Formation professionnelle : contribution conventionnelle supplémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000041879569" titretxt="Régime frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000043085157" titretxt="Regroupement des champs conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000043145650" titretxt="Dispositif de la promotion ou reconversion par l'alternance « Pro-A »"/>
+<LIEN_TXT idtxt="KALITEXT000043829785" titretxt="CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000044253586" titretxt="Avenant du 16 juin 2021 (ADPSP - secteur de la poissonnerie)"/>
+<LIEN_TXT idtxt="KALITEXT000044253568" titretxt="Développement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000045518027" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000045953623" titretxt="Prime de fin d'année"/>
+<LIEN_TXT idtxt="KALITEXT000046106598" titretxt="Modification de l'article 26 bis de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000046099764" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000046280429" titretxt="Garantie rente éducation et rente temporaire de conjoint substitutive"/>
+<LIEN_TXT idtxt="KALITEXT000046970707" titretxt="Régime frais de soins de santé "/>
+<LIEN_TXT idtxt="KALITEXT000048558646" titretxt="Financement de la formation"/>
+<LIEN_TXT idtxt="KALITEXT000048994013" titretxt="Régime frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000049439139" titretxt="Modification de l'article 23 « Régime de prévoyance »"/>
+<LIEN_TXT idtxt="KALITEXT000049495839" titretxt="Modification de l'article 31 « Salaires »"/>
+<LIEN_TXT idtxt="KALITEXT000050974607" titretxt="Définition de salariés pouvant être intégrés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000051314598" titretxt="Régime frais de soins de santé"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005674209" titretxt="Salaire Annexe II"/>
+<LIEN_TXT idtxt="KALITEXT000005674211" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674213" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674215" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674217" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674219" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674221" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674223" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674225" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674227" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674229" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674231" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674233" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674235" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674237" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674239" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674241" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674243" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674245" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674247" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674249" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674251" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674253" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674255" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674257" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674259" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674261" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674263" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674265" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674267" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674269" titretxt="Annexe II, SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005674271" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005674274" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005674276" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005674278" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005674280" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005674282" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005674284" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005674286" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000017581105" titretxt="Salaires à compter du 1er juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000018773331" titretxt="Salaires au 1er février 2008 "/>
+<LIEN_TXT idtxt="KALITEXT000019349566" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020549625" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000021881948" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023105038" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023995643" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000025084079" titretxt="Salaires au 1er octobre 2011"/>
+<LIEN_TXT idtxt="KALITEXT000025805086" titretxt="Salaires au 1er février 2012"/>
+<LIEN_TXT idtxt="KALITEXT000026951290" titretxt="Salaires au 1er octobre 2012"/>
+<LIEN_TXT idtxt="KALITEXT000027609557" titretxt="Salaires conventionnels au 1er février 2013"/>
+<LIEN_TXT idtxt="KALITEXT000029071867" titretxt="Revalorisation des salaires au 1er février 2014"/>
+<LIEN_TXT idtxt="KALITEXT000030661182" titretxt="Revalorisation des salaires au 1er février 2015"/>
+<LIEN_TXT idtxt="KALITEXT000031127245" titretxt="Salaires au 1er juin 2015"/>
+<LIEN_TXT idtxt="KALITEXT000032173478" titretxt="Salaires au 1er février 2016"/>
+<LIEN_TXT idtxt="KALITEXT000033625454" titretxt="Salaires au 1er octobre 2016"/>
+<LIEN_TXT idtxt="KALITEXT000034826523" titretxt="Salaires au 1er février 2017"/>
+<LIEN_TXT idtxt="KALITEXT000042131753" titretxt="Salaires conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000042668848" titretxt="Grille des salaires conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000044253552" titretxt="Salaires 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045828993" titretxt="Salaires pour l'année 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046280448" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000047416083" titretxt="Salaires au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047792438" titretxt="Rectificatif salaires au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048674482" titretxt="Salaires au 1er janvier 2024"/>
+<LIEN_TXT idtxt="KALITEXT000049495822" titretxt="Salaires au 1er juin 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051493605" titretxt="Salaires au 1er mai 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005674288" titretxt="ARRETE du 6 septembre 1976"/>
+<LIEN_TXT idtxt="KALITEXT000005674290" titretxt="ARRETE du 5 décembre 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005674292" titretxt="ARRETE du 5 décembre 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005674294" titretxt="ARRETE du 28 janvier 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005674296" titretxt="ARRETE du 26 mai 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005674298" titretxt="ARRETE du 14 décembre 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005674300" titretxt="ARRETE du 11 mai 1984"/>
+<LIEN_TXT idtxt="KALITEXT000005674302" titretxt="ARRETE du 2 avril 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005674304" titretxt="ARRETE du 12 avril 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005674306" titretxt="ARRETE du 19 juin 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005674308" titretxt="ARRETE du 30 avril 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005674310" titretxt="ARRETE du 20 août 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005674312" titretxt="ARRETE du 29 janvier 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005674314" titretxt="ARRETE du 23 avril 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005674316" titretxt="ARRETE du 15 juin 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005674318" titretxt="ARRETE du 3 août 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005674320" titretxt="ARRETE du 20 août 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005674322" titretxt="ARRETE du 28 septembre 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005674324" titretxt="ARRETE du 9 février 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005674326" titretxt="ARRETE du 21 juillet 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005674328" titretxt="ARRETE du 29 septembre 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005674330" titretxt="ARRETE du 17 janvier 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005674332" titretxt="ARRETE du 26 avril 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005674334" titretxt="ARRETE du 18 septembre 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005674336" titretxt="ARRETE du 14 décembre 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005674338" titretxt="ARRETE du 24 janvier 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005674340" titretxt="ARRETE du 1 février 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005674342" titretxt="ARRETE du 1 juillet 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005674344" titretxt="ARRETE du 3 novembre 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005674346" titretxt="ARRETE du 9 mars 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005674348" titretxt="ARRETE du 15 octobre 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005674350" titretxt="ARRETE du 3 novembre 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005674352" titretxt="ARRETE du 4 février 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005674354" titretxt="ARRETE du 8 avril 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005674356" titretxt="ARRETE du 14 juin 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005674358" titretxt="ARRETE du 22 août 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005674360" titretxt="ARRETE du 27 janvier 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005674362" titretxt="ARRETE du 11 avril 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005674364" titretxt="ARRETE du 24 octobre 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005674366" titretxt="ARRETE du 2 mai 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005674368" titretxt="ARRETE du 13 juin 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005674370" titretxt="ARRETE du 18 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005674372" titretxt="ARRETE du 9 décembre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005674374" titretxt="ARRETE du 18 mars 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005674376" titretxt="ARRETE du 5 mai 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005674378" titretxt="ARRETE du 23 juillet 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005674380" titretxt="ARRETE du 6 août 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005674382" titretxt="ARRETE du 4 juin 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005674384" titretxt="ARRETE du 19 octobre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005674386" titretxt="ARRETE du 9 décembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005674388" titretxt="ARRETE du 9 décembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005674390" titretxt="ARRETE du 10 janvier 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005674392" titretxt="ARRETE du 9 mai 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005674394" titretxt="ARRETE du 20 décembre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005674396" titretxt="ARRETE du 14 mai 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005674398" titretxt="ARRETE du 9 octobre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005674400" titretxt="ARRETE du 19 décembre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005674403" titretxt="ARRETE du 24 janvier 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005674405" titretxt="ARRETE du 5 février 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005674407" titretxt="ARRETE du 10 juin 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005674409" titretxt="ARRETE du 7 octobre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005674411" titretxt="ARRETE du 18 décembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005674413" titretxt="ARRETE du 7 février 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005674415" titretxt="ARRETE du 3 juin 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005674417" titretxt="ARRETE du 8 octobre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005674419" titretxt="ARRETE du 8 octobre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005674421" titretxt="ARRETE du 16 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005674423" titretxt="ARRETE du 19 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005674425" titretxt="ARRETE du 24 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005674427" titretxt="ARRETE du 10 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005674429" titretxt="ARRETE du 10 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005674431" titretxt="ARRETE du 10 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005674433" titretxt="ARRETE du 27 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005674435" titretxt="ARRETE du 13 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005674437" titretxt="ARRETE du 20 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005674439" titretxt="ARRETE du 22 août 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005674441" titretxt="ARRETE du 8 décembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005674443" titretxt="ARRETE du 28 février 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005674445" titretxt="ARRETE du 30 mai 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005674447" titretxt="ARRETE du 31 mai 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005674449" titretxt="ARRETE du 24 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005674451" titretxt="ARRETE du 13 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005674453" titretxt="ARRETE du 18 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005674455" titretxt="ARRETE du 7 décembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005674457" titretxt="ARRETE du 23 avril 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005674459" titretxt="ARRETE du 5 juin 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Boucherie, boucherie-charcuterie, boucherie hippophagique, triperie, commerces de volailles et gibiers</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3101</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

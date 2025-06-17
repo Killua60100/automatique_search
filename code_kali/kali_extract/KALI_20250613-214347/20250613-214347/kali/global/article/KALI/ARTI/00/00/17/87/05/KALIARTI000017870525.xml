@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017870525</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/87/05/KALIARTI000017870525.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20.2.B</NUM>
+
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2009-04-16</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-04-04" fin="2013-01-01" id="KALISCTA000020752133">Garantie décès - Invalidité absolue et définitive</TITRE_TM>
+<TITRE_TM debut="2013-01-01" fin="2999-01-01" id="KALISCTA000027550100">Garantie décès invalidité absolue et définitive (IAD). − Rente éducation OCIRP</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050088712" num="20.2.B" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-04-16" etat="REMPLACE" fin="2013-01-01" id="KALIARTI000021699395" num="20.2.B" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-09-01" etat="REMPLACE" fin="2009-04-16" id="KALIARTI000017870525" num="20.2.B" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-01-01" etat="REMPLACE" fin="2014-01-01" id="KALIARTI000027550093" num="20.2.B" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2014-01-01" etat="REMPLACE" fin="2024-01-01" id="KALIARTI000030668541" num="20.2.B" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<em>1. Conditions </em>
+</p>
+<p>
+<em>En cas de décès du salarié avant le départ en retraite, quelle qu'en soit la cause, quelle que soit son ancienneté, ou à la date à laquelle il est reconnu par la sécurité sociale en état d'invalidité de 3e catégorie ou atteint d'une incapacité permanente professionnelle d'un taux de 100 % (état d'IAD, invalidité absolue et définitive), il est versé, en 1 seule fois, un capital décès fonction de la situation de famille du salarié, égal à :<br/>Personnel non cadre :<br/>- assuré célibataire, veuf, divorcé, sans personne à charge : 75 % du salaire brut de référence total ;<br/>- assuré marié, sans personne à charge : 100 % du salaire brut de référence total ;<br/>- assuré célibataire, veuf, divorcé, marié, ayant 1 personne à charge : 120 % du salaire brut de référence total ;<br/>- par personne à charge supplémentaire : 20 % du salaire brut de référence total.<br/>Personnel cadre :<br/>- assuré célibataire, veuf, divorcé, sans personne à charge : 140 % du salaire brut de référence tranche A et tranche B ;<br/>- assuré marié, sans personne à charge : 190 % du salaire brut de référence A et tranche B ;<br/>- assuré célibataire, veuf, divorcé, marié, ayant une personne à charge : 220 % du salaire brut de référence tranche A et tranche B ;<br/>- par personne à charge supplémentaire : 50 % du salaire brut de référence tranche A et tranche B.<br/>Le service du capital décès par anticipation en cas d'IAD met fin à la garantie décès.<br/>Double effet : le décès postérieur ou simultané du conjoint non remarié ou concubin non marié du salarié survenant avant qu'il bénéficie de sa retraite au taux plein, et alors qu'il reste des enfants à charge, entraîne le versement au profit de ces derniers d'un capital égal à celui versé lors du décès du salarié.</em>
+</p>
+<p>
+<em>2. Dévolution du capital décès</em>
+</p>
+<p>
+<em>A défaut de désignation de bénéficiaire, le capital sera versé :<br/>- en premier lieu au conjoint non séparé de droit, ou concubin notoire et permanent ou au cosignataire d'un PACS ;<br/>- à défaut, et par parts égales, aux enfants du salarié, reconnus ou adoptifs, et à défaut à ses petits-enfants ;<br/>- à défaut de descendants directs, aux pères et aux mères survivants et, à défaut de ceux-ci, aux grands-parents survivants ;<br/>- à défaut et par parts égales, à ses frères et soeurs ;<br/>- enfin, à défaut de tous les susnommés, le capital garanti revient aux héritiers.</em>
+</p>
+<p>
+<em>3. Enfants ou personnes à charge. - Définition</em>
+</p>
+<p>
+<em>Pour l'application des garanties décès (double effet), sont considérés comme à charge, indépendamment de la position fiscale, les enfants du salarié ou de son conjoint ou concubin, qu'ils soient légitimes, naturels, adoptifs, reconnus :<br/>- jusqu'à leur 18e anniversaire sans condition ;<br/>- jusqu'au 25e anniversaire pendant la durée :<br/>- de l'apprentissage ou des études ;<br/>- de l'inscription à l'ANPE comme demandeurs d'emploi ou effectuant un stage préalablement, dans l'un et l'autre cas, à l'exercice d'un 1er emploi rémunéré.<br/>- sans limitation de durée en cas d'invalidité, avant le 21e anniversaire, équivalente à l'invalidité de 2e ou 3e catégorie de sécurité sociale, justifiée par un avis médical, ou tant qu'il bénéficie de l'allocation d'adulte handicapé et qu'il est titulaire de la carte d'invalide civil.<br/>Par assimilation, sont considérés à charge les enfants à naître et nés viables, et les enfants recueillis, c'est-à-dire de l'ex-conjoint éventuel ou du (de la) concubin(e) du salarié décédé qui ont vécu au foyer au moment du décès et si leur autre parent n'est pas tenu au versement d'une pension alimentaire.<br/>Sont également considérés comme personnes étant à la charge du salarié les descendants ou ascendants reconnus comme tels par l'administration fiscale pour le calcul du quotient familial.</em>
+</p>
+<p>
+<em>4. Conjoint ou concubin. - Définition</em>
+</p>
+<p>
+<em>On entend comme conjoint l'époux ou l'épouse du salarié non divorcé par un jugement définitif.<br/>Le concubinage est considéré comme notoire et permanent et ouvre donc droit aux prestations dévolues au conjoint dès lors que le salarié et son concubin sont célibataires ou veufs ou divorcés, et :<br/>- qu'il existe entre les 2 concubins un certificat valable délivré par une mairie ;<br/>- qu'un enfant reconnu des 2 parents est né de l'union ;<br/>- à défaut, qu'il peut être prouvé une période de 2 ans de vie commune.</em>
+</p>
+<p>
+<em>5. Exclusions</em>
+</p>
+<p>
+<em>Tous les risques de décès sont garantis, qu'elle qu'en soit la cause, sous les réserves ci-après :<br/>- en cas de guerre, la garantie n'aura d'effet que dans les conditions qui seront déterminées par la législation à intervenir sur les assurances sur la vie en temps de guerre ;<br/>- les décès dus aux effets directs ou indirects d'explosion, de chaleur ou de radiations provenant d'une transmutation du noyau de l'atome, telle que par exemple : la fission, la fusion, la radioactivité, ou du fait de radiations provoquées par l'accélération artificielle de particules atomiques, sont exclus.<br/>6. Maintien de la garantie décès aux bénéficiaires de la garantie de salaire ou invalidité en cas de résiliation ou non-renouvellement du contrat d'adhésion<br/>En cas de résiliation ou de non-renouvellement du contrat d'adhésion à AG2R Prévoyance, le maintien de la garantie décès est accordé aux assurés en arrêt de travail pour maladie, accident, invalidité bénéficiant de prestations complémentaires d'incapacité de travail ou d'invalidité dans les conditions ci-après :<br/>- le décès doit être survenu postérieurement à la date d'effet de la résiliation de la garantie décès ;<br/>- la garantie décès est maintenue :<br/>- au plus tard jusqu'au 1 095e jour d'arrêt de travail indemnisé à titre complémentaire pour incapacité de travail par AGR2R Prévoyance ou par l'organisme assureur de l'adhérent sans pouvoir dépasser la date de liquidation de la pension de vieillesse de l'intéressé ;<br/>- au plus tard jusqu'à la date d'acquisition de la pension du régime d'assurance vieillesse en cas d'invalidité indemnisée à titre complémentaire par AG2R Prévoyance ou par l'organisme assureur de l'adhérent.<br/>N'entre pas dans le maintien de cette garantie l'invalidité absolue et définitive de l'assuré survenant postérieurement à la date d'effet de la résiliation ou du non-renouvellement.<br/>La revalorisation du salaire de référence servant au calcul des prestations est arrêtée à la date d'effet de la résiliation ou du non-renouvellement du contrat d'adhésion.<br/>Les exclusions de garantie AG2R Prévoyance prévues lorsque le contrat d'adhésion est en vigueur s'appliquent également à la garantie décès maintenue en cas de résiliation ou de non-renouvellement.</em>
+</p>
+<p>
+<font color="#808080">
+<em>
+ (1) Article exclu de l'extension comme étant contraire aux dispositions de l'article L. 912-3 du code de la sécurité sociale qui prévoient la poursuite et les modalités de la revalorisation des rentes en cours en cas de changement d'organisme assureur.  <br/>(Arrêté du 30 juillet 2008, art. 1er)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>en vigueur le 1er jour du mois suivant l'extension</CONDITION_DIFFERE>
+<LIENS>
+
+
+<LIEN cidtexte="KALITEXT000027547530" datesignatexte="2012-10-10" id="KALIARTI000027547534" naturetexte="Avenant" nortexte="ASET1350321M" num="1er" numtexte="16" sens="cible" typelien="CITATION">Régime de prévoyance - art. 1er (VE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

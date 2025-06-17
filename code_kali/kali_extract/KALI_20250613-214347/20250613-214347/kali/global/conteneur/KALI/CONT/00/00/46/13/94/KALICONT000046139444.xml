@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000046139444</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/46/13/94/KALICONT000046139444.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des opérateurs de voyages et des guides du 19 avril 2022 - Étendue par arrêté du 22 sept. 2023 JORF 14 octobre 2023</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3245</NUM>
+
+<DATE_PUBLI>2022-05-13</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000046076386" titretxt="Convention collective nationale du 19 avril 2022"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000031415935" titretxt="Annexe 3 Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000031874310" titretxt="Annexe 4 Régime de remboursement de frais de santé dans la branche des agences de voyages et de tourisme"/>
+<LIEN_TXT idtxt="KALITEXT000033016937" titretxt="Annexe 5 Salariés sous contrat à durée déterminée d'usage"/>
+<LIEN_TXT idtxt="KALITEXT000041405664" titretxt="Annexe 6 Mise à disposition des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000041944632" titretxt="Annexe 7 Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000041698853" titretxt="Annexe 8 Reconversion ou promotion par alternance (Pro-A)"/>
+<LIEN_TXT idtxt="KALITEXT000043511064" titretxt="Annexe 9 Activité partielle de longue durée (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000046226104" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000047515063" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000047881250" titretxt="Dispositif d'intéressement"/>
+<LIEN_TXT idtxt="KALITEXT000048044464" titretxt="Modification des dispositions générales de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000048437053" titretxt="Modification des dispositions de la CCN"/>
+<LIEN_TXT idtxt="KALITEXT000048674700" titretxt="Télétravail"/>
+<LIEN_TXT idtxt="KALITEXT000049300859" titretxt="Modification des dispositions de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000049508802" titretxt="Modification article 11.1.5 de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000050699784" titretxt="Prévoyance complémentaire des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000050699925" titretxt="Régime de remboursement de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000051447518" titretxt="Catégories de bénéficiaires du régime de protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000051447544" titretxt="Modernisation des dispositions de la convention"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000047734543" titretxt="Salaires minima au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049439528" titretxt="Salaires minima conventionnels 2024 et 2025"/>
+<LIEN_TXT idtxt="KALITEXT000051447495" titretxt="Salaires minima hiérarchiques au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Opérateurs de voyages et guides</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH/>
+
+
+</IDCC>

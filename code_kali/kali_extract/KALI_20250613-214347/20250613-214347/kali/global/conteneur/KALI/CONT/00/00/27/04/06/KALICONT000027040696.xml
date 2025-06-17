@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000027040696</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/27/04/06/KALICONT000027040696.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des 5 branches industries alimentaires diverses du 21 mars 2012 </TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>3109</NUM>
+
+<DATE_PUBLI>2012-03-21</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU>
+  <p>Champ d'application fusionné avec celui de la convention collective nationale des pâtes alimentaires sèches et du couscous non préparé (IDCC 1987) par arrêté du 3 juin 2024.</p>
+</CONTENU>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000027035745" titretxt="Convention collective nationale des 5 branches industries alimentaires diverses"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000020468494" titretxt="Classifications"/>
+<LIEN_TXT idtxt="KALITEXT000028354454" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000029558177" titretxt="Révision de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000031195253" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000034822326" titretxt="Modification de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000034822343" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000033295049" titretxt="Adhésion de l'association des entreprises des glaces à la convention"/>
+<LIEN_TXT idtxt="KALITEXT000037651889" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000038550479" titretxt="Mise en place de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000039748273" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000044091512" titretxt="Congés pour événements familiaux"/>
+<LIEN_TXT idtxt="KALITEXT000048052680" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000049100472" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000049366639" titretxt="Minima conventionnels, autorisation d'absence en cas de décès d'un enfant et prime annuelle"/>
+<LIEN_TXT idtxt="KALITEXT000049916661" titretxt="Classification conventionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000050228910" titretxt="Régime de prévoyance pour les salariés cadres"/>
+<LIEN_TXT idtxt="KALITEXT000050228881" titretxt="Intégration facultative de certains salariés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000050828771" titretxt="Emploi des personnes en situation de handicap"/>
+<LIEN_TXT idtxt="KALITEXT000050962394" titretxt="Congé de proche aidant"/>
+<LIEN_TXT idtxt="KALITEXT000051019593" titretxt="Régime de prévoyance"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000025773662" titretxt="Salaires et primes pour l'année 2012"/>
+<LIEN_TXT idtxt="KALITEXT000027627457" titretxt="Salaires et primes au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000029077672" titretxt="Salaires minima conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000032888018" titretxt="Salaires minima conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000035744392" titretxt="Salaires minima conventionnels au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037433346" titretxt="Salaires minima conventionnels au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000043085036" titretxt="Salaires minima au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045976857" titretxt="Salaires au 1er janvier 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047416410" titretxt="Salaires minima conventionnels au 1er janvier 2023"/>
+<LIEN_TXT idtxt="KALITEXT000048052692" titretxt="Salaires minima au 1er juillet 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051447473" titretxt="Minima conventionnels, indemnités et primes au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Industries alimentaires diverses</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3384</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

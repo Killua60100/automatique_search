@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000042252597</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/42/25/25/KALIARTI000042252597.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Périodicité de versement</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-04-11</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="KALISCTA000028053375">ANNEXES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2020-04-11" fin="2999-01-01" id="KALISCTA000042252611">Annexe III : Techniciens de la production cinématographique - Intéressement aux recettes d'exploitation</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-04-11" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000042252597" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Chaque année, pendant une durée de 5 ans à compter de la sortie du film, le producteur transmet des redditions de comptes aux salariés bénéficiaires d'intéressements en vertu de l'annexe III.</p>
+<p align="left">La première reddition de comptes doit être communiquée aux salariés à partir de 10 mois à compter de la sortie du film et au plus tard dans un délai de 18 mois à compter de cette date.</p>
+<p align="left">Chaque reddition de comptes doit être détaillée, préciser les montants d'intéressements revenant aux salariés bénéficiaires et être dûment certifiée par le producteur.</p>
+<p align="left">Les versements des intéressements dus aux salariés qui en sont bénéficiaires interviennent dans les 2 mois de la transmission de chaque reddition de comptes et font l'objet de bulletins de paie.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000041698920" datesignatexte="2019-10-25" id="KALIARTI000041698928" naturetexte="Avenant" nortexte="ASET1951432M" num="4" numtexte="" sens="cible" typelien="CREE">Modification des titres Ier et II de la convention - art. 4 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

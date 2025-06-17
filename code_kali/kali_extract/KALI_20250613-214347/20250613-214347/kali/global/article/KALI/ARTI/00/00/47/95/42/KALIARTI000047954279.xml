@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000047954279</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/47/95/42/KALIARTI000047954279.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+<TITRE>Salaire de référence des prestations</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-10-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045110651" date_publi="2022-02-02" date_signature="2021-10-19" nature="Accord" nor="ASET2151102M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance collectif" debut="2022-01-01" fin="2999-01-01" id_txt="KALITEXT000045110651">Accord du 19 octobre 2021 relatif au régime de prévoyance collectif</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635594" date_publi="2005-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1483" titre="Convention collective nationale du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987, révisée par avenant du 17 juin 2004" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635594.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-10-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000047954279" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2022-01-01" etat="REMPLACE" fin="2023-10-01" id="KALIARTI000045110810" num="5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">5.1.   Salaire de référence servant de base au calcul de la garantie décès – IAD</p>
+<p align="left">Le salaire de référence servant de base au calcul de la garantie décès-IAD correspond au total des rémunérations brutes tranches 1 et 2 limitée à 4 plafonds annuels de la sécurité sociale perçues aux cours de 12 mois civils précédant l'arrêt de travail ou le décès ayant donné lieu à cotisations (y compris les primes, les gratifications et le 13e mois). Dans le cas où la période d'assurance est inférieure à 12 mois, le salaire de référence défini ci-dessus est reconstitué sur une base annuelle. Pour les salariés à temps partiel, le salaire de référence est reconstitué sur la base annuelle, prenant en compte la durée effective de travail, et non la base d'un temps plein.</p>
+<p align="center">5.2.   Salaire de référence servant de base au calcul de la garantie rente éducation et rente de conjoint substitutive</p>
+<p align="left">Le salaire de référence servant de base au calcul de la garantie rente éducation ou rente de conjoint substitutive est égal au total des rémunérations brutes perçues au cours des 12 mois civils précédant l'arrêt de travail ou le décès (y compris les primes, les gratifications et le 13e mois), dans la limite de la tranche 2 limitée à 4 plafonds annuels de la sécurité sociale incluse. Pour les salariés à temps partiel, le salaire de référence au calcul de la rente éducation ou rente temporaire de conjoint substitutive est reconstitué sur la base annuelle prenant en compte la durée effective du travail, et n'est pas reconstitué sur la base d'un temps plein, sans pouvoir pour la rente éducation ou la rente temporaire de conjoint substitutive, être inférieur au Smic annuel brut pour 151,67 heures de travail.</p>
+<p align="left">Lorsque le salarié décédé ne bénéficie pas de 12 mois d'activité dans la branche, le salaire de référence pour le calcul de la rente éducation ou rente de conjoint substitutive est reconstitué sur une base annuelle sans pouvoir pour la rente éducation ou la rente de conjoint substitutive, être inférieure au Smic annuel brut pour 151,67 heures de travail.</p>
+<p align="center">5.3.   Salaire de référence servant de base au calcul des garanties incapacité temporaire de travail, invalidité et incapacité permanente professionnelle (IPP)</p>
+<p align="left">Le salaire de référence servant de base au calcul des garanties incapacité temporaire de travail, invalidité et incapacité permanente professionnelle (IPP) est égal à la moyenne mensuelle des rémunérations brutes perçues au cours des 12 mois civils précédant l'arrêt de travail (y compris les primes, les gratifications et le 13e mois). Dans le cas où la période d'assurance est inférieure à 12 mois, le salaire de référence défini ci-dessus est reconstitué sur une base annuelle.</p>
+<p align="center">5.4.   Salaire de référence des prestations lorsque le salarié bénéficie ou a bénéficié d'un revenu de remplacement</p>
+<p align="left">Lorsque le salarié bénéficie ou a bénéficié d'un revenu de remplacement versé par l'employeur (allocation de reclassement, allocation versée dans le cadre du congé de mobilité, etc.), au cours de la période de référence, le salaire servant de base au calcul des prestations est également constitué de ce revenu de remplacement ayant été soumis à cotisation au titre du contrat d'assurance souscrit. Ce revenu de remplacement est celui versé par l'employeur durant la période de maintien des garanties et s'entend brut de cotisations et contributions de sécurité sociale.</p>
+<p align="left">Toutefois, lorsque le salarié bénéficie ou a bénéficié d'indemnités d'activité partielle (de droit commun ou de longue durée) au cours de la période de référence, le salaire servant de base au calcul des prestations est le salaire que le salarié aurait perçu s'il n'avait pas été mis en activité partielle, correspondant à la moyenne des rémunérations brutes soumises à cotisation du contrat perçues au cours des 12 mois précédant la période d'activité partielle.</p>
+<p align="left">Compte tenu de l'incertitude sur le coût effectif de cet aménagement, ce principe de reconstitution du salaire de référence en cas d'activité partielle est mis en place pour une durée limitée de deux ans, courant à compter de la prise d'effet du présent avenant.</p>
+<p align="left">Les partenaires sociaux et les organismes recommandés s'engagent à réexaminer ce principe, au moins 6 mois avant le terme de la période susvisée.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000047951418" datesignatexte="2023-05-16" id="KALIARTI000047951425" naturetexte="Avenant" nortexte="ASET2350688M" num="3" numtexte="2" sens="cible" typelien="MODIFIE">Régime de prévoyance collectif - art. 3 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000043263554</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/43/26/35/KALIARTI000043263554.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE>Cotisations</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2021-01-01</DATE_DEBUT>
+<DATE_FIN>2025-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000030778532" date_publi="2999-01-01" date_signature="2014-12-15" nature="Accord" nor="ASET1550422M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Prévoyance" debut="2015-01-01" fin="2999-01-01" id_txt="KALITEXT000030778532">Accord du 15 décembre 2014 relatif au régime de prévoyance</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635550" date_publi="2000-03-01" etat="VIGUEUR_ETEN" nature="IDCC" num="2098" titre="Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire du 13 août 1999" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635550.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2021-01-01" etat="REMPLACE" fin="2025-01-01" id="KALIARTI000043263554" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2015-07-01" etat="REMPLACE" fin="2018-07-01" id="KALIARTI000030788601" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2015-01-01" etat="MODIFIE" fin="2015-03-16" id="KALIARTI000030778555" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2018-07-01" etat="REMPLACE" fin="2021-01-01" id="KALIARTI000038062388" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2025-01-01" etat="REMPLACE" fin="2025-04-01" id="KALIARTI000050977781" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-04-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051476258" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p align="center">6.1. Taux global de cotisation</p>
+<p align="left">Les partenaires sociaux ont convenu retenir les taux contractuels suivants :</p>
+<p align="left">Pour l'ensemble du personnel non affilié à l'AGIRC :<br/>
+1,55 % de la tranche A et de la tranche B.</p>
+<p align="left">Pour l'ensemble du personnel affilié à l'AGIRC :<br/>
+1,99 % de la tranche A, de la tranche B et de la tranche C.</p>
+<p align="left">Toutefois, compte tenu des différentes projections étudiées au cours de la négociation et vu la situation économique des entreprises et des salariés dans le cadre de la crise sanitaire traversée au cours de cette année 2020, les partenaires sociaux entendent retenir, du 1er janvier 2021 au 31 décembre 2021, les taux d'appel suivants :</p>
+<p align="left">Pour l'ensemble du personnel non affilié à l'AGIRC :<br/>
+1,47 % de la tranche A et de la tranche B.</p>
+<p align="left">Pour l'ensemble du personnel affilié à l'AGIRC :<br/>
+1,92 % de la tranche A, de la tranche B et de la tranche C.</p>
+<p align="center">6.2. Répartition de la cotisation</p>
+<p align="left">Pour les salariés non affiliés à l'AGIRC, la cotisation globale est répartie à hauteur de :<br/>
+– 55 % à la charge de l'employeur ;<br/>
+– 45 % à la charge du salarié.</p>
+<p align="left">Pour les salariés affiliés à l'AGIRC, la cotisation globale est répartie à hauteur de :<br/>
+– pour la tranche A : 100 % à la charge de l'employeur ;<br/>
+– pour les tranches B et C :<br/>
+– 55 % à la charge de l'employeur ;<br/>
+– 45 % à la charge du salarié.</p>
+<p align="left">Toute entreprise entrant dans le champ d'application du présent accord qui ne serait pas couverte par l'un des assureurs recommandés par le régime conventionnel devra s'assurer que son contrat d'assurance respecte la répartition susvisée de la contribution globale au régime.</p>
+<p align="left">En particulier, et compte tenu du taux unique de la cotisation globale applicable entre le 1er juillet 2015 et le 31 décembre 2015, la fraction de la part salariale ne pourra pas être supérieure aux taux suivants :</p>
+<p align="left">Pour les salariés non affiliés à l'AGIRC :<br/>
+– 0,4815 % TA et TB.</p>
+<p align="left">Pour les salariés affiliés à l'AGIRC :<br/>
+– 0 % TA ;<br/>
+– 0,648 % TB et TC.</p>
+<p align="left">Le pourcentage maximum de la part salariale devra être respecté quelle que soit l'évolution du taux unique global du régime, en particulier lorsqu'il évoluera au 1er janvier 2016, notamment.</p>
+<p align="center">6.3. Financement du mécanisme de portabilité</p>
+<p align="left">Le présent régime prévoit le maintien des garanties de prévoyance aux salariés dont le contrat de travail est rompu, ce maintien étant financé par les cotisations versées pour les salariés actifs (part patronale et part salariale) dans les répartitions de la cotisation globale définie ci-dessus, conformément aux termes du protocole technique annexé et indivisible du présent accord.</p>
+<p align="center">6.4. Financement de prestations à caractère non directement contributif</p>
+<p align="left">6.4.1. Financement des prestations à caractère non directement contributif</p>
+<p>Conformément à l'objectif de solidarité poursuivi, le financement des prestations à caractère non directement contributif prévues par le présent accord est fixé à hauteur de 2 % de la cotisation globale en vigueur au titre du présent régime de prévoyance.</p>
+<p>Cette part de la cotisation globale est collectée directement par les assureurs sur les cotisations qu'ils perçoivent des entreprises.</p>
+<p>6.4.2. Nature des prestations à caractère non directement contributif</p>
+<p>Compte tenu de l'historique du régime et de la nouveauté que présente la mise en œuvre de telles prestations, il a été convenu par les partenaires sociaux de retenir les prestations dans les conditions visées ci-après.</p>
+<p>Pour la première année de fonctionnement du régime de prévoyance assorti d'une clause de recommandation, il est convenu que la branche, au titre des prestations à caractère non directement contributif :</p>
+<p>- mettent en œuvre des études et diagnostics, en collaboration avec les assureurs recommandés, pour identifier des actions propres au champ professionnel de la convention collective.</p>
+<p>Les partenaires sociaux confient la réalisation de ces études et diagnostics aux assureurs recommandés, qui pourront, le cas échéant et après information de la branche, s'adjoindre des services d'un prestataire extérieur.</p>
+<p>Ces études et diagnostics ont pour objectif :</p>
+<p>i) En priorité, de déterminer des actions de prévention qui pourraient être mises en place en application du 2° de l'article R. 912-2 du code de la sécurité sociale, étant entendu que la branche entend prioriser, au titre de futures actions prioritaires, la réduction du risque incapacité de travail et une politique visant à faciliter le retour à l'emploi des salariés en incapacité de travail ;</p>
+<p>ii) Subsidiairement, d'identifier les populations qui pourraient bénéficier d'une prise en charge totale ou partielle de la cotisation en application du 1° de ce même article.</p>
+<p>Les conclusions de ces études et diagnostics seront présentées aux partenaires sociaux avant la fin de la première année de fonctionnement du régime de prévoyance assorti d'une clause de recommandation, au plus tard le 1er juillet 2016 ;</p>
+<p>- sur cette même période, il est convenu par les partenaires sociaux de mettre en œuvre des actions transverses d'information et de sensibilisation des entreprises et des salariés de la branche sur l'autoévaluation des risques professionnels, notamment en cas d'exercice de missions entraînant des postures difficiles ou encore de travail continu sur écran...</p>
+<p>Il est expressément précisé que ces actions devront bénéficier à toutes les entreprises et à l'ensemble des salariés couverts par l'accord du 15 décembre 2014, qu'ils adhèrent ou non à l'un des organismes assureurs recommandés au titre de cet accord. Il est de la responsabilité des entreprises qui n'adhèrent pas à l'un des organismes recommandés d'organiser avec leur propre assureur les actions décidées par la branche et d'en informer les partenaires sociaux.</p>
+<p>À compter de la deuxième année de fonctionnement du régime de prévoyance et compte tenu des conclusions tirées des études et diagnostics susvisés, les partenaires sociaux viendront préciser, par voie d'avenant, les actions propres jugées pertinentes au niveau de la branche à mettre en œuvre en application de l'accord du 15 décembre 2014, au plus tard le 1er juillet 2016.</p>
+<p>Il est expressément rappelé que la branche priorisera des actions au titre du 2°, voire du 1°, de l'article R. 912-2 du code de la sécurité sociale compte tenu des conclusions des études et diagnostics susvisés.</p>
+<p>6.4.3. Mise en œuvre et contrôle de la politique de solidarité conventionnelle</p>
+<p>Les partenaires sociaux rappellent qu'ils détermineront les orientations de la politique de solidarité en application de l'accord du 15 décembre 2014 en commission paritaire de prévoyance.</p>
+<p>Pour ce faire, ils prendront notamment en compte les préconisations des assureurs recommandés et l'évolution générale du régime de prévoyance afin d'assurer l'effectivité des actions prioritaires déterminées par voie conventionnelle.</p>
+<p>Il est expressément précisé que la commission paritaire a vocation à contrôler la mise en œuvre des orientations politiques susvisées par tous les organismes auprès desquels les entreprises organisent la couverture des salariés, conformément aux termes du décret n° 2014-1498 du 11 décembre 2014.</p>
+<p>La commission paritaire pourra se saisir ou être saisie de toute difficulté dans la mise en œuvre de ces orientations par les organismes assureurs couvrant des entreprises entrant dans le champ de l'accord du 15 décembre 2014.</p>
+<p align="center">6.5. Financement des revalorisations</p>
+<p align="left">Le financement des revalorisations des sinistres en cours sera assuré dans les conditions régies par les dispositions du contrat cadre susvisé, indivisible du présent accord</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000033016863" datesignatexte="2016-04-19" id="KALIARTI000033016873" naturetexte="Accord" nortexte="ASET1650654M" num="2" numtexte="" sens="cible" typelien="CITATION">Degré de solidarité du régime de prévoyance et ... - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000043251163" datesignatexte="2020-10-26" id="KALIARTI000043251178" naturetexte="Avenant" nortexte="ASET2051013M" num="3.2" numtexte="" sens="cible" typelien="MODIFIE">Prévoyance (clause de recommandation et révisio... - art. 3.2 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

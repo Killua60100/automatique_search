@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050962406</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/96/24/KALIARTI000050962406.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3.2</NUM>
+<TITRE>Délai en cas de passage à temps partiel ou de fractionnement du congé</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-11-18</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050962394" date_publi="2025-01-09" date_signature="2024-10-17" nature="Avenant" nor="ASET2450906M" num="26" num_parution_jo="">
+<TITRE_TXT c_titre_court="Congé de proche aidant" debut="2024-11-18" fin="2999-01-01" id_txt="KALITEXT000050962394">Avenant n° 26 du 17 octobre 2024 relatif au congé de proche aidant</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000027040696" date_publi="2012-03-21" etat="VIGUEUR_ETEN" nature="IDCC" num="3109" titre="Convention collective nationale des 5 branches industries alimentaires diverses du 21 mars 2012 " url="conteneur/KALI/CONT/00/00/27/04/06/KALICONT000027040696.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-11-18" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050962406" num="3.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le salarié peut, avec l'accord de son employeur, transformer le congé de proche aidant en période d'activité à temps partiel ou fractionner ce congé.</p>
+<p align="left">Si l'employeur accepte que le congé soit fractionné ou transformé en temps partiel, le salarié alterne alors des périodes travaillées et périodes de congé.</p>
+<p align="left">Au moins 1 mois avant, le salarié doit informer son employeur par tout moyen conférant date certaine :<br/>
+– de sa demande de fractionnement du congé ;<br/>
+– de sa demande de transformation à temps partiel du congé ;<br/>
+– de la date de mise en œuvre souhaitée.</p>
+<p align="left">L'employeur dispose d'un délai de 15 jours pour lui répondre. À défaut de réponse dans les 15 jours, la demande du salarié est réputée acceptée.</p>
+<p align="left">En cas de fractionnement, le salarié doit avertir son employeur au moins 48 heures avant la date à laquelle il entend prendre chaque période de congé fractionné, étant précisé que la durée minimale de chaque période est d'une demi-journée.</p>
+<p align="left">Un avenant au contrat de travail sera prévu en cas de temps partiel.</p>
+<p align="left">Le fractionnement peut être accordé sans délai en cas :<br/>
+– de dégradation soudaine de l'état de santé de la personne aidée, constatée par écrit par un médecin qui établit un certificat médical ;<br/>
+– de situation de crise nécessitant une action urgente du proche aidant, constatée par écrit par un médecin qui établit un certificat médical (qui doit être transmis au plus tard 8 jours après l'évènement) ;<br/>
+– de cessation brutale de l'hébergement en établissement dont bénéficiait la personne aidée, attestée par le responsable de cet établissement.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

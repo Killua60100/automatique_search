@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050027989</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/02/79/KALIARTI000050027989.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050027943" date_publi="2024-07-18" date_signature="2024-05-22" nature="Accord" nor="ASET2450548M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="CQP et CQPI" debut="2025-07-01" fin="2999-01-01" id_txt="KALITEXT000050027943">Accord du 22 mai 2024 relatif aux CQP et aux CQPI</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027950">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027986">Annexe 1 Fiche synthétique CQP « Opérateur de fabrication caoutchouc »</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635597" date_publi="1953-03-06" etat="VIGUEUR_ETEN" nature="IDCC" num="45" titre="Convention collective nationale du caoutchouc du 6 mars 1953. Étendue par arrêté du 29 mai 1969 JORF 18 juin 1969 " url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635597.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027989" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">I. Métier, fonctions et activités visés par la qualification</p>
+<p align="center">1. Désignation du métier ou des fonctions en lien avec la qualification</p>
+<p align="left">Opérateur(trice) de fabrication caoutchouc.</p>
+<p align="center">2. Description de la qualification</p>
+<p align="left">L'opérateur(rice) de fabrication caoutchouc réalise une ou plusieurs opérations diverses de fabrication (mélange, enduction, calandrage, vulcanisation, moulage, injection, extrusion) d'assemblage, de finition et/ou de conditionnement de pièces caoutchouc, manuellement ou sur machines.</p>
+<p align="left">Dans le cadre d'un mode opératoire précis, à partir des gammes de travail définies et en appliquant les instructions, dans le respect des consignes de fabrication, de qualité, de sécurité et de protection de l'environnement.</p>
+<p align="left">Les principales situations professionnelles rencontrées sont les suivantes :<br/>
+– préparation et démarrage des installations, machines, accessoires et postes de travail ;<br/>
+– poursuite d'une production, à la prise de poste, selon les indications du dossier de production et/ou des consignes orales ou écrites ;<br/>
+– mise en production (lancement ou poursuite de production) selon les indications du manuel de poste et du dossier machine afin de garantir le bon fonctionnement des machines et la sécurité du personnel ;<br/>
+– conduite du système de production en mode normal, selon les instructions, du dossier machine, du manuel de poste et/ou des consignes orales ou écrites afin d'assurer le bon déroulement et la sécurité de la production ;<br/>
+– mise en œuvre des procédures appropriées en mode dégradé selon les instructions, afin d'assurer la poursuite de la production dans les meilleures conditions de fonctionnement et de sécurité ;<br/>
+– mise en œuvre de la procédure marche/arrêt et redémarrage selon les indications du manuel de poste et du dossier machine afin de garantir le bon fonctionnement des machines et la sécurité du personnel ;<br/>
+– entretien et maintenance des équipements en mettant en application les procédures d'entretien afin d'identifier les éventuels dysfonctionnements et anomalies de l'installation (il s'agit d'interventions ne nécessitant pas de qualification particulière) ;<br/>
+– enregistrer et transmettre les informations liées à la production en utilisant les supports prévus afin d'assurer le suivi de la production et la sécurité des équipements.</p>
+<p align="center">II. Positionnement du CQP dans la grille de classification de la convention collective nationale du caoutchouc</p>
+<p align="left">Le CQP « Opérateur de fabrication caoutchouc » est positionné comme suit : niveau II, échelon 23, coefficient 180.</p>
+<p align="left">Sont bénéficiaires du niveau, de l'échelon et du coefficient indiqués ci-dessus les candidats ayant obtenu le CQP et exerçant effectivement l'emploi visé par le CQP, ces deux conditions étant cumulatives.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

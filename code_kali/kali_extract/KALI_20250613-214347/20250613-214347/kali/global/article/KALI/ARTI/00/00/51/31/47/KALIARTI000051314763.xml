@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051314763</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/31/47/KALIARTI000051314763.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051314748" date_publi="2025-03-12" date_signature="2024-12-30" nature="Avenant" nor="ASET2550098M" num="6" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de santé" debut="2025-01-01" fin="2999-01-01" id_txt="KALITEXT000051314748">Avenant n° 6 du 30 décembre 2024 à l'accord du 3 juillet 2015 relatif au régime frais de santé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-01-01" fin="2999-01-01" id="KALISCTA000051314751">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635252" date_publi="1993-06-02" etat="VIGUEUR_ETEN" nature="IDCC" num="1631" titre="Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993" url="conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635252.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051314763" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Conformément à l'article L. 912-1 du code de la sécurité sociale, à l'article 9 de l'avenant n° 5 du 30 décembre 2022 et à l'article 10.4 de l'accord du 3 juillet 2015 relatif à la couverture complémentaire obligatoire frais de santé, les partenaires sociaux de la branche de l'hôtellerie de plein air, ont procédé au réexamen des cotisations au régime frais de santé de l'organisme assureur recommandé au niveau de la branche.</p>
+<p align="left">En conséquence, il a été conclu le présent avenant qui annule et remplace les précédents tableaux de cotisations du régime frais de santé.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745472" naturetexte="CODE" nortexte="" num="L912-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L912-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

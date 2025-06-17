@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017870082</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/87/00/KALIARTI000017870082.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>19.11</NUM>
+<TITRE/>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2017-05-15</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-04-04" fin="2015-07-29" id="KALISCTA000020752005">Contrat à temps partiel</TITRE_TM>
+<TITRE_TM debut="2008-09-01" fin="2017-05-15" id="KALISCTA000031306827">Contrat à temps partiel</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2017-05-15" id="KALISCTA000020752105">Modalité annuelle du temps partiel</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2008-09-01" etat="ABROGE" fin="2017-05-15" id="KALIARTI000017870082" num="19.11" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La durée du travail est fixée en nombre d'heures sur une période de 12 mois. Elle est inférieure à 1 607 heures.<br/>La période de 12 mois correspond à l'année civile, sauf mention particulière dans le contrat définissant une autre période de 12 mois.<br/>La modulation peut concerner tous les salariés à temps partiel ou certains d'entre eux. Dans la limite annuelle fixée au contrat, la durée de travail hebdomadaire ou mensuelle des salariés à temps partiel peut varier sur tout ou partie de l'année dans les mêmes conditions que pour les salariés à temps complet.<br/>La durée minimale hebdomadaire ou mensuelle de travail est fixée, comme pour les salariés à temps complet, à 44 heures en période de pointe et 22 heures en période creuse.<br/>Comme pour les salariés à temps plein, le calendrier indicatif de la répartition du travail est porté à la connaissance des salariés concernés soit par affichage, soit par document remis en main propre à chaque salarié.<br/>Les délais de prévenance afférents aux modifications d'horaires définis à l'article 17.2 s'appliquent.<br/>La rémunération est calculée sur le volume global d'heures sur 12 mois divisé par 12 et comprend les congés payés.<br/>De manière générale, les modalités pratiques applicables sont identiques à celles prévues pour les salariés à temps complet.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000031284564" datesignatexte="2015-04-08" id="KALIARTI000031284570" naturetexte="Avenant" nortexte="ASET1550769M" num="2" numtexte="25" sens="cible" typelien="ABROGE">Travail à temps partiel - art. 2 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842662</ID>
+<ANCIEN_ID>KBKAAXXXXXX00006XAAXSXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/26/KALIARTI000005842662.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>2014-05-12</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720846">Comité d'entreprise</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="1978-02-15" id="KALIARTI000005842661" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2014-05-12" id="KALIARTI000005842662" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2014-05-12" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000029459577" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le statut, l'organisation, la mission, le nombre, le mode d'élection des membres du comité sont déterminés par la loi. </p>
+<p>Les dispositions prévues à l'article précédent pour les élections des délégués du personnel seront également applicables aux élections des membres du comité d'entreprise. </p>
+<p>La gestion et le financement des oeuvres sociales sont assurés par le comité d'entreprise. </p>
+<p>Les ressources du comité d'entreprise sont assurées conformément aux dispositions de l'article R. 432-12 du code du travail. Les sommes versées par l'employeur pour le financement des oeuvres sociales ne seront pas inférieures à 1 % du montant de la masse des salaires bruts. <i>Dans les laboratoires où le comité d'entreprise refusera d'assumer la gestion d'une partie des oeuvres sociales, un accord particulier devra intervenir pour fixer la contribution à verser au comité (1). </i>
+</p>
+<p>
+<font color="#808080" size="1">
+<i>(1) Phrase exclue de l'extension (arrêté du 20 novembre 1978, art. 1er).</i>
+</font>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006809987" naturetexte="CODE" nortexte="" num="R432-12" numtexte="" sens="source" typelien="CITATION">Code du travail - art. R432-12 (Ab)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur  le 15 février 1978</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

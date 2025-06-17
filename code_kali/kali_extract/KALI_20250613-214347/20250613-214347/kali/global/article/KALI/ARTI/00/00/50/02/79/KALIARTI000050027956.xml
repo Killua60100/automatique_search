@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050027956</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/02/79/KALIARTI000050027956.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Création, mise en œuvre, révision et suppression des CQP</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050027943" date_publi="2024-07-18" date_signature="2024-05-22" nature="Accord" nor="ASET2450548M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="CQP et CQPI" debut="2025-07-01" fin="2999-01-01" id_txt="KALITEXT000050027943">Accord du 22 mai 2024 relatif aux CQP et aux CQPI</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027948">Chapitre 2 Certificats de qualification professionnelle (CQP)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635597" date_publi="1953-03-06" etat="VIGUEUR_ETEN" nature="IDCC" num="45" titre="Convention collective nationale du caoutchouc du 6 mars 1953. Étendue par arrêté du 29 mai 1969 JORF 18 juin 1969 " url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635597.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027956" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">La décision de créer un CQP, de mettre en œuvre un CQP existant, de réviser un CQP existant ou de supprimer un CQP existant émane de la CPNEFP.</p>
+<p align="left">La CPNEFP peut être saisie d'une demande de CQP par toutes organisations syndicales de salariés et d'employeurs représentatives dans la branche du caoutchouc ayant identifié un besoin récurrent de qualification non couvert par les formations diplômantes au sein de l'éducation nationale et les formations certifiantes au sein de la branche professionnelle.</p>
+<p align="left">Toute demande de création d'un CQP, de mise en œuvre d'un CQP existant, de révision d'un CQP existant ou de suppression d'un CQP existant est adressée à la CPNEFP. La demande est motivée.</p>
+<p align="left">La CPNEFP statue sur l'opportunité de créer ou de mettre en œuvre un CQP au vu des formations certifiantes déjà existantes au RNCP (Registre national des certifications professionnelles) géré par France compétences. La création ou la mise en œuvre d'un CQP doit s'inscrire dans la complémentarité vis-à-vis des diplômes, titres à finalité professionnelle et certifications professionnelles déjà existants.</p>
+<p align="left">Dès la création d'un CQP, une fiche synthétique est élaborée et annexée au présent accord, sur le même modèle que celui existant et joint en annexe. Cette fiche peut être mise à jour, par la CPNEFP, en cours de mise en œuvre du CQP existant en cas de besoin ou lors de la révision du CQP existant.</p>
+<p align="left">Les CQP créés ou révisés, ainsi que les référentiels associés, sont transmis à France compétences, en vue de leur enregistrement, au Répertoire national des certifications professionnelles (RNCP) et à la Caisse des dépôts et consignations.</p>
+<p align="left">En vue de satisfaire aux formalités administratives de dépôt des certifications auprès de France compétences et de la Caisse des dépôts et consignations, ainsi que de leur enregistrement dans le Répertoire national des certifications professionnelles (RNCP) et le répertoire spécifique (RS), la CPNEFP délègue à Elanova les droits et obligations associés. La CPNEFP du caoutchouc assure le suivi de l'application de la présente disposition.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842709</ID>
+<ANCIEN_ID>KBKAAXXXXXX00029XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/27/KALIARTI000005842709.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>29</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720869">Commission nationale paritaire de conciliation</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1978-02-15" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005842709" num="29" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>   Il est constitué une commission paritaire nationale de conciliation. Son rôle est de donner un avis sur les difficultés collectives d'application de la présente convention.</p>
+<p>   La commission est composée de deux représentants titulaires et d'un suppléant de chacune des organisations syndicales signataires, et d'un nombre égal de représentants, titulaires et suppléants, employeurs. Les uns et les autres sont désignés par leur organisation, et pourront être révoqués par elle à tout moment ; néanmoins, sauf cas de force majeure, aucune révocation ne pourra intervenir entre le moment où la commission aura été saisie d'un désaccord, et celui où elle rendra son avis, le différend devant être suivi depuis la saisine jusqu'à l'avis par les mêmes commissaires.</p>
+<p>   En ce qui concerne les conflits collectifs, et pour autant qu'il s'agisse de l'application de la présente convention, la commission saisie par une des parties concernées examinera dans les meilleurs délais les conditions de résolution des problèmes posés. Les syndicats nationaux signataires s'engagent à ne provoquer aucune mesure de fermeture du laboratoire ou de cessation du travail avant la fin de la procédure de conciliation. Cette procédure de conciliation ne sera engagée que si le conflit n'a pu être réglé au niveau local.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

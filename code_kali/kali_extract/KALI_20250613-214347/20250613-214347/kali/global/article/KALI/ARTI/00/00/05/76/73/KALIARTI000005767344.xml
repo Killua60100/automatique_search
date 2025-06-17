@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767344</ID>
+<ANCIEN_ID>KGOAAXXXXXX00036XACXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767344.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>36-2</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1996-04-01</DATE_DEBUT>
+<DATE_FIN>1997-04-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1996-04-01" fin="2999-01-01" id="KALISCTA000005690441">Prime de service minimum</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2012-09-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000026606520" num="36.2" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2007-07-20" etat="REMPLACE" fin="2012-09-01" id="KALIARTI000018649449" num="36-2" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1996-04-01" etat="REMPLACE" fin="1997-04-01" id="KALIARTI000005767344" num="36-2" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1997-04-01" etat="REMPLACE" fin="2007-07-20" id="KALIARTI000005767345" num="36-2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Dans les établissements à activité continue dans lesquels les salariés sont amenés à exercer une activité de restauration, ou de services à caractère hôtelier, au bénéfice de convives dépendants, un service minimum, qui ne saurait remettre en cause le droit de grève, sera en tous cas assuré.<br/>
+<br/>   Les personnes dépendantes sont celles qui requièrent une aide pour accomplir les actes élémentaires de la vie courante, à titre temporaire ou permanent, en raison d'un handicap physique et/ou psychique.<br/>
+<br/>   Dès lors, et en contrepartie, une prime de " service minimum " d'un montant brut de 120 F pour l'horaire mensuel en vigueur et applicable dans l'entreprise sera attribuée au salarié astreint à l'obligation de service minimum. Elle sera versée au prorata du temps de travail effectif sans pouvoir être inférieure à 50 p. 100 pour les salariés à temps partiel, pour un mois complet de travail.<br/>
+<br/>   Les salariés concernés qui travaillent dans le secteur à activité continue et qui en subissent les contraintes percevront la prime d'activité continue et, si ils y ont droit, de service minimum durant leurs congés payés s'il n'en est pas déjà tenu compte dans leur mode de calcul.<br/>
+<br/>   Les salariés bénéficiant de dispositions plus avantageuses à la date d'application du présent accord conservent les avantages de ces dispositions qui ne pourront, en aucun cas, se cumuler avec les dispositions présentes (par exemple : primes déjà existantes ayant le même objet, attribuées dans des conditions plus favorables et/ou d'un montant plus élevé que ceux prévus par le présent avenant).<br/>
+<br/>   Ces primes n'entrent pas dans le calcul du " revenu minimum ".<br/>
+<br/>   Cet avenant fera l'objet d'une annexe au contrat de travail des salariés concernés.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Avenant n° 17 1996-03-18 en vigueur le 1er avril 1996 BO conventions collectives 96-18, étendu par arrêté du 17 juillet 1996 JORF 27 juillet 1996</LIEN>
+<LIEN cidtexte="KALITEXT000026563112" datesignatexte="2012-06-04" id="KALIARTI000026563118" naturetexte="Avenant" nortexte="ASET1251129M" num="3" numtexte="49" sens="cible" typelien="CITATION">Revalorisation des primes - art. 3 (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

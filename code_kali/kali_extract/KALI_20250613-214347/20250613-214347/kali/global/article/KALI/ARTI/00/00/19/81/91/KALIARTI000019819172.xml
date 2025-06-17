@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000019819172</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/19/81/91/KALIARTI000019819172.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-03</DATE_DEBUT>
+<DATE_FIN>2011-09-07</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000019819141" date_publi="2999-01-01" date_signature="2008-09-03" nature="Avenant" nor="ASET0851091M" num="15" num_parution_jo="">
+<TITRE_TXT c_titre_court="Mise en place d'un régime de remboursements complémentaires de frais de soins de santé" debut="2009-03-01" fin="2999-01-01" id_txt="KALITEXT000019819141">Avenant n° 15 du 3 septembre 2008 relatif à la mise en place d'un régime de remboursements complémentaires de frais de soins de santé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-03-01" fin="2999-01-01" id="KALISCTA000019819170">Annexe</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635899" date_publi="1984-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1286" titre="Convention collective nationale des détaillants et détaillants-fabricants de la confiserie,  chocolaterie, biscuiterie du 1er janvier 1984.  Etendue par arrêté du 2 octobre 1984 JONC 12 octobre 1984.&#10;" url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635899.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2011-10-01" etat="REMPLACE" fin="2014-01-01" id="KALIARTI000026912508" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2011-10-01" etat="REMPLACE" fin="2011-10-01" id="KALIARTI000025786112" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2014-01-01" etat="REMPLACE" fin="2015-04-01" id="KALIARTI000028500532" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-09-03" etat="REMPLACE" fin="2011-09-07" id="KALIARTI000019819172" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2015-04-01" etat="REMPLACE" fin="2018-01-01" id="KALIARTI000031118542" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2018-07-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000038193269" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2017-07-01" etat="REMPLACE" fin="2018-07-01" id="KALIARTI000038193223" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000041799875" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-07-01" etat="MODIFIE" fin="2017-07-01" id="KALIARTI000038118563" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-07-01" etat="MODIFIE" fin="2018-07-01" id="KALIARTI000037813833" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Garanties</p>
+<div>
+<div align="center">
+
+<table border="1">
+<tr>
+<th>POSTES</th>
+<th colspan="2">PRESTATIONS COMPLÉMENTAIRES<br/>à la sécurité sociale</th>
+</tr>
+<tr>
+<th/>
+<th>Conventionné</th>
+<th>Non conventionné</th>
+</tr>
+<tr>
+<td align="center">Hospitalisation médicale et chirurgicale</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Frais de séjour</td>
+<td align="center">Ticket modérateur limité à 20 % de la BR + 50 % de la BR sur les dépassements</td>
+<td align="center">Ticket modérateur reconstitué sur le PU limité à 20 % du PU + 50 % de la BR sur les dépassements</td>
+</tr>
+<tr>
+<td align="center">Honoraires : actes de chirurgie (ADC), actes d'anesthésie (ADA), autres honoraires</td>
+<td align="center">Ticket modérateur limité à 20 % de la BR + 50 % de la BR sur les dépassements</td>
+<td align="center">Ticket modérateur reconstitué sur le PU limité à 20 % du PU + 50 % du PU sur les dépassements</td>
+</tr>
+<tr>
+<td align="center">Chambre particulière (y compris maternité)*</td>
+<td align="center">45 € par jour limité à 20 jours par an</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Forfait hospitalier engagé*</td>
+<td align="center">100 % des frais réels dans la limite de la législation en vigueur</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Frais d'accompagnement (enfant à charge &amp;lt; 16 ans sur présentation d'un justificatif) *</td>
+<td align="center">25 € par jour limité à 20 jours par an</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Transport (accepté sécurité sociale)</td>
+<td align="center">Ticket modérateur limité à 25 % du TR</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Actes médicaux</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Généralistes</td>
+<td align="center">Ticket modérateur limité à 30 % du TC + 15 % du TC sur les dépassements</td>
+<td align="center">Ticket modérateur conventionnel reconstitué limité à 30 % du TC + 15 % du TC sur les dépassements</td>
+</tr>
+<tr>
+<td align="center">Spécialistes</td>
+<td align="center">Ticket modérateur limité à 30 % du TC + 15 % du TC sur les dépassements</td>
+<td align="center">Ticket modérateur conventionnel reconstitué limité à 30 % du TC + 15 % du TC sur les dépassements</td>
+</tr>
+<tr>
+<td align="center">Actes de chirurgie (ADC), actes techniques (ATM)</td>
+<td align="center">Ticket modérateur limité à 30 % de la BR + 15 % de la BR sur les dépassements</td>
+<td align="center">Ticket modérateur reconstitué sur le PU limité à 30 % du PU + 15 % du PU sur les dépassements</td>
+</tr>
+<tr>
+<td align="center">Actes d'imagerie médicale (ADI), actes d'échographie (ADE)</td>
+<td align="center">Ticket modérateur limité à 30 % de la BR</td>
+<td align="center">Ticket modérateur reconstitué sur le PU limité à 30 % du PU</td>
+</tr>
+<tr>
+<td align="center">Auxiliaires médicaux</td>
+<td align="center">Ticket modérateur limité à 40 % du TC</td>
+<td align="center">Ticket modérateur conventionnel reconstitué limité à 40 % du TC</td>
+</tr>
+<tr>
+<td align="center">Analyses</td>
+<td align="center">Ticket modérateur limité à 40 % du TC</td>
+<td align="center">Ticket modérateur conventionnel reconstitué limité à 40 % du TC</td>
+</tr>
+<tr>
+<td align="center">Pharmacie (acceptée sécurité sociale)</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Vignette blanche</td>
+<td align="center">Ticket modérateur limité à 35 % TFR</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Vignette bleue</td>
+<td align="center">Ticket modérateur limité à 65 % TFR</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Vignette orange</td>
+<td align="center">Ticket modérateur limité à 85 % TFR</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Dentaire</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Soins dentaires</td>
+<td align="center">Ticket modérateur limité à 30 % du TC</td>
+<td align="center">Ticket modérateur conventionnel reconstitué limité à 30 % du TC</td>
+</tr>
+<tr>
+<td align="center">Inlay simple, onlay</td>
+<td align="center">200 % du tarif de convention</td>
+<td align="center">200 % du tarif de convention</td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires remboursées par la sécurité sociale</td>
+<td align="center">200 % du tarif de convention</td>
+<td align="center">200 % du tarif de convention</td>
+</tr>
+<tr>
+<td align="center">Inlay core et inlay à clavettes</td>
+<td align="center">100 % du tarif de convention</td>
+<td align="center">100 % du tarif de convention</td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires non remboursées par la sécurité sociale*</td>
+<td align="center">200 % du tarif de convention</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Orthodontie acceptée par la sécurité sociale</td>
+<td align="center">150 % du tarif de convention</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Orthodontie refusée par la sécurité sociale*</td>
+<td align="center">150 % du tarif de convention</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Prothèses non dentaires (acceptées par la sécurité sociale)</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Prothèses auditives</td>
+<td align="center">Crédit annuel de 400 € par bénéficiaire</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Orthopédie et autres prothèses</td>
+<td align="center">Crédit annuel de 400 € par bénéficiaire</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Optique</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Monture + verres</td>
+<td align="center">Limité à un équipement par an et par bénéficiaire</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Monture</td>
+<td align="center">Forfait de 60 €</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Verres unifocaux simples**</td>
+<td align="center">Forfait de 30 € par verre</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Verres unifocaux complexes**</td>
+<td align="center">Forfait de 50 € par verre</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Verres multifocaux ou progressifs simples**</td>
+<td align="center">Forfait de 50 € par verre</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Verres multifocaux ou progressifs complexes**</td>
+<td align="center">Forfait de 70 € par verre</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Lentilles acceptées par la sécurité sociale</td>
+<td align="center">Crédit annuel de 120 € par paire par bénéficiaire</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Lentilles refusées par la sécurité sociale (y compris lentilles jetables)*</td>
+<td align="center">Crédit annuel de 120 € par paire par bénéficiaire</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Prévention (décret n° 2005-1226 du 29 septembre 2005 et de ses arrêtés subséquents)</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Détartrage annuel complet sus et sous-gingival, effectué en 2 séances maximum</td>
+<td align="center">100 % du ticket modérateur</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Vaccin diphtérie, tétanos et poliomyélite</td>
+<td align="center">100 % du ticket modérateur</td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Actes hors nomenclature</td>
+<td align="center"> </td>
+<td align="center"> </td>
+</tr>
+<tr>
+<td align="center">Acupuncture, chiropractie, ostéopathie<br/>Intervention de praticiens inscrits auprès d'une association agréée</td>
+<td align="center">Prise en charge de 25 € par consultation avec un maximum de 4 prises en charge par an</td>
+<td align="center"> 
+</td>
+</tr>
+<tr>
+<td colspan="3"> BR = base de remboursement ; PU = prix unitaire ; TC = tarif de convention sécurité sociale ; TMC = ticket modérateur conventionnel (reconstitué en secteur non conventionné) ; RSS = remboursement sécurité sociale ; PMSS = plafond mensuel sécurité sociale.<br/>* Remboursé selon conditions définies nonobstant toutes interventions de la sécurité sociale.<br/>** Détail poste optique :<br/>Sont considérés comme relevant de corrections simples les verres définis ci-après :<br/>― unifocaux = sphère allant de ― 6,00 à + 6,00 avec ou sans cylindre inférieur ou égal à 4 ;<br/>― multifocaux = sphère allant de ― 4,00 à + 4,00 sans astigmatisme ou sphère de ― 8,00 ou + 8,00 en cas d'astigmatisme, et ce quel que soit la puissance du cylindre.<br/>Les verres différents de ceux désignés ci-dessus sont considérés comme relevant de corrections complexes.</td>
+</tr>
+</table>
+
+</div>
+</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>Le présent avenant prendra effet le premier jour du mois suivant la publication de son arrêté d'extension au Journal officiel et au plus tôt le 1er juillet 2009.</CONDITION_DIFFERE>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

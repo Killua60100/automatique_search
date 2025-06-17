@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045110945</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/11/09/KALIARTI000045110945.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>10</NUM>
+<TITRE>Action sociale</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2022-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045110651" date_publi="2022-02-02" date_signature="2021-10-19" nature="Accord" nor="ASET2151102M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance collectif" debut="2022-01-01" fin="2999-01-01" id_txt="KALITEXT000045110651">Accord du 19 octobre 2021 relatif au régime de prévoyance collectif</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635594" date_publi="2005-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1483" titre="Convention collective nationale du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987, révisée par avenant du 17 juin 2004" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635594.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2022-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045110945" num="10" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le régime de prévoyance instauré au niveau de la branche présente un degré élevé de solidarité au sens de l'article L. 912-1 du code de la sécurité sociale et comprend, à ce titre, des prestations à caractère non directement contributif.</p>
+<p align="left">Le haut degré de solidarité se concrétise, en application de l'article R. 912-2 du code de la sécurité sociale, par les actions suivantes :</p>
+<p align="left">1. La prise en charge, totale ou partielle, de la cotisation de tout ou partie des salariés ou apprentis pouvant bénéficier des dispenses d'adhésion prévues au a et au b du 2° de l'article R. 242-1-6, ainsi que de la cotisation de tout ou partie des salariés, apprentis ou anciens salariés dont la cotisation représente au moins 10 % de leurs revenus bruts ;</p>
+<p align="left">2. Le financement d'actions de prévention des risques professionnels dans le secteur ;</p>
+<p align="left">3. La prise en charge de prestations d'action sociale individuelles ou collectives, notamment en faveur des travailleurs en situation de handicap.</p>
+<p align="left">La liste des actions de prévention et d'action sociale sera définie par la commission paritaire permanente de négociation et d'interprétation (CPPNI).</p>
+<p align="left">Les orientations des actions de prévention ainsi que les règles de fonctionnement et les modalités d'attribution des prestations d'action sociale sont déterminées par la commission paritaire de branche, en prenant en compte, le cas échéant, les objectifs d'amélioration de la santé définis dans le cadre de la politique de santé à la mise en œuvre desquels ces orientations contribuent dans le champ professionnel qu'elles couvrent.</p>
+<p align="left">Ces actions seront financées par l'affectation d'une quote-part de la cotisation versée à l'organisme assureur, d'un montant de 2 %.</p>
+<p align="left">Pour les entreprises adhérant au contrat d'assurance des organismes assureurs recommandés, ce financement sera affecté au fonds social déjà existant au niveau de la branche.</p>
+<p align="left">Les prestations d'action sociale accordées par les organismes recommandés ne sont ouvertes qu'aux salariés bénéficiaires du régime souscrit auprès des organismes assureurs recommandés.</p>
+<p align="left">Dans ce cadre les partenaires sociaux ont décidé, que jusqu'au terme de la recommandation, une partie de ce degré élevé de solidarité sera consacrée à la prise en charge totale de la part salariale de la cotisation :<br/>
+– des apprentis bénéficiaires d'un CDD, que la durée de ce CDD soit inférieure ou au moins égale à 12 mois et quelle que soit l'année d'apprentissage ;<br/>
+– des salariés bénéficiaires d'un contrat de professionnalisation quelle que soit sa durée.</p>
+<p align="left">La gestion du fonds social des organismes assureurs recommandés est confiée à Mutex. Les modalités de gestion de ce fonds et de mise en œuvre du haut degré de solidarité seront définies dans le règlement intérieur du fonds conclu entre les partenaires sociaux et lesdits organismes recommandés. Mutex établit annuellement un rapport financier et un rapport d'activité de ce fonds, qu'il transmettra à la commission paritaire nationale.</p>
+<p align="left">Les entreprises non adhérentes à l'un des contrats d'assurance souscrits auprès des organismes assureurs recommandés devront également prévoir la mise en œuvre des prestations d'action sociale prévues par le présent accord auprès de l'organisme assureur qu'elles auront choisi au sein des régimes mis en place à leur niveau.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745472" naturetexte="CODE" nortexte="" num="L912-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L912-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000029900375" naturetexte="CODE" nortexte="" num="R912-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. R912-2</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

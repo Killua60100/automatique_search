@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842708</ID>
+<ANCIEN_ID>KBKAAXXXXXX00028XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/27/KALIARTI000005842708.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>28</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>2018-07-19</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2018-07-19" id="KALISCTA000005720868">Commission paritaire d'interprétation</TITRE_TM>
+<TITRE_TM debut="2018-07-19" fin="2999-01-01" id="KALISCTA000038031263">Commission paritaire permanente de négociation et d'interprétation</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2018-07-19" id="KALIARTI000005842708" num="28" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2018-07-19" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038031260" num="28" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>   Les parties signataires conviennent de soumettre tout désaccord sur le sens d'une disposition quelconque de la présente convention collective nationale à une commission nationale paritaire d'interprétation.</p>
+<p>   La commission est composée de 2 représentants titulaires et de 1 suppléant de chacune des organisations syndicales signataires, et d'un nombre égal de représentants employeurs titulaires et suppléants ; les uns et les autres sont désignés pour 3 ans par leurs organisations et pourront être révoqués par elles à tout moment ; néanmoins, sauf cas de force majeure, aucune révocation ne pourra intervenir entre le moment où la commission aura été saisie d'un désaccord et celui où elle rendra son avis, le différend devant être suivi depuis la saisine jusqu'à l'avis par les mêmes commissaires.</p>
+<p>   La présidence de la commission est assurée alternativement par un membre salarié et un membre employeur, désigné par son collège. L'appartenance du premier président sera celle du doyen d'âge.</p>
+<p>   Le secrétariat de la commission sera assuré par une des organisations patronales, à tour de rôle et pour une année civile.</p>
+<p>   Afin d'en assurer la permanence, le secrétariat en service établira tous les écrits en double et en enverra un exemplaire aux autres organisations.</p>
+<p>   Lorsqu'une partie signataire estime se trouver en présence d'un désaccord d'interprétation, il lui appartient de saisir la commission par une lettre recommandée avec accusé de réception adressée au secrétariat en exercice exposant les données de fait de la difficulté et l'interprétation qu'elle propose. La date de la saisine de la commission est celle de la réception.</p>
+<p>   Le secrétariat en exercice conserve l'original, et transmet une copie à chaque partie signataire dans le délai de huitaine de la réception, par lettre recommandée avec accusé de réception.</p>
+<p>   Dans le délai maximum de 1 mois à compter de cette dernière réception, le secrétariat en exercice convoque et réunit la commission après accord avec le président par lettre recommandée avec accusé de réception, le départ des convocations devant être fait au moins 10 jours avant la date de la réunion.</p>
+<p>   La commission se réunit et ne délibère valablement qu'à parité de ses membres présents ou représentés et que si les 3/4 au moins des membres titulaires ou suppléants sont présents ou représentés, dans la catégorie employeurs et dans la catégorie salariés. A l'issue de la séance au cours de laquelle un avis a été arrêté, un procès-verbal est rédigé par écrit, sous la signature du président et du secrétaire, l'original demeurant au secrétariat en exercice, où tout intéressé peut en prendre connaissance. Copie en est envoyée sous huitaine aux organisations signataires. Il y sera précisé si l'avis a été pris à la majorité ou à l'unanimité, sans mention des opinions exprimées individuellement par chaque membre, et ce à peine de nullité.</p>
+<p>   Lorsque l'avis est pris à l'unanimité des présents, il est signé par tous et, après transmission comme il est prévu plus haut, il aura la même valeur contractuelle que la convention collective, et y sera annexé.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

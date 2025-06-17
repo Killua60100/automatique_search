@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000025215091</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/25/21/50/KALIARTI000025215091.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>35.3</NUM>
+<TITRE/>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2011-11-14</DATE_DEBUT>
+<DATE_FIN>2015-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2015-01-01" id="KALISCTA000020752332">Périodes de professionnalisation</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-09-01" etat="REMPLACE" fin="2011-11-14" id="KALIARTI000017888353" num="35.3" origine="KALI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2011-11-14" etat="ABROGE" fin="2015-01-01" id="KALIARTI000025215091" num="35.3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Objectifs des périodes de professionnalisation</p>
+<p>Ouvertes aux salariés déjà présents dans l'entreprise, les périodes de professionnalisation sont destinées à favoriser le maintien dans l'emploi de certaines catégories de salariés en contrat à durée indéterminée en adaptant leurs compétences.</p>
+<p>Salariés ayant accès aux périodes de professionnalisation</p>
+<p>Peuvent accéder aux périodes de professionnalisation :<br/>- les salariés dont la qualification est insuffisante au regard de l'évolution des technologies et de l'organisation du travail. Entrent dans cette catégorie :<br/>- tous les salariés sans qualification ;<br/>- les salariés n'ayant pas bénéficié d'actions de formation depuis plus de 5 ans ;<br/>- les titulaires d'un diplôme de niveau 5 souhaitant acquérir une formation de niveau au moins égal à 4 ou un CQP (certificat de qualification professionnelle) ;<br/>- les salariés souhaitant consolider la seconde partie de leur carrière professionnelle après 20 ans d'activité ou à partir de 45 ans, à condition d'avoir au moins 1 an de présence dans l'entreprise ; <br/>- les femmes après un congé de maternité ;<br/>- les femmes et les hommes après un congé parental d'éducation ;<br/>- les travailleurs handicapés et assimilés ;<br/>- les salariés ayant un projet de création ou de reprise d'entreprise.</p>
+<p>Formations éligibles</p>
+<p>La formation entrant dans le cadre des périodes de professionnalisation doit permettre au salarié d'acquérir une qualification reconnue dans la grille des classifications ou être reconnue comme accessible dans ce cadre par la CPNE de branche charcuterie.</p>
+<p>Mise en oeuvre</p>
+<p>La période de professionnalisation est mise en oeuvre par l'employeur dans le cadre du plan de formation après accord écrit du salarié.<br/>La période de professionnalisation est mise en oeuvre par le salarié dans le cadre du droit individuel à la formation tel que défini à l'article 35.2. La demande est formulée soit par lettre recommandée avec avis de réception soit par écrit remis en main propre contre reçu.<br/>Le bénéfice de la période de professionnalisation peut être différé lorsqu'il aboutit à l'absence simultanée d'au moins 2 salariés.</p>
+<p>Cadre d'exécution</p>
+<p>L'action de formation mise en oeuvre dans le cadre de la période de professionnalisation peut se dérouler :<br/>- pendant le temps de travail, auquel cas la rémunération est maintenue ;<br/>- en tout ou partie hors du temps de travail à l'initiative du salarié en application du droit individuel à la formation, par accord écrit entre employeur et salarié. En ce cas, les heures réalisées hors temps de travail peuvent, si nécessaire, excéder le crédit d'heures ouvert au titre du DIF dans la limite de 80 heures par année civile ;<br/>- en tout ou partie hors temps de travail, à l'initiative de l'employeur, dans le cadre du plan de formation de l'entreprise avec l'accord écrit du salarié. Cet accord peut être dénoncé dans les 8 jours. <br/>Lorsque l'action de formation a lieu en tout ou partie hors du temps de travail, l'accord écrit entre employeur et salarié précise l'engagement pris par l'enreprise quant à l'évolution du salarié dans son emploi dès lors qu'il suit la formation avec assiduité et satisfait aux évaluations prévues.<br/>Pour les heures de formation suivies hors temps de travail, le salarié bénéficie de l'allocation de formation dans les conditions précisées à l'article 35.2 pour le DIF.</p>
+<p>Frais de formation</p>
+<p>Les actions d'évaluation, d'accompagnement et de formation engagés dans le cadre des périodes de professionnalisation sont prises en charge par l'OPCA désigné dans la branche sur la base horaire forfaitaire fixée par décret.<br/>Une modulation en fonction de la nature et du coût de la prestation pourra être définie par accords collectifs de branche signés en application du présent avenant.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000025201723" datesignatexte="2011-11-14" id="KALIARTI000025201729" naturetexte="Avenant" nortexte="ASET1151535M" num="3" numtexte="12" sens="cible" typelien="CITATION">Désignation d'un nouvel OPCA - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025201723" datesignatexte="2011-11-14" id="KALIARTI000025201729" naturetexte="Avenant" nortexte="ASET1151535M" num="3" numtexte="12" sens="cible" typelien="MODIFIE">Désignation d'un nouvel OPCA - art. 3 (VNE)</LIEN>
+
+<LIEN cidtexte="KALITEXT000030482843" datesignatexte="2014-10-30" id="KALIARTI000030482855" naturetexte="Accord" nortexte="ASET1550092M" num="2" numtexte="" sens="source" typelien="ABROGATION">Formation professionnelle - art. 2 (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

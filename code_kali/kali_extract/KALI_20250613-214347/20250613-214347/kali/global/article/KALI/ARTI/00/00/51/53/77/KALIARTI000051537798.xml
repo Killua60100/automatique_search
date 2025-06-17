@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051537798</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/53/77/KALIARTI000051537798.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2.1</NUM>
+
+<TITRE>Pour le régime salarié non cadre</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-04-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051537792" date_publi="2025-04-30" date_signature="2025-01-16" nature="Avenant" nor="ASET2550228M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Mise en place d'un régime de prévoyance harmonisé" debut="2025-04-01" fin="2999-01-01" id_txt="KALITEXT000051537792">Avenant du 16 janvier 2025 à l'accord du 30 novembre 2023 relatif à la mise en place d'un régime de prévoyance harmonisé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635691" date_publi="1993-11-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1747" titre="Convention collective nationale des activités industrielles de boulangerie et pâtisserie du 13 juillet 1993. Mise à jour par avenant n°10 du 11 octobre 2011" url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635691.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-04-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051537798" num="2.1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le présent article annule et remplace l'article 8.1 de l'accord du 30 novembre 2023 comme suit :</p>
+<p align="left">« Les cotisations sont calculées sur la rémunération brute annuelle, toutes primes et indemnités confondues, supportant les charges sociales. Elles sont partagées entre l'employeur et le salarié à raison d'une répartition calculée comme suit :<br/>
+– sur la tranche A/ tranche B : 0,988 % à la charge de l'employeur ;<br/>
+– sur la tranche A/ tranche B : 0,429 % pour le salarié ;<br/>
+– soit un total de 1,417 %.</p>
+<p align="left">L'affectation des cotisations aux diverses prestations du régime est fixée comme suit :</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th rowspan="2"> </th>
+<th>Employeur</th>
+<th>Salarié</th>
+</tr>
+<tr>
+<th>TA/ TB</th>
+<th>TA/ TB</th>
+</tr>
+<tr>
+<td>Décès – IAD</td>
+<td align="center">0,108 %</td>
+<td align="center">0,047 %</td>
+</tr>
+<tr>
+<td>Allocation obsèques</td>
+<td align="center">0,008 %</td>
+<td align="center">0,003 %</td>
+</tr>
+<tr>
+<td>Rente éducation</td>
+<td align="center">0,084 %</td>
+<td align="center">0,036 %</td>
+</tr>
+<tr>
+<td>Incapacité de travail</td>
+<td align="center">–</td>
+<td align="center">0,343 %</td>
+</tr>
+<tr>
+<td>Invalidité</td>
+<td align="center">0,788 %</td>
+<td align="center">–</td>
+</tr>
+<tr>
+<td>
+<strong>Total</strong>
+</td>
+<td align="center">
+<strong>0,988 %</strong>
+</td>
+<td align="center">
+<strong>0,429 %</strong>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+<p align="left">Les cotisations sont réglées par l'entreprise par trimestre à terme échu. »</p>
+<p>
+<font color="808080">
+<em>
+ (1) L'article 2 est étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, étendu par arrêté du 24 avril 2018.  <br/>(Arrêté du 16 mai 2025 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000049337428" datesignatexte="2023-11-30" id="KALIARTI000051573734" naturetexte="Accord" nortexte="ASET2450071M" num="8.1" numtexte="" sens="source" typelien="MODIFIE">Régime de prévoyance harmonisé - art. 8.1 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

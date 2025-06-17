@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635597</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635597.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale du caoutchouc du 6 mars 1953. Étendue par arrêté du 29 mai 1969 JORF 18 juin 1969 </TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>45</NUM>
+
+<DATE_PUBLI>1953-03-06</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005673838" titretxt="Convention collective nationale du 6 mars 1953"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005673840" titretxt="Clauses communes, annexe à l'article 1"/>
+<LIEN_TXT idtxt="KALITEXT000005673842" titretxt="Annexe interprétation aux clauses communes"/>
+<LIEN_TXT idtxt="KALITEXT000005673844" titretxt="Annexe VI - organisation et durée du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005673846" titretxt="Sécurité de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005673848" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005673850" titretxt="Formation des membres du CHSCT dans les établissements de moins de 300 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000005673852" titretxt="Classification professionnelle et salaires minima"/>
+<LIEN_TXT idtxt="KALITEXT000005673854" titretxt="Classification professionnelle et salaires minima, document I Annexe"/>
+<LIEN_TXT idtxt="KALITEXT000005673832" titretxt="Classification professionnelle et salaires minima, Document II Annexe"/>
+<LIEN_TXT idtxt="KALITEXT000005673834" titretxt="Classification professionnelle et salaires minima, Document III Annexe"/>
+<LIEN_TXT idtxt="KALITEXT000005673836" titretxt="Avenant ouvriers"/>
+<LIEN_TXT idtxt="KALITEXT000005673858" titretxt="Annexe Interprétations à l'avenant ouvriers"/>
+<LIEN_TXT idtxt="KALITEXT000005673860" titretxt="Annexe mensualisation ouvriers"/>
+<LIEN_TXT idtxt="KALITEXT000005673862" titretxt="Avenant ouvriers, annexe I Classification"/>
+<LIEN_TXT idtxt="KALITEXT000005673864" titretxt="Avenant collaborateurs"/>
+<LIEN_TXT idtxt="KALITEXT000005673866" titretxt="Annexe Interprétations à l'avenant collaborateurs"/>
+<LIEN_TXT idtxt="KALITEXT000005673868" titretxt="Avenant Collaborateurs annexe I, Classification"/>
+<LIEN_TXT idtxt="KALITEXT000005673870" titretxt="Avenant Ingénieurs et cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005673872" titretxt="Annexe Interpretations à l'avenant Ingenieurs et cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005673874" titretxt="Avenant Ingénieurs et cadres, annexe I Classification"/>
+<LIEN_TXT idtxt="KALITEXT000005673856" titretxt="Cessation anticipée d'activité des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000005673876" titretxt="Gestion des carrières et de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005673879" titretxt="Adhésion de Fédéchimie CGT-FO à l'accord relatif à la gestion des fins de carrière"/>
+<LIEN_TXT idtxt="KALITEXT000005673881" titretxt="Commission paritaire nationale de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005673883" titretxt="Avenant à l'accord gestion des carrières et de l'emploi du 23 février 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005673885" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005673887" titretxt="Avenant à l'accord du 21 juin 2001 relatif à la cessation anticipée d'activité"/>
+<LIEN_TXT idtxt="KALITEXT000005673889" titretxt="Création d'une section paritaire professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005673891" titretxt="Adhésion de la FNIC-CGT à l'accord du 16 novembre 2006 relatif à la création d'une section paritaire professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000020137463" titretxt="Avenant à l'accord du 16 novembre 2006 relatif à la section paritaire professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000022058447" titretxt="Emploi des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000022271347" titretxt="Emploi et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000023157419" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000023826555" titretxt="Fonctionnement des instances paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000024683680" titretxt="CQP et fonds paritaire de sécurisation des parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000025910799" titretxt="Commission de validation des accords collectifs"/>
+<LIEN_TXT idtxt="KALITEXT000028901204" titretxt="Prorogation de l'accord du 2 décembre 2010 relatif au fonctionnement des instances paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000029077683" titretxt="Actualisation de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000029584677" titretxt="Fonctionnement des instances paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000030309541" titretxt="Désignation de l'OPCA"/>
+<LIEN_TXT idtxt="KALITEXT000030309553" titretxt="Création d'une section paritaire professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000032426238" titretxt="Formation professionnelle tout au long de la vie et à l'apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000036512214" titretxt="Désignation OPCALIA et CPNE"/>
+<LIEN_TXT idtxt="KALITEXT000039332694" titretxt="Création de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000044085381" titretxt="Activité partielle en cas de réduction d'activité durable (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000044159704" titretxt="Dispositif de promotion ou reconversion par alternance (Pro-A)"/>
+<LIEN_TXT idtxt="KALITEXT000047951224" titretxt="Classification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000050027943" titretxt="CQP et CQPI"/>
+<LIEN_TXT idtxt="KALITEXT000050962196" titretxt="CQP et CQPI (ajout art. 11)"/>
+<LIEN_TXT idtxt="KALITEXT000050962177" titretxt="Définition des catégories de bénéficiaires des régimes de protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000051579849" titretxt="Méthodologie de la classification professionnelle"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005673893" titretxt="Annexe à l'article 15 des clauses communes"/>
+<LIEN_TXT idtxt="KALITEXT000005673895" titretxt="ANNEXE II SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005673897" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005673899" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005673901" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005673903" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005673905" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005673907" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018797861" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000019700829" titretxt="Avenant à l'accord du 11 janvier 2008 relatif aux salaires"/>
+<LIEN_TXT idtxt="KALITEXT000022219265" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000024462103" titretxt="Salaires minima pour l'année 2011"/>
+<LIEN_TXT idtxt="KALITEXT000026085382" titretxt="Rémunérations minimales hiérarchiques et taux effectifs garantis pour l'année 2012"/>
+<LIEN_TXT idtxt="KALITEXT000032748769" titretxt="Rémunérations minimales hiérarchiques et taux effectifs garantis pour l'année 2016"/>
+<LIEN_TXT idtxt="KALITEXT000035744452" titretxt="Salaires minima garantis pour l'année 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037323619" titretxt="Rémunérations minimales et taux effectifs garantis pour l'année 2018"/>
+<LIEN_TXT idtxt="KALITEXT000044043704" titretxt="Salaires au 1er octobre 2021"/>
+<LIEN_TXT idtxt="KALITEXT000046098683" titretxt="Salaires minima garantis 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047782899" titretxt="Salaires minima au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000051493574" titretxt="Salaires minima au 1er avril 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005673909" titretxt="Arrêté du 29 mai 1969"/>
+<LIEN_TXT idtxt="KALITEXT000005673911" titretxt="Arrêté du 5 mai 1970"/>
+<LIEN_TXT idtxt="KALITEXT000005673913" titretxt="Arrêté du 12 mai 1971"/>
+<LIEN_TXT idtxt="KALITEXT000005673915" titretxt="Arrêté du 2 juillet 1974"/>
+<LIEN_TXT idtxt="KALITEXT000005673917" titretxt="Arrêté du 29 octobre 1974"/>
+<LIEN_TXT idtxt="KALITEXT000005673919" titretxt="Arrêté du 16 avril 1985"/>
+<LIEN_TXT idtxt="KALITEXT000005673921" titretxt="Arrêté du 23 septembre 1986"/>
+<LIEN_TXT idtxt="KALITEXT000005673923" titretxt="Arrêté du 1 juin 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005673925" titretxt="Arrêté du 27 juillet 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005673927" titretxt="ARRETE du 29 septembre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005673929" titretxt="ARRETE du 23 juillet 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005673931" titretxt="ARRETE du 31 juillet 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005673933" titretxt="ARRETE du 21 octobre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005673935" titretxt="ARRETE du 4 décembre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005673937" titretxt="ARRETE du 22 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005673939" titretxt="ARRETE du 19 octobre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005673941" titretxt="ARRETE du 28 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005673943" titretxt="ARRETE du 15 février 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005673945" titretxt="ARRETE du 13 juillet 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005673947" titretxt="ARRETE du 26 juin 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Caoutchouc</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3046</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000028053581</ID>
+<TITRE_TA>Chapitre VI Droits et obligations de l'artiste-interprète</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053615" num="6.1" origine="KALI"/>
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053616" num="6.2" origine="KALI"/>
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053617" num="6.3" origine="KALI"/>
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053618" num="6.4" origine="KALI"/>
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053619" num="6.5" origine="KALI"/>
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053620" num="6.6" origine="KALI"/>
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053621" num="6.7" origine="KALI"/>
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053622" num="6.8" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053374">Titre III Salariés de l'équipe artistique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053399">Sous-titre Ier Artistes-interprètes</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

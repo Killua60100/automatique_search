@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021958087</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/95/80/KALIARTI000021958087.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>68</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-10-27</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021958076">Clause de migration</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-10-27" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021958087" num="68" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>L'adhésion de toutes les entreprises relevant du champ d'application de la convention collective nationale de la pâtisserie au régime remboursement complémentaire de frais de soins de santé et l'affiliation des salariés de ces entreprises auprès de l'organisme assureur désigné ont un caractère obligatoire à compter du premier jour du mois civil qui suit la date de publication de l'arrêté d'extension et au plus tôt le 1er juillet 2010.<br/>
+<br/>A cette fin, les entreprises concernées recevront un contrat d'adhésion et des bulletins d'affiliation. <br/>
+<br/>Par exception et pour tenir compte des délais de résiliation, les entreprises ayant souscrit antérieurement à la date d'effet du présent accord un contrat de frais de soins de santé obligatoire au profit des salariés visés par le présent régime ne seront pas tenues d'adhérer à l'organisme désigné à l'article 67 tant que ledit contrat sera en vigueur et jusqu'au 31 décembre de l'année de la date de publication de l'arrêté d'extension. </p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021944693" datesignatexte="2009-10-27" id="KALIARTI000021944696" naturetexte="Avenant" nortexte="ASET0951200M" num="1" numtexte="67" sens="cible" typelien="CREE">Remboursement complémentaire santé - art. 1</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

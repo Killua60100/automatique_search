@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000032519089</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/32/51/90/KALIARTI000032519089.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE>Cotisations et répartition</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2016-01-01</DATE_DEBUT>
+<DATE_FIN>2023-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000031284609" date_publi="2015-10-08" date_signature="2015-07-03" nature="Accord" nor="ASET1550778M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de santé" debut="2016-01-01" fin="2999-01-01" id_txt="KALITEXT000031284609">Accord du 3 juillet 2015 relatif au régime frais de santé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="KALISCTA000031284624">Dispositions communes à la couverture du socle de garanties obligatoires et aux couvertures de garanties optionnelles</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635252" date_publi="1993-06-02" etat="VIGUEUR_ETEN" nature="IDCC" num="1631" titre="Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993" url="conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635252.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2016-01-01" id="KALIARTI000031284649" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000032519089" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2023-01-01" etat="REMPLACE" fin="2025-01-01" id="KALIARTI000047337266" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051320942" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p align="center">6.1. Cotisations <br/>
+</p>
+<p align="left">Les cotisations sont exprimées en pourcentage du plafond mensuel de la sécurité sociale (PMSS). Pour information, le plafond mensuel de la sécurité sociale est fixé, pour l'année 2015, à 3 170 €. Il est modifié une fois par an (au 1er janvier), par voie réglementaire. <br/>Les entreprises relevant du champ d'application du présent accord, y compris celles non adhérentes au contrat d'assurance souscrit auprès de l'organisme assureur recommandé, devront respecter une prise en charge minimum à hauteur de 50 % de la cotisation globale correspondant à la couverture obligatoire mise en place dans l'entreprise. <br/>Elles pourront prévoir une prise en charge patronale plus favorable, sous réserve de le formaliser au sein de l'entreprise par l'un des actes visés à l'article L. 911-1 du code de la sécurité sociale (accord collectif, accord référendaire ou décision unilatérale formalisée par écrit et remise à chaque intéressé). <br/>
+</p>
+<p align="center">6.2. Modalités concernant les cotisations <br/>
+</p>
+<p align="left">Les salariés acquittent obligatoirement leur quote-part de la cotisation " salarié " dont le montant ne peut excéder 50 % de la cotisation globale (hors options facultatives). </p>
+<p align="center">
+<br/>1. Cotisations en cas d'adhésion à l'organisme recommandé </p>
+<p>L'organisme recommandé, tel qu'indiqué à l'article 11 du présent accord s'engage, le concernant, à pratiquer pour toutes les entreprises de la branche les tarifs suivants : </p>
+<p align="center">
+<br/>Régime général d'assurance maladie </p>
+<p align="right">
+<br/>(En pourcentage.) </p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Structure de cotisation <br/>régime général </th>
+<th>Cotisation actifs </th>
+</tr>
+<tr>
+<td align="center">Salarié </td>
+<td align="center">0,86 du PMSS </td>
+</tr>
+<tr>
+<td align="center">Conjoint </td>
+<td align="center">0,99 du PMSS </td>
+</tr>
+<tr>
+<td align="center">Enfant </td>
+<td align="center">0,65 du PMSS </td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+<br/>
+<p align="center">
+<br/>Régime local d'assurance maladie Alsace-Moselle </p>
+<p align="right">
+<br/>(En pourcentage.) </p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Structure de cotisation <br/>régime local Alsace-Moselle </th>
+<th>Cotisation actifs </th>
+</tr>
+<tr>
+<td align="center">Salarié </td>
+<td align="center">0,35 du PMSS </td>
+</tr>
+<tr>
+<td align="center">Conjoint </td>
+<td align="center">0,40 du PMSS </td>
+</tr>
+<tr>
+<td align="center">Enfant </td>
+<td align="center">0,27 du PMSS </td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+<br/>
+<p>L'organisme recommandé s'engage également sur les points suivants :</p>
+<p>-un maintien des taux de cotisations sur 2 ans est prévu, hors modifications réglementaires ou législatives, hors désengagement de la sécurité sociale ;</p>
+<p>-les cotisations ci-dessus prennent en compte la gratuité à partir du 3e enfant affilié. </p>
+<p>Parallèlement à leur couverture obligatoire, les salariés ont la possibilité de couvrir leurs ayants droit (enfants et/ ou conjoint) tels que définis par le présent accord, pour l'ensemble des garanties dont ils bénéficient au titre du régime. </p>
+<p>Les salariés ont également la possibilité d'améliorer leur niveau de couverture en adhérant à des options supplémentaires facultatives. </p>
+<p>Les cotisations supplémentaires servant au financement des couvertures facultatives, ainsi que leurs éventuelles évolutions ultérieures, sont à la charge exclusive du salarié. </p>
+<p align="center">
+<br/>2. Cotisations en cas d'adhésion à d'autres organismes que l'organisme recommandé </p>
+<p>Les entreprises de la branche, qui ne souhaitent pas adhérer à l'organisme recommandé par la branche, peuvent contracter auprès de tout assureur de leur choix, en respectant l'intégralité des dispositions du présent accord, y compris celles relatives au haut degré de solidarité. </p>
+<p>Toute entreprise, qui ne serait pas assurée par l'organisme assureur recommandé devra veiller à ce que son contrat d'assurance prévoie des garanties au moins égales à celles du régime de branche <i>pour une cotisation égale ou inférieure à celle pratiquée par l'organisme recommandé</i>
+ (1), en respectant la répartition d'au moins 50 % à la charge de l'employeur.</p>
+<p>
+<font color="808080" size="1">
+<i>
+ (1) <font color="808080" size="1">T</font>ermes exclus de l'extension en tant qu'ils contreviennent à la liberté contractuelle et à la liberté d'entreprendre telles qu'interprétées par le Conseil constitutionnel dans sa décision n° 2013-672 DC du 13 juin 2013 et à l'article L. 2253-1 du code du travail.  <br/>(Arrêté du 24 novembre 2016 - art. 1)</i>
+</font>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000032512786" datesignatexte="2016-01-29" id="KALIARTI000032512790" naturetexte="Avenant" nortexte="ASET1650310M" num="1er" numtexte="1" sens="cible" typelien="MODIFIE">Régime frais de santé - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

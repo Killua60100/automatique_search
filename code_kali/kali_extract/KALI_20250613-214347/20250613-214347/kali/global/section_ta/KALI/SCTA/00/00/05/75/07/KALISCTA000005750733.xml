@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005750733</ID>
+<TITRE_TA>Régime des extras</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1985-09-04" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841334" num="17" origine="KALI"/>
+<LIEN_ART debut="1983-06-30" etat="MODIFIE" fin="1985-09-04" id="KALIARTI000005841333" num="17" origine="KALI"/>
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841335" num="17" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750735">Section 1 : Engagement</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

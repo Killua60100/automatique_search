@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045110949</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/11/09/KALIARTI000045110949.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>12</NUM>
+<TITRE>Changement d'organisme assureur</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2022-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045110651" date_publi="2022-02-02" date_signature="2021-10-19" nature="Accord" nor="ASET2151102M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance collectif" debut="2022-01-01" fin="2999-01-01" id_txt="KALITEXT000045110651">Accord du 19 octobre 2021 relatif au régime de prévoyance collectif</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635594" date_publi="2005-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1483" titre="Convention collective nationale du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987, révisée par avenant du 17 juin 2004" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635594.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2022-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000045110949" num="12" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">En cas de dénonciation ou de non-renouvellement de la recommandation, les dispositions suivantes s'appliquent :</p>
+<p align="left">1. Les prestations périodiques en cours de service (indemnités journalières, pension d'invalidité, rentes éducation) continuent d'être versées par les organismes assureurs recommandés à leur niveau atteint à la date d'effet de la dénonciation ou du non-renouvellement. La garantie incapacité temporaire de travail – Invalidité est maintenue aux assurés en arrêt de travail pour maladie ou accident, dès lors que les prestations, immédiates ou différées (invalidité), sont acquises ou nées antérieurement à la date d'effet de la résiliation du contrat d'assurance ;</p>
+<p align="left">2. Ces organismes assureurs recommandés assurent également le maintien des garanties décès au profit des bénéficiaires de rentes d'incapacité de travail ou d'invalidité lors de la résiliation du contrat d'assurance, sans revalorisation des bases de calcul desdites prestations ;</p>
+<p align="left">3. Parallèlement, conformément à l'article L. 912-3 du code de la sécurité sociale, les rentes en cours de service à la date de changement d'organisme assureur (y compris les prestations décès prenant la forme de rente), continueront à être revalorisées par le nouvel organisme assureur.</p>
+<p align="left">Sera également organisée par le nouvel organisme assureur la revalorisation des bases de calcul des prestations décès étant précisé qu'elle devra être au moins égale à celle prévue par le contrat résilié.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745477" naturetexte="CODE" nortexte="" num="L912-3" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L912-3</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

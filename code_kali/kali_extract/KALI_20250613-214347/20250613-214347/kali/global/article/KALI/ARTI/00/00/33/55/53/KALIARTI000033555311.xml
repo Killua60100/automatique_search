@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033555311</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/55/53/KALIARTI000033555311.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>16</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1988-03-18" fin="2007-07-20" id="KALISCTA000005690417">Définition du salaire minimum mensuel Restauration collective.</TITRE_TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000018649454">Rémunération</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-12-18" etat="REMPLACE" fin="2016-03-11" id="KALIARTI000027355848" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-01-01" etat="REMPLACE" fin="2011-11-09" id="KALIARTI000018649407" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2011-11-09" etat="REMPLACE" fin="2012-12-18" id="KALIARTI000025294967" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1988-03-18" etat="REMPLACE" fin="1999-06-08" id="KALIARTI000005767305" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1999-06-08" etat="REMPLACE" fin="2008-01-01" id="KALIARTI000005767306" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033555311" num="16" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Article 16.1 </p>
+<p>Définition du taux horaire minimum </p>
+<p>Il est convenu que les entreprises ne procéderont plus aux déductions prévues aux articles D. 3231-9 et D. 3231-13 du code du travail. </p>
+<p>En tout état de cause, aucun salarié ne pourra se voir appliquer un taux horaire inférieur au taux horaire du Smic, à l'exception des contrats spécifiques qui relèvent de dispositions légales. </p>
+<p>Le régime des avantages en nature nourriture demeure appliqué conformément à la réglementation en vigueur. L'avantage nature nourriture reste évalué, pour la durée mensuelle prévue à la convention collective, soit 151,67 heures, quel que soit le nombre de repas consommés, à 21 fois le minimum garanti. </p>
+<p>Les dispositions de l'article 22 de la convention collective nationale, relatives à l'obligation de nourrir le personnel, restent inchangées. </p>
+<p align="right">
+<br/>(En euros.) </p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Niveau </th>
+<th>Taux horaire </th>
+</tr>
+<tr>
+<td align="center">I </td>
+<td align="center">9,43 </td>
+</tr>
+<tr>
+<td align="center">II </td>
+<td align="center">9,60 </td>
+</tr>
+<tr>
+<td align="center">III </td>
+<td align="center">9,77 </td>
+</tr>
+<tr>
+<td align="center">IV </td>
+<td align="center">9,93 </td>
+</tr>
+<tr>
+<td align="center">V </td>
+<td align="center">10,30 </td>
+</tr>
+<tr>
+<td align="center">VI </td>
+<td align="center">10,76 </td>
+</tr>
+<tr>
+<td align="center">VII </td>
+<td align="center">11,61 </td>
+</tr>
+<tr>
+<td align="center">VIII </td>
+<td align="center">12,47 </td>
+</tr>
+<tr>
+<td align="center">IX </td>
+<td align="center">14,70 </td>
+</tr>
+</tbody>
+</table>
+<br/>Article 16.2 
+Salaire minimum mensuel (SMM) 
+<p>Le salaire minimum mensuel (SMM) se définit comme le produit du taux horaire par l'horaire mensuel contractuel. </p>
+<p align="right">
+<br/>(En euros.) </p>
+
+<br/>
+<table border="1">
+<tbody>
+<tr>
+<th>Niveau </th>
+<th>Salaire minimum mensuel </th>
+</tr>
+<tr>
+<td align="center">I </td>
+<td align="center">1 430,25 </td>
+</tr>
+<tr>
+<td align="center">II </td>
+<td align="center">1 456,03 </td>
+</tr>
+<tr>
+<td align="center">III </td>
+<td align="center">1 481,82 </td>
+</tr>
+<tr>
+<td align="center">IV </td>
+<td align="center">1 506,08 </td>
+</tr>
+<tr>
+<td align="center">V </td>
+<td align="center">1 562,20 </td>
+</tr>
+<tr>
+<td align="center">VI </td>
+<td align="center">1 631,97 </td>
+</tr>
+<tr>
+<td align="center">VII </td>
+<td align="center">1 760,89 </td>
+</tr>
+<tr>
+<td align="center">VIII </td>
+<td align="center">1 891,32 </td>
+</tr>
+<tr>
+<td align="center">IX </td>
+<td align="center">2 229,55 </td>
+</tr>
+</tbody>
+</table>
+<br/>Evolution du SMM du niveau IX <p align="left">Les parties signataires conviennent qu'au plus tard le 1er janvier 2015, le salaire minimum mensuel (SMM) du niveau IX sera porté à 2 500 € selon des modalités de calendrier propres à chaque entreprise compte tenu de sa situation. </p>
+<br/>
+<br/>
+<p align="center">Article 16.3 </p>
+<p>13e mois </p>
+<p align="left">À compter du 1er janvier 2017, les parties signataires conviennent d'instituer pour tous les salariés, quel que soit leur statut, un 13e mois qui supprime et remplace l'actuelle prime de fin d'année (PFA). </p>
+<p align="left">Les salariés déjà bénéficiaires d'un 13e mois, ou d'une prime assimilée à un 13e mois, calculé selon des modalités plus avantageuses, à la date d'application du présent avenant, conservent les avantages de ces dispositions qui ne peuvent, en aucun cas, se cumuler avec les dispositions suivantes. </p>
+<p>Article 16.3.1 </p>
+<p>Définition </p>
+<p align="left">Le 13e mois correspond à 1/12 du salaire de base réellement perçu sur l'année civile, correspondant à la contrepartie directe du travail telle que négociée contractuellement. </p>
+<p align="left">La prime d'ancienneté et les primes liées à des conditions particulières de travail, par exemple la prime d'activité continue ou la prime de service minimum, ne sont pas prises en compte dans le calcul du 13e mois. </p>
+<p align="left">Le 13e mois n'entre pas dans le calcul des indemnités de congés payés. </p>
+<p>Article 16.3.2 </p>
+<p>Conditions d'attribution </p>
+<p align="left">Le 13e mois sera acquis au bout de 1 an d'ancienneté continue et révolue, au prorata du nombre de mois travaillés dans l'année civile au-delà de cette période de 12 mois. </p>
+<p>Article 16.3.3 </p>
+<p>Modalités de calcul </p>
+<p align="left">Le 13e mois est acquis pro rata temporis du temps de travail effectif au cours de l'année civile de référence. La première année de référence sera l'année 2017. </p>
+<p align="left">Est considéré comme travail effectif toute période ouvrant droit à congés payés conformément aux dispositions légales et conventionnelles. </p>
+<p align="left">Les absences autres que celles assimilées à du temps de travail effectif entraîneront une réduction proportionnelle du 13e mois ou de l'avance correspondante. </p>
+<p align="left">En cas d'année incomplète de travail, de rupture ou de transfert du contrat de travail en cours d'année, le 13e mois sera dû et calculé au prorata du temps de travail effectif dans l'entreprise, sous réserve d'avoir rempli les conditions d'ancienneté. </p>
+<p>Article 16.3.4 </p>
+<p>Modalités de versement </p>
+
+Le 13e mois pourra être versé en une ou plusieurs fois au cours de l'année civile de référence selon des modalités propres à chaque entreprise et, au plus tard, avec le salaire du mois de janvier de l'année N + 1 et pour la première fois au plus tard avec le salaire du mois de janvier 2018. 
+
+
+<br/>
+Article 16.5 <p>Evolution des SMM </p>
+<p align="left">Les SMM seront définis et garantis à l'issue de la négociation annuelle sur les salaires.</p>
+
+
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000045829025" datesignatexte="2022-01-10" id="KALIARTI000045829033" naturetexte="Avenant" nortexte="ASET2250272M" num="2" numtexte="60" sens="cible" typelien="CITATION">Minima conventionnels pour l'année 2022 - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000045829025" datesignatexte="2022-01-10" id="KALIARTI000045829034" naturetexte="Avenant" nortexte="ASET2250272M" num="3" numtexte="60" sens="cible" typelien="CITATION">Minima conventionnels pour l'année 2022 - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000045829025" datesignatexte="2022-01-10" id="KALIARTI000045829035" naturetexte="Avenant" nortexte="ASET2250272M" num="4" numtexte="60" sens="cible" typelien="CITATION">Minima conventionnels pour l'année 2022 - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000046970731" datesignatexte="2022-09-08" id="KALIARTI000046970740" naturetexte="Avenant" nortexte="ASET2251400M" num="3" numtexte="62" sens="cible" typelien="CITATION">Salaires minima au 1er octobre 2022 - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000046970731" datesignatexte="2022-09-08" id="KALIARTI000046970741" naturetexte="Avenant" nortexte="ASET2251400M" num="4" numtexte="62" sens="cible" typelien="CITATION">Salaires minima au 1er octobre 2022 - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000032749127" datesignatexte="2016-03-11" id="KALIARTI000032749130" naturetexte="Avenant" nortexte="ASET1650489M" num="" numtexte="1" sens="cible" typelien="MODIFIE">Avenant n° 43 relatif au 13e mois - art. (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276474" datesignatexte="2011-11-09" id="KALIARTI000025276503" naturetexte="Avenant" nortexte="ASET1151553M" num="14" numtexte="47" sens="cible" typelien="CITATION">Classification des emplois et salaires - art. 14 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000021284813" datesignatexte="2009-06-22" id="KALIARTI000021284818" naturetexte="Avenant" nortexte="ASET0950914M" num="2" numtexte="44" sens="cible" typelien="CITATION">Salaires - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000027348611" datesignatexte="2012-12-18" id="KALIARTI000027348616" naturetexte="Avenant" nortexte="ASET1350242M" num="2" numtexte="50" sens="cible" typelien="CITATION">Salaires - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000021284813" datesignatexte="2009-06-22" id="KALIARTI000021284819" naturetexte="Avenant" nortexte="ASET0950914M" num="3" numtexte="44" sens="cible" typelien="CITATION">Salaires - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000027348611" datesignatexte="2012-12-18" id="KALIARTI000027348617" naturetexte="Avenant" nortexte="ASET1350242M" num="3" numtexte="50" sens="cible" typelien="CITATION">Salaires - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000021284813" datesignatexte="2009-06-22" id="KALIARTI000021284820" naturetexte="Avenant" nortexte="ASET0950914M" num="4" numtexte="44" sens="cible" typelien="CITATION">Salaires - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000027348611" datesignatexte="2012-12-18" id="KALIARTI000027348618" naturetexte="Avenant" nortexte="ASET1350242M" num="4" numtexte="50" sens="cible" typelien="CITATION">Salaires - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000030682296" datesignatexte="2015-01-27" id="KALIARTI000030682301" naturetexte="Avenant" nortexte="ASET1550345M" num="2" numtexte="51" sens="cible" typelien="CITATION">Salaires, primes et rémunération des contrats d... - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000030682296" datesignatexte="2015-01-27" id="KALIARTI000030682302" naturetexte="Avenant" nortexte="ASET1550345M" num="3" numtexte="51" sens="cible" typelien="CITATION">Salaires, primes et rémunération des contrats d... - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000030682296" datesignatexte="2015-01-27" id="KALIARTI000030682303" naturetexte="Avenant" nortexte="ASET1550345M" num="4" numtexte="51" sens="cible" typelien="CITATION">Salaires, primes et rémunération des contrats d... - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276514" datesignatexte="2011-11-09" id="KALIARTI000025276520" naturetexte="Avenant" nortexte="ASET1151552M" num="2" numtexte="48" sens="cible" typelien="CITATION">salaires minima au 1er janvier 2012 - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276514" datesignatexte="2011-11-09" id="KALIARTI000025276521" naturetexte="Avenant" nortexte="ASET1151552M" num="3" numtexte="48" sens="cible" typelien="CITATION">salaires minima au 1er janvier 2012 - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276514" datesignatexte="2011-11-09" id="KALIARTI000025276522" naturetexte="Avenant" nortexte="ASET1151552M" num="4" numtexte="48" sens="cible" typelien="CITATION">salaires minima au 1er janvier 2012 - art. 4 (VE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000018487219" naturetexte="CODE" nortexte="" num="D3231-13" numtexte="" sens="source" typelien="CITATION">Code du travail - art. D3231-13 (V)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000018487197" naturetexte="CODE" nortexte="" num="D3231-9" numtexte="" sens="source" typelien="CITATION">Code du travail - art. D3231-9 (V)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

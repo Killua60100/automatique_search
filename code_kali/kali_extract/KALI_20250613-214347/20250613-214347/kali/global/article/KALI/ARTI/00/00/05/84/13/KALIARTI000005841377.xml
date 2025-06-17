@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841377</ID>
+<ANCIEN_ID>KBCAAXXXXXX00027XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841377.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>40</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>DUREE</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>1983-06-30</DATE_DEBUT>
+<DATE_FIN>2005-02-03</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750742">Section 3 : Durée du travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005761308">Heures supplémentaires.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1983-06-30" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841377" num="40" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841378" num="27" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les droits au congé annuel seront déterminés conformément à la réglementation en vigueur.<br/>
+<br/>   En principe, la période des congés s'ouvre le 1er mai pour se terminer le 31 octobre.<br/>
+<br/>   Des dérogations peuvent être apportées à cette disposition, soit après accord individuel du salarié, soit par accord paritaire départemental ou interdépartemental ou régional.<br/>
+<br/>   Le congé payé ne dépassant pas douze jours ouvrables doit être continu.<br/>
+<br/>   Le congé d'une durée supérieure à douze jours ouvrables peut être fractionné par l'employeur avec l'agrément du salarié. Dans ce cas, une fraction doit être au moins de douze jours ouvrables continus compris entre deux jours de repos hebdomadaire.<br/>
+<br/>   Cette fraction doit être attribuée pendant la période du 1er mai au 31 octobre de chaque année. Les jours restants dus peuvent être accordés en une ou plusieurs fois en dehors de cette période.<br/>
+<br/>   Il est attribué deux jours ouvrables de congés supplémentaires lorsque le nombre de jours pris en dehors de cette période est au moins égal à six et un seul lorsqu'il est compris entre trois et cinq jours.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

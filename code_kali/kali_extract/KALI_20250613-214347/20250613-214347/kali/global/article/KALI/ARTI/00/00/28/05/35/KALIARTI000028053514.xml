@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053514</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053514.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Délégués de plateau</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053388">Chapitre II Droit syndical et représentation des salariés</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053514" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Il est institué une représentation spécifique, pour la réalisation de chacun des films, des équipes de techniciens par des délégués de plateau élus.<br/>Ces délégués de plateau sont les représentants directs des techniciens auprès du producteur ou de son représentant pour toute question relative à la présente convention.<br/>Dans les trois premiers jours de tournage des films seront organisées des élections de délégués de production titulaires et suppléants :<br/>– un titulaire et un suppléant représentant les techniciens de tournage ;<br/>– le cas échéant, un titulaire et un suppléant représentant les salariés de construction de décors, dont le lieu de travail est distinct du tournage.<br/>Ces élections sont organisées en un seul tour.<br/>Les candidats devront se présenter au nom de l'une des organisations syndicales représentatives de la branche production cinématographique et/ou du titre II.<br/>A défaut, pourra faire acte de candidature, sans référence à une organisation syndicale représentative des techniciens, tout autre salarié appartenant à l'équipe technique.<br/>Les candidats à ces élections devront justifier avoir collaboré dans la production cinématographique ou la production de films publicitaires sur au moins trois films et cumulé un total minimal de 20 semaines de travail et sont engagés pour la durée du tournage du film ou pour la durée de construction des décors.<br/>Si le contrat de travail d'un délégué de plateau prend fin avant la fin du tournage ou avant le terme de la construction des décors, de nouvelles élections devront être organisées dans les mêmes conditions que celles décrites ci-dessus.<br/>Aucune mesure discriminatoire dans le cadre de leur mandat ou de leurs fonctions professionnelles ne pourra être prise à leur encontre par le producteur ou son représentant.<br/>L'existence et le mandat de ces délégués de plateau sont indépendants de ceux des représentants du personnel représentant les salariés liés à l'activité pérenne et permanente des entreprises de production, employés sous contrat à durée indéterminée ou sous contrat à durée déterminée de droit commun.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

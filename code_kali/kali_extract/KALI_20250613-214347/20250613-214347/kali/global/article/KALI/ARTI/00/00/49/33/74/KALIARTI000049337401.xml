@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000049337401</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/49/33/74/KALIARTI000049337401.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+<TITRE>Affiliations optionnelles pour les ayants droit du salarié</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000049337381" date_publi="2999-01-01" date_signature="2023-11-30" nature="Accord" nor="ASET2450069M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de frais de santé harmonisé" debut="2024-01-01" fin="2999-01-01" id_txt="KALITEXT000049337381">Accord du 30 novembre 2023 relatif à la mise en place d'un régime de frais de santé harmonisé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000051160618" date_publi="2025-12-01" etat="VIGUEUR_NON_ETEN" nature="IDCC" num="3255" titre="Convention collective nationale des activités industrielles de boulangerie et pâtisserie et des professionnels de l'oeuf du 1er octobre 2024" url="conteneur/KALI/CONT/00/00/51/16/06/KALICONT000051160618.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000049337401" num="5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Dans le cadre du présent régime, seule l'adhésion des salariés est obligatoire.</p>
+<p align="left">Toutefois, les salariés peuvent opter facultativement pour une extension du présent régime à tout ou partie de leur famille, en optant pour la couverture « ayant droit ».</p>
+<p align="left">Est considéré comme ayant droit :<br/>
+– le conjoint du salarié ;<br/>
+– le concubin (lié ou non par un Pacs avec le salarié) du salarié ;<br/>
+– les enfants à charge répondant à la définition suivante :</p>
+<p align="left">1. Les enfants de moins de 18 ans à charge du salarié ou de son conjoint ou de son concubin au sens de la législation sécurité sociale et, par extension, les enfants de moins de 26 ans à charge du salarié au sens de la législation fiscale à savoir :<br/>
+a) les enfants du salarié, de son conjoint ou de son concubin pris en compte dans le calcul du quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ;<br/>
+b) les enfants du salarié auxquels celui-ci sert une pension alimentaire y compris en application d'un jugement de divorce, retenue sur son avis d'imposition à titre de charge déductible du revenu global.</p>
+<p align="left">2. Quel que soit leur âge, et sauf déclaration personnelle de revenus, les enfants infirmes, c'est-à-dire hors d'état de subvenir à leurs besoins en raison notamment de leur invalidité, au sens de la législation fiscale définie, pris en compte dans le calcul du quotient familial, ou ouvrant droit à un abattement applicable au revenu imposable, ou bénéficiaires d'une pension alimentaire que le salarié est autorisé à déduire de son revenu imposable ;</p>
+<p align="left">3. Toutes personnes à charge du salarié au sens des assurances sociales.</p>
+<p align="left">Le salarié pourra opter pour ce dispositif optionnel à l'occasion de chaque échéance annuelle.</p>
+<p align="left">Il pourra y mettre fin lors de cette même échéance annuelle, sous réserve de respecter un délai de préavis de 2 mois.</p>
+<p align="left">Le financement de cette option sera à la charge exclusive du salarié.</p>
+<p align="left">En cas d'option, tout changement affectant la situation de famille du salarié assuré doit être porté à la connaissance de l'organisme assureur.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

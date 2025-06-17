@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000045110839</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/45/11/08/KALIARTI000045110839.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Revalorisation des prestations</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2022-01-01</DATE_DEBUT>
+<DATE_FIN>2025-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000045110651" date_publi="2022-02-02" date_signature="2021-10-19" nature="Accord" nor="ASET2151102M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance collectif" debut="2022-01-01" fin="2999-01-01" id_txt="KALITEXT000045110651">Accord du 19 octobre 2021 relatif au régime de prévoyance collectif</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635594" date_publi="2005-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1483" titre="Convention collective nationale du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987, révisée par avenant du 17 juin 2004" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635594.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2025-01-01" etat="MODIFIE" fin="2025-01-01" id="KALIARTI000051160055" num="7" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2022-01-01" etat="REMPLACE" fin="2025-01-01" id="KALIARTI000045110839" num="7" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051377672" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">
+<br/>7.1. Revalorisation du salaire de référence servant de base au calcul des prestations</p>
+<p align="left">
+<br/>Le salaire de référence est revalorisé pour le calcul des prestations invalidité, incapacité permanente professionnelle et décès, lorsque le salarié justifie ou justifiait d'un arrêt de travail indemnisé par la sécurité sociale d'une durée égale ou supérieure à 6 mois continus, à la date de mise en invalidité ou d'incapacité permanente professionnelle ou à celle de de son décès. Il est revalorisé selon le même pourcentage d'augmentation que le plafond annuel de la sécurité sociale, à la même date.</p>
+<p align="center">
+<br/>7.2. Revalorisation des prestations périodiques en cours de service</p>
+<p align="left">
+<br/>Les prestations périodiques en cours de service sont revalorisées selon le même pourcentage d'augmentation que le plafond annuel de la sécurité sociale, à la même date, sous réserve lorsque le bénéficiaire est le salarié, qu'il justifie d'un arrêt de travail d'une durée égale ou supérieure à 6 mois continus à la date d'application de la revalorisation. Les rentes éducation et de conjoint substitutive à la rente éducation sont revalorisées chaque année par l'organisme assureur ou le contrat d'assurance souscrit.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

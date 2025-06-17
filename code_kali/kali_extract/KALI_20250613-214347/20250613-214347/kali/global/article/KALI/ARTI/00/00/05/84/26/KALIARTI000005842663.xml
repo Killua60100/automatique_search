@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842663</ID>
+<ANCIEN_ID>KBKAAXXXXXX00007XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/26/KALIARTI000005842663.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Dispositions générales</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>1988-06-22</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720847">Embauchage</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="1988-06-22" id="KALIARTI000005842663" num="7" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1988-06-22" etat="REMPLACE" fin="1993-12-07" id="KALIARTI000005842664" num="7" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1993-12-07" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005842665" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   L'embauchage sera confirmé par lettre d'embauche ou contrat écrits.<br/>
+<br/>   La lettre ou le contrat devra obligatoirement mentionner :<br/>
+<br/>   - le lieu de travail ;<br/>
+<br/>   - la catégorie et l'emploi du salarié ;<br/>
+<br/>   - son coefficient hiérarchique ;<br/>
+<br/>   - éventuellement, la durée de la période d'essai telle que fixée à l'article 8 ;<br/>
+<br/>   - le montant de la rémunération, le nombre d'heures de travail et tous les autres éléments éventuels de rémunération ;<br/>
+<br/>   - l'existence de la convention collective qui doit être tenue à la disposition du personnel.<br/>
+<br/>   L'embauchage se fait directement par l'employeur. Cependant, les postes vacants seront par priorité offerts au personnel en place présentant les compétences requises, de manière à faciliter la promotion.<br/>
+<br/>   Les employeurs se soumettront aux dispositions légales en matière d'embauchage.<br/>
+<br/>   Tout salarié fera l'objet d'un examen médical, en principe avant l'embauchage et en tout cas avant l'expiration de la période d'essai.<br/>
+<br/>   L'embauchage devra se faire sans discrimination de sexe, d'âge, de nationalité ou d'opinion, sous réserve toutefois du respect des dispositions légales.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

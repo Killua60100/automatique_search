@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842687</ID>
+<ANCIEN_ID>KBKAAXXXXXX00017XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/26/KALIARTI000005842687.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>17 (1)</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>2014-06-20</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720857">Service national  </TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2014-06-20" id="KALIARTI000005842687" num="17 (1)" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2014-06-20" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000029459594" num="17" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Si le salarié a moins de 1 an de présence au moment de son départ pour accomplir le service national, seules les dispositions du code du travail sont applicables. </p>
+<p>Si le salarié compte au moins 1 an de présence au moment de son départ au service national, son contrat de travail ne se trouve pas rompu du fait de son départ ; le salarié devra donc être réintégré dans son emploi à l'issue de son service, à moins que le poste qu'il occupait n'ait été supprimé et qu'il n'y ait pas de poste équivalent disponible. </p>
+<p>Si l'intéressé ne peut réoccuper son emploi pour les raisons précédentes, la rupture du contrat de travail est assimilée à un licenciement. </p>
+<p>Trois mois avant la date présumée de sa libération, l'employeur pourra interroger le salarié sur ses intentions, et celui-ci devra fournir une réponse au moins 1 mois avant la date présumée de sa libération. </p>
+<p>Les autres règles particulières relatives aux personnes intéressées par le service national, pour le service préparatoire, pour un maintien ou rappel au service national, à titre quelconque, sont celles du code du travail (en particulier art. L. 122-20 et L. 122-21). Les dispositions de l'article L. 122-20 du code du travail deviennent applicables si le maintien sous les drapeaux excède quatre mois. </p>
+<p>Dans le cas où la durée effective du service national et d'un maintien sous les drapeaux éventuel excéderait 16 mois, le présent article devrait être révisé par les parties signataires. </p>
+<p>
+<font color="#808080" size="1">
+<i>(1) Article étendu sous réserve du respect de l'article L. 122-18 du code du travail (arrêté du 20 novembre 1978, art. 1er).</i>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006646008" naturetexte="CODE" nortexte="" num="L122-20" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L122-20 (Ab)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

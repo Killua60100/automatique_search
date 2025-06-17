@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050432103</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/43/21/KALIARTI000050432103.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>27 bis</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-01-01" fin="2999-01-01" id="KALISCTA000050432105">Bénéficiaires au régime de prévoyance cadre et assimilés</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050432103" num="27 bis" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Sur la base du critère 1° de l'article R. 242-1-1 du code de la sécurité sociale, lequel prévoit la possibilité d'intégrer des salariés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire prévoyance (art. L. 911-1) par accord de branche et sous réserve que celui-ci reçoive un agrément par la commission paritaire APEC mentionnée à l'article 3 de l'accord national interprofessionnel du 17 novembre 2017, sont intégrés à la catégories des cadres et assimilés, pour le bénéfice des avantages en matière de prévoyance des cadres et assimilés, tel que défini par l'article premier de l'ANI du 17 novembre 2017 :<br/>
+– salariés relevant de l'article 2.1 de l'ANI de 2017 : l'ensemble des salariés ayant le statut cadre et étant positionnés au niveau IX de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités ;<br/>
+– salariés relevant de l'article 2.2 de l'ANI de 2017 : l'ensemble des salariés ayant le statut agent de maîtrise et étant positionnés au niveau VIII de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités.</p>
+<p>L'ensemble des salariés positionnés au niveau VII pourront relever de l'article 2.2 de l'ANI de 2017. L'assimilation de ces salariés aux cadres visés à l'article 2.1 de l'ANI de 2017 n'étant ni automatique ni obligatoire, les entreprises qui y recourent demeurent libres de le prévoir ou non.</p>
+<p>Les salariés agents de maîtrise qui relèveront de l'article 2.2 de l'ANI de 2017 ne pourront pas prétendre au bénéfice des dispositions propres au statut cadre autres que les avantages en matière de prévoyance des cadres et assimilés définis par l'article premier de l'ANI de 2017.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000050427968" datesignatexte="2024-07-31" id="KALIARTI000050427977" naturetexte="Avenant" nortexte="ASET2450802M" num="2" numtexte="67" sens="cible" typelien="CITATION">Détermination des salariés assimilés au statut ... - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000050427968" datesignatexte="2024-07-31" id="KALIARTI000050427977" naturetexte="Avenant" nortexte="ASET2450802M" num="2" numtexte="67" sens="cible" typelien="CREE">Détermination des salariés assimilés au statut ... - art. 2 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

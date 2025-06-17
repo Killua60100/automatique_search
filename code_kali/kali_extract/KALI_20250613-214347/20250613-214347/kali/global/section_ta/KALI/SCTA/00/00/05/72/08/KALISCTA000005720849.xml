@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005720849</ID>
+<TITRE_TA>Durée du travail</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="1988-06-22" id="KALIARTI000005842667" num="9" origine="KALI"/>
+<LIEN_ART debut="1988-06-22" etat="REMPLACE" fin="1989-06-22" id="KALIARTI000005842669" num="9" origine="KALI"/>
+<LIEN_ART debut="1989-06-22" etat="REMPLACE" fin="1995-09-12" id="KALIARTI000005842670" num="9" origine="KALI"/>
+<LIEN_ART debut="1995-09-12" etat="REMPLACE" fin="2000-01-13" id="KALIARTI000005842671" num="9" origine="KALI"/>
+<LIEN_ART debut="2000-03-31" etat="REMPLACE" fin="2000-01-13" id="KALIARTI000005842673" num="9" origine="KALI"/>
+<LIEN_ART debut="2000-01-13" etat="REMPLACE" fin="2002-11-28" id="KALIARTI000005842674" num="9" origine="KALI"/>
+<LIEN_ART debut="2002-11-28" etat="REMPLACE" fin="2006-02-25" id="KALIARTI000005842675" num="9" origine="KALI"/>
+<LIEN_ART debut="2006-02-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005842676" num="9" origine="KALI"/>
+<LIEN_ART debut="1982-03-23" etat="ABROGE" fin="1988-06-22" id="KALIARTI000005842668" num="9" origine="KALI"/>
+<LIEN_ART debut="1995-09-12" etat="REMPLACE" fin="2000-01-13" id="KALIARTI000005842672" num="9" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

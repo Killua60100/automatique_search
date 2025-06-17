@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053645</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/36/KALIARTI000028053645.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5.2</NUM>
+<TITRE>Voyages</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-13</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053374">Titre III Salariés de l'équipe artistique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053400">Sous-titre II Acteurs de complément</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053586">Chapitre V Défraiements et voyages</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053645" num="5.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">5.2.1. Conditions de voyage </p>
+<p align="left">Les déplacements des acteurs de complément s'effectuent dans les conditions suivantes, sauf impossibilité matérielle : <br/>– voyages ferroviaires : en 2e classe ; <br/>– voyages aériens : en classe économique ; <br/>– voyages routiers : ils s'effectuent dans des véhicules de transport collectif ou individuels ; <br/>– voyages maritimes : en 2e classe. </p>
+<p align="center">
+<i>5.2.2. Indemnisation des heures de voyage en dehors des jours de travail</i>  (1)
+</p>
+<p align="left">Le temps de voyage effectué en dehors des jours de travail n'est pas du temps de travail effectif mais fait l'objet d'une indemnisation prévue au contrat d'engagement, qui ne peut être inférieure au montant indiqué en annexe III. 2. B. <br/>Cette indemnisation n'est pas due lorsque le voyage est effectué entre 19 heures et 7 heures. <br/>Les heures de voyage effectuées les jours de travail sont rémunérées dans le cadre du salaire versé au titre du travail effectué ces jours-là.</p>
+<br/>
+<p>
+<font color="808080">
+<em>
+ (1) Article étendu sous réserve de l'application des dispositions de l'article L. 3121-4 du code du travail.  <br/>(ARRÊTÉ du 31 mars 2015 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

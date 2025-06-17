@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000026687608</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/26/68/76/KALIARTI000026687608.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>9.1.5.2</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2006-02-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2006-02-25" fin="2999-01-01" id="KALISCTA000026687607">Définition du travail de nuit</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-11-28" etat="MODIFIE" fin="2006-02-25" id="KALIARTI000026688885" num="9.1.5.2" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2006-02-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000026687608" num="9.1.5.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Tout travail entre 21 heures et 6 heures est considéré comme travail de nuit.</p>
+<p>Les laboratoires peuvent y substituer une période comprise entre 22 heures et 7 heures (1).</p>
+<p>Une autre période de 9 heures consécutives, comprises entre 21 heures et 7 heures mais comprenant, en tout état de cause, l'intervalle compris entre 24 heures et 5 heures, peut être substituée aux périodes mentionnées au premier alinéa, par accord d'entreprise ou d'établissement.</p>
+<p>En outre, à défaut d'accord d'entreprise et lorsque les caractéristiques particulières de l'activité du laboratoire le justifient, cette substitution peut être autorisée par l'inspecteur du travail après consultation des délégués syndicaux et avis du comité d'entreprise ou des délégués du personnel s'ils existent.</p>
+<p>
+<font color="#999999" size="1">
+<i>(1)</i>
+</font>
+<i>
+<font color="#808080" size="1">
+<font color="#999999" size="1">Alinéa</font> étendu sous réserve que par le terme " laboratoires " soient visés les accords d'entreprise conclus au niveau des laboratoires, au sens de l'article L. 213-1-1 du code du travail (arrêté du 15 février 2006, art. 1er).</font>
+</i>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS/>
+
+
+
+</ARTICLE>

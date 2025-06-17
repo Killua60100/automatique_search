@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005690469</ID>
+<TITRE_TA>Dispositions conventionnelles</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1993-12-07" etat="REMPLACE" fin="2005-06-30" id="KALIARTI000005767401" num="7" origine="KALI"/>
+<LIEN_ART debut="2005-06-30" etat="REMPLACE" fin="2007-07-20" id="KALIARTI000005767402" num="7" origine="KALI"/>
+<LIEN_ART debut="2007-07-20" etat="REMPLACE" fin="2022-06-01" id="KALIARTI000018649436" num="7" origine="KALI"/>
+<LIEN_ART debut="2022-06-01" etat="REMPLACE" fin="2024-04-01" id="KALIARTI000046573811" num="7" origine="KALI"/>
+<LIEN_ART debut="2024-04-01" etat="REMPLACE" fin="2025-03-01" id="KALIARTI000050141955" num="7" origine="KALI"/>
+<LIEN_ART debut="2025-03-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051704965" num="7" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640445" date_publi="2999-01-01" date_signature="1993-06-14" nature="ACCORD" nor="ASET9351333M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Travail intermittent dans le secteur scolaire" debut="1993-12-07" fin="2999-01-01" id_txt="KALITEXT000005640445">Accord du 14 juin 1993 relatif au travail intermittent dans le secteur scolaire </TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

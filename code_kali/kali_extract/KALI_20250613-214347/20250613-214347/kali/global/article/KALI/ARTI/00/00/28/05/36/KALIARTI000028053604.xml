@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053604</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/36/KALIARTI000028053604.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4.2</NUM>
+<TITRE>Organisation hebdomadaire du travail</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-13</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053374">Titre III Salariés de l'équipe artistique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053399">Sous-titre Ier Artistes-interprètes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053579">Chapitre IV Durée du travail</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053604" num="4.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">
+<br/>4.2.1. Organisation de la semaine de tournage</p>
+<p align="left">
+<br/>Le tournage s'organise normalement sur 5 jours au cours d'une semaine civile. Pour les artistes- interprètes, il peut être organisé sur 6 jours au cours d'une semaine civile dans les conditions précisées ci-après.<br/>4.2.1.1. Tournage en région (autre que l'Ile-de-France) et à l'étranger.<br/>Le tournage pourra être organisé sur 6 jours au cours d'une semaine civile.<br/>L'artiste-interprète pourra travailler 6 jours au cours d'une même semaine civile, dans la limite de :<br/>– 3 semaines consécutives de 6 jours travaillés en cas de tournage en région ;<br/>– 6 semaines consécutives de 6 jours travaillés en cas de tournage à l'étranger.<br/>La 4e semaine en cas de tournage en région ou la 7e semaine en cas de tournage à l'étranger devra obligatoirement comprendre 2 jours de repos consécutifs comprenant le dimanche (sauf en cas d'impossibilité de recourir au repos le dimanche en application de l'article 3.1.2 du présent titre, auquel cas le repos hebdomadaire sera donné un autre jour). Le personnel en situation de voyage reste logé et défrayé sur place ou, dans la mesure du possible et en accord avec la production, bénéficie pour les tournages en France métropolitaine, de la prise en charge d'un billet de transport aller et retour leur permettant de regagner leur domicile durant le week-end.<br/>4.2.1.2. Tournage en Ile-de-France.<br/>Le tournage pourra être organisé sur 6 jours au cours d'une semaine civile.<br/>Dans ce cas, et si l'artiste-interprète a travaillé les 5 premiers jours de la semaine, il lui sera octroyé une rémunération complémentaire correspondant à 25 % du salaire horaire minimum conventionnel au prorata du nombre d'heures effectuées le 6e jour de la même semaine civile.</p>
+<p align="center">
+<br/>4.2.2. Repos hebdomadaire</p>
+<p align="left">
+<br/>Une réduction à 24 heures consécutives du repos hebdomadaire prévu à l'article 3.1.2 du présent titre pourra être appliquée pour les artistes-interprètes n'ayant pas effectué 5 jours de travail consécutifs dans la même semaine.</p>
+<p align="center">
+<br/>4.2.3. Exclusions</p>
+<p align="left">
+<br/>Des stipulations particulières d'engagement et de rémunération faisant exception au présent article 4.2 peuvent être établies si le salaire de base perçu par l'artiste-interprète est égal ou supérieur à cinq fois le salaire minimum fixé à l'annexe III.1.A du présent sous-titre.<br/>Pour les films tels que définis à l'annexe III du titre II, des stipulations particulières d'engagement et de rémunération faisant exception au présent article 4.2 et définies en annexe III.1.D peuvent être établies si le salaire de base perçu par l'artiste-interprète est supérieur à cinq fois le salaire minimum fixé à l'annexe III.1.A du présent sous-titre.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

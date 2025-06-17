@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767299</ID>
+<ANCIEN_ID>KGOAAXXXXXX00014XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/72/KALIARTI000005767299.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>14</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>INDEMNITES_LICENCIEMENT</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>2008-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2009-06-22" id="KALISCTA000005690415">Indemnité de licenciement (ex-art.  13)</TITRE_TM>
+<TITRE_TM debut="2009-06-22" fin="2999-01-01" id="KALISCTA000021822346">Indemnité de licenciement </TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-01-01" etat="REMPLACE" fin="2009-06-22" id="KALIARTI000018649442" num="14" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="2008-01-01" id="KALIARTI000005767299" num="14" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-06-22" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021822343" num="14" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Une indemnité distincte du préavis sera accordée, en dehors du cas de faute grave ou lourde dont l'appréciation finale appartient aux tribunaux, aux salariés licenciés avant l'âge de soixante-cinq ans (ou soixante ans en cas d'inaptitude reconnue par la sécurité sociale ou de bénéfice des dispositions de l'article L. 332 du code de la sécurité sociale) et ayant au moins deux ans d'ancienneté dans l'entreprise ou l'établissement, ancienneté de reprise comprise.<br/>
+<br/>   Cette indemnité sera calculée comme suit :<br/>
+<br/>   - moins de dix ans d'ancienneté : 1/10 de mois par année d'ancienneté ;<br/>
+<br/>   - à partir de dix ans d'ancienneté : 1/10 de mois par année d'ancienneté + 1/15 de mois par année d'ancienneté au-delà de dix ans.<br/>
+<br/>   Le salaire à prendre en considération pour le calcul de l'indemnité est le 1/12 de la rémunération des douze derniers mois précédant le licenciement, ou, selon la formule la plus avantageuse pour l'intéressé, le tiers des trois derniers mois, étant entendu que, dans ce cas, toute prime ou gratification de caractère annuel ou exceptionnel, qui aurait été versée au salarié pendant cette période, ne serait prise en compte que pro rata temporis.<br/>
+<br/>   Cette indemnité de licenciement ne peut se cumuler avec aucune autre indemnité de même nature.<br/>
+<br/>   Disposition particulière pour les cadres :<br/>
+<br/>   L'indemnité de licenciement pour un cadre sera calculée selon le barème légal rappelé ci-dessus et selon le barème conventionnel ci-après :<br/>
+<br/>   Temps de présence dans l'entreprise :<br/>
+<br/>   - de un à cinq ans de présence : 1/10 de mois/année + 1/15 mois/année au-dessus de cinq ans et jusqu'à dix ans ;<br/>
+<br/>   - au-delà de dix ans jusqu'à quinze ans de présence : 1/10 mois/année + 1/15 mois/année au-dessus de cinq ans et jusqu'à dix ans + 2/15 mois/année au-dessus de dix ans et jusqu'à quinze ans ;<br/>
+<br/>   - au-delà de quinze ans de présence : 1/10 mois/année + 1/15 mois/année au-dessus de cinq ans et jusqu'à dix ans + 2/15 mois/année au-dessus de dix ans et jusqu'à quinze ans + 3/15 mois/année au-dessus de quinze ans.<br/>
+<br/>   Le plus favorable des deux systèmes, légal ou conventionnel, s'appliquera au cadre.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

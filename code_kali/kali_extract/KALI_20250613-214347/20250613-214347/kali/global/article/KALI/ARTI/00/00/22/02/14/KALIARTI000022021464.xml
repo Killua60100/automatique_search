@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000022021464</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/22/02/14/KALIARTI000022021464.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>45</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-03" fin="2999-01-01" id="KALISCTA000005750746">Section 6 : Parentalité, maladie et invalidité</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-03" fin="2999-01-01" id="KALISCTA000005761320">Rente invalidité</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2005-02-03" etat="REMPLACE" fin="2009-07-01" id="KALIARTI000005841411" num="45" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_NON_ETEN">
+<LIEN_ART debut="2009-07-01" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALIARTI000022021464" num="45" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>   Les salariés classés en invalidité 2e et 3e catégorie par la sécurité sociale ou bénéficiant d'une rente pour accident du travail ou maladie professionnelle ayant entraîné un taux d'incapacité d'au moins 66 %, percevront une rente d'invalidité complétant les prestations de la sécurité sociale à hauteur de 70 % du salaire brut de référence.</p>
+<p>   Les salariés classés en invalidité 1re catégorie par la sécurité sociale ou bénéficiant d'une rente pour accident du travail ou maladie professionnelle ayant entraîné un taux d'incapacité compris entre 33 % et 66 %, percevront une rente d'invalidité complétant les prestations de la sécurité sociale à hauteur de 60 % du montant de la rente invalidité 2e ou 3e catégorie.</p>
+<p>   La garantie s'applique aux invalides reconnus à compter du 1er janvier 2004, y compris pour les arrêts en cours indemnisés jusqu'alors au titre de l'incapacité de travail, couverts par le contrat de garantie collective, dans les conditions fixées à l'article 48.1.</p>
+<p>   Le cumul des prestations servies avec toute rémunération ou revenu de remplacement ne peut conduire le bénéficiaire à percevoir plus que le salaire net de référence dont il bénéficiait avant la maladie.</p>
+<p>   Cette rente est versée au plus tard jusqu'à la date de liquidation des prestations du régime d'assurance vieillesse en cas d'invalidité.</p>
+<p>   Par salaire de référence servant de base au calcul des prestations invalidité, il faut entendre le salaire total brut ayant donné lieu à cotisation au cours des 12 mois précédant l'arrêt de travail ou pour les salariés n'ayant pas 12 mois d'ancienneté dans l'entreprise employeur, le salaire sera reconstitué de manière théorique.</p>
+<p>   En cas de changement dans les précomptes effectués sur les prestations de la sécurité sociale, et à défaut de renégociation du contrat, les prestations continueront à être servies sur la base applicable au 9 mars 2004.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021980877" datesignatexte="2009-10-27" id="KALIARTI000021980887" naturetexte="avenant" nortexte="ASET0951250M" num="4" numtexte="68" sens="cible" typelien="MODIFIE">Régime de prévoyance des cadres et des non-cadres - art. 4 (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

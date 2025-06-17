@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053431</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/34/KALIARTI000028053431.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+
+<TITRE>Egalité entre les hommes et les femmes</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053377">Chapitre II Libertés civiques et égalité</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053431" num="5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">L'égalité professionnelle entre les hommes et les femmes constitue une règle à laquelle il ne peut être en aucun cas dérogé.<br/>Sont interdites toutes discriminations à l'embauche et toutes disparités de rémunérations, de formation, de qualification et de classification quelles que soient les fonctions exercées par les salariés masculins ou féminins.<br/>A ce titre, notamment, sera respectée et appliquée l'égalité de rémunération entre les hommes et les femmes.<br/>En application de l'article L. 2241-11 du code du travail issu de la loi du 9 novembre 2010 portant réforme des retraites, les organisations d'employeurs et les organisations syndicales de salariés liées par la présente convention collective à la suite des négociations annuelle et quinquennale visées aux articles L. 2241-1 et L. 2241-7 du code du travail concluront un accord visant à supprimer les écarts de rémunérations entre les femmes et les hommes.</p>
+<br/>
+<p>
+<font color="808080">
+<em>
+ (1) Article étendu sous réserve du respect des dispositions de l'article L. 2241-9 du code du travail.  <br/>(ARRÊTÉ du 31 mars 2015 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901738" naturetexte="CODE" nortexte="" num="L2241-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2241-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901749" naturetexte="CODE" nortexte="" num="L2241-11" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2241-11</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

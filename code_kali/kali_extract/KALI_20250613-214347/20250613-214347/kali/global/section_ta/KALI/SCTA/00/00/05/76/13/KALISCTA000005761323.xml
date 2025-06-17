@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005761323</ID>
+<TITRE_TA>Droit à garanties</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2005-02-03" etat="REMPLACE" fin="2009-07-01" id="KALIARTI000005841414" num="48" origine="KALI"/>
+<LIEN_ART debut="2009-07-01" etat="MODIFIE" fin="2011-01-18" id="KALIARTI000022021457" num="48" origine="KALI"/>
+<LIEN_ART debut="2011-01-18" etat="MODIFIE" fin="2012-07-01" id="KALIARTI000024424189" num="48" origine="KALI"/>
+<LIEN_ART debut="2012-07-01" etat="MODIFIE" fin="2013-10-01" id="KALIARTI000026581213" num="48" origine="KALI"/>
+<LIEN_ART debut="2013-10-01" etat="REMPLACE" fin="2016-01-01" id="KALIARTI000028141323" num="48" origine="KALI"/>
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2018-01-01" id="KALIARTI000032853493" num="48" origine="KALI"/>
+<LIEN_ART debut="2018-01-01" etat="REMPLACE" fin="2021-07-01" id="KALIARTI000038195013" num="48" origine="KALI"/>
+<LIEN_ART debut="2021-07-01" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000044109618" num="48" origine="KALI"/>
+<LIEN_ART debut="2023-01-01" etat="REMPLACE" fin="2024-01-01" id="KALIARTI000047043820" num="48" origine="KALI"/>
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000048682492" num="48" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-03" fin="2999-01-01" id="KALISCTA000005750746">Section 6 : Parentalité, maladie et invalidité</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

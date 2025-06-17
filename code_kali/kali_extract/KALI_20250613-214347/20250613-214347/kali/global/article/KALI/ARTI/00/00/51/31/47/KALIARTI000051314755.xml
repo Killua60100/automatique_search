@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051314755</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/31/47/KALIARTI000051314755.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE>Modification des cotisations</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051314748" date_publi="2025-03-12" date_signature="2024-12-30" nature="Avenant" nor="ASET2550098M" num="6" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de santé" debut="2025-01-01" fin="2999-01-01" id_txt="KALITEXT000051314748">Avenant n° 6 du 30 décembre 2024 à l'accord du 3 juillet 2015 relatif au régime frais de santé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635252" date_publi="1993-06-02" etat="VIGUEUR_ETEN" nature="IDCC" num="1631" titre="Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993" url="conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635252.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051314755" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">À l'article 6.2.1 de l'accord du 3 juillet 2015 relatif aux cotisations en cas d'adhésion à l'organisme recommandé, les tableaux de cotisations sont remplacés par les tableaux suivants :</p>
+<p align="center">« Salariés en activités</p>
+<p align="right">(Tarifs mensuels TTC en % PMSS.)</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th colspan="2"> </th>
+<th colspan="2">Adhésion obligatoire aux options</th>
+</tr>
+<tr>
+<th>Régime général</th>
+<th>Base</th>
+<th>Base + option 1 obligatoire</th>
+<th>Base + option 2 obligatoire</th>
+</tr>
+<tr>
+<td>Salarié</td>
+<td align="center">1,10 %</td>
+<td align="center">1,27 %</td>
+<td align="center">1,45 %</td>
+</tr>
+<tr>
+<td>Conjoint</td>
+<td align="center">1,28 %</td>
+<td align="center">1,46 %</td>
+<td align="center">1,67 %</td>
+</tr>
+<tr>
+<td>Enfant [1]</td>
+<td align="center">0,84 %</td>
+<td align="center">0,99 %</td>
+<td align="center">1,16 %</td>
+</tr>
+<tr>
+<td colspan="4">[1]   La cotisation est gratuite à compter du 3e enfant.</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right">(Tarifs mensuels TTC en % PMSS.)</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th colspan="2"> </th>
+<th colspan="2">Adhésion obligatoire aux options</th>
+</tr>
+<tr>
+<th>Régime Alsace-Moselle</th>
+<th>Base</th>
+<th>Base + option 1 obligatoire</th>
+<th>Base + option 2 obligatoire</th>
+</tr>
+<tr>
+<td>Salarié</td>
+<td align="center">0,45 %</td>
+<td align="center">0,62 %</td>
+<td align="center">0,80 %</td>
+</tr>
+<tr>
+<td>Conjoint</td>
+<td align="center">0,52 %</td>
+<td align="center">0,70 %</td>
+<td align="center">0,91 %</td>
+</tr>
+<tr>
+<td>Enfant [1]</td>
+<td align="center">0,35 %</td>
+<td align="center">0,50 %</td>
+<td align="center">0,67 %</td>
+</tr>
+<tr>
+<td colspan="4">[1]   La cotisation est gratuite à compter du 3e enfant.</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right">(Tarifs mensuels TTC en % PMSS.)</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th rowspan="2">Régime général et régime Alsace-Moselle</th>
+<th colspan="3">Adhésion facultative aux options</th>
+</tr>
+<tr>
+<th>Option 1 en complément de la base</th>
+<th>Option 2<br/>
+			en complément de la base</th>
+<th>Ou option 2 en complément de base + option 1 obligatoire</th>
+</tr>
+<tr>
+<td>Salarié</td>
+<td align="center">+ 0,21 %</td>
+<td align="center">+ 0,41 %</td>
+<td align="center">+ 0,24 %</td>
+</tr>
+<tr>
+<td>Conjoint</td>
+<td align="center">+ 0,23 %</td>
+<td align="center">+ 0,47 %</td>
+<td align="center">+ 0,29 %</td>
+</tr>
+<tr>
+<td>Enfant [1]</td>
+<td align="center">+ 0,18 %</td>
+<td align="center">+ 0,39 %</td>
+<td align="center">+ 0,23 %</td>
+</tr>
+<tr>
+<td colspan="4">[1]   La cotisation est gratuite à compter du 3e enfant.</td>
+</tr>
+</tbody>
+</table>
+
+<p align="left">Les taux de cotisation ci-dessus sont fixés à compter du 1er janvier 2025 jusqu'au 31 décembre 2026. »</p>
+<p align="left">À l'article 8.2 de l'accord du 3 juillet 2015, les tableaux de cotisations sont remplacés par les tableaux suivants :</p>
+<p align="center">« Accueils (loi Évin)</p>
+<p align="right">(Tarifs des options y compris la base-Tarifs mensuels TTC en % PMSS.)</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Régime général<br/>
+			Ancien salarié<br/>
+			ou conjoint du salarié décédé</th>
+<th>Base</th>
+<th>Base + option 1</th>
+<th>Base + option 2</th>
+</tr>
+<tr>
+<td>1re année</td>
+<td align="center">1,10 %</td>
+<td align="center">1,27 %</td>
+<td align="center">1,45 %</td>
+</tr>
+<tr>
+<td>2e année</td>
+<td align="center">1,37 %</td>
+<td align="center">1,58 %</td>
+<td align="center">1,80 %</td>
+</tr>
+<tr>
+<td>3e année</td>
+<td align="center">1,65 %</td>
+<td align="center">1,90 %</td>
+<td align="center">2,17 %</td>
+</tr>
+<tr>
+<td>4e année</td>
+<td align="center">1,82 %</td>
+<td align="center">2,10 %</td>
+<td align="center">2,39 %</td>
+</tr>
+<tr>
+<td>Conjoint</td>
+<td align="center">1,82 %</td>
+<td align="center">2,10 %</td>
+<td align="center">2,39 %</td>
+</tr>
+<tr>
+<td>Enfant [1]</td>
+<td align="center">0,84 %</td>
+<td align="center">0,99 %</td>
+<td align="center">1,16 %</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right">(Tarifs des options y compris la base-Tarifs mensuels TTC en % PMSS.)</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Régime Alsace-Moselle<br/>
+			Ancien salarié<br/>
+			ou conjoint du salarié décédé</th>
+<th>Base</th>
+<th>Option 1<br/>
+			Base + option 1</th>
+<th>Option 2<br/>
+			Base + option 2</th>
+</tr>
+<tr>
+<td>1re année</td>
+<td align="center">0,45 %</td>
+<td align="center">0,62 %</td>
+<td align="center">0,80 %</td>
+</tr>
+<tr>
+<td>2e année</td>
+<td align="center">0,56 %</td>
+<td align="center">0,77 %</td>
+<td align="center">0,99 %</td>
+</tr>
+<tr>
+<td>3e année</td>
+<td align="center">0,67 %</td>
+<td align="center">0,92 %</td>
+<td align="center">1,19 %</td>
+</tr>
+<tr>
+<td>4e année</td>
+<td align="center">0,74 %</td>
+<td align="center">1,02 %</td>
+<td align="center">1,31 %</td>
+</tr>
+<tr>
+<td>Conjoint</td>
+<td align="center">0,74 %</td>
+<td align="center">1,02 %</td>
+<td align="center">1,31 %</td>
+</tr>
+<tr>
+<td>Enfant [1]</td>
+<td align="center">0,35 %</td>
+<td align="center">0,50 %</td>
+<td align="center">0,67 %</td>
+</tr>
+</tbody>
+</table>
+
+<p align="left">Les taux de cotisation ci-dessus sont fixés à compter du 1er janvier 2025 jusqu'au 31 décembre 2026. »</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000031284609" datesignatexte="2015-07-03" id="KALIARTI000051320942" naturetexte="Accord" nortexte="ASET1550778M" num="6" numtexte="" sens="source" typelien="MODIFIE">Régime frais de santé - art. 6 (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000031284609" datesignatexte="2015-07-03" id="KALIARTI000051320938" naturetexte="Accord" nortexte="ASET1550778M" num="8" numtexte="" sens="source" typelien="MODIFIE">Régime frais de santé - art. 8 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

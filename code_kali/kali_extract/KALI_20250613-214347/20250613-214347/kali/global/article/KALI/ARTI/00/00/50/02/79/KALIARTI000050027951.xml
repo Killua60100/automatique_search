@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050027951</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/02/79/KALIARTI000050027951.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050027943" date_publi="2024-07-18" date_signature="2024-05-22" nature="Accord" nor="ASET2450548M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="CQP et CQPI" debut="2025-07-01" fin="2999-01-01" id_txt="KALITEXT000050027943">Accord du 22 mai 2024 relatif aux CQP et aux CQPI</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027946">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635597" date_publi="1953-03-06" etat="VIGUEUR_ETEN" nature="IDCC" num="45" titre="Convention collective nationale du caoutchouc du 6 mars 1953. Étendue par arrêté du 29 mai 1969 JORF 18 juin 1969 " url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635597.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027951" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Consciente du rôle essentiel de la formation professionnelle dans l'évolution de l'emploi et l'épanouissement des salariés, la branche du caoutchouc a développé divers outils et dispositifs afin de favoriser l'accès des salariés à la formation professionnelle.</p>
+<p align="left">Les organisations syndicales de salariés et d'employeurs représentatives au niveau de la branche du caoutchouc confirment leur volonté de développer l'attractivité des métiers industriels, de fidéliser et conserver les salariés aux compétences et aux savoirs spécifiques de la branche, de reconnaître et d'accroître les qualifications acquises lors de parcours de formation et/ou par l'expérience professionnelle.</p>
+<p align="left">Les certifications professionnelles ont pour finalité de permettre à une personne, quel que soit son statut, de certifier qu'elle détient un ensemble de connaissances et de compétences nécessaires à l'exercice d'une activité professionnelle.</p>
+<p align="left">Les certifications professionnelles participent ainsi à la sécurisation des parcours professionnels des personnes qui en sont titulaires, et concourent à l'objectif, pour toute personne, de progresser au cours de sa vie professionnelle.</p>
+<p align="left">Dans ce cadre, les organisations syndicales de salariés et d'employeurs représentatives au niveau de la branche décident de maintenir par le présent accord la mise en place des certificats de qualification professionnelle (CQP) prévue initialement par l'accord du 15 juin 2011, conformément à la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. Ce nouvel accord s'y substituera de plein droit.</p>
+<p align="left">Dans l'objectif de développer une offre de certifications professionnelles pertinentes répondant aux besoins en compétences des entreprises industrielles du caoutchouc, de favoriser la construction de parcours certifiants des salariés reconnus par la branche et de faire progresser le nombre de bénéficiaires titulaires d'une certification professionnelle, les organisations professionnelles d'employeurs représentatives au niveau de la branche et les organisations syndicales de salariés représentatives au niveau de la branche se fixent pour ambition de définir une offre de certification professionnelle qui répond aux besoins en compétences des entreprises et des salariés, actualisée et enrichie régulièrement.</p>
+<p align="left">La politique de certification professionnelle de la branche du caoutchouc s'inscrit dans le cadre de la politique de certification professionnelle interbranche (CQPI) afin de répondre aux besoins communs en qualifications professionnelles compte tenu de la proximité des métiers, et permettant de favoriser l'employabilité et la mobilité des salariés par une valorisation de leurs acquis validée par une certification commune.</p>
+<p align="left">Les certifications professionnelles de la branche du caoutchouc sont validées par la CPNEFP du caoutchouc. Les modalités de création, de révision, ou de suppression, ainsi que les modalités d'attribution des certifications professionnelles de la branche sont définies et précisées, dans le respect des dispositions prévues par le présent accord.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000037367660" datesignatexte="2018-09-05" id="JORFTEXT000037367660" naturetexte="LOI" nortexte="MTRX1808061L" num="" numtexte="2018-771" sens="source" typelien="CITATION">LOI n° 2018-771 du 5 septembre 2018</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

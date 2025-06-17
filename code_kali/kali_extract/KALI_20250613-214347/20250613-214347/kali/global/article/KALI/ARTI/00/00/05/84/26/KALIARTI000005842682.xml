@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842682</ID>
+<ANCIEN_ID>KBKAAXXXXXX00014XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/26/KALIARTI000005842682.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>14</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720854">Prime d'ancienneté</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1978-02-15" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005842682" num="14" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Il est attribué aux salariés une prime d'ancienneté dont le montant est calculé sur le salaire minimum de l'emploi occupé par le salarié, proportionnellement au nombre d'heures effectives de travail, mais sans qu'il soit tenu compte dans ce calcul des majorations pour heures supplémentaires. Ces primes d'ancienneté sont indépendantes du salaire proprement dit et s'ajoutent dans tous les cas au salaire réel. Elles feront l'objet d'un décompte spécial et leur versement sera effectué lors de chaque paie. Le montant de la prime d'ancienneté ne doit pas être pris en considération dans le calcul du salaire minimum professionnel garanti.</p>
+<p>Le taux est de :</p>
+<p>- 3 % après 3 ans d'ancienneté ;</p>
+<p>- 6 % après 6 ans d'ancienneté ;</p>
+<p>- 9 % après 9 ans d'ancienneté ;</p>
+<p>- 12 % après 12 ans d'ancienneté ;</p>
+<p>- 15 % après 15 ans d'ancienneté.</p>
+<p>On entend par ancienneté dans le laboratoire le temps pendant lequel le salarié a été occupé d'une façon continue dans ce laboratoire, quelles que puissent être les modifications survenant dans la nature juridique de celui-ci.</p>
+<p>Sont considérés comme temps de présence dans le laboratoire pour le calcul de l'ancienneté :</p>
+<p>a) Les périodes militaires obligatoires ;</p>
+<p>b) Les périodes de congés payés annuels ;</p>
+<p>c) Les interruptions pour maladies professionnelles, accidents de travail et maternité ;</p>
+<p>d) Les interruptions de travail pour maladie ;</p>
+<p>e) Le service militaire obligatoire, sous les réserves suivantes :</p>
+<p>1° que le salarié ait au moins 1 an de présence dans le laboratoire avant son départ sous les drapeaux ;</p>
+<p>2° que le salarié ait été réintégré dans le laboratoire sur sa demande dès la fin de son service militaire ;</p>
+<p>f) Les rappels individuels sous les drapeaux ;</p>
+<p>g) Les congés exceptionnels prévus aux articles 4 et 20 de la présente convention.</p>
+<p>Dans le cas d'interruption du contrat de travail survenant pour les motifs suivants :</p>
+<p>1° Mobilisation sous réserve que le salarié ait été réintégré dans le laboratoire ;</p>
+<p>2° Repos légal prévu pour élever son enfant ;</p>
+<p>3° Congés exceptionnels (avec l'accord de l'employeur),</p>
+<p>la prime d'ancienneté sera calculée sur les périodes de travail avant et après l'interruption.</p>
+<p>Dans le cas de démission, les différentes périodes passées dans le laboratoire ne pourront se cumuler pour déterminer l'ancienneté en cas de réembauchage.</p>
+<p>Pour les employés dont l'emploi ne figure pas actuellement dans les définitions prévues en annexe, le montant de la prime est calculé sur le salaire minimum de leur coefficient.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000050027948</ID>
+<TITRE_TA>Chapitre 2 Certificats de qualification professionnelle (CQP)</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027954" num="1er" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027955" num="2" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027956" num="3" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027957" num="4" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027958" num="4.1" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027959" num="4.2" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027960" num="5" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027961" num="5.1" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027962" num="5.2" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027963" num="5.3" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027964" num="5.3.1" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027965" num="5.3.2" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027966" num="5.3.3" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027967" num="5.3.4" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027968" num="5.4" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027969" num="5.5" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027970" num="5.5.1" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027971" num="5.5.2" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027972" num="5.5.3" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027973" num="5.5.4" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027974" num="5.5.5" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027975" num="6" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027976" num="7" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027977" num="8" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027978" num="9" origine="KALI"/>
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027979" num="10" origine="KALI"/>
+<LIEN_ART debut="2024-10-02" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051726795" num="11" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050027943" date_publi="2024-07-18" date_signature="2024-05-22" nature="Accord" nor="ASET2450548M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="CQP et CQPI" debut="2025-07-01" fin="2999-01-01" id_txt="KALITEXT000050027943">Accord du 22 mai 2024 relatif aux CQP et aux CQPI</TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

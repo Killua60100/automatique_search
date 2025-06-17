@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053570</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053570.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>51</NUM>
+<TITRE>Conditions d'engagement</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053396">Chapitre X Réalisateur</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053570" num="51" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Durée de l'engagement<br/>En application de sa définition de fonction figurant en annexe du présent titre, le réalisateur est engagé par contrat(s) de travail à durée déterminée d'usage, incluant des périodes discontinues, qui commencent au début de la préparation technique et se terminent par l'établissement de la copie standard du film ou du master numérique.<br/>On considérera ici que la préparation technique débute à partir de l'exécution des travaux relatifs à la préparation du film tels qu'ils sont fixés dans la définition de fonction du réalisateur et au plus tard à la date de la mise en production du film.<br/>Les dates de début et de fin de l'engagement (ou la période minimale d'engagement en cas de contrat sans terme précis) ainsi que les dates prévisionnelles des différentes phases de celui-ci (préparation, tournage, montage, mixage, finitions) sont déterminées d'un commun accord entre le producteur et le réalisateur.<br/>Les différentes phases de travail se déroulent normalement en continuité et, sauf impossibilité, successivement. Si les différentes phases ne peuvent se dérouler en continuité, les dates des différentes phases seront fixées au contrat en accord avec le réalisateur. Si certaines dates ne peuvent pas être fixées lors de la signature du contrat initial (sous réserve de la période minimale d'engagement en cas de contrat sans terme précis), elles feront l'objet d'une fixation entre les parties dès que possible.<br/>Les contrats de 5 mois ou plus pourront être suspendus en raison des impératifs de la production. La période de suspension du contrat ne donnera pas lieu à rémunération seulement si elle est d'une durée égale ou supérieure à une semaine consécutive.<br/>En cas d'engagement de date à date, tout dépassement de la date du terme fixée initialement dans le contrat de travail doit faire l'objet d'un avenant au contrat.<br/>Le réalisateur peut être également engagé par contrat de travail pour une préparation technique dans le cadre d'une étude préalable de faisabilité avant toute mise en production.<br/>Ce contrat ne préjuge pas la décision ultérieure du producteur quant à la suite à donner à ce projet. Ainsi, ce contrat est indépendant du contrat de travail qui serait éventuellement conclu en cas de mise en production du projet.<br/>Type de contrat d'engagement<br/>En référence à l'article L. 3111-2 du code du travail, les parties conviennent que les réalisateurs ont vocation à conclure avec l'employeur une convention de forfait à temps plein sans référence horaire, compte tenu des responsabilités importantes qui leur sont confiées dans l'organisation générale et la bonne marche de la production pour laquelle ils sont engagés. Il est rappelé que la convention de forfait doit expressément figurer dans le contrat de travail conclu avec le réalisateur.<br/>Les dispositions spécifiques relatives aux conventions de forfait sans référence horaire s'appliquent en conséquence aux réalisateurs en tant que cadres dirigeants.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006902439" naturetexte="CODE" nortexte="" num="L3111-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L3111-2</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

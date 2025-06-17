@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767312</ID>
+<ANCIEN_ID>KGOAAXXXXXX00018XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767312.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>18</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>DUREE</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690420">Départ en congés annuels (ex-art.  17)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1984-02-17" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005767312" num="18" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>L'organisation des départs en congés annuels devra se faire à partir du 1er janvier de chaque année et des dates en seront définitivement fixées au plus tard le 30 avril. </p>
+<p>Pour le congé principal, les intéressés devront être prévenus par écrit (affichage) au moins 2 mois à l'avance de la date prévue pour leur départ en congé. Pour les congés à prendre en juillet et août, les dates de départ devront être fixées au plus tard le 30 mars. </p>
+<p>Toutefois, si le restaurant ferme, le personnel devra prendre ses congés au moment de la fermeture. </p>
+<p>En cas de congé par roulement, l'ordre des départs est fixé, par écrit (affichage), par l'employeur en fonction des nécessités du service, mais il sera tenu compte, dans la mesure du possible, des besoins particuliers des intéressés et de leur situation de famille. </p>
+<p>Conformément aux dispositions de l'article L. 223-8 du code du travail, lorsque le congé principal d'une durée supérieure à 12 jours ouvrables et au plus égale à 24 jours ouvrables est pris en dehors de la période du 1er mai au 31 octobre, l'employé a droit à 1 jour de congé supplémentaire lorsque la durée du congé est comprise entre 3 et 5 jours et à 2 jours de congés supplémentaires lorsque la durée est égale ou supérieure à 6 jours. </p>
+<p>Sous réserve de ce qui est prévu à l'article 17 pour le " secteur scolaire ", en cas de fermeture de l'établissement pour congé, lorsque la durée de la fermeture excède le nombre de jours auquel le salarié a droit, l'excédent-compte tenu des journées ou indemnités compensatrices de congés payés dont il aurait pu bénéficier pendant la période de référence-sera pris en compte au titre de chômage partiel. Il comptera, par contre, pour le calcul des droits à congé de l'année suivante. </p>
+<p>Les apprentis et jeunes travailleurs de moins de 21 ans au 30 avril de l'année précédente ont droit, s'ils le demandent, à un congé de 30 jours ouvrables. Mais ils ne pourront exiger aucune indemnité de congé payé pour les journées de vacances dont ils bénéficieront en sus de celles qu'ils ont acquises à raison du travail effectif, ou assimilé par la loi, au cours de la période de référence. </p>
+<p>Les femmes salariées de moins de 21 ans au 30 avril de l'année précédente ont droit à un congé supplémentaire de 2 jours par enfant à charge, congé ramené à un jour lorsque le congé principal légal n'excède pas 6 jours. </p>
+<p>Est réputé à charge tout enfant (légitime, reconnu, recueilli) qui vit au foyer et est âgé de moins de 15 ans au 30 avril de l'année en cours.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006647857" naturetexte="CODE" nortexte="" num="L223-8" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L223-8 (Ab)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

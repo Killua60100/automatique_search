@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000018649438</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/18/64/94/KALIARTI000018649438.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>11</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par avenant n° 43 du 20 juillet 2007, en vigueur le 1er janvier 2008, étendu par arrêté du 5 mai 2008, JO du 15 mai 2008. (1)</HISTORIQUE>
+<DATE_DEBUT>2008-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690412">Prime d'ancienneté d'entreprise (ex-art. 10)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000018649438" num="11" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="2008-01-01" id="KALIARTI000005767296" num="11" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La prime d'ancienneté prend en compte l'ancienneté liée au contrat de travail des salariés de statut employé. </p>
+<p>Elle est versée selon le barème suivant : </p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>ANCIENNETÉ </th>
+<th>PRIME D'ANCIENNETÉ <br/>en % du salaire minimum mensuel </th>
+</tr>
+<tr>
+<td align="center">5 ans </td>
+<td align="center">1 </td>
+</tr>
+<tr>
+<td align="center">10 ans </td>
+<td align="center">2 </td>
+</tr>
+<tr>
+<td align="center">15 ans </td>
+<td align="center">3 </td>
+</tr>
+<tr>
+<td align="center">20 ans </td>
+<td align="center">4 </td>
+</tr>
+</tbody>
+</table>
+
+<p>Elle est calculée sur le salaire minimum mensuel.</p>
+<p>
+<em>
+<font color="#999999" size="1">(1) L'avenant n° 43 du 20 juillet 2007 est étendu sous réserve de l'application des dispositions de l'article L. 2241-9 du code du travail (anc. L. 132-12-3) aux termes desquelles la négociation annuelle obligatoire sur les salaires vise également à définir et à programmer au niveau de la branche les mesures permettant de supprimer les écarts de rémunération entre les femmes et les hommes avant le 31 décembre 2010 (arrêté du 5 mai 2008, art. 1er).</font>
+</em>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000018216783" datesignatexte="2007-07-20" id="KALIARTI000018216813" naturetexte="Avenant" nortexte="ASET0751036M" num="" numtexte="43" sens="cible" typelien="MODIFIE">Salaires et  classifications - art. (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

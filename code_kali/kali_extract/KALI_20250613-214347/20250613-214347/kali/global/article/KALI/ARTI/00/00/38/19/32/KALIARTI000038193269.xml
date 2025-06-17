@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038193269</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/19/32/KALIARTI000038193269.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2018-07-01</DATE_DEBUT>
+<DATE_FIN>2020-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000019819141" date_publi="2999-01-01" date_signature="2008-09-03" nature="Avenant" nor="ASET0851091M" num="15" num_parution_jo="">
+<TITRE_TXT c_titre_court="Mise en place d'un régime de remboursements complémentaires de frais de soins de santé" debut="2009-03-01" fin="2999-01-01" id_txt="KALITEXT000019819141">Avenant n° 15 du 3 septembre 2008 relatif à la mise en place d'un régime de remboursements complémentaires de frais de soins de santé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-03-01" fin="2999-01-01" id="KALISCTA000019819170">Annexe</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635899" date_publi="1984-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1286" titre="Convention collective nationale des détaillants et détaillants-fabricants de la confiserie,  chocolaterie, biscuiterie du 1er janvier 1984.  Etendue par arrêté du 2 octobre 1984 JONC 12 octobre 1984.&#10;" url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635899.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2011-10-01" etat="REMPLACE" fin="2014-01-01" id="KALIARTI000026912508" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2011-10-01" etat="REMPLACE" fin="2011-10-01" id="KALIARTI000025786112" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2014-01-01" etat="REMPLACE" fin="2015-04-01" id="KALIARTI000028500532" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-09-03" etat="REMPLACE" fin="2011-09-07" id="KALIARTI000019819172" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2015-04-01" etat="REMPLACE" fin="2018-01-01" id="KALIARTI000031118542" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2018-07-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000038193269" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2017-07-01" etat="REMPLACE" fin="2018-07-01" id="KALIARTI000038193223" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000041799875" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-07-01" etat="MODIFIE" fin="2017-07-01" id="KALIARTI000038118563" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-07-01" etat="MODIFIE" fin="2018-07-01" id="KALIARTI000037813833" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Garanties</p>
+<p align="left">Sont couverts selon les conditions du régime conventionnel tous les actes et frais de soins de santé, ayant fait l'objet d'un remboursement et d'un décompte individuel sécurité sociale, relevant des postes de garanties détaillées ci-dessous.</p>
+<p align="left">Pendant la période de garantie, les exclusions et les limitations de garanties ne s'appliquent pas lorsqu'elles ont pour effet d'empêcher les prises en charge minimales prévues à l'article R. 871-2 du code de la sécurité sociale.</p>
+<p>(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)</p>
+<p>
+ http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2018/0043/ boc _ 20180043 _ 0000 _ 0011. pdf 
+</p>
+<p align="left">Pour toutes les dispositions ci-dessus, l'annualité est appréciée par année civile. La part non consommée une année n'est pas reportée l'année suivante.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000038184019" datesignatexte="2018-07-03" id="KALIARTI000038184022" naturetexte="Avenant" nortexte="ASET1851050M" num="1er" numtexte="11 bis" sens="cible" typelien="MODIFIE">Remboursement complémentaire de frais de soins ... - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

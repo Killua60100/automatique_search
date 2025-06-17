@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000047337251</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/47/33/72/KALIARTI000047337251.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Périmètre des bénéficiaires</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2023-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000031284609" date_publi="2015-10-08" date_signature="2015-07-03" nature="Accord" nor="ASET1550778M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de santé" debut="2016-01-01" fin="2999-01-01" id_txt="KALITEXT000031284609">Accord du 3 juillet 2015 relatif au régime frais de santé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="KALISCTA000031284622">Couverture du socle obligatoire</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635252" date_publi="1993-06-02" etat="VIGUEUR_ETEN" nature="IDCC" num="1631" titre="Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993" url="conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635252.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000031284631" num="3" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000047337251" num="3" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2020-01-01" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000042374555" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">3.1. Caractère collectif</p>
+<p align="left">La couverture du socle obligatoire bénéficie à l'ensemble des salariés des entreprises visées à l'article 1er sans sélection médicale.</p>
+<p align="center">3.2. Caractère obligatoire</p>
+<p align="left">Tous les salariés concernés relevant d'une ou de plusieurs entreprises visées à l'article 1er bénéficient obligatoirement de la couverture du socle obligatoire, acte par acte, à compter de leur date d'embauche.</p>
+<p align="left">Le caractère obligatoire résulte de la signature du présent accord. Il s'impose donc dans les relations individuelles de travail, et les salariés concernés ne pourront pas s'opposer, le cas échéant, au précompte de leur quote-part de cotisation.</p>
+<p align="left">Par dérogation au caractère obligatoire de l'affiliation des salariés, toutes les dispenses d'adhésion prévues à l'article R. 242-1-6 du code de la sécurité sociale sont retenues, à l'exception de celle prévue pour les salariés qui bénéficient, y compris en tant qu'ayants droit, de prestations servies par le régime local d'assurance maladie du Haut-Rhin, du Bas-Rhin et de la Moselle (cf. arrêté ministériel du 26 mars 2012).</p>
+<p align="left">Peuvent donc se dispenser d'adhésion, en fournissant les justificatifs correspondants :</p>
+<p align="left">1. Les salariés et apprentis bénéficiaires d'un contrat de travail d'une durée déterminée ou d'un contrat de mission d'une durée au moins égale à 12 mois, sous réserve qu'ils produisent un document attestant qu'ils bénéficient d'une couverture individuelle frais de santé pour le même type de garanties ;</p>
+<p align="left">2. Les salariés et apprentis bénéficiaires d'un contrat de travail d'une durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle frais de santé souscrite par ailleurs ;</p>
+<p align="left">3. Les salariés bénéficiaires à temps partiel et apprentis dont l'affiliation les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ;</p>
+<p align="left">4. Les salariés bénéficiaires d'une couverture complémentaire en application de l'article L. 861-3 du code de la sécurité sociale. Dans ce cas, la dispense peut jouer jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture. La demande de dispense doit être accompagnée d'un justificatif ; <font color="#808080">
+<em>(1) </em>
+</font>
+</p>
+<p align="left">5. Les salariés bénéficiaires couverts par une assurance individuelle de frais de santé au moment de la mise en place du régime institué par le présent accord ou de l'embauche si elle est postérieure. Cette dispense ne peut alors jouer que jusqu'à l'échéance du contrat individuel. Si le contrat comporte une clause à renouvellement tacite, la dispense prend fin à la date de reconduction tacite ;</p>
+<p align="left">6. Les salariés qui bénéficient par ailleurs, au titre d'une adhésion obligatoire auprès d'un autre employeur ou en tant qu'ayants droit, d'une couverture collective relevant de l'un des dispositifs suivants :<br/>
+a) Dans le cadre d'un dispositif de prévoyance complémentaire remplissant les conditions mentionnées au sixième alinéa de l'article L. 242-1 du code de la sécurité sociale (régime collectif et obligatoire) ;<br/>
+b) Dans le cadre du régime complémentaire d'assurance maladie des industries électriques et gazières ;<br/>
+c) Dans le cadre des dispositions prévues par le décret n° 2007-1373 du 19 septembre 2007 relatif à la participation de l'Etat et de ses établissements publics au financement de la protection sociale complémentaire de leurs personnels ;<br/>
+d) Dans le cadre des dispositions prévues par le décret n° 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents ;<br/>
+e) Dans le cadre des contrats d'assurance de groupe issus de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle.</p>
+<p align="left">Il appartiendra aux salariés de justifier annuellement de cette dispense.</p>
+<p align="left">En aucun cas, une dispense d'adhésion ne peut être imposée par l'employeur.</p>
+<p align="left">Les salariés concernés devront solliciter par écrit, auprès de leur employeur, leur dispense d'adhésion au présent régime et produire tout justificatif requis, après information, par l'employeur, des conséquences de ce choix.</p>
+<p align="left">Cette demande de dispense devra être formulée dans les 15 jours suivant la mise en place du régime institué par le présent accord ou l'embauche du salarié concerné si elle est postérieure à cette mise en place. A défaut, ils seront affiliés d'office au régime.</p>
+<p align="left">En tout état de cause, ces salariés sont tenus de cotiser au régime institué par le présent accord dès qu'ils cessent de se trouver dans l'une des situations ci-dessus et doivent en informer immédiatement l'employeur.</p>
+<p align="left">Par ailleurs, dans les cas où une justification doit être produite chaque année à l'employeur, celle-ci doit lui être adressée entre le 1er et le 31 décembre. Lorsque l'employeur ne reçoit pas de justificatif, le salarié est affilié à effet du 1er janvier qui suit. Les documents d'affiliation lui sont adressés et la cotisation salariale est alors précomptée sur le bulletin de paie.</p>
+<p align="left">Les salariés ayant choisi d'être dispensés d'affiliation peuvent à tout moment revenir sur leur décision et solliciter par écrit, auprès de leur employeur, leur adhésion à la couverture du socle obligatoire. Cette adhésion prendra alors effet le premier jour du mois suivant la demande et sera alors irrévocable pendant 2 ans.</p>
+<p align="center">3.3. Extension facultative de la couverture du socle obligatoire aux ayants droit du salarié</p>
+<p align="left">Les ayants droit du salarié peuvent adhérer à la couverture du socle obligatoire par une extension facultative souscrite individuellement par chaque salarié et donnant lieu à versement d'une cotisation spécifique.</p>
+<p align="left">Par ayant droit du salarié, il convient d'entendre :</p>
+<p align="left">1. Le conjoint non divorcé ni séparé de corps (séparation judiciaire ou amiable dès lors qu'elle est transcrite à l'état civil).</p>
+<p align="left">Est assimilé au conjoint :<br/>
+– la personne liée au salarié par un pacte civil de solidarité (Pacs) ;<br/>
+– le concubin n'ayant pas de revenu d'activité supérieur au montant du RSA (base “ couple ”, indépendamment du nombre d'enfant (s) à charge) ;<br/>
+– le concubin ayant un revenu d'activité supérieur au montant du RSA (base “ couple ”, indépendamment du nombre d'enfant (s) à charge) et sous réserve de la fourniture d'un certificat de concubinage délivré par la mairie, à défaut d'un justificatif de domicile commun. Le concubinage doit répondre à la définition posée par l'article 515-8 du code civil.</p>
+<p align="left">2. Les enfants à charge du salarié, et s'ils vivent au foyer, ceux à charge de son conjoint, de son partenaire lié par un Pacs ou ceux de son concubin :<br/>
+– âgés de moins de 18 ans, non-salariés ayant la qualité d'ayant droit au sens de la sécurité sociale du salarié, de son conjoint, de son partenaire lié par un Pacs ou de son concubin ;<br/>
+– âgés de moins de 26 ans, non-salariés, bénéficiant d'une immatriculation en propre en tant qu'assuré du régime de sécurité sociale et reconnus à charge par l'administration fiscale du salarié, de son conjoint, de son partenaire lié par un Pacs ou de son concubin ;<br/>
+– âgés de moins de 26 ans et poursuivant des études secondaires ou supérieures, ou une formation en alternance (notamment contrat d'apprentissage ou contrat de professionnalisation) ;<br/>
+– âgés de moins de 26 ans et étant à la recherche d'un premier emploi, inscrits à l'assurance chômage et ayant terminé leurs études depuis moins de 6 mois (les enfants ayant suivi une formation en alternance et connaissant une période de chômage à l'issue de leur formation sont considérés comme primo demandeurs d'emploi) ;<br/>
+– quel que soit leur âge, s'ils sont reconnus handicapés par la commission des droits et de l'autonomie des personnes handicapées (CDAPH), avant leur 26e anniversaire.</p>
+<p align="left">
+<font color="#808080">
+<em>(1) Le point 4 de l'article 3.2 est à effet du 1er novembre 2019. (Article 2 de l'avenant n° 4 du 3 février 2020-BOCC 2020-17)</em>
+</font>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000165840" datesignatexte="1994-02-11" id="JORFTEXT000000165840" naturetexte="LOI" nortexte="COMX9300154L" num="" numtexte="94-126" sens="source" typelien="CITATION">LOI n° 94-126 du 11 février 1994</LIEN>
+<LIEN cidtexte="JORFTEXT000000652964" datesignatexte="2007-09-19" id="JORFTEXT000000652964" naturetexte="DECRET" nortexte="BCFF0751468D" num="" numtexte="2007-1373" sens="source" typelien="CITATION">Décret n°2007-1373 du 19 septembre 2007</LIEN>
+<LIEN cidtexte="JORFTEXT000024772150" datesignatexte="2011-11-08" id="JORFTEXT000024772150" naturetexte="DECRET" nortexte="IOCB1111985D" num="" numtexte="2011-1474" sens="source" typelien="CITATION">Décret n°2011-1474 du 8 novembre 2011</LIEN>
+<LIEN cidtexte="KALITEXT000042101131" datesignatexte="2020-02-03" id="KALIARTI000042101138" naturetexte="Avenant" nortexte="ASET2050350M" num="2" numtexte="4" sens="source" typelien="CITATION">Modification de l'accord du 3 juillet 2015 (régime frais de santé) - art. 2</LIEN>
+<LIEN cidtexte="KALITEXT000047331676" datesignatexte="2022-12-30" id="KALIARTI000047331686" naturetexte="Avenant" nortexte="ASET2350080M" num="3" numtexte="5" sens="cible" typelien="MODIFIE">Régime frais de santé - art. 3 (VNE)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006070721" datesignatexte="2999-01-01" id="LEGIARTI000006428570" naturetexte="CODE" nortexte="" num="515-8" numtexte="" sens="source" typelien="CITATION">Code civil - art. 515-8</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006741953" naturetexte="CODE" nortexte="" num="L242-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L242-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745383" naturetexte="CODE" nortexte="" num="L861-3" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L861-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745456" naturetexte="CODE" nortexte="" num="L863-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L863-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000025130566" naturetexte="CODE" nortexte="" num="R242-1-6" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. R242-1-6</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

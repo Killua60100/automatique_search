@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053624</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/36/KALIARTI000028053624.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1.1</NUM>
+<TITRE>Salariés visés</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-13</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053374">Titre III Salariés de l'équipe artistique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053400">Sous-titre II Acteurs de complément</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053582">Chapitre Ier Fonctions</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053624" num="1.1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Au sens du présent sous-titre, on entend par « acteur de complément » (y compris s'ils sont appelés à réciter ou à chanter collectivement un texte connu) :<br/>– le figurant : on entend par figurant l'acteur de complément engagé pour figurer à l'image une présence qui revêt un caractère complémentaire à l'histoire, inscrite ou non au scénario et portée à la feuille de service ;<br/>– la silhouette : on entend par silhouette l'acteur de complément dont le personnage est mentionné sur la feuille de service. Seront également considérés comme silhouettes les acteurs de complément apportant un vrai savoir-faire précis et spécifique et engagés comme tels. Seront également considérés comme silhouettes les figurants choisis comme silhouettes et désignés comme tels par la mise en scène le jour du tournage et en accord avec la production ;<br/>– la silhouette parlante (jusqu'à 5 mots) fera l'objet d'un salaire spécifique prévu à l'annexe III.2.A. Au-delà de 5 mots, il sera établi un contrat d'artiste-interprète ;<br/>– la doublure lumière, cadrage, texte : on entend par doublure lumière, doublure cadrage ou doublure texte l'acteur de complément dont l'intervention est nécessaire pour une mise en place et un réglage spécifiques de la lumière, des cadrages ou de la prise de son mais n'est pas requise pendant les prises de vues. Il n'apparaît donc pas à l'image ;<br/>– la doublure image : on entend par doublure image l'acteur de complément qui remplace occasionnellement un artiste-interprète avec son accord à l'image lors du tournage de scènes particulières ou nécessitant un savoir-faire artistique spécifique que ne maîtrise pas l'artiste-interprète.<br/>Des dispositions spécifiques pour les acteurs de complément engagés pour les films publicitaires feront l'objet d'un accord spécifique qui sera annexé.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

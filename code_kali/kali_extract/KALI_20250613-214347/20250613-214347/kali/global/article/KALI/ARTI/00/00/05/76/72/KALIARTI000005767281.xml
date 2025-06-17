@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767281</ID>
+<ANCIEN_ID>KGOAAXXXXXX00001XAAXSXXB</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/72/KALIARTI000005767281.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+<TITRE/>
+
+<ETAT>MODIFIE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CHAMP_APPLICATION</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE>Modifié par Avenant n° 15 du 16 juin 1995 art. 1 en vigueur au jour de l'extension, BO conventions collectives 95-32.</HISTORIQUE>
+<DATE_DEBUT>1995-06-16</DATE_DEBUT>
+<DATE_FIN>1997-07-05</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690401">Champ d'application</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="1997-07-05" id="KALIARTI000005767280" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1995-06-16" etat="MODIFIE" fin="1997-07-05" id="KALIARTI000005767281" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1997-07-05" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005767282" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La présente convention collective nationale, conclue en application du titre III du livre Ier du code du travail, tel qu'il résulte de la loi n° 82-957 du 13 novembre 1982, règle les rapports entre l'ensemble des employeurs et des salariés travaillant en France métropolitaine dans la branche professionnelle de la restauration collective.<br/>
+<br/>   La restauration collective recouvre toutes les activités, exercées à titre principal, consistant à préparer et à fournir des repas, ainsi que toutes prestations qui leur sont associées, aux personnes dans leur cadre de travail et/ou de vie, à l'intérieur de collectivités publiques ou privées, à but lucratif ou non lucratif, dont les secteurs principaux sont :<br/>
+<br/>   - entreprise et administration ;<br/>
+<br/>   - enseignement ;<br/>
+<br/>   - hospitalier ;<br/>
+<br/>   - personnes âgées (foyers, résidences avec services, maisons de retraite).<br/>
+<br/>   - social, médico-social,<br/> ainsi qu'aux autres activités relevant des codes NAF 55.5.A et 55.5 C, à l'exclusion de la restauration ferroviaire et de la restauration pour le compte des compagnies aériennes.<br/>
+<br/>   Elle s'applique à l'ensemble du personnel, y compris celui des sièges sociaux et bureaux régionaux.<br/>
+<br/>   Les dispositions légales ou conventionnelles globalement plus favorables qui interviendraient dans le cadre des mesures prévues par la présente convention se substitueraient à celle-ci, ou feraient l'objet d'une adaptation, mais ne pourraient se cumuler.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

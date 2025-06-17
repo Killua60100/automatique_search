@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017855399</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/85/53/KALIARTI000017855399.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>18</NUM>
+
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000020752004">Repos hebdomadaire</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-09-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000017855399" num="18" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>
+</p>
+<p>Le repos hebdomadaire comprendra au minimum une journée (24 heures consécutives) à laquelle s'ajoutent les heures de repos quotidien, soit une durée totale de repos de 35 heures consécutives (art. 221-4 du code du travail).
+<br/>En cas de travail effectué le dimanche, la durée du repos hebdomadaire sera portée à 1 jour et demi répartis par accord entre les parties.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Article étendu sous réserve de l'application des dispositions des articles L. 3132-12 (anciennement article L. 221-9) et L. 3132-20 du code du travail (anciennement articles L. 221-9 et L. 221-6, alinéas 1 à 5).  <br/>(Arrêté du 30 juillet 2008, art. 1er)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>en vigueur le 1er jour du mois suivant l'extension</CONDITION_DIFFERE>
+<LIENS>
+
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006647376" naturetexte="CODE" nortexte="" num="L221-4" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L221-4</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

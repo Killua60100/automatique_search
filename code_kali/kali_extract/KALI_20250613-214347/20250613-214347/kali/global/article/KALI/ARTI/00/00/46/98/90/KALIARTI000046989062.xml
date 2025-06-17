@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000046989062</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/46/98/90/KALIARTI000046989062.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM> </NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2022-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="KALISCTA000028053375">ANNEXES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-10-27" fin="2999-01-01" id="KALISCTA000033892827">Annexe IV.A : Grille des salaires minima conventionnels</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_NON_ETEN">
+<LIEN_ART debut="2022-09-01" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALIARTI000046989062" num=" " origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2016-10-27" etat="VIGUEUR_ETEN" fin="2022-09-01" id="KALIARTI000033892825" num=" " origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Grille des salaires minima conventionnels</p>
+<p>Il est rappelé, comme l'indiquent le code du travail et l'article VI.1 du titre IV, qu'à compétence et expérience équivalentes, l'égalité salariale et professionnelle impose de d'allouer le même montant de rémunération aux femmes et aux hommes occupant des fonctions identiques.</p>
+<p align="right">(En euros.)</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Classification</th>
+<th>Niveau</th>
+<th>Qualification</th>
+<th>Salaires minima mensuels de base<br/>
+			(en euros)</th>
+<th>Complément autonomie</th>
+<th>Complément technicité</th>
+<th>Complément responsabilité</th>
+<th>Salaires minima mensuels<br/>
+			incluant tous compléments<br/>
+			(en euros)</th>
+</tr>
+<tr>
+<td align="center">Cadre supérieur</td>
+<td align="center">1</td>
+<td align="center">Qualifiée confirmée<br/>
+			Niveau 7 de l'Éducation nationale<br/>
+			ou expérience professionnelle équivalente</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+<td align="center">Hors niveau</td>
+</tr>
+<tr>
+<td align="center">Cadre A</td>
+<td align="center">2</td>
+<td align="center">Qualifiée<br/>
+			Niveau 6 de l'Éducation nationale<br/>
+			ou expérience professionnelle équivalente</td>
+<td align="center">2 671,38</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 911,80</td>
+</tr>
+<tr>
+<td align="center">Cadre B</td>
+<td align="center">3</td>
+<td align="center">Niveau 5<br/>
+			de l'Éducation nationale<br/>
+			ou expérience professionnelle équivalente</td>
+<td align="center">2 143,02</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 335,89</td>
+</tr>
+<tr>
+<td align="center">Agent de maîtrise</td>
+<td align="center">4</td>
+<td align="center">Qualifiée confirmée<br/>
+			Niveau 4 de l'Éducation nationale<br/>
+			ou expérience professionnelle équivalente</td>
+<td align="center">1 863,54</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">2 031,26</td>
+</tr>
+<tr>
+<td align="center">Employé A</td>
+<td align="center">5</td>
+<td align="center">Qualifiée<br/>
+			Niveau 3 de l'Éducation nationale<br/>
+			ou expérience professionnelle équivalente</td>
+<td align="center">1 715,00</td>
+<td align="center">3 %</td>
+<td align="center">3 %</td>
+<td align="center">–</td>
+<td align="center">1 817,90</td>
+</tr>
+<tr>
+<td align="center">Employé B</td>
+<td align="center">6</td>
+<td align="center">Pas de diplôme<br/>
+			ou expérience professionnelle nécessaire</td>
+<td align="center">1 685,00</td>
+<td align="center">3 %</td>
+<td align="center">–</td>
+<td align="center">–</td>
+<td align="center">1 735,55</td>
+</tr>
+</tbody>
+</table>
+
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000046956066" datesignatexte="2022-07-19" id="KALIARTI000046956133" naturetexte="Avenant" nortexte="ASET2251316M" num="3" numtexte="" sens="cible" typelien="MODIFIE">Révision du titre IV de la convention collective - art. 3 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

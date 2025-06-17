@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000042252609</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/42/25/26/KALIARTI000042252609.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Champ d'application</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-04-11</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="KALISCTA000028053375">ANNEXES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2020-04-11" fin="2999-01-01" id="KALISCTA000042252611">Annexe III : Techniciens de la production cinématographique - Intéressement aux recettes d'exploitation</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-04-11" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000042252609" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le recours à l'application de l'annexe III pour la production de films tels que fixés dans celle-ci est lié au choix du producteur. Le producteur peut choisir de ne pas y recourir.</p>
+<p align="left">Le recours aux dispositions de l'annexe III s'applique exclusivement à la production de films de long-métrage agréés.</p>
+<p align="left">Pour l'application de la présente annexe, les partenaires sociaux décident de la mise en place d'une commission paritaire.</p>
+<p align="left">Elle est présidée par un des représentants du collège employeurs.</p>
+<p align="left">Le fonctionnement de cette commission paritaire est régi par un règlement intérieur.</p>
+<p align="left">Cette commission a pour charge d'examiner, préalablement aux demandes d'agrément fixées par le code du cinéma et de l'image animée, les demandes des entreprises de production qui souhaiteraient recourir à l'annexe III pour les productions de leurs films.</p>
+<p align="left">La commission fera parvenir au producteur et au CNC sa décision d'acceptation ou de refus.</p>
+<p align="left">Le producteur ne peut passer outre cette décision conventionnelle et présenter valablement au CNC une demande d'agrément au bénéfice du soutien financier de l'État.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000041698920" datesignatexte="2019-10-25" id="KALIARTI000041698928" naturetexte="Avenant" nortexte="ASET1951432M" num="4" numtexte="" sens="cible" typelien="CREE">Modification des titres Ier et II de la convention - art. 4 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

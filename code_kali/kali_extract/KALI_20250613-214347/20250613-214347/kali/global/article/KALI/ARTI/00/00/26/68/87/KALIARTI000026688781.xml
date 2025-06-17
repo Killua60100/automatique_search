@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000026688781</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/26/68/87/KALIARTI000026688781.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>9.1.5.5</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2006-02-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2006-02-25" fin="2999-01-01" id="KALISCTA000026688780">Durées quotidienne et hebdomadaire</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2006-02-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000026688781" num="9.1.5.5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>La durée quotidienne du travail effectuée par un travailleur de nuit  au sens de l'article 9.1.5.4 ne peut excéder 8 heures.</p>
+<p>La durée  quotidienne du travail effectuée par un travailleur de nuit au sens de  l'article 9.1.5.4 peut être portée à un maximum de 12 heures pour les  activités caractérisées par la nécessité d'assurer l'urgence et/ou la  continuité des soins biologiques des patients.</p>
+<p>Il peut également  être dérogé à la durée maximale quotidienne du travail de 8 heures dans  les conditions prévues par les dispositions législatives et  réglementaires.</p>
+<p>Le travailleur de nuit pour lequel il aura été  fait application de la dérogation à la durée maximale quotidienne du  travail de 8 heures bénéficie d'un temps de repos d'une durée  équivalente au temps de dépassement. Ce temps de repos n'est pas  rémunéré.</p>
+<p>L'employeur veillera à ce que ce repos soit pris si  possible dans la quinzaine suivant la constitution du droit à repos ou  dans le mois ; en aucun cas le salarié ne perd ce droit à repos.</p>
+<p>Il  pourra, par exemple, permettre, dans le cadre de l'organisation du  travail, une augmentation du repos quotidien ou une augmentation de la  durée du repos hebdomadaire.</p>
+<p>Toutefois, si la prise de ce temps de  repos conduit à une réduction de la durée du travail effectuée une  semaine par un salarié, cette réduction uniquement imputable à la prise  de ce repos ne peut conduire l'employeur à opérer une retenue sur le  salaire de l'intéressé.</p>
+<p>Une contrepartie équivalente permettant  d'assurer une compensation appropriée au salarié concerné peut être  prévue par accord d'entreprise ou d'établissement lorsque dans des cas  exceptionnels l'octroi de ce repos n'est pas possible pour des raisons  objectives.</p>
+<p>La durée hebdomadaire de travail des travailleurs de  nuit, calculée sur une période quelconque de 12 semaines consécutives,  ne peut dépasser 40 heures.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS/>
+
+
+
+</ARTICLE>

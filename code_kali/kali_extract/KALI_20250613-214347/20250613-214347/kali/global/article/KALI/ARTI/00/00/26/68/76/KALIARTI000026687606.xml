@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000026687606</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/26/68/76/KALIARTI000026687606.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>9.1.5.1</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2006-02-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2006-02-25" fin="2999-01-01" id="KALISCTA000026687605">Principes et justification du recours au travail de nuit</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2006-02-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000026687606" num="9.1.5.1" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2002-11-28" etat="MODIFIE" fin="2006-02-25" id="KALIARTI000026688881" num="9.1.5.1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p> Les partenaires sociaux ont souhaité préciser le régime du travail  de  nuit et définir le travailleur de nuit pour l'ensemble de la branche   professionnelle afin d'assurer des garanties communes à tous.</p>
+<p>Les   partenaires sociaux entendent rappeler que le recours au travail de  nuit  doit être exceptionnel.</p>
+<p>Le travail de nuit doit prendre en  compte  les impératifs de protection de la sécurité et de la santé des   travailleurs.</p>
+<p>Le travail de nuit dans les laboratoires d'analyses   médicales extrahospitaliers se justifie par la nécessité d'assurer la   continuité des services d'utilité sociale.</p>
+<p>Le travail de nuit ne   peut être mis en place ou étendu à de nouvelles catégories de salariés   que dans les laboratoires liés contractuellement à des établissements de   soins publics ou privés, ou participant à un service de garde organisé   réglementairement, ou dans le cadre des conventions avec les caisses   d'assurance maladie, afin d'assurer l'urgence et/ou la continuité des   soins biologiques des patients.</p>
+<p>Les partenaires sociaux   reconnaissent la pénibilité du travail de nuit ; le recours au travail   de nuit ne doit pas avoir pour objet l'amélioration de la productivité.</p>
+<p>Dans   les laboratoires dont l'activité principale consiste à effectuer des   examens spécialisés, au sens de l'arrêté du 28 octobre 1996, pour   d'autres laboratoires, le travail de nuit peut être également mis en   place, ou étendu à de nouvelles catégories de salariés pour l'exercice   de cette activité.</p>
+<p>En l'absence d'accord d'entreprise, la mise en   place du travail de nuit ou son extension à de nouvelles catégories   nécessite une information et une consultation préalable du comité   d'entreprise ou à défaut des délégués du personnel s'ils existent.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS/>
+
+
+
+</ARTICLE>

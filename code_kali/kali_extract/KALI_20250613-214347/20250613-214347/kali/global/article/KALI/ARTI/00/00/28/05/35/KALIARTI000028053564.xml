@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053564</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053564.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>47</NUM>
+<TITRE>Frais de voyage</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053394">Chapitre VIII Restauration, transports et défraiement</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053564" num="47" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Les voyages sont dans tous les cas à la charge de l'employeur, qu'il s'agisse des titres de transport, des assurances, des formalités administratives obligatoires (passeport, visa ou frais divers liés au voyage) ou des bagages.<br/>Les heures de voyage ne sont pas des heures de travail effectif et sont indemnisées au salaire horaire de base du technicien, plafonné au montant du salaire horaire minimum garanti de base du machiniste de prise de vues cinéma.<br/>Dans le cas où la durée de voyage est supérieure à 7 heures, le nombre d'heures indemnisées sera plafonné à ce nombre.<br/>A l'aller, la durée de voyage correspond à la durée de transport depuis le domicile du technicien jusqu'au lieu d'hébergement, et inversement pour le retour.<br/>La durée du voyage s'intègre dans la durée d'amplitude définie à l'article 27. Sous réserve de cette durée d'amplitude, le travail effectif peut avoir lieu le jour du voyage, sous réserve d'une période de repos de 1 heure minimum entre l'arrivée au lieu de résidence ou au lieu de tournage et la prise effective du travail ; sinon, le travail effectif commencera dans la journée du lendemain.<br/>Dans les cas où, en accord avec l'employeur, le salarié utilise son propre véhicule, il ne pourra en aucun cas être dans l'obligation de transporter du personnel de la production.<br/>Les frais d'utilisation de son véhicule seront remboursés sur la base du barème kilométrique établi par l'administration fiscale. En outre, il percevra l'indemnité de transport prévue au deuxième paragraphe du présent article, dans les limites du caractère usuel et raisonnable du temps de trajet.<br/>Dans les cas où le salarié utilise son véhicule en accord avec l'employeur et accepte d'y transporter du personnel de la production, l'employeur vérifiera que l'assurance du conducteur bénéficie d'une extension pour les personnes qu'il transporte.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

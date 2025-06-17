@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000046989039</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/46/98/90/KALIARTI000046989039.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>VI.1</NUM>
+<TITRE>Salaire minimum</TITRE>
+
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2022-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2016-10-27" fin="2999-01-01" id="KALISCTA000033892901">Titre IV Salariés attachés à l'activité permanente de l'entreprise</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-10-27" fin="2999-01-01" id="KALISCTA000033892847">Chapitre VI Salaires</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_NON_ETEN">
+<LIEN_ART debut="2022-09-01" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALIARTI000046989039" num="VI.1" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2016-10-27" etat="VIGUEUR_ETEN" fin="2022-09-01" id="KALIARTI000033892845" num="VI.1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le barème des salaires minima à l'embauche ainsi que leur niveau de qualification et leur classification (cadre supérieur, cadre A, B, agent de maîtrise, employé A, B) sont annexés au présent titre.</p>
+<p>A chaque fonction correspond un niveau de salaire minimum conventionnel de base. La grille fixe également des compléments « autonomie », « technicité » et « responsabilité » de 3 % chacun de ce salaire minimum conventionnel de base.</p>
+<p>Ces compléments peuvent être attribués indépendamment les uns des autres, dans les conditions fixées à l'article 1.2.1 du présent titre.</p>
+<p>À expérience équivalente, il est garanti le même montant de rémunération aux femmes et aux hommes occupant des fonctions identiques.</p>
+<p>Pour les salariés dont la rémunération est, pour partie au moins, composée d'un variable, l'appréciation du respect du salaire minimum conventionnel est vérifié en le comparant avec le salaire réellement perçu sur la période considérée.</p>
+<p>S'il s'avère que la rémunération versée est inférieure au salaire minimum conventionnel, un complément devra être versé afin d'atteindre ce montant.</p>
+<p>Les primes, gratifications et indemnités, légales, conventionnelles ou contractuelles, versées au salarié le cas échéant, les sommes correspondant au paiement des heures supplémentaires, le remboursement de frais professionnels, n'entrent pas dans la détermination de la rémunération conventionnelle brute garantie.</p>
+<p>Le contrat de travail du salarié doit préciser sa fonction, son niveau de qualification, sa classification, son salaire, lequel ne peut être inférieur au salaire minimum figurant au barème en vigueur pour l'emploi considéré. Le salaire ne comprend pas la prime d'ancienneté éventuellement applicable, mentionnée séparément dans le contrat de travail et le bulletin de paie.</p>
+<p>Le salaire de tout salarié (hors primes, gratifications et indemnités, légales, conventionnelles ou contractuelles, versées au salarié le cas échéant, les sommes correspondant au paiement des heures supplémentaires, le remboursement de frais professionnels) ne peut être inférieur au montant du salaire minimum exprimé en euros dans les barèmes des salaires minima annexés au présent titre, correspondant à son niveau de qualification et de classification.</p>
+<p>Quelle que soit la fonction pour laquelle le cadre ou l'agent de maîtrise a été engagé, il peut être affecté temporairement à d'autres emplois équivalents ou supérieurs. Dans ce cas, pendant toute la durée de cette affectation, il perçoit une indemnité correspondant à la différence entre les salaires minima des deux emplois.</p>
+<p>Hormis le cas de remplacement prévu à l'alinéa précédent, chaque changement d'emploi doit être confirmé à l'intéressé par un écrit précisant sa nouvelle fonction, son nouveau niveau de qualification, sa nouvelle classification, son nouveau salaire, lequel ne pourra être inférieur au salaire minimum de sa catégorie et, s'il y a lieu, sa nouvelle prime d'ancienneté.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000046956066" datesignatexte="2022-07-19" id="KALIARTI000046956072" naturetexte="Avenant" nortexte="ASET2251316M" num="2" numtexte="" sens="cible" typelien="MODIFIE">Révision du titre IV de la convention collective - art. 2 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

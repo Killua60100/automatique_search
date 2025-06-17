@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842665</ID>
+<ANCIEN_ID>KBKAAXXXXXX00007XAAXEXXC</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/26/KALIARTI000005842665.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Accord du 7 décembre 1993 étendu par arrêté du 25 mai 1994 JORF 4 juin 1994.</HISTORIQUE>
+<DATE_DEBUT>1993-12-07</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720847">Embauchage</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="1988-06-22" id="KALIARTI000005842663" num="7" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1988-06-22" etat="REMPLACE" fin="1993-12-07" id="KALIARTI000005842664" num="7" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1993-12-07" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005842665" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>   Au moment de l'embauche, le contrat de travail d'un salarié doit faire l'objet d'un document écrit mentionnant :</p>
+<p>   - la date d'embauche ;</p>
+<p>   - le lieu de travail ;</p>
+<p>   - la catégorie d'emploi du salarié ;</p>
+<p>   - le coefficient hiérarchique ;</p>
+<p>   - éventuellement, la durée de la période d'essai telle que fixée à l'article 8 ;</p>
+<p>   - le nombre d'heures de travail ;</p>
+<p>   - le montant de la rémunération et tous les autres éléments éventuels de rémunération ;</p>
+<p>   - l'éventuelle participation à un service de garde et d'astreinte ;</p>
+<p>   - les modalités des gardes et des astreintes doivent être précisées compte tenu des dispositions de l'article 9 ;</p>
+<p>   - l'existence de la convention collective, en précisant qu'elle est tenue à la disposition du personnel ;</p>
+<p>   - les noms et adresses des organismes de retraite et de prévoyance auxquels adhère le laboratoire.</p>
+<p>   Sous réserve de l'autorisation préfectorale ou de dispositions réglementaires et de stipulations contenues dans le contrat de travail, le personnel embauché avant le 1er août 1988 est tenu d'effectuer le travail qui lui est demandé pour assurer les services de garde et les astreintes.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="MODIFICATION">Avenant n° 5 1988-06-22 étendu par arrêté du 4 novembre 1988 JORF 22 novembre 1988</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

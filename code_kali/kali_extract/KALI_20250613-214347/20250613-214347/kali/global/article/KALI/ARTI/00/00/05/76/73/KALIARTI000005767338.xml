@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767338</ID>
+<ANCIEN_ID>KGOAAXXXXXX00036XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767338.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>36</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Avenant n° 4 du 22 avril 1987 étendu par arrêté du 22 octobre 1987 JORF 4 novembre 1987.</HISTORIQUE>
+<DATE_DEBUT>1987-04-22</DATE_DEBUT>
+<DATE_FIN>1990-10-26</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1980-10-26" fin="1996-04-01" id="KALISCTA000005690439">Secteur hospitalier.</TITRE_TM>
+<TITRE_TM debut="2007-07-20" fin="2999-01-01" id="KALISCTA000018649447">Établissements à activité continue</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000018649445" num="36" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1987-04-22" etat="REMPLACE" fin="1990-10-26" id="KALIARTI000005767338" num="36" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1980-10-26" etat="REMPLACE" fin="1992-10-19" id="KALIARTI000005767339" num="36" origine="KALI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1992-10-19" etat="ABROGE" fin="1996-04-01" id="KALIARTI000005767340" num="36" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   L'ensemble des dispositions de la convention collective s'applique au personnel travaillant dans le secteur hospitalier à la préparation ou à la distribution des repas des malades.<br/>
+<br/>   Compte tenu des répercussions que pourrait avoir l'interruption du service des repas aux malades, un service minimum, qui ne saurait remettre en cause le droit de grève, sera en tous cas assuré aux malades.<br/>
+<br/>   Compte tenu des contraintes particulières de ce secteur, une prime mensuelle sera attribuée au personnel travaillant dans ce secteur dont le montant sera défini par chaque entreprise et qui ne sera pas inférieure à 200 F pour une durée mensuelle de travail supérieure à 151 heures.<br/>
+<br/>   Cette prime ne rentrera pas dans le calcul du revenu minimum.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

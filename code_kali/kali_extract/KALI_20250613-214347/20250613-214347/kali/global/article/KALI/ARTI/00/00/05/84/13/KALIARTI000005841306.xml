@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841306</ID>
+<ANCIEN_ID>KBCAAXXXXXX00001XBAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841306.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1 bis</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CHAMP_APPLICATION</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE>Modifié par Avenant n° 41 du 11 février 2000 BO conventions collectives 2000-10 étendu par arrêté du 11 octobre 2000 JORF 17 octobre 2000.</HISTORIQUE>
+<DATE_DEBUT>2000-02-11</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720172">Chapitre Ier : Dispositions générales</TITRE_TM>
+<TM>
+<TITRE_TM debut="2000-02-11" fin="2999-01-01" id="KALISCTA000005750724">Règlement des risques de chevauchement</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2000-02-11" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841306" num="1 bis" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les organisations professionnelles signataires du présent accord reconnaissent que l'activité de traiteurs-organisateurs de réception peut être une activité accessoire à l'activité de pâtissier.<br/>
+<br/>   Dès lors, pour déterminer la convention collective applicable, les parties au présent accord conviennent de se référer à l'activité principale - ou au métier d'origine - de l'entreprise.<br/>
+<br/>   Il est convenu que, dans les entreprises comprenant plusieurs établissements distincts quelle que soit l'importance respective desdits établissements, l'activité principale ou le métier d'origine de l'entreprise déterminera la convention collective applicable.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000005675709" datesignatexte="1983-06-30" id="KALIARTI000021957052" naturetexte="Convention collective nationale " nortexte="" num="54" numtexte="" sens="cible" typelien="CITATION">CONVENTION COLLECTIVE NATIONALE du 30 juin 1983 - art. 54 (VE)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050990264</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/99/02/KALIARTI000050990264.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>18 bis</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-01-01" fin="2999-01-01" id="KALISCTA000050990266">Indemnisation des absences pour maladie ou accident</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050990264" num="18 bis" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">En cas d'incapacité de travail résultant de maladie ou d'accident, justifiée sous 48 heures par certificat médical pouvant donner lieu à contre-visite s'il y a lieu, le salarié bénéficie d'une indemnisation complémentaire à la charge de l'employeur, à condition : <br/>– d'être indemnisé par la sécurité sociale ; l'indemnisation par la sécurité sociale s'entend du versement des indemnités journalières de sécurité sociale ; <br/>– d'être soigné sur le territoire français ou dans l'un des autres États membres de l'Union européenne ou dans l'un des autres États partie à l'accord sur l'Espace économique européen. </p>
+<p align="left">Lors de chaque arrêt de travail, l'indemnisation complémentaire à la charge de l'employeur court : <br/>– à compter du premier jour d'absence en cas d'accident du travail (à l'exclusion des accidents du trajet) ou de maladie professionnelle ; <br/>– à compter du 8e jour d'absence dans tous les autres cas (maladie, accidents de trajet, accidents de droit commun) pour les salariés ayant moins d'un an d'ancienneté dans l'entreprise et du 4e jour pour les salariés ayant plus d'un an d'ancienneté dans l'entreprise. </p>
+<p align="left">Dans le respect des dispositions de l'article L. 1226-1 du code du travail, l'employeur doit compléter les indemnités journalières versées par les organismes de sécurité sociale pour la part correspondant à ses versements, pour assurer au salarié des ressources égales à tout ou partie de ses appointements mensuels sur les bases suivantes : </p>
+<p align="center">Indemnisation par période de 12 mois </p>
+
+<table border="1">
+<tbody>
+<tr>
+<th rowspan="2">Durée d'ancienneté dans l'entreprise </th>
+<th colspan="2">Délai de carence </th>
+<th colspan="2">Maintien du salaire brut <br/>(– IJSS et RP) </th>
+</tr>
+<tr>
+<th>AT/ MP </th>
+<th>Maladie/ accident/ accident de trajet </th>
+<th>À 90 % </th>
+<th>À 66,66 % </th>
+</tr>
+<tr>
+<td align="center">Moins d'un an d'ancienneté </td>
+<td align="center">0 jour </td>
+<td align="center">7 jours </td>
+<td align="center">30 jours </td>
+<td align="center">30 jours </td>
+</tr>
+<tr>
+<td align="center">De 1 à 5 ans </td>
+<td align="center">0 jour </td>
+<td align="center">3 jours </td>
+<td align="center">30 jours </td>
+<td align="center">30 jours </td>
+</tr>
+<tr>
+<td align="center">De 6 à 10 ans </td>
+<td align="center">0 jour </td>
+<td align="center">3 jours </td>
+<td align="center">40 jours </td>
+<td align="center">40 jours </td>
+</tr>
+<tr>
+<td align="center">De 11 à 15 ans </td>
+<td align="center">0 jour </td>
+<td align="center">3 jours </td>
+<td align="center">50 jours </td>
+<td align="center">50 jours </td>
+</tr>
+<tr>
+<td align="center">De 16 à 20 ans </td>
+<td align="center">0 jour </td>
+<td align="center">3 jours </td>
+<td align="center">60 jours </td>
+<td align="center">60 jours </td>
+</tr>
+<tr>
+<td align="center">De 21 à 25 ans </td>
+<td align="center">0 jour </td>
+<td align="center">3 jours </td>
+<td align="center">70 jours </td>
+<td align="center">70 jours </td>
+</tr>
+<tr>
+<td align="center">De 26 à 30 ans </td>
+<td align="center">0 jour </td>
+<td align="center">3 jours </td>
+<td align="center">80 jours </td>
+<td align="center">80 jours </td>
+</tr>
+<tr>
+<td align="center">31 ans et plus </td>
+<td align="center">0 jour </td>
+<td align="center">3 jours </td>
+<td align="center">90 jours </td>
+<td align="center">90 jours </td>
+</tr>
+</tbody>
+</table>
+
+<p align="left">Le salaire brut s'entend de la rémunération brute que le salarié aurait perçue s'il avait continué à travailler. </p>
+<p align="left">La rémunération à prendre en considération pour le calcul de l'indemnité complémentaire est celle correspondant à l'horaire pratiqué pendant l'absence du salarié dans l'établissement ou partie d'établissement. Toutefois, si l'horaire des salariés a été augmenté par suite de l'absence du salarié, cette augmentation n'est pas prise en considération pour la fixation de la rémunération. </p>
+<p align="left">L'indemnisation complémentaire due par l'employeur s'entend déduction faite des indemnités brutes de CCG/ CRDS que le salarié perçoit de la sécurité sociale (IJSS) et des régimes complémentaires de prévoyance, mais en ne retenant dans ce dernier cas que la part des prestations résultant des versements de l'employeur. </p>
+<p align="left">Lorsque les indemnités de la sécurité sociale sont réduites du fait, notamment, de l'hospitalisation ou d'une sanction par la caisse du non-respect de son règlement intérieur, elles sont réputées servies intégralement pour le calcul de l'indemnité complémentaire. </p>
+<p align="left">En tout état de cause, le salarié ne peut percevoir, après application des garanties de quelque nature que ce soit mentionnées ci-dessus et, le cas échéant, après application des garanties dont le salarié bénéficie en application d'un régime complémentaire de prévoyance, une indemnisation plus importante que la rémunération nette qu'il aurait perçue s'il avait continué à travailler pendant la période de suspension de son contrat. </p>
+<p align="left">L'ancienneté prise en compte pour la détermination du droit à l'indemnisation s'apprécie au premier jour de l'absence. </p>
+<p align="left">En cas de changement de tranche d'ancienneté en cours d'absence pour maladie ou accident, le salarié bénéficie immédiatement du crédit d'indemnisation afférent. </p>
+<p align="left">Pour le calcul des indemnités dues au salarié à chaque période de paye, il est tenu compte des indemnités déjà perçues par l'intéressé au cours de l'année civile, de telle sorte que si plusieurs absences pour maladie ou accident, séparées par une reprise effective du travail, ont été indemnisées au cours de ces douze mois, la durée totale d'indemnisation ne dépasse pas celle définie par les dispositions du présent article. </p>
+<p align="left">Les dispositions du présent article s'appliquent aux salariés qui relèvent du droit local d'Alsace-Moselle au sens des dispositions particulières du code du travail, dans le respect de l'application des dispositions des articles L. 1226-23 et L. 1226-24 du code du travail.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000050968598" datesignatexte="2024-10-17" id="KALIARTI000050968602" naturetexte="Avenant" nortexte="ASET2450944M" num="1er" numtexte="" sens="cible" typelien="CREE">Création de l'article 18 bis « Indemnisation de... - art. 1er (VNE)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006900965" naturetexte="CODE" nortexte="" num="L1226-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1226-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006900990" naturetexte="CODE" nortexte="" num="L1226-23" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1226-23</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006900991" naturetexte="CODE" nortexte="" num="L1226-24" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1226-24</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

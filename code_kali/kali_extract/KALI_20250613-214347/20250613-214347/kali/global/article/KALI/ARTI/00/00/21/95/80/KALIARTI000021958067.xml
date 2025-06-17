@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021958067</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/95/80/KALIARTI000021958067.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>67</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-10-27</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021958055">Désignation de l'organisme assureur</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-10-27" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021958067" num="67" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>AG2R-Prévoyance, institution de prévoyance régie par le code la sécurité sociale et relevant de l'autorité de contrôle des assurances et des mutuelles, sise 37, boulevard Brune, 75014 Paris, membre du GIE-AG2R, 35, boulevard Brune, 75680 Paris Cedex 14, est désignée comme organisme assureur du présent régime remboursement complémentaire de frais de soins de santé.</p>
+<p>Les modalités d'organisation de la mutualisation du régime seront régulièrement réexaminées par le comité paritaire de gestion et de suivi. La désignation le sera quant à elle dans un délai de 5 ans à compter de la date d'effet du présent régime.</p>
+<p>
+<strong>Nota : </strong>
+</p>
+<p>Dans sa décision n° 2013-672 DC du 13 juin 2013 publiée au Journal officiel du 16 juin 2013, le Conseil constitutionnel a décidé que les clauses de désignation sont contraires à la Constitution en ce qu'elles méconnaissent la liberté contractuelle et la liberté d'entreprendre.</p>
+<p>
+<strong>La décision précitée ne s'appliquant pas aux contrats en cours lors de sa publication, et dont la durée ne pouvait excéder cinq ans, la clause de désignation d'AG2R prévue par l'accord du 27 octobre 2009 a cessé de produire ses effets le 28 octobre 2014. Depuis cette date les entreprises de la branche sont libres de recourir à l'organisme complémentaire de leur choix.</strong>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021944693" datesignatexte="2009-10-27" id="KALIARTI000021944696" naturetexte="Avenant" nortexte="ASET0951200M" num="1" numtexte="67" sens="cible" typelien="CREE">Remboursement complémentaire santé - art. 1</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

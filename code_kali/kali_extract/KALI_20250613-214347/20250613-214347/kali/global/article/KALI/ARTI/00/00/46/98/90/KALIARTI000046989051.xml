@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000046989051</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/46/98/90/KALIARTI000046989051.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>IV.2</NUM>
+<TITRE>Travail du dimanche et des jours fériés</TITRE>
+
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2022-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2016-10-27" fin="2999-01-01" id="KALISCTA000033892901">Titre IV Salariés attachés à l'activité permanente de l'entreprise</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-10-27" fin="2999-01-01" id="KALISCTA000033892873">Chapitre IV Durée du travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_NON_ETEN">
+<LIEN_ART debut="2022-09-01" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALIARTI000046989051" num="IV.2" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2016-10-27" etat="VIGUEUR_ETEN" fin="2022-09-01" id="KALIARTI000033892869" num="IV.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">IV. 2.1. Travail du dimanche</p>
+<p>Le travail du dimanche est interdit. Toutefois, en conformité avec l'article 23 du titre Ier, l'employeur pourra, à titre exceptionnel lié à un événement impératif particulier, recourir au travail du dimanche et reporter le repos hebdomadaire à un autre jour de la semaine civile, choisi par le salarié. Dans le cadre du présent titre et des articles L. 3132-12 et R. 3132-5 du code du travail, le travail du dimanche peut être autorisé au regard de circonstances exceptionnelles (festival, phase de développement et/ ou accompagnement d'un tournage, manifestation nationale et/ ou internationale, clôture des comptes …), mais ne saurait excéder plus de dix dimanches par année civile, pour un même salarié avec un même employeur.</p>
+<p>En tel cas, l'employeur sera tenu d'organiser le repos hebdomadaire conformément aux dispositions prévues à l'article IV. 1.3 ci-dessus, étant précisé qu'un jour férié ne pourra en aucun cas être considéré comme jour de repos hebdomadaire.</p>
+<p>Le travail du dimanche donnera lieu à une majoration, indépendante des éventuelles autres majorations, de 100 % du salaire pour chaque heure de travail effectif et d'une journée de repos le premier ou le dernier jour de travail de la semaine suivante.</p>
+<p>Si le travail du dimanche ne peut faire l'objet d'un repos le premier ou le dernier jour de travail de la semaine suivante, à la rémunération du travail du dimanche sera ajoutée une rémunération équivalente au nombre d'heures de travail effectuées le dimanche, au salaire horaire de base du salarié.</p>
+<p align="center">
+<br/>
+IV. 2.2. Travail un jour férié</p>
+<p>Jours fériés autres que le 1er Mai :</p>
+<p>En application de l'article 17 du titre Ier, un jour férié (excepté le 1er Mai) peut être travaillé à la demande de l'employeur motivé par un événement impératif exceptionnel, sous réserve du respect des dispositions légales, moyennant l'une des contreparties ci-après choisie par l'employeur :<br/>
+– majoration de 100 % du salaire journalier ;<br/>
+– octroi d'un jour de repos compensateur payé, pris en dehors du congé payé principal mais pouvant être éventuellement accolé à d'autres jours de repos.</p>
+<p>Statut particulier du 1er Mai :</p>
+<p>En application de l'article L. 3133-6 du code du travail, dans les établissements et services qui, en raison de la nature de leur activité, ne peuvent interrompre le travail, les salariés occupés le 1er Mai ont droit, en plus de la majoration de salaire de 100 % relative au travail du 1er Mai, à une majoration de 100 % du salaire journalier.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000046956066" datesignatexte="2022-07-19" id="KALIARTI000046956072" naturetexte="Avenant" nortexte="ASET2251316M" num="2" numtexte="" sens="cible" typelien="MODIFIE">Révision du titre IV de la convention collective - art. 2 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

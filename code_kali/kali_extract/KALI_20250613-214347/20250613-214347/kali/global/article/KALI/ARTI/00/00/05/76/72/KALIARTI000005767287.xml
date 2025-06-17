@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767287</ID>
+<ANCIEN_ID>KGOAAXXXXXX00005XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/72/KALIARTI000005767287.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>1997-02-21</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690406">Comité d'entreprise</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1997-02-21" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000020535981" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="1997-02-21" id="KALIARTI000005767287" num="5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La représentation du personnel, au titre du comité d'entreprise, est organisée dans les conditions fixées par la législation en vigueur. </p>
+<p>Cependant, chaque entreprise pourra négocier avec les syndicats représentatifs une structure adaptée à son organisation interne. Chaque entreprise attribuera par an et pro rata temporis une dotation d'au moins 0,55 p. 100 de la masse de salaires bruts versés l'année civile précédente, dont 0,35 p. 100 pour le fonctionnement des oeuvres sociales et 0,20 p. 100 correspondant à la subvention de fonctionnement instituée par la loi (art. L. 434-8 du code du travail). </p>
+<p>Chaque organisation syndicale de travailleurs représentative peut désigner, dans le cadre des dispositions légales, article L. 412-17, un représentant au comité. Il assiste aux séances avec voix consultative. Il est obligatoirement choisi parmi les membres du personnel de l'entreprise et doit remplir les conditions d'éligibilité du comité d'entreprise. </p>
+<p>Pour les élections au C. E., à défaut d'accord dans les entreprises la composition des collèges électoraux se référera à la classification des emplois précisée à la présente convention :</p>
+<p>-pour le collège 1, employés. ER 1-ER 2-ERQ 1 ;</p>
+<p>-pour le collège 2, maîtrise et assimilés. ERQ 2-gérant non cadre ;</p>
+<p>-pour le collège 3, cadres. Les cadres.</p>
+<br/>
+<p>
+<font color="#808080">
+<em/>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<NOTA>
+<CONTENU>NOTA : cet article est modifié par l'avenant n° 21 du 21 février 1997 (BO CC 97-17) étendu par arrêté du 25 juillet 1997 JORF 2 août 1997.<br/>
+</CONTENU>
+</NOTA>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006649643" naturetexte="CODE" nortexte="" num="L412-17" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L412-17 (Ab)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006649832" naturetexte="CODE" nortexte="" num="L434-8" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L434-8 (Ab)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

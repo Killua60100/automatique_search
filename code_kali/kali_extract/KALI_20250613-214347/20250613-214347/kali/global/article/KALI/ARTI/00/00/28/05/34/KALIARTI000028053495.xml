@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053495</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/34/KALIARTI000028053495.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>31</NUM>
+<TITRE>Commission paritaire d'interprétation et de conciliation</TITRE>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2018-09-29</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2024-06-01" id="KALISCTA000028053384">Chapitre IX Dispositions finales</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2013-08-01" etat="ABROGE" fin="2018-09-29" id="KALIARTI000028053495" num="31" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<em>Compte tenu de la structuration particulière de l'activité des entreprises de production de films cinématographiques et de films publicitaires et compte tenu de l'existence d'organisations syndicales catégorielles reconnues représentatives au plan national, il est institué :</em>
+ (1)
+<br/>
+– une commission paritaire d'interprétation et de conciliation avec les organisations syndicales intercatégorielles et catégorielles reconnues représentatives au plan national pour les titres I, II et IV ;<br/>
+– une commission paritaire d'interprétation et de conciliation spécifique au titre III avec les organisations syndicales intercatégorielles reconnues représentatives au plan national.</p>
+<p align="left">Dans chacune de ces commissions, le collège salariés est composé de deux représentants de chacune des organisations syndicales représentatives signataires ou adhérentes, ne disposant que d'une seule voix.</p>
+<p align="left">Le collège employeurs est composé de représentants des organisations d'employeurs signataires ou adhérentes disposant d'un nombre égal de voix. Les modalités de sa composition seront définies pour préserver le caractère paritaire de chacune des commissions.</p>
+<p align="left">Les règles de fonctionnement de chacune des commissions feront l'objet d'un règlement intérieur élaboré par les membres au cours de la première réunion desdites commissions qui se tiendront à cette fin à la demande de la partie la plus diligente.</p>
+<p align="left">Il est d'ores et déjà prévu que :<br/>
+– chacune des commissions sera présidée par un représentant du collège employeurs, lesquels désigneront la personne qui la présidera selon les modalités indiquées dans le règlement intérieur ;<br/>
+– elles ne peuvent valablement délibérer qu'à la condition d'une parité de membres entre les deux collèges ;<br/>
+– elles sont saisies par lettre recommandée avec avis de réception adressée à la présidence de chacune des commissions et se réunissent sur convocation de son président ;<br/>
+– elles peuvent être saisies à tout moment par une ou plusieurs organisations d'employeurs ou par une ou plusieurs organisations de salariés représentatives.</p>
+<p align="left">Missions</p>
+<p align="left">Les commissions peuvent être saisies de tout litige de portée collective ou individuelle relatif à l'interprétation ou à l'application des dispositions relatives aux titres concernés de la présente convention collective.</p>
+<p align="left">A l'issue de chaque réunion, un procès-verbal est établi et transmis à chacune de ces organisations membres.</p>
+<p align="left">La lettre de saisine doit exposer clairement les différends ou les dispositions sujettes à interprétation, qui seront examinés dans un délai maximal de 15 jours ouvrables suivant la saisine.</p>
+<p align="left">Chacune des commissions entend la ou les parties qui le souhaitent ou qu'elle estime nécessaire d'entendre.</p>
+<p align="left">Les décisions sont prises dans les conditions fixées par leur règlement intérieur.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Alinéa étendu à l'exclusion des termes « au plan national » comme étant contraires au principe d'égalité tel qu'interprété par la Cour de cassation (Cass. soc. 29 mai 2001, Cegelec).<br/>
+(Arrêté du 31 mars 2015 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="KALITEXT000038326423" datesignatexte="2018-09-12" id="KALIARTI000038326438" naturetexte="Avenant" nortexte="ASET1851164M" num="" numtexte="" sens="source" typelien="ABROGATION">Mise en place de la CPPNI - art. (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

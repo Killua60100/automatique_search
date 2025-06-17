@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000049337406</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/49/33/74/KALIARTI000049337406.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>8</NUM>
+<TITRE>Règlement des prestations</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000049337381" date_publi="2999-01-01" date_signature="2023-11-30" nature="Accord" nor="ASET2450069M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de frais de santé harmonisé" debut="2024-01-01" fin="2999-01-01" id_txt="KALITEXT000049337381">Accord du 30 novembre 2023 relatif à la mise en place d'un régime de frais de santé harmonisé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000051160618" date_publi="2025-12-01" etat="VIGUEUR_NON_ETEN" nature="IDCC" num="3255" titre="Convention collective nationale des activités industrielles de boulangerie et pâtisserie et des professionnels de l'oeuf du 1er octobre 2024" url="conteneur/KALI/CONT/00/00/51/16/06/KALICONT000051160618.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000049337406" num="8" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">L'organisme assureur procède aux versements des prestations au vu des décomptes originaux des prestations en nature ou le plus souvent grâce à la télétransmission établie avec les caisses primaires d'assurance maladie, ou le cas échéant encore sur pièces justificatives des dépenses réelles.</p>
+<p align="left">Les prestations garanties sont versées soit directement aux salariés, soit aux professionnels de santé par tiers payant.</p>
+<p align="left">Les modalités pratiques complémentaires du règlement des prestations (pièces justificatives...) seront détaillées dans le contrat d'adhésion de l'entreprise et la notice d'information remise aux salariés.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

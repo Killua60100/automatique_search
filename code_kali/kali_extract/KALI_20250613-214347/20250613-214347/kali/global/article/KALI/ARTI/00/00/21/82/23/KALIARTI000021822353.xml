@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021822353</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/82/23/KALIARTI000021822353.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>26</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-06-22</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690429">Accidents du travail et maladies professionnelles </TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="2009-06-22" id="KALIARTI000005767324" num="26" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-06-22" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021822353" num="26" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">A.-Garantie de l'emploi </p>
+<p>Le salarié victime d'un accident du travail ou de trajet reconnu comme accident de travail, ou d'une maladie professionnelle, au service de l'employeur qui l'occupe au moment de l'événement, bénéficie des garanties d'emploi, et éventuellement d'indemnisation, prévues aux articles L. 122-32-1 à L. 122-32-9 du code du travail. </p>
+<p align="center">B.-Indemnisation des accidents du travail </p>
+<p align="left">En cas d'accident du travail, d'accident de trajet, reconnu comme accident du travail par la sécurité sociale, ou de maladie professionnelle, le salarié aura droit au versement des indemnités ci-après : </p>
+<p>De 7 mois à 1 an d'ancienneté :</p>
+<p>-80 % du salaire brut du 1er au 91e jour d'arrêt ;</p>
+<p>-85 % du salaire brut du 92e au 183e jour d'arrêt. </p>
+<p>De 1 an à 2 ans d'ancienneté :</p>
+<p>-90 % du salaire brut du 1er au 30e jour d'arrêt ;</p>
+<p>-80 % du salaire brut du 31e au 91e jour d'arrêt ;</p>
+<p>-85 % du salaire brut du 92e au 183e jour d'arrêt. </p>
+<p>Après 2 ans d'ancienneté :</p>
+<p>-90 % du salaire brut du 1er au 30e jour d'arrêt ;</p>
+<p>-85 % du salaire brut du 31e au 183e jour d'arrêt. </p>
+<br/>
+<p align="center">C.-Conditions d'indemnisation </p>
+<br/>
+<p>1. L'ancienneté prise en compte pour la détermination du droit à indemnisation s'apprécie au 1er jour de l'absence. </p>
+<p>Pour le calcul de l'ancienneté, toutes les périodes de travail accomplies dans la même entreprise, dans le cadre d'un contrat de travail, seront prises en compte. </p>
+<p>2. Les pourcentages d'indemnisation s'appliquent sur la base du salaire brut qui aurait été effectivement perçu par le salarié s'il avait assuré son travail. </p>
+<p>3. Le régime ci-dessus s'entend y compris les prestations de sécurité sociale perçues par le salarié. Il ne se cumule pas avec tout autre régime ayant le même objet. </p>
+<p>4. Le paiement sera effectué sur présentation du décompte de la sécurité sociale portant indication des prestations versées. En aucun cas, l'intéressé ne pourra percevoir une rémunération supérieure à celle perçue s'il avait travaillé normalement. </p>
+<p>5. La présente convention ne remet pas en cause la répartition, entre employeur et salarié, de la charge des couvertures existant dans chaque entreprise à ce jour. </p>
+<p>Par contre, le financement de l'amélioration globale de ces régimes découlant de la convention collective, par rapport aux situations existant dans chaque entreprise, est à la charge de l'employeur, chaque entreprise restant libre de négocier paritairement les conditions financières de régimes allant au-delà de la convention collective.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>entre en vigueur le jour suivant la publication au Journal officiel de l'arrêté d'extension.</CONDITION_DIFFERE>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021802570" datesignatexte="2009-06-22" id="KALIARTI000021802578" naturetexte="Avenant" nortexte="ASET0951119M" num="3" numtexte="45" sens="cible" typelien="MODIFIE">Transposition de la loi relative à la modernisa... - art. 3 (VNE)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006646093" naturetexte="CODE" nortexte="" num="L122-32-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L122-32-1 (Ab)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

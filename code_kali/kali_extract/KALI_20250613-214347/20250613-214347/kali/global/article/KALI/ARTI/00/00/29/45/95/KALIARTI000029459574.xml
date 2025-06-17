@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000029459574</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/29/45/95/KALIARTI000029459574.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2014-05-12</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720845">Délégués du personnel</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2014-05-12" id="KALIARTI000005842660" num="5" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2014-05-12" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000029459574" num="5" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le statut, l'organisation, la mission, le nombre, le mode d'élection des délégués du personnel sont déterminés par la loi.</p>
+<p>Pour le personnel absent pour motif justifié, il sera obligatoirement organisé un scrutin par correspondance. Dans ce cas, la date de dépôt des listes de candidats devra être fixée de manière à permettre l'envoi du matériel de vote.</p>
+<p>En l'absence de protocole électoral, les dispositions particulières suivantes seront applicables :</p>
+<p>a) Dans les laboratoires de biologie médicale ayant des équipes de jour et de nuit, l'élection aura lieu entre la sortie et la reprise du travail afin de permettre le vote simultané des deux équipes en présence ;</p>
+<p>b) Le bureau électoral sera composé des deux électeurs les plus âgés et de l'électeur le plus jeune présents à l'ouverture du scrutin et acceptant.</p>
+<p>Aucun candidat ne peut faire partie du bureau électoral ; la présidence appartiendra au plus âgé ;</p>
+<p>c) Le dépouillement du vote aura lieu immédiatement après l'heure fixée pour la fin du scrutin et ses résultats donneront lieu à l'établissement d'un procès-verbal contresigné par tous les membres du bureau de vote en six exemplaires au moins. Un des exemplaires sera remis aux délégués du personnel élus, le deuxième exemplaire sera affiché sur le panneau réservé aux communications des délégués du personnel, le troisième exemplaire sera conservé par la direction, deux exemplaires seront transmis dans les 15 jours par l'employeur à l'inspecteur du travail et un exemplaire au prestataire agissant pour le compte du ministre chargé du travail dans le cadre de la représentativité syndicale. <br/>
+<br/>Les électeurs peuvent assister librement au dépouillement s'ils le souhaitent.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000029433386" datesignatexte="2014-05-12" id="KALIARTI000029433395" naturetexte="Avenant" nortexte="ASET1450816M" num="3" numtexte="" sens="cible" typelien="MODIFIE">Révision de la convention - art. 3 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053596</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053596.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3.4</NUM>
+<TITRE>Postsynchronisation</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-13</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053374">Titre III Salariés de l'équipe artistique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053399">Sous-titre Ier Artistes-interprètes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-13" fin="2999-01-01" id="KALISCTA000028053578">Chapitre III Conditions de travail</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053596" num="3.4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>a) Définition<br/>Travail consistant, pour un artiste-interprète, à enregistrer ou réenregistrer en version originale ou dans une autre langue, le cas échéant, pendant la phase de postproduction et avant l'établissement de la version définitive du film, le texte du rôle qu'il a lui-même interprété à l'image et/ou sa voix hors champ.<br/>b) Accord<br/>A défaut d'accord explicite de l'artiste-interprète dans son contrat, aucun rôle ne peut être interprété par deux artistes-interprètes différents pour le son et pour l'image, à l'exception des deux cas suivants :<br/>– artiste-interprète ne maîtrisant pas la langue française et jouant un rôle principal dans un film en version originale française ;<br/>– indisponibilité de l'artiste-interprète aux dates de postsynchronisation dans les conditions prévues au paragraphe c ci-dessous.<br/>Dans le second cas, une demande de dérogation sera adressée à l'artiste-interprète comportant les précisions utiles à cet égard. Le producteur adressera conjointement copie de cette demande aux syndicats d'artistes-interprètes signataires pour avis.<br/>L'artiste-interprète bénéficiera d'un délai de réflexion de 2 jours minimum et 5 jours maximum à compter de la réception de la demande de dérogation, à l'expiration duquel il devra faire connaître sa réponse, le défaut de réponse dans ce délai valant acceptation.<br/>c) Dates de postsynchronisation et rémunération<br/>(i) Les dates de postsynchronisation sont fixées par le contrat ou bien choisies ultérieurement d'un commun accord. Dans le cas où l'artiste-interprète ne serait pas disponible aux dates convenues d'un commun accord, l'employeur aura le droit de faire postsynchroniser le rôle de l'artiste- interprète par un interprète de son choix.<br/>La postsynchronisation est rémunérée, par demi-journée de travail, à raison de la moitié du salaire journalier de base de l'artiste-interprète, à condition que cette somme ne soit pas inférieure au salaire journalier minimum prévu à l'annexe III.1.A du présent sous-titre au titre des engagements à la journée, cette prestation relevant du présent sous-titre même si la postsynchronisation est sous-traitée à un tiers.<br/>(ii) Exclusions.<br/>Des stipulations particulières d'engagement et de rémunération faisant exception au présent article 3.4 peuvent être établies si le salaire de base perçu par l'artiste-interprète est égal ou supérieur à cinq fois le salaire minimum fixé à l'annexe III.1.A du présent sous-titre.<br/>Pour les films tels que définis à l'annexe III du titre II, des stipulations particulières d'engagement et de rémunération faisant exception au présent article 3.4 et définies en annexe III.1.D peuvent être établies si le salaire de base perçu par l'artiste-interprète est supérieur à cinq fois le salaire minimum fixé à l'annexe III.1.A du présent sous-titre.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="KALITEXT000030440759" datesignatexte="2014-07-09" id="KALIARTI000030440764" naturetexte="Accord" nortexte="ASET1550116M" num="2" numtexte="" sens="cible" typelien="CITATION">Artistes-interprètes engagés sur un court métrage - art. 2 (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

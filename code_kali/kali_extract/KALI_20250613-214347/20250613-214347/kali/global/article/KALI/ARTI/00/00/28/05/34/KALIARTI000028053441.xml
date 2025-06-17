@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053441</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/34/KALIARTI000028053441.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>11</NUM>
+
+<TITRE>Représentativité des organisations syndicales</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2018-09-29</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053378">Chapitre III Dialogue social</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2018-09-29" id="KALIARTI000028053441" num="11" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2018-09-29" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038361105" num="11" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les critères de la loi du 20 août 2008, en particulier, référencent la représentativité des organisations syndicales de salariés au niveau de l'entreprise par addition de l'ensemble des suffrages recueillis aux élections des délégués du personnel obtenus dans les entreprises et les établissements concernés, n'ont aucune application effective pour ce qui concerne l'activité de production vu que la réalisation des films cinématographiques correspond à une durée d'emploi qui outrepasse très rarement 12 semaines consécutives et la réalisation des films publicitaires 1 à 2 semaines au maximum.<br/>
+Les dispositions de la loi n° 2010-1215 du 15 octobre 2010 relatives à la démocratie sociale qui prévoient l'organisation d'élections par branche dans les entreprises dont les effectifs sont inférieurs à 11 salariés au 31 décembre de l'année précédant les élections ne sauraient être considérées comme adaptées à la mesure de la représentativité des organisations syndicales du fait que les techniciens, réalisateurs, artistes exerçant leur activité durant l'année précédant l'élection et n'étant pas salariés à une date fixe de l'année ne sauraient, dès lors, être en mesure d'exprimer la représentativité des organisations syndicales dans la production de films cinématographiques et publicitaires.<br/>
+En conséquence, les parties signataires décident de référer le critère de représentativité des organisations syndicales au regard des élections qui doivent être organisées en deux collèges et définies dans l'accord instituant le comité central interentreprise d'hygiène et de sécurité et des conditions de travail de la branche films cinématographiques institué par l'accord du 17 décembre 2007, étendu par arrêté du 6 mars 2008.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Article exclu de l'extension comme étant contraire aux dispositions des lois n° 2008-789 du 20 août 2008 portant rénovation de la démocratie sociale et réforme du temps de travail et n° 2010-1215 du 15 octobre 2010 complétant les dispositions relatives à la démocratie sociale issues de la loi du 20 août 2008. <br/>
+(Arrêté du 31 mars 2015 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000022918770" datesignatexte="2010-10-15" id="JORFTEXT000022918770" naturetexte="LOI" nortexte="MTSX1011211L" num="" numtexte="2010-1215" sens="source" typelien="CITATION">LOI n°2010-1215 du 15 octobre 2010</LIEN>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

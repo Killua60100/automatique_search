@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000039383435</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/39/38/34/KALIARTI000039383435.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>57</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-01-01</DATE_DEBUT>
+<DATE_FIN>2020-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957152">Garanties</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-10-01" etat="REMPLACE" fin="2013-01-17" id="KALIARTI000026902950" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2020-01-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000039383435" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000041692090" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2017-10-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000038194933" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-10-27" etat="REMPLACE" fin="2012-10-01" id="KALIARTI000021957162" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-10-01" etat="REMPLACE" fin="2016-01-01" id="KALIARTI000027750139" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2017-10-01" id="KALIARTI000032853913" num="57" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le détail des garanties en vigueur au 1er janvier 2020 est repris ci-après. Les nouvelles dispositions s'appliquent pour les frais engagés relatifs à des soins intervenant à compter de la date d'effet susmentionnée.</p>
+<p align="left">Les niveaux d'indemnisation définis ci-dessous s'entendent y compris les prestations versées par la sécurité sociale, dans la limite des frais réellement engagés par les bénéficiaires.</p>
+<p align="left">Abréviations :<br/>
+PMSS : plafond mensuel de la sécurité sociale.<br/>
+FR : frais réels engagés par le bénéficiaire.<br/>
+BR : base de remboursement retenue par l'assurance maladie obligatoire pour déterminer le montant de son remboursement.<br/>
+RSS : remboursement sécurité sociale = montant remboursé par l'assurance maladie obligatoire et calculé par application du taux de remboursement légal en vigueur à la base de remboursement.<br/>
+TM : ticket modérateur soit partie de la base de remboursement non prise en charge par l'assurance maladie obligatoire (TM = BR – RSS).<br/>
+DPTM (Dispositifs de pratique tarifaire maîtrisée) : OPTAM/ OPTAM-CO.<br/>
+OPTAM : option pratique tarifaire maîtrisée.<br/>
+OPTAM-CO : option pratique tarifaire maîtrisée – chirurgie obstétrique.<br/>
+€ : euro.<br/>
+PLV : prix limites de vente fixés selon la réglementation en vigueur à la date des soins effectués par le bénéficiaire.<br/>
+HLF : honoraires limites de facturation fixés selon la réglementation en vigueur à la date des soins effectués par le bénéficiaire.</p>
+<p align="left">(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)</p>
+<p align="left">
+ http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2019/0036/ boc _ 20190036 _ 0000 _ 0014. pdf
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000026804217" datesignatexte="2012-06-19" id="KALIARTI000026804221" naturetexte="Avenant" nortexte="ASET1251256M" num="1er" numtexte="76" sens="cible" typelien="CITATION">Frais de soins de santé - art. 1er (VE)</LIEN>
+
+<LIEN cidtexte="KALITEXT000039358369" datesignatexte="2019-06-20" id="KALIARTI000039358377" naturetexte="Avenant" nortexte="ASET1951096M" num="1er" numtexte="92" sens="cible" typelien="MODIFIE">Régime de frais de soins de santé - art. 1er (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

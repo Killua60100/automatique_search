@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000023723769</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/23/72/37/KALIARTI000023723769.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>62</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2010-07-01</DATE_DEBUT>
+<DATE_FIN>2021-04-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957373">Cotisations</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2010-07-01" etat="REMPLACE" fin="2021-04-01" id="KALIARTI000023723769" num="62" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2021-04-01" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000043923373" num="62" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR_ETEN" fin="2025-01-01" id="KALIARTI000048682442" num="62" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2023-01-01" etat="REMPLACE" fin="2024-01-01" id="KALIARTI000047373762" num="62" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-10-27" etat="REMPLACE" fin="2010-07-01" id="KALIARTI000021957380" num="62" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_NON_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALIARTI000050796316" num="62" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation sociale et fiscale en vigueur au moment de la prise d'effet du présent régime. Les cotisations seront revues sans délai en cas de changement de ces textes. </p>
+<p>Les parties signataires pourront également convenir d'une révision des garanties en tout ou partie à cette occasion. </p>
+<p>La cotisation du régime remboursement complémentaire de frais de soins de santé est mensuelle et forfaitaire. Pour les années 2010 et 2011, la cotisation mensuelle, exprimée en euros est fixée et détaillée ci-dessous :</p>
+<p>-salarié relevant du régime général de la sécurité sociale : 40 € ;</p>
+<p>-salarié relevant du régime local Alsace-Moselle : 26 €.</p>
+<p>A compter du 1er janvier 2012, et au 1er janvier de chaque année, la cotisation sera indexée au minimum sur le dernier indice connu de l'évolution des dépenses de santé communiqué par les caisses nationales d'assurance maladie sauf si les résultats du régime compensent l'évolution de cet indice. Le montant de la cotisation sera revu par les parties en fonction notamment de l'évolution de la législation et des résultats du régime. </p>
+<p>La contribution de l'employeur devra être au minimum de 50 % de la cotisation. </p>
+<p>Par dérogation à la répartition de la cotisation définie dans l'entreprise, les employeurs pourront prendre en charge l'intégralité de la cotisation due par les salariés à temps très partiel qui sinon auraient du acquitter une cotisation au moins égale à 10 % de leur rémunération. </p>
+<p>Les cotisations sont payables trimestriellement à terme échu. Elles doivent être versées à l'organisme assureur désigné à l'article 67 dans le premier mois de chaque trimestre civil pour le trimestre écoulé. </p>
+<p>Les cotisations sont dues pour la totalité du mois au cours duquel les garanties sont accordées.</p>
+<p>L'organisme assureur, en application de l'article L. 932-9 du code de la sécurité sociale, procédera, le cas échéant, au recouvrement des cotisations dues par l'entreprise en cas de non-paiement dans les délais.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000023690397" datesignatexte="2010-07-15" id="KALIARTI000023690400" naturetexte="Avenant" nortexte="ASET1150058M" num="1er" numtexte="71" sens="cible" typelien="MODIFIE">Frais de soins de santé - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

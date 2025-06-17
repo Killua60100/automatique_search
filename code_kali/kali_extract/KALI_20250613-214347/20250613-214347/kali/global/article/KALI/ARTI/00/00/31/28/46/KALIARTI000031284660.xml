@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000031284660</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/31/28/46/KALIARTI000031284660.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>11</NUM>
+<TITRE>Organisme assureur recommandé</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2016-01-01</DATE_DEBUT>
+<DATE_FIN>2023-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000031284609" date_publi="2015-10-08" date_signature="2015-07-03" nature="Accord" nor="ASET1550778M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de santé" debut="2016-01-01" fin="2999-01-01" id_txt="KALITEXT000031284609">Accord du 3 juillet 2015 relatif au régime frais de santé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="KALISCTA000031284626">Pilotage du régime et organisme assureur recommandé</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635252" date_publi="1993-06-02" etat="VIGUEUR_ETEN" nature="IDCC" num="1631" titre="Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993" url="conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635252.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000031284660" num="11" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000047337271" num="11" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">A l'issue d'une procédure d'appel formalisé à la concurrence telle que prévue par l'article L. 912-1 du code de la sécurité sociale, les partenaires sociaux ont choisi de recommander aux entreprises relevant de la branche d'adhérer, pour l'assurance et la gestion de la couverture du présent régime « frais de santé », à l'organisme assureur suivant :<br/>
+– Humanis Prévoyance, institution de prévoyance régie par le titre III du livre IX du code de la sécurité sociale, dont le siège social est sis au 7, rue de Magdebourg, 75116 Paris.</p>
+<p align="left">Les modalités d'organisation de la recommandation seront réexaminées par les partenaires sociaux, dans le respect des dispositions de l'article L. 912-1 du code de la sécurité sociale, dans un délai maximum de 5 ans à compter de la date d'effet du présent accord. A cette fin, les parties signataires se réuniront au plus tard 6 mois avant l'échéance.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

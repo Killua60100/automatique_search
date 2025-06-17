@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038660107</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/66/01/KALIARTI000038660107.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2018-11-09</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690404">Modifications</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2018-11-09" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038660107" num="3" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="2018-11-09" id="KALIARTI000005767284" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Chaque partie signataire peut demander des modifications à la présente convention. Toute demande de révision devra être portée, par lettre recommandée avec accusé de réception, à la connaissance des autres parties contractantes. Elle devra mentionner les points dont la révision est demandée et les propositions formulées en remplacement.</p>
+<p>Une commission paritaire permanente de négociation et d'interprétation devra se réunir dans un délai qui ne pourra excéder 2 mois à compter de la date de réception de la demande de modification pour examiner et éventuellement conclure un accord sur les propositions déposées.</p>
+<p>Si les modifications proposées ne font pas l'objet d'un accord sous forme d'avenant, la convention collective reste en l'état.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000038632607" datesignatexte="2018-11-09" id="KALIARTI000038632611" naturetexte="Avenant" nortexte="ASET1950387M" num="1er" numtexte="56" sens="cible" typelien="MODIFIE">Création de la CPPNI - art. 1er (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000018216783" datesignatexte="2007-07-20" id="KALIARTI000018216807" naturetexte="Avenant" nortexte="ASET0751036M" num="7" numtexte="43" sens="cible" typelien="CITATION">Salaires et  classifications - art. 7 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276514" datesignatexte="2011-11-09" id="KALIARTI000025276523" naturetexte="Avenant" nortexte="ASET1151552M" num="3" numtexte="48" sens="cible" typelien="CITATION">salaires minima au 1er janvier 2012 - art. 3 (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

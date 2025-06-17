@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635252</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635252.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1631</NUM>
+
+<DATE_PUBLI>1993-06-02</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005655088" titretxt="Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000039097852" titretxt="Champ d'application économique"/>
+<LIEN_TXT idtxt="KALITEXT000039333539" titretxt="Champ d'application "/>
+<LIEN_TXT idtxt="KALITEXT000005655090" titretxt="Modulation du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005655092" titretxt="Adhésion à un OPCA"/>
+<LIEN_TXT idtxt="KALITEXT000039333828" titretxt="Dénonciation par le SNRPO"/>
+<LIEN_TXT idtxt="KALITEXT000005655095" titretxt="Création d'une commission paritaire nationale de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005655097" titretxt="Réduction et aménagement du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005655099" titretxt="Création du CQP &quot;Ouvrier qualifié de maintenance HPA&quot;"/>
+<LIEN_TXT idtxt="KALITEXT000005655101" titretxt="Avenant à l'accord ARTT"/>
+<LIEN_TXT idtxt="KALITEXT000005655103" titretxt="Avenant à l'accord ARTT sur les heures supplémentaires"/>
+<LIEN_TXT idtxt="KALITEXT000005655105" titretxt="Travail de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000005655107" titretxt="Avenant à l'accord ARTT du 23 mai 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005655109" titretxt="Avenant à l'accord relatif au travail de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000005655111" titretxt="Avenant à l'accord relatif à l'ARTT"/>
+<LIEN_TXT idtxt="KALITEXT000005655113" titretxt="Mise en place d'un régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005655115" titretxt="Avenant à l'accord prévoyance du 9 mars 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005655117" titretxt="Chèques-vacances"/>
+<LIEN_TXT idtxt="KALITEXT000005655119" titretxt="Adhésion de la fédération des commerces et des services UNSA à la convention collective nationale de l'hôtellerie de plein air"/>
+<LIEN_TXT idtxt="KALITEXT000005655121" titretxt="Conditions d'information des salariés et des représentants du personnel"/>
+<LIEN_TXT idtxt="KALITEXT000005655123" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000020851837" titretxt="Lutte contre le travail illégal"/>
+<LIEN_TXT idtxt="KALITEXT000021012802" titretxt="Création d'une formation de surveillant d'espace aquatique"/>
+<LIEN_TXT idtxt="KALITEXT000021012814" titretxt="Grille de classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000021284606" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000022168794" titretxt="Emploi des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000022840106" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000023270109" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000023270121" titretxt="Préavis"/>
+<LIEN_TXT idtxt="KALITEXT000023714606" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000024454846" titretxt="Création d'une formation de surveillant d'espace aquatique"/>
+<LIEN_TXT idtxt="KALITEXT000024565785" titretxt="Mise en place de chèques-vacances"/>
+<LIEN_TXT idtxt="KALITEXT000024565808" titretxt="Commission paritaire de validation"/>
+<LIEN_TXT idtxt="KALITEXT000024629512" titretxt="Financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000025201753" titretxt="Paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000025392188" titretxt="Insertion et maintien de l'emploi des personnes handicapées"/>
+<LIEN_TXT idtxt="KALITEXT000025956283" titretxt="Pérennisation de l'emploi et formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000025956300" titretxt="Régime de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000026085457" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000026356759" titretxt="Financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000027661966" titretxt="Pérennisation de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000027661974" titretxt="Régime de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000027779343" titretxt="Préavis des cadres dirigeants"/>
+<LIEN_TXT idtxt="KALITEXT000028532480" titretxt="Régime de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000028900747" titretxt="Régime de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000029361014" titretxt="Travail à temps partiel"/>
+<LIEN_TXT idtxt="KALITEXT000030440810" titretxt="Temps partiel"/>
+<LIEN_TXT idtxt="KALITEXT000030555330" titretxt="Régime de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000031114620" titretxt="Financement de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000031260643" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000031284609" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000032074246" titretxt="Travail à temps partiel"/>
+<LIEN_TXT idtxt="KALITEXT000032512786" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000033286294" titretxt="Caractère saisonnier d'un établissement"/>
+<LIEN_TXT idtxt="KALITEXT000033685459" titretxt="Financement des frais de jury"/>
+<LIEN_TXT idtxt="KALITEXT000033685466" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000034851576" titretxt="Mise en place d'un régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000035184670" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000036231854" titretxt="Création de la commission paritaire sociale (Corse)"/>
+<LIEN_TXT idtxt="KALITEXT000035980548" titretxt="Travail saisonnier"/>
+<LIEN_TXT idtxt="KALITEXT000037186358" titretxt="Modifications régime de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000037186370" titretxt="Composition et fonctionnement de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000038073479" titretxt="Rectificatif à l'avenant n° 36 du 23 février 2018 (CPPNI)"/>
+<LIEN_TXT idtxt="KALITEXT000038550913" titretxt="Prévention de la pénibilité"/>
+<LIEN_TXT idtxt="KALITEXT000038550948" titretxt="Durées de période d'essai des CDI"/>
+<LIEN_TXT idtxt="KALITEXT000038616378" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000038881588" titretxt="Rectificatif n° 2 à l'avenant n° 36 du 23 février 2018 (CPPNI)"/>
+<LIEN_TXT idtxt="KALITEXT000038881602" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000039109473" titretxt="OPCO AFDAS"/>
+<LIEN_TXT idtxt="KALITEXT000042101109" titretxt="Recours et durée des contrats de travail à durée déterminée"/>
+<LIEN_TXT idtxt="KALITEXT000042101131" titretxt="Modification de l'accord du 3 juillet 2015 (régime frais de santé)"/>
+<LIEN_TXT idtxt="KALITEXT000042101161" titretxt="Modification accord du 9 mars 2004 relatif à la mise en place d'un régime de prévoyance complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000043348968" titretxt="Activité partielle en cas de réduction durable d'activité (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000045847596" titretxt="Financement de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000046394578" titretxt="Activité partielle de longue durée (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000046599474" titretxt="Avenant n° 2 rectificatif (salaires)"/>
+<LIEN_TXT idtxt="KALITEXT000047331676" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000051314748" titretxt="Régime frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000047331717" titretxt="Prévoyance"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005655125" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005655127" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005655129" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005655131" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005655133" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005655135" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005655137" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005655139" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005655141" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005655143" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000017890189" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018826397" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020969873" titretxt="Salaires au 1er juin 2009"/>
+<LIEN_TXT idtxt="KALITEXT000022364924" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000024044240" titretxt="Salaires minimaux pour l'année 2011"/>
+<LIEN_TXT idtxt="KALITEXT000025627388" titretxt="Salaires minimaux au 1er avril 2012"/>
+<LIEN_TXT idtxt="KALITEXT000027036181" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000028900764" titretxt="Salaires minimaux pour l'année 2014"/>
+<LIEN_TXT idtxt="KALITEXT000030590663" titretxt="Salaires minimaux pour l'année 2015"/>
+<LIEN_TXT idtxt="KALITEXT000032512804" titretxt="Salaires minima pour l'année 2016"/>
+<LIEN_TXT idtxt="KALITEXT000034183824" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000037953740" titretxt="Salaires et valeur du point 2018"/>
+<LIEN_TXT idtxt="KALITEXT000037953752" titretxt="Rectificatif à l'avenant n° 38"/>
+<LIEN_TXT idtxt="KALITEXT000038881621" titretxt="Salaires "/>
+<LIEN_TXT idtxt="KALITEXT000042131852" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000045130113" titretxt="Salaires au 1er février 2022"/>
+<LIEN_TXT idtxt="KALITEXT000045847581" titretxt="Salaires au 1er juillet 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046314034" titretxt="Rectificatif à l'avenant n° 43 du 22 février 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047416322" titretxt="Salaires au 1er mai 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049438808" titretxt="Salaires au 1er mai 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051314765" titretxt="Salaires au 1er avril 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005655145" titretxt="ARRETE du 15 octobre 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005655147" titretxt="ARRETE du 8 décembre 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005655149" titretxt="ARRETE du 19 décembre 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005655153" titretxt="ARRETE du 26 juillet 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005655155" titretxt="ARRETE du 23 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005655157" titretxt="ARRETE du 15 avril 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005655159" titretxt="ARRETE du 7 mai 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005655161" titretxt="ARRETE du 25 juin 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005655163" titretxt="ARRETE du 7 janvier 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005655165" titretxt="ARRETE du 12 mars 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005655167" titretxt="ARRETE du 13 août 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005655169" titretxt="ARRETE du 9 avril 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005655171" titretxt="ARRETE du 4 juin 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005655173" titretxt="ARRETE du 3 janvier 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005655175" titretxt="ARRETE du 9 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005655177" titretxt="ARRETE du 18 juillet 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005655179" titretxt="ARRETE du 10 février 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005655181" titretxt="ARRETE du 7 juillet 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005655183" titretxt="ARRETE du 26 décembre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005655185" titretxt="ARRETE du 22 juillet 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005655187" titretxt="ARRETE du 9 juin 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005655189" titretxt="ARRETE du 15 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005655191" titretxt="ARRETE du 10 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005655193" titretxt="ARRETE du 25 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005655195" titretxt="ARRETE du 22 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005655197" titretxt="ARRETE du 16 juin 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005655199" titretxt="ARRETE du 19 octobre 2006"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Hôtellerie de plein air</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3271</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

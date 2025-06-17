@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767400</ID>
+<ANCIEN_ID>KGOAMXXXXXX00006XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/74/KALIARTI000005767400.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1993-12-07</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640445" date_publi="2999-01-01" date_signature="1993-06-14" nature="ACCORD" nor="ASET9351333M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Travail intermittent dans le secteur scolaire" debut="1993-12-07" fin="2999-01-01" id_txt="KALITEXT000005640445">Accord du 14 juin 1993 relatif au travail intermittent dans le secteur scolaire </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1993-12-07" fin="2999-01-01" id="KALISCTA000005690468">Garanties collectives</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1993-12-07" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005767400" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>1. Pour faciliter l'application du présent accord, les employeurs organiseront dans le secteur scolaire une formation sur le texte de l'accord. Elle sera dispensée à l'encadrement et aux représentants du personnel du secteur scolaire de l'entreprise dans le premier trimestre de l'année scolaire 1993-1994, puis chaque année aux nouveaux membres de l'encadrement et aux représentants du personnel du secteur scolaire de l'entreprise. Cette séance d'information de 1 demi-journée sera totalement prise en charge par l'employeur et organisée selon des modalités propres à chaque employeur.</p>
+<p>De plus, les délégués syndicaux bénéficieront, chaque année scolaire, de 1 demi-journée rémunérée pour assurer leur formation aux dispositions du présent accord.</p>
+<p>2. Afin de vérifier la conformité de la mise en œuvre du présent accord, chaque employeur créera un groupe de travail paritaire. Ce groupe sera constitué de délégués syndicaux et de membres de la direction, selon des modalités propres à chaque employeur.</p>
+<p>Il se réunira au plus 1 fois par trimestre et au moins 1 fois par an sur saisine de l'une des parties.</p>
+<p>En cas de constat conjoint par l'ensemble des parties d'un dysfonctionnement dans l'application de l'accord, les droits des salariés concernés seront automatiquement rétablis.</p>
+<p>3. Le comité d'entreprise et d'établissement ou, à défaut, les délégués du personnel, seront consultés au moins une fois par an sur la politique de l'entreprise à l'égard de l'emploi intermittent et de ses perspectives d'évolution.</p>
+<p>À cet effet, l'entreprise et l'établissement établiront, une fois par an, un bilan de la répartition, par catégories professionnelles et par sexe, du nombre des heures travaillées par les salariés titulaires d'un contrat de travail intermittent par rapport à celles effectuées par les salariés à temps complet et à temps partiel. Ce bilan indique également le nombre de salariés concernés par les dispositions de l'article 5 paragraphe 8 du présent accord.</p>
+<p>Ce bilan sera porté à la connaissance du comité d'entreprise des comités d'établissement, des délégués syndicaux centraux, des délégués syndicaux à défaut, des délégués du personnel préalablement à cette réunion.</p>
+<p>Il sera également porté par chaque entreprise à la connaissance d'un des syndicats professionnels de la branche et sera consolidé dans le rapport annuel sur l'évolution économique, la situation de l'emploi et des salaires dans la branche professionnelle.</p>
+<p>4. Les salariés titulaires d'un contrat de travail intermittent bénéficient des droits reconnus aux salariés à temps complet, en ce qui concerne les institutions représentatives du personnel.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Accord 1993-06-14 en vigueur le 7 décembre 1993, étendu par arrêté du 25 novembre 1993 JORF 7 décembre 1993</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

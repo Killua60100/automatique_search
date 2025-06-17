@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000026902950</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/26/90/29/KALIARTI000026902950.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>57</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2012-10-01</DATE_DEBUT>
+<DATE_FIN>2013-01-17</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957152">Garanties</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-10-01" etat="REMPLACE" fin="2013-01-17" id="KALIARTI000026902950" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2020-01-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000039383435" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000041692090" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2017-10-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000038194933" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-10-27" etat="REMPLACE" fin="2012-10-01" id="KALIARTI000021957162" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-10-01" etat="REMPLACE" fin="2016-01-01" id="KALIARTI000027750139" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2017-10-01" id="KALIARTI000032853913" num="57" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les garanties du présent régime sont établies sur la base de la législation et de la réglementation de l'assurance maladie en vigueur au moment de sa prise d'effet. Elles seront revues, le cas échéant, sans délai en cas de changement de ces textes. </p>
+<p>Les parties signataires pourront également convenir d'une révision des cotisations en tout ou partie à cette occasion. </p>
+<p>Sont couverts tous les actes et frais courant sur la période de garantie ayant fait l'objet d'un remboursement et d'un décompte individualisé du régime de base de la sécurité sociale au titre de la législation maladie, accidents du travail, maladies professionnelles et maternité ainsi que les actes et frais non pris en charge par ce régime, expressément mentionnés dans le tableau des garanties visé ci-après. </p>
+<p>Les garanties maternité prévues au présent régime n'interviennent que pendant la période au cours de laquelle l'assurée reçoit des prestations en nature de la sécurité sociale au titre du risque maternité. </p>
+<p align="center">
+<br/>Prestations complémentaires à la sécurité sociale </p>
+<div align="center">
+
+</div>
+<table border="1">
+<tbody>
+<tr>
+<th>Nature des frais </th>
+<th colspan="2">Niveau d'indemnisation (1), <br/>y compris les prestations <br/>versées par la sécurité sociale </th>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>Conventionné </td>
+<td>Non conventionné </td>
+</tr>
+<tr>
+<td align="center">Hospitalisation médicale, chirurgicale et maternité </td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Frais de séjour </td>
+<td align="center" colspan="2">225 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Actes de chirurgie (ADC) (2) </td>
+<td align="center" colspan="2">250 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Actes d'anesthésie (ADA) (2) </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Autres honoraires </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chambre particulière (3) </td>
+<td align="center" colspan="2">70 € par jour </td>
+</tr>
+<tr>
+<td align="center">Forfait hospitalier engagé </td>
+<td align="center" colspan="2">Frais réels dans la limite du forfait réglementaire <br/>en vigueur </td>
+</tr>
+<tr>
+<td align="center">Frais d'accompagnement d'un enfant à charge de moins de 16 ans (sur présentation d'un justificatif) </td>
+<td align="center" colspan="2">25 € par jour </td>
+</tr>
+<tr>
+<td align="center">Transport remboursé par la sécurité sociale </td>
+<td align="center" colspan="2">100 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Actes médicaux </td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Généralistes (consultations et visites) </td>
+<td align="center" colspan="2">130 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Spécialistes (consultations et visites) </td>
+<td align="center" colspan="2">200 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Actes de chirurgie (ADC) (2) </td>
+<td align="center" colspan="2">150 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Actes techniques médicaux (ATM) (2) </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Actes d'imagerie médicale (ADI) (2) </td>
+<td align="center" colspan="2">150 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Actes d'échographie (ADE) (2) </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Auxiliaires médicaux </td>
+<td align="center" colspan="2">110 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Analyses </td>
+<td align="center" colspan="2">110 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Pharmacie remboursée par la sécurité sociale </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Pharmacie </td>
+<td align="center" colspan="2">100 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Pharmacie non remboursée par la sécurité sociale </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Moyens contraceptifs prescrits </td>
+<td align="center" colspan="2">Crédit de 80 € par année civile </td>
+</tr>
+<tr>
+<td align="center">Dentaire </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Soins dentaires (à l'exception des inlays, onlays) </td>
+<td align="center" colspan="2">100 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Inlay, onlay </td>
+<td align="center" colspan="2">330 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires remboursées par la sécurité sociale </td>
+<td align="center" colspan="2">375 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Inlay core et inlay core à clavettes </td>
+<td align="center" colspan="2">330 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires non remboursées par la sécurité sociale </td>
+<td align="center" colspan="2">260 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Orthodontie acceptée par la sécurité sociale </td>
+<td align="center" colspan="2">150 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Orthodontie refusée par la sécurité sociale </td>
+<td align="center" colspan="2">250 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Actes dentaires hors nomenclature </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Parodontologie </td>
+<td align="center" colspan="2">Crédit de 200 € par année civile </td>
+</tr>
+<tr>
+<td align="center">Implants dentaires </td>
+<td align="center" colspan="2">Forfait de 1 000 € par implant, <br/>limité à 3 implants par année civile. </td>
+</tr>
+<tr>
+<td align="center">Prothèses non dentaires (acceptées par la sécurité sociale) </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Prothèses auditives </td>
+<td align="center" colspan="2">RSS + crédit de 1 200 € par année civile </td>
+</tr>
+<tr>
+<td align="center">Orthopédie et autres prothèses </td>
+<td align="center" colspan="2">RSS + crédit de 600 € par année civile </td>
+</tr>
+<tr>
+<td align="center">Optique </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Monture </td>
+<td align="center" colspan="2">RSS + 90 € limité à une intervention par année civile </td>
+</tr>
+<tr>
+<td align="center">Verres </td>
+<td align="center" colspan="2">Grille optique + RSS, <br/>limité à 2 verres par année civile </td>
+</tr>
+<tr>
+<td align="center">Lentilles acceptées par la sécurité sociale </td>
+<td align="center" colspan="2">RSS + crédit de 180 € par année civile </td>
+</tr>
+<tr>
+<td align="center">Lentilles refusées par la sécurité sociale (y compris lentilles jetables) </td>
+<td align="center" colspan="2">Crédit de 180 € par année civile </td>
+</tr>
+<tr>
+<td align="center">Actes médicaux non remboursés par la sécurité sociale </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chirurgie réfractive </td>
+<td align="center" colspan="2">Crédit de 1 000 € par année civile </td>
+</tr>
+<tr>
+<td align="center">Cure thermale (acceptée par la sécurité sociale) </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Frais de traitement et honoraires </td>
+<td align="center" colspan="2">100 % de la BR </td>
+</tr>
+<tr>
+<td align="center">Frais de voyage et hébergement </td>
+<td align="center" colspan="2">250 € </td>
+</tr>
+<tr>
+<td align="center">Maternité </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Naissance d'un enfant déclaré </td>
+<td align="center" colspan="2">300 € </td>
+</tr>
+<tr>
+<td align="center">Fécondation in vitro </td>
+<td align="center" colspan="2">Crédit de 300 € par année civile </td>
+</tr>
+<tr>
+<td align="center">Médecines hors nomenclature </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Acupuncture, chiropractie, ostéopathie, phytothérapie (si intervention par un praticien inscrit auprès d'une association agréée) </td>
+<td align="center" colspan="2">40 € par acte, limité à 4 actes par année civile </td>
+</tr>
+<tr>
+<td align="center">Actes de prévention conformément aux dispositions du décret n° 2005-1226 du 29 septembre 2005 </td>
+<td colspan="2">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Prise en charge des trois actes de prévention suivants : </td>
+<td align="center">100 % de la BR </td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- détartrage annuel complet sus et sous-gingival, effectué en deux séances maximum </td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- les vaccinations seules ou combinées de la diphtérie, du tétanos et de la poliomyélite, et ce quel que soit l'âge </td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- vaccin antigrippe saisonnière non remboursé (sur prescription et facture) </td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">BR : base de remboursement. <br/>RSS : remboursement sécurité sociale. <br/>(1) Les remboursements sont effectués pour des frais relevant des législations maladie, accident de travail/ maladie professionnelle, et maternité, et sont limités, toutes prestations comprises, aux frais réels engagés. <br/>(2)   Y compris la prise en charge des dépassements d'honoraires conformément aux dispositions du décret n° 2012-386 du 21 mars 2012 : actes techniques réalisés par les médecins exerçant une spécialité chirurgicale, obstétricale ou d'anesthésie-réanimation encadrés dans les conditions prévues à l'article 36 de la convention signée le 26 juillet 2011 en application de l'article L. 162-5 du code de la sécurité sociale, dans sa rédaction issue de l'arrêté pris en application du I de l'article 56 de la loi n° 2011-1906 du 21 décembre 2011 de financement de la sécurité sociale pour 2012. <br/>(3) Dans la limite de 60 jours en hospitalisation médicale et chirurgicale, de 90 jours par année civile en maison de repos, de convalescence ou d'accueil spécialisé pour handicapés en secteur psychiatrique. <br/>En secteur non conventionné, les tarifs sont reconstitués sur la base du tarif de convention ou prix unitaire selon la nomenclature sécurité sociale des actes. </td>
+</tr>
+</tbody>
+</table>
+<br/>
+<p align="left">
+<br/>L'annualité est appréciée par année civile. La part non consommée une année n'est pas reportée l'année suivante. </p>
+<p align="center">
+<br/>Grille optique </p>
+<p align="right">
+<br/>(En euros.) </p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Code LPP </th>
+<th>Type de verres </th>
+<th>Montant par verre </th>
+</tr>
+<tr>
+<td align="center">22 61874 - 22 87916 - 22 42457 <br/>22 59966 - 22 00393 - 22 26412 <br/>22 70413 - 22 03240 </td>
+<td align="center">Unifocaux simples </td>
+<td align="center">70 </td>
+</tr>
+<tr>
+<td align="center">22 43540 - 22 97441 - 22 42204 <br/>22 91088 - 22 73854 - 22 48320 <br/>22 83953 - 22 19381 - 22 38941 <br/>22 683385 - 22 45036 - 22 06800 <br/>22 82793 - 22 63459 - 22 80660 <br/>22 65330 - 22 35776 - 22 95896 <br/>22 84527 - 22 54868 - 22 12976 <br/>22 52668 - 22 88519 - 22 99523 </td>
+<td align="center">Unifocaux complexes </td>
+<td align="center">120 </td>
+</tr>
+<tr>
+<td align="center">22 59245 - 22 64045 - 22 40671 <br/>22 82221 - 22 90396 - 22 91183 <br/>22 27038 - 22 99180 </td>
+<td align="center">Multifocaux <br/>ou progressifs simples </td>
+<td align="center">150 </td>
+</tr>
+<tr>
+<td align="center">22 38792 - 22 02452 - 22 34239 <br/>22 59660 - 2245384 - 22 95198 <br/>22 02239 - 22 52042 </td>
+<td align="center">Multifocaux <br/>ou progressifs complexes </td>
+<td align="center">240</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000026804217" datesignatexte="2012-06-19" id="KALIARTI000026804221" naturetexte="Avenant" nortexte="ASET1251256M" num="1er" numtexte="76" sens="cible" typelien="CITATION">Frais de soins de santé - art. 1er (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000026804217" datesignatexte="2012-06-19" id="KALIARTI000026804221" naturetexte="Avenant" nortexte="ASET1251256M" num="1er" numtexte="76" sens="cible" typelien="MODIFIE">Frais de soins de santé - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

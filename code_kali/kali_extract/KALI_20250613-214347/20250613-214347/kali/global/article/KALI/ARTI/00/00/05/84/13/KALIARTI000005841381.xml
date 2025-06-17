@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841381</ID>
+<ANCIEN_ID>KBCAAXXXXXX00029XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841381.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>29</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1983-06-30</DATE_DEBUT>
+<DATE_FIN>1993-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750742">Section 3 : Durée du travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005761310">Repos compensateur</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1983-06-30" etat="REMPLACE" fin="1993-01-01" id="KALIARTI000005841381" num="29" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1993-01-01" etat="REMPLACE" fin="1999-01-01" id="KALIARTI000005841382" num="29" origine="KALI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1999-01-01" etat="ABROGE" fin="2000-01-01" id="KALIARTI000005841383" num="29" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841384" num="29" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Les salariés absents pour maladie ou accident dûment constaté par certificat médical continueront à percevoir leur salaire à raison de :<br/>
+<br/>   90 p. 100 de la rémunération brute, pendant quatre-vingt-dix jours, déduction faite des indemnités journalières de sécurité sociale ;<br/>
+<br/>   66 p. 100 de cette rémunération pendant les quatre-vingt-dix jours suivants.<br/>
+<br/>   Ces temps d'indemnisation seront augmentés de dix jours par période entière de cinq ans d'ancienneté, sans pouvoir dépasser quatre-vingt-dix jours.<br/>
+<br/>   Les salariés doivent, pour bénéficier de l'indemnisation :<br/>
+<br/>   - totaliser deux ans d'ancienneté dans l'entreprise ;<br/>
+<br/>   - justifier dans les quarante-huit heures de cette incapacité ;<br/>
+<br/>   - être pris en charge par la sécurité sociale ;<br/>
+<br/>   - être soignés sur le territoire français ou dans l'un des autres pays de la Communauté économique européenne.<br/>
+<br/>   L'indemnisation court à compter du premier jour d'absence, en cas d'accident du travail ou de maladie professionnelle, et à compter du quatrième jour d'absence dans tous les autres cas.<br/>
+<br/>   L'ancienneté du salarié dans l'entreprise devra s'apprécier au premier jour d'absence.<br/>
+<br/>   Si l'absence pour maladie ou accident a été indemnisée au cours des douze mois antérieurs, la durée totale de l'indemnisation ne doit pas dépasser celle prévue ci-dessus.<br/>
+<br/>   L'indemnisation à 66 p. 100 de la rémunération prendra effet dès que sera épuisée l'indemnisation à 90 p. 100.<br/>
+<br/>   Les garanties ainsi prévues s'entendent déduction faite des allocations que l'intéressé perçoit de la sécurité sociale et des régimes complémentaires de prévoyance mais en ne retenant, dans ce dernier cas, que la part des prestations relevant des versements de l'employeur.<br/>
+<br/>   Lorsque les indemnités de la sécurité sociale sont réduites de fait, par exemple, de l'hospitalisation ou d'une sanction de la caisse pour non-respect de son règlement intérieur, elles sont réputées être servies intégralement.<br/>
+<br/>   Le salaire à prendre en considération est celui correpondant à l'horaire pratiqué pendant l'absence de l'intéressé dans l'établissement.<br/>
+<br/>   Toutefois, si, par suite de l'absence de l'intéressé, l'horaire du personnel restant au travail devrait être augmenté, cette augmentation ne serait pas prise en considération pour la fixation de l'indemnisation.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050027990</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/02/79/KALIARTI000050027990.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050027943" date_publi="2024-07-18" date_signature="2024-05-22" nature="Accord" nor="ASET2450548M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="CQP et CQPI" debut="2025-07-01" fin="2999-01-01" id_txt="KALITEXT000050027943">Accord du 22 mai 2024 relatif aux CQP et aux CQPI</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027950">Annexes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027987">Annexe 2 Fiche synthétique CQP « Conducteur d'équipement(s) industriel(s) »</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635597" date_publi="1953-03-06" etat="VIGUEUR_ETEN" nature="IDCC" num="45" titre="Convention collective nationale du caoutchouc du 6 mars 1953. Étendue par arrêté du 29 mai 1969 JORF 18 juin 1969 " url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635597.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027990" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">I. Métier, fonctions et activités visés par la qualification</p>
+<p align="center">1. Désignation du métier ou des fonctions en lien avec la qualification</p>
+<p align="left">Conducteur(trice) d'équipement(s) industriel(s).</p>
+<p align="center">2. Description de la qualification</p>
+<p align="left">Le conducteur(trice) d'équipement(s) industriel(s) conduit une installation en tout ou partie, une ou plusieurs machines intégrées ou non dans une ligne de production dans le cadre d'un processus automatisé en mettant en œuvre des moyens techniques diversifiés, et en procédant aux réglages des équipements, dans le cadre des règles QHSE.</p>
+<p align="left">Les principales situations professionnelles rencontrées sont les suivantes :<br/>
+– préparation des installations, machines et accessoires en vérifiant et dimensionnant les matières premières et les équipements nécessaires afin d'assurer la bonne exécution du programme de travail et la sécurité des équipes ;<br/>
+– poursuite d'une production, à la prise de poste, selon les indications du dossier de production et/ou des consignes orales ou écrites ;<br/>
+– réglage paramétrage des équipements et mise en production (lancement ou changement de production) selon les indications du document de réglage, du dossier machine et du manuel de poste ;<br/>
+– pilotage de la ligne de production en mode normal, selon les instructions du document de production, du dossier machine et du manuel de poste et/ou des consignes orales ou écrites afin d'assurer le bon déroulement et la sécurité de la production ;<br/>
+– pilotage du système de production en mode dégradé selon les instructions et procédures définies par les méthodes et/ou le constructeur afin d'assurer la poursuite de la production dans les meilleures conditions de fonctionnement et de sécurité ;<br/>
+– mise en œuvre de la procédure marche/arrêt et redémarrage selon les indications du manuel de poste et du dossier machine ;<br/>
+– entretien surveillance et contrôle des systèmes et matériels conduits (opérations ne nécessitant pas d'habilitation ou de connaissances techniques particulières) ;<br/>
+– enregistrement et transmission des informations liées à la conduite et à la gestion de la production en utilisant les supports prévus afin d'assurer le suivi de la production et la sécurité des équipements.</p>
+<p align="center">II. Positionnement du CQP dans la grille de classification de la convention collective nationale du caoutchouc</p>
+<p align="left">Le CQP « Conducteur d'équipement(s) industriel(s) » est positionné comme suit : niveau III, échelon 31, coefficient 215.</p>
+<p align="left">Sont bénéficiaires du niveau, de l'échelon et du coefficient indiqués ci-dessus les candidats ayant obtenu le CQP et exerçant effectivement l'emploi visé par le CQP, ces deux conditions étant cumulatives.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

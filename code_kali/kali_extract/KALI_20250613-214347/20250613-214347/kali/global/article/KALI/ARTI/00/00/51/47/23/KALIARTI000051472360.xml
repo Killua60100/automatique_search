@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051472360</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/47/23/KALIARTI000051472360.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Modification de l'article 46</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-13</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051472356" date_publi="2025-04-16" date_signature="2024-11-26" nature="Avenant" nor="ASET2550182M" num="110" num_parution_jo="">
+<TITRE_TXT c_titre_court="Prévoyance (modification art. 46)" debut="2025-06-13" fin="2999-01-01" id_txt="KALITEXT000051472356">Avenant n° 110 du 26 novembre 2024 relatif au régime de prévoyance</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-13" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051472360" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les alinéas 2 à 4 sont ainsi rédigés :</p>
+<p align="left">« Les salariés relevant du collège “ cadres ” pour le présent régime de prévoyance sont : les salariés répondant aux définitions des articles 2.1 et 2.2 de l'ANI Prévoyance du 17 novembre 2017 ainsi que les bénéficiaires visés au 2e alinéa du 1° de l'article R. 242-1-1 du code de la sécurité sociale.</p>
+<p align="left">Ces salariés sont titulaires d'un contrat de travail et inscrits à l'effectif de l'entreprise.</p>
+<p align="left">Les salariés relevant du collège “ non-cadres ” pour le présent régime de prévoyance sont : les salariés ne répondant pas aux définitions des articles 2.1 et 2.2 de l'ANI prévoyance du 17 novembre 2017 et n'étant pas les bénéficiaires visés au 2e alinéa du 1° de l'article R. 242-1-1 du code de la sécurité sociale. »</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000005675709" datesignatexte="1983-06-30" id="KALIARTI000051728767" naturetexte="Convention collective nationale " nortexte="" num="46" numtexte="" sens="source" typelien="MODIFIE">Convention collective nationale du 30 juin 1983 - art. 46 (VNE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000025130555" naturetexte="CODE" nortexte="" num="R242-1-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. R242-1-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

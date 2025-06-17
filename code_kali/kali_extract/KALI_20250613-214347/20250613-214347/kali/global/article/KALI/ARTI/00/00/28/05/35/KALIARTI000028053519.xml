@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053519</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053519.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>10</NUM>
+<TITRE>Réévaluation des salaires</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053389">Chapitre III Salaires</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053519" num="10" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Les salaires minimaux des techniciens de la production cinématographique seront réévalués au 1er janvier et au 1er juillet de chaque année.<br/>Lors des négociations, afin de fixer le montant éventuel de ces réévaluations, il sera tenu compte du pourcentage d'augmentation du coût de la vie, mesuré par l'Insee (indice des prix à la consommation hors tabac des ménages urbains dont le chef est ouvrier ou employé [France entière, métropole et DOM], valorisé respectivement au 30 novembre et au 31 mai).<br/>Les grilles de salaires minimaux garantis réévalués au 1er janvier et au 1er juillet de chaque année feront l'objet, s'il y a lieu, d'un avenant qui sera déposé par la partie la plus diligente auprès de la direction générale du travail, conformément aux articles L. 2231-5 et L. 2231-6 ainsi que de l'article D. 2231-2 du code du travail.<br/>Les diverses indemnités (repas, casse-croûte et transport) seront réévaluées aux mêmes dates et selon le même pourcentage que les salaires minimaux garantis.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="KALITEXT000035993640" datesignatexte="2017-07-20" id="KALIARTI000035993650" naturetexte="Avenant" nortexte="ASET1750861M" num="" numtexte="" sens="cible" typelien="CITATION">Révision des salaires de l'équipe technique (ti... - art. (VE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000018485207" naturetexte="CODE" nortexte="" num="D2231-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. D2231-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901674" naturetexte="CODE" nortexte="" num="L2231-5" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2231-5</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021957162</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/95/71/KALIARTI000021957162.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>57</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-10-27</DATE_DEBUT>
+<DATE_FIN>2012-10-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957152">Garanties</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-10-01" etat="REMPLACE" fin="2013-01-17" id="KALIARTI000026902950" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2020-01-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000039383435" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000041692090" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2017-10-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000038194933" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-10-27" etat="REMPLACE" fin="2012-10-01" id="KALIARTI000021957162" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-10-01" etat="REMPLACE" fin="2016-01-01" id="KALIARTI000027750139" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2017-10-01" id="KALIARTI000032853913" num="57" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les garanties du présent régime sont établies sur la base de la législation et de la réglementation de l'assurance maladie en vigueur au moment de sa prise d'effet. Elles seront revues, le cas échéant, sans délai en cas de changement de ces textes. </p>
+<p>Les parties signataires pourront également convenir d'une révision des cotisations en tout ou partie à cette occasion. </p>
+<p>Sont couverts tous les actes et frais courant sur la période de garantie ayant fait l'objet d'un remboursement et d'un décompte individualisé du régime de base de la sécurité sociale au titre de la législation maladie, accidents du travail, maladies professionnelles et maternité ainsi que les actes et frais non pris en charge par ce régime, expressément mentionnés dans le tableau des garanties visé ci-après. </p>
+<p>Les garanties maternité prévues au présent régime n'interviennent que pendant la période au cours de laquelle l'assurée reçoit des prestations en nature de la sécurité sociale au titre du risque maternité. </p>
+<p align="center">
+<br/>Prestations complémentaires à la sécurité sociale </p>
+<div align="center">
+
+<table border="1">
+<tbody>
+<tr>
+<th>POSTES </th>
+<th>SECTEUR CONVENTIONNÉ </th>
+<th>SECTEUR NON CONVENTIONNÉ </th>
+</tr>
+<tr>
+<td align="center">Hospitalisation médicale et chirurgicale (y compris maternité) </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Frais de séjour </td>
+<td align="center">Ticket modérateur limité à 20 % du TC + 50 % de la BR sur les dépassements </td>
+<td align="center">Ticket modérateur reconstitué sur le PU limité à 20 % du PU + 50 % du PU sur les dépassements </td>
+</tr>
+<tr>
+<td align="center">Honoraires médicaux et chirurgicaux, y compris chirurgie (ADC), anesthésie (ADA), obstétrique (ACO), échographie (ADE) et actes techniques (ATM) </td>
+<td align="center">Ticket modérateur limité à 20 % de la BR + 50 % de la BR sur les dépassements </td>
+<td align="center">Ticket modérateur reconstitué sur le PU limité à 20 % du PU + 50 % du PU sur les dépassements </td>
+</tr>
+<tr>
+<td align="center">Chambre particulière (1) * </td>
+<td align="center">45 € par jour </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Forfait hospitalier engagé* </td>
+<td align="center">100 % des frais réels limités au montant légaux en vigueur à la date d'extension </td>
+</tr>
+<tr>
+<td align="center">Frais d'accompagnement (enfant à charge de moins de 16 ans sur présentation d'un justificatif) * </td>
+<td align="center">25 € par jour </td>
+</tr>
+<tr>
+<td align="center">Transport accepté </td>
+<td align="center">Ticket modérateur limité à 35 % du tarif de responsabilité </td>
+</tr>
+<tr>
+<td align="center">Consultations et visites </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Consultation et visite de généraliste </td>
+<td align="center">Ticket modérateur limité à 30 % du TC + 30 % du TC sur les dépassements </td>
+<td align="center">Ticket modérateur conventionnel reconstitué limité à 30 % du TC + 30 % du TC sur les dépassements </td>
+</tr>
+<tr>
+<td align="center">Consultation et visite de spécialiste et neuropsychiatre </td>
+<td align="center">Ticket modérateur limité à 30 % du TC + 50 % du TC sur les dépassements </td>
+<td align="center">Ticket modérateur conventionnel reconstitué limité à 30 % du TC + 50 % du TC sur les dépassements </td>
+</tr>
+<tr>
+<td align="center">Actes de chirurgie (ADC), anesthésie (ADA), obstétrique (ACO), échographie (ADE) et actes techniques (ATM) </td>
+<td align="center">Ticket modérateur limité à 30 % de la BR + 50 % de la BR sur les dépassements </td>
+<td align="center">Ticket modérateur reconstitué sur le PU limité à 30 % du PU + 50 % du PU sur les dépassements </td>
+</tr>
+<tr>
+<td align="center">Pharmacie </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Pharmacie (acceptée par la sécurité sociale) </td>
+<td align="center">100 % du ticket modérateur </td>
+</tr>
+<tr>
+<td align="center">Analyses et examens de laboratoire </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Analyses, actes de biologie et prélèvements </td>
+<td align="center">Ticket modérateur limité à 40 % du TC </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Actes de radiologie </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Actes de radiologie et d'imagerie médicale (ADI et ADE) </td>
+<td align="center">Ticket modérateur limité à 30 % de la BR </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Auxiliaires médicaux </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Auxiliaires médicaux </td>
+<td align="center">Ticket modérateur limité à 40 % du TC </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Dentaire </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Soins dentaires (hors inlay et onlay) </td>
+<td align="center">Ticket modérateur limité à 30 % du TC </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Inlay simple et onlay </td>
+<td align="center">Ticket modérateur limité à 30 % du TC + 225 % du TC sur les dépassements </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Inlay core et inlay à clavettes </td>
+<td align="center">Ticket modérateur limité à 30 % du TC + 225 % du TC sur les dépassements </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires remboursées </td>
+<td align="center">Ticket modérateur limité à 30 % du TC + 225 % du TC sur les dépassements </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires non remboursées* </td>
+<td align="center">255 % du tarif de convention </td>
+</tr>
+<tr>
+<td align="center">Orthodontie acceptée </td>
+<td align="center">150 % du tarif de convention </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Orthodontie refusée* </td>
+<td align="center">250 % du tarif de convention </td>
+</tr>
+<tr>
+<td align="center">Implants* </td>
+<td align="center">Crédit annuel de 250 € par bénéficiaire </td>
+</tr>
+<tr>
+<td align="center">Optique (par bénéficiaire) </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Monture </td>
+<td align="center">Crédit annuel de 70 € </td>
+</tr>
+<tr>
+<td align="center">Verres unifocaux (2) </td>
+<td align="center">50 € par verre limité à 2 verres par an </td>
+</tr>
+<tr>
+<td align="center">Verres multifocaux (2) </td>
+<td align="center">75 € par verre limité à 2 verres par an </td>
+</tr>
+<tr>
+<td align="center">Lentilles acceptées </td>
+<td align="center">Crédit annuel de 75 € par unité </td>
+</tr>
+<tr>
+<td align="center">Lentilles refusées (y compris jetables) </td>
+<td align="center">Crédit annuel de 75 € par unité </td>
+</tr>
+<tr>
+<td align="center">Kératotomie (correction de la myopie par laser) </td>
+<td align="center">Crédit annuel de 100 € pour les deux yeux </td>
+</tr>
+<tr>
+<td align="center">Autres prothèses acceptées (par bénéficiaire) </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Prothèses auditives </td>
+<td align="center">Crédit annuel de 500 € </td>
+</tr>
+<tr>
+<td align="center">Orthopédie </td>
+<td align="center">Crédit annuel de 500 € </td>
+</tr>
+<tr>
+<td align="center">Autres prothèses </td>
+<td align="center">Crédit annuel de 500 € </td>
+</tr>
+<tr>
+<td align="center">Cure thermale (remboursée par la sécurité sociale) </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Honoraires et frais de traitement </td>
+<td align="center">Ticket modérateur limité à 30 % du TC </td>
+<td align="center">Néant </td>
+</tr>
+<tr>
+<td align="center">Frais de voyage et d'hébergement </td>
+<td align="center">Forfait de 200 € une fois par an et par bénéficiaire </td>
+</tr>
+<tr>
+<td align="center">Actes hors nomenclature (par bénéficiaire) </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Acupuncture, chiropractie et ostéopathie (praticien inscrit auprès d'une association agréée) </td>
+<td align="center">20 € par consultation avec un maximum de 4 prises en charge par an </td>
+</tr>
+<tr>
+<td align="center">Actes de prévention (décret n 2005-1226 du 29 septembre 2005 et ses arrêtés subséquents) </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Vaccination DTP et rubéole </td>
+<td align="center">100 % du TM </td>
+</tr>
+<tr>
+<td align="center">Détartrage annuel complet (SC12) </td>
+<td align="center">100 % du TM </td>
+</tr>
+<tr>
+<td align="center">Vaccin antigrippe saisonnière non remboursé </td>
+<td align="center">100 % des FR </td>
+</tr>
+<tr>
+<td colspan="3">* Remboursé selon conditions définies nonobstant toutes interventions de la sécurité sociale. <br/>(1) Dans la limite de 60 jours en hospitalisation médicale et chirurgicale, de 90 jours par année civile en maison de repos, de convalescence ou d'accueil spécialisé pour handicapés en secteur psychiatrique. <br/>(2) Verres unifocaux : LPP 2203240, 2287916, 2259966, 2226412, 2280660, 2282793, 2263459, 2265330, 2235776, 2295896, 2284527, 2254868, 2212976, 2252668, 2288519, 2299523. <br/>Verres multifocaux : LPP 2290396, 2291183, 2227038, 2299180, 2245384, 2295198, 2202239, 2252042. <br/>Définitions : <br/>BR = base de remboursement de la sécurité sociale. <br/>PU = prix unitaire. <br/>TC = tarif de convention de la sécurité sociale. <br/>TR = tarif de responsabilité. <br/>TFR = tarif forfaitaire de responsabilité. <br/>FR = frais réels.</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021944693" datesignatexte="2009-10-27" id="KALIARTI000021944696" naturetexte="Avenant" nortexte="ASET0951200M" num="1" numtexte="67" sens="cible" typelien="CREE">Remboursement complémentaire santé - art. 1</LIEN>
+
+<LIEN cidtexte="KALITEXT000026804217" datesignatexte="2012-06-19" id="KALIARTI000026804221" naturetexte="Avenant" nortexte="ASET1251256M" num="1er" numtexte="76" sens="cible" typelien="CITATION">Frais de soins de santé - art. 1er (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050962439</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/96/24/KALIARTI000050962439.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-11-18</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050962394" date_publi="2025-01-09" date_signature="2024-10-17" nature="Avenant" nor="ASET2450906M" num="26" num_parution_jo="">
+<TITRE_TXT c_titre_court="Congé de proche aidant" debut="2024-11-18" fin="2999-01-01" id_txt="KALITEXT000050962394">Avenant n° 26 du 17 octobre 2024 relatif au congé de proche aidant</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2024-11-18" fin="2999-01-01" id="KALISCTA000050962397">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000027040696" date_publi="2012-03-21" etat="VIGUEUR_ETEN" nature="IDCC" num="3109" titre="Convention collective nationale des 5 branches industries alimentaires diverses du 21 mars 2012 " url="conteneur/KALI/CONT/00/00/27/04/06/KALICONT000027040696.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-11-18" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050962439" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">En référence à l'article L. 113-1-3 du code de l'action sociale et des familles, le proche aidant est défini comme étant une « personne qui vient en aide, de manière régulière et fréquente, à titre non professionnel, pour accomplir tout ou partie des actes ou des activités de la vie quotidienne d'une personne en perte d'autonomie, du fait de l'âge, de la maladie ou d'un handicap ».</p>
+<p align="left">Les proches aidants sont de plus en plus sollicités et « l'aidance » peut avoir de nombreux impacts pour le salarié comme pour l'entreprise. Tout salarié quel qu'il soit peut, un jour, devenir proche aidant, parfois très soudainement, et cette situation peut influer sur son activité professionnelle, sa vie sociale, l'équilibre entre sa vie personnelle et professionnelle et le cas échéant sur sa propre santé.</p>
+<p align="left">66 % des aidants seraient des actifs et 23 % d'entre eux ignoreraient leur statut d'aidant selon des sources 2023 AG2R. Selon une infographie 2022 de France Stratégie, un actif sur 4 sera aidant en 2030.</p>
+<p align="left">L'aidant peut faire reconnaître son rôle auprès du proche qu'il accompagne pour officialiser et faciliter son droit de prises de décisions envers lui. Pour que le rôle d'aidant soit constaté au niveau de l'administration, il est possible de demander une attestation administrative d'aidant familial au conseil départemental explique le guide du ministère de la santé et des solidarités.</p>
+<p align="left">Par le présent accord, les parties souhaitent reconnaître formellement la qualité de « travailleur aidant » (RQTA).</p>
+<p align="left">Prenant le relais du congé de soutien familial, le congé de proche aidant a été institué en 2017.</p>
+<p align="left">Ce congé, prévu par la loi aux articles L. 3142-16 et suivants du code du travail permet à un salarié de cesser le travail ou de passer à temps partiel afin de s'occuper d'un proche en état de dépendance du fait d'un handicap ou d'une perte d'autonomie.</p>
+<p align="left">Le code du travail prévoit la possibilité via une convention ou un accord collectif de branche ou à défaut un accord d'entreprise d'organiser le congé de proche aidant.</p>
+<p align="left">Afin de prendre en compte cet enjeu sociétal croissant et conscients par ailleurs du rôle qu'ils peuvent jouer en matière de sensibilisation et mobilisation sur ce sujet, les partenaires sociaux de la branche ont souhaité négocier un accord collectif pour améliorer le cadre légal du congé de proche aidant et faire connaître et faciliter l'accès des salariés à ce dispositif.</p>
+<p align="left">Par ailleurs, les parties signataires du présent accord souhaitent utiliser cet accord comme un vecteur d'information des salariés et entreprises de la branche notamment sur les outils et services existants et proposés paritairement afin de faciliter l'aide d'un proche aidant tout en maintenant l'activité de l'entreprise.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGISCTA000033003265" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail</LIEN>
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000031716502" naturetexte="CODE" nortexte="" num="L113-1-3" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L113-1-3</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

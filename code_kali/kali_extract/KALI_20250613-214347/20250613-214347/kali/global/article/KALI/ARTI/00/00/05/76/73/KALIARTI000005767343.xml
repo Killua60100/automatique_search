@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767343</ID>
+<ANCIEN_ID>KGOAAXXXXXX00036XABXEXXB</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767343.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>36-1</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Avenant n° 1 du 27 mars 1997 en vigueur le 1er avril 1997 BO conventions collectives 97-22, étendu par arrêté du 23 juillet 1997 JORF 2 août 1997.</HISTORIQUE>
+<DATE_DEBUT>1997-04-01</DATE_DEBUT>
+<DATE_FIN>2007-07-20</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1996-04-01" fin="2999-01-01" id="KALISCTA000005690440">Prime d'activité continue</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-01-01" etat="REMPLACE" fin="2012-09-01" id="KALIARTI000018649430" num="36-1" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-09-01" etat="REMPLACE" fin="2025-03-01" id="KALIARTI000026606518" num="36.1" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-03-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051704912" num="36.1" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1996-04-01" etat="REMPLACE" fin="1997-04-01" id="KALIARTI000005767342" num="36-1" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1997-04-01" etat="REMPLACE" fin="2007-07-20" id="KALIARTI000005767343" num="36-1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   L'évolution des attentes de nos clients ainsi que du contexte économique nous amène de plus en plus souvent à exercer notre activité dans des établissements où l'activité est continue.<br/>
+<br/>   Ces établissements (unités géographiques distinctes) s'entendent de ceux fonctionnant sept jours sur sept :<br/>
+<br/>   - dans lesquels sont assurés, dans ces conditions, production et/ou service aux convives ;<br/>
+<br/>   - dans lesquels, par voie de conséquence :<br/>
+<br/>   - le rythme de travail entraîne son exécution par roulement assorti d'horaires réguliers ou irréguliers, tant en semaine que les samedi, dimanche et jours fériés ;<br/>
+<br/>   - le rythme de jours de repos s'applique selon les dispositions de l'article 10 F de la convention collective nationale.<br/>
+<br/>   Le salarié affecté dans un établissement défini ci-dessus, où ces obligations s'imposent et auxquelles il est astreint, percevra, en contrepartie, une prime mensuelle dite prime d'activité continue (P.A.C.), prime qui ne se cumulera pas avec toute autre prime déjà existante ayant le même objet (par exemple : prime de dimanche, prime de week-end, prime de sujétion,...).<br/>
+<br/>   Cette prime, dont le montant brut sera égal à 245 F pour l'horaire mensuel en vigueur et applicable dans l'entreprise, sera versée au prorata du temps de travail effectif.<br/>
+<br/>   Toutefois, elle ne pourra être inférieure à 50 p. 100 pour les salariés à temps partiel, pour un mois complet de travail.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Avenant n° 17 1996-03-18 en vigueur le 1er avril 1996 BO conventions collectives 96-18, étendu par arrêté du 17 juillet 1996 JORF 27 juillet 1996</LIEN>
+<LIEN cidtexte="KALITEXT000026563112" datesignatexte="2012-06-04" id="KALIARTI000026563117" naturetexte="Avenant" nortexte="ASET1251129M" num="2" numtexte="49" sens="cible" typelien="CITATION">Revalorisation des primes - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000045829049" datesignatexte="2022-01-10" id="KALIARTI000045829064" naturetexte="Avenant" nortexte="ASET2250273M" num="" numtexte="61" sens="cible" typelien="CITATION">Prime d'activité continue (PAC) - art. (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000030682296" datesignatexte="2015-01-27" id="KALIARTI000030682308" naturetexte="Avenant" nortexte="ASET1550345M" num="6.1" numtexte="51" sens="cible" typelien="CITATION">Salaires, primes et rémunération des contrats d... - art. 6.1 (VE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

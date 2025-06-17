@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053455</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/34/KALIARTI000028053455.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>14</NUM>
+<TITRE>Recours au CDD d'usage</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053379">Chapitre IV Contrats de travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053455" num="14" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Les CDD d'usage doivent répondre aux impératifs rappelés ci-dessus.<br/>Les parties conviennent de préciser, au niveau de la branche, les conditions d'un recours légitime au CDD d'usage par les entreprises entrant dans le champ d'application de la présente convention collective, en application des articles L. 1242-2, 3°, et D. 1242-1, 6°, du code du travail.<br/>Les parties constatent que le recours à ce type de contrat pour les salariés de l'équipe artistique d'un film, qui sont visés au titre III de la présente convention collective, est d'usage constant dans le champ d'application de la présente convention collective car il correspond à une réalité inhérente au secteur. C'est en effet le caractère temporaire de ces emplois, en lien direct avec la production d'un film déterminé, qui fonde la légitimité du recours au CDD d'usage.<br/>Les parties constatent également que le recours à ce type de contrat pour les salariés de l'équipe technique dont les emplois sont visés au chapitre Ier du titre II de la présente convention collective est également d'usage constant car il correspond à une réalité inhérente au secteur dès lors que ces emplois sont en lien direct avec la production d'un film déterminé et sont donc par nature temporaires. Cette liste d'emplois figurant au chapitre Ier du titre II pourra être modifiée en fonction de l'évolution des métiers, dans le cadre d'avenants à la présente convention collective.<br/>En outre, il est rappelé que le CDD d'usage doit :<br/>– être établi par écrit ;<br/>– comporter la définition précise de son objet, à savoir la référence du film pour la production duquel le salarié est embauché et la mention du rôle en ce qui concerne les salariés visés au titre III de la présente convention collective ;<br/>– justifier du caractère temporaire de l'engagement, en indiquant son terme par une date ou par l'intervention d'un fait indiqué au contrat.<br/>Les titres II et III définissent les mentions qui doivent obligatoirement figurer dans le contrat à durée déterminée d'usage.<br/>Les emplois temporaires ne répondant pas à l'ensemble des conditions ci-dessus exposées relèveront des dispositions relatives au CDD de droit commun.<br/>Conformément à l'article L. 1243-10, 1°, du code du travail, les salariés employés dans le cadre du CDD d'usage ne bénéficieront pas de la prime de précarité.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

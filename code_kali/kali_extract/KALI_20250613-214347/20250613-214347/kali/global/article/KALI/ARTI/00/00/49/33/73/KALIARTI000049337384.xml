@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000049337384</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/49/33/73/KALIARTI000049337384.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Objet</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000049337381" date_publi="2999-01-01" date_signature="2023-11-30" nature="Accord" nor="ASET2450069M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de frais de santé harmonisé" debut="2024-01-01" fin="2999-01-01" id_txt="KALITEXT000049337381">Accord du 30 novembre 2023 relatif à la mise en place d'un régime de frais de santé harmonisé</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000051160618" date_publi="2025-12-01" etat="VIGUEUR_NON_ETEN" nature="IDCC" num="3255" titre="Convention collective nationale des activités industrielles de boulangerie et pâtisserie et des professionnels de l'oeuf du 1er octobre 2024" url="conteneur/KALI/CONT/00/00/51/16/06/KALICONT000051160618.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000049337384" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le présent accord s'applique aux entreprises relevant des champs d'application de la convention collective nationale des activités industrielles de boulangerie et de pâtisserie (IDCC 1747) ainsi que de la convention collective nationale des centres immatriculés de conditionnement, de commercialisation et de transformation des œufs et des industries en produits d'œufs (IDCC 2075). </p>
+<p align="left">Ce régime répond aux objectifs suivants : <br/>– <i>la mutualisation des risques au niveau professionnel qui, d'une part, permet de pallier les difficultés rencontrées par certaines entreprises de la profession, généralement de petite taille, lors de la mise en place d'une protection sociale complémentaire et, d'autre part, garantit l'accès aux garanties collectives, sans considération, notamment, d'âge ou d'état de santé</i>  (1) ; <br/>– la solidarité entre l'ensemble des entreprises et les salariés de la profession sous la forme, notamment, du développement d'un fonds d'action social. </p>
+<p align="left">Les prestations prévues par le présent régime interviennent en complément du régime de la sécurité sociale et de tout autre organisme. </p>
+<p align="left">Le contrat prend en charge la participation de l'assuré au titre des prestations de prévention considérées comme prioritaires au regard de certains objectifs de santé publique et figurant sur la liste de prestations fixée par les dispositions réglementaires et légales applicables. </p>
+<p align="left">Le régime de branche ne prévoit pas la prise en charge de : <br/>– la majoration de la participation de l'assuré prévue aux articles L. 162-5-3 du code de la sécurité sociale en cas de consultation d'un médecin en dehors du parcours de soins et L. 161-36-2 du code de la sécurité sociale, en cas de refus du droit d'accès au dossier médical personnel ; <br/>– les dépassements d'honoraires pratiqués par certains spécialistes lorsque l'assuré consulte sans prescription du médecin traitant et ce sur les actes cliniques et techniques pris en application du 18° de l'article L. 162-5 du code de la sécurité sociale, à hauteur au moins du montant du dépassement autorisé sur les actes cliniques ; <br/>– la participation forfaitaire à la charge des assurés sociaux, imputée sur les remboursements effectués par la sécurité sociale et imposées par les dispositions légales ou réglementaires applicables ; <br/>– les franchises prévues par les dispositions légales et réglementaires applicables. </p>
+<p align="left">Ce dispositif est en conformité avec les exigences posées par l'article L. 871-1 du code de la sécurité sociale relatif aux contrats dits « responsables » et les décrets et arrêtés pris pour son application (et notamment les articles R. 871-1 et R. 871-2 du code de la sécurité sociale). </p>
+<p align="left">En outre, il est en conformité avec le décret du 8 juillet 2014 modifiant l'article R. 242-1-6 du code de la sécurité sociale et du décret du 8 septembre 2014 relatif aux garanties d'assurance complémentaire santé des salariés mises en place en application de l'article L. 911-7 du code de la sécurité sociale.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Alinéa exclu de l'extension en tant qu'il contrevient aux dispositions de l'article L. 912-1 du code de la sécurité sociale.  <br/>(Arrêté du 10 juillet 2024 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000029434975" datesignatexte="2014-09-08" id="JORFTEXT000029434975" naturetexte="DECRET" nortexte="AFSS1416374D" num="" numtexte="2014-1025" sens="source" typelien="CITATION">DÉCRET n°2014-1025 du 8 septembre 2014</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006741277" naturetexte="CODE" nortexte="" num="L161-36-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L161-36-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006740684" naturetexte="CODE" nortexte="" num="L162-5" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L162-5</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006740743" naturetexte="CODE" nortexte="" num="L162-5-3" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L162-5-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745370" naturetexte="CODE" nortexte="" num="L871-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L871-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000027549125" naturetexte="CODE" nortexte="" num="L911-7" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L911-7</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000025130566" naturetexte="CODE" nortexte="" num="R242-1-6" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. R242-1-6</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006754255" naturetexte="CODE" nortexte="" num="R871-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. R871-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006754256" naturetexte="CODE" nortexte="" num="R871-2" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. R871-2</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

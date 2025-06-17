@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635944</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/59/KALICONT000005635944.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale relative aux conditions de travail du personnel des industries céramiques de France du 6 juillet 1989.
+</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>1558</NUM>
+
+<DATE_PUBLI>1989-07-06</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU>
+  <p>Champ d'application fusionné avec celui de la convention collective nationale du personnel de la céramique d'art (IDCC 1800) par arrêté ministériel du 16 novembre 2018.</p>
+</CONTENU>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005660660" titretxt="Convention collective nationale du 6 juillet 1989"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005660664" titretxt="Annexe aux clauses générales"/>
+<LIEN_TXT idtxt="KALITEXT000005660666" titretxt="Annexe à l'article G 11 "/>
+<LIEN_TXT idtxt="KALITEXT000005660668" titretxt="Clauses particulières au personnel ouvrier"/>
+<LIEN_TXT idtxt="KALITEXT000005660670" titretxt="CLASSIFICATION DU PERSONNEL OUVRIER DES INDUSTRIES DE PRODUITS REFRACTAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005660672" titretxt="CLASSIFICATION DU PERSONNEL OUVRIER DES INDUSTRIES DU CARREAU CERAMIQUE"/>
+<LIEN_TXT idtxt="KALITEXT000005660674" titretxt="CLASSIFICATION DU PERSONNEL OUVRIER DES INDUSTRIES DE CERAMIQUE SANITAIRE"/>
+<LIEN_TXT idtxt="KALITEXT000005660676" titretxt="CLASSIFICATION DU PERSONNEL OUVRIER DES INDUSTRIES DE LA POTERIE"/>
+<LIEN_TXT idtxt="KALITEXT000005660678" titretxt="CLASSIFICATION DU PERSONNEL OUVRIER DES INDUSTRIES DU KAOLIN"/>
+<LIEN_TXT idtxt="KALITEXT000005660651" titretxt="Classification du personnel ouvrier des producteurs de matières premières pour la céramique et la verrerie"/>
+<LIEN_TXT idtxt="KALITEXT000005660653" titretxt="Grille prime d'ancienneté des ouvriers"/>
+<LIEN_TXT idtxt="KALITEXT000005660655" titretxt="CLASSIFICATION DES OUVRIERS (TABLE ET ORNEMENTATION)"/>
+<LIEN_TXT idtxt="KALITEXT000005660657" titretxt="Mise en place des nouvelles classifications des ouvriers dans les industries de feldspath"/>
+<LIEN_TXT idtxt="KALITEXT000005660686" titretxt="Clauses particulières aux ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005660688" titretxt="CLASSIFICATION DES ETAM DES INDUSTRIES DE PRODUITS REFRACTAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005660690" titretxt="CLASSIFICATION DES ETAM DES INDUSTRIES DU CARREAU ET DU KAOLIN"/>
+<LIEN_TXT idtxt="KALITEXT000005660692" titretxt="CLASSIFICATION DES E.T.A.M. DES INDUSTRIES DE CERAMIQUE SANITAIRE"/>
+<LIEN_TXT idtxt="KALITEXT000005660694" titretxt="CLASSIFICATION DES ETAM DES INDUSTRIES DE LA POTERIE"/>
+<LIEN_TXT idtxt="KALITEXT000005660696" titretxt="CLASSIFICATION DES ETAM DES PRODUCTEURS DE MATIERES PREMIERES POUR LA CERAMIQUE ET LA VERRERIE"/>
+<LIEN_TXT idtxt="KALITEXT000005660698" titretxt="CLASSIFICATION DES ETAM ET DESSINATEURS &quot;TABLE ET ORNEMENTATION&quot;"/>
+<LIEN_TXT idtxt="KALITEXT000005660700" titretxt="CLASSIFICATION DES ETAM ET DESSINATEURS DES INDUSTRIES DU FELDSPATH"/>
+<LIEN_TXT idtxt="KALITEXT000005660704" titretxt="Clauses particulières au personnel cadre"/>
+<LIEN_TXT idtxt="KALITEXT000005660680" titretxt="Classification des cadres (réfractaires, carreau, sanitaire, poterie, kaolin, feldspath, producteurs de matières premières pour la céramique et la verrerie)"/>
+<LIEN_TXT idtxt="KALITEXT000005660682" titretxt="Classification des ingénieurs et cadres &quot;table et ornementation&quot;"/>
+<LIEN_TXT idtxt="KALITEXT000005660684" titretxt="Financement du CFA des industries céramiques par le 0,4 % consacré à l'alternance"/>
+<LIEN_TXT idtxt="KALITEXT000005660714" titretxt="Classification des personnels ouvriers et ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005660720" titretxt="Annexe I - Nouvelles classifications des personnels ouvriers et ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005660722" titretxt="Annexe II - Nouvelles classifications des personnels ouvriers et ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005660724" titretxt="Nouvelles classification des personnels ouvriers et ETAM - Annexe III"/>
+<LIEN_TXT idtxt="KALITEXT000005660726" titretxt="Financement du CFA"/>
+<LIEN_TXT idtxt="KALITEXT000005660728" titretxt="Financement du CFA "/>
+<LIEN_TXT idtxt="KALITEXT000005660730" titretxt="Financement du CFA"/>
+<LIEN_TXT idtxt="KALITEXT000005660732" titretxt="Clauses particulières aux personnels « ouvriers » et «  ETAM » de la chambre syndicale du carreau céramique de France"/>
+<LIEN_TXT idtxt="KALITEXT000005670660" titretxt="Formation professionnelle dans les industries céramiques"/>
+<LIEN_TXT idtxt="KALITEXT000005667426" titretxt="Formation professionnelle dans les industries céramiques"/>
+<LIEN_TXT idtxt="KALITEXT000005667430" titretxt="Annexe"/>
+<LIEN_TXT idtxt="KALITEXT000005660738" titretxt="Financement du CFA (Centre de formation en alternance) par le 0,4 % consacré à l'alternance"/>
+<LIEN_TXT idtxt="KALITEXT000005660742" titretxt="Transfert de fonds au CFA (Centre de formation en alternance)"/>
+<LIEN_TXT idtxt="KALITEXT000005660708" titretxt="Classification du personnel « Ouvriers » et « ETAM » des producteurs de matières pour la céramique et la verrerie"/>
+<LIEN_TXT idtxt="KALITEXT000005660710" titretxt="Financement du CFA des industries céramiques par le 0,4 % consacré à l'alternance"/>
+<LIEN_TXT idtxt="KALITEXT000005660712" titretxt="Financement du CFA par les fonds de formation consacrés à l'alternance"/>
+<LIEN_TXT idtxt="KALITEXT000005660744" titretxt="Adhésion des industries de la porcelaine françaises à la convention collective des industries céramiques de France"/>
+<LIEN_TXT idtxt="KALITEXT000005660746" titretxt="Financement du CFA par les fonds de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005660748" titretxt="Transfert de fonds de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005660750" titretxt="Financement du CFA"/>
+<LIEN_TXT idtxt="KALITEXT000005660754" titretxt="Cessation d'activité de certains travailleurs salariés"/>
+<LIEN_TXT idtxt="KALITEXT000005660758" titretxt="Décision de la commission nationale paritaire de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005660760" titretxt="Financement du CFA (formation en alternance)"/>
+<LIEN_TXT idtxt="KALITEXT000005660762" titretxt="Liste des CQP "/>
+<LIEN_TXT idtxt="KALITEXT000005660764" titretxt="Avenant relatif à la décision de la commission nationale paritaire de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005660766" titretxt="Financement du CFA par les fonds de formation consacrés à l'alternance"/>
+<LIEN_TXT idtxt="KALITEXT000005660768" titretxt="Décision de la commission nationale paritaire de l'emploi des industries céramiques (apprentissage)"/>
+<LIEN_TXT idtxt="KALITEXT000005660770" titretxt="Financement du CFA de la céramique par les fonds de formation consacrés à l'alternance"/>
+<LIEN_TXT idtxt="KALITEXT000005660772" titretxt="Décision de la commission nationale paritaire de l'emploi relative aux CQP"/>
+<LIEN_TXT idtxt="KALITEXT000005660774" titretxt="Liste des CQP"/>
+<LIEN_TXT idtxt="KALITEXT000005660778" titretxt="Décision de la commission nationale paritaire de l'emploi relative à l'apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000005660780" titretxt="Financement du CFA par les fonds consacrés aux contrats et aux périodes de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000005660782" titretxt="Financement des CFA"/>
+<LIEN_TXT idtxt="KALITEXT000005660786" titretxt="Décision de la CNPE sur l'apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000017579885" titretxt="Financement des CFA "/>
+<LIEN_TXT idtxt="KALITEXT000017579892" titretxt="Décision de la CPNE sur l'apprentissage "/>
+<LIEN_TXT idtxt="KALITEXT000019454980" titretxt="Financement des CFA de la céramique par les fonds de formation consacrés aux contrats et périodes de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000019460193" titretxt="Apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000023269861" titretxt="Apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000023269854" titretxt="Contrats de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000024271479" titretxt="Diversité et égalité professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000024271525" titretxt="Commission paritaire de validation des accords d'entreprise"/>
+<LIEN_TXT idtxt="KALITEXT000024401183" titretxt="Classifications des personnels ouvriers et ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000024659959" titretxt="Financement des contrats de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000026287104" titretxt="Financement des CFA et périodes de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000026287112" titretxt="Financement des CFA"/>
+<LIEN_TXT idtxt="KALITEXT000027779074" titretxt="Financement des CFA et périodes de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000027779079" titretxt="Financement des CFA et périodes de professionnalisation"/>
+<LIEN_TXT idtxt="KALITEXT000029361452" titretxt="Décision de la CPNE concernant le financement des CFA pour l'année 2014"/>
+<LIEN_TXT idtxt="KALITEXT000029361457" titretxt="Financement des CFA pour l'année 2014"/>
+<LIEN_TXT idtxt="KALITEXT000029558256" titretxt="Formation professionnelle (Liste des CQP)"/>
+<LIEN_TXT idtxt="KALITEXT000031113877" titretxt="Commission paritaire de l'emploi et de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000031915546" titretxt="Nouvelles classifications et salaires minima conventionnels au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000031646740" titretxt="Adhésion de la FNTVC CGT à la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000031646745" titretxt="Adhésion de la FNCB CFDT à l'avenant n° 44 du 11 juin 2015 relatif aux salaires"/>
+<LIEN_TXT idtxt="KALITEXT000032093941" titretxt="Fonctionnement des instances paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000033225283" titretxt="Négociation d'un accord constitutif d'un OPCA 3+"/>
+<LIEN_TXT idtxt="KALITEXT000033225295" titretxt="Pacte de responsabilité"/>
+<LIEN_TXT idtxt="KALITEXT000033295072" titretxt="Modification de l'article G 28"/>
+<LIEN_TXT idtxt="KALITEXT000037041064" titretxt="Fonctionnement des instances paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000037435657" titretxt="Nouvelles classifications et salaires minima conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000038524025" titretxt="Diversité et égalité professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000038550642" titretxt="Droit syndical"/>
+<LIEN_TXT idtxt="KALITEXT000039401841" titretxt="Nouvelles classifications et salaires minima conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000042382504" titretxt="Fonctionnement des instances paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000043250936" titretxt="Fonctionnement des instances paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000043929427" titretxt="Emploi des personnes en situation de handicap"/>
+<LIEN_TXT idtxt="KALITEXT000044091346" titretxt="Instances paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000044091378" titretxt="Instances paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000045373058" titretxt="Emploi des personnes en situation de handicap"/>
+<LIEN_TXT idtxt="KALITEXT000048051980" titretxt="Remboursement frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000048052014" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000048052045" titretxt="Dispositions conventionnelles"/>
+<LIEN_TXT idtxt="KALITEXT000051352444" titretxt="Catégories objectives des bénéficiaires de garanties collectives de protection sociale complémentaire"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005660792" titretxt="Salaires personnel ouvrier"/>
+<LIEN_TXT idtxt="KALITEXT000005660794" titretxt="Salaires personnel ouvrier"/>
+<LIEN_TXT idtxt="KALITEXT000005660797" titretxt="Salaires ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005660801" titretxt="Salaires ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005660803" titretxt="Salaires Cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005660805" titretxt="Salaires Cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005660807" titretxt="Salaires Ouvriers"/>
+<LIEN_TXT idtxt="KALITEXT000005660809" titretxt="Salaires ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005660811" titretxt="Salaires Cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005660813" titretxt="Salaires ouvriers et ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005660815" titretxt="Salaires des ouvriers et ETAM"/>
+<LIEN_TXT idtxt="KALITEXT000005660817" titretxt="Salaires des cadres à compter du 1er janvier 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005660819" titretxt="Salaires à partir du 1er mars 1998"/>
+<LIEN_TXT idtxt="KALITEXT000020137530" titretxt="Salaires mensuels conventionnels pour l'année 2008"/>
+<LIEN_TXT idtxt="KALITEXT000022290242" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000024401193" titretxt="Salaires mensuels conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000029558280" titretxt="Salaires mensuels conventionnels et primes"/>
+<LIEN_TXT idtxt="KALITEXT000031493486" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000032730127" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000045791333" titretxt="Salaires minima conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000046559277" titretxt="Salaires minima des personnels ouvriers, ETAM et cadres"/>
+<LIEN_TXT idtxt="KALITEXT000046955386" titretxt="Salaires minima conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000048557877" titretxt="Salaires minima conventionnels"/>
+<LIEN_TXT idtxt="KALITEXT000050028192" titretxt="Salaires minima conventionnels au 1er mai 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051580202" titretxt="Salaires minima conventionnels au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005660821" titretxt="ARRETE du 11 mai 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005660823" titretxt="ARRETE du 10 décembre 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005660825" titretxt="ARRETE du 24 janvier 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005660827" titretxt="ARRETE du 19 novembre 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005660829" titretxt="ARRETE du 7 juillet 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005660831" titretxt="ARRETE du 7 juillet 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005660833" titretxt="ARRETE du 26 juillet 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005660835" titretxt="ARRETE du 17 décembre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005660837" titretxt="ARRETE du 19 février 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005660839" titretxt="ARRETE du 20 avril 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005660841" titretxt="ARRETE du 13 mai 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005660843" titretxt="ARRETE du 19 octobre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005660845" titretxt="ARRETE du 2 mars 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005660847" titretxt="ARRETE du 13 juin 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005660849" titretxt="ARRETE du 26 janvier 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005660851" titretxt="ARRETE du 26 mai 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005660853" titretxt="ARRETE du 2 août 2005"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Industries céramiques de France</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3238</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

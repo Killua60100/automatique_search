@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051727293</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/72/72/KALIARTI000051727293.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>2</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-06-08</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005688628" date_publi="2999-01-01" date_signature="2000-07-13" nature="ACCORD" nor="ASET0050586M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Création d'une association paritaire" debut="2000-11-01" fin="2999-01-01" id_txt="KALITEXT000005688628">Accord du 13 juillet 2000 relatif à la création d'une association paritaire</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2000-11-01" fin="2999-01-01" id="KALISCTA000005733068">Cotisations</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635886" date_publi="1976-04-01" etat="VIGUEUR_ETEN" nature="IDCC" num="843" titre="Convention collective nationale de la boulangerie-pâtisserie du 19 mars 1976. Etendue par arrêté du 21 juin 1978 JONC 28 juillet 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635886.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051727293" num="2" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2000-11-01" etat="REMPLACE" fin="2025-06-08" id="KALIARTI000005873501" num="2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>Tous les employeurs de salariés d'entreprises artisanales de la boulangerie et de la boulangerie-pâtisserie versent à l'association paritaire une cotisation égale à 0,15 % des salaires entrant dans l'assiette des cotisations de sécurité sociale. </p>
+<p>Afin d'assurer le bon fonctionnement de l'association, un budget de 2 % de la collecte issue de la cotisation de 0,15 %, est consacré à la prise en charge des frais inhérents aux réunions paritaires. </p>
+<p>Dans le cadre d'un dispositif de financement du paritarisme et du dialogue social renforcé dans la branche, ces mêmes employeurs versent également à l'association paritaire une cotisation égale à 0,10 % des salaires entrant dans l'assiette des cotisations de sécurité sociale à compter du 1er janvier 2026. </p>
+<p>
+<i>Cette cotisation est recouvrée par l'organisme collecteur, choisi par les membres de la commission paritaire permanente de négociation et d'interprétation (CPPNI) de la branche, qui la reverse à l'association paritaire visée à l'article 1er.</i>  (1)
+</p>
+<p>L'association, pourra, conformément à la décision de la CPPNI, signer avec le ou les organisme (s) concerné (s) une ou des convention (s) qui devra/ devront entre autres, selon son objet : <br/>–   définir notamment les frais de collecte et les obligations des parties ; <br/>–   respecter les clés de répartition définies par avenant à l'accord paritaire du 13 juillet 2000 ; <br/>–   recevoir les fonds de la collecte des cotisations mentionnées à l'article 2. </p>
+<p>Les organisations syndicales de salariés et les organisations professionnelles d'employeurs de la branche souhaitent que cette collecte soit confiée, dès que possible, aux unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales (Urssaf) mentionnées à l'article L. 213-1 du code de la sécurité sociale.</p>
+<br/>
+<p>
+<font color="808080">
+<em>
+ (1) Alinéa étendu sous réserve d'une part, du respect des articles L. 931-1 et L. 931-2 du code de la sécurité sociale qui ne prévoient pas le recouvrement de fonds pour le compte d'un tiers et d'autre part, que la délégation de la collecte de la contribution conventionnelle de dialogue social ne soit pas confiée à un organisme de prévoyance.  <br/>(Arrêté du 15 mai 2025 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000051664619" datesignatexte="2025-02-26" id="KALIARTI000051664623" naturetexte="Avenant" nortexte="ASET2550361M" num="1er" numtexte="4" sens="cible" typelien="MODIFIE">Financement du paritarisme - art. 1er (VNE)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006741637" naturetexte="CODE" nortexte="" num="L213-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L213-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053476</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/34/KALIARTI000028053476.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>23</NUM>
+<TITRE>Repos</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053381">Chapitre VI Durée du travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053476" num="23" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Repos quotidien<br/>Tout salarié bénéficie d'un repos quotidien d'une durée minimale de 11 heures consécutives.<br/>Cette durée peut être ramenée à 9 heures consécutives dans les cas prévus, le cas échéant, aux titres II à IV de la présente convention collective.<br/>Repos hebdomadaire<br/>Le repos hebdomadaire est en principe de 48 heures consécutives, sauf circonstances particulières précisées dans les titres II à IV de la présente convention collective et réduisant le repos hebdomadaire à 24 heures consécutives.<br/>Cette faculté devra s'exercer dans le respect du repos hebdomadaire et de l'interdiction de travail du salarié plus de 6 jours consécutifs, conformément aux articles L. 3132-1 et L. 3132-2 du code du travail.<br/>Dans ce cas, le repos hebdomadaire est pris le dimanche. Toutefois, la production de films cinématographiques et publicitaires étant une activité pour laquelle les articles L. 3132-12 et R. 3132-5 du code du travail autorisent le travail du dimanche, l'employeur pourra recourir au travail du dimanche et fixer le repos hebdomadaire un autre jour de la semaine civile, dans les conditions prévues aux titres II à IV de la présente convention collective.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006902580" naturetexte="CODE" nortexte="" num="L3132-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L3132-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006902591" naturetexte="CODE" nortexte="" num="L3132-12" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L3132-12</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

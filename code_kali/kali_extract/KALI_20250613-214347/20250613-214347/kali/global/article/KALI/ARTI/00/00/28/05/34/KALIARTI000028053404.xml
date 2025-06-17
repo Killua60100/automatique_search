@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053404</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/34/KALIARTI000028053404.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Champ d'application</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2013-10-08</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="KALISCTA000028053375">ANNEXES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2020-04-11" id="KALISCTA000028059898">Annexe III : Techniciens de la production cinématographique - Intéressement aux recettes d'exploitation&#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2013-10-08" etat="ABROGE" fin="2020-04-11" id="KALIARTI000028343107" num="1er" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2013-10-08" id="KALIARTI000028053404" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Le recours à l'application de l'annexe III pour la production de films tels que fixés dans celle-ci est lié au choix du producteur. Le producteur peut ne pas y recourir et appliquer les conditions fixées dans la convention collective.<br/>Pour l'application de la présente annexe, les partenaires sociaux décident de la mise en place d'une commission paritaire.<br/>Cette commission paritaire se dotera d'un règlement intérieur.<br/>Cette commission a pour charge d'examiner, préalablement aux demandes d'agrément fixées par le code du cinéma et de l'image animée, les demandes des entreprises de production qui souhaiteraient recourir pour les productions de leurs films à la présente annexe.<br/>Cette commission, présidée par un représentant du président du CNC et composée à part égale de représentants désignés par les organisations syndicales de salariés représentatives dans la branche, et des organisations d'employeurs de la production cinématographique, est chargée d'examiner le dossier détaillé soumis par le producteur et, au regard de ce dossier, décidera d'admettre ou non la production du film au bénéfice de la présente annexe.<br/>La commission fera parvenir au CNC sa décision d'acceptation ou de refus.<br/>Dans le cas d'une décision négative de la part de la commission, le CNC est tenu à cette décision.<br/>Le producteur ne peut passer outre cette décision conventionnelle et présenter valablement au CNC une demande d'agrément au bénéfice du soutien financier de l'Etat.<br/>L'intéressement aux recettes d'exploitation consiste en l'attribution d'une participation aux « recettes nettes producteur » d'un film qui remplit les critères cumulatifs suivants :<br/>– le budget prévisionnel est inférieur à 2,5 M€ ;<br/>– la masse salariale effective brute des personnels techniques est au moins égale à 18 % du budget prévisionnel du film ;<br/>– la masse salariale effective brute des personnels techniques (hors rémunération du réalisateur technicien) représente au moins 80 % d'un poste regroupant les rémunérations brutes des auteurs, producteurs et titulaires des rôles principaux ainsi que les commissions d'agents telles qu'elles sont prévues dans le budget prévisionnel.<br/>Ces critères devront être confirmés à l'agrément de production.<br/>Cet article s'applique aux techniciens ayant contribué à la réalisation de ce film et couverts par la convention collective des techniciens de la production cinématographique.<br/>Les courts-métrages et les films documentaires de plus de 1,5 M€ sont exclus.<br/>La commission paritaire se réunira annuellement afin d'établir un bilan. Les partenaires sociaux conviennent de tirer un bilan annuel du dispositif afin que, en moyenne annuelle, seuls 20 % des films d'initiative française puissent être éligibles au dispositif prévu à la présente annexe.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

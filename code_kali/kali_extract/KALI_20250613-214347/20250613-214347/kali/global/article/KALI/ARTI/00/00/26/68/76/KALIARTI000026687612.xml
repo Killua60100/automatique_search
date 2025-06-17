@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000026687612</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/26/68/76/KALIARTI000026687612.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>9.1.5.4</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2006-02-25</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2006-02-25" fin="2999-01-01" id="KALISCTA000026687611">Définition du travailleur de nuit</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2006-02-25" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000026687612" num="9.1.5.4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>Est travailleur de nuit tout travailleur qui :</p>
+<p>- soit  accomplit, au moins deux fois par semaine, selon son horaire de travail  habituel, au moins 3 heures de son temps de travail quotidien durant la  période comprise entre 21 heures et 6 heures, ou entre 22 heures et 7  heures, ou celle qui lui est substituée par accord d'entreprise ou  d'établissement, comme évoqué à l'article 9.1.5.2 ;</p>
+<p>- soit  accomplit au cours d'une période de référence de 12 mois consécutifs au  moins 270 heures de travail effectif durant la période comprise entre  21 heures et 6 heures ou entre 22 heures et 7 heures, ou celle qui lui est  substituée comme rappelé ci-dessus.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS/>
+
+
+
+</ARTICLE>

@@ -192,7 +192,7 @@ def main():
             for article in articles:
                 code = article.get("code", "")
                 num = article.get("article", "")
-                titre = article.get("titre") or "(pas de titre)"
+                titre = article.get("titre") or "(pas de details)"
                 message += f"- {code} - Article {num} : {titre}\n"
             message += "\n"
         message += "\nAfin d'avoir davantage d'informations, veuillez vous rendre sur le site suivant : https://u9yssb7ybrkcsvsjupktfy.streamlit.app/\n"

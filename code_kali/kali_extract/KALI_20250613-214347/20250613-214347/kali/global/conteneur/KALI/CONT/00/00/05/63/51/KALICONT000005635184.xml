@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635184</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/51/KALICONT000005635184.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de l'industrie pharmaceutique du 6 avril 1956 mise à jour par accord du 11 avril 2019 - Etendue par arrêté du 2 avril 2021 JORF 13 juillet 2021</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>176</NUM>
+
+<DATE_PUBLI>2019-07-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005682476" titretxt="Convention collective nationale du 6 avril 1956"/>
+<LIEN_TXT idtxt="KALITEXT000039116990" titretxt="Convention collective nationale de l'industrie pharmaceutique (accord du 11 avril 2019)"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005682490" titretxt="Avenant I : classifications et salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682492" titretxt="Dispositions particulières"/>
+<LIEN_TXT idtxt="KALITEXT000005682494" titretxt="Avenant n° 1 : Classifications et salaires"/>
+<LIEN_TXT idtxt="KALITEXT000022189701" titretxt="Dispositions relatives aux métiers de la promotion"/>
+<LIEN_TXT idtxt="KALITEXT000039167338" titretxt="Avenant II : Dispositions relatives aux métiers de la promotion"/>
+<LIEN_TXT idtxt="KALITEXT000005682498" titretxt="Annexe Ouvriers"/>
+<LIEN_TXT idtxt="KALITEXT000005682500" titretxt="Mensualisation"/>
+<LIEN_TXT idtxt="KALITEXT000005682502" titretxt="Annexe Employés"/>
+<LIEN_TXT idtxt="KALITEXT000005682504" titretxt="Annexe Techniciens et agents de maîtrise"/>
+<LIEN_TXT idtxt="KALITEXT000005682506" titretxt="Annexe Cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005682508" titretxt="Annexe Visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682470" titretxt="Affectation du personnel hors du territoire métropolitain"/>
+<LIEN_TXT idtxt="KALITEXT000005682472" titretxt="Indemnités pour les frais de déplacement aux commissions paritaires ou commissions mixtes nationales"/>
+<LIEN_TXT idtxt="KALITEXT000005682474" titretxt="Personnel d'encadrement"/>
+<LIEN_TXT idtxt="KALITEXT000005682514" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005682512" titretxt="Calcul des indemnités des frais de transport des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682516" titretxt="Procédure de licenciement pour motifs économiques et emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005682518" titretxt="Commission nationale paritaire de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005682510" titretxt="Formation initiale des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682520" titretxt="Mutations technologiques"/>
+<LIEN_TXT idtxt="KALITEXT000005682522" titretxt="Accord collectif de prévoyance, modalités pratiques"/>
+<LIEN_TXT idtxt="KALITEXT000005682524" titretxt="Accord collectif de prévoyance, annexe I"/>
+<LIEN_TXT idtxt="KALITEXT000005682526" titretxt="Annexe II, Régime de prévoyance du personnel non cadre et non assimilé cadre"/>
+<LIEN_TXT idtxt="KALITEXT000005682530" titretxt="Accord collectif de prévoyance, annexe III"/>
+<LIEN_TXT idtxt="KALITEXT000005682532" titretxt="Accord collectif de prévoyance, Annexe IV"/>
+<LIEN_TXT idtxt="KALITEXT000005682544" titretxt="Formation professionnelle des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682546" titretxt="Formation professionnelle des visiteurs médicaux  Annexe I"/>
+<LIEN_TXT idtxt="KALITEXT000005682548" titretxt="Formation professionnelle des visiteurs médicaux, Annexe II"/>
+<LIEN_TXT idtxt="KALITEXT000005682550" titretxt="Formation professionnelle des visiteurs médicaux  Annexe III"/>
+<LIEN_TXT idtxt="KALITEXT000005682552" titretxt="Formation professionnelle des visiteurs médicaux  Annexe IV"/>
+<LIEN_TXT idtxt="KALITEXT000005682554" titretxt="Formation professionnelle des visiteurs médicaux  Annexe V"/>
+<LIEN_TXT idtxt="KALITEXT000005682558" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005682560" titretxt="Régime de prévoyance du personnel cadre et assimilé"/>
+<LIEN_TXT idtxt="KALITEXT000005682534" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682536" titretxt="Classifications et salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682540" titretxt="Protocole d'accord"/>
+<LIEN_TXT idtxt="KALITEXT000005682542" titretxt="Gestion prévisionnelle de l'emploi et des compétences et évolution professionnelle des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000005682570" titretxt="Taux de cotisation de la garantie décès du régime de prévoyance professionnel du personnel cadre"/>
+<LIEN_TXT idtxt="KALITEXT000005682572" titretxt="Taux de cotisation de la garantie maladie, chirurgie, maternité du régime de prévoyance professionnel du personnel cadre et assimilé cadre et du personnel non cadre et non assimilé non cadre"/>
+<LIEN_TXT idtxt="KALITEXT000005682574" titretxt="Classifications et salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682576" titretxt="Cessation d'activité des salariés en matière de prévoyance et de retraite complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000005682578" titretxt="Taux de cotisation de la garantie maladie, chirurgie, maternité du régime de prévoyance professionnel"/>
+<LIEN_TXT idtxt="KALITEXT000005682585" titretxt="Taux de cotisation de la garantie décès, incapacité, invalidité (cadres) "/>
+<LIEN_TXT idtxt="KALITEXT000005682587" titretxt="Apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000005682589" titretxt="Absences et aux frais liés à la négociation collective"/>
+<LIEN_TXT idtxt="KALITEXT000005682591" titretxt="Extension du bénéfice du régime de retraite complémentaire des cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005682593" titretxt="Thèmes de négociation tendant à la révision de la convention collective nationale de l'industrie pharmaceutique"/>
+<LIEN_TXT idtxt="KALITEXT000005682595" titretxt="Classifications, salaires, gestion prévisionnelle de l'emploi, compétences et évolution professionnelle des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000005682562" titretxt="Capital temps de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005682583" titretxt="Taux de cotisation de la garantie maladie - chirurgie - maternité du régime de prévoyance professionnel du personnel cadre et assimilé cadre et du personnel non cadre et non assimilé cadre"/>
+<LIEN_TXT idtxt="KALITEXT000005682580" titretxt="Taux de cotisation de la garantie décès du régime de prévoyance professionnel du personnel cadre"/>
+<LIEN_TXT idtxt="KALITEXT000039333547" titretxt="Révision de la structure de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000005682566" titretxt="Révision de la structure de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000005682564" titretxt="Mutualisation partielle des fonds de formation continue"/>
+<LIEN_TXT idtxt="KALITEXT000005682568" titretxt="Apprentissage - Annexe II"/>
+<LIEN_TXT idtxt="KALITEXT000005682601" titretxt="Taux de cotisation  de la garantie maladie du régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682603" titretxt="Taux de cotisation de la garantie décès du régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682605" titretxt="Régime professionnel de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682607" titretxt="Conditions de l'appel d'offres du régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682609" titretxt="Apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000005682611" titretxt="Développement de l'emploi en contrepartie de la cessation d'activité des salariés âgés"/>
+<LIEN_TXT idtxt="KALITEXT000005682613" titretxt="Création de certificats de qualification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005682615" titretxt="Désignation des organismes d'assurance du régime professionnel de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682617" titretxt="Capital temps de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005682597" titretxt="Développement de l'emploi en contrepartie de la cessation d'activité des salariés âgés"/>
+<LIEN_TXT idtxt="KALITEXT000005682599" titretxt="Accord sur la prévoyance remplaçant celui du 21 mai 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005682627" titretxt="Accord sur la prévoyance remplaçant celui du 21 mai 1991, ANNEXE I"/>
+<LIEN_TXT idtxt="KALITEXT000005682629" titretxt="Accord sur la prévoyance remplaçant celui du 21 mai 1991, ANNEXE II"/>
+<LIEN_TXT idtxt="KALITEXT000005682631" titretxt="Accord sur la prévoyance remplaçant celui du 21 mai 1991, ANNEXE III"/>
+<LIEN_TXT idtxt="KALITEXT000005682633" titretxt="Accord sur la prévoyance remplaçant celui du 21 mai 1991, ANNEXE IV"/>
+<LIEN_TXT idtxt="KALITEXT000005682635" titretxt="Avenant à l'accord du 24 février 1999 relatif à la cessation d'activité des salariés âgés"/>
+<LIEN_TXT idtxt="KALITEXT000005682637" titretxt="Taux de cotisation des garanties décès-incapacité-invalidité et maladie-chirurgie-maternité"/>
+<LIEN_TXT idtxt="KALITEXT000005682639" titretxt="Taux de cotisation pour le régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682641" titretxt="Avenant à l'accord du 19 mars 1996 relatif à l'apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000005682619" titretxt="Travail de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000005682621" titretxt="Compte épargne-temps"/>
+<LIEN_TXT idtxt="KALITEXT000005682625" titretxt="Mutations technologiques"/>
+<LIEN_TXT idtxt="KALITEXT000005682643" titretxt="Travail à temps partiel"/>
+<LIEN_TXT idtxt="KALITEXT000005682647" titretxt="Taux d'appel de cotisation du régime de prévoyance du 29 mai 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005682649" titretxt="Capital temps de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005682651" titretxt="Avenant à l'accord du 19 mars 1996 sur l'apprentissage (liste des CFA susceptibles de bénéficier de subventions)"/>
+<LIEN_TXT idtxt="KALITEXT000005682653" titretxt="Frais de logement et de nourriture des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682655" titretxt="Mise en place d'un plan d'épargne interentreprises"/>
+<LIEN_TXT idtxt="KALITEXT000005682657" titretxt="Taux d'appel de cotisation prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682659" titretxt="Mise à la retraite avant 65 ans"/>
+<LIEN_TXT idtxt="KALITEXT000005682661" titretxt="Mise en place d'un plan d'épargne interentreprises"/>
+<LIEN_TXT idtxt="KALITEXT000005682663" titretxt="Liste des CFA susceptibles de bénéficier de subventions de l'OPCA (apprentissage)"/>
+<LIEN_TXT idtxt="KALITEXT000005682665" titretxt="Certificats de qualification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005682667" titretxt="Conditions d'appel d'offres du régime professionnel de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682669" titretxt="Indemnisation du congé de paternité"/>
+<LIEN_TXT idtxt="KALITEXT000005682671" titretxt="Frais de logement et de nourriture des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682673" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682675" titretxt="Règlement intérieur du comité paritaire de gestion du régime de retraite ARRCO"/>
+<LIEN_TXT idtxt="KALITEXT000005682677" titretxt="Règlement intérieur de la commission paritaire sociale du régime de retraite ARRCO"/>
+<LIEN_TXT idtxt="KALITEXT000005682679" titretxt="Cotisations des garanties maladie-chirurgie-maternité des retraités et anciens salariés bénéficiant de l'annexe III du régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682681" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000005682685" titretxt="Désignation des organismes d'assurance du régime professionnel de prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000005682687" titretxt="Formation professionnelle et GPEC"/>
+<LIEN_TXT idtxt="KALITEXT000005682689" titretxt="Prévoyance (taux d'appel de cotisation)"/>
+<LIEN_TXT idtxt="KALITEXT000005682691" titretxt="Frais de logement et de nourriture des visiteurs médicaux à compter du 1er janvier 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005682693" titretxt="Clauses statutaires de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000005682695" titretxt="relatif à l'apprentissage (doublon)"/>
+<LIEN_TXT idtxt="KALITEXT000005682697" titretxt="Formation des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682701" titretxt="Droit syndical"/>
+<LIEN_TXT idtxt="KALITEXT000033444104" titretxt="Droit syndical et institutions représentatives du personnel"/>
+<LIEN_TXT idtxt="KALITEXT000005682707" titretxt="Lettre d'adhésion de la CGT à l'accord du 1er juillet 2005 sur la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005682709" titretxt="Acte d'adhésion de l'OPPSIS à la convention collective nationale de l'industrie pharmaceutique"/>
+<LIEN_TXT idtxt="KALITEXT000005682712" titretxt="Taux d'appel de cotisations"/>
+<LIEN_TXT idtxt="KALITEXT000005682714" titretxt="Frais de logement et de nourriture des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682716" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682720" titretxt="Formation professionnelle tout au long de la vie et GPEC"/>
+<LIEN_TXT idtxt="KALITEXT000005682722" titretxt="Apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000005682724" titretxt="Compte épargne-temps"/>
+<LIEN_TXT idtxt="KALITEXT000005682726" titretxt="Dialogue social dans les entreprises dépourvues de délégués syndicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682728" titretxt="Commission paritaire nationale de l'emploi des industries de santé (CPNEIS)"/>
+<LIEN_TXT idtxt="KALITEXT000005682730" titretxt="Taux de cotisations du régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005682732" titretxt="Formation professionnelle et gestion prévisionnelle des emplois et des compétences"/>
+<LIEN_TXT idtxt="KALITEXT000005682734" titretxt="Frais de logement et de nourriture des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005682736" titretxt="Apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000017580841" titretxt="Evolution des métiers de la promotion "/>
+<LIEN_TXT idtxt="KALITEXT000018043566" titretxt="Indemnisation de la maladie"/>
+<LIEN_TXT idtxt="KALITEXT000018043576" titretxt="Régime de prévoyance des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000018043671" titretxt="Régime frais de soins de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000018562538" titretxt="Taux d'appel de cotisation prévoyance des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000018562556" titretxt="Taux d'appel de cotisation des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000018659289" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000019073941" titretxt="Frais de logement et de nourriture des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000019563462" titretxt="Mise en place d'équipes de suppléance"/>
+<LIEN_TXT idtxt="KALITEXT000020041613" titretxt="Emploi des personnes atteintes d'un handicap"/>
+<LIEN_TXT idtxt="KALITEXT000020041878" titretxt="Taux de cotisation des frais de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000020041888" titretxt="Taux d'appel de cotisations prévoyance pour 2009"/>
+<LIEN_TXT idtxt="KALITEXT000020277636" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000020277652" titretxt="Formation professionnelle pour 2009"/>
+<LIEN_TXT idtxt="KALITEXT000020549741" titretxt="Avenant à la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000020549750" titretxt="Frais de logement et de nourriture des visiteurs médicaux"/>
+<LIEN_TXT idtxt="KALITEXT000021027128" titretxt="Evolution de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000021509902" titretxt="Désignation des organismes assureurs du régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000021748240" titretxt="Emploi de personnes atteintes d'un handicap"/>
+<LIEN_TXT idtxt="KALITEXT000021944714" titretxt="Emploi des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000022168869" titretxt="Révision de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000022168947" titretxt="Révision de la convention collective nationale"/>
+<LIEN_TXT idtxt="KALITEXT000022760155" titretxt="Prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000022760196" titretxt="Formation professionnelle "/>
+<LIEN_TXT idtxt="KALITEXT000022760214" titretxt="Taux de cotisation soins de santé 2010 "/>
+<LIEN_TXT idtxt="KALITEXT000023105237" titretxt="Frais de logement et de nourriture"/>
+<LIEN_TXT idtxt="KALITEXT000023104910" titretxt="Mise en place d'un plan d'épargne interentreprises"/>
+<LIEN_TXT idtxt="KALITEXT000023387676" titretxt="Frais de santé pour l'année 2011"/>
+<LIEN_TXT idtxt="KALITEXT000024170383" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000024402145" titretxt="Frais de logement et de nourriture"/>
+<LIEN_TXT idtxt="KALITEXT000024809710" titretxt="Taux d'appel de cotisation de la prévoyance santé"/>
+<LIEN_TXT idtxt="KALITEXT000024984037" titretxt="Adhésion à l'accord du 20 avril 2006 relatif à la CPNEIS"/>
+<LIEN_TXT idtxt="KALITEXT000024809726" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000024809738" titretxt="Dialogue social"/>
+<LIEN_TXT idtxt="KALITEXT000025276385" titretxt="Santé et sécurité au travail"/>
+<LIEN_TXT idtxt="KALITEXT000026205450" titretxt="Frais de logement et de nourriture"/>
+<LIEN_TXT idtxt="KALITEXT000026205459" titretxt="Cotisations de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000026205468" titretxt="Cotisations prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000026271892" titretxt="Emploi des jeunes, développement de l'alternance et l'insertion professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000026271928" titretxt="Formation professionnelle tout au long de la vie, gestion prévisionnelle des emplois et des compétences et l'alternance"/>
+<LIEN_TXT idtxt="KALITEXT000026272021" titretxt="Frais de logement et de nourriture (métiers de la promotion)"/>
+<LIEN_TXT idtxt="KALITEXT000026976070" titretxt="Formation aux métiers de la promotion du médicament et des produits de santé, et de la visite médicale"/>
+<LIEN_TXT idtxt="KALITEXT000027348430" titretxt="Taux de cotisations des frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000027348440" titretxt="Taux de cotisations des garanties prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000027348455" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000027547961" titretxt="Certificats de qualification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000027662978" titretxt="Frais de logement et de nourriture (métiers de la promotion)"/>
+<LIEN_TXT idtxt="KALITEXT000028053827" titretxt="Contrat de génération"/>
+<LIEN_TXT idtxt="KALITEXT000028465612" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000028465709" titretxt="Frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000028755611" titretxt="Taux de cotisation des garanties prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000028755628" titretxt="Taux de cotisation du régime de frais de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000028755641" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000029072052" titretxt="Frais de logement et de nourriture (métiers de la promotion)"/>
+<LIEN_TXT idtxt="KALITEXT000029358668" titretxt="Conditions de mise en concurrence du régime professionnel de prévoyance des salariés et du régime des frais des soins de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000029361499" titretxt="Règlement du comité de suivi du régime de retraite (ARRCO)"/>
+<LIEN_TXT idtxt="KALITEXT000029532790" titretxt="Emploi des personnes handicapées"/>
+<LIEN_TXT idtxt="KALITEXT000030236786" titretxt="Contribution au FPSPP pour l'année 2015"/>
+<LIEN_TXT idtxt="KALITEXT000030440848" titretxt="Formation professionnelle et GPEC"/>
+<LIEN_TXT idtxt="KALITEXT000030579417" titretxt="Taux de cotisation frais de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000030579428" titretxt="Taux d'appel de cotisations prévoyance pour l'année 2015"/>
+<LIEN_TXT idtxt="KALITEXT000030590784" titretxt="Frais de logement et de nourriture des salariés des métiers de la promotion"/>
+<LIEN_TXT idtxt="KALITEXT000031490691" titretxt="Régime de prévoyance des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000032094124" titretxt="Taux d'appel de cotisations prévoyance pour l'année 2016"/>
+<LIEN_TXT idtxt="KALITEXT000032094140" titretxt="Taux de cotisation frais de soins de santé des anciens salariÉs"/>
+<LIEN_TXT idtxt="KALITEXT000032611745" titretxt="Frais de logement et de nourriture des salariés des métiers de la promotion"/>
+<LIEN_TXT idtxt="KALITEXT000033295254" titretxt="Négociation de l'OPCA 3+"/>
+<LIEN_TXT idtxt="KALITEXT000033415174" titretxt="Dialogue social (modification des articles 9 et 15 de la convention)"/>
+<LIEN_TXT idtxt="KALITEXT000034157022" titretxt="Contrat de génération"/>
+<LIEN_TXT idtxt="KALITEXT000034135551" titretxt="Taux de cotisation frais de soins de santé des anciens salariés pour l'année 2017"/>
+<LIEN_TXT idtxt="KALITEXT000034135564" titretxt="Taux d'appel de cotisations prévoyance pour l'année 2017"/>
+<LIEN_TXT idtxt="KALITEXT000034135582" titretxt="Régime de prévoyance des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000034202415" titretxt="Temps de travail dans les entreprises de moins de 50 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000034851746" titretxt="Frais de logement et de nourriture"/>
+<LIEN_TXT idtxt="KALITEXT000035401187" titretxt="Formation professionnelle et GPEC"/>
+<LIEN_TXT idtxt="KALITEXT000035744771" titretxt="Commission paritaire permanente de négociation et d'interprétation (CPPNI)"/>
+<LIEN_TXT idtxt="KALITEXT000036026364" titretxt="Egalité professionnelle entre les femmes et les hommes"/>
+<LIEN_TXT idtxt="KALITEXT000036026404" titretxt="Régime frais de soins de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000036827855" titretxt="Frais de soins de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000036827880" titretxt="Régime de prévoyance des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000036827907" titretxt="Pause payée prévue à l'article 22, 8°, e des clauses générales       "/>
+<LIEN_TXT idtxt="KALITEXT000037398140" titretxt="Frais de logement et de nourriture"/>
+<LIEN_TXT idtxt="KALITEXT000037398150" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000037323780" titretxt="Temps de travail dans les entreprises de moins de 50 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000038184076" titretxt="Méthode de révision de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000038616488" titretxt="Régime de prévoyance des salariés (maladie chirurgie maternité, décès-incapacité-invalidité)"/>
+<LIEN_TXT idtxt="KALITEXT000038683768" titretxt="Frais de logement et de nourriture des salariés des métiers de la promotion"/>
+<LIEN_TXT idtxt="KALITEXT000039097640" titretxt="Mise en concurrence du régime de prévoyance et du régime des frais de soins et de santé"/>
+<LIEN_TXT idtxt="KALITEXT000039116959" titretxt="Contrat de travail à durée indéterminée de chantier ou d'opération"/>
+<LIEN_TXT idtxt="KALITEXT000041459068" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000041459181" titretxt="Gestion des emplois et des compétences"/>
+<LIEN_TXT idtxt="KALITEXT000041459215" titretxt="Indemnité conventionnelle de licenciement"/>
+<LIEN_TXT idtxt="KALITEXT000041492276" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000041764266" titretxt="Régime frais soins de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000041764283" titretxt="Régime de prévoyance des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000042005308" titretxt="Emploi des personnes en situation de handicap"/>
+<LIEN_TXT idtxt="KALITEXT000042111305" titretxt="Frais de logement et de nourriture (métiers de la promotion)"/>
+<LIEN_TXT idtxt="KALITEXT000042419797" titretxt="Modification de l'accord du 9 juillet 2015 (prévoyance) "/>
+<LIEN_TXT idtxt="KALITEXT000042419820" titretxt="Modification de l'accord du 9 juillet 2015 (art. 16)"/>
+<LIEN_TXT idtxt="KALITEXT000043458071" titretxt="Qualité de vie au travail"/>
+<LIEN_TXT idtxt="KALITEXT000043458092" titretxt="Santé, sécurité au travail et prévention des risques professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000043458137" titretxt="Modification de l'accord collectif du 9 juillet 2015 (prévoyance)"/>
+<LIEN_TXT idtxt="KALITEXT000043688101" titretxt="Avenant à l'accord collectif du 9 juillet 2015 (prévoyance des salariés)"/>
+<LIEN_TXT idtxt="KALITEXT000044339940" titretxt="Insertion et emploi des jeunes"/>
+<LIEN_TXT idtxt="KALITEXT000044479330" titretxt="Télétravail"/>
+<LIEN_TXT idtxt="KALITEXT000044925211" titretxt="Régime de prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000045953200" titretxt="Organisation des réunions à distance"/>
+<LIEN_TXT idtxt="KALITEXT000045953219" titretxt="Suppression du comité paritaire de suivi et d'information de l'ARRCO"/>
+<LIEN_TXT idtxt="KALITEXT000046033332" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000048226487" titretxt="Emploi des personnes en situation de handicap"/>
+<LIEN_TXT idtxt="KALITEXT000047136954" titretxt="Régime de prévoyance des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000047347781" titretxt="Frais de logement et de nourriture des salariés des métiers de la promotion"/>
+<LIEN_TXT idtxt="KALITEXT000047702730" titretxt="Remboursement frais des réunions paritaires"/>
+<LIEN_TXT idtxt="KALITEXT000048213794" titretxt="Gestion des emplois et des compétences"/>
+<LIEN_TXT idtxt="KALITEXT000048953805" titretxt="Transition écologique et mobilité durable"/>
+<LIEN_TXT idtxt="KALITEXT000049094947" titretxt="Régime de prévoyance des salariés"/>
+<LIEN_TXT idtxt="KALITEXT000049094971" titretxt="Régime frais de soins de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000049308886" titretxt="Frais de logement et de nourriture"/>
+<LIEN_TXT idtxt="KALITEXT000049508631" titretxt="Mise en concurrence du régime professionnel de prévoyance et du régime des frais de soins de santé"/>
+<LIEN_TXT idtxt="KALITEXT000049916404" titretxt="Frais de logement et de nourriture compte tenu des Jeux Olympiques 2024"/>
+<LIEN_TXT idtxt="KALITEXT000050298223" titretxt="Régime de participation facultatif pour les entreprises de moins de 50 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000050298266" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000050298284" titretxt="Régime frais de soins de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000051190837" titretxt="Régime de participation facultatif pour les entreprises de moins de 50 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000051537542" titretxt="Salariés aidants"/>
+<LIEN_TXT idtxt="KALITEXT000051537591" titretxt="Régime frais de soins de santé des anciens salariés"/>
+<LIEN_TXT idtxt="KALITEXT000051537606" titretxt="Régime de prévoyance des salariés"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005682738" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682740" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682742" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682744" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682746" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682748" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682750" titretxt="Salaires "/>
+<LIEN_TXT idtxt="KALITEXT000005682752" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682754" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682756" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682758" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682760" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682762" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682764" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682766" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682770" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682772" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682774" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682776" titretxt="Salaires (apprentissage)"/>
+<LIEN_TXT idtxt="KALITEXT000005682778" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682780" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005682782" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000019022342" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020549728" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000022797241" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000024402160" titretxt="Salaires minima pour l'année 2011"/>
+<LIEN_TXT idtxt="KALITEXT000027609853" titretxt="Salaires minima au 1er janvier 2013"/>
+<LIEN_TXT idtxt="KALITEXT000029148846" titretxt="Salaires minima au 1er janvier 2014"/>
+<LIEN_TXT idtxt="KALITEXT000032048631" titretxt="Salaires minima au 1er janvier et au 1er juillet 2016"/>
+<LIEN_TXT idtxt="KALITEXT000035401202" titretxt="Salaires minima au 1er janvier 2017"/>
+<LIEN_TXT idtxt="KALITEXT000036827840" titretxt="Salaires minima conventionnels au 1er janvier 2018"/>
+<LIEN_TXT idtxt="KALITEXT000039071054" titretxt="Salaires au 1er janvier 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042111315" titretxt="Salaires minima conventionnels au 1er janvier 2020"/>
+<LIEN_TXT idtxt="KALITEXT000043925416" titretxt="Salaires 2021"/>
+<LIEN_TXT idtxt="KALITEXT000043925406" titretxt="Frais de logement et de nourriture 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045139455" titretxt="Salaires 2022"/>
+<LIEN_TXT idtxt="KALITEXT000045953190" titretxt="Frais de logement et de nourriture 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047347766" titretxt="Salaires minima conventionnels 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047463621" titretxt="Frais de logement et de nourriture 2023"/>
+<LIEN_TXT idtxt="KALITEXT000049094931" titretxt="Salaires minima conventionnels 2024"/>
+<LIEN_TXT idtxt="KALITEXT000051163120" titretxt="Salaires minima conventionnels au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000051537581" titretxt="Frais de logement et de nourriture des salariés des métiers de la promotion au 1er janvier 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005682784" titretxt="ARRETE du 15 novembre 1956"/>
+<LIEN_TXT idtxt="KALITEXT000005682786" titretxt="ARRETE du 23 juillet 1962"/>
+<LIEN_TXT idtxt="KALITEXT000005682788" titretxt="ARRETE du 6 novembre 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005682790" titretxt="ARRETE du 18 février 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005682792" titretxt="ARRETE du 12 décembre 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005682794" titretxt="ARRETE du 1 mars 1989"/>
+<LIEN_TXT idtxt="KALITEXT000005682796" titretxt="ARRETE du 19 juin 1990"/>
+<LIEN_TXT idtxt="KALITEXT000005682798" titretxt="ARRETE du 18 octobre 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005682800" titretxt="ARRETE du 24 mars 1992"/>
+<LIEN_TXT idtxt="KALITEXT000005682802" titretxt="ARRETE du 4 août 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005682804" titretxt="ARRETE du 7 octobre 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005682806" titretxt="ARRETE du 14 février 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005682808" titretxt="ARRETE du 25 juin 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005682810" titretxt="ARRETE du 3 octobre 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005682812" titretxt="ARRETE du 19 juillet 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005682814" titretxt="ARRETE du 9 décembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005682816" titretxt="ARRETE du 1 mars 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005682818" titretxt="ARRETE du 21 juin 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005682820" titretxt="ARRETE du 6 mars 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005682822" titretxt="ARRETE du 6 février 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005682824" titretxt="ARRETE du 2 octobre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005682826" titretxt="ARRETE du 8 octobre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005682828" titretxt="ARRETE du 5 mai 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005682830" titretxt="ARRETE du 2 juin 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005682832" titretxt="ARRETE du 3 juin 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005682834" titretxt="ARRETE du 7 juillet 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005682836" titretxt="ARRETE du 7 juillet 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005682838" titretxt="ARRETE du 7 juin 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005682840" titretxt="ARRETE du 9 juin 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005682842" titretxt="ARRETE du 15 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005682845" titretxt="ARRETE du 15 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005682847" titretxt="ARRETE du 25 octobre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005682849" titretxt="ARRETE du 10 février 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005682851" titretxt="ARRETE du 29 juin 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005682853" titretxt="ARRETE du 20 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005682855" titretxt="ARRETE du 8 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005682857" titretxt="ARRETE du 28 mars 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005682859" titretxt="ARRETE du 13 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005682861" titretxt="ARRETE du 20 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005682863" titretxt="ARRETE du 14 décembre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005682865" titretxt="ARRETE du 11 janvier 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005682867" titretxt="ARRETE du 2 juillet 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Industrie pharmaceutique</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3104</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

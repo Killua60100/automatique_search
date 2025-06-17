@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050039963</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/03/99/KALIARTI000050039963.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>37</NUM>
+<TITRE>Adhésion</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2024-06-01" fin="2999-01-01" id="KALISCTA000050039954">Chapitre X Dispositions finales</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050039963" num="37" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Toute organisation d'employeurs ainsi que toute organisation syndicale de salariés ayant fait la preuve de sa représentativité dans la branche d'activité de la production de films cinématographiques ou de films publicitaires conjointement dans les titres Ier, II, IV ou dans l'ensemble des titres, non signataires de la présente convention et de ses différents titres, pourront y adhérer dans les conditions fixées à l'article L. 2261-3 du code du travail. </p>
+<p>Cette adhésion devra être notifiée aux signataires de la présente convention collective par lettre recommandée avec avis de réception et faire l'objet des formalités de dépôt prévues à l'article D. 2231-2 du code du travail par l'adhérent.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000050028370" datesignatexte="2024-05-17" id="KALIARTI000050028376" naturetexte="Avenant" nortexte="ASET2450545M" num="2" numtexte="" sens="cible" typelien="MODIFIE">Prévention et signalement des violences et harc... - art. 2 (VNE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000018485207" naturetexte="CODE" nortexte="" num="D2231-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. D2231-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901781" naturetexte="CODE" nortexte="" num="L2261-3" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-3</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

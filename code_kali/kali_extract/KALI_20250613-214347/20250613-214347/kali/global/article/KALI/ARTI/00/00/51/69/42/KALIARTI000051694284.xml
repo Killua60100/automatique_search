@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051694284</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/69/42/KALIARTI000051694284.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+<TITRE>Revenus minima annuels</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>SALAIRES</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-03-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051694275" date_publi="2025-06-05" date_signature="2025-02-14" nature="Avenant" nor="ASET2550331M" num="68" num_parution_jo="">
+<TITRE_TXT c_titre_court="Minima conventionnels, prime d'intermittence et prime d'activité continue" debut="2025-03-01" fin="2999-01-01" id_txt="KALITEXT000051694275">Avenant n° 68 du 14 février 2025 relatif aux minima conventionnels, à la prime d'intermittence et à la prime d'activité continue</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-03-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051694284" num="4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Les revenus minima annuels (pour une durée mensuelle de travail de 151,67 heures sur 12 mois), garantis aux salariés qui peuvent justifier d'un an d'ancienneté continue et révolue et tels que définis à l'article 16.3 de la convention collective nationale, sont modifiés comme suit :</p>
+<p align="right">
+<br/>(En euros.)</p>
+<div align="left">
+<div align="center">
+
+<table border="1">
+<tr>
+<th>Niveaux</th>
+<th>RMA</th>
+</tr>
+<tr>
+<td align="center">I</td>
+<td align="center">23 443,16</td>
+</tr>
+<tr>
+<td align="center">II</td>
+<td align="center">23 561,46</td>
+</tr>
+<tr>
+<td align="center">III</td>
+<td align="center">23 857,21</td>
+</tr>
+<tr>
+<td align="center">IV</td>
+<td align="center">24 251,50</td>
+</tr>
+<tr>
+<td align="center">V</td>
+<td align="center">25 552,80</td>
+</tr>
+<tr>
+<td align="center">VI</td>
+<td align="center">26 538,59</td>
+</tr>
+<tr>
+<td align="center">VII</td>
+<td align="center">28 194,79</td>
+</tr>
+<tr>
+<td align="center">VIII</td>
+<td align="center">29 614,39</td>
+</tr>
+<tr>
+<td align="center">IX</td>
+<td align="center">38 072,84</td>
+</tr>
+</table>
+
+</div>
+</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

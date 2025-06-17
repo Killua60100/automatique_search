@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000028053387</ID>
+<TITRE_TA>Chapitre Ier Titres des fonctions</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2017-02-17" id="KALIARTI000028053508" num="2" origine="KALI"/>
+<LIEN_ART debut="2017-02-17" etat="REMPLACE" fin="2019-07-01" id="KALIARTI000034056351" num="2" origine="KALI"/>
+<LIEN_ART debut="2019-07-01" etat="REMPLACE" fin="2019-07-17" id="KALIARTI000039158653" num="2" origine="KALI"/>
+<LIEN_ART debut="2020-05-27" etat="REMPLACE" fin="2022-01-01" id="KALIARTI000041916251" num="2" origine="KALI"/>
+<LIEN_ART debut="2022-01-01" etat="REMPLACE" fin="2022-02-24" id="KALIARTI000044912325" num="2" origine="KALI"/>
+<LIEN_ART debut="2022-02-24" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000046472186" num="2" origine="KALI"/>
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053510" num="3" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+</TM>
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

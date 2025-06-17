@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017852101</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/85/21/KALIARTI000017852101.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CHAMP_APPLICATION</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2010-09-16</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000020751473">Champ d'application</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-09-01" etat="REMPLACE" fin="2010-09-16" id="KALIARTI000017852101" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2010-09-16" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000024913085" num="1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La présente convention règle sur l'ensemble des départements français, y compris les DOM, les rapports entre employeurs et salariés travaillant dans les établissements appartenant à des entreprises adhérentes ou non aux syndicats qui relèvent de la confédération nationale des charcutiers, charcutiers-traiteurs et traiteurs dont l'activité économique principale est : charcuterie, charcuterie-traiteur, traiteur, y compris les non-sédentaires, activités référencées codes NAF 15-1 F, 52-2 C, 52-6 D et 55-5 D.<br/>
+<br/>Nul ne peut déroger à la présente convention sauf dispositions plus favorables au salarié.<br/>
+<br/>Elle ne saurait toutefois faire obstacle aux dispositions particulières résultant de la législation locale applicable dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<br/>
+<br/>Est réputé charcutier ou charcutier-traiteur celui qui pratique toutes les opérations culinaires ou de conservation en vue de livrer à la consommation, principalement au détail, la viande de porc sous forme de viande fraîche ou conservée, crue ou cuite, salée ou fumée, réfrigérée ou congelée, de plats cuisinés à emporter ou de produits fabriqués à l'aide de condiments de toutes sortes, de matières amylacées, de viandes, d'abats ou issues de tous animaux de boucherie, de volaille, de gibier, ainsi que celui qui pratique en plus pour son compte l'achat, le transport, l'abattage et le découpage des porcs.<br/>
+<br/>Le charcutier ou charcutier-traiteur assure la préparation de produits et de plats cuisinés à base de viandes, volailles, gibiers, poissons, produits de la mer et condiments, cuits ou en conserve, associée à la vente au détail de ces produits en magasin et ou en vente ambulante.<br/>
+<br/>Il vend également des hors-d'oeuvre, des plats à emporter, des desserts ainsi que des comestibles solides ou liquides.<br/>
+<br/>Il assure la livraison et/ou le service à domicile et organise noces, banquets, cocktails, buffets, lunchs et réceptions diverses à domicile ou dans des lieux choisis par le client.<br/>
+<br/>Est réputé traiteur celui qui prépare des repas ou des plats cuisinés à emporter, à consommer sur place ou destinés à être livrés ou à être servis à domicile. Il organise également des noces, banquets, cocktails, buffets, lunchs et réceptions diverses à domicile ou dans des lieux choisis par le client.<br/>
+<br/>Les clauses de la présente convention concernent tous les salariés des entreprises entrant dans le champ d'application défini ci-dessus, à l'exclusion des gérants non salariés. Des annexes ou avenants seront établis pour certaines catégories ou dans certaines régions sans remettre en cause les dispositions de la présente convention commune à tous les salariés.<br/>
+<br/>La présente convention s'impose à l'ensemble des entreprises relevant de la convention collective, qui ne peuvent y déroger que de manière plus favorable au salarié.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>en vigueur le 1er jour du mois suivant l'extension</CONDITION_DIFFERE>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000024891196" datesignatexte="2010-09-16" id="KALIARTI000024891199" naturetexte="Avenant" nortexte="ASET1151222M" num="" numtexte="9" sens="cible" typelien="CITATION">Champ d'application - art. (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000024891196" datesignatexte="2010-09-16" id="KALIARTI000024891200" naturetexte="Avenant" nortexte="ASET1151222M" num="1er" numtexte="9" sens="cible" typelien="CITATION">Champ d'application - art. 1er (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000026955522" datesignatexte="2012-06-05" id="KALIARTI000026955527" naturetexte="Avenant" nortexte="ASET1251311M" num="2" numtexte="14" sens="cible" typelien="CITATION">Egalité professionnelle entre les femmes et les... - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000045429823" datesignatexte="2021-04-28" id="KALIARTI000045429827" naturetexte="Avenant" nortexte="ASET2250147M" num="1er" numtexte="42" sens="cible" typelien="CITATION">Frais de soins de santé - art. 1er (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000045429807" datesignatexte="2021-01-27" id="KALIARTI000045429811" naturetexte="Avenant" nortexte="ASET2250146M" num="1er" numtexte="41" sens="cible" typelien="CITATION">Rente éducation conventionnelle - art. 1er (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000047051879" datesignatexte="2022-12-07" id="KALIARTI000047051886" naturetexte="Avenant" nortexte="ASET2251498M" num="1er" numtexte="48" sens="cible" typelien="CITATION">Activité partielle longue durée - art. 1er (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000043762545" datesignatexte="2021-01-27" id="KALIARTI000043762555" naturetexte="Avenant" nortexte="ASET2150242M" num="1er" numtexte="40" sens="cible" typelien="CITATION">Activité partielle de longue durée (APLD) - art. 1er (VE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

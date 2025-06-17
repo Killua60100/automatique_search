@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050962420</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/96/24/KALIARTI000050962420.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5.1</NUM>
+<TITRE>Allocation journalière de proche aidant</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-11-18</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050962394" date_publi="2025-01-09" date_signature="2024-10-17" nature="Avenant" nor="ASET2450906M" num="26" num_parution_jo="">
+<TITRE_TXT c_titre_court="Congé de proche aidant" debut="2024-11-18" fin="2999-01-01" id_txt="KALITEXT000050962394">Avenant n° 26 du 17 octobre 2024 relatif au congé de proche aidant</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000027040696" date_publi="2012-03-21" etat="VIGUEUR_ETEN" nature="IDCC" num="3109" titre="Convention collective nationale des 5 branches industries alimentaires diverses du 21 mars 2012 " url="conteneur/KALI/CONT/00/00/27/04/06/KALICONT000027040696.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-11-18" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050962420" num="5.1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le congé de proche aidant n'est pas rémunéré. En cas de période de travail à temps partiel, le salarié reçoit une rémunération proportionnelle au temps de travail effectué.</p>
+<p align="left">Toutefois, le salarié perçoit une allocation journalière de proche aidant (AJPA) attribuée par la caisse d'allocations familiales.</p>
+<p align="left">Le montant de cette allocation est égal à date à 7 fois la valeur du Smic horaire net en vigueur au 1er janvier de l'année civile au cours de laquelle l'allocation est due.<br/>
+Le versement de l'AJPA est soumis au respect des conditions de régularité de séjour et de stabilité de résidence en France.</p>
+<p align="left">Lorsque le bénéficiaire d'un congé de proche aidant le transforme en période d'activité à temps partiel, le montant mensuel de l'AJPA versé est calculé sur la base du nombre de journées ou demi-journées non travaillées correspondantes au titre d'un mois civil.</p>
+<p align="left">La demande d'AJPA est effectuée auprès de la CAF à partir d'un formulaire homologué. Les salariés n'ont pas à joindre la copie de la décision d'attribution de la prestation dont bénéficie le proche aidé lors de leur demande. Ce document doit simplement être transmis à l'employeur à l'occasion de la demande de congé.</p>
+<p align="left">L'AJPA n'est pas cumulable avec d'autres allocations et indemnités de sécurité sociale.</p>
+<p align="left">Conformément à la législation en vigueur, le nombre d'allocations versées au titre d'un mois civil ne peut être supérieur à 22, et les allocations journalières sont versées au proche aidant dans la limite d'une durée de 66 jours. Lorsque cette durée est atteinte, le droit à l'allocation journalière de proche aidant peut être renouvelé, à compter du 1er janvier 2025, si le proche aidant apporte son aide à une personne différente de celle au titre de laquelle il a précédemmnt bénéficié de cette allocation.</p>
+<p align="left">Ce renouvellement est ouvert dans la limite de 66 jours et après avoir formulé une nouvelle demande au moyen d'un formulaire homologué, dans les conditions prévues à l'article D. 168-11 du code de la sécurité sociale.</p>
+<p align="left">Le nombre maximal d'allocations journalières versées à un bénéficiaire ne peut être supérieur à 264 jours sur l'ensemble de sa carrière.</p>
+<p align="left">Si la personne aidée décède, l'AJPA continue d'être versée pour les jours d'interruption d'activité pris au cours du mois, dans la limite du mois civil du décès et du nombre maximal de 22 jours. Si le proche aidant décède, l'allocation cesse d'être due à compter du jour suivant le décès.</p>
+<p align="left">Le bénéficiaire d'un congé de proche aidant qui met fin de façon anticipée au congé ou y renonce en cas de décès de la personne aidée peut demander la cessation du versement de l'allocation à compter du jour suivant le décès.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000042388687" naturetexte="CODE" nortexte="" num="D168-11" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. D168-11</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

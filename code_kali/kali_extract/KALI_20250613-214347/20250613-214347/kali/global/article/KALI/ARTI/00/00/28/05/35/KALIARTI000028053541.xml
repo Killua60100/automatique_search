@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053541</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053541.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>26</NUM>
+
+<TITRE>Organisation de la durée du travail lors du tournage</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053392">Chapitre VI Durée du travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053541" num="26" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Tournages en studio et en décors naturels en région parisienne, le personnel regagne chaque soir son domicile habituel :<br/>Le travail est organisé sur la base de 5 jours hebdomadaires.<br/>Exceptionnellement, une semaine de travail pourra être portée à 6 jours, à condition que le travail du 6e jour fasse l'objet d'un repos compensateur au plus tard le lundi ou le vendredi de la semaine suivante.<br/>Dans le cas où ce repos compensateur ne peut pas être pris, le salaire du travail du 6e jour bénéficiera d'une majoration complémentaire s'ajoutant aux diverses autres majorations de salaire fixées dans le présent accord.<br/>La journée de travail commence à l'heure du rendez-vous fixé par la convocation et se termine à l'heure du retour à ce rendez-vous. Dans Paris intra-muros, le lieu de rendez-vous est celui du tournage.<br/>Lorsque le lieu de rendez-vous est fixé en dehors de Paris intra-muros et nécessite un déplacement, l'heure du rendez-vous fixée par la convocation et l'heure du retour à ce lieu de rendez-vous fixent l'amplitude de la journée de travail.<br/>La durée de transport entre le lieu de rendez-vous et le lieu de tournage, aller et retour, n'est pas considérée comme du temps de travail effectif, dans la limite de 2 heures.<br/>Les déplacements entre deux lieux de tournage dans la même journée sont considérés comme des durées de travail effectif.<br/>Si le travail se termine au-delà de 24 heures, le dernier jour de la semaine de travail, un repos compensateur de 10 heures au minimum suivra la fin du travail. Le repos sera lui-même suivi de 48 heures de repos hebdomadaire.<br/>Tournages hors région parisienne, France continentale et étranger :<br/>La semaine de travail pourra être organisée sur 6 jours de la semaine civile.<br/>Dans ce cas, le nombre d'heures minimal de travail effectif garanti sera de 47 heures.<br/>Les heures supplémentaires éventuelles effectuées au-delà de cette durée seront rémunérées selon les dispositions fixées au présent titre.<br/>Si le travail se termine au-delà de 24 heures, le dernier jour de la semaine civile de travail, un repos compensateur de 10 heures au minimum suivra la fin du travail. Le repos sera lui-même suivi de 24 heures ou de 48 heures de repos hebdomadaire.<br/>Pour les tournages qui nécessitent une durée de transport entre le lieu de rendez-vous et le lieu de tournage, la durée de transport entre le lieu de rendez-vous et le lieu de tournage, aller et retour, n'est pas considérée comme du temps de travail effectif, dans la limite de 2 heures.<br/>Les déplacements entre deux lieux de tournage dans la même journée sont considérés comme des durées de travail effectif.<br/>Le lieu de rendez-vous est fixé à l'intérieur de la commune fixée par l'employeur comme lieu de résidence.<br/>Il ne pourra en aucun cas être effectué plus de 4 semaines consécutives de 6 jours.</p>
+<br/>
+<p>
+<font color="808080">
+<em>
+ (1) Article étendu sous réserve du respect des dispositions de l'article L. 3121-35 du code du travail.  <br/>(ARRÊTÉ du 31 mars 2015 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

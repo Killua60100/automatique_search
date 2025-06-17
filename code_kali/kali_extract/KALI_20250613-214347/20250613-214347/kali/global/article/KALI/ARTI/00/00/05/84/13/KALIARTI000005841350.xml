@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841350</ID>
+<ANCIEN_ID>KBCAAXXXXXX00032XAAXSXXB</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841350.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>32</NUM>
+<TITRE/>
+
+<ETAT>MODIFIE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Protocole d'accord du 17 février 1984.</HISTORIQUE>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>1989-10-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750744">Section 4 : Rémunération</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750737">Salaire horaire minimum garanti *SMIG*.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1983-06-30" etat="REMPLACE" fin="1989-10-01" id="KALIARTI000005841349" num="32" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1984-02-17" etat="MODIFIE" fin="1989-10-01" id="KALIARTI000005841350" num="32" origine="KALI"/>
+</VERSION>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1989-10-01" etat="ABROGE" fin="2000-01-01" id="KALIARTI000005841351" num="32" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841352" num="32" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Sous réserve d'une ancienneté de trois mois dans l'entreprise, les salariés bénéficient d'une garantie décès-invalidité absolue et définitive double effet, dans les conditions suivantes :<br/>
+<br/>
+<br/>   Garantie décès<br/>
+<br/>   En cas de décès de l'assuré, il est versé aux bénéficiaires un capital calculé comme suit, en fonction de la situation de famille : <br/>
+<br/>   - assuré célibataire, veuf, divorcé, sans personne à charge :<br/> 75 p. 100 du salaire annuel de l'assuré ;<br/>
+<br/>   - assuré marié, sans personne à charge : 100 p. 100 du salaire annuel de l'assuré ;<br/>
+<br/>   - assuré célibataire, veuf, divorcé, marié, ayant une personne à charge : 120 p. 100 du salaire annuel de l'assuré ;<br/>
+<br/>   - par personne à charge supplémentaire : 20 p. 100 du salaire annuel de l'assuré.<br/>
+<br/>   Il est précisé que sont considérés comme étant à la charge du salarié :<br/>
+<br/>   - tous les enfants visés à l'article 19 du code général des impôts ;<br/>
+<br/>   - les descendants ou ascendants reconnus comme personne à charge au sens fiscal (article 196 du code général des impôts).<br/>
+<br/>   Garantie invalidité absolue et définitive<br/>
+<br/>   Tout salarié âgé de moins de soixante ans, considéré par la sécurité sociale comme inapte à toute activité et étant dans l'obligation d'avoir recours à l'assistance d'une tierce personne, bénéficiera du versement d'un capital égal à 100 p. 100 du capital prévu au titre de la garantie décès.<br/>
+<br/>   Garantie double effet<br/>
+<br/>   Lorsque après le décès de l'assuré, le conjoint survivant décède à son tour alors qu'il reste un ou plusieurs enfants à charge, ceux-ci bénéficient du versement d'un capital égal à 100 p. 100 de celui versé au moment du premier décès.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

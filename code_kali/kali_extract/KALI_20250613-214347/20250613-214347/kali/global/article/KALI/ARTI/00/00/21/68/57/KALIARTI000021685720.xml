@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021685720</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/68/57/KALIARTI000021685720.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>15</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>INDEMNITES_LICENCIEMENT</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-04-16</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000020751806">Indemnité de licenciement</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-04-16" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021685720" num="15" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-09-01" etat="REMPLACE" fin="2009-04-16" id="KALIARTI000017854224" num="15" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>L'indemnité de licenciement due au salarié est calculée selon la formule légale. Elle bénéficie au salarié qui justifie d'une ancienneté minimale de 1 an dans l'entreprise. Elle est égale à 1 / 5 de mois de salaire par année d'ancienneté dans l'entreprise, auquel s'ajoutent 2 / 15 de mois de salaire par année au-delà de 10 ans d'ancienneté. Le point de départ pour la détermination de l'ancienneté acquise au titre du contrat en cours est la date anniversaire de l'entrée du salarié dans l'entreprise ; si une année est incomplète, l'indemnité sera proportionnelle au nombre de mois effectués. Si le salarié avait été employé précédemment, il y a lieu d'appliquer les dispositions de l'article 9. Le salaire servant de base de calcul à l'indemnité est le salaire brut moyen des 3 ou des 12 derniers mois selon le résultat le plus favorable au salarié.L'indemnité de licenciement n'est pas due en cas de faute grave ou lourde.</p>
+<p>
+<font color="#808080">
+<em/>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000021682496" datesignatexte="2009-04-16" id="KALIARTI000021682500" naturetexte="Avenant" nortexte="ASET0951049M" num="1" numtexte="3" sens="cible" typelien="MODIFIE">Indemnité de licenciement - art. 1 (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

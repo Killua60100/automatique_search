@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021689831</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/68/98/KALIARTI000021689831.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>38</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-07-21</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-01-01" fin="2999-01-01" id="KALISCTA000005750745">Section 5 : Congés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-01-01" fin="2999-01-01" id="KALISCTA000005761315">Le travail des jours fériés.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-07-21" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021689831" num="38" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2003-01-01" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841404" num="38" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2005-02-03" etat="REMPLACE" fin="2009-07-21" id="KALIARTI000005841405" num="38" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>38. 1. Le chômage des 11 jours fériés légaux - 1er janvier, lundi de Pâques, 1er Mai, 8 mai, Ascension, lundi de Pentecôte, 14 Juillet, Assomption, Toussaint, 11 Novembre, jour de Noël - ne pourra pas être la cause d'une réduction de rémunération.<br/>
+<br/>
+Compte tenu de la spécificité de la profession, les salariés sont tenus de répondre à la demande de l'employeur de travailler les jours fériés moyennant un délai de prévenance de 15 jours.<br/>
+<br/>
+Les salariés percevront, outre la rémunération normale des heures accomplies, une majoration de 100 % accordée en salaire ou en temps de repos, à la demande du salarié.<br/>
+<br/>
+La prise du repos pourra être différée compte tenu des impératifs liés au fonctionnement de l'entreprise ou de l'exploitation dans un délai de 3 mois.<br/>
+<br/>
+Dans les entreprises qui, en raison de la nature de leur activité, ne peuvent interrompre le travail, les salariés occupés le 1er Mai ont droit, en plus du salaire correspondant au travail accompli, à une indemnité égale à 150 % de ce salaire et à un repos compensateur équivalant au nombre d'heures effectuées. La prise de ce repos se fera en concertation entre l'employeur et le salarié dans un délai de 3 mois.</p>
+<p>
+<font color="#808080">
+<em>Nota : (38. 2. Les parties sollicitent l'extension du présent accord, qui entrera en application le jour de la publication de son extension au Journal officiel : Voir avenant n°66 du 21 juillet 2009)</em>
+</font>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<NOTA>
+<CONTENU>
+<br/>
+<br/>
+<br/>
+</CONTENU>
+</NOTA>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000021682717" datesignatexte="2009-07-21" id="KALIARTI000021682720" naturetexte="Avenant" nortexte="ASET0951039M" num="" numtexte="66" sens="cible" typelien="MODIFIE">Travail les jours fériés - art. (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

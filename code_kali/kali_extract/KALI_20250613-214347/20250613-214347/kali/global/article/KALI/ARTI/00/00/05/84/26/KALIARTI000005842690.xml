@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842690</ID>
+<ANCIEN_ID>KBKAAXXXXXX00020XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/26/KALIARTI000005842690.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20</NUM>
+
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CONGES_EXCEPTIONNELS</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>2018-07-28</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720860">Congés exceptionnels</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2018-07-28" id="KALIARTI000005842690" num="20" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2018-07-28" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038102838" num="20" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Après 1 an d'ancienneté au laboratoire, les employés auront droit, sur justification, aux congés exceptionnels et payés pour événements de famille prévus ci-dessous :</p>
+<p>- mariage d'un salarié : 5 jours ouvrables ;</p>
+<p>- mariage d'un enfant : 2 jours ouvrables ;</p>
+<p>- mariage d'une soeur ou d'un frère : 1 jour ouvrable,</p>
+<p>et quelle que soit l'ancienneté du salarié au laboratoire :</p>
+<p>- naissance d'un enfant : 3 jours ouvrables ;</p>
+<p>- décès du conjoint : 5 jours ouvrables ;</p>
+<p>- décès des parents et beaux-parents : 3 jours ouvrables ;</p>
+<p>- décès d'un enfant : 5 jours ouvrables ;</p>
+<p>- décès d'une soeur ou d'un frère : 1 jour ouvrable.</p>
+<p>Sous réserve de ne pas apporter de gêne excessive à la bonne marche du laboratoire, des autorisations d'absences non payées inférieures à 1 mois pourront être accordées dans le cas où la présence d'un salarié serait nécessaire pour soigner le conjoint, un enfant ou une personne à charge gravement malade, ainsi que l'attesterait un certificat médical et sous réserve des vérifications d'usage.</p>
+<p>D'autre part, des congés non rémunérés pour convenances personnelles pourront exceptionnellement être accordés dans la mesure où les nécessités de service le permettront et en accord avec l'employeur.</p>
+<p>
+<font color="#808080" size="1">
+<i>(1) Article étendu sous réserve de l'application de l'article L. 226-1 du code du travail et de la loi n° 78-49 du 19 janvier 1978 (art. 4 de l'accord annexé) (arrêté du 20 novembre 1978, art. 1er).</i>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

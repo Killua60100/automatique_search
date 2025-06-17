@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000028053373</ID>
+<TITRE_TA>Titre II Techniciens de la production cinématographique</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2020-04-11" id="KALIARTI000028053385" num="1er" origine="KALI"/>
+<LIEN_ART debut="2020-04-11" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000042252589" num="1er" origine="KALI"/>
+<LIEN_SECTION_TA cid="KALISCTA000028053387" debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000028053387" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053387.xml">Chapitre Ier Titres des fonctions</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000028053388" debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000028053388" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053388.xml">Chapitre II Droit syndical et représentation des salariés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000028053389" debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000028053389" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053389.xml">Chapitre III Salaires</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000028053390" debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000028053390" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053390.xml">Chapitre IV Engagement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000028053391" debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000028053391" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053391.xml">Chapitre V Contrat de travail</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000028053392" debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000028053392" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053392.xml">Chapitre VI Durée du travail</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000028053393" debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000028053393" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053393.xml">Chapitre VII Congés</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000028053394" debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000028053394" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053394.xml">Chapitre VIII Restauration, transports et défraiement</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000028053395" debut="2013-08-01" etat="ABROGE" fin="2018-09-29" id="KALISCTA000028053395" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053395.xml">Chapitre IX Commission paritaire d'interprétation et de conciliation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000028053396" debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000028053396" niv="2" url="/KALI/SCTA/00/00/28/05/33/KALISCTA000028053396.xml">Chapitre X Réalisateur</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000049337473</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/49/33/74/KALIARTI000049337473.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000049337428" date_publi="2999-01-01" date_signature="2023-11-30" nature="Accord" nor="ASET2450071M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance harmonisé" debut="2024-01-01" fin="2999-01-01" id_txt="KALITEXT000049337428">Accord du 30 novembre 2023 relatif à la mise en place d'un régime de prévoyance harmonisé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2024-01-01" fin="2999-01-01" id="KALISCTA000049337430">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000051160618" date_publi="2025-12-01" etat="VIGUEUR_NON_ETEN" nature="IDCC" num="3255" titre="Convention collective nationale des activités industrielles de boulangerie et pâtisserie et des professionnels de l'oeuf du 1er octobre 2024" url="conteneur/KALI/CONT/00/00/51/16/06/KALICONT000051160618.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000049337473" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Par accord collectif de branche étendu en date du 15 avril 2019, les branches professionnelles des activités industrielles de boulangerie et pâtisserie (IDCC n° 1747) et des centres immatriculés de conditionnement, de commercialisation et de transformation des œufs et des industries en produits d'œufs (IDCC n° 2075), ont acté, avec leurs organisations syndicales représentatives de salariés respectives, le rapprochement volontaire de leurs champs conventionnels, créant ainsi une seule branche professionnelle.</p>
+<p align="left">Forts de ce constat, les partenaires sociaux de la nouvelle branche ont engagé des négociations afin d'aboutir à la mise en place de nouvelles dispositions conventionnelles harmonisées.</p>
+<p align="left">Les parties se sont ainsi engagées à harmoniser les dispositions de la convention collective nationale des activités industrielles de boulangerie-pâtisserie et de la convention collective nationale des centres immatriculés de conditionnement, de commercialisation et de transformation des œufs et des industries en produits d'œufs.</p>
+<p align="left">Un accord de méthode en date du 5 avril 2022 relatif à l'harmonisation des dispositions des conventions collectives nationales a été conclu ce titre pour organiser ces négociations.</p>
+<p align="left">Dans ce cadre, les parties ont convenu en 1er lieu de l'harmonisation des dispositions conventionnelles concernant le régime de prévoyance.</p>
+<p align="left">Il est expressément convenu entre les parties, que dans le cadre de la poursuite des travaux d'harmonisation, les présentes dispositions du présent accord seront reprises pour être intégrées dans l'accord global portant mise en place d'une convention collective unique.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

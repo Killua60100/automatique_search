@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005873503</ID>
+<ANCIEN_ID>KFWCGXXXXXX00003XAAXSXXB</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/87/35/KALIARTI000005873503.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE/>
+
+<ETAT>MODIFIE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Avenant n° 1 du 28 janvier 2004 BO conventions collectives 2004-9.</HISTORIQUE>
+<DATE_DEBUT>2004-01-28</DATE_DEBUT>
+<DATE_FIN>2009-03-04</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005688628" date_publi="2999-01-01" date_signature="2000-07-13" nature="ACCORD" nor="ASET0050586M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Création d'une association paritaire" debut="2000-11-01" fin="2999-01-01" id_txt="KALITEXT000005688628">Accord du 13 juillet 2000 relatif à la création d'une association paritaire</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2000-11-01" fin="2999-01-01" id="KALISCTA000005733069">Affectation du montant des cotisations recueillies</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635886" date_publi="1976-04-01" etat="VIGUEUR_ETEN" nature="IDCC" num="843" titre="Convention collective nationale de la boulangerie-pâtisserie du 19 mars 1976. Etendue par arrêté du 21 juin 1978 JONC 28 juillet 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635886.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2023-01-01" etat="MODIFIE" fin="2025-06-08" id="KALIARTI000046761932" num="3" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051727291" num="3" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2009-03-04" etat="MODIFIE" fin="2022-09-26" id="KALIARTI000020909110" num="3" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2000-11-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005873502" num="3" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2004-01-28" etat="MODIFIE" fin="2009-03-04" id="KALIARTI000005873503" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Le montant total et global des cotisations recueillies par l'association paritaire sera affecté à l'exercice du droit à la négociation collective des salariés et des employeurs selon les modalités suivantes :<br/>
+<br/>   - une moitié affectée au financement du paritarisme des salariés et répartie pour 2/3 en 5 parts égales entre les 5 organisations représentatives des salariés et pour 1/3 au prorata des voix obtenues par chaque organisation lors des élections prud'homales du 11 décembre 2002, section industrie :<br/>
+<br/>   Cette moitié sera donc répartie ainsi qu'il suit :<br/>
+<br/>   27,09 % fédération nationale agroalimentaire et forestière CGT ;<br/>
+<br/>   21,52 % fédération générale agroalimentaire CFDT ;<br/>
+<br/>   16,24 % confédération française des travailleurs chrétiens CFTC ;<br/>
+<br/>   20,18 % fédération générale des travailleurs de l'agriculture, de l'alimentation, des tabacs et allumettes, des services annexes FO ;<br/>
+<br/>   14,97 % fédération nationale agroalimentaire CFE-CGC.<br/>
+<br/>   - une moitié affectée au financement du paritarisme des employeurs, représentés par la confédération nationale de la boulangerie et boulangerie-pâtisserie française.<br/>
+<br/>   L'association paritaire rendra compte, annuellement, à la commission paritaire nationale, de la manière dont sont utilisés les fonds ainsi collectés.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Accord 2000-07-13 en vigueur le 1er jour du mois suivant l'extension BO conventions collectives 2000-31 étendu par arrêté du 12 octobre 2000 JORF 18 octobre 2000</LIEN>
+<LIEN cidtexte="KALITEXT000046758553" datesignatexte="2022-09-26" id="KALIARTI000046758556" naturetexte="Avenant" nortexte="ASET2251343M" num="" numtexte="3" sens="cible" typelien="CITATION">à l'accord paritaire du 13 juillet 2000 relatif... - art. (VNE)</LIEN>
+<LIEN cidtexte="KALITEXT000020898402" datesignatexte="2009-03-04" id="KALIARTI000020898405" naturetexte="Avenant" nortexte="ASET0950524M" num="" numtexte="2" sens="cible" typelien="CITATION">Paritarisme - art. (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

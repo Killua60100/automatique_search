@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767305</ID>
+<ANCIEN_ID>KGOAAXXXXXX00016XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767305.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>16</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Avenant n° 5 du 18 mars 1988 étendu par arrêté du 9 janvier 1989 JORF 25 janvier 1989.</HISTORIQUE>
+<DATE_DEBUT>1988-03-18</DATE_DEBUT>
+<DATE_FIN>1999-06-08</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1988-03-18" fin="2007-07-20" id="KALISCTA000005690417">Définition du salaire minimum mensuel Restauration collective.</TITRE_TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000018649454">Rémunération</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-12-18" etat="REMPLACE" fin="2016-03-11" id="KALIARTI000027355848" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-01-01" etat="REMPLACE" fin="2011-11-09" id="KALIARTI000018649407" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2011-11-09" etat="REMPLACE" fin="2012-12-18" id="KALIARTI000025294967" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1988-03-18" etat="REMPLACE" fin="1999-06-08" id="KALIARTI000005767305" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1999-06-08" etat="REMPLACE" fin="2008-01-01" id="KALIARTI000005767306" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033555311" num="16" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>Le salaire minimum mensuel Restauration collective (dit S. M. I. C.-R. C.) se définit comme étant le produit du salaire horaire minimum interprofessionnel de croissance par la durée mensuelle du travail prévue à la convention collective, soit 169 heures, minoré de 21 fois la valeur d'un demi-minimum garanti. <br/>
+<br/>Pour les entreprises qui ont une durée hebdomadaire de travail inférieure à 39 heures, le salaire minimum Restauration collective résulte du calcul pro rata temporis du travail effectif, sauf accord d'entreprise ou d'établissement plus favorable. <br/>
+<br/>La durée du travail hebdomadaire ou mensuelle collective du personnel occupé à temps plein ne pourra pas être modifiée unilatéralement, à compter de la signature du présent avenant. Elle pourra l'être par accord d'entreprise, négocié, signé et déposé dans les conditions prévues aux articles L. 132-18 à L. 132-29 du code du travail.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+<LIEN cidtexte="KALITEXT000045829025" datesignatexte="2022-01-10" id="KALIARTI000045829033" naturetexte="Avenant" nortexte="ASET2250272M" num="2" numtexte="60" sens="cible" typelien="CITATION">Minima conventionnels pour l'année 2022 - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000045829025" datesignatexte="2022-01-10" id="KALIARTI000045829034" naturetexte="Avenant" nortexte="ASET2250272M" num="3" numtexte="60" sens="cible" typelien="CITATION">Minima conventionnels pour l'année 2022 - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000045829025" datesignatexte="2022-01-10" id="KALIARTI000045829035" naturetexte="Avenant" nortexte="ASET2250272M" num="4" numtexte="60" sens="cible" typelien="CITATION">Minima conventionnels pour l'année 2022 - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000046970731" datesignatexte="2022-09-08" id="KALIARTI000046970740" naturetexte="Avenant" nortexte="ASET2251400M" num="3" numtexte="62" sens="cible" typelien="CITATION">Salaires minima au 1er octobre 2022 - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000046970731" datesignatexte="2022-09-08" id="KALIARTI000046970741" naturetexte="Avenant" nortexte="ASET2251400M" num="4" numtexte="62" sens="cible" typelien="CITATION">Salaires minima au 1er octobre 2022 - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276474" datesignatexte="2011-11-09" id="KALIARTI000025276503" naturetexte="Avenant" nortexte="ASET1151553M" num="14" numtexte="47" sens="cible" typelien="CITATION">Classification des emplois et salaires - art. 14 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000021284813" datesignatexte="2009-06-22" id="KALIARTI000021284818" naturetexte="Avenant" nortexte="ASET0950914M" num="2" numtexte="44" sens="cible" typelien="CITATION">Salaires - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000027348611" datesignatexte="2012-12-18" id="KALIARTI000027348616" naturetexte="Avenant" nortexte="ASET1350242M" num="2" numtexte="50" sens="cible" typelien="CITATION">Salaires - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000021284813" datesignatexte="2009-06-22" id="KALIARTI000021284819" naturetexte="Avenant" nortexte="ASET0950914M" num="3" numtexte="44" sens="cible" typelien="CITATION">Salaires - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000027348611" datesignatexte="2012-12-18" id="KALIARTI000027348617" naturetexte="Avenant" nortexte="ASET1350242M" num="3" numtexte="50" sens="cible" typelien="CITATION">Salaires - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000021284813" datesignatexte="2009-06-22" id="KALIARTI000021284820" naturetexte="Avenant" nortexte="ASET0950914M" num="4" numtexte="44" sens="cible" typelien="CITATION">Salaires - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000027348611" datesignatexte="2012-12-18" id="KALIARTI000027348618" naturetexte="Avenant" nortexte="ASET1350242M" num="4" numtexte="50" sens="cible" typelien="CITATION">Salaires - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000030682296" datesignatexte="2015-01-27" id="KALIARTI000030682301" naturetexte="Avenant" nortexte="ASET1550345M" num="2" numtexte="51" sens="cible" typelien="CITATION">Salaires, primes et rémunération des contrats d... - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000030682296" datesignatexte="2015-01-27" id="KALIARTI000030682302" naturetexte="Avenant" nortexte="ASET1550345M" num="3" numtexte="51" sens="cible" typelien="CITATION">Salaires, primes et rémunération des contrats d... - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000030682296" datesignatexte="2015-01-27" id="KALIARTI000030682303" naturetexte="Avenant" nortexte="ASET1550345M" num="4" numtexte="51" sens="cible" typelien="CITATION">Salaires, primes et rémunération des contrats d... - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276514" datesignatexte="2011-11-09" id="KALIARTI000025276520" naturetexte="Avenant" nortexte="ASET1151552M" num="2" numtexte="48" sens="cible" typelien="CITATION">salaires minima au 1er janvier 2012 - art. 2 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276514" datesignatexte="2011-11-09" id="KALIARTI000025276521" naturetexte="Avenant" nortexte="ASET1151552M" num="3" numtexte="48" sens="cible" typelien="CITATION">salaires minima au 1er janvier 2012 - art. 3 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000025276514" datesignatexte="2011-11-09" id="KALIARTI000025276522" naturetexte="Avenant" nortexte="ASET1151552M" num="4" numtexte="48" sens="cible" typelien="CITATION">salaires minima au 1er janvier 2012 - art. 4 (VE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006646407" naturetexte="CODE" nortexte="" num="L132-18" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L132-18 (Ab)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

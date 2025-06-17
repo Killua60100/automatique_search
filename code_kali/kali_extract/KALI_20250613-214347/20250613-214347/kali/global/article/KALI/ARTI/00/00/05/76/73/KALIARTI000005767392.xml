@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767392</ID>
+<ANCIEN_ID>KGOAMXXXXXX00001XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767392.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par avenant n° 21 du 21 février 1997, étendu par arrêté du 25 juillet 1997, jo du 2 août 1997</HISTORIQUE>
+<DATE_DEBUT>1993-12-07</DATE_DEBUT>
+<DATE_FIN>2011-11-09</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640445" date_publi="2999-01-01" date_signature="1993-06-14" nature="ACCORD" nor="ASET9351333M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Travail intermittent dans le secteur scolaire" debut="1993-12-07" fin="2999-01-01" id_txt="KALITEXT000005640445">Accord du 14 juin 1993 relatif au travail intermittent dans le secteur scolaire </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1993-12-07" fin="2999-01-01" id="KALISCTA000005690463">Champ d'application</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2011-11-09" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000025295058" num="1er" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1993-12-07" etat="REMPLACE" fin="2011-11-09" id="KALIARTI000005767392" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le présent accord s'applique à tous les employeurs et aux salariés de niveau ER 1, ER 2, ERQ 1, ERQ 2 du secteur scolaire couverts par la Convention collective nationale, pour le personnel des entreprises de restauration de collectivités du 20 juin 1983, étendue le 2 février 1984 (JO du 17 février 1984) à l'exception des gérants, chefs gérants responsables d'unité et des cadres.</p>
+<p>Le secteur scolaire est constitué de l'ensemble des unités de travail dont le fonctionnement est lié au rythme d'activité des établissements d'enseignement (préélémentaire, élémentaire, secondaire et supérieur), ce rythme étant fixé par le calendrier qui leur est applicable.</p>
+<p>Pour définir l'appartenance au secteur scolaire, il convient de prendre en compte la nature de l'activité principale de l'unité de travail ou de l'établissement et non l'organisation interne de l'entreprise.</p>
+<p>Lorsque des entreprises de restauration collective seront dans l'impossibilité de pourvoir des emplois non intermittents pour des salariés du secteur scolaire du fait de la nature de l'emploi et seulement dans ce cas, elles pourront procéder à des embauches en contrats à durée indéterminée intermittents en application du présent accord.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Accord 1993-06-14 en vigueur le 7 décembre 1993, étendu par arrêté du 25 novembre 1993 JORF 7 décembre 1993</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000032853919</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/32/85/39/KALIARTI000032853919.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>59</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2016-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957220">Plafond des remboursements</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-10-27" etat="REMPLACE" fin="2016-01-01" id="KALIARTI000021957236" num="59" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2016-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000032853919" num="59" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>En cas d'intervention en secteur non conventionné sur la base d'une prestation calculée par référence aux tarifs retenus par les régimes de base de la sécurité sociale pour les actes effectués en secteur conventionné, la prestation ne pourra excéder celle qui aurait été versée si la dépense avait été engagée en secteur conventionné. </p>
+<p>Les prestations complémentaires sont limitées aux frais réels dûment justifiés restant à charge du salarié, après intervention du régime de base de la sécurité sociale, et / ou d'éventuels organismes complémentaires.</p>
+<p>Le respect des règles de prise en charge maximales définies à l'article R. 871-2 du code de la sécurité sociale est apprécié eu égard à l'ensemble des prises en charge déjà effectuées par la sécurité sociale, tout autre éventuel contrat frais de santé, et le présent régime.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000032849628" datesignatexte="2015-12-11" id="KALIARTI000032849645" naturetexte="Avenant" nortexte="ASET1650557M" num="4" numtexte="85" sens="cible" typelien="MODIFIE">Régime de frais de soins de santé - art. 4 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

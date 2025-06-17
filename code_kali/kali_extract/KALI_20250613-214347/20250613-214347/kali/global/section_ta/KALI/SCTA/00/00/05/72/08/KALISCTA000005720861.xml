@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005720861</ID>
+<TITRE_TA>Rupture du contrat de travail</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2002-11-28" id="KALIARTI000005842691" num="21" origine="KALI"/>
+<LIEN_ART debut="2002-11-28" etat="REMPLACE" fin="2004-05-05" id="KALIARTI000005842692" num="21" origine="KALI"/>
+<LIEN_ART debut="2004-05-05" etat="REMPLACE" fin="2014-04-05" id="KALIARTI000005842693" num="21" origine="KALI"/>
+<LIEN_ART debut="2014-04-05" etat="REMPLACE" fin="2018-07-28" id="KALIARTI000029237413" num="21" origine="KALI"/>
+<LIEN_ART debut="2018-07-28" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038102841" num="21" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

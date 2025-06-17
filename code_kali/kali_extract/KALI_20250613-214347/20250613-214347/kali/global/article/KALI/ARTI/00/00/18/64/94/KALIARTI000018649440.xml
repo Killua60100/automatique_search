@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000018649440</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/18/64/94/KALIARTI000018649440.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>16 bis</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1988-03-18" fin="2999-01-01" id="KALISCTA000005690418">Salaire de base minimum (SBM), revenu minimum mensuel (RMM), revenu minimum annuel (RMA)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000018649440" num="16 bis" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1988-03-18" etat="REMPLACE" fin="1993-01-14" id="KALIARTI000005767307" num="16 bis" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1993-01-14" etat="REMPLACE" fin="1997-02-21" id="KALIARTI000005767308" num="16 bis" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1997-02-21" etat="REMPLACE" fin="1999-06-08" id="KALIARTI000005767309" num="16 bis" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1999-06-08" etat="REMPLACE" fin="2008-01-01" id="KALIARTI000005767310" num="16 bis" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>A. - Classification des emplois</p>
+<p>- annulé et remplacé par l'avenant n° 21 du 21 février 1997 étendu par arrêté du 25 juillet 1997 JORF 2 août 1997 -</p>
+<p>B. - Salaire de base minimum (SBM)</p>
+<p>- supprimé par avenant n° 43 du 20 juillet 2007</p>
+<p>C. - Revenu minimum mensuel (RMM)</p>
+<p>- supprimé par avenant n° 43 du 20 juillet 2007</p>
+<p>D. - Revenu minimum annuel (RMA)</p>
+<p>- supprimé par avenant n° 43 du 20 juillet 2007</p>
+<p>E. - Evolution des SBM, RMM et RMA</p>
+<p>- supprimé par avenant n° 43 du 20 juillet 2007</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000018216783" datesignatexte="2007-07-20" id="KALIARTI000018216813" naturetexte="Avenant" nortexte="ASET0751036M" num="" numtexte="43" sens="cible" typelien="MODIFIE">Salaires et  classifications - art. (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

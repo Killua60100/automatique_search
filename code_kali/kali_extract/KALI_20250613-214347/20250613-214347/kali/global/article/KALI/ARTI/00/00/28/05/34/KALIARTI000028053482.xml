@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053482</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/34/KALIARTI000028053482.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>26</NUM>
+<TITRE>Médecine du travail</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053382">Chapitre VII Santé, prévoyance, retraite complémentaire</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053482" num="26" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Conformément à l'article R. 4624-10 du code du travail, tout salarié doit faire l'objet d'un examen médical avant l'embauche ou au plus tard avant l'expiration de la période d'essai par le médecin du travail, à l'exception des salariés soumis à une surveillance médicale renforcée en application des dispositions de l'article R. 4624-19 dudit code, qui bénéficient de cet examen avant leur embauche.<br/>Toutefois, par dérogation à l'article R. 4624-10 précité, les salariés relevant des titres II et III sont soumis à l'accord national interbranches du 29 juin 2009, étendu par arrêté du 17 mai 2010, relatif à la santé au travail des salariés intermittents du spectacle et ne bénéficient pas d'un examen préalable à chaque embauche.<br/>Conformément à l'article L. 4624-16 du code du travail, le salarié bénéficie d'examens médicaux périodiques par le médecin du travail, en vue de s'assurer du maintien de son aptitude médicale au poste de travail occupé, au moins tous les 24 mois, à l'exception des salariés soumis à une surveillance médicale renforcée, qui bénéficient de ces examens au moins une fois par an ou selon une périodicité décidée par le médecin du travail, conformément à l'article L. 4624-20 du code du travail.<br/>Une fiche d'aptitude doit être remise au salarié à l'issue de chaque visite et l'employeur doit en prendre connaissance. En ce qui concerne les salariés des titres II et III et conformément à l'accord interbranches du 29 juin 2009 précité, le salarié doit soumettre la fiche d'aptitude à jour à l'employeur préalablement à son embauche.<br/>Les employeurs sont libres de recourir à tout service de santé au travail de leur choix compétent dans le lieu d'établissement du siège social de l'entreprise. Toutefois, pour les salariés des titres II et III et en vertu de l'accord interbranches du 29 juin 2009 précité, l'employeur doit obligatoirement cotiser au centre médical de la Bourse, pour assurer notamment le suivi médical de ses salariés embauchés en CDD d'usage.<br/>Les partenaires sociaux conviennent, en application de l'article 3.2 de l'accord précité du 29 juin 2009, de confier en tant que de besoin au CCHSCT de la production cinématographique et au CMB l'examen des situations à risques dans la branche, qui ont vocation, le cas échéant, à faire l'objet de protocoles de suivi médical spécifiques à certains métiers.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000018493144" naturetexte="CODE" nortexte="" num="R4624-10" numtexte="" sens="source" typelien="CITATION">Code du travail - art. R4624-10</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

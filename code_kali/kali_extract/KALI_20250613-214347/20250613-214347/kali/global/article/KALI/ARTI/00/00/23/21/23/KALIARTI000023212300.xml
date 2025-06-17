@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000023212300</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/23/21/23/KALIARTI000023212300.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20-3-J</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2010-04-26</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-04-26" fin="2999-01-01" id="KALISCTA000023212344">Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-04-26" fin="2999-01-01" id="KALISCTA000023212302">Clause de migration</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2010-04-26" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000023212300" num="20-3-J" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>L'adhésion de toutes les entreprises relevant du champ d'application de la convention collective nationale de la charcuterie de détail au régime « remboursement complémentaire de frais de soins de santé » et l'affiliation des salariés de ces entreprises auprès de l'organisme assureur désigné ont un caractère obligatoire à compter du 1er jour du mois civil qui suit la date de publication de l'arrêté d'extension et au plus tôt le 1er janvier 2011. <br/>
+<br/>Ces dispositions s'appliquent y compris pour les entreprises ayant un contrat de complémentaire de frais de soins de santé auprès d'un autre organisme assureur quel que soit le niveau de garanties appliqué. <br/>
+<br/>Par exception et pour tenir compte des délais de résiliation, si l'arrêté d'extension est publié après le 20 octobre 2010, les entreprises, bénéficiant à cette date d'un contrat de frais de soins de santé obligatoire au profit des salariés visés par le présent régime, ne seront pas tenues d'adhérer à l'organisme assureur désigné à l'article 20-3-I tant que ledit contrat sera en vigueur et jusqu'au 31 décembre 2011. <br/>
+<br/>Pour ce faire, elles devront justifier auprès de l'organisme assureur désigné de la souscription d'un contrat frais de soins de santé. <br/>
+<br/>En tout état de cause, toutes les entreprises devront avoir rejoint le 1er janvier 2012 le régime frais de santé mis en place par la profession. </p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000023175851" datesignatexte="2010-04-26" id="KALIARTI000023175854" naturetexte="Avenant" nortexte="ASET1050993M" num="1er" numtexte="8" sens="cible" typelien="CREE">Frais de soins de santé - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

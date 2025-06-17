@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767288</ID>
+<ANCIEN_ID>KGOAAXXXXXX00006XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/72/KALIARTI000005767288.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>6</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>1997-02-21</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690407">Délégués du personnel</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1997-02-21" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000020535986" num="6" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="1997-02-21" id="KALIARTI000005767288" num="6" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>La représentation du personnel, au titre des délégués du personnel, est organisée selon la législation en vigueur, laquelle prévoit une élection de délégués du personnel dans chaque établissement distinct de plus de dix salariés. Cette limite de plus de dix salariés est abaissée à plus de cinq salariés afin d'assurer la représentation du personnel au sein même des restaurants dans le plus grand nombre d'entre eux. </p>
+<p>Toutefois, dans ces établissements (occupant de six à dix salariés) les élections ne sont pas organisées à l'initiative de l'employeur. </p>
+<p>Pour les restaurants n'atteignant pas dix salariés, un regroupement entre eux pourra être recherché sur une base géographique restreinte correspondant à l'organisation de chaque entreprise. </p>
+<p>En cas de regroupement, une heure de délégation supplémentaire sera accordée au délégué du personnel. </p>
+<br/>
+<p>NOMBRE DE SALARIES REPRESENTES par le délégué du personnel (+) : 6 ou 7. </p>
+<p>NOMBRE D'HEURES DE DELEGATION : </p>
+<p>Sans regroupement : 2 heures. </p>
+<p>Avec regroupement : 3 heures. </p>
+<br/>
+<p>NOMBRE DE SALARIES REPRESENTES par le délégué du personnel (+) : 8,9 ou 10. </p>
+<p>NOMBRE D'HEURES DE DELEGATION : </p>
+<p>Sans regroupement : 5 heures. </p>
+<p>Avec regroupement : 6 heures. </p>
+<br/>
+<p>NOMBRE DE SALARIES REPRESENTES par le délégué du personnel (+) : Au-delà de 10. </p>
+<p>NOMBRE D'HEURES DE DELEGATION : </p>
+<p>Sans regroupement : 15 heures. </p>
+<p>Avec regroupement : 16 heures. </p>
+<br/>
+<p>(+) Cette colonne est étendue sans préjudice de l'application de l'article L. 424-1, dernier alinéa du code du travail. </p>
+<p>Pour les élections au titre des délégués du personnel, à défaut d'accord dans les entreprises, la composition des collèges électoraux se référera à la classification des emplois précisée à la présente convention :</p>
+<p>-pour le collège 1, employés. ER 1-ER 2-ERQ 1 ;</p>
+<p>-pour le collège 2, maîtrise et assimilés. ERQ 2-gérant non cadre ;</p>
+<p>-pour le collège 3, cadres. Les cadres.</p>
+<p>
+<font color="#808080">
+<em/>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<NOTA>
+<CONTENU>NOTA : cet article est modifié par l'avenant n° 21 du 21 février 1997 (BO CC 97-17) étendu par arrêté du 25 juillet 1997 JORF 2 août 1997.<br/>
+</CONTENU>
+</NOTA>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006649168" naturetexte="CODE" nortexte="" num="L424-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L424-1 (Ab)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

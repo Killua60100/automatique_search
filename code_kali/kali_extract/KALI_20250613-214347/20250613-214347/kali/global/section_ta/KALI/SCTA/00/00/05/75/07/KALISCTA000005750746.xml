@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005750746</ID>
+<TITRE_TA>Section 6 : Parentalité, maladie et invalidité</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_SECTION_TA cid="KALISCTA000005761318" debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2014-11-27" id="KALISCTA000005761318" niv="3" url="/KALI/SCTA/00/00/05/76/13/KALISCTA000005761318.xml">Parentalité.</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000005761318" debut="2014-11-27" etat="VIGUEUR_NON_ETEN" fin="2999-01-01" id="KALISCTA000029811284" niv="3" url="/KALI/SCTA/00/00/29/81/12/KALISCTA000029811284.xml">Parentalité</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000005750747" debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000005750747" niv="3" url="/KALI/SCTA/00/00/05/75/07/KALISCTA000005750747.xml">Absence pour maladie ou accident</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000005761319" debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000005761319" niv="3" url="/KALI/SCTA/00/00/05/76/13/KALISCTA000005761319.xml">Maintien de la rémunération en cas de maladie ou d'accident</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000005761320" debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000005761320" niv="3" url="/KALI/SCTA/00/00/05/76/13/KALISCTA000005761320.xml">Rente invalidité</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000005761321" debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000005761321" niv="3" url="/KALI/SCTA/00/00/05/76/13/KALISCTA000005761321.xml">Capital décès - Invalidité absolue et définitive</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000005761322" debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000005761322" niv="3" url="/KALI/SCTA/00/00/05/76/13/KALISCTA000005761322.xml">Rente éducation</LIEN_SECTION_TA>
+<LIEN_SECTION_TA cid="KALISCTA000005761323" debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALISCTA000005761323" niv="3" url="/KALI/SCTA/00/00/05/76/13/KALISCTA000005761323.xml">Droit à garanties</LIEN_SECTION_TA>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+</TM>
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

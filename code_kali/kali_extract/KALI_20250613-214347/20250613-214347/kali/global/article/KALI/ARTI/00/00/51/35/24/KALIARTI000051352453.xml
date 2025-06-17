@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051352453</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/35/24/KALIARTI000051352453.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Mise en œuvre</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051352444" date_publi="2025-03-19" date_signature="2024-12-18" nature="Accord" nor="ASET2550122M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Catégories objectives des bénéficiaires de garanties collectives de protection sociale complémentaire" debut="2025-01-01" fin="2999-01-01" id_txt="KALITEXT000051352444">Accord du 18 décembre 2024 relatif aux catégories objectives des bénéficiaires de garanties collectives de protection sociale complémentaire</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635944" date_publi="1989-07-06" etat="VIGUEUR_ETEN" nature="IDCC" num="1558" titre="Convention collective nationale relative aux conditions de travail du personnel des industries céramiques de France du 6 juillet 1989.&#10;" url="conteneur/KALI/CONT/00/00/05/63/59/KALICONT000005635944.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051352453" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Les partenaires sociaux conviennent que l'usage de cette disposition doit s'accompagner d'une formalisation de la part de l'entreprise vis-à-vis des salariés concernés.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

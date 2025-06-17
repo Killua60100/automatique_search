@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053558</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/35/KALIARTI000028053558.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>43</NUM>
+<TITRE>Journée de solidarité</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053392">Chapitre VI Durée du travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053558" num="43" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>Attendu que l'activité professionnelle des techniciens contribuant à la réalisation de films est déterminée par des durées d'engagement formalisées par des contrats à durée déterminée d'usage en vue de la réalisation d'un film déterminé, ces durées nominales de contrats de travail, en règle générale, n'excèdent pas 8 à 10 semaines.<br/>A une période d'emploi succède, pour les techniciens, une période de chômage plus ou moins longue, dans l'attente d'un nouvel engagement pour la réalisation d'un nouveau film.<br/>L'activité des sociétés de production est caractérisée également par une activité intermittente correspondant à la durée de réalisation d'un film déterminé, suivie d'une période d'attente indéterminée de reprise de l'activité de réalisation d'un autre film.<br/>Il résulte de cette situation que les techniciens qui pourraient être engagés par plusieurs contrats à durée déterminée correspondant à différentes périodes de travail pour le même employeur en dehors de la date du jour férié fixé comme journée de solidarité seraient exemptés de toute contribution à la journée de solidarité fixée un jour déterminée tout en ayant effectué une ou plusieurs périodes d'emploi à durée déterminée préalablement au jour férié fixé. Alors que ceux dont le contrat à durée déterminée comprend le jour férié fixé quel que soit le nombre de jours de travail préalable, même s'il ne s'agit que de quelques jours, seraient assujettis à la durée de 7 heures de solidarité.<br/>Il résulte de cette situation d'emploi que les dispositions actuelles de la loi ne sauraient s'appliquer sans enfreindre le principe de l'égalité des droits.<br/>En conséquence, il est convenu d'adapter les dispositions de la loi afin d'assujettir tous les techniciens à une durée de travail de solidarité au prorata de la durée d'emploi qu'ils effectueront pour chacun de leurs différents employeurs.<br/>Cette durée contributive sera totalisée et décomptée proportionnellement en référence à la durée annuelle du travail de 1 607 heures et à la durée de solidarité de 7 heures.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+</LIENS>
+
+
+
+</ARTICLE>

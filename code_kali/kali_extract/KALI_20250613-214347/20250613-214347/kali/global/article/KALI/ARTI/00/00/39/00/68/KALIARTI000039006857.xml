@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000039006857</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/39/00/68/KALIARTI000039006857.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2019-04-01</DATE_DEBUT>
+<DATE_FIN>2020-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000031284609" date_publi="2015-10-08" date_signature="2015-07-03" nature="Accord" nor="ASET1550778M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de santé" debut="2016-01-01" fin="2999-01-01" id_txt="KALITEXT000031284609">Accord du 3 juillet 2015 relatif au régime frais de santé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="KALISCTA000039006499">Annexe I</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635252" date_publi="1993-06-02" etat="VIGUEUR_ETEN" nature="IDCC" num="1631" titre="Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993" url="conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635252.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2019-04-01" id="KALIARTI000039006521" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2019-04-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000039006857" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2020-01-01" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000042374573" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000047337274" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Garanties santé. - Régime général à adhésion obligatoire <font color="#808080">
+<em>(1)</em>
+</font>
+</p>
+<p>Les garanties ci-après s'appliquent dans le cadre du parcours de soins. Dans tous les cas, les remboursements sont limités aux frais réels.</p>
+<p>Garanties santé. – Régime général à adhésion obligatoire</p>
+<p>Les garanties ci-après s'appliquent dans le cadre du parcours de soins. Dans tous les cas, les remboursements sont limités aux frais réels.</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th colspan="2">Garanties y compris les remboursements de la sécurité sociale<br/>
+			(sauf pour les forfaits en € ou PMSS qui viennent en complément des remboursements de la sécurité sociale)</th>
+</tr>
+<tr>
+<td align="center">Hospitalisation chirurgicale et médicale, y compris maternité (secteur conventionné et non conventionné (1))</td>
+<td/>
+</tr>
+<tr>
+<td align="center">Honoraires, signataires CAS</td>
+<td align="center">125 % BR</td>
+</tr>
+<tr>
+<td align="center">Honoraires, non-signataires CAS</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Frais de séjour</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Chambre particulière</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Frais d'accompagnant (enfant de moins de 12 ans)</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Forfait hospitalier</td>
+<td align="center">100 % FR</td>
+</tr>
+<tr>
+<td align="center">Participation forfaitaire pour les actes coûteux</td>
+<td align="center">18 €</td>
+</tr>
+<tr>
+<td align="center">Soins de ville (secteur conventionné et non conventionné (1))</td>
+<td/>
+</tr>
+<tr>
+<td align="center">Consultations et visites, généralistes et spécialistes, signataires CAS</td>
+<td align="center">125 % BR</td>
+</tr>
+<tr>
+<td align="center">Consultations et visites, généralistes et spécialistes, non-signataires CAS</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Petite chirurgie et actes de spécialité, signataires CAS</td>
+<td align="center">125 % BR</td>
+</tr>
+<tr>
+<td align="center">Petite chirurgie et actes de spécialité, non-signataires CAS</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Imagerie médicale et actes cliniques d'imagerie, signataires CAS</td>
+<td align="center">125 % BR</td>
+</tr>
+<tr>
+<td align="center">Imagerie médicale et actes cliniques d'imagerie, non-signataires CAS</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Frais d'analyses et de laboratoire</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Auxiliaires médicaux</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Prothèses auditives, piles et entretien de la prothèse remboursés par la sécurité sociale</td>
+<td align="center">200 % BR</td>
+</tr>
+<tr>
+<td align="center">Autre appareillage remboursé par la sécurité sociale</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Participation forfaitaire pour les actes coûteux</td>
+<td align="center">18 €</td>
+</tr>
+<tr>
+<td align="center">Pharmacie</td>
+<td/>
+</tr>
+<tr>
+<td align="center">Pharmacie remboursée par la sécurité sociale (hors pharmacie remboursée à 15 %)</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Transport</td>
+<td/>
+</tr>
+<tr>
+<td align="center">Transport remboursé par la sécurité sociale</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Frais dentaires</td>
+<td/>
+</tr>
+<tr>
+<td align="center">Soins dentaires remboursés par la sécurité sociale : soins dentaires, actes d'endodontie, actes de prophylaxie bucco-dentaire, parodontologie</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Inlays-onlays remboursés par la sécurité sociale</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires remboursées par la sécurité sociale :</td>
+<td/>
+</tr>
+<tr>
+<td align="center">– couronnes, bridges et inter de bridges<br/>
+			– couronnes sur implant<br/>
+			– prothèses dentaires amovibles<br/>
+			– réparations sur prothèses<br/>
+			– inlays-cores</td>
+<td align="center">250 % BR</td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires non remboursées par la sécurité sociale :</td>
+<td/>
+</tr>
+<tr>
+<td align="center">-couronnes et bridges<br/>
+			– prothèses dentaires provisoires<br/>
+			– réparations (sauf les réparations à caractère esthétique)</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Orthodontie remboursée par la sécurité sociale</td>
+<td align="center">250 % BR</td>
+</tr>
+<tr>
+<td align="center">Orthodontie non remboursée par la sécurité sociale</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Parodontologie non remboursée par la sécurité sociale</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Implants (implant + pilier implantaire)</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Frais d'optique</td>
+<td/>
+</tr>
+<tr>
+<td align="center" colspan="2">Un équipement (1 monture + 2 verres) tous les 2 ans, sauf en cas d'évolution de la vue ou pour les mineurs (un équipement tous les ans) Remboursement monture limité à 150 €</td>
+</tr>
+<tr>
+<td align="center">Équipement composé de 2 verres « simples » (verres simple foyer avec : sphère comprise entre – 6 et + 6 et cylindre ≤ 4)</td>
+<td align="center">100 €</td>
+</tr>
+<tr>
+<td align="center">Équipement mixte composé d'un verre « simple » et d'un verre « complexe » (verres pour adultes multifocaux ou progressifs sphéro-cylindrique avec sphère hors zone – 8 ou &gt; + 8, verres multifocaux ou progressifs sphériques avec sphère hors zone – 4 ou &gt; + 4)</td>
+<td align="center">150 €</td>
+</tr>
+<tr>
+<td align="center">Équipement composé de 2 verres « complexes » (verres simple foyer avec sphère &gt; – 6 ou &gt; + 6 ou cylindre &gt; 4, verres multifocaux, verres progressifs)</td>
+<td align="center">200 €</td>
+</tr>
+<tr>
+<td align="center">Lentilles remboursées par la sécurité sociale</td>
+<td align="center">100 % BR + 100 €</td>
+</tr>
+<tr>
+<td align="center">Lentilles non remboursées par la sécurité sociale (y compris jetables)</td>
+<td align="center">100 €</td>
+</tr>
+<tr>
+<td align="center">Chirurgie réfractive (toute chirurgie des yeux)</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Maternité et adoption</td>
+<td/>
+</tr>
+<tr>
+<td align="center">Allocation naissance ou adoption (doublée en cas de naissance ou d'adoption multiple)</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Prévention et autres soins</td>
+<td/>
+</tr>
+<tr>
+<td align="center">Cure thermale remboursée par la sécurité sociale : honoraires et soins</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Forfait pour cure thermale remboursée par la sécurité sociale</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Médecine douce (acupuncture, chiropractie, diététique, ergothérapie, homéopathie, méthode Mézières, microkinésie, nutritionniste, ostéopathie, pédicure-podologue, psychologue, psychomotricité, psychothérapie, réflexologie, sophrologie)</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Traitement antitabac remboursé par la sécurité sociale</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Pharmacie prescrite par un médecin non remboursée par la sécurité sociale</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Pilules contraceptives non remboursées par la sécurité sociale</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Vaccins prescrits non remboursés par la sécurité sociale</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Vaccin antigrippal</td>
+<td align="center">Néant</td>
+</tr>
+<tr>
+<td align="center">Actes de prévention prévus à l'article R. 871-2 du code de la sécurité sociale (2)</td>
+<td align="center">Pris en charge</td>
+</tr>
+<tr>
+<td align="center">Services</td>
+<td/>
+</tr>
+<tr>
+<td align="center">Assistance de base + protection juridique + plateforme santé HUMANIS</td>
+<td align="center">Incluses</td>
+</tr>
+<tr>
+<td align="center">Tiers payant santé + tiers payant optique</td>
+<td align="center">Prévus</td>
+</tr>
+<tr>
+<td colspan="2">BR : base de remboursement de la sécurité sociale.<br/>
+			CAS : contrat d'accès aux soins.<br/>
+			FR : frais réels.<br/>
+			MR : montant remboursé par la sécurité sociale.<br/>
+			PMSS : plafond mensuel de la sécurité sociale en vigueur au 1er janvier de l'année.<br/>
+			SS : sécurité sociale.<br/>
+			(1) En secteur non conventionné, les remboursements sont effectués sur la base du tarif d'autorité.<br/>
+			(2) Ces actes sont pris en charge dans la limite des prestations garanties par le contrat. À titre indicatif, le détartrage est remboursé dans la limite prévue par le poste soins dentaires.</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+<font color="808080">
+<em>
+ (1) Annexe étendue sous réserve du respect du I de l'article R. 160-16 du code de la sécurité sociale dans sa rédaction en vigueur depuis le 1er janvier 2019 et à l'exclusion du terme « HUMANIS » conformément à la décision du Conseil constitutionnel n° 2013-672 DC du 13 juin 2013.<br/>
+(Arrêté du 18 septembre 2020 - art. 1)</em>
+</font>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000038881602" datesignatexte="2019-03-11" id="KALIARTI000038881619" naturetexte="Avenant" nortexte="ASET1950608M" num="" numtexte="3" sens="cible" typelien="MODIFIE">Régime frais de santé - art. (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>KALITEXT000005688628</ID>
+<ANCIEN_ID>KFWCG</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>texte/version/KALI/TEXT/00/00/05/68/86/KALITEXT000005688628.xml</URL>
+<NATURE>ACCORD</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>KALITEXT000005688628</CID>
+<NUM/>
+<NUM_PARUTION/>
+<NUM_SEQUENCE/>
+<NOR>ASET0050586M</NOR>
+<DATE_PUBLI>2999-01-01</DATE_PUBLI>
+<DATE_TEXTE>2000-07-13</DATE_TEXTE>
+<DERNIERE_MODIFICATION>2025-06-08</DERNIERE_MODIFICATION>
+<ORIGINE_PUBLI/>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Création d'une association paritaire</TITRE>
+<TITREFULL>Accord du 13 juillet 2000 relatif à la création d'une association paritaire</TITREFULL>
+<APPLI_GEO>NATIONAL</APPLI_GEO>
+<CODES_NOMENCLATURES/>
+<LIBELLE_EXTENSION>Etendu par arrêté du 12 octobre 2000 JORF 18 octobre 2000</LIBELLE_EXTENSION>
+<LIBELLE_ELARGISSEMENT/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+<DATE_DEBUT>2000-11-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+
+
+<MCS_TXT>
+<MC>BOULANGERIE-PATISSERIE</MC>
+<MC>Entreprises artisanales</MC>
+<MC>boulanger-pâtissier</MC>
+<MC>boulanger pâtissier artisan</MC>
+<MC>boulangerie pâtisserie artisanale</MC>
+<MC>alimentation pain</MC>
+<MC>viennoiserie</MC>
+</MCS_TXT>
+
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+<VISAS>
+<CONTENU/>
+</VISAS>
+<SIGNATAIRES>
+
+<SIGNPATRON>
+<CONTENU>
+<p>Confédération nationale de la boulangerie-pâtisserie française.</p>
+</CONTENU>
+</SIGNPATRON>
+<SIGNSYNDIC>
+<CONTENU>
+<p>Fédération nationale agroalimentaire et forestière CGT ;</p>
+<p>Fédération générale agroalimentaire CFDT ;</p>
+<p>Fédération générale des travailleurs de l'agriculture, de l'alimentation, des tabacs et allumettes, des services annexes FO ;</p>
+<p>Fédération nationale agroalimentaire CGE-CGC</p>
+</CONTENU>
+</SIGNSYNDIC>
+<ORGADHERE>
+<CONTENU/>
+</ORGADHERE>
+<ORGDENONCE>
+<CONTENU/>
+</ORGDENONCE>
+<SIGNEXT>
+<CONTENU/>
+</SIGNEXT>
+<EXECUTION>
+<CONTENU/>
+</EXECUTION>
+</SIGNATAIRES>
+
+<NOTA>
+<CONTENU/>
+</NOTA>
+
+
+
+
+</TEXTE_VERSION>

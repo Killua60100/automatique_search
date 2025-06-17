@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841405</ID>
+<ANCIEN_ID>KBCAAXXXXXX00038XAAXEXXB</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/14/KALIARTI000005841405.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>38</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Avenant n° 53 du 3 février 2005 art. 2 BO conventions collectives 2005-14 étendu par arrêté du 10 janvier 2007 JORF 23 janvier 2007.</HISTORIQUE>
+<DATE_DEBUT>2005-02-03</DATE_DEBUT>
+<DATE_FIN>2009-07-21</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-01-01" fin="2999-01-01" id="KALISCTA000005750745">Section 5 : Congés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-01-01" fin="2999-01-01" id="KALISCTA000005761315">Le travail des jours fériés.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-07-21" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021689831" num="38" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2003-01-01" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841404" num="38" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2005-02-03" etat="REMPLACE" fin="2009-07-21" id="KALIARTI000005841405" num="38" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Selon la loi, le 1er Mai est le seul jour férié obligatoirement payé et chômé. Toutefois, le chômage de 10 autres jours fériés légaux : 1er janvier, lundi de Pâques, jeudi de l'Ascension, lundi de Pentecôte, 8 Mai, 14 Juillet, 15 août, Toussaint, 11 Novembre et jour de Noël, ne pourra pas être la cause d'une réduction de rémunération.<br/>
+<br/>   Compte tenu de la spécificité de la profession, les salariés sont tenus de répondre à la demande de l'employeur de travailler les jours fériés, sauf le 1er Mai, moyennant un délai de prévenance de 7 jours. Les salariés percevront outre la rémunération normale des heures accomplies, une majoration de 100 % accordée en salaire ou après accord des parties en temps de repos. La prise du repos pourra être différée compte tenu des impératifs liés au fonctionnement de l'entreprise ou de l'exploitation.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Avenant n° 45 2002-11-19 art. 2 en vigueur le 1er janvier 2003 BO conventions collectives 2002-51 étendu par arrêté du 9 octobre 2003 JORF 21 octobre 2003</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038102838</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/10/28/KALIARTI000038102838.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CONGES_EXCEPTIONNELS</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2018-07-28</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720860">Congés exceptionnels</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2018-07-28" id="KALIARTI000005842690" num="20" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2018-07-28" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038102838" num="20" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Tout salarié bénéficie sur justification et à l'occasion de certains événements familiaux d'une autorisation exceptionnelle d'absence : <br/>– pour son mariage : de 4 jours ouvrables, portés à 5 jours ouvrables après 1 an d'ancienneté ; <br/>– pour la conclusion d'un pacte civil de solidarité : de 4 jours ouvrables, portés à 5 jours ouvrables après 1 an d'ancienneté ; <br/>– pour chaque naissance survenue à son foyer ou pour l'arrivée d'un enfant placé en vue de son adoption : de 3 jours ouvrables. Ces jours d'absences ne se cumulent pas avec les congés accordés pour ce même enfant dans le cadre d'un congé de maternité ; <br/>– pour le décès d'un enfant : de 5 jours ouvrables ; <br/>– pour le décès du conjoint : de 5 jours ouvrables ; <br/>– pour le décès du partenaire lié par un pacte civil de solidarité ou du concubin : de 5 jours ouvrables ; <br/>– pour le décès d'un petit-enfant : de 3 jours ouvrables ; <br/>– pour le mariage d'un enfant : de 1 jour ouvrable porté à deux ouvrables après 1 an d'ancienneté ; <br/>– pour le décès du père, de la mère, du beau-père, de la belle-mère : de 3 jours ouvrables ; <br/>– pour le décès d'un frère ou d'une sœur : de 3 jours ouvrables ; <br/>– pour le mariage d'un frère ou d'une sœur : de 1 jour ouvrable après 1 an d'ancienneté ; <br/>– pour l'annonce de la survenue d'un handicap chez un enfant : de 2 jours ouvrables. </p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Événement </th>
+<th>Nombre de jours ouvrables accordés </th>
+</tr>
+<tr>
+<td align="center">Mariage ou Pacs du salarié </td>
+<td align="center">4 jours ouvrables sinon 5 jours ouvrables après 1 an d'ancienneté </td>
+</tr>
+<tr>
+<td align="center">Mariage enfant </td>
+<td align="center">1 jour ouvrable sinon 2 jours ouvrables après 1 an d'ancienneté </td>
+</tr>
+<tr>
+<td align="center">Mariage frère ou sœur </td>
+<td align="center">1 jour ouvrable après 1 an d'ancienneté </td>
+</tr>
+<tr>
+<td align="center">Naissance ou adoption d'un enfant </td>
+<td align="center">3 jours ouvrables, non cumulable avec les congés maternité </td>
+</tr>
+<tr>
+<td align="center">Décès du conjoint, partenaire Pacs ou concubin </td>
+<td align="center">5 jours ouvrables </td>
+</tr>
+<tr>
+<td align="center">Décès d'un enfant </td>
+<td align="center">5 jours ouvrables </td>
+</tr>
+<tr>
+<td align="center">Décès d'un petit-enfant </td>
+<td align="center">3 jours ouvrables </td>
+</tr>
+<tr>
+<td align="center">Décès du père, de la mère, du beau-père, de la belle-mère </td>
+<td align="center">3 jours ouvrables </td>
+</tr>
+<tr>
+<td align="center">Décès d'un frère ou d'une sœur </td>
+<td align="center">3 jours ouvrables </td>
+</tr>
+<tr>
+<td align="center">Annonce de la survenue d'un handicap chez un enfant </td>
+<td align="center">2 jours ouvrables </td>
+</tr>
+</tbody>
+</table>
+
+<p align="left">Les jours d'absences pour événements familiaux n'entraînent pas de réduction de la rémunération. Ils sont assimilés à des jours de travail effectif pour la détermination de la durée du congé annuel. </p>
+<p align="left">En outre les salariés peuvent obtenir un congé sans solde dans les cas et conditions prévus à : <br/>– l'article L. 1225-61 du code du travail relatif au congé pour enfant malade ; <br/>– les articles L. 1225-62 et suivants du code du travail relatifs au congé de présence parentale ; <br/>– les articles L. 3142-6 et suivants du code du travail relatifs au congé de solidarité familiale ; <br/>– les articles L. 3142-16 et suivants du code du travail relatif au congé de proche aidant. </p>
+<p align="left">Enfin des congés non rémunérés pour convenances personnelles peuvent exceptionnellement être accordés dans la mesure où les nécessités de service le permettront et en accord avec l'employeur</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000038014437" datesignatexte="2018-06-14" id="KALIARTI000038014444" naturetexte="Avenant" nortexte="ASET1850992M" num="2" numtexte="" sens="cible" typelien="MODIFIE">Révision de la convention (articles 19, 20, 21 ... - art. 2 (VNE)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006900948" naturetexte="CODE" nortexte="" num="L1225-61" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1225-61</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006900949" naturetexte="CODE" nortexte="" num="L1225-62" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1225-62</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006902684" naturetexte="CODE" nortexte="" num="L3142-16" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L3142-16</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006902674" naturetexte="CODE" nortexte="" num="L3142-6" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L3142-6</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

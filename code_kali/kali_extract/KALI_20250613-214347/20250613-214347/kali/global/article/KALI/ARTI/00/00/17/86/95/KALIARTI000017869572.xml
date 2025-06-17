@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017869572</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/86/95/KALIARTI000017869572.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>16.9</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000020751913">Repos compensateurs</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-09-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000017869572" num="16.9" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>
+<br/>Contingent annuel d'heures supplémentaires sans autorisation de l'inspection du travail </p>
+<p>Le contingent annuel d'heures supplémentaires pouvant être effectué sans autorisation de l'inspection du travail est fixé à 220 heures par an.</p>
+<p>Droits à repos compensateurs</p>
+<p>Un repos compensateur payé est accordé aux salariés dans les conditions suivantes :<br/>- entreprises de 20 salariés et moins :<br/>- 50 % des heures supplémentaires effectuées au-delà du contingent de 220 heures. Le décompte est effectué au-delà de la 36e heure ;<br/>- entreprises de plus de 20 salariés :<br/>- 50 % des heures supplémentaires effectuées au-delà de la 41e heure dans la limite du contingent de 220 heures ;<br/>- 100 % des heures effectuées au-delà de la 35e heure lorsque le contingent de 220 heures est dépassé.</p>
+<p>Modalités d'application</p>
+<p>Les droits à repos compensateurs dus sur les heures supplémentaires sont calculés, conformément à la loi et à ses textes d'application et à l'alinéa précédent.<br/>Sont exclus pour le calcul :<br/>- les jours ou demi-journées de repos compensateurs pris ;<br/>- les jours de congés payés ;<br/>- le temps d'habillage et de déshabillage.<br/>Concernant l'attribution des repos, il est précisé que :<br/>- que le droit à repos est ouvert seulement à partir du moment où le salarié totalise 7 heures de repos compensateur même s'il souhaite bénéficier d'un repos moindre, sauf accord exprès contraire de l'employeur ;<br/>- que le repos compensateur peut être pris par journée entière ou demi-journée, à la convenance du salarié ;<br/>- que le salarié doit formuler sa demande de repos par écrit, au moins 7 jours francs avant la prise effective du repos en précisant la date et la durée de celui-ci. L'employeur doit faire connaître sa réponse dans les 3 jours suivant la réception de la demande. Il peut refuser d'accorder le repos en précisant les raisons de son refus et proposer une autre date à l'intérieur du délai de 2 mois.<br/>En cas de demandes simultanées de repos, les demandeurs sont partagés en tenant compte, par ordre de priorité :<br/>- des demandes déjà reportées ;<br/>- de la situation de famille ;<br/>- de l'ancienneté.<br/>Les repos compensateurs doivent effectivement être pris en repos, sauf le cas de départ de l'entreprise, quel qu'en soit le motif.<br/>Les repos compensateurs peuvent être accolés aux congés payés si l'employeur et le salarié en sont d'accord.</p>
+<p>Rémunération des repos compensateurs</p>
+<p>Le repos compensateur donne lieu à une indemnisation qui ne doit entraîner aucune diminution par rapport à la rémunération qui aurait été perçue si le salarié avait accompli son travail.<br/>La journée ou demi-journée de repos est indemnisée en fonction du nombre d'heures de travail que le salarié aurait effectué.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>en vigueur le 1er jour du mois suivant l'extension</CONDITION_DIFFERE>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

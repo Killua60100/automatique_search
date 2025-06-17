@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767314</ID>
+<ANCIEN_ID>KGOAAXXXXXX00020XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767314.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690422">Congés " éducation ouvrière " (ex-art.  19)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1984-02-17" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005767314" num="20" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Des congés " éducation ouvrière " seront accordés dans le cadre de la loi n° 57-821 du 23 juillet 1957, qui prévoit notamment que : </p>
+<p>Les salariés, désireux de participer à ces stages ou sessions exclusivement consacrés à l'éducation ouvrière ou à la formation syndicale, organisés, soit par des centres rattachés à des organisations syndicales de travailleurs reconnues comme représentatives sur le plan national, soit par des instituts spécialisés, ont droit, sur leur demande à un congé non payé de 12 jours ouvrables par an. </p>
+<p>La demande doit être présentée à l'employeur au moins 30 jours à l'avance par l'intéressé et devra préciser la date et la durée de l'absence sollicitée ainsi que le nom de l'organisme responsable du stage ou de la session. </p>
+<p>La réponse de l'employeur doit être notifiée à l'intéressé dans un délai de 8 jours à compter de la réception de la demande, et notifiée en cas de refus, après avis du comité d'entreprise ou, à défaut, des délégués du personnel. </p>
+<p>L'organisme chargé des stages ou sessions devra délivrer une attestation concernant la fréquentation effective de ceux-ci par l'intéressé. Cette attestation devra être adressée à l'employeur au moment de la reprise du travail. </p>
+<p>Le nombre de bénéficiaires prévu par l'arrêté du 21 mars 1978 en fonction des effectifs de l'établissement est déterminé comme suit :</p>
+<p>-jusqu'à 500 salariés : 1 salarié par tranche (ou fraction) de 25 ;</p>
+<p>-de 501 à 1 000 salariés : 1 salarié par tranche (ou fraction) de 50 ;</p>
+<p>-de 1 001 et au-delà : 1 salarié par tranche (ou fraction) de 200.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+<LIEN cidtexte="JORFTEXT000000315617" datesignatexte="1957-07-23" id="JORFTEXT000000315617" naturetexte="LOI" nortexte="" num="" numtexte="57-821" sens="source" typelien="CITATION">Loi n° 57-821 du 23 juillet 1957 (Ab)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

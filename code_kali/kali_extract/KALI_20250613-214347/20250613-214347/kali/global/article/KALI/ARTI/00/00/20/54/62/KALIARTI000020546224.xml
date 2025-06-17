@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000020546224</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/20/54/62/KALIARTI000020546224.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>17</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>DUREE</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE>Modifié par accord du 14 juin 1993 étendu par arrêté du 25 novembre 1993 JORF 7 décembre 1993</HISTORIQUE>
+<DATE_DEBUT>1993-06-14</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1989-12-01" fin="2999-01-01" id="KALISCTA000005690419">Congés annuels (ex-art.  16)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1993-06-14" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000020546224" num="17" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1989-12-01" etat="REMPLACE" fin="1993-06-14" id="KALIARTI000005767311" num="17" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les droits aux congés annuels seront déterminés par la réglementation en vigueur. Tout employé ayant plus de 10 ans de présence dans l'entreprise aura droit à 2 jours de congé supplémentaire étant entendu que cette disposition ne saurait se cumuler avec un accroissement à venir du nombre de jours de congés payés légaux annuels. Des dispositions particulières pourront être prévues dans les entreprises afin de faciliter aux salariés étrangers ou originaires de territoires d'outre-mer la prise de leurs congés, notamment après avis donné à l'inspecteur du travail, les congés de 2 années pourront être bloqués sur la deuxième année.</p>
+<p align="center">Travail intermittent dans le secteur scolaire (1)</p>
+<p>
+<em>
+<font color="#999999" size="1">(1) Voir accord du 14 juin 1993.</font>
+</em>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS/>
+
+
+
+</ARTICLE>

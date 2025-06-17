@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767293</ID>
+<ANCIEN_ID>KGOAAXXXXXX00009XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/72/KALIARTI000005767293.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>9</NUM>
+<TITRE/>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>1999-06-08</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="1999-06-08" id="KALISCTA000005690410">Durée hebdomadaire du travail (ex-art. 8)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="1984-02-17" etat="ABROGE" fin="1999-06-08" id="KALIARTI000005767293" num="9" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La durée hebdomadaire du travail s'entend du travail effectif, donc à l'exclusion notamment du temps consacré aux repas.<br/>
+<br/>   Cette durée hebdomadaire, arrêtée par chaque entreprise, ne peut excéder trente-neuf heures par semaine, sauf dispositions de l'article 10 relatif à l'organisation du travail.<br/> Disposition particulière pour les cadres : jours de compensation<br/>
+<br/>   Le personnel d'encadrement est embauché pour exercer une fonction et sa rémunération est fixée en considération des responsabilités qu'il assume.<br/>
+<br/>   Lorsque les intéressés ne sont pas soumis à un horaire contractuel hebdomadaire précis (cadres et gérants), ils bénéficieront d'un repos supplémentaire de deux jours ouvrés par année civile de travail effectif complète.<br/>
+<br/>   La durée de ce repos sera éventuellement réduite au prorata du temps de travail effectif au cours de chaque année civile considérée.<br/>
+<br/>   Ces jours de repos supplémentaires n'ont pas pour objet d'allonger la durée totale des congés payés annuels ; de ce fait ils ne pourront être accolés à ces derniers.<br/>
+<br/>   Ils devront être effectivement pris, par accord préalable entre le bénéficiaire et son supérieur hiérarchique, afin de ne pas compromettre le bon fonctionnement de l'établissement auquel appartient le bénéfice.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

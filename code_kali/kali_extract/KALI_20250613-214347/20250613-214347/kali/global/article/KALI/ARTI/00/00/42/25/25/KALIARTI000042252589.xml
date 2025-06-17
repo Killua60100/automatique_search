@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000042252589</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/42/25/25/KALIARTI000042252589.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1er</NUM>
+<TITRE>Champ d'application</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CHAMP_APPLICATION</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-04-11</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053373">Titre II Techniciens de la production cinématographique</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2020-04-11" id="KALIARTI000028053385" num="1er" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-04-11" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000042252589" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le titre II est établi en conformité et en application des dispositions du titre Ier « Dispositions communes ».</p>
+<p align="left">Le titre II est applicable limitativement aux salariés techniciens concourant à la réalisation des films.</p>
+<p align="left">Les dispositions du titre II sont applicables spécifiquement et exclusivement aux salariés de l'équipe technique engagés pour la réalisation des films sous contrat de travail à durée déterminée d'usage au titre des fonctions fixées au chapitre Ier du présent titre, et par exception à certains personnels concourant spécifiquement à la réalisation du film, engagés sous contrat de travail à durée déterminée de droit commun et entrant dans la comptabilité du film.</p>
+<p align="left">A compter de son entrée en vigueur, ce présent titre, à l'exception de l'accord national professionnel du 30 décembre 1991 relatif à la retraite complémentaire des intermittents techniques cadres et non cadres, annule et remplace les dispositions de la convention collective nationale des techniciens signée le 30 avril 1950, celles de la convention collective nationale des travailleurs indépendants signée le 1er août 1960 et celles des dispositions communes du protocole d'accord du 29 mars 1973 relatives aux conventions susdites.</p>
+<p align="left">Pour l'application de l'avant dernier paragraphe de l'article 1er du titre Ier de la présente convention collective, concernant les films de fiction de longue durée dont le budget prévisionnel ne dépasse pas 1 million d'euros de dépenses extérieures à la société de production (hors imprévus), les partenaires sociaux conviennent que le régime spécifique suivant est nécessaire pour les films d'initiative française :</p>
+<p align="left">– la masse salariale effective brute des personnels techniques sous contrat de travail de droit français est au moins égale à 15 % des dépenses françaises du budget du film.</p>
+<p align="left">Le producteur précisera le calcul de ce ratio dans son dossier d'agrément ;</p>
+<p align="left">– le producteur prévoit un intéressement aux recettes nettes d'exploitation consistant en l'attribution d'une participation aux recettes nettes producteur du film. Les conditions et les modalités de cet intéressement doivent être communiquées aux salariés avant leur 1er jour de travail. À partir de 10 mois à compter de la sortie du film et au plus tard dans un délai de 18 mois à compter de cette date, le producteur leur transmet une reddition de comptes.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000041698920" datesignatexte="2019-10-25" id="KALIARTI000041698927" naturetexte="Avenant" nortexte="ASET1951432M" num="3" numtexte="" sens="cible" typelien="MODIFIE">Modification des titres Ier et II de la convention - art. 3 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

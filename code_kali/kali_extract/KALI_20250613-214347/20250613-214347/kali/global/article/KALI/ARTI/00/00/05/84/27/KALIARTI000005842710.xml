@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005842710</ID>
+<ANCIEN_ID>KBKAAXXXXXX00030XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/27/KALIARTI000005842710.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>30</NUM>
+<TITRE>Dispositions générales</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1978-02-15</DATE_DEBUT>
+<DATE_FIN>2006-05-23</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005676229" date_publi="2999-01-01" date_signature="1978-02-03" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="2014-06-20" fin="2999-01-01" id_txt="KALITEXT000029459570">Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978.</TITRE_TXT>
+
+
+<TITRE_TXT c_titre_court="Convention collective nationale du 3 février 1978" debut="1978-02-15" fin="2015-01-11" id_txt="KALITEXT000005676229">Convention collective nationale des laboratoires d'analyses médicales extra-hospitaliers du 3 février 1978.  </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1978-02-15" fin="2999-01-01" id="KALISCTA000005720870">Commission paritaire nationale de l'emploi</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635844" date_publi="2014-06-20" etat="VIGUEUR_ETEN" nature="IDCC" num="959" titre="Convention collective nationale des laboratoires de biologie médicale extra-hospitaliers du 3 février 1978." url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635844.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1978-02-15" etat="REMPLACE" fin="2006-05-23" id="KALIARTI000005842710" num="30" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2006-05-23" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005842711" num="30" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Bien que non liées par l'accord du 10 février 1969 sur la sécurité de l'emploi les organisations signataires conviennent d'instituer une commission nationale paritaire de l'emploi.<br/>
+<br/>   Cette commission sera composée de deux représentants de chaque organisation syndicale de salariés signataires et de représentants patronaux en nombre égal.<br/>
+<br/>   Elle se réunira au moins une fois par an.<br/>
+<br/>   Sa mission est :<br/>
+<br/>   - d'étudier la situation de l'emploi dans la branche professionnelle et ses perspectives d'évolution ;<br/>
+<br/>   - de participer à l'étude des moyens de formation et de perfectionnement ;<br/>
+<br/>   - d'examiner les possibilités d'adaptation à d'autres emplois par des mesures de formation professionnelle du personnel appartenant à des catégories en régression ou en évolution technique.<br/>
+<br/>   Lorsque la commission est saisie d'un cas de licenciement collectif d'ordre économique posant un problème de reclassement qui n'aura pu être résolu, elle se réunit dans les meilleurs délais pour faire toutes propositions en vue de mettre en oeuvre sur les plans professionnel et interprofessionnel, les moyens disponibles pour permettre le réemploi ou la réadaptation des salariés licenciés.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1978-02-03 en vigueur le 15 février 1978 étendue par arrêté du 20 novembre 1978 JONC 6 janvier 1979</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000018979406</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/18/97/94/KALIARTI000018979406.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>47</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-01-01</DATE_DEBUT>
+<DATE_FIN>2013-02-21</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-03" fin="2999-01-01" id="KALISCTA000005750746">Section 6 : Parentalité, maladie et invalidité</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-03" fin="2999-01-01" id="KALISCTA000005761322">Rente éducation</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-01-01" etat="REMPLACE" fin="2013-02-21" id="KALIARTI000018979406" num="47" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2019-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000039201640" num="47" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2005-02-03" etat="REMPLACE" fin="2008-01-01" id="KALIARTI000005841413" num="47" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2018-01-01" etat="REMPLACE" fin="2019-01-01" id="KALIARTI000038195011" num="47" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-02-21" etat="REMPLACE" fin="2018-01-01" id="KALIARTI000027750223" num="47" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>En cas de décès du salarié, pour toute autre cause que celle visée à l'article 48. 2 " Exclusions " de l'avenant n° 53 du 3 février 2005 à la convention collective nationale de la pâtisserie, ou à la date à laquelle il est reconnu par la sécurité sociale en état d'invalidité de 3e catégorie ou atteint d'une incapacité permanente professionnelle d'un taux de 100 % (état d'IAD, invalidité absolue et définitive), il est versé au profit de chaque enfant à charge une rente temporaire dont le montant est égal à : <br/>
+<br/>- 8 % du salaire brut de référence, jusqu'au 16e anniversaire du bénéficiaire (1) ; <br/>
+<br/>- 10 % du salaire de référence, du 16e au 19e anniversaire du bénéficiaire (1) ; <br/>
+<br/>- 10 % du salaire de référence, du 19e au 26e anniversaire du bénéficiaire (1), en cas de poursuite d'études et événements assimilés notamment s'il est étudiant, apprenti, en formation professionnelle en alternance, demandeur d'emploi inscrit à l'ANPE et non indemnisé par le régime d'assurance chômage. <br/>
+<br/>La rente est doublée pour les orphelins de père et de mère. Elle est viagère pour les enfants reconnus invalides avant leur 21e anniversaire. <br/>
+<br/>Le montant maximal du cumul des rentes à la date du décès du participant, quel que soit le nombre d'enfants à charge, ne peut excéder 40 % du salaire annuel brut. Si le nombre d'enfants est supérieur à 5, ce montant de 40 % est réparti à parts égales à chacun des ayants droit. <br/>
+<br/>Elles sont versées trimestriellement à terme d'avance. <br/>
+<br/>Le service des rentes éducation par anticipation en cas d'invalidité absolue et définitive met fin à la garantie. <br/>
+<br/>Les prestations en cours de service au 1er janvier 2008 seront alignées sur les nouveaux niveaux de prestations précédemment décrits. <br/>
+<br/>La notion d'enfant à charge est celle décrite au règlement des garanties de l'OCIRP.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000018879269" datesignatexte="2008-01-15" id="KALIARTI000018879280" naturetexte="Avenant" nortexte="ASET0850314M" num="2" numtexte="59" sens="cible" typelien="MODIFIE">Régime de prévoyance (rente éducation) - art. 2 (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

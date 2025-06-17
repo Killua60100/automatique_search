@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841327</ID>
+<ANCIEN_ID>KBCAAXXXXXX00011XAAXEXXB</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841327.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>11</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Modifié par Avenant n° 53 du 3 février 2005 art. 2 BO conventions collectives 2005-14 étendu par arrêté du 10 janvier 2007 JORF 23 janvier 2007.</HISTORIQUE>
+<DATE_DEBUT>2005-02-03</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720174">Chapitre II : Libertés, droits collectifs et individuels</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750731">Section 2 : Délégué du personnel</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005761295">Vote</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1983-06-30" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841326" num="20" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841327" num="11" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   L'élection a lieu conformément aux dispositions légales.<br/> 11.1. Bulletins<br/>
+<br/>   Si plusieurs bulletins différents se trouvent dans la même enveloppe, ils seront annulés.<br/>
+<br/>   Si plusieurs bulletins identiques se trouvent dans la même enveloppe, il ne sera compté qu'un seul vote.<br/> 11.2. Vote par correspondance<br/>
+<br/>   La direction, en accord avec les organisations syndicales ouvrières représentatives, pourra autoriser le vote par correspondance, dans les conditions qui suivent :<br/>
+<br/>   Pourront voter par correspondance :<br/>
+<br/>   - les salariés absents à la date limite fixée pour la communication des listes à la direction, en raison, d'un arrêt de travail pour congés payés, accident, maladie, congé de maternité ou de toute autre cause de suspension du contrat de travail comportant une reprise du travail prévue pour une date postérieure à la date du scrutin ;<br/>
+<br/>   - ou ceux ne travaillant habituellement pas le jour fixé pour l'élection.<br/>
+<br/>   Au plus tard 8 jours avant la date du scrutin, la direction adressera à chacun des salariés intéressés un exemplaire de chacun des bulletins de vote, titulaires et suppléants, correspondant aux listes présentées dans le collège, 2 enveloppes portant respectivement l'indication " titulaires " (a) et " suppléants " (a'), une enveloppe portant les indications relatives à l'élection notamment, le collège et l'identité du salarié (b), enfin une enveloppe pré-affranchie à l'adresse de la poste restante " adresse " (c). Sera jointe à l'envoi une notice explicative : les bulletins seront respectivement placés dans les enveloppes (a) et (a') qui, cachetées, seront disposées dans l'enveloppe (b), elle-même cachetée, l'enveloppe (c) servant pour l'acheminement.<br/>
+<br/>   L'employeur est habilité à venir retirer les enveloppes à La Poste. Les enveloppes seront remises au bureau de vote le jour du scrutin. Seul le bureau est habilité à ouvrir les enveloppes.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

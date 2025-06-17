@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051295360</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/29/53/KALIARTI000051295360.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4</NUM>
+<TITRE>Intégration du protocole d'accord collectif sur le CCHSCT du 17 décembre 2007 et ses avenants modificatifs en annexe</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-10-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051295352" date_publi="2025-03-05" date_signature="2024-09-11" nature="Avenant" nor="ASET2451044M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Collecte des contributions conventionnelles" debut="2025-10-01" fin="2999-01-01" id_txt="KALITEXT000051295352">Avenant du 11 septembre 2024 portant révision de diverses dispositions relatives à la collecte des contributions conventionnelles</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051295360" num="4" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Lors des négociations qui ont permis d'établir le présent avenant, il est apparu que le protocole d'accord signé le 17 décembre 2007 (étendu par arrêté du 6 mars 2008 publié au JORF du 13 mars 2008), réinstituant le CCHSCT, de par son antériorité, n'avait pas été réuni aux textes issus de la convention collective de la production cinématographique (IDCC 3097) du 12 janvier 2012 sur le site Légifrance.</p>
+<p align="left">Par souci de facilité d'accès et de simplification, le protocole d'accord du 17 décembre 2007 constitue donc l'annexe I du présent avenant. Les avenants modifiant cet accord collectif, respectivement l'avenant n° 1 signé le 9 décembre 2008 (étendu par arrêté du 7 mai 2009 publié au JORF du 14 mai 2009) et l'avenant n° 2 signé le 3 novembre 2015 (étendu par arrêté du 24 mai 2016 publié au JORF du 2 juin 2016) en constituent les annexes II et III.</p>
+<p align="left">Ces textes ayant tous fait l'objet d'une extension par arrêté du ministère du travail sont annexés au présent avenant dans leur rédaction d'origine. Néanmoins, leur version en vigueur s'entend en ce inclus les modifications apportées par le présent avenant.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

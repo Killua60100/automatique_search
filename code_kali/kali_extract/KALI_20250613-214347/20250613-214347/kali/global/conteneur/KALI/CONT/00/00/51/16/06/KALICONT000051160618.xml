@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000051160618</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/51/16/06/KALICONT000051160618.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale des activités industrielles de boulangerie et pâtisserie et des professionnels de l'oeuf du 1er octobre 2024</TITRE>
+<ETAT>VIGUEUR_NON_ETEN</ETAT>
+<NUM>3255</NUM>
+
+<DATE_PUBLI>2025-12-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU/>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000051150351" titretxt="Convention collective nationale du 1er octobre 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000046100116" titretxt="Fonds de financement du paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000049337428" titretxt="Régime de prévoyance harmonisé"/>
+<LIEN_TXT idtxt="KALITEXT000049337381" titretxt="Régime de frais de santé harmonisé"/>
+<LIEN_TXT idtxt="KALITEXT000049916566" titretxt="Classification des emplois"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000049508692" titretxt="Salaires minima au 1er février 2024"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Activités industrielles de boulangerie et pâtisserie et des professionnels de l'œuf</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH/>
+
+
+</IDCC>

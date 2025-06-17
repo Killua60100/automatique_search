@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000033892887</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/33/89/28/KALIARTI000033892887.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>II.3</NUM>
+<TITRE>Conclusion du contrat de travail</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2016-10-27</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2016-10-27" fin="2999-01-01" id="KALISCTA000033892901">Titre IV Salariés attachés à l'activité permanente de l'entreprise</TITRE_TM>
+<TM>
+<TITRE_TM debut="2016-10-27" fin="2999-01-01" id="KALISCTA000033892893">Chapitre II Contrats de travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2016-10-27" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000033892887" num="II.3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le contrat de travail est conclu par l'employeur ou son représentant. L'engagement fait l'objet d'un écrit établi en double exemplaire, dont l'un est obligatoirement remis au salarié au plus tard le jour de la prise d'effet de son engagement.</p>
+<p>Nonobstant les dispositions légales et réglementaires en vigueur, le contrat précise :<br/>
+– l'identité des parties ;<br/>
+– le lieu de travail, les déplacements supposés et les conditions de leur mise en œuvre et de leur défraiement. A défaut de lieu de travail fixe, la mention du site principal de rattachement ;<br/>
+– la fonction, la classification et le statut (cadre ou non cadre) pour lesquels le salarié est occupé ;<br/>
+– la nature du contrat<br/>
+– la date de début du contrat, la durée de la période d'essai éventuelle ;<br/>
+– le montant du salaire de base initial et les autres éléments constitutifs du salaire ainsi que la périodicité du versement du salaire auquel le salarié a droit ; la date limite de cette périodicité ne peut outrepasser le 8 du mois suivant celui au cours duquel le travail a été effectué ;<br/>
+– la durée ou les modalités de détermination du préavis ;<br/>
+– la durée de travail et l'organisation du temps de travail applicables au salarié ;<br/>
+– la durée du congé payé ou les modalités d'attribution et de détermination de ce congé ;<br/>
+– la mention de la présente convention collective et, le cas échéant, des accords collectifs propres à l'entreprise améliorant les conditions de la présente convention régissant les conditions de travail ;<br/>
+– la mention de l'existence d'un règlement intérieur ;<br/>
+– le lieu de dépôt de la déclaration préalable à l'embauche dont copie doit être remise aux salariés qui en feront la demande ;<br/>
+– les noms et adresses des organismes de protection sociale (caisse de retraite complémentaire, institution de prévoyance).</p>
+<p>Par ailleurs, lorsque le contrat est à durée déterminée, il précisera également :<br/>
+– la définition précise de son objet, conformément à la législation en vigueur ;<br/>
+– lorsqu'il est conclu pour remplacer un salarié absent, le nom et la qualification du salarié remplacé ;<br/>
+– la date d'échéance du terme s'il s'agit d'un CDD à date fixe et, le cas échéant, les conditions éventuelles de son renouvellement ;<br/>
+– dans le cas d'un contrat à durée déterminé à terme imprécis : la durée minimale d'engagement ;<br/>
+– le taux de l'indemnité de précarité due au salarié en fin de contrat, égale à 10 % de la rémunération totale brute versée au salarié, à l'exclusion de l'indemnité compensatrice de congés payés et des indemnités représentatives de frais professionnels ;<br/>
+– le taux de l'indemnité compensatrice de congés payés. Le montant de cette indemnité est calculé en fonction du contrat sur la rémunération totale brute due au salarié, laquelle comprend l'indemnité de fin de contrat.</p>
+<p>Toute modification du contrat de travail fait obligatoirement l'objet d'un avenant écrit et contresigné par les parties.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000033860077" datesignatexte="2016-07-29" id="KALIARTI000033860092" naturetexte="Accord" nortexte="ASET1651028M" num="I.1" numtexte="" sens="cible" typelien="CREE">Titre IV « Salariés permanents » - art. I.1 (VNE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

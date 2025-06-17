@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767394</ID>
+<ANCIEN_ID>KGOAMXXXXXX00003XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767394.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1993-12-07</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640445" date_publi="2999-01-01" date_signature="1993-06-14" nature="ACCORD" nor="ASET9351333M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Travail intermittent dans le secteur scolaire" debut="1993-12-07" fin="2999-01-01" id_txt="KALITEXT000005640445">Accord du 14 juin 1993 relatif au travail intermittent dans le secteur scolaire </TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1993-12-07" fin="2999-01-01" id="KALISCTA000005690465">Contrat de travail intermittent</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1993-12-07" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005767394" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le contrat de travail des salariés titulaires d'un contrat de travail intermittent est à durée indéterminée et doit être écrit (cf. modèle de présentation des clauses minimales obligatoires en annexe).</p>
+<p>L'employeur remet au salarié titulaire d'un contrat de travail intermittent un exemplaire de ce contrat ainsi que du présent accord.</p>
+<p>Outre les clauses prévues pour les salariés à temps plein, le contrat de travail intermittent doit mentionner :</p>
+<p>- la qualification du salarié ;</p>
+<p>- le salaire horaire et, le cas échéant, les autres éléments constituant la rémunération ;</p>
+<p>- la durée minimale annuelle de travail effectif du salarié ;</p>
+<p>- les périodes définies pendant lesquelles le salarié sera amené à travailler ;</p>
+<p>- la répartition des heures de travail à l'intérieur des périodes sus-visées ;</p>
+<p>- l'indication : " un exemplaire de l'accord sur le travail intermittent est joint au présent contrat ".</p>
+<p>Au début de chaque année scolaire, et en fonction du calendrier des congés scolaires, il sera remis à chaque salarié un document annexé au contrat de travail précisant les dates des périodes pendant lesquelles il sera amené à travailler (cf. modèle joint en annexe à titre indicatif).</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Accord 1993-06-14 en vigueur le 7 décembre 1993, étendu par arrêté du 25 novembre 1993 JORF 7 décembre 1993</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

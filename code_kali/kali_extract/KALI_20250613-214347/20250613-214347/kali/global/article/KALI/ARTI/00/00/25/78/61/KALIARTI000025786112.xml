@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000025786112</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/25/78/61/KALIARTI000025786112.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2011-10-01</DATE_DEBUT>
+<DATE_FIN>2011-10-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000019819141" date_publi="2999-01-01" date_signature="2008-09-03" nature="Avenant" nor="ASET0851091M" num="15" num_parution_jo="">
+<TITRE_TXT c_titre_court="Mise en place d'un régime de remboursements complémentaires de frais de soins de santé" debut="2009-03-01" fin="2999-01-01" id_txt="KALITEXT000019819141">Avenant n° 15 du 3 septembre 2008 relatif à la mise en place d'un régime de remboursements complémentaires de frais de soins de santé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-03-01" fin="2999-01-01" id="KALISCTA000019819170">Annexe</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635899" date_publi="1984-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1286" titre="Convention collective nationale des détaillants et détaillants-fabricants de la confiserie,  chocolaterie, biscuiterie du 1er janvier 1984.  Etendue par arrêté du 2 octobre 1984 JONC 12 octobre 1984.&#10;" url="conteneur/KALI/CONT/00/00/05/63/58/KALICONT000005635899.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2011-10-01" etat="REMPLACE" fin="2014-01-01" id="KALIARTI000026912508" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2011-10-01" etat="REMPLACE" fin="2011-10-01" id="KALIARTI000025786112" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2014-01-01" etat="REMPLACE" fin="2015-04-01" id="KALIARTI000028500532" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-09-03" etat="REMPLACE" fin="2011-09-07" id="KALIARTI000019819172" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2015-04-01" etat="REMPLACE" fin="2018-01-01" id="KALIARTI000031118542" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2018-07-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000038193269" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2017-07-01" etat="REMPLACE" fin="2018-07-01" id="KALIARTI000038193223" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000041799875" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2018-07-01" etat="MODIFIE" fin="2017-07-01" id="KALIARTI000038118563" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="2017-07-01" etat="MODIFIE" fin="2018-07-01" id="KALIARTI000037813833" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Garanties</p>
+<p>Sont couverts, selon les conditions du régime conventionnel, tous les actes et frais de soins ayant fait l'objet d'un remboursement et d'un décompte individuel sécurité sociale, relevant des postes de garanties détaillées ci-dessous.</p>
+<p>Pendant la période de garantie, les exclusions et les limitations de garanties ne s'appliquent pas lorsqu'elles ont pour effet d'empêcher les prises en charge minimales prévues à l'article R. 871-2 du code de la sécurité sociale.</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Postes</th>
+<th>Prestations y compris les prestations versées par la sécurité sociale</th>
+</tr>
+<tr>
+<td align="center">Hospitalisation médicale et chirurgicale</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Frais de séjour, salle d'opération</td>
+<td align="center">200 % BR</td>
+</tr>
+<tr>
+<td align="center">Honoraires : actes de chirurgie (ADC), actes d'anesthésie (ADA), autres honoraires</td>
+<td align="center">235 % BR</td>
+</tr>
+<tr>
+<td align="center">Chambre particulière (y compris maternité) (*)</td>
+<td align="center">45 € par jour, limité à 20 jours par an</td>
+</tr>
+<tr>
+<td align="center">Forfait hospitalier engagé (*)</td>
+<td align="center">100 % des frais réels dans la limite de la législation en vigueur</td>
+</tr>
+<tr>
+<td align="center">Frais d'accompagnement (enfant à charge &lt; 16 ans sur présentation d'un justificatif) (*)</td>
+<td align="center">25 € par jour limité à 20 jours par an</td>
+</tr>
+<tr>
+<td align="center">Transport (accepté par la sécurité sociale)</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Actes médicaux</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Généralistes</td>
+<td align="center">150 % BR</td>
+</tr>
+<tr>
+<td align="center">Spécialistes</td>
+<td align="center">150 % BR</td>
+</tr>
+<tr>
+<td align="center">Actes de chirurgie (ADC), actes techniques (ATM)</td>
+<td align="center">150 % BR</td>
+</tr>
+<tr>
+<td align="center">Actes d'imagerie médicale (ADI), actes d'échographie (ADE)</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Auxiliaires médicaux</td>
+<td align="center">110 % BR</td>
+</tr>
+<tr>
+<td align="center">Analyses</td>
+<td align="center">110 % BR</td>
+</tr>
+<tr>
+<td align="center">Pharmacie (acceptée par la sécurité sociale)</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Dentaire</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Soins dentaires</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Inlay simple, onlay</td>
+<td align="center">200 % BR</td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires remboursées par la sécurité sociale</td>
+<td align="center">250 % BR</td>
+</tr>
+<tr>
+<td align="center">Inlay core et inlay à clavette</td>
+<td align="center">150 % BR</td>
+</tr>
+<tr>
+<td align="center">Prothèses dentaires non remboursées par la sécurité sociale (*)</td>
+<td align="center">250 % BR</td>
+</tr>
+<tr>
+<td align="center">Orthodontie acceptée par la sécurité sociale</td>
+<td align="center">200 % BR</td>
+</tr>
+<tr>
+<td align="center">Orthodontie refusée par la sécurité sociale (*)</td>
+<td align="center">200 % BR</td>
+</tr>
+<tr>
+<td align="center">Actes dentaires hors nomenclature</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Paradontologie</td>
+<td align="center">Crédit annuel de 200 € par bénéficiaire</td>
+</tr>
+<tr>
+<td align="center">Implants dentaires</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">Prothèses non dentaires (acceptée par la sécurité sociale)</td>
+</tr>
+<tr>
+<td align="center">Prothèses auditives</td>
+<td align="center">RSS + crédit annuel de 400 € par bénéficiaire</td>
+</tr>
+<tr>
+<td align="center">Orthopédie et autres prothèses</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">Optique</td>
+</tr>
+<tr>
+<td align="center">Monture + verres</td>
+<td align="center">Limité à un équipement par an et par bénéficiaire</td>
+</tr>
+<tr>
+<td align="center">Monture</td>
+<td align="center">RSS + 100 € (**)</td>
+</tr>
+<tr>
+<td align="center">Verres unifocaux simples (1)</td>
+<td align="center">RSS + 50 € (**) par verre</td>
+</tr>
+<tr>
+<td align="center">Verres unifocaux complexes (2)</td>
+<td align="center">RSS + 81 € (**) par verre</td>
+</tr>
+<tr>
+<td align="center">Verres multifocaux ou progressifs simples (3)</td>
+<td align="center">RSS + 81 € (**) par verre</td>
+</tr>
+<tr>
+<td align="center">Verres multifocaux ou progressifs complexes (4)</td>
+<td align="center">RSS + 120 € (**) par verre</td>
+</tr>
+<tr>
+<td align="center">Lentilles acceptées par la sécurité sociale</td>
+<td align="center">RSS + crédit annuel de 220 € la paire<br/>et par bénéficiaire</td>
+</tr>
+<tr>
+<td align="center">Lentilles refusées par la sécurité sociale (y compris lentilles jetables) (*)</td>
+<td align="center">Crédit annuel de 220 € la paire<br/>et par bénéficiaire</td>
+</tr>
+<tr>
+<td align="center" colspan="2">Prévention (décret n° 2005-1226 du 29 septembre 2005 et de ses arrêtés subséquents)</td>
+</tr>
+<tr>
+<td align="center">Scellement prophylactique des puits, sillons et fissures (SC8), sous réserve que l'acte soit effectué sur les première et deuxième molaires permanentes, qu'il n'intervienne qu'une fois par dent et qu'il soit réalisé en cas de risque carieux et avant le 14e anniversaire</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Un détartrage annuel complet sus et sous-gingival effectué en deux séances maximum (SC12)</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Bilan du langage oral et/ou bilan d'aptitudes à l'acquisition du langage écrit (AMO24), à condition qu'il s'agisse d'un premier bilan réalisé chez un enfant de moins de 14 ans</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Dépistage de l'hépatite B (codes NABM 4713, 4714, 0323, 0351)</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Dépistage une fois tous les 5 ans des troubles de l'audition chez les personnes âgées de plus de 50 ans pour un des actes suivants :</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">- audiométrie tonale ou vocale (CDQP010)</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- audiométrie tonale avec tympanométrie (CDQP015)</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- audiométrie vocale dans le bruit (CDQP011)</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- audiométrie tonale et vocale (CDQP012)</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- audiométrie tonale et vocale tympanométrie (CDQP002)</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">L'acte d'ostéodensitométrie remboursable par l'assurance maladie obligatoire ; sans préjudice des conditions d'inscription de l'acte sur la liste mentionnée à l'article L. 162-1-7, la prise en charge au titre du présent arrêté est limitée aux femmes de plus de 50 ans, une fois tous les 6 ans</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">Les vaccinations suivantes, seules ou combinées :</td>
+<td align="center">100 % BR</td>
+</tr>
+<tr>
+<td align="center">- de la diphtérie, du tétanos et de la poliomyélite, et ce quel que soit l'âge</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- de la coqueluche avant 14 ans</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- de l'hépatite B avant 14 ans</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- du BCG avant 6 ans</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- de la rubéole pour les adolescentes qui n'ont pas été vaccinées et pour les femmes non immunisées désirant un enfant</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">- de l'haemophilus influenzae B (vaccination contre les infections invasives à pneumocoques pour les enfants de moins de 18 mois)</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">Actes hors nomenclature</td>
+</tr>
+<tr>
+<td align="center">Acupuncture, chiropractie, ostéopathie. Intervention de praticiens inscrits auprès d'une association agréée</td>
+<td align="center">Prise en charge de 25 € par consultation<br/>avec un maximum de 7 prises en charge par an</td>
+</tr>
+<tr>
+<td align="center" colspan="2">Les postes exprimés en crédit annuel s'entendent par année civile.<br/>BR : base de remboursement ; RSS : remboursement sécurité sociale.<br/>(*) Remboursé selon conditions définies nonobstant toutes interventions de la sécurité sociale.<br/>(**) Montant annuel par bénéficiaire.<br/>Détail poste optique :<br/>(1) Verres unifocaux simples : LPP 22 61874 - 22 42457 - 22 00393 - 22 70413 - 22 03240 - 22 87916 - 22 59966 - 22 26412.<br/>(2) Verres unifocaux complexes : LPP 22 43540 - 22 87441 - 22 43304 - 22 91088 - 22 73854 - 22 48320 - 22 83953 - 22 19381 - 22 38941 - 22 68385 - 22 45036 - 22 06800 - 22 82793 - 22 63459 - 22 80660 - 22 65330 - 22 35776 - 22 95896 - 22 84527 - 22 54868 - 22 12976 - 22 52668 - 22 88519 - 22 99523.<br/>(3) Verres multifocaux simples : LPP 22 59245 - 22 64045 - 22 40671 - 22 82221 - 22 90396 - 22 91183 - 22 27038 - 22 99180.<br/>(4) Verres multifocaux complexes : LPP 22 38792 - 22 02452 - 22 34239 - 22 59660 - 22 45384 - 22 95198 - 22 02239 - 22 52042.</td>
+</tr>
+</tbody>
+</table>
+
+<div align="center">
+
+</div>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000025773759" datesignatexte="2011-09-07" id="KALIARTI000025773765" naturetexte="Avenant" nortexte="ASET1250297M" num="2" numtexte="3" sens="cible" typelien="MODIFIE">Avenant à l'avenant n° 15 relatif aux frais de ... - art. 2 (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

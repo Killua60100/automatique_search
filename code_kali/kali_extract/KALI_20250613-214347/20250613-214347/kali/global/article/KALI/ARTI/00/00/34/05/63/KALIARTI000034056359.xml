@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000034056359</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/34/05/63/KALIARTI000034056359.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>SALAIRES</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-02-17</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="KALISCTA000028053375">ANNEXES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028059897">Annexe II : Techniciens de la production cinématographique - &#13;
+Grille des durées hebdomadaires de travail comprenant des durées d'équivalence&#13;
+&#13;
+</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028338719">Grille des durées hebdomadaires de travail comprenant des durées d'équivalence</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2017-02-17" id="KALIARTI000028053402" num="" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2017-02-17" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000034056359" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">Annexe II </p>
+<p align="center">Techniciens de la production cinématographique </p>
+<p>Grille de salaires minima hebdomadaires comprenant des durées d'équivalence : </p>
+<p>En référence aux dispositions de l'article 30 de la présente  convention, pour les périodes de tournage exclusivement et pour  certaines catégories de fonctions ci-après fixées, le nombre d'heures  hebdomadaires de travail effectif minimum garanti et rémunéré s'inscrit  dans une durée d'équivalence fixée respectivement sur la base de 1  semaine de travail en 5 jours et sur la base de 1 semaine de travail en 6  jours, ainsi que défini ci-après. <br/>Salaires minimaux  garantis correspondant aux heures de travail effectif incluant les  seules majorations définies à l'article 37, chapitre VI, et ne sont pas  exclusifs de l'application des autres majorations spécifiques fixées  dans le présent accord. </p>
+<table border="1">
+<tbody>
+<tr>
+<th align="center">Fonction </th>
+<th align="center" colspan="3">Hebdomadaire sur 5 jours de tournage </th>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Heures <br/>de travail effectif </td>
+<td align="center">Durée incluant la durée d'équivalence </td>
+<td align="center">Salaires </td>
+</tr>
+<tr>
+<td align="center">1er assistant <br/>costumes cinéma </td>
+<td align="center">43 </td>
+<td align="center">46 </td>
+<td align="center">1 462,50 </td>
+</tr>
+<tr>
+<td align="center">Fonction </td>
+<td align="center" colspan="3">hebdomadaire sur 6 jours de tournage </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Heures <br/>de travail effectif </td>
+<td align="center">Durée incluant la durée d'équivalence </td>
+<td align="center">Salaires </td>
+</tr>
+<tr>
+<td align="center">1er assistant <br/>costumes cinéma </td>
+<td align="center">52 </td>
+<td align="center">56 </td>
+<td align="center">1 933,75 </td>
+</tr>
+</tbody>
+</table>
+<p>(voir textes salaires) </p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000033017140" datesignatexte="2016-01-15" id="KALIARTI000033017146" naturetexte="Avenant" nortexte="ASET1650669M" num="3" numtexte="" sens="cible" typelien="MODIFIE">Dispositions relatives à la branche costume (ti... - art. 3 (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

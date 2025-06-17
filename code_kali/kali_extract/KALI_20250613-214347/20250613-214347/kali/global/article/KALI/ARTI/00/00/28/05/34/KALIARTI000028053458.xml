@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028053458</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/05/34/KALIARTI000028053458.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>15</NUM>
+<TITRE>Expiration, suspension et rupture du contrat à durée déterminée de droit commun et du contrat à durée déterminée d'usage</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-08-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053379">Chapitre IV Contrats de travail</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053458" num="15" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>A l'expiration du contrat de travail, il sera remis au salarié le solde des rémunérations exigibles ainsi que tous documents prévus par la réglementation en vigueur.<br/>Le contrat de travail cesse de plein droit à l'échéance du terme, soit à la date initialement prévue, soit lorsque l'objet pour lequel il a été conclu est réalisé.<br/>La suspension du contrat ne fait pas obstacle à l'échéance du terme.<br/>Le contrat de travail peut être rompu avant le terme initialement prévu ou la fin de la période minimale d'engagement en cas de faute grave ou lourde ou en cas de force majeure.<br/>En cas de force majeure compromettant définitivement la poursuite de l'exécution du contrat de travail, le contrat prend fin et le salarié percevra une indemnité équivalente aux rémunérations qu'il aurait perçues s'il avait travaillé jusqu'au terme du contrat en cas de contrat à terme précis ou jusqu'à la fin de la durée minimale de travail lorsque le contrat est conclu sans terme précis, conformément à l'article L. 1243-4, alinéa 2, du code du travail.<br/>En cas de force majeure compromettant provisoirement la poursuite de l'exécution du contrat de travail, le contrat est suspendu et reprend effet lorsque la cause de force majeure a disparu. Le salarié devra reprendre le travail et poursuivre l'exécution du contrat jusqu'au terme initialement prévu si celui-ci n'est pas encore échu.<br/>Le contrat de travail pourra également être rompu avant le terme initialement prévu ou la fin de la période minimale d'engagement d'un commun accord entre les parties, formulé par écrit.<br/>En cas de non-exécution ou de résiliation du contrat par l'employeur pour des raisons autres que celles qui sont évoquées aux paragraphes ci-dessus, l'employeur est tenu au paiement de l'intégralité des sommes représentant la totalité de la rémunération jusqu'au terme du contrat en cas de contrat de date à date ou jusqu'à la fin de la durée minimale d'engagement lorsque le contrat est conclu sans terme précis.<br/>De plus, les parties pourront stipuler dans le contrat un dédit forfaitaire qui sera dû en cas de non-exécution totale ou partielle de l'engagement du fait de l'employeur. Ce dédit forfaitaire s'ajoutera à la rémunération prévue à l'alinéa ci-dessus.<br/>En cas de non-exécution ou de rupture injustifiée du contrat par le salarié, l'employeur aura la faculté de réclamer à celui-ci une indemnité pour le préjudice qui lui aura ainsi été causé, conformément à l'article L. 1243-3 du code du travail.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901214" naturetexte="CODE" nortexte="" num="L1243-3" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1243-3</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901215" naturetexte="CODE" nortexte="" num="L1243-4" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L1243-4</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

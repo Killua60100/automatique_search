@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841404</ID>
+<ANCIEN_ID>KBCAAXXXXXX00038XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/14/KALIARTI000005841404.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>38</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE>Crée par Avenant n° 45 du 19 novembre 2002 art. 2 en vigueur le 1er janvier 2003 BO conventions collectives 2002-51 étendu par arrêté du 9 octobre 2003 JORF 21 octobre 2003.</HISTORIQUE>
+<DATE_DEBUT>2003-01-01</DATE_DEBUT>
+<DATE_FIN>2005-02-03</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-01-01" fin="2999-01-01" id="KALISCTA000005750745">Section 5 : Congés</TITRE_TM>
+<TM>
+<TITRE_TM debut="2003-01-01" fin="2999-01-01" id="KALISCTA000005761315">Le travail des jours fériés.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-07-21" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021689831" num="38" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2003-01-01" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841404" num="38" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2005-02-03" etat="REMPLACE" fin="2009-07-21" id="KALIARTI000005841405" num="38" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Une contribution fixée en pourcentage de la masse salariale servant d'assiette à la contribution au financement de la formation professionnelle continue est instituée dans chaque entreprise relevant de la présente convention, afin de financer la commission nationale paritaire et le dialogue social.</p>
+<p>Cette contribution est recouvrée par l'OPCAD en même temps et dans les mêmes conditions que celle affectée au financement de la formation professionnelle continue.</p>
+<p>Cette contribution est composée :<br/>
+- d'une part A de 0,08 % reversée à l'association paritaire interprofessionnelle nationale pour le développement du dialogue social.<br/>
+L'objectif de cette contribution étant de valoriser les métiers de l'artisanat en concertation avec les organisations syndicales de salariés, de développer en concertation l'information des salariés sur les dispositions conventionnelles, de renforcer la présence de représentants d'entreprise dans les négociations paritaires de branche et interprofessionnelles ;<br/>
+- d'une part B, fixée à 0,08 %, qui est reversée mensuellement par l'OPCAD à la confédération nationale de la pâtisserie, afin de financer les réunions paritaires et le dialogue social dans la branche, d'informer, de sensibiliser les chefs d'entreprise au recrutement, à la gestion des ressources humaines, d'étudier au niveau national des solutions pour pallier les difficultés de recrutement, en répartissant ses fonds entre elle-même, les organisations syndicales de salariés représentatives au niveau national et la confédération nationale de la glacerie de France.</p>
+<p>
+<font color="808080">
+<em>NOTA : Arrêté du 9 octobre 2003 art. 1 : le deuxième alinéa de l'article 38 (financement du dialogue social) est étendu sous réserve de la mise en place d'une comptabilité séparée en application des dispositions du deuxième alinéa de l'article L. 961-12 du code du travail.</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

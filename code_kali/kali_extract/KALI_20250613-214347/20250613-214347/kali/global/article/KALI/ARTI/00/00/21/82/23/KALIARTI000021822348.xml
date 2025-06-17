@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021822348</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/82/23/KALIARTI000021822348.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>25</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-06-22</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2009-06-22" id="KALISCTA000005690428">Maladie. - Invalidité définitive. - Décès (ex-art. 24)</TITRE_TM>
+<TITRE_TM debut="2009-06-22" fin="2999-01-01" id="KALISCTA000021822351">Absences pour maladie et accident -Maladie. - Invalidité définitive. - Décès</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-01-01" etat="REMPLACE" fin="2009-06-22" id="KALIARTI000018649451" num="25" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="2004-02-12" id="KALIARTI000005767319" num="25" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2004-02-12" etat="REMPLACE" fin="2004-02-12" id="KALIARTI000005767320" num="25" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2004-02-12" etat="REMPLACE" fin="2006-09-21" id="KALIARTI000005767321" num="25" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2006-09-21" etat="REMPLACE" fin="2007-07-20" id="KALIARTI000005767322" num="25" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-06-22" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021822348" num="25" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">A. - Garantie d'emploi (1)</p>
+<p>1. Une absence résultant d'une maladie ou d'un accident de la vie privée dont, sauf cas de force majeure, l'employeur est averti dans les 48 heures, et dont la justification lui est fournie par l'intéressé dans les 3 jours (le cachet de la poste faisant foi), ne constitue pas une rupture du contrat de travail.</p>
+<p>2. L'emploi est garanti à l'intéressé pendant les périodes ci-dessous :</p>
+<p>- moins de 1 an de présence : 2 mois ;</p>
+<p>- entre 1 et 5 ans de présence : 6 mois ;</p>
+<p>- plus de 5 ans de présence : 8 mois.</p>
+<p>L'ancienneté s'apprécie au premier jour de l'absence.</p>
+<p>3. Si, à l'expiration de la période d'absence pour maladie, le médecin du travail constate une incapacité à réintégrer l'emploi précédemment tenu, l'employeur doit proposer à l'intéressé un emploi de même niveau, dans la limite des postes disponibles.</p>
+<p>4. En cas de longue maladie, le salarié malade devra notifier à la direction, dans les 15 jours précédant l'expiration de son indisponibilité, son intention de reprendre le travail. Celui-ci ne pourra recommencer qu'après la visite médicale de reprise.</p>
+<p>5. Dans le cas où une incapacité médicalement constatée aurait empêché le malade ou l'accidenté de reprendre son travail dans les délais prévus ci-dessus, il bénéficierait pendant une durée de 6 mois à compter de la fin de son indisponibilité d'un droit de préférence pour réembauchage.</p>
+<p>Pour bénéficier de ce droit de préférence, l'intéressé devra notifier à la direction, dans les 15 jours suivant l'expiration de son indisponibilité, son intention de s'en prévaloir.</p>
+<p align="center">B.- Indemnisation de la maladie</p>
+<p align="left">Dès lors que le salarié justifie de 1 année d'ancienneté, chaque maladie dûment constatée par certificat médical donne lieu au versement des indemnités ci-après :</p>
+<p>De 1 an à 2 ans d'ancienneté :</p>
+<p>- 90 % du salaire brut du 8e au 37e jour d'arrêt ;</p>
+<p>- 66 % du salaire brut du 38e au 67e jour d'arrêt ;</p>
+<p>- 60 % du salaire brut du 68e au 183e jour d'arrêt.</p>
+<p>De 2 ans à 3 ans d'ancienneté :</p>
+<p>- 90 % du salaire brut du 8e au 37e jour d'arrêt ;</p>
+<p>- 70 % du salaire brut du 38e au 183e jour d'arrêt.</p>
+<p>Après 3 ans d'ancienneté :</p>
+<p>- 90 % du salaire brut du 8e au 40e jour d'arrêt ;</p>
+<p>- 70 % du salaire brut du 41e au 183e jour d'arrêt.</p>
+<br/>
+<p>C. - Conditions d'indemnisation</p>
+<p>1. L'ancienneté prise en compte pour la détermination du droit à indemnisation s'apprécie au 1er jour de l'absence.</p>
+<p>Pour le calcul de l'ancienneté, toutes les périodes de travail accomplies dans la même entreprise, dans le cadre d'un contrat de travail, seront prises en compte.</p>
+<p>2. Les pourcentages d'indemnisation s'appliquent sur la base du salaire brut qui aurait été effectivement perçu par le salarié s'il avait assuré son travail.</p>
+<p>3. Pour le calcul des indemnités dues au titre d'une période de paie, il sera tenu compte des indemnités déjà perçues par l'intéressé durant les 12 mois antérieurs de telle sorte que, si plusieurs absences pour maladie ont été indemnisées au cours de ces 12 mois, la durée totale d'indemnisation ne dépasse pas celle prévue à l'article 25.B.</p>
+<p>4. Le régime ci-dessus s'entend y compris les prestations de sécurité sociale perçues par le salarié. Il ne se cumule pas avec tout autre régime ayant le même objet.</p>
+<p>5. Le paiement sera effectué sur présentation du décompte de la sécurité sociale portant indication des prestations versées. En aucun cas, l'intéressé ne pourra percevoir une rémunération supérieure à celle perçue s'il avait travaillé normalement.</p>
+<p>6. La présente convention ne remet pas en cause la répartition, entre employeur et salarié, de la charge des couvertures existant dans chaque entreprise à ce jour.</p>
+<p>Par contre, le financement de l'amélioration globale de ces régimes découlant de la convention collective, par rapport aux situations existant dans chaque entreprise, est à la charge de l'employeur, chaque entreprise restant libre de négocier paritairement les conditions financières de régimes allant au-delà de la convention collective.</p>
+<p align="center">D. - Capital décès</p>
+<br/>
+<p>Les parties signataires ont souhaité mettre en place dans la branche de la restauration collective une indemnisation de l'invalidité définitive ou du décès dont les conditions de mise en œuvre devront être négociées au sein des entreprises.</p>
+<p>Toutefois, les parties signataires conviennent que cette indemnisation ne pourra être inférieure à 6 mois de salaire minimum mensuel du salarié au moment de l'événement ayant entraîné l'invalidité ou le décès.</p>
+<p>Le taux de cotisation pour la couverture des risques définis au 1er alinéa sera réparti, au sein de chaque entreprise, à parts égales au minimum entre employeur et salarié.</p>
+<p>Si cette garantie capital décès s'inscrit dans le cadre d'un ensemble déterminé de prestations relatives à la prévoyance, la répartition de la cotisation entre salarié et employeur relative au capital décès, telle que visée ci-dessus, s'appréciera en tenant compte des dispositions applicables au sein de chaque entreprise et relatives à la prévoyance.</p>
+<p>
+<em>
+<font color="#999999">(1) Paragraphe A étendu sous réserve de l'application des articles L. 122-4 et suivants du code du travail (arrêté du 2 février 1984, art. 1er).</font>
+</em>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021802570" datesignatexte="2009-06-22" id="KALIARTI000021802578" naturetexte="Avenant" nortexte="ASET0951119M" num="3" numtexte="45" sens="cible" typelien="MODIFIE">Transposition de la loi relative à la modernisa... - art. 3 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

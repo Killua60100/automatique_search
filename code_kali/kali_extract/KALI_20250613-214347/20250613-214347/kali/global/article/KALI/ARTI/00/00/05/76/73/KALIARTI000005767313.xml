@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767313</ID>
+<ANCIEN_ID>KGOAAXXXXXX00019XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767313.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>19</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CONGES_EXCEPTIONNELS</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690421">Congés spéciaux (ex-art.  18)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1984-02-17" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005767313" num="19" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Des congés spéciaux ne donnant pas lieu de diminution de salaire sont accordés, sur justification, aux salariés dans les conditions suivantes, sans condition de temps de présence :</p>
+<p>- naissance ou adoption d'un enfant à son foyer : 3 jours ouvrés ;</p>
+<p>- décès du conjoint ou d'un enfant : 3 jours ouvrés ;</p>
+<p>- décès du père, de la mère, des beaux-parents et grands-parents : 2 jours ouvrés ;</p>
+<p>- décès des frères et sœurs, beaux-frères et belles-sœurs : 1 jour ouvré ;</p>
+<p>- présélection militaire : 3 jours ouvrés ;</p>
+<p>- mariage du salarié : 5 jours ouvrés ;</p>
+<p>- mariage d'un enfant : 1 jour ouvré ;</p>
+<p>- déménagement du fait de l'employeur : un jour ouvré.</p>
+<p>En outre, pour les salariés se rendant à un événement listé ci-dessus distant de plus de 300 kilomètres du lieu de travail des autorisations d'absence non rémunérées seront accordées par les employeurs.</p>
+<p>Les congés sont à prendre au moment des événements en cause.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

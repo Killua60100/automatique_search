@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000021822339</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/21/82/23/KALIARTI000021822339.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>12</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>PREAVIS</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2009-06-22</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2009-06-22" id="KALISCTA000005690413">Période d'essai des contrats à durée indéterminée et durée de préavis en cas de rupture au cours de la période d'essai renouvelée (ex-art. 11)</TITRE_TM>
+<TITRE_TM debut="2009-06-22" fin="2999-01-01" id="KALISCTA000021822341">Période d'essai des contrats à durée indéterminée et délai de prévenance en cas de rupture de la période d'essai</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="2009-06-22" id="KALIARTI000005767297" num="12" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-06-22" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021822339" num="12" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Tout salarié peut être soumis par l'employeur à une période d'essai. Celle-ci ne se présume pas et doit être expressément stipulée dans le contrat de travail.</p>
+<p>La période d'essai peut être renouvelée une fois sous réserve que cette possibilité soit expressément prévue dans le contrat de travail.</p>
+<p align="center">Article 12.1</p>
+<p align="center">Durées maximales de la période d'essai</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>STATUT</th>
+<th>PÉRIODE D'ESSAI</th>
+<th>RENOUVELLEMENT<br/>
+			de la période d'essai</th>
+</tr>
+<tr>
+<td align="center">Cadres supérieurs (*)</td>
+<td align="center">4 mois</td>
+<td align="center">4 mois</td>
+</tr>
+<tr>
+<td align="center">Cadres</td>
+<td align="center">4 mois</td>
+<td align="center">2 mois</td>
+</tr>
+<tr>
+<td align="center">Agents de maîtrise</td>
+<td align="center">3 mois</td>
+<td align="center">1 mois</td>
+</tr>
+<tr>
+<td align="center">Employés</td>
+<td align="center">2 mois</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td colspan="3">(*) Tels que définis dans l'avenant n° 25 relatif à l'aménagement et à la réduction du temps de travail.</td>
+</tr>
+</tbody>
+</table>
+
+<p>Des périodes d'essai plus courtes peuvent être prévues dans le contrat de travail ou la lettre d'engagement.</p>
+<p align="center">Article 12.2</p>
+<p align="center">Modalités du renouvellement de la période d'essai</p>
+<p>Le renouvellement de la période d'essai devra faire l'objet d'un accord écrit signé des deux parties, avant la fin de la période d'essai initiale.</p>
+<p>La période d'essai terminée, l'engagement est réputé conclu ferme.</p>
+<p align="center">Article 12.3</p>
+<p align="center">Prise en compte dans la période d'essai des stages effectués dans l'entreprise</p>
+<p>En cas d'embauche dans l'entreprise, en contrat à durée indéterminée sur le même poste, à l'issue d'un stage intégré à un cursus pédagogique réalisé lors de la dernière année d'études, la durée du stage sera prise en compte sans que cela ait pour effet de réduire la période d'essai de plus de la moitié.</p>
+<p align="center">Article 12.4</p>
+<p align="center">Prise en compte dans la période d'essai de la durée d'un contrat à durée déterminée effectué dans l'entreprise</p>
+<p>Lorsque, à l'issue d'un contrat à durée déterminée, la relation contractuelle se poursuit immédiatement par un contrat à durée indéterminée, sur un même emploi exercé dans les mêmes conditions ou dans des conditions analogues, la durée du contrat à durée déterminée est déduite de la période d'essai éventuellement prévue par le nouveau contrat.</p>
+<p align="center">Article 12. 5</p>
+<p align="center">Délai de prévenance en cas de rupture de la période d'essai</p>
+<p>Pendant la période d'essai, chacune des parties peut rompre le contrat de travail à tout moment sans indemnité sous réserve de respecter un délai de prévenance dont la durée est fonction de la durée de présence du salarié dans l'entreprise et de l'auteur de la rupture.</p>
+<p align="center">Rupture à l'initiative de l'employeur</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>DURÉE DE PRÉSENCE DANS L'ENTREPRISE</th>
+<th>DÉLAI DE PRÉVENANCE</th>
+</tr>
+<tr>
+<td align="center">Moins de 8 jours</td>
+<td align="center">24 heures</td>
+</tr>
+<tr>
+<td align="center">De 8 jours à 1 mois</td>
+<td align="center">48 heures</td>
+</tr>
+<tr>
+<td align="center">Après 1 mois</td>
+<td align="center">2 semaines</td>
+</tr>
+<tr>
+<td align="center">Après 3 mois</td>
+<td align="center">1 mois</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">Rupture à l'initiative du salarié</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>DURÉE DE PRÉSENCE DANS L'ENTREPRISE</th>
+<th>DÉLAI DE PRÉVENANCE</th>
+</tr>
+<tr>
+<td align="center">Moins de 8 jours</td>
+<td align="center">24 heures</td>
+</tr>
+<tr>
+<td align="center">8 jours ou plus</td>
+<td align="center">48 heures</td>
+</tr>
+</tbody>
+</table>
+
+<p>Le délai de prévenance ne peut avoir pour effet de prolonger la période d'essai au-delà des maxima prévus à l'article 12.1.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>entre en vigueur le jour suivant la publication au Journal officiel de l'arrêté d'extension.</CONDITION_DIFFERE>
+<LIENS>
+<LIEN cidtexte="KALITEXT000021802570" datesignatexte="2009-06-22" id="KALIARTI000021802574" naturetexte="Avenant" nortexte="ASET0951119M" num="1" numtexte="45" sens="cible" typelien="MODIFIE">Transposition de la loi relative à la modernisa... - art. 1 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

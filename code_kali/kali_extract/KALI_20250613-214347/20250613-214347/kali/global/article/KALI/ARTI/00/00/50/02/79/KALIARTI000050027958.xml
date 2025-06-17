@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050027958</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/02/79/KALIARTI000050027958.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>4.1</NUM>
+<TITRE>Présentation du CQP</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050027943" date_publi="2024-07-18" date_signature="2024-05-22" nature="Accord" nor="ASET2450548M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="CQP et CQPI" debut="2025-07-01" fin="2999-01-01" id_txt="KALITEXT000050027943">Accord du 22 mai 2024 relatif aux CQP et aux CQPI</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027948">Chapitre 2 Certificats de qualification professionnelle (CQP)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635597" date_publi="1953-03-06" etat="VIGUEUR_ETEN" nature="IDCC" num="45" titre="Convention collective nationale du caoutchouc du 6 mars 1953. Étendue par arrêté du 29 mai 1969 JORF 18 juin 1969 " url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635597.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027958" num="4.1" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le CQP s'appuie sur :<br/>
+– un référentiel d'activités permettant d'analyser les situations de travail et d'en déduire les connaissances et les compétences nécessaires ;<br/>
+– et sur un référentiel de certification, qui définit le niveau de qualification selon la nomenclature européenne des niveaux de diplômes, les modalités et les critères d'évaluation des acquis.</p>
+<p align="left">Le référentiel d'activités et le référentiel de certification sont complétés d'un ou de plusieurs référentiels de formation prenant en considération d'une part, la diversité des modes d'acquisition d'une certification professionnelle et d'autre part, la diversité des modalités pédagogiques en vue de favoriser l'individualisation des parcours professionnels.</p>
+<p align="left">Les référentiels de compétences des CQP de la branche du caoutchouc sont organisés sur la base de blocs de compétences pour lesquels sont définis les modalités d'évaluation et les critères d'évaluation.</p>
+<p align="left">L'évaluation des compétences du candidat s'effectue bloc par bloc. Les blocs de compétences peuvent être obtenus indépendamment les uns des autres.</p>
+<p align="left">Chaque CQP fait l'objet d'une demande d'inscription au Répertoire national des certifications professionnelles (RNCP) selon les modalités déterminées par France compétences. L'enregistrement du CQP entraîne l'attribution, par France compétences, pour chaque bloc de compétences du CQP, d'un numéro d'enregistrement propre.</p>
+<p align="left">Les référentiels des CQP créés sont tenus à jour par la CPNEFP.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767324</ID>
+<ANCIEN_ID>KGOAAXXXXXX00026XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/73/KALIARTI000005767324.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>26</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>2009-06-22</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690429">Accidents du travail et maladies professionnelles </TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="2009-06-22" id="KALIARTI000005767324" num="26" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2009-06-22" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000021822353" num="26" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="center">A. - Garantie de l'emploi</p>
+<p>Le salarié victime d'un accident du travail ou de trajet reconnu comme accident de travail, ou d'une maladie professionnelle, au service de l'employeur qui l'occupe au moment de l'événement, bénéficie des garanties d'emploi, et éventuellement d'indemnisation, prévues aux articles L. 122-32-1 à L. 122-32-9 du code du travail.</p>
+<p align="center">B. - Indemnisation accidents du travail (1)</p>
+<p>En cas d'accident du travail, d'accident de trajet reconnu comme accident du travail par la sécurité sociale, ou de maladie professionnelle, le salarié aura droit au versement des indemnités ci-après :</p>
+<p>- de 7 mois à 2 ans : 80 % du salaire brut du 1er au 91e jour d'arrêt, 85 % du salaire brut du 92e au 183e jour d'arrêt ;</p>
+<p>- plus de 2 ans d'ancienneté : 90 % du salaire brut du 1er jour au 30e jour d'arrêt, 85 % du salaire brut du 31e jour au 183e jour d'arrêt.</p>
+<p align="center">C. - Conditions d'indemnisation</p>
+<p>1. L'ancienneté prise en compte pour la détermination du droit à l'indemnisation s'apprécie au premier jour de l'absence.</p>
+<p>2. Les pourcentages d'indemnisation s'appliquent sur la base du salaire brut qui aurait été effectivement perçu par le salarié s'il avait assuré son travail.</p>
+<p>3. Le régime ci-dessus s'entend y compris les prestations de sécurité sociale perçues par le salarié. Il ne se cumule pas avec tout autre régime ayant le même objet.</p>
+<p>4. Le paiement sera effectué sur présentation du décompte de la sécurité sociale portant indication des prestations versées. En aucun cas, l'intéressé ne pourra recevoir une rémunération supérieure à celle perçue s'il avait travaillé normalement.</p>
+<p>5. La présente convention ne remet pas en cause la répartition, entre employeur et salarié, de la charge des couvertures existantes dans chaque entreprise à ce jour.</p>
+<p>Par contre, le financement de l'amélioration globale de ces régimes, découlant de la convention collective par rapport aux situations existantes dans chaque entreprise, est à la charge de l'employeur ; chaque entreprise restant libre de négocier paritairement les conditions financières de régimes allant au-delà de la convention collective.</p>
+<p>
+<font color="#808080" size="1">
+<em>(1) Paragraphe B étendu sans préjudice de l'application de la loi n° 78-49 du 19 janvier 1978 (art. 7 de l'accord annexé) (arrêté du 2 février 1984, art. 1er).</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

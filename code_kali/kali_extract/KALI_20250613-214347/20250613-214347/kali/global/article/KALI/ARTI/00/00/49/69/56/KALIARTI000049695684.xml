@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000049695684</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/49/69/56/KALIARTI000049695684.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>20-3-G</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-01-01</DATE_DEBUT>
+<DATE_FIN>2025-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-04-26" fin="2999-01-01" id="KALISCTA000023212344">Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2010-04-26" fin="2999-01-01" id="KALISCTA000023212316">Cotisations</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2024-01-01" etat="REMPLACE" fin="2025-01-01" id="KALIARTI000049695684" num="20-3-G" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2010-04-26" etat="REMPLACE" fin="2021-07-01" id="KALIARTI000023212314" num="20-3-G" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051566776" num="20-3-G" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2021-07-01" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000045460035" num="20-3-G" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2023-01-01" etat="REMPLACE" fin="2024-01-01" id="KALIARTI000047365229" num="20-3-G" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p align="left">Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation sociale et fiscale en vigueur au moment de la prise d'effet du présent régime. Les cotisations seront revues sans délai en cas de changement de ces textes.</p>
+<p align="left">La cotisation du régime « remboursement complémentaire de frais de soins de santé » est mensuelle et forfaitaire.</p>
+<p align="left">La cotisation mensuelle, exprimée en euros, est fixée et détaillée ci-dessous :</p>
+
+<table border="1">
+<tbody>
+<tr>
+<th>Base actifs</th>
+<th>Régime général</th>
+<th>Régime local</th>
+</tr>
+<tr>
+<td align="center">Salarié</td>
+<td align="center">55 €</td>
+<td align="center">35 €</td>
+</tr>
+</tbody>
+</table>
+
+<p align="left">La contribution de l'employeur devra être au minimum de 50 % de la cotisation.</p>
+<p align="left">Les cotisations sont dues pour la totalité du mois au cours duquel les garanties sont accordées.</p>
+<p align="left">En cas d'arrêt de travail pour accident du travail ou maladie professionnelle de plus de 8 mois, le salarié bénéficiera du maintien des garanties sans paiement des cotisations pendant 12 mois à compter du 1er jour du 9e mois d'arrêt de travail.</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000049692918" datesignatexte="2023-12-05" id="KALIARTI000049692922" naturetexte="Avenant" nortexte="ASET2450370M" num="1er" numtexte="53" sens="cible" typelien="MODIFIE">Remboursement de frais de soins de santé - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

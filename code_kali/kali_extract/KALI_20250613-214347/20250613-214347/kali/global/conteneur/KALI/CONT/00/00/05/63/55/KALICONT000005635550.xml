@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635550</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635550.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire du 13 août 1999</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>2098</NUM>
+
+<DATE_PUBLI>2000-03-01</DATE_PUBLI>
+</META_CONTENEUR>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005679043" titretxt="Convention collective nationale du 13 août 1999"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005679323" titretxt="Avenant cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005679609" titretxt="Classification des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000005679681" titretxt="Annexe I - Les critères classants"/>
+<LIEN_TXT idtxt="KALITEXT000005679684" titretxt="Annexe II - Fourchette de correspondance du coefficient"/>
+<LIEN_TXT idtxt="KALITEXT000005679690" titretxt="Annexe III - Guide de profil des emplois"/>
+<LIEN_TXT idtxt="KALITEXT000005679694" titretxt="Annexe I (1) - SIST"/>
+<LIEN_TXT idtxt="KALITEXT000005679706" titretxt="Annexe II (1) - SNCAED"/>
+<LIEN_TXT idtxt="KALITEXT000005679718" titretxt="Annexe III (1) - Recouvrement de créances"/>
+<LIEN_TXT idtxt="KALITEXT000005679002" titretxt="Annexe IV (1) - Palais des congrès"/>
+<LIEN_TXT idtxt="KALITEXT000005679012" titretxt="Annexe V (1) - Information économique et commerciale"/>
+<LIEN_TXT idtxt="KALITEXT000005679026" titretxt="Annexe VI (1) - Traduction"/>
+<LIEN_TXT idtxt="KALITEXT000005679764" titretxt="Annexe VII - Salaires minimaux"/>
+<LIEN_TXT idtxt="KALITEXT000005679770" titretxt="Rémunération des encaisseurs dans le secteur du recouvrement de créances et renseignements commerciaux"/>
+<LIEN_TXT idtxt="KALITEXT000005679792" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005679887" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005679917" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005679926" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005679966" titretxt="Aménagement et réduction du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005680115" titretxt="Compte épargne-temps"/>
+<LIEN_TXT idtxt="KALITEXT000005679736" titretxt="Classifications"/>
+<LIEN_TXT idtxt="KALITEXT000005679750" titretxt="Réglement intérieur de la commission paritaire nationale de conciliation et d'interprétation"/>
+<LIEN_TXT idtxt="KALITEXT000005680151" titretxt="Aménagement et réduction du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005680161" titretxt="Jours RTT résultant de la réduction de la durée du travail"/>
+<LIEN_TXT idtxt="KALITEXT000005680167" titretxt="Application de la CCN à la filiale du Club Méditerranée"/>
+<LIEN_TXT idtxt="KALITEXT000005680173" titretxt="Saisine du 3 janvier 2001 par FO-SOFINREC, relative au lieu de travail des encaisseurs, à la révision annuelle des objectifs et aux indemnisations"/>
+<LIEN_TXT idtxt="KALITEXT000039097771" titretxt="Modification du champ d'application"/>
+<LIEN_TXT idtxt="KALITEXT000005680177" titretxt="Constitution d'un fonds commun d'aide au paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000005680214" titretxt="Salariés des centres d'appels non intégrés"/>
+<LIEN_TXT idtxt="KALITEXT000005680302" titretxt="Classification et frais de représentation des salariés des entreprises des services d'accueil"/>
+<LIEN_TXT idtxt="KALITEXT000005680353" titretxt="Dispositions spécifiques à l'accueil événementiel"/>
+<LIEN_TXT idtxt="KALITEXT000005680389" titretxt="Grilles de classification des salariés des centres d'appels non intégrés"/>
+<LIEN_TXT idtxt="KALITEXT000005680405" titretxt="Travail de nuit"/>
+<LIEN_TXT idtxt="KALITEXT000039097765" titretxt="Adhésion du SORAP"/>
+<LIEN_TXT idtxt="KALITEXT000005680490" titretxt="Constitution d'un fonds commun d'aide au paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000005680528" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005680530" titretxt="Secret professionnel et clause de non-concurrence"/>
+<LIEN_TXT idtxt="KALITEXT000018085598" titretxt="Avis interprétatif relatif au champ d'application de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000005680556" titretxt="Lettre d'adhésion de la fédération des commerces et des services UNSA à la convention collective nationale des prestataires de services dans le domaine du secteur tertiaire"/>
+<LIEN_TXT idtxt="KALITEXT000005680566" titretxt="Modification du champ d'application de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000005680584" titretxt="Accès des salariés à la formation tout au long de la vie professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000029312839" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000029312837" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005680839" titretxt="Mise à la retraite des salariés avant l'âge de 65 ans"/>
+<LIEN_TXT idtxt="KALITEXT000005680889" titretxt="Animation commerciale"/>
+<LIEN_TXT idtxt="KALITEXT000005680964" titretxt="Cotisations du régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005680970" titretxt="Accès des salariés à la formation tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000005680986" titretxt="Champ d'application de l'accord du 11 juillet 2005 portant sur la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000018773445" titretxt="Animation commerciale"/>
+<LIEN_TXT idtxt="KALITEXT000019348889" titretxt="Engagement des négociations"/>
+<LIEN_TXT idtxt="KALITEXT000019348898" titretxt="Prise en charge"/>
+<LIEN_TXT idtxt="KALITEXT000019427970" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000019385256" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000019349791" titretxt="Adhésion de la CFDT à l'avenant n° 5 à l'accord du 13 août 1999 relatif à la prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000019498484" titretxt="Avis interprétatif relatif à l'article 2 de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000021118391" titretxt="Egalité professionnelle entre les hommes et les femmes"/>
+<LIEN_TXT idtxt="KALITEXT000021802561" titretxt="Avis interprétatif"/>
+<LIEN_TXT idtxt="KALITEXT000022418779" titretxt="Animation commerciale"/>
+<LIEN_TXT idtxt="KALITEXT000022418792" titretxt="Avis interprétatif"/>
+<LIEN_TXT idtxt="KALITEXT000022425016" titretxt="Elargissement du champ d'application de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000022760224" titretxt="Maintien dans l'emploi et recrutement des seniors"/>
+<LIEN_TXT idtxt="KALITEXT000022870945" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000022870955" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000022870974" titretxt="Niveau de classification de l'enquêteur civil"/>
+<LIEN_TXT idtxt="KALITEXT000023105252" titretxt="Activité d'optimisation de linéaires"/>
+<LIEN_TXT idtxt="KALITEXT000023105292" titretxt="Emplois repères"/>
+<LIEN_TXT idtxt="KALITEXT000023375184" titretxt="Avenant à l'accord du 19 avril 2010 relatif au maintien dans l'emploi et au recrutement des travailleurs âgés"/>
+<LIEN_TXT idtxt="KALITEXT000023406035" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000023759352" titretxt="Répartition de la contribution légale au fonds paritaire de sécurisation des parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000024891474" titretxt="Ancienneté"/>
+<LIEN_TXT idtxt="KALITEXT000024891491" titretxt="Champ d'application"/>
+<LIEN_TXT idtxt="KALITEXT000024891502" titretxt="Classification professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000025053083" titretxt="Grille de classification des emplois du SORAP"/>
+<LIEN_TXT idtxt="KALITEXT000025063300" titretxt="Commission paritaire de validation des accords d'entreprise"/>
+<LIEN_TXT idtxt="KALITEXT000025392262" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000025392267" titretxt="Création du CQP « Chargé d'accueil »"/>
+<LIEN_TXT idtxt="KALITEXT000025392282" titretxt="Répartition de la contribution au FPSPP"/>
+<LIEN_TXT idtxt="KALITEXT000025991212" titretxt="Engagement des négociations"/>
+<LIEN_TXT idtxt="KALITEXT000025991222" titretxt="Prise en charge des réunions préparatoires dans le cadre de la négociation"/>
+<LIEN_TXT idtxt="KALITEXT000026085617" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000026976119" titretxt="Champ d'application de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000027012619" titretxt="Activité d'optimisation linéaire"/>
+<LIEN_TXT idtxt="KALITEXT000027147357" titretxt="Répartition de la contribution au FPSPP"/>
+<LIEN_TXT idtxt="KALITEXT000027147371" titretxt="Animation commerciale"/>
+<LIEN_TXT idtxt="KALITEXT000027666965" titretxt="Adhésion de la FEC FO à la convention"/>
+<LIEN_TXT idtxt="KALITEXT000028901328" titretxt="Avis interprétatif relatif aux dispositions spécifiques à l'animation commerciale"/>
+<LIEN_TXT idtxt="KALITEXT000028901350" titretxt="Dénonciation du collège patronal relative à la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000028900863" titretxt="Répartition de la contribution au FPSPP"/>
+<LIEN_TXT idtxt="KALITEXT000029217717" titretxt="Adhésion de l'AAEC à la convention"/>
+<LIEN_TXT idtxt="KALITEXT000029256618" titretxt="Dénoncation par le collège patronal des prestataires de services du secteur tertiaire de l'accord du 13 août 1999 et de ses avenants"/>
+<LIEN_TXT idtxt="KALITEXT000029358687" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000029584974" titretxt="Désignation d'un OPCA"/>
+<LIEN_TXT idtxt="KALITEXT000029732089" titretxt="Indemnisation des salariés participant à la commission mixte paritaire"/>
+<LIEN_TXT idtxt="KALITEXT000030068719" titretxt="Animation commerciale et optimisation linéaire"/>
+<LIEN_TXT idtxt="KALITEXT000030483215" titretxt="Fonds d'aide au paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000030483196" titretxt="Répartition de la contribution légale au fonds paritaire de sécurisation des parcours professionnels"/>
+<LIEN_TXT idtxt="KALITEXT000030483230" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000030778532" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000030778583" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000031964808" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000031964824" titretxt="Régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000031964913" titretxt="Frais de santé catégories objectives (avenant à l'accord du 25 septembre 2015)"/>
+<LIEN_TXT idtxt="KALITEXT000031915880" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000032283585" titretxt="Adhésion de la FEC FO aux accords relatifs à la prévoyance et aux frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000032452849" titretxt="Création du CQP « Télésecrétaire qualifié(e) »"/>
+<LIEN_TXT idtxt="KALITEXT000033016899" titretxt="Désignation d'un OPCA AGEFOS-PME"/>
+<LIEN_TXT idtxt="KALITEXT000033028587" titretxt="CQP « Chargé d'accueil »"/>
+<LIEN_TXT idtxt="KALITEXT000033016863" titretxt="Degré de solidarité du régime de prévoyance et de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000033084206" titretxt="Classification de l'enquêteur civil"/>
+<LIEN_TXT idtxt="KALITEXT000034202461" titretxt="Formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000035779661" titretxt="Création de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000036564295" titretxt="Contributions des entreprises à la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000036599721" titretxt="Frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000036599813" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000037111228" titretxt="Rectification de l'accord du 15 mai 2017 relatif à la création de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000037111249" titretxt="Rectification d'une erreur matérielle sur l'avenant du 13 novembre 2017 portant révision du régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000037398168" titretxt="Désignation de l'OPCA de branche"/>
+<LIEN_TXT idtxt="KALITEXT000037378110" titretxt="Application d'accords et d'avenants aux entreprises de moins de 50 salariés"/>
+<LIEN_TXT idtxt="KALITEXT000038283375" titretxt="Régime de plan d'épargne interentreprises et participation"/>
+<LIEN_TXT idtxt="KALITEXT000038283492" titretxt="Régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000038283522" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000038418000" titretxt="Degré de solidarité du régime de prévoyance et du régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000038418014" titretxt="Définition des ayants droit"/>
+<LIEN_TXT idtxt="KALITEXT000038435576" titretxt="Renouvellement du gestionnaire de la politique conventionnelle de solidarité"/>
+<LIEN_TXT idtxt="KALITEXT000039109881" titretxt="OPCO"/>
+<LIEN_TXT idtxt="KALITEXT000038776684" titretxt="Modification de l'article 17.2 de la convention (congés exceptionnels)"/>
+<LIEN_TXT idtxt="KALITEXT000038776697" titretxt="Contributions des entreprises à la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000039109900" titretxt="OPCO des entreprises de proximité"/>
+<LIEN_TXT idtxt="KALITEXT000039407065" titretxt="Allocation spécifique de déplacement"/>
+<LIEN_TXT idtxt="KALITEXT000039479749" titretxt="Mise en conformité 100 % Santé"/>
+<LIEN_TXT idtxt="KALITEXT000039479770" titretxt="Annexe IV de l'avenant du 10 septembre 2018"/>
+<LIEN_TXT idtxt="KALITEXT000041789113" titretxt="Lste des actions éligibles au dispositif de reconversion ou de promotion par alternance (« Pro-A »)"/>
+<LIEN_TXT idtxt="KALITEXT000041789149" titretxt="Contributions des entreprises à la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000042110967" titretxt="Taux de cotisations des ayants droit au 1er avril 2020"/>
+<LIEN_TXT idtxt="KALITEXT000042110984" titretxt="Paritarisme"/>
+<LIEN_TXT idtxt="KALITEXT000042132003" titretxt="Lutte contre la propagation du Covid-19"/>
+<LIEN_TXT idtxt="KALITEXT000043251163" titretxt="Prévoyance (clause de recommandation et révision du régime)"/>
+<LIEN_TXT idtxt="KALITEXT000043458338" titretxt="Contributions des entreprises à la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000043955148" titretxt="Désignation de l'OPCO"/>
+<LIEN_TXT idtxt="KALITEXT000043955171" titretxt="Gestionnaire de la politique conventionnelle de solidarité"/>
+<LIEN_TXT idtxt="KALITEXT000045429996" titretxt="Formulaire de saisine de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000045430000" titretxt="Formulaire de transmission d'un accord à la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000045695063" titretxt="Régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000045695085" titretxt="Contributions des entreprises à la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000045976658" titretxt="Activité partielle de longue durée (APLD)"/>
+<LIEN_TXT idtxt="KALITEXT000046288286" titretxt="Allocation spécifique de déplacement"/>
+<LIEN_TXT idtxt="KALITEXT000046394624" titretxt="Apérition du régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000047331794" titretxt="Contributions des entreprises à la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000047583095" titretxt="Régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000048638576" titretxt="Régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000048638620" titretxt="Régime de prévoyance (Clause de recommandation)"/>
+<LIEN_TXT idtxt="KALITEXT000049100321" titretxt="Contributions des entreprises à la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000049508720" titretxt="CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000049949593" titretxt="Désignation de l'opérateur de compétences"/>
+<LIEN_TXT idtxt="KALITEXT000050130293" titretxt="Régime de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000050968688" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000050968709" titretxt="Degré de solidarité des régimes de prévoyance et de frais de santé"/>
+<LIEN_TXT idtxt="KALITEXT000050968724" titretxt="Renouvellement du gestionnaire de la politique conventionnelle de solidarité"/>
+<LIEN_TXT idtxt="KALITEXT000050968740" titretxt="Revalorisation de l'allocation spécifique de déplacement"/>
+<LIEN_TXT idtxt="KALITEXT000051295186" titretxt="Révision de l'article 2 de la convention collective"/>
+<LIEN_TXT idtxt="KALITEXT000051295205" titretxt="Contributions des entreprises à la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000051447175" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000051447191" titretxt="Contingent d'heures supplémentaires"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005680994" titretxt="Salaires (Annexe VII)"/>
+<LIEN_TXT idtxt="KALITEXT000005681002" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005681014" titretxt="Salaires (encaisseurs)"/>
+<LIEN_TXT idtxt="KALITEXT000005681030" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005681047" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005681079" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018562363" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000019460308" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000022107231" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023801354" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000025084415" titretxt="Salaires pour l'année 2011"/>
+<LIEN_TXT idtxt="KALITEXT000027731799" titretxt="Rémunérations minimales pour l'année 2013"/>
+<LIEN_TXT idtxt="KALITEXT000033016847" titretxt="Salaires et valeur du point"/>
+<LIEN_TXT idtxt="KALITEXT000037378091" titretxt="Salaires pour l'année 2018"/>
+<LIEN_TXT idtxt="KALITEXT000042110940" titretxt="Salaires pour l'année 2020"/>
+<LIEN_TXT idtxt="KALITEXT000045976690" titretxt="Salaires et valeur du point"/>
+<LIEN_TXT idtxt="KALITEXT000046240883" titretxt="Salaires et valeur du point"/>
+<LIEN_TXT idtxt="KALITEXT000047348696" titretxt="Salaires et valeur du point au 1er avril 2023"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005681101" titretxt="Arrêté du 23 février 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005681133" titretxt="Arrêté du 14 novembre 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005681149" titretxt="ARRETE du 10 décembre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005681151" titretxt="ARRETE du 21 février 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005681153" titretxt="ARRETE du 17 octobre 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005681155" titretxt="ARRETE du 27 mars 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005681157" titretxt="ARRETE du 8 octobre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005681161" titretxt="ARRETE du 3 décembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005681178" titretxt="ARRETE du 5 décembre 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005681196" titretxt="ARRETE du 7 février 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005681200" titretxt="ARRETE du 21 juillet 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005681202" titretxt="ARRETE du 6 octobre 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005681204" titretxt="ARRETE du 8 janvier 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005681206" titretxt="ARRETE du 15 juillet 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005681208" titretxt="ARRETE du 26 octobre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005681210" titretxt="ARRETE du 8 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005681212" titretxt="ARRETE du 4 octobre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005681214" titretxt="ARRETE du 20 janvier 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005681216" titretxt="ARRETE du 3 février 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005681218" titretxt="ARRETE du 16 avril 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005681220" titretxt="ARRETE du 21 juin 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005681222" titretxt="ARRETE du 17 juillet 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Prestataires de services dans le domaine du secteur tertiaire</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3301</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

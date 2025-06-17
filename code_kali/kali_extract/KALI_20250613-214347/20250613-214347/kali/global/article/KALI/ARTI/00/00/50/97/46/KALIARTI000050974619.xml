@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050974619</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/97/46/KALIARTI000050974619.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-11-26</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050974607" date_publi="2025-01-14" date_signature="2024-10-24" nature="Avenant" nor="ASET2450928M" num="76" num_parution_jo="">
+<TITRE_TXT c_titre_court="Définition de salariés pouvant être intégrés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire" debut="2024-11-26" fin="2999-01-01" id_txt="KALITEXT000050974607">Avenant n° 76 du 24 octobre 2024 relatif à la définition de salariés pouvant être intégrés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2024-11-26" fin="2999-01-01" id="KALISCTA000050974610">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635593" date_publi="2006-07-10" etat="VIGUEUR_ETEN" nature="IDCC" num="992" titre="Convention collective nationale de la boucherie, boucherie-charcuterie, boucherie hippophagique, triperie, commerces de volailles et gibiers du 12 décembre 1978, actualisée par l'avenant n° 114 du 10 juillet 2006" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635593.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-11-26" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050974619" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Vu l'article R. 242-1-1 1° du code de la sécurité sociale ; </p>
+<p align="left">Vu l'article 3 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres ; </p>
+<p align="left">Vu l'agrément au titre de l'article 36 de l'annexe I à la CCN du 14 mars 1947 rendu par l'AGIRC ; </p>
+<p align="left">En application du décret n° 2021-1002 du 30 juillet 2021 actualisant notamment l'article R. 242-1-1 du code de la sécurité sociale, des catégories de salariés définis par la branche peuvent être intégrés à la catégorie des cadres et assimilés (ex « articles 4 et 4 bis » repris par les articles 2.1 et 2.2 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres) pour le bénéfice de garanties de protection sociale complémentaire, sous réserve d'un agrément de la commission paritaire rattachée à l'APEC validant l'existence d'une catégorie objective ; </p>
+<p align="left">Les partenaires sociaux rappellent que les régimes conventionnels frais de santé et prévoyance bénéficient à l'ensemble des salariés. Toutefois, les entreprises peuvent faire bénéficier leur personnel de garanties supplémentaires s'ajoutant à celles prévues par la convention collective. C'est pourquoi, les partenaires sociaux souhaitent préserver la faculté qui existe au niveau des entreprises de la boucherie d'intégrer à la catégorie des « cadres et assimilés » les salariés visés par l'extension « article 36 ».</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="JORFTEXT000043877119" datesignatexte="2021-07-30" id="JORFTEXT000043877119" naturetexte="DECRET" nortexte="SSAS2115429D" num="" numtexte="2021-1002" sens="source" typelien="CITATION">Décret n°2021-1002 du 30 juillet 2021</LIEN>
+
+<LIEN cidtexte="KALITEXT000036732007" datesignatexte="2017-11-17" id="KALITEXT000036732007" naturetexte="Accord" nortexte="ASET1850032M" num="" numtexte="" sens="source" typelien="CITATION">Prévoyance des cadres</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000025130555" naturetexte="CODE" nortexte="" num="R242-1-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. R242-1-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

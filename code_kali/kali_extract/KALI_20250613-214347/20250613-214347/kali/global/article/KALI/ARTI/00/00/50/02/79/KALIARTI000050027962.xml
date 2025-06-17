@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050027962</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/02/79/KALIARTI000050027962.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>5.2</NUM>
+<TITRE>Parcours du candidat</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050027943" date_publi="2024-07-18" date_signature="2024-05-22" nature="Accord" nor="ASET2450548M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="CQP et CQPI" debut="2025-07-01" fin="2999-01-01" id_txt="KALITEXT000050027943">Accord du 22 mai 2024 relatif aux CQP et aux CQPI</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027948">Chapitre 2 Certificats de qualification professionnelle (CQP)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635597" date_publi="1953-03-06" etat="VIGUEUR_ETEN" nature="IDCC" num="45" titre="Convention collective nationale du caoutchouc du 6 mars 1953. Étendue par arrêté du 29 mai 1969 JORF 18 juin 1969 " url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635597.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027962" num="5.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le candidat suit le parcours suivant :<br/>
+– repérage préalable des compétences du référentiel maîtrisées par le candidat : afin de repérer les compétences du candidat par rapport au référentiel de qualification du CQP envisagé, il est indispensable d'analyser et d'évaluer les acquis de l'expérience d'un candidat. Cette démarche permet de confirmer le candidat dans le parcours de ce CQP ou de le réorienter, avec son accord, vers un autre CQP.<br/>
+Ce repérage des compétences se fait sur la base d'un entretien en présentiel et durant le temps de travail du salarié concerné, dans le cadre du guide prévu à cet effet.<br/>
+Si le candidat ne possède pas certaines compétences constitutives du CQP, il suit un parcours de formation individualisé, sur le temps de travail, afin d'acquérir les compétences requises ;<br/>
+– création d'un parcours de développement des compétences individualisé sur la base du référentiel de formation du CQP ;<br/>
+– formation en entreprise ou formation en inter-entreprises ;<br/>
+– évaluation des compétences en entreprise, en situation réelle de travail par des évaluateurs externes à l'entreprise ou des évaluateurs internes à l 'entreprise mais externes au service de production auquel appartient le candidat ;<br/>
+– validation des compétences par le jury paritaire et délivrance du CQP : le candidat peut présenter son dossier devant le jury paritaire pour validation d'un ou plusieurs blocs de compétences acquis ou une fois tous les blocs de compétences acquis, conformément aux modalités visées à l'article 5.5.2.</p>
+<p align="left">Chacune des étapes de ce parcours est formalisée par un outil support conçu par la CPNEFP et mis à disposition des acteurs du CQP : candidat, employeur, évaluateur, jury paritaire.</p>
+<p align="left">L'utilisation de ces outils est obligatoire pour que le dossier du candidat soit examiné par le jury paritaire.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

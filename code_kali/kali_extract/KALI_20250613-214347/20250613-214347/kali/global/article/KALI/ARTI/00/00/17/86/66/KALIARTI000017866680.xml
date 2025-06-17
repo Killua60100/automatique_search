@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017866680</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/86/66/KALIARTI000017866680.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7.3</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000020751645">Modalités de conclusion des accords de branche</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-09-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000017866680" num="7.3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>Une fois les négociations terminées, l'accord de branche est proposé, par l'organisation d'employeurs, à la signature des organisations syndicales énumérées à l'article 7.1.</p>
+<p>Si l'accord est signé en séance par toutes les organisations, il est déposé dans les plus brefs délais auprès du service compétent.</p>
+<p>Si l'accord n'est pas signé en séance par toutes les organisations, un délai est fixé paritairement pour que chacune des organisations fasse savoir si elle est signataire.</p>
+<p>Au terme de ce délai, le texte de l'accord et la liste des organisations s'étant déclarées signataires sont adressés au siège de chaque organisation par lettre recommandée avec avis de réception ou remis par coursier contre reçu.</p>
+<p>La date de présentation de ces documents fait courir un délai de 15 jours calendaires aux organisations non signataires pour faire part de leur opposition éventuelle.</p>
+<p>A l'expiration du délai de 15 jours, l'absence de réponse vaut absence de signature et absence d'opposition.</p>
+<p>En cas de décision de signature, le nombre d'exemplaires nécessaires est mis à disposition des organisations syndicales pour les formalités de signatures, dans l'ordre d'arrivée des décisions de signature.</p>
+<p>Une fois les délais expirés et les formalités de signatures terminées, l'accord est déposé.</p>
+<p>Lorsqu'il s'avère que 3 organisations ont exercé leur droit d'opposition selon les modalités précisées à l'article 7.4, l'accord n'est pas valide et ne peut être déposé.</p>
+<p>Les organisations de salariés en sont informées et une commission paritaire est convoquée pour définir les suites à donner.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>en vigueur le 1er jour du mois suivant l'extension</CONDITION_DIFFERE>
+<LIENS>
+
+</LIENS>
+
+
+
+</ARTICLE>

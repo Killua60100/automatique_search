@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IDCC>
+<META>
+<META_COMMUN>
+<ID>KALICONT000005635955</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>conteneur/KALI/CONT/00/00/05/63/59/KALICONT000005635955.xml</URL>
+<NATURE>IDCC</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_CONTENEUR>
+<TITRE>Convention collective nationale de travail du personnel des imprimeries de labeur et des industries graphiques.  En vigueur le 1er juin 1956.  Etendue par arrêté du 22 novembre 1956 JONC 15 décembre 1956.
+</TITRE>
+<ETAT>VIGUEUR_ETEN</ETAT>
+<NUM>184</NUM>
+
+<DATE_PUBLI>1956-06-01</DATE_PUBLI>
+</META_CONTENEUR>
+<DESCRIPTION_FUSION>
+<CONTENU>
+  <p>Champ d'application fusionné avec celui de la convention collective nationale des industries de la sérigraphie et des procédés d'impression numérique connexes (IDCC 614) par arrêté ministériel du 23 janvier 2019.</p>
+</CONTENU>
+</DESCRIPTION_FUSION>
+</META_SPEC>
+</META>
+<STRUCTURE_TXT>
+<TM niv="1">
+<TITRE_TM>Texte de base</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005661911" titretxt="Convention collective nationale de travail du 29 mai 1956"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Attachés</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005661913" titretxt="Annexe I - Classification des cadres et agents de maitrise"/>
+<LIEN_TXT idtxt="KALITEXT000005661915" titretxt="Annexe I bis - Classification des agents assimilés aux catégories A et B"/>
+<LIEN_TXT idtxt="KALITEXT000005661917" titretxt="Annexe II - Compétence territoriale des commissions de conciliation"/>
+<LIEN_TXT idtxt="KALITEXT000005661919" titretxt="Annexe III - Formation professionnelle et apprentissage"/>
+<LIEN_TXT idtxt="KALITEXT000005661921" titretxt="ANNEXE IV - Prime annuelle"/>
+<LIEN_TXT idtxt="KALITEXT000005661923" titretxt="Annexe IV bis - Prime annuelle - Clauses communes à l'ensemble du personnel"/>
+<LIEN_TXT idtxt="KALITEXT000005661927" titretxt="ANNEXE V - CLASSIFICATION OUVRIERS "/>
+<LIEN_TXT idtxt="KALITEXT000005661931" titretxt="Annexe V : classification des emplois et des qualifications de l'ensemble du personnel salarié"/>
+<LIEN_TXT idtxt="KALITEXT000005661935" titretxt="Annexe VI - Dispositions diverses"/>
+<LIEN_TXT idtxt="KALITEXT000005661937" titretxt="Annexe VI - Dispositions diverses"/>
+<LIEN_TXT idtxt="KALITEXT000005661905" titretxt="Annexe VI - Divers"/>
+<LIEN_TXT idtxt="KALITEXT000005661909" titretxt="Annexe VI - Commissions régionales de conciliation - Compétence"/>
+<LIEN_TXT idtxt="KALITEXT000005661945" titretxt="Annexe VI - Travail effectif"/>
+<LIEN_TXT idtxt="KALITEXT000005661947" titretxt="Annexe VI - Congés payés des ouvriers"/>
+<LIEN_TXT idtxt="KALITEXT000005661949" titretxt="Annexe VII - Zones de salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005661951" titretxt="Annexe VIII - Semaine de repos d'hiver"/>
+<LIEN_TXT idtxt="KALITEXT000005661953" titretxt=" Accord du 24 mars 1970 relatif aux problèmes généraux de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005661963" titretxt="Objectifs et moyens de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005661965" titretxt="Formation et perfectionnement professionnels dans l'imprimerie du labeur"/>
+<LIEN_TXT idtxt="KALITEXT000005662006" titretxt="Stages d'adaptation à l'emploi et rémunération des titulaires de  BEP"/>
+<LIEN_TXT idtxt="KALITEXT000005661955" titretxt="Information syndicale"/>
+<LIEN_TXT idtxt="KALITEXT000005661907" titretxt=" Accord du 7 mai 1974 Personnel &quot;Employés&quot;"/>
+<LIEN_TXT idtxt="KALITEXT000005662008" titretxt="Fonds d'assurance formation"/>
+<LIEN_TXT idtxt="KALITEXT000005661957" titretxt="Régime professionnel de garantie de ressources &quot;Ouvriers - Employés&quot;"/>
+<LIEN_TXT idtxt="KALITEXT000005661959" titretxt="Régime professionnel de garantie de ressources "/>
+<LIEN_TXT idtxt="KALITEXT000005661972" titretxt="Régime professionnel de garantie de ressources  (section cadres) (1) "/>
+<LIEN_TXT idtxt="KALITEXT000005661961" titretxt="Régime professionnel de garantie de ressources :Avenant à l'accord du 24 février 1975 et mesures diverses concernant l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005661990" titretxt="Régime professionnel de garantie de ressources : Clauses communees"/>
+<LIEN_TXT idtxt="KALITEXT000005661976" titretxt="Régime professionnel de garantie de ressources (1) : Cadres, agents de maîtrise et assimilés   "/>
+<LIEN_TXT idtxt="KALITEXT000005661978" titretxt="Accords nationaux régime professionnel de garantie de ressources"/>
+<LIEN_TXT idtxt="KALITEXT000005661992" titretxt="Accords nationaux régime professionnel de garantie de ressources"/>
+<LIEN_TXT idtxt="KALITEXT000005661980" titretxt="Garanties de ressources (Cadres, agents de maîtrise et assimilés) (1)."/>
+<LIEN_TXT idtxt="KALITEXT000005661968" titretxt="Stage d'adaptation à l'emploi et rémunération des titulaires de BEP "/>
+<LIEN_TXT idtxt="KALITEXT000005661939" titretxt="Régime professionnel de garantie de ressources :  Fonds de péréquation de l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000005661982" titretxt="Régime professionnel de garantie de ressources : indemnité de licenciement - Cadres"/>
+<LIEN_TXT idtxt="KALITEXT000005661984" titretxt="Régime professionnel de garantie de ressources : Indemnité de licenciement "/>
+<LIEN_TXT idtxt="KALITEXT000005661988" titretxt="Régime professionnel de garantie de ressources (Cadres) : Indemnité de licenciement"/>
+<LIEN_TXT idtxt="KALITEXT000005661941" titretxt="Régime professionnel de garantie de ressources : Fonds de péréquation de l'emploi  "/>
+<LIEN_TXT idtxt="KALITEXT000005661943" titretxt="Régime professionnel de garantie de ressources pour le personnel ouvrier et employé âgé de 60 à 65 ans (Ouvriers et Employés) "/>
+<LIEN_TXT idtxt="KALITEXT000005662010" titretxt="Stages d'adaptation à l'emploi et rémunération des titulaires du BEP - Congé de formation "/>
+<LIEN_TXT idtxt="KALITEXT000005662012" titretxt="Stages d'adaptation à l'emploi et rémunération des titulaires du BEP - Objectifs et moyens de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000005662014" titretxt="Garantie incapacité de travail des ouvriers et employés"/>
+<LIEN_TXT idtxt="KALITEXT000005662016" titretxt="Désignation d'un fonds d'assurance formation "/>
+<LIEN_TXT idtxt="KALITEXT000005662018" titretxt="Champ d'application de la convention"/>
+<LIEN_TXT idtxt="KALITEXT000005662020" titretxt="Accord du 20 janvier 1994 versement de la contribution obligatoire des entreprises de 10 salariés et plus au développement de la formation professionnelle continue "/>
+<LIEN_TXT idtxt="KALITEXT000005661994" titretxt="Versement de la contribution obligatoire des entreprises pour le financement des contrats d'insertion en alternance  "/>
+<LIEN_TXT idtxt="KALITEXT000005661996" titretxt="Versement de la contribution obligatoire des entreprises de 10 salariés et plus au développement de la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000005661998" titretxt="Versement de la contribution obligatoire des entreprises pour le financement des contrats d'insertion en alternance "/>
+<LIEN_TXT idtxt="KALITEXT000005662000" titretxt="Versement de la contribution des entreprises pour le financement du capital de temps de formationDE FORMATION"/>
+<LIEN_TXT idtxt="KALITEXT000005662004" titretxt="Versement de la contribution obligatoire des entreprises de moins de 10 salariés pour le développement de la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000005662028" titretxt="OPCA - CGM  constitution de l'OPCA de la communication graphique et des multimédia,"/>
+<LIEN_TXT idtxt="KALITEXT000005662030" titretxt="OPCA - CGM"/>
+<LIEN_TXT idtxt="KALITEXT000005662032" titretxt="OPCA - CGM (Statuts)  Création de la section de l'imprimerie et de la communication graphique "/>
+<LIEN_TXT idtxt="KALITEXT000005661933" titretxt="Classification (article 10)"/>
+<LIEN_TXT idtxt="KALITEXT000005662034" titretxt="OPCA - CGM (Statuts)  Délégation de la fonction &quot;information - conseil&quot;"/>
+<LIEN_TXT idtxt="KALITEXT000005662036" titretxt="OPCA - CGM"/>
+<LIEN_TXT idtxt="KALITEXT000005662038" titretxt="OPCA - CGM  Affectation de fonds de l'alternance aux centres de formation des apprentis"/>
+<LIEN_TXT idtxt="KALITEXT000005667601" titretxt="Branche spécifique de l'activité reliure, brochure, dorure (code APE 22.2E)"/>
+<LIEN_TXT idtxt="KALITEXT000005662040" titretxt="Observatoire paritaire de la branche  "/>
+<LIEN_TXT idtxt="KALITEXT000005662044" titretxt="Mise oeuvre du capital de temps de formation dans les industries graphiques  "/>
+<LIEN_TXT idtxt="KALITEXT000005662046" titretxt="Engagement de principe sur la constitution d'un pôle professionnel de retraite et de prévoyance communication"/>
+<LIEN_TXT idtxt="KALITEXT000005662022" titretxt="Mise en oeuvre de la réduction et de l'aménagement du temps de travail"/>
+<LIEN_TXT idtxt="KALITEXT000005662024" titretxt="Revalorisation de la contribution des entreprises de moins de 10 salariés "/>
+<LIEN_TXT idtxt="KALITEXT000005662026" titretxt="Interprétation de l'accord du 29 janvier 1999 et modification des dispositions de la convention collective relatives à la durée et à l'organisation du travail"/>
+<LIEN_TXT idtxt="KALITEXT000005662048" titretxt="Groupe de suivi ARTT"/>
+<LIEN_TXT idtxt="KALITEXT000005662050" titretxt="Développement de la formation dans l'imprimerie de labeur et les industries graphiques"/>
+<LIEN_TXT idtxt="KALITEXT000005662052" titretxt="Fongibilité des ressources de la formation continue (reconduction de l'accord du 25 novembre 1996)"/>
+<LIEN_TXT idtxt="KALITEXT000005662054" titretxt="ARTT de la branche reliure-brochure-dorure"/>
+<LIEN_TXT idtxt="KALITEXT000005662056" titretxt="Cessation anticipée d'activité"/>
+<LIEN_TXT idtxt="KALITEXT000005661925" titretxt="Classification des emplois et qualification de l'ensemble du personnel salarié"/>
+<LIEN_TXT idtxt="KALITEXT000005662058" titretxt="Revalorisation de la contribution des entreprises de moins de 10 salariés au titre du plan de formation"/>
+<LIEN_TXT idtxt="KALITEXT000005662060" titretxt="Cessation anticipée d'activité"/>
+<LIEN_TXT idtxt="KALITEXT000005667606" titretxt="Branche spécifique de l'activité reliure-brochure-dorure"/>
+<LIEN_TXT idtxt="KALITEXT000005662062" titretxt="Création du 203 bis relatif aux autorisations d'absence des délégués syndicaux"/>
+<LIEN_TXT idtxt="KALITEXT000005662064" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000005662066" titretxt="Formation professionnelle tout au long de la vie"/>
+<LIEN_TXT idtxt="KALITEXT000018192951" titretxt="Modifications de l'accord national du 12 octobre 2004 sur la formation profesionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000018562498" titretxt="Regroupement des adhésions auprès des institutions AGIRC-ARRCO"/>
+<LIEN_TXT idtxt="KALITEXT000018658460" titretxt="Transfert du portefeuille garantie obsèques"/>
+<LIEN_TXT idtxt="KALITEXT000018658467" titretxt="Equilibre du régime de prévoyance (CARPILIG)"/>
+<LIEN_TXT idtxt="KALITEXT000020687301" titretxt="Statuts et règlements de la CARPILIG-P"/>
+<LIEN_TXT idtxt="KALITEXT000021041191" titretxt="Retraite et prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000022969037" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000023714621" titretxt="Prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000024401294" titretxt="Commission paritaire de validation des accords d'entreprise"/>
+<LIEN_TXT idtxt="KALITEXT000025063190" titretxt="Désignation de l'OPCA"/>
+<LIEN_TXT idtxt="KALITEXT000025371681" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000027041256" titretxt="Financement de la formation professionnelle continue"/>
+<LIEN_TXT idtxt="KALITEXT000027041266" titretxt="Financement de la formation professionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000027041278" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000028755544" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000030335213" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000032003289" titretxt="Formation et développement des compétences"/>
+<LIEN_TXT idtxt="KALITEXT000032080921" titretxt="Dialogue social et revitalisation des bassins graphiques"/>
+<LIEN_TXT idtxt="KALITEXT000032622867" titretxt="Dispositions sur le régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000034672989" titretxt="Dispositions sur le régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000036903993" titretxt="Régime de prévoyance"/>
+<LIEN_TXT idtxt="KALITEXT000037768114" titretxt="Politique salariale 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038169462" titretxt="Élargissement de la CPNEFP"/>
+<LIEN_TXT idtxt="KALITEXT000038524297" titretxt="Régime de prévoyance conventionnelle 2019"/>
+<LIEN_TXT idtxt="KALITEXT000039109520" titretxt="OPCO"/>
+<LIEN_TXT idtxt="KALITEXT000039332915" titretxt="Création de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000038881637" titretxt="Mise en place de la CPPNI"/>
+<LIEN_TXT idtxt="KALITEXT000039116864" titretxt="OPCO des entreprises de proximité"/>
+<LIEN_TXT idtxt="KALITEXT000042258541" titretxt="Régime de prévoyance conventionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000043145839" titretxt="Activité partielle"/>
+<LIEN_TXT idtxt="KALITEXT000043792760" titretxt="Régime de prévoyance conventionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000043792768" titretxt="Promotion ou reconversion par alternance « Pro-A »"/>
+<LIEN_TXT idtxt="KALITEXT000043941553" titretxt="Elargissement de la CPNEFP"/>
+<LIEN_TXT idtxt="KALITEXT000043941548" titretxt="Création d'une CPNEFP commune"/>
+<LIEN_TXT idtxt="KALITEXT000045204225" titretxt="Régime de prévoyance conventionnelle 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046225447" titretxt="Régime de prévoyance "/>
+<LIEN_TXT idtxt="KALITEXT000046421306" titretxt="Dispositif spécifique d'activité partielle pour préserver l'emploi"/>
+<LIEN_TXT idtxt="KALITEXT000046581836" titretxt="Formation et développement des compétences"/>
+<LIEN_TXT idtxt="KALITEXT000047010993" titretxt="Collecte et  gestion des contributions conventionnelles"/>
+<LIEN_TXT idtxt="KALITEXT000047006676" titretxt="Régime de prévoyance conventionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000047331443" titretxt="Création d'une CPNEFP commune"/>
+<LIEN_TXT idtxt="KALITEXT000047865855" titretxt="Développement et innovation"/>
+<LIEN_TXT idtxt="KALITEXT000047865870" titretxt="Formation et développement des compétences"/>
+<LIEN_TXT idtxt="KALITEXT000048043940" titretxt="Catégorie objective pour le bénéfice d'une couverture de protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000048436894" titretxt="Définition des catégories de salariés « cadres » et « non cadres » bénéficiaires des garanties de protection sociale complémentaire"/>
+<LIEN_TXT idtxt="KALITEXT000049100243" titretxt="Régime de prévoyance conventionnelle"/>
+<LIEN_TXT idtxt="KALITEXT000050144859" titretxt="Classification des emplois et des qualifications"/>
+<LIEN_TXT idtxt="KALITEXT000050427934" titretxt="Formation et développement des compétences"/>
+<LIEN_TXT idtxt="KALITEXT000050427945" titretxt="Formation et développement des compétences"/>
+<LIEN_TXT idtxt="KALITEXT000051294796" titretxt="Classification des emplois et des qualifications de l'ensemble du personnel salarié"/>
+<LIEN_TXT idtxt="KALITEXT000051352237" titretxt="Régime de prévoyance conventionnelle"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Salaires</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005662068" titretxt="Salaires (1)"/>
+<LIEN_TXT idtxt="KALITEXT000005667608" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005667610" titretxt="SALAIRES Reliure - Brochure - Dorure"/>
+<LIEN_TXT idtxt="KALITEXT000005662070" titretxt="SALAIRES &quot;APPRENTIS&quot;"/>
+<LIEN_TXT idtxt="KALITEXT000005662072" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005662074" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005667614" titretxt="ANNEXE I : SALAIRES Reliure - Brochure - Dorure"/>
+<LIEN_TXT idtxt="KALITEXT000005667616" titretxt="ANNEXE I : SALAIRES Reliure - Brochure - Dorure"/>
+<LIEN_TXT idtxt="KALITEXT000005662076" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005662078" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005667618" titretxt="ANNEXE I : SALAIRES Reliure - Brochure - Dorure"/>
+<LIEN_TXT idtxt="KALITEXT000005662080" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005667620" titretxt="Salaires (reliure, brochure, dorure)"/>
+<LIEN_TXT idtxt="KALITEXT000005667622" titretxt="Salaires (reliure-brochure-dorure)"/>
+<LIEN_TXT idtxt="KALITEXT000005662082" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005662084" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005662086" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005662088" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005662090" titretxt="Salaires."/>
+<LIEN_TXT idtxt="KALITEXT000005662092" titretxt="SALAIRES"/>
+<LIEN_TXT idtxt="KALITEXT000005662094" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000005662096" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000018658729" titretxt="Salaires (branche reliure, brochure, dorure)"/>
+<LIEN_TXT idtxt="KALITEXT000018827331" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020216441" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000020549683" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000022219359" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000022425611" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000023950209" titretxt="Salaires"/>
+<LIEN_TXT idtxt="KALITEXT000025053065" titretxt="Classification et  salaires dans la branche reliure-brochure-dorure"/>
+<LIEN_TXT idtxt="KALITEXT000024402095" titretxt="Politique salariale pour l'année 2011"/>
+<LIEN_TXT idtxt="KALITEXT000027041274" titretxt="Politique salariale pour l'année 2012"/>
+<LIEN_TXT idtxt="KALITEXT000027194833" titretxt="Salaires minima au 1er juin 2013"/>
+<LIEN_TXT idtxt="KALITEXT000029256432" titretxt="Politique salariale pour l'année 2014"/>
+<LIEN_TXT idtxt="KALITEXT000031092132" titretxt="Politique salariale au 1er juillet 2015 (reliure, brochure, dorure)"/>
+<LIEN_TXT idtxt="KALITEXT000031148362" titretxt="Politique salariale au 1er septembre 2015"/>
+<LIEN_TXT idtxt="KALITEXT000032622874" titretxt="Politique salariale pour l'année 2016"/>
+<LIEN_TXT idtxt="KALITEXT000034826656" titretxt="Politique salariale 2017"/>
+<LIEN_TXT idtxt="KALITEXT000037111140" titretxt="Politique salariale pour l'année 2018"/>
+<LIEN_TXT idtxt="KALITEXT000038683722" titretxt="Politique salariale pour l'année 2019"/>
+<LIEN_TXT idtxt="KALITEXT000042271305" titretxt="Politique salariale pour l'année 2020"/>
+<LIEN_TXT idtxt="KALITEXT000042271310" titretxt="Politique salariale pour l'année 2020"/>
+<LIEN_TXT idtxt="KALITEXT000043954994" titretxt="Salaires au 1er juin 2021"/>
+<LIEN_TXT idtxt="KALITEXT000044159393" titretxt="Salaires minima au 1er juillet 2021"/>
+<LIEN_TXT idtxt="KALITEXT000045807372" titretxt="Salaires minima au 1er avril 2022"/>
+<LIEN_TXT idtxt="KALITEXT000045953245" titretxt="Salaires au 1er juin 2022"/>
+<LIEN_TXT idtxt="KALITEXT000046287927" titretxt="Salaires au 1er octobre 2022"/>
+<LIEN_TXT idtxt="KALITEXT000047410065" titretxt="Salaires au 1er avril 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047880912" titretxt="Salaires au 1er septembre 2023"/>
+<LIEN_TXT idtxt="KALITEXT000047880917" titretxt="Salaires au 1er septembre 2023 (secteur reliure, brochure, dorure)"/>
+<LIEN_TXT idtxt="KALITEXT000049271035" titretxt="Salaires au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000049308896" titretxt="Salaires au 1er avril 2024"/>
+<LIEN_TXT idtxt="KALITEXT000050144850" titretxt="Salaire minimum des groupes IV A et IV B au 1er janvier 2025"/>
+<LIEN_TXT idtxt="KALITEXT000051579899" titretxt="Salaires au 1er mai 2025"/>
+</TM>
+<TM niv="1">
+<TITRE_TM>Textes Extensions</TITRE_TM>
+<LIEN_TXT idtxt="KALITEXT000005662098" titretxt="ARRETE du 22 novembre 1956"/>
+<LIEN_TXT idtxt="KALITEXT000005667624" titretxt="ARRETE du 6 mai 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005662101" titretxt="ARRETE du 28 mars 1960"/>
+<LIEN_TXT idtxt="KALITEXT000005667626" titretxt="ARRETE du 7 janvier 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005667628" titretxt="ARRETE du 21 juin 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005662103" titretxt="ARRETE du 29 juillet 1963"/>
+<LIEN_TXT idtxt="KALITEXT000005662105" titretxt="ARRETE du 3 janvier 1964"/>
+<LIEN_TXT idtxt="KALITEXT000005667630" titretxt="ARRETE du 9 février 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005662109" titretxt="ARRETE du 21 octobre 1966"/>
+<LIEN_TXT idtxt="KALITEXT000005667632" titretxt="ARRETE du 11 mars 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005667634" titretxt="ARRETE du 4 juillet 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005662111" titretxt="ARRETE du 20 décembre 1967"/>
+<LIEN_TXT idtxt="KALITEXT000005667636" titretxt="ARRETE du 31 janvier 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005662113" titretxt="ARRETE du 26 décembre 1968"/>
+<LIEN_TXT idtxt="KALITEXT000005667638" titretxt="ARRETE du 9 mars 2007"/>
+<LIEN_TXT idtxt="KALITEXT000005662115" titretxt="ARRETE du 1 août 1969"/>
+<LIEN_TXT idtxt="KALITEXT000005662117" titretxt="ARRETE du 22 décembre 1971"/>
+<LIEN_TXT idtxt="KALITEXT000005662119" titretxt="ARRETE du 9 juin 1972"/>
+<LIEN_TXT idtxt="KALITEXT000005662121" titretxt="ARRETE du 7 décembre 1972"/>
+<LIEN_TXT idtxt="KALITEXT000005662123" titretxt="ARRETE du 6 août 1973"/>
+<LIEN_TXT idtxt="KALITEXT000005662125" titretxt="ARRETE du 25 janvier 1974"/>
+<LIEN_TXT idtxt="KALITEXT000005662127" titretxt="ARRETE du 1 juillet 1974"/>
+<LIEN_TXT idtxt="KALITEXT000005662129" titretxt="ARRETE du 8 juillet 1974"/>
+<LIEN_TXT idtxt="KALITEXT000005662131" titretxt="ARRETE du 12 novembre 1974"/>
+<LIEN_TXT idtxt="KALITEXT000005662133" titretxt="ARRETE du 13 janvier 1975"/>
+<LIEN_TXT idtxt="KALITEXT000005662135" titretxt="ARRETE du 11 juin 1975"/>
+<LIEN_TXT idtxt="KALITEXT000005662137" titretxt="ARRETE du 8 juillet 1975"/>
+<LIEN_TXT idtxt="KALITEXT000005662139" titretxt="ARRETE du 22 juillet 1975"/>
+<LIEN_TXT idtxt="KALITEXT000005662141" titretxt="ARRETE du 25 juillet 1975"/>
+<LIEN_TXT idtxt="KALITEXT000005662143" titretxt="ARRETE du 9 octobre 1975"/>
+<LIEN_TXT idtxt="KALITEXT000005662145" titretxt="ARRETE du 12 février 1976"/>
+<LIEN_TXT idtxt="KALITEXT000005662147" titretxt="ARRETE du 21 avril 1976"/>
+<LIEN_TXT idtxt="KALITEXT000005662149" titretxt="ARRETE du 9 juillet 1976"/>
+<LIEN_TXT idtxt="KALITEXT000005662151" titretxt="ARRETE du 29 juillet 1976"/>
+<LIEN_TXT idtxt="KALITEXT000005662153" titretxt="ARRETE du 12 août 1976"/>
+<LIEN_TXT idtxt="KALITEXT000005662155" titretxt="ARRETE du 5 novembre 1976"/>
+<LIEN_TXT idtxt="KALITEXT000005662157" titretxt="ARRETE du 27 décembre 1976"/>
+<LIEN_TXT idtxt="KALITEXT000005662161" titretxt="ARRETE du 25 mai 1977"/>
+<LIEN_TXT idtxt="KALITEXT000005662163" titretxt="ARRETE du 26 mai 1977"/>
+<LIEN_TXT idtxt="KALITEXT000005662165" titretxt="ARRETE du 5 juillet 1977"/>
+<LIEN_TXT idtxt="KALITEXT000005662167" titretxt="ARRETE du 4 janvier 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005662169" titretxt="ARRETE du 5 janvier 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005662171" titretxt="ARRETE du 13 novembre 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005662173" titretxt="ARRETE du 13 novembre 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005662175" titretxt="ARRETE du 13 novembre 1978"/>
+<LIEN_TXT idtxt="KALITEXT000005662177" titretxt="ARRETE du 8 février 1979"/>
+<LIEN_TXT idtxt="KALITEXT000005662179" titretxt="ARRETE du 12 février 1979"/>
+<LIEN_TXT idtxt="KALITEXT000005662183" titretxt="ARRETE du 3 août 1979"/>
+<LIEN_TXT idtxt="KALITEXT000005662185" titretxt="ARRETE du 13 novembre 1979"/>
+<LIEN_TXT idtxt="KALITEXT000005662187" titretxt="ARRETE du 2 juillet 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005662189" titretxt="ARRETE du 1 octobre 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005662191" titretxt="ARRETE du 3 décembre 1980"/>
+<LIEN_TXT idtxt="KALITEXT000005662193" titretxt="ARRETE du 19 février 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005662195" titretxt="ARRETE du 24 mars 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005662197" titretxt="ARRETE du 21 avril 1981"/>
+<LIEN_TXT idtxt="KALITEXT000005662199" titretxt="ARRETE du 25 janvier 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005662201" titretxt="ARRETE du 30 mars 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005662205" titretxt="ARRETE du 17 décembre 1982"/>
+<LIEN_TXT idtxt="KALITEXT000005662207" titretxt="ARRETE du 21 octobre 1983"/>
+<LIEN_TXT idtxt="KALITEXT000005662209" titretxt="ARRETE du 26 février 1987"/>
+<LIEN_TXT idtxt="KALITEXT000005662211" titretxt="ARRETE du 5 mai 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005662213" titretxt="ARRETE du 30 juillet 1988"/>
+<LIEN_TXT idtxt="KALITEXT000005662215" titretxt="ARRETE du 28 février 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005662217" titretxt="ARRETE du 25 avril 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005662219" titretxt="ARRETE du 6 mai 1991"/>
+<LIEN_TXT idtxt="KALITEXT000005662221" titretxt="ARRETE du 28 juillet 1993"/>
+<LIEN_TXT idtxt="KALITEXT000005662223" titretxt="ARRETE du 28 janvier 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005662227" titretxt="ARRETE du 3 mai 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005662229" titretxt="ARRETE du 25 mai 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005662231" titretxt="ARRETE du 12 octobre 1994"/>
+<LIEN_TXT idtxt="KALITEXT000005662233" titretxt="ARRETE du 3 octobre 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005662235" titretxt="ARRETE du 19 octobre 1995"/>
+<LIEN_TXT idtxt="KALITEXT000005662237" titretxt="ARRETE du 8 février 1996"/>
+<LIEN_TXT idtxt="KALITEXT000005662239" titretxt="ARRETE du 25 juin 1997"/>
+<LIEN_TXT idtxt="KALITEXT000005662241" titretxt="ARRETE du 20 avril 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005662243" titretxt="ARRETE du 8 juillet 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005662245" titretxt="ARRETE du 1 octobre 1998"/>
+<LIEN_TXT idtxt="KALITEXT000005662250" titretxt="ARRETE du 14 avril 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005662252" titretxt="ARRETE du 21 octobre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005662254" titretxt="ARRETE du 20 décembre 1999"/>
+<LIEN_TXT idtxt="KALITEXT000005662256" titretxt="ARRETE du 11 mai 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005662258" titretxt="ARRETE du 11 mai 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005662260" titretxt="ARRETE du 26 juin 2000"/>
+<LIEN_TXT idtxt="KALITEXT000005662262" titretxt="ARRETE du 21 février 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005662264" titretxt="ARRETE du 17 avril 2001"/>
+<LIEN_TXT idtxt="KALITEXT000005662266" titretxt="ARRETE du 17 janvier 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005662268" titretxt="ARRETE du 8 avril 2002"/>
+<LIEN_TXT idtxt="KALITEXT000005662272" titretxt="ARRETE du 7 février 2003"/>
+<LIEN_TXT idtxt="KALITEXT000005662274" titretxt="ARRETE du 6 mai 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005662276" titretxt="ARRETE du 17 juin 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005662278" titretxt="ARRETE du 15 décembre 2004"/>
+<LIEN_TXT idtxt="KALITEXT000005662280" titretxt="ARRETE du 13 avril 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005662282" titretxt="ARRETE du 8 novembre 2005"/>
+<LIEN_TXT idtxt="KALITEXT000005662284" titretxt="ARRETE du 23 octobre 2006"/>
+<LIEN_TXT idtxt="KALITEXT000005662286" titretxt="ARRETE du 10 mai 2007"/>
+</TM>
+</STRUCTURE_TXT>
+<TXTS_ISO/>
+<ACTS_PRO>
+<ACT_PRO>Imprimeries de labeur et industries graphiques</ACT_PRO>
+</ACTS_PRO>
+<NUMS_BROCH>
+<NUM_BROCH>3138</NUM_BROCH>
+</NUMS_BROCH>
+
+
+</IDCC>

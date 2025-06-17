@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050039971</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/03/99/KALIARTI000050039971.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>35</NUM>
+<TITRE>Entrée en vigueur. – Durée. – Extension</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2024-06-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+<TM>
+<TITRE_TM debut="2024-06-01" fin="2999-01-01" id="KALISCTA000050039954">Chapitre X Dispositions finales</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050039971" num="35" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Le titre Ier et les titres II, III et IV, constituant la présente convention collective, sont conclus pour une durée indéterminée. </p>
+<p>Les titres II, III et IV sont obligatoirement référencés au titre Ier. Dans ces conditions, ils ne pourront être déposés et soumis à extension que conjointement au titre Ier ou, s'ils le sont séparément, en étant toujours référencés audit titre Ier. </p>
+<p>Le titre Ier et les titres II, III et IV, constituant la présente convention collective, feront l'objet des formalités de dépôt, prévues par l'article D. 2231-2 du code du travail, par la partie la plus diligente. Pour être déposé, le texte de la convention collective devra comporter au minimum le titre Ier ainsi que l'un ou plusieurs des titres II à IV. </p>
+<p>Tout titre, avenant ou annexe non déposé conjointement au titre Ier devra, en vue de son dépôt et de son extension, être référencé à ce titre Ier. </p>
+<p>Les parties signataires s'engagent à saisir dans les meilleurs délais le ministère du travail, conformément à l'article L. 2261-24 du code du travail, en vue de son extension à l'ensemble du champ d'application défini à l'article I. 1. </p>
+<p>Les titres, avenants et annexes, constituant ensemble la présente convention collective, s'appliquent au premier jour du mois suivant la date de publication de leur arrêté d'extension au Journal officiel. </p>
+<p>En tant que de besoin et sauf disposition contraire dans la présente convention collective, ses titres, avenants et annexes, les parties signataires conviennent que les titres, avenants et annexes de la présente convention collective annulent et remplacent toutes dispositions conventionnelles antérieures ayant le même objet en tout ou partie et s'y substitueront à compter de son entrée en vigueur.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000050028370" datesignatexte="2024-05-17" id="KALIARTI000050028376" naturetexte="Avenant" nortexte="ASET2450545M" num="2" numtexte="" sens="cible" typelien="MODIFIE">Prévention et signalement des violences et harc... - art. 2 (VNE)</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000018485207" naturetexte="CODE" nortexte="" num="D2231-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. D2231-2</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901802" naturetexte="CODE" nortexte="" num="L2261-24" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-24</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005690467</ID>
+<TITRE_TA>Garanties individuelles</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="1993-12-07" etat="REMPLACE" fin="1994-06-21" id="KALIARTI000005767396" num="5" origine="KALI"/>
+<LIEN_ART debut="1994-10-15" etat="REMPLACE" fin="2022-06-01" id="KALIARTI000005767398" num="5" origine="KALI"/>
+<LIEN_ART debut="2022-06-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000046573808" num="5" origine="KALI"/>
+<LIEN_ART debut="1993-12-07" etat="MODIFIE" fin="1994-10-15" id="KALIARTI000005767397" num="5" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640445" date_publi="2999-01-01" date_signature="1993-06-14" nature="ACCORD" nor="ASET9351333M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Travail intermittent dans le secteur scolaire" debut="1993-12-07" fin="2999-01-01" id_txt="KALITEXT000005640445">Accord du 14 juin 1993 relatif au travail intermittent dans le secteur scolaire </TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

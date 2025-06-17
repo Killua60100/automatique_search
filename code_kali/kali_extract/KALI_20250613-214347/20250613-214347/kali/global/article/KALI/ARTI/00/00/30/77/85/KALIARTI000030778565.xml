@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000030778565</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/30/77/85/KALIARTI000030778565.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>10</NUM>
+<TITRE>Durée. – Révision. – Dénonciation</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2015-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000030778532" date_publi="2999-01-01" date_signature="2014-12-15" nature="Accord" nor="ASET1550422M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Prévoyance" debut="2015-01-01" fin="2999-01-01" id_txt="KALITEXT000030778532">Accord du 15 décembre 2014 relatif au régime de prévoyance</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635550" date_publi="2000-03-01" etat="VIGUEUR_ETEN" nature="IDCC" num="2098" titre="Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire du 13 août 1999" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635550.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2015-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000030778565" num="10" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Sans préjudice des dispositions de l'article L. 912-1 du code de la sécurité sociale et des termes de l'article 8 susvisé, le présent accord est conclu pour une durée indéterminée.<br/>
+<br/>
+Il pourra faire l'objet d'une révision, conformément aux articles L. 2261-7 du code du travail, à la demande de l'une ou l'autre des parties signataires, sous réserve qu'une demande motivée soit transmise à chacune des parties signataires.<br/>
+<br/>
+L'accord pourra également être dénoncé par l'une des parties signataires, moyennant le respect d'un préavis de 6 mois.<br/>
+<br/>
+<em>Les modalités de dénonciation sont fixées par les articles L. 2261-10 et suivants du code du travail. Toutefois, les nouvelles négociations devront être engagées dans le mois de la signification de la dénonciation</em>
+ (1).<br/>
+<br/>
+Le protocole technique annexé au présent accord et indivisible de ce dernier pourra être révisé et dénoncé dans les mêmes conditions.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Le 4e alinéa de l'article 10 est étendu sous réserve de l'application combinée des dispositions des articles L. 2261-9 et L. 2261-10 du code du travail.<br/>
+(Arrêté du 11 décembre 2015 - art. 1)</em>
+</font>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901788" naturetexte="CODE" nortexte="" num="L2261-10" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-10</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006901785" naturetexte="CODE" nortexte="" num="L2261-7" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-7</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000006745472" naturetexte="CODE" nortexte="" num="L912-1" numtexte="" sens="source" typelien="CITATION">Code de la sécurité sociale. - art. L912-1</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

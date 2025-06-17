@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000028343094</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/28/34/30/KALIARTI000028343094.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Durée de l'accord « Dispositif des films de la diversité »</TITRE>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>SALAIRES</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-10-08</DATE_DEBUT>
+<DATE_FIN>2020-04-11</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="KALISCTA000028053375">ANNEXES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2020-04-11" id="KALISCTA000028059898">Annexe III : Techniciens de la production cinématographique - Intéressement aux recettes d'exploitation&#13;
+&#13;
+</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2013-10-08" etat="ABROGE" fin="2020-04-11" id="KALIARTI000028343094" num="7" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2013-10-08" id="KALIARTI000028053410" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le présent accord annexé à la convention collective nationale de la production cinématographique est conclu pour une durée de 5 ans sans clause de tacite reconduction son extension et sa publication au Journal officiel. <br/>
+<br/>Les partenaires sociaux se réunissent au cours de la 5e année pour examiner l'opportunité de modifier ou de proroger cette dérogation. <br/>
+<br/>Durant cette période, les partenaires sociaux étudieront avec les pouvoirs publics l'amélioration du financement des films entrant dans le cadre de l'annexe III. <br/>
+<br/>Toute dénonciation antérieure à la date prévue par le précédent alinéa du présent article vaut dénonciation du titre II''Personnels techniques''de la convention collective nationale de la production cinématographique. <br/>
+<br/>La dénonciation du titre II''Personnels techniques''de la convention collective nationale de la production cinématographique vaut dénonciation du présent accord.<br/>
+</p>
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="KALITEXT000041698920" datesignatexte="2019-10-25" id="KALIARTI000041698928" naturetexte="Avenant" nortexte="ASET1951432M" num="4" numtexte="" sens="source" typelien="ABROGATION">Modification des titres Ier et II de la convention - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000028319313" datesignatexte="2013-10-08" id="KALIARTI000028319322" naturetexte="Avenant" nortexte="ASET1351117M" num="3" numtexte="" sens="cible" typelien="MODIFIE">Modification de la convention - art. 3 (VNE)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

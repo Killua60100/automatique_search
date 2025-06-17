@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051367203</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/36/72/KALIARTI000051367203.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>3</NUM>
+<TITRE>Modification de l'article 8</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-01-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051367197" date_publi="2025-03-24" date_signature="2025-01-14" nature="Avenant" nor="ASET2550159M" num="3" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime de prévoyance collectif" debut="2025-01-01" fin="2999-01-01" id_txt="KALITEXT000051367197">Avenant n° 3 du 14 janvier 2025 à l'accord du 19 octobre 2021 relatif au régime de prévoyance collectif</TITRE_TXT>
+
+
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635594" date_publi="2005-01-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1483" titre="Convention collective nationale du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987, révisée par avenant du 17 juin 2004" url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635594.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051367203" num="3" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Les tableaux figurant à l'article 8.2 « Modalités de cotisation dans le cadre du contrat souscrit auprès des organismes recommandés » tels que modifiés par l'avenant n° 1 du 15 décembre 2022 sont annulés et remplacés par les suivants : </p>
+<p align="center">« Financement des garanties des salariés cadres et agents de maîtrise </p>
+<br/>
+
+<table border="1">
+<tbody>
+<tr>
+<th colspan="3">Cadres et agents de maîtrise </th>
+</tr>
+<tr>
+<th rowspan="2">Garanties </th>
+<th colspan="2">Taux contractuels </th>
+</tr>
+<tr>
+<th>Tranche 1 </th>
+<th>Tranche 2 limitée à 4 PASS </th>
+</tr>
+<tr>
+<td>Capitaux décès/ PTIA </td>
+<td align="center">0,72 % </td>
+<td/>
+</tr>
+<tr>
+<td>Double effet </td>
+<td align="center">0,02 % </td>
+<td/>
+</tr>
+<tr>
+<td>Frais d'obsèques </td>
+<td align="center">0,05 % </td>
+<td/>
+</tr>
+<tr>
+<td>Rente éducation/ rente de conjoint substitutive </td>
+<td align="center">0,09 % </td>
+<td align="center">0,09 % </td>
+</tr>
+<tr>
+<td>Incapacité de travail temporaire </td>
+<td align="center">0,31 % </td>
+<td align="center">0,31 % </td>
+</tr>
+<tr>
+<td>Invalidité permanente </td>
+<td align="center">0,30 % </td>
+<td align="center">0,30 % </td>
+</tr>
+<tr>
+<td>Assistance </td>
+<td align="center">0,01 % </td>
+<td/>
+</tr>
+<tr>
+<td>
+<strong>Total </strong>
+</td>
+<td align="center">
+<strong>1,50 % </strong>
+</td>
+<td align="center">
+<strong>0,70 % </strong>
+</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+<p align="center">Financement des garanties des employés </p>
+<br/>
+
+<table border="1">
+<tbody>
+<tr>
+<th colspan="3">Employés </th>
+</tr>
+<tr>
+<th align="center" rowspan="2">Garanties </th>
+<th align="center" colspan="2">Taux contractuels </th>
+</tr>
+<tr>
+<th align="center">Tranche 1 </th>
+<th align="center">Tranche 2 limitée à 4 PASS </th>
+</tr>
+<tr>
+<td>Capitaux décès/ PTIA </td>
+<td align="center">0,08 % </td>
+<td align="center">0,08 % </td>
+</tr>
+<tr>
+<td>Double effet </td>
+<td align="center">0,01 % </td>
+<td align="center">0,01 % </td>
+</tr>
+<tr>
+<td>Frais d'obsèques </td>
+<td align="center">0,02 % </td>
+<td align="center">0,02 % </td>
+</tr>
+<tr>
+<td>Rente éducation/ rente de conjoint substitutive </td>
+<td align="center">0,08 % </td>
+<td align="center">0,08 % </td>
+</tr>
+<tr>
+<td>Incapacité de travail temporaire </td>
+<td align="center">0,24 % </td>
+<td align="center">0,25 % </td>
+</tr>
+<tr>
+<td>Invalidité permanente </td>
+<td align="center">0,23 % </td>
+<td align="center">0,23 % </td>
+</tr>
+<tr>
+<td>Assistance </td>
+<td align="center">0,01 % </td>
+<td/>
+</tr>
+<tr>
+<td>
+<strong>Total </strong>
+</td>
+<td align="center">
+<strong>0,67 % </strong>
+</td>
+<td align="center">
+<strong>0,67 %</strong>
+</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000045110651" datesignatexte="2021-10-19" id="KALIARTI000051377674" naturetexte="Accord" nortexte="ASET2151102M" num="8" numtexte="" sens="source" typelien="MODIFIE">Régime de prévoyance collectif - art. 8 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000005733068</ID>
+<TITRE_TA>Cotisations</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2000-11-01" etat="REMPLACE" fin="2025-06-08" id="KALIARTI000005873501" num="2" origine="KALI"/>
+<LIEN_ART debut="2025-06-08" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051727293" num="2" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005688628" date_publi="2999-01-01" date_signature="2000-07-13" nature="ACCORD" nor="ASET0050586M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Création d'une association paritaire" debut="2000-11-01" fin="2999-01-01" id_txt="KALITEXT000005688628">Accord du 13 juillet 2000 relatif à la création d'une association paritaire</TITRE_TXT>
+
+
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

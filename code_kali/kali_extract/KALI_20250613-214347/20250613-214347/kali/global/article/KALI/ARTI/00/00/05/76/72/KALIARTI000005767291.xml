@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767291</ID>
+<ANCIEN_ID>KGOAAXXXXXX00008XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/72/KALIARTI000005767291.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>8</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>1996-03-18</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690409">Détachement temporaire</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-09-01" etat="REMPLACE" fin="2024-04-01" id="KALIARTI000026606522" num="8" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2001-09-19" etat="REMPLACE" fin="2012-09-01" id="KALIARTI000020544431" num="8" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="1996-03-18" id="KALIARTI000005767291" num="8" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1996-03-18" etat="REMPLACE" fin="2001-09-19" id="KALIARTI000005767292" num="8" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2024-04-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050141957" num="8" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   Tout salarié peut être appelé, dans l'intérêt du service, à travailler dans un établissement différent de son lieu d'affectation habituel pour une période de courte durée dans la même fonction.<br/>
+<br/>   A l'issue de cette période, le salarié réintégrera son lieu d'affectation antérieur.<br/>
+<br/>   Le maximum de la période de détachement est fixé à six jours ouvrables. Toute prolongation ne peut avoir lieu qu'avec l'accord de l'intéressé.<br/>
+<br/>   Le nombre de périodes distinctes de détachement temporaire ne peut excéder trois par mois ou sept par trimestre et trente jours ouvrables dans ce trimestre. Tout salarié détaché temporairement sera remboursé de ses frais supplémentaires éventuels de transports sur une base convenue à l'avance. En outre, il recevra une prime exceptionnelle de détachement temporaire fixée dans l'entreprise.<br/>
+<br/>   Les dispositions du présent article ne concernent pas les détachements temporaires liés à la fermeture provisoire (totale ou partielle) d'une exploitation, notamment pour cause de congé ou chômage partiel de l'entreprise cliente, ni le personnel dont le contrat de travail a inclus l'obligation permanente de déplacement (tournant).<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+<LIEN cidtexte="KALITEXT000026563112" datesignatexte="2012-06-04" id="KALIARTI000026563119" naturetexte="Avenant" nortexte="ASET1251129M" num="4" numtexte="49" sens="cible" typelien="CITATION">Revalorisation des primes - art. 4 (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000030682296" datesignatexte="2015-01-27" id="KALIARTI000030682309" naturetexte="Avenant" nortexte="ASET1550345M" num="6.2" numtexte="51" sens="cible" typelien="CITATION">Salaires, primes et rémunération des contrats d... - art. 6.2 (VE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

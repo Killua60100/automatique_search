@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000042252591</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/42/25/25/KALIARTI000042252591.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>10</NUM>
+<TITRE>Durée de validité de l'annexe III</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2020-04-11</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2999-01-01" fin="2999-01-01" id="KALISCTA000028053375">ANNEXES</TITRE_TM>
+<TM>
+<TITRE_TM debut="2020-04-11" fin="2999-01-01" id="KALISCTA000042252611">Annexe III : Techniciens de la production cinématographique - Intéressement aux recettes d'exploitation</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000028059838" date_publi="2013-08-01" etat="VIGUEUR_ETEN" nature="IDCC" num="3097" titre="Convention collective nationale de la production cinématographique du 19 janvier 2012" url="conteneur/KALI/CONT/00/00/28/05/98/KALICONT000028059838.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-04-11" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000042252591" num="10" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le dispositif de l'annexe III « Intéressement aux recettes d'exploitation » de la CCNPC est applicable pour une durée de 5 ans à compter de l'extension du présent avenant et au plus tard, à compter de l'expiration de l'annexe III telle que prévue par l'avenant du 8 octobre 2013, étendu et publié au Journal officiel le 10 avril 2015, soit à compter du 11 avril 2020, sans clause de tacite reconduction.</p>
+<p align="left">Il est précisé que les règles applicables à la société de production lors de l'octroi de la dérogation et lors de la confirmation de la dérogation sont celles qui étaient en vigueur au moment du dépôt de la demande de dérogation.<br/>
+Les partenaires sociaux se réunissent au cours de la 4e année pour examiner l'opportunité de proroger ou de modifier cette dérogation.</p>
+<p align="left">Durant cette période, les partenaires sociaux étudieront avec les pouvoirs publics l'amélioration du financement des films entrant dans le cadre de l'annexe III.</p>
+<p align="left">Toute dénonciation antérieure à la date prévue par le précédent alinéa du présent article vaut dénonciation du titre II « Personnels technique » de la convention collective nationale de la production cinématographique.</p>
+<p align="left">La dénonciation du titre II « Personnels technique » de la convention collective nationale de la production cinématographique vaut dénonciation du présent accord.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000041698920" datesignatexte="2019-10-25" id="KALIARTI000041698928" naturetexte="Avenant" nortexte="ASET1951432M" num="4" numtexte="" sens="cible" typelien="CREE">Modification des titres Ier et II de la convention - art. 4 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

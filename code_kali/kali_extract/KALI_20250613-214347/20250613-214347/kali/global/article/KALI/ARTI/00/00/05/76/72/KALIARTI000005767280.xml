@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005767280</ID>
+<ANCIEN_ID>KGOAAXXXXXX00001XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/76/72/KALIARTI000005767280.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>1</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS>
+<CALIPSO>CHAMP_APPLICATION</CALIPSO>
+</CALIPSOS>
+<HISTORIQUE/>
+<DATE_DEBUT>1984-02-17</DATE_DEBUT>
+<DATE_FIN>1997-07-05</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005640427" date_publi="2999-01-01" date_signature="1983-06-20" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 20 juin 1983" debut="1984-02-17" fin="2999-01-01" id_txt="KALITEXT000005640427">Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1984-02-17" fin="2999-01-01" id="KALISCTA000005690401">Champ d'application</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635418" date_publi="1984-02-17" etat="VIGUEUR_ETEN" nature="IDCC" num="1266" titre="Convention collective nationale du personnel des entreprises de restauration de collectivités du 20 juin 1983. Etendue par arrêté du 2 février 1984 JONC 17 février 1984" url="conteneur/KALI/CONT/00/00/05/63/54/KALICONT000005635418.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1984-02-17" etat="REMPLACE" fin="1997-07-05" id="KALIARTI000005767280" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="MODIFIE">
+<LIEN_ART debut="1995-06-16" etat="MODIFIE" fin="1997-07-05" id="KALIARTI000005767281" num="1" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="1997-07-05" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005767282" num="1er" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>   La présente convention collective nationale conclue en application du titre Ier du code du travail, tel qu'il résulte de la loi n° 82-95 du 13 novembre 1982 règle les rapports entre l'ensemble des employeurs et des salariés travaillant en France métropolitaine dans les catégories suivantes : <br/>
+<br/>   - restauration d'entreprise ;<br/>
+<br/>   - restauration hospitalière ;<br/>
+<br/>   - restauration scolaire ;<br/>
+<br/>   Ces trois activités de restauration sont répertoriées au n° 67-02 de la nomenclature d'activités et de produits résultant du décret n° 73-1036 du 9 novembre 1973.<br/>
+<br/>   Elle s'applique aux autres activités de restauration présente et à venir relevant du n° 67-02, notamment la restauration dans les résidences, services ou troisième âge et les centres de vacances dont les parties devront définir les particularimes dans le cadre d'un avenant spécifique à négocier dans les douze mois.<br/>
+<br/>   Elle s'applique au personnel administratif des sièges sociaux et bureaux régionaux.<br/>
+<br/>   Les dispositions légales ou conventionnelles globalement plus favorables qui interviendraient dans le cadre des mesures prévues par la présente convention se substitueraient à celle-ci, ou feraient l'objet d'une adaptation, mais ne pourraient se cumuler.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-20 en vigueur le 17 février 1984 étendue par arrêté du 2 février 1984 JONC 17 février 1984</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

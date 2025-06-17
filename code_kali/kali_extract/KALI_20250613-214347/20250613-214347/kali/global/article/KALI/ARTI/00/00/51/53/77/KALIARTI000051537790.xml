@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000051537790</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/51/53/77/KALIARTI000051537790.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM/>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-04-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000051537781" date_publi="2025-04-30" date_signature="2025-01-16" nature="Avenant" nor="ASET2550226M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de santé harmonisé" debut="2025-04-01" fin="2999-01-01" id_txt="KALITEXT000051537781">Avenant du 16 janvier 2025 à l'accord du 30 novembre 2023 relatif au régime frais de santé harmonisé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-04-01" fin="2999-01-01" id="KALISCTA000051537784">Préambule</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635691" date_publi="1993-11-01" etat="VIGUEUR_ETEN" nature="IDCC" num="1747" titre="Convention collective nationale des activités industrielles de boulangerie et pâtisserie du 13 juillet 1993. Mise à jour par avenant n°10 du 11 octobre 2011" url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635691.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-04-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051537790" num="" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<em>Chaque année les partenaires sociaux de la branche bénéficient d'une présentation des comptes du régime frais de santé.</em>
+ (1)
+</p>
+<p align="left">
+<em>Les comptes de l'exercice 2023 du régime frais santé présente un ratio sinistre sur prime supérieur à 100 % nécessitant une hausse des cotisations.</em>
+ (1)
+</p>
+<p align="left">
+<em>Après échanges et afin de pérenniser l'équilibre du régime de branche, les partenaires sociaux conviennent de réévaluer les taux de cotisations du régime frais de santé.</em>
+ (1)
+</p>
+<p align="left">Compte tenu de la thématique du présent avenant, qui a vocation à s'appliquer à toutes les entreprises quelle que soit leur taille, les partenaires sociaux conviennent, conformément à l'article L. 2261-23-1 du code du travail, qu'il n'y a pas lieu de prévoir des dispositions spécifiques aux entreprises de moins de cinquante salariés.</p>
+<p>
+<font color="808080">
+<em>
+ (1) Alinéas exclus de l'extension en tant qu'ils contreviennent aux dispositions de l'article L. 912-1 du code de la sécurité sociale. En l'absence de recommandation, les parties sont libres de fixer des taux de cotisation et des niveaux de garantie, mais elles ne sauraient piloter un régime mutualisé qui n'a pas d'existence conventionnelle au sein de la branche. <br/>
+(Arrêté du 16 mai 2025 - art. 1)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000035608942" naturetexte="CODE" nortexte="" num="L2261-23-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L2261-23-1</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

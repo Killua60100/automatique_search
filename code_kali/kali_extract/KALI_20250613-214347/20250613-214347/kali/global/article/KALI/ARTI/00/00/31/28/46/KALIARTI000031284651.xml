@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000031284651</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/31/28/46/KALIARTI000031284651.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Maintien de la couverture obligatoire et des couvertures optionnelles en cas de suspension du contrat de travail</TITRE>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2016-01-01</DATE_DEBUT>
+<DATE_FIN>2023-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000031284609" date_publi="2015-10-08" date_signature="2015-07-03" nature="Accord" nor="ASET1550778M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Régime frais de santé" debut="2016-01-01" fin="2999-01-01" id_txt="KALITEXT000031284609">Accord du 3 juillet 2015 relatif au régime frais de santé</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2016-01-01" fin="2999-01-01" id="KALISCTA000031284624">Dispositions communes à la couverture du socle de garanties obligatoires et aux couvertures de garanties optionnelles</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635252" date_publi="1993-06-02" etat="VIGUEUR_ETEN" nature="IDCC" num="1631" titre="Convention collective nationale de l'hôtellerie de plein air du 2 juin 1993" url="conteneur/KALI/CONT/00/00/05/63/52/KALICONT000005635252.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2023-01-01" id="KALIARTI000031284651" num="7" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2023-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000047337269" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">
+<br/>L'adhésion du salarié à la couverture du socle obligatoire et, le cas échéant, à l'une des couvertures optionnelles est maintenue en cas de suspension de son contrat de travail, quelle qu'en soit la cause, dès lors qu'il bénéficie, pendant cette période, d'un maintien de salaire, total ou partiel, d'indemnités journalières complémentaires, de rentes d'invalidité et/ou d'indemnités journalières de sécurité sociale.<br/>Ce maintien dans les conditions visées ci-dessus est également applicable aux ayants droit du salarié bénéficiaires dans le cadre d'une extension facultative de la couverture du socle obligatoire et, le cas échéant, d'une des couvertures optionnelles.<br/>Dans une telle hypothèse, l'entreprise verse une contribution calculée selon les règles applicables à l'ensemble du personnel pendant toute la période de suspension du contrat de travail indemnisée.<br/>Le bénéfice des garanties est en revanche suspendu pour le salarié pendant la période de suspension de son contrat de travail ne donnant pas lieu à rémunération ou indemnisation dans les conditions mentionnées ci-dessus (congé parental, congé sabbatique, congé de soutien familial, congé de solidarité familiale, etc.).<br/>Dans ce cas-là, le salarié pourra demander le bénéfice des garanties moyennant le paiement de l'intégralité de la cotisation par ses soins.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+<LIEN cidtexte="KALITEXT000047331676" datesignatexte="2022-12-30" id="KALIARTI000047331695" naturetexte="Avenant" nortexte="ASET2350080M" num="5" numtexte="5" sens="cible" typelien="CITATION">Régime frais de santé - art. 5 (VE)</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SECTION_TA>
+<ID>KALISCTA000028053378</ID>
+<TITRE_TA>Chapitre III Dialogue social</TITRE_TA>
+<STRUCTURE_TA>
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053435" num="7" origine="KALI"/>
+<LIEN_ART debut="2013-08-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000028053436" num="8" origine="KALI"/>
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2018-09-29" id="KALIARTI000028053437" num="9" origine="KALI"/>
+<LIEN_ART debut="2018-09-29" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038361107" num="9" origine="KALI"/>
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2025-10-01" id="KALIARTI000028053440" num="10" origine="KALI"/>
+<LIEN_ART debut="2025-10-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000051728068" num="10" origine="KALI"/>
+<LIEN_ART debut="2013-08-01" etat="REMPLACE" fin="2018-09-29" id="KALIARTI000028053441" num="11" origine="KALI"/>
+<LIEN_ART debut="2018-09-29" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000038361105" num="11" origine="KALI"/>
+</STRUCTURE_TA>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000028053370" date_publi="2999-01-01" date_signature="2012-01-19" nature="Convention collective nationale " nor="ASET1350988M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la production cinématographique du 19 janvier 2012" debut="2013-08-01" fin="2999-01-01" id_txt="KALITEXT000028053370">Convention collective nationale de la production cinématographique du 19 janvier 2012</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2013-08-01" fin="2999-01-01" id="KALISCTA000028053372">Titre Ier Dispositions communes</TITRE_TM>
+</TM>
+</TEXTE>
+
+</CONTEXTE>
+</SECTION_TA>

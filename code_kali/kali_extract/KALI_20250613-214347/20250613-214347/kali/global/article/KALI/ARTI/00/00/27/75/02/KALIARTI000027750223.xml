@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000027750223</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/27/75/02/KALIARTI000027750223.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>47</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2013-02-21</DATE_DEBUT>
+<DATE_FIN>2018-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-03" fin="2999-01-01" id="KALISCTA000005750746">Section 6 : Parentalité, maladie et invalidité</TITRE_TM>
+<TM>
+<TITRE_TM debut="2005-02-03" fin="2999-01-01" id="KALISCTA000005761322">Rente éducation</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2008-01-01" etat="REMPLACE" fin="2013-02-21" id="KALIARTI000018979406" num="47" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2019-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000039201640" num="47" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2005-02-03" etat="REMPLACE" fin="2008-01-01" id="KALIARTI000005841413" num="47" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2018-01-01" etat="REMPLACE" fin="2019-01-01" id="KALIARTI000038195011" num="47" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2013-02-21" etat="REMPLACE" fin="2018-01-01" id="KALIARTI000027750223" num="47" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>En cas de décès du salarié, pour tout autre cause que celle visée à l'article 48.2 « Exclusions » de la convention collective nationale de la pâtisserie, ou à la date à laquelle il est reconnu par la sécurité sociale en état d'invalidité de 3e catégorie ou atteint d'une incapacité permanente professionnelle d'un taux de 100 % (Etat d'IAD-Invalidité absolue et définitive), il est versé au profit de chaque enfant à charge une rente temporaire dont le montant est égal à :</p>
+<p>– jusqu'au 16e anniversaire du bénéficiaire : 10 % du salaire brut de référence <font color="#808080">
+<em>(*)</em>
+</font> ;</p>
+<p>– du 16e au 19e anniversaire du bénéficiaire : 12 % du salaire de référence <font color="#808080">
+<em>(*)</em>
+</font> ;</p>
+<p>– du 19e au 26e anniversaire du bénéficiaire : 12 % du salaire de référence <font color="#808080">
+<em>(*)</em>
+</font>.</p>
+<p>
+<font color="#808080">
+<em>(*) Le salaire annuel de référence servant de base au calcul des prestations est égal au salaire mensuel brut qu'aurait perçu l'intéressé s'il avait normalement poursuivi son activité, dans la limite de 4 fois le plafond mensuel de la sécurité sociale.</em>
+</font>
+</p>
+<p>A la date d'entrée en vigueur du présent avenant, le montant annuel de la rente éducation ne pourra être inférieur à 2 160 €.</p>
+<p>La rente est doublée pour les orphelins de père et de mère.</p>
+<p>Elle est versée sans limitation de durée au bénéficiaire lorsque l'enfant à charge au moment du décès du participant est reconnue en invalidité équivalente à l'invalidité de 2e ou 3e catégorie de la sécurité sociale justifiée par un avis médical ou bénéficie de l'allocation d'adulte handicapé ou est titulaire de la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et de la famille.</p>
+<p>Cet état d'invalidité doit être reconnu avant la limite de versement de la rente éducation prévue contractuellement.</p>
+<p>Sont considérés comme enfants à charge :<br/>
+– tous les enfants âgés de moins de 18 ans, sans condition ;<br/>
+– les enfants âgés de moins de 26 ans révolus, sous conditions :<br/>
+–– de poursuivre des études dans un établissement d'enseignement secondaire, supérieur ou professionnel, dans le cadre d'un contrat de professionnalisation ou encore dans le cadre d'une inscription au CNED (Centre national d'enseignement à distance) ;<br/>
+–– d'être en apprentissage ;<br/>
+–– de poursuivre une formation professionnelle en alternance, dans le cadre d'un contrat d'aide à l'insertion professionnelle des jeunes associant d'une part des enseignements généraux professionnels ou technologiques dispensés pendant le temps de travail, dans des organismes publics ou privés de formation et, d'autre part, l'acquisition d'un savoir-faire par l'exercice en entreprise d'une ou plusieurs activités professionnelles en relation avec les enseignements reçus ;<br/>
+–– d'être, préalablement à l'exercice d'un premier emploi rémunéré, inscrits auprès du régime d'assurance chômage comme demandeurs d'emploi ou stagiaires de la formation professionnelle ;<br/>
+–– d'être employé dans un ESAT (établissement et service d'aide par le travail) ou dans un atelier protégé en tant que travailleurs handicapés.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000027727589" datesignatexte="2013-02-21" id="KALIARTI000027727593" naturetexte="Avenant" nortexte="ASET1350685M" num="1er" numtexte="77" sens="cible" typelien="MODIFIE">Régime de prévoyance - art. 1er (VNE)</LIEN>
+
+<LIEN cidtexte="LEGITEXT000006074069" datesignatexte="2999-01-01" id="LEGIARTI000006797041" naturetexte="CODE" nortexte="" num="L241-3" numtexte="" sens="source" typelien="CITATION">Code de l'action sociale et des familles - art. L241-3 (V)</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

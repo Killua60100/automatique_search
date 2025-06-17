@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000050027976</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/50/02/79/KALIARTI000050027976.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>7</NUM>
+<TITRE>Positionnement des CQP dans la grille de classification de la convention collective nationale du caoutchouc</TITRE>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2025-07-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE>AUTONOME</TYPE>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000050027943" date_publi="2024-07-18" date_signature="2024-05-22" nature="Accord" nor="ASET2450548M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="CQP et CQPI" debut="2025-07-01" fin="2999-01-01" id_txt="KALITEXT000050027943">Accord du 22 mai 2024 relatif aux CQP et aux CQPI</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2025-07-01" fin="2999-01-01" id="KALISCTA000050027948">Chapitre 2 Certificats de qualification professionnelle (CQP)</TITRE_TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635597" date_publi="1953-03-06" etat="VIGUEUR_ETEN" nature="IDCC" num="45" titre="Convention collective nationale du caoutchouc du 6 mars 1953. Étendue par arrêté du 29 mai 1969 JORF 18 juin 1969 " url="conteneur/KALI/CONT/00/00/05/63/55/KALICONT000005635597.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2025-07-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000050027976" num="7" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p align="left">Le positionnement des CQP dans la grille de classification de la convention collective nationale du caoutchouc est fixé, pour chaque CQP de la branche du caoutchouc existant au jour de la signature du présent accord, dans la fiche synthétique figurant en annexe du présent accord.</p>
+<p align="left">Pour les CQP créés postérieurement à la signature du présent accord, leur positionnement dans la grille de classification de la convention collective nationale du caoutchouc est fixé, par décision de la CPNEFP de la branche du caoutchouc, et figure dans sa fiche analytique annexée au procès-verbal de la réunion de la CPNEFP.</p>
+<p align="left">Sans remise en cause des principes de la classification, les organisations professionnelles d'employeurs et les organisations syndicales de salariés représentatives au niveau de la branche du caoutchouc rappellent de la nécessité de procéder à un examen du positionnement de l'emploi occupé par un salarié, au regard de la grille des classifications, lorsque cet emploi évolue à la demande de l'employeur avec la mise en œuvre de nouvelles compétences requises dans l'emploi et acquises lors de l'obtention du CQP requis pour l'emploi.</p>
+<p align="left">Aussi, lorsque le titulaire du CQP est déjà positionné à un coefficient de la grille de classification de la convention collective nationale du caoutchouc égal ou supérieur au coefficient de positionnement du CQP dans ladite grille, l'employeur reçoit, dans les 30 jours suivant l'obtention du CQP, le salarié afin d'étudier les possibilités d'un nouveau positionnement de son poste dans le respect des principes de la classification.</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>

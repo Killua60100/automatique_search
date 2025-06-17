@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017869771</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/86/97/KALIARTI000017869771.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>19.2</NUM>
+<TITRE/>
+
+<ETAT>ABROGE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2017-05-15</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2007-04-04" fin="2015-07-29" id="KALISCTA000020752005">Contrat à temps partiel</TITRE_TM>
+<TITRE_TM debut="2008-09-01" fin="2017-05-15" id="KALISCTA000031306827">Contrat à temps partiel</TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2017-05-15" id="KALISCTA000020752007">Organisation du temps partiel</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="ABROGE">
+<LIEN_ART debut="2008-09-01" etat="ABROGE" fin="2017-05-15" id="KALIARTI000017869771" num="19.2" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>
+<p>La durée du travail à temps partiel peut être répartie sur la semaine, le mois ou l'année en fonction des nécessités imposées par le fonctionnement de l'entreprise. <br/>Lorsque, au cours d'une période de 12 semaines consécutives, ou de 12 semaines comprises dans une période de 15 semaines, l'horaire moyen réellement effectué par le salarié aura dépassé de 2 heures au moins par semaine ou de l'équivalent mensuel ou annuel de cette durée l'horaire prévu au contrat, celui-ci devra être modifié, sauf opposition du salarié concerné. Il devra être ajouté à l'horaire fixé au contrat la différence par rapport à l'horaire réellement effectué. <br/>Cette modification intervient avec un préavis de 7 jours. <br/>
+<i>Pour tenir compte des heures d'ouverture des magasins, la durée maximale de coupure entre 2 périodes de travail est fixée à 4 heures pour le personnel de vente. <br/>Pour le personnel affecté à la plonge et l'entretien, il est possible de prévoir 2 périodes de travail distinctes dans la limite de l'amplitude de 12 heures applicables dans la profession.</i>  (1)
+</p>
+<p>
+<font color="808080">
+<em>
+ (1) Alinéas exclus de l'extension comme étant contraires aux dispositions de l'article L. 3123-16 du code du travail (anciennement article L. 212-4-4, dernier alinéa) aux termes desquelles des contreparties doivent être prévues pour les salariés à temps partiel soumis à une interruption d'activité ou à une interruption supérieure à deux heures au sein d'une même journée de travail.  <br/>(Arrêté du 30 juillet 2008, art. 1er)</em>
+</font>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+
+
+<LIEN cidtexte="KALITEXT000031284564" datesignatexte="2015-04-08" id="KALIARTI000031284570" naturetexte="Avenant" nortexte="ASET1550769M" num="2" numtexte="25" sens="cible" typelien="ABROGE">Travail à temps partiel - art. 2 (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

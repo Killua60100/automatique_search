@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000038194933</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/38/19/49/KALIARTI000038194933.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>57</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2017-10-01</DATE_DEBUT>
+<DATE_FIN>2020-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957027">Chapitre VII : Régime frais de santé</TITRE_TM>
+<TM>
+<TITRE_TM debut="2009-10-27" fin="2999-01-01" id="KALISCTA000021957152">Garanties</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-10-01" etat="REMPLACE" fin="2013-01-17" id="KALIARTI000026902950" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2020-01-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000039383435" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2020-01-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000041692090" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2017-10-01" etat="REMPLACE" fin="2020-01-01" id="KALIARTI000038194933" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2009-10-27" etat="REMPLACE" fin="2012-10-01" id="KALIARTI000021957162" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2012-10-01" etat="REMPLACE" fin="2016-01-01" id="KALIARTI000027750139" num="57" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="2016-01-01" etat="REMPLACE" fin="2017-10-01" id="KALIARTI000032853913" num="57" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Les garanties du présent régime sont établies sur la base de la législation et de la réglementation de l'assurance maladie en vigueur au moment de sa prise d'effet. Elles seront revues, le cas échéant, sans délai en cas de changement de ces textes.</p>
+<p>Les parties signataires pourront également convenir d'une révision des cotisations en tout ou partie à cette occasion.</p>
+<p>Sont couverts tous les actes et frais courant sur la période de garantie ayant fait l'objet d'un remboursement et d'un décompte individualisé du régime de base de la sécurité sociale au titre de la législation maladie, accidents du travail, maladies professionnelles et maternité ainsi que les actes et frais non pris en charge par ce régime, expressément mentionnés dans le tableau des garanties visé ci-après.</p>
+<p>Les garanties maternité prévues au présent régime n'interviennent que pendant la période au cours de laquelle l'assurée reçoit des prestations en nature de la sécurité sociale au titre du risque maternité.</p>
+<p align="center">
+<br/>
+Prestations complémentaires à la sécurité sociale</p>
+<p>(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)</p>
+<p>
+ http :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2018/0043/ boc _ 20180043 _ 0000 _ 0014. pdf 
+</p>
+<p align="left">Pour toutes les dispositions ci-dessus, l'annualité est appréciée par année civile. La part non consommée une année n'est pas reportée l'année suivante.</p>
+
+<br/>
+
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="KALITEXT000026804217" datesignatexte="2012-06-19" id="KALIARTI000026804221" naturetexte="Avenant" nortexte="ASET1251256M" num="1er" numtexte="76" sens="cible" typelien="CITATION">Frais de soins de santé - art. 1er (VE)</LIEN>
+<LIEN cidtexte="KALITEXT000038184047" datesignatexte="2017-11-15" id="KALIARTI000038184051" naturetexte="Avenant" nortexte="ASET1851057M" num="1er" numtexte="87" sens="cible" typelien="MODIFIE">Régime de frais de soins de santé - art. 1er (VNE)</LIEN>
+
+</LIENS>
+
+
+
+</ARTICLE>

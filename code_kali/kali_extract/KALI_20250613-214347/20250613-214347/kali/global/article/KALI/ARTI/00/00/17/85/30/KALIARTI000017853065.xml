@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000017853065</ID>
+<ANCIEN_ID/>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/17/85/30/KALIARTI000017853065.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>9</NUM>
+<TITRE/>
+
+<ETAT>VIGUEUR_ETEN</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>2008-09-01</DATE_DEBUT>
+<DATE_FIN>2999-01-01</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000017842201" date_publi="2999-01-01" date_signature="2007-04-04" nature="Convention collective nationale " nor="ASET0750634M" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale de la charcuterie de détail du 4 avril 2007" debut="2007-04-04" fin="2999-01-01" id_txt="KALITEXT000017842201">Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000017842325">Convention collective </TITRE_TM>
+<TM>
+<TITRE_TM debut="2008-09-01" fin="2999-01-01" id="KALISCTA000020751668">Ancienneté</TITRE_TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635375" date_publi="2007-04-04" etat="VIGUEUR_ETEN" nature="IDCC" num="953" titre="Convention collective nationale de la charcuterie de détail du 1er décembre 1977, réécrite par l'avenant n° 113 du 4 avril 2007" url="conteneur/KALI/CONT/00/00/05/63/53/KALICONT000005635375.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2008-09-01" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000017853065" num="9" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>Pour l'application des dispositions de la présente convention et pour ses avenants, on entend par ancienneté le temps de travail effectif accompli depuis la date de conclusion du contrat de travail en cours auxquels s'ajoutent les périodes suivantes :<br/>
+<br/>-suspension du contrat pour accident du travail ou maladie professionnelle ;<br/>
+<br/>-périodes de maladie (dans les conditions de l'article 23. 5) ;<br/>
+<br/>-congé de maternité ou d'adoption ;<br/>
+<br/>-congé de solidarité familiale, dans les conditions prévues à l'article L. 225-15 à L. 225-19 du code du travail ;<br/>
+<br/>-congé de formation ;<br/>
+<br/>-congé de formation économique, sociale et syndicale, en application de l'article L. 451-2 du code du travail ;
+<br/>
+<br/>-délais accordés dans certains cas par l'employeur aux immigrés pour faciliter leurs congés dans leur pays d'origine ;<br/>
+<br/>-périodes de service dans la réserve opérationnelle, dans les conditions prévues à l'article L. 122-24-5 à 10 du code du travail ;
+<br/>
+<br/>-congé parental d'éducation à raison de la moitié de la durée de ce congé, conformément aux articles L. 122-28-1 à 7 du code du travail ;<br/>
+<br/>-congé de présence parentale à raison de la moitié de la durée de ce congé, conformément à l'article L. 122-28-9 du code du travail ;<br/>
+<br/>-congé de solidarité familiale, conformément à l'article L. 225-18 du code du travail ;
+<br/>
+<br/>-congé de solidarité internationale, dans les conditions prévues à l'article L. 225-9 à 14 du code du travail ;<br/>
+<br/>-autres autorisations d'absences prévues par la convention collective ou par la loi et assimilées à du travail effectif au regard des avantages liés à l'ancienneté. <br/>
+<br/>Pour la détermination de l'ancienneté, on tiendra compte non seulement de la présence continue au titre du contrat en cours mais également, le cas échéant, de la durée des contrats antérieurs dans la même entreprise, à l'exclusion toutefois de ceux qui auraient été rompus pour faute grave. <br/>
+<br/>Il est entendu que cette prise en compte ne peut ouvrir droit à un nouveau paiement des indemnités de licenciement. <br/>
+<br/>La durée du contrat d'apprentissage est prise en compte en totalité.</p>
+<p>
+<br/>
+</p>
+</CONTENU>
+</BLOC_TEXTUEL>
+<CONDITION_DIFFERE>en vigueur le 1er jour du mois suivant l'extension</CONDITION_DIFFERE>
+<LIENS>
+
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006646029" naturetexte="CODE" nortexte="" num="L122-24-5" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L122-24-5</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006646791" naturetexte="CODE" nortexte="" num="L122-28-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L122-28-1</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006646077" naturetexte="CODE" nortexte="" num="L122-28-9" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L122-28-9</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006647447" naturetexte="CODE" nortexte="" num="L225-15" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L225-15</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006647454" naturetexte="CODE" nortexte="" num="L225-18" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L225-18</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006647876" naturetexte="CODE" nortexte="" num="L225-9" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L225-9</LIEN>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006649961" naturetexte="CODE" nortexte="" num="L451-2" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L451-2</LIEN>
+</LIENS>
+
+
+
+</ARTICLE>

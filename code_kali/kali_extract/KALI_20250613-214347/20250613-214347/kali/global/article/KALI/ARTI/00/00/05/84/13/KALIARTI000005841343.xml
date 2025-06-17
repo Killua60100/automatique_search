@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARTICLE>
+<META>
+<META_COMMUN>
+<ID>KALIARTI000005841343</ID>
+<ANCIEN_ID>KBCAAXXXXXX00016XAAXEXXA</ANCIEN_ID>
+<ORIGINE>KALI</ORIGINE>
+<URL>article/KALI/ARTI/00/00/05/84/13/KALIARTI000005841343.xml</URL>
+<NATURE>Article</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_ARTICLE>
+
+<NUM>16</NUM>
+<TITRE/>
+
+<ETAT>REMPLACE</ETAT>
+
+
+<CALIPSOS/>
+<HISTORIQUE/>
+<DATE_DEBUT>1983-06-30</DATE_DEBUT>
+<DATE_FIN>2005-02-03</DATE_FIN>
+<DATE_DEB_EXT>2999-01-01</DATE_DEB_EXT>
+<DATE_FIN_EXT>2999-01-01</DATE_FIN_EXT>
+<TYPE/>
+
+</META_ARTICLE>
+</META_SPEC>
+</META>
+<CONTEXTE>
+<TEXTE cid="KALITEXT000005675709" date_publi="2999-01-01" date_signature="1983-06-30" nature="Convention collective nationale " nor="" num="" num_parution_jo="">
+<TITRE_TXT c_titre_court="Convention collective nationale du 30 juin 1983" debut="1983-06-30" fin="2999-01-01" id_txt="KALITEXT000005675709">Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984.</TITRE_TXT>
+
+
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005720175">Chapitre III : Contrat de travail</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005750735">Section 1 : Engagement</TITRE_TM>
+<TM>
+<TITRE_TM debut="1983-06-30" fin="2999-01-01" id="KALISCTA000005761299">Conventions de forfait annuelles.</TITRE_TM>
+</TM>
+</TM>
+</TM>
+</TEXTE>
+<CONTENEUR cid="KALICONT000005635611" date_publi="1983-06-30" etat="VIGUEUR_ETEN" nature="IDCC" num="1267" titre="Convention collective nationale de la pâtisserie du 30 juin 1983.  Etendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984." url="conteneur/KALI/CONT/00/00/05/63/56/KALICONT000005635611.xml"/>
+</CONTEXTE>
+<VERSIONS>
+<VERSION etat="VIGUEUR_ETEN">
+<LIEN_ART debut="2005-02-03" etat="VIGUEUR_ETEN" fin="2999-01-01" id="KALIARTI000005841344" num="16" origine="KALI"/>
+</VERSION>
+<VERSION etat="REMPLACE">
+<LIEN_ART debut="1983-06-30" etat="REMPLACE" fin="2005-02-03" id="KALIARTI000005841343" num="16" origine="KALI"/>
+</VERSION>
+</VERSIONS>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>1.-Le repos compensateur sera pris dans les deux mois qui suivent l'ouverture des droits. <br/>
+<br/>Par contre, il sera possible de prendre ce repos compensateur selon la formule suivante : <br/>
+<br/>Le décompte des heures de repos compensateur dues sera arrêté au 31 décembre de chaque année. <br/>
+<br/>Le salarié est tenu informé le 15 janvier de ses droits acquis en matière de repos compensateur au cours de l'année civile précédente par une fiche annexée à son bulletin de paye. <br/>
+<br/>2.-Les heures de repos compensateur dues seront prises dans les cinq mois qui suivent l'année civile au cours de laquelle les droits ont été acquis. Ce repos qui est assimilé à une période de travail effectif pour le calcul des droits du salarié donne lieu à une indemnisation qui ne doit entraîner aucune diminution par rapport à la rémunération que le salarié aurait perçue s'il avait accompli son travail. <br/>
+<br/>3.-Quel que soit le mode choisi, et s'il n'existe pas d'accord verbal entre l'employeur et le salarié, la demande du bénéfice du repos compensateur doit être formulée par écrit par le salarié au moins un mois à l'avance. Cette demande doit préciser la date et la durée du repos. <br/>
+<br/>L'employeur doit répondre dans un délai de quinze jours à cette demande. Passé ce délai, il est réputé accepter la demande du salarié s'il n'a pas répondu. Ce repos ne peut être pris que par journée entière, chacune étant réputée correspondre à huit heures de repos compensateur. <br/>
+<br/>4.-Le repos compensateur qui n'est pas effectivement pris par le salarié ne peut faire l'objet d'une indemnité compensatrice. Seul, le salarié dont le contrat de travail est résilié avant qu'il ait pu bénéficier du repos compensateur auquel il a droit ou avant qu'il ait acquis des droits suffisants pour pouvoir prendre ce repos, reçoit une indemnité correspondant à ses droits acquis, déterminés suivant les modalités prévues ci-dessus. <br/>
+<br/>Cette indemnité est due sans qu'il y ait lieu de distinguer si cette résiliation résulte du fait du salarié ou du fait de l'employeur. <br/>
+<br/>5.-Les salariés des entreprises de dix salariés bénéficient du repos compensateur prévu par le premier alinéa de l'article L. 212-5-1 du code du travail pendant les cent trente premières heures, ils bénéficient du repos compensateur organisé par le présent article. <br/>
+<br/>6.-Les signataires du présent accord expriment leur souhait commun que l'application du repos compensateur ne favorise pas le développement du " travail au noir ".<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<LIENS>
+<LIEN cidtexte="LEGITEXT000006072050" datesignatexte="2999-01-01" id="LEGIARTI000006647821" naturetexte="CODE" nortexte="" num="L212-5-1" numtexte="" sens="source" typelien="CITATION">Code du travail - art. L212-5-1 (Ab)</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CREATION">Convention collective nationale 1983-06-30 étendue par arrêté du 29 décembre 1983 JONC 13 janvier 1984</LIEN>
+</LIENS>
+
+
+
+<INFORMATIONS_COMPLEMENTAIRES>
+<CONTENU/>
+</INFORMATIONS_COMPLEMENTAIRES>
+</ARTICLE>
